@@ -13,7 +13,7 @@ export default function SourceCard({ source, rank, focusNutrient }) {
   const primary = primaryKey ? NUTRIENTS[primaryKey] : null;
 
   return (
-    <li className="flex flex-col rounded-lg border border-line bg-white p-4">
+    <li className="flex flex-col rounded-xl border border-line bg-white p-4 shadow-sm">
       <div className="flex items-start justify-between gap-3">
         <h3 className="text-sm font-semibold leading-snug text-ink">{food_name}</h3>
         <span className="text-xs tabular-nums text-muted">#{rank}</span>
@@ -26,7 +26,9 @@ export default function SourceCard({ source, rank, focusNutrient }) {
 
       {primary && (
         <div className="mt-4 border-l-2 border-accent pl-3">
-          <p className="text-xs text-muted">{primary.label}</p>
+          <p className="text-xs font-medium uppercase tracking-[0.08em] text-muted">
+            {primary.label}
+          </p>
           <p className="text-2xl font-semibold tabular-nums text-ink">
             {formatValue(nutrition[primaryKey])}
             <span className="ml-1 text-sm font-normal text-muted">{primary.unit}</span>

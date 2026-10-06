@@ -16,7 +16,7 @@ export default function ChatInterface() {
   const [draft, setDraft] = useState("");
   const [status, setStatus] = useState("idle"); // idle | loading | success | error
   const [submitted, setSubmitted] = useState("");
-  const [result, setResult] = useState(null);
+  const [conversation, setConversation] = useState([]);
 
   const isLoading = status === "loading";
 
@@ -26,52 +26,69 @@ export default function ChatInterface() {
 
     setSubmitted(question);
     setDraft("");
-    setResult(null);
     setStatus("loading");
 
     try {
-      setResult(await askQuestion(question));
+      const result = await askQuestion(question);
+      setConversation((prev) => [
+        ...prev,
+        {
+          question,
+          answer: result.answer,
+          sources: result.sources,
+        },
+      ]);
       setStatus("success");
     } catch {
       setStatus("error");
     }
   }
 
+  const showConversation = status !== "idle";
+
   return (
-    <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-8 sm:px-6 sm:py-12">
+    <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-6 sm:px-6 sm:py-10">
       {status === "idle" && <EmptyState />}
 
-      <QuestionInput
-        value={draft}
-        onChange={setDraft}
-        onSubmit={() => ask(draft)}
-        disabled={isLoading}
-      />
-
-      {status === "idle" && <ExampleQuestions onSelect={ask} disabled={isLoading} />}
-
-      {status !== "idle" && (
-        <div className="mt-10 space-y-8">
-          <UserQuestion question={submitted} />
-
-          {isLoading && <LoadingState />}
-          {status === "error" && <ErrorState onRetry={() => ask(submitted)} />}
-
-          {status === "success" && result && (
-            <>
-              <p role="status" className="sr-only">
-                Answer ready. {result.sources.length} sources retrieved.
-              </p>
-              <AIResponse answer={result.answer} sourceCount={result.sources.length} />
+      {showConversation && (
+        <div className="space-y-6">
+          {conversation.map((entry, index) => (
+            <div key={`${entry.question}-${index}`} className="space-y-5">
+              <UserQuestion question={entry.question} />
+              <AIResponse answer={entry.answer} sourceCount={entry.sources.length} />
               <RetrievedSources
-                sources={result.sources}
-                focusNutrient={detectFocusNutrient(submitted)}
+                sources={entry.sources}
+                focusNutrient={detectFocusNutrient(entry.question)}
               />
-              {/* Future: <KnowledgeConnections graph={result.graph_context} /> */}
-            </>
+            </div>
+          ))}
+
+          {isLoading && (
+            <div className="space-y-4">
+              <UserQuestion question={submitted} />
+              <LoadingState />
+            </div>
+          )}
+
+          {status === "error" && (
+            <div className="space-y-4">
+              <UserQuestion question={submitted} />
+              <ErrorState onRetry={() => ask(submitted)} />
+            </div>
           )}
         </div>
       )}
+
+      <div className={status === "idle" ? "mt-6" : "mt-8"}>
+        <QuestionInput
+          value={draft}
+          onChange={setDraft}
+          onSubmit={() => ask(draft)}
+          disabled={isLoading}
+        />
+      </div>
+
+      {status === "idle" && <ExampleQuestions onSelect={ask} disabled={isLoading} />}
     </main>
   );
 }

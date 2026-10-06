@@ -18,3 +18,7 @@
   outline: 2px solid var(--color-accent-strong);
   outline-offset: 2px;
 }
+
+body {
+  background: #f5f7fb;
+}

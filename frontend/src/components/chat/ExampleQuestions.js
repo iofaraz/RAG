@@ -10,10 +10,13 @@ const EXAMPLES = [
 export default function ExampleQuestions({ onSelect, disabled }) {
   return (
     <section aria-labelledby="examples-heading" className="mt-6">
-      <h2 id="examples-heading" className="mb-3 text-xs font-semibold uppercase tracking-wider text-muted">
+      <h2
+        id="examples-heading"
+        className="mb-3 text-[11px] font-semibold uppercase tracking-[0.12em] text-muted"
+      >
         Try an example
       </h2>
-      <ul className="flex flex-wrap gap-2">
+      <ul className="grid gap-2 sm:grid-cols-2">
         {EXAMPLES.map((example) => (
           <li key={example}>
             <Button
@@ -21,7 +24,7 @@ export default function ExampleQuestions({ onSelect, disabled }) {
               size="sm"
               disabled={disabled}
               onClick={() => onSelect(example)}
-              className="text-left"
+              className="h-auto min-h-[42px] w-full justify-start rounded-md border border-line bg-white/80 px-3 py-2.5 text-left text-sm font-medium text-ink shadow-sm transition-all hover:border-brand/80 hover:bg-brand/5 hover:text-brand"
             >
               {example}
             </Button>

@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 export const metadata = {
   title: "Nutrivault — AI Nutrition Knowledge",
   description:
-    "Ask nutrition questions and get answers grounded in retrieved USDA food data.",
+    "Ask nutrition questions and get answers grounded in retrieved nutrition data.",
 };
 
 export default function RootLayout({ children }) {

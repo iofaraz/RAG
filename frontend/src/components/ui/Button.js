@@ -2,9 +2,9 @@ import { cn } from "@/lib/utils";
 
 const VARIANTS = {
   primary:
-    "bg-ink text-white hover:bg-brand disabled:bg-slate-300 disabled:text-slate-600",
+    "bg-brand text-white shadow-sm hover:bg-brand/90 hover:shadow-md disabled:bg-slate-300 disabled:text-slate-600",
   secondary:
-    "border border-line bg-white text-ink hover:border-brand hover:text-brand disabled:text-slate-400 disabled:hover:border-line disabled:hover:text-slate-400",
+    "border border-line bg-white text-ink hover:border-brand/80 hover:bg-brand/5 hover:text-brand disabled:text-slate-400 disabled:hover:border-line disabled:hover:bg-white disabled:hover:text-slate-400",
 };
 
 const SIZES = {

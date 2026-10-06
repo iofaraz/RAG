@@ -6,9 +6,9 @@ export default function RetrievedSources({ sources, focusNutrient }) {
 
   return (
     <section>
-      <SectionLabel>Retrieved nutrition sources</SectionLabel>
+      <SectionLabel>Supporting nutrition data</SectionLabel>
       <p className="mt-1 text-sm text-muted">
-        Sources from nutrition database · {sources.length} record
+        Based on retrieved nutrition sources · {sources.length} record
         {sources.length === 1 ? "" : "s"}
       </p>
       <ol className="mt-4 grid gap-3 sm:grid-cols-2">
