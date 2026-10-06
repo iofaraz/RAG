@@ -1,0 +1,36 @@
+Food: Yogurt, chocolate, nonfat milk, fortified with vitamin D
+Food ID: 172221
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 3.53 g
+Carbohydrates: 23.53 g
+Fat: 0 g
+Fiber: 1.2 g
+Sugar: 14.97 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 135 mg
+Potassium: 339 mg
+Calcium: 88 mg
+Iron: 0.42 mg
+Magnesium: 40 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.5 µg
+Folate: 12 µg

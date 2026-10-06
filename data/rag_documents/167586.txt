@@ -1,0 +1,25 @@
+Food: Candies, NESTLE, CHUNKY Bar
+Food ID: 167586
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 519 kcal
+Protein: 7.5 g
+Carbohydrates: 60.4 g
+Fat: 27.5 g
+Fiber: 2.5 g
+Sugar: 52.5 g
+
+Fats:
+Saturated fat: 12.5 g
+Trans fat: 0.16 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 38 mg
+Calcium: 100 mg
+Iron: 0.9 mg
+
+Vitamins:
+Vitamin C: 0 mg

@@ -1,0 +1,36 @@
+Food: Pasta with tomato-based sauce and poultry, restaurant
+Food ID: 2708843
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 171 kcal
+Protein: 5.59 g
+Carbohydrates: 17.74 g
+Fat: 8.47 g
+Fiber: 1.5 g
+Sugar: 2.26 g
+
+Fats:
+Saturated fat: 1.222 g
+Monounsaturated fat: 3.324 g
+Polyunsaturated fat: 3.14 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 382 mg
+Potassium: 161 mg
+Calcium: 15 mg
+Iron: 0.99 mg
+Magnesium: 17 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.22 mg
+Vitamin K: 11.9 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.09 µg
+Folate: 41 µg

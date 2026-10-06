@@ -1,0 +1,37 @@
+Food: Pasta, dry, enriched
+Food ID: 169736
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 13.04 g
+Carbohydrates: 74.67 g
+Fat: 1.51 g
+Fiber: 3.2 g
+Sugar: 2.67 g
+
+Fats:
+Saturated fat: 0.277 g
+Monounsaturated fat: 0.171 g
+Polyunsaturated fat: 0.564 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 223 mg
+Calcium: 21 mg
+Iron: 3.3 mg
+Magnesium: 53 mg
+Zinc: 1.41 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 0 µg
+Folate: 237 µg

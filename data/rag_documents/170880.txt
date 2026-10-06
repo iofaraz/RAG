@@ -1,0 +1,36 @@
+Food: Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D
+Food ID: 170880
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 2.99 g
+Carbohydrates: 12.13 g
+Fat: 1.9 g
+Fiber: 0.7 g
+Sugar: 9.55 g
+
+Fats:
+Saturated fat: 1.177 g
+Monounsaturated fat: 0.455 g
+Polyunsaturated fat: 0.089 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 169 mg
+Calcium: 109 mg
+Iron: 0.24 mg
+Magnesium: 14 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.024 mg
+Vitamin B12: 0.33 µg
+Folate: 2 µg

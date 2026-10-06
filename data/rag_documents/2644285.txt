@@ -1,0 +1,17 @@
+Food: Beans, black, canned, sodium added, drained and rinsed
+Food ID: 2644285
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 6.9125 g
+Carbohydrates: 19.8135 g
+Fat: 1.273 g
+
+Minerals:
+Sodium: 217.9 mg
+Potassium: 253.1 mg
+Calcium: 43.31 mg
+Iron: 1.688 mg
+Magnesium: 32.54 mg
+Zinc: 0.7399 mg

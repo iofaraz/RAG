@@ -1,0 +1,36 @@
+Food: Wheat flour, white, all-purpose, self-rising, enriched
+Food ID: 168895
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 354 kcal
+Protein: 9.89 g
+Carbohydrates: 74.22 g
+Fat: 0.97 g
+Fiber: 2.7 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 0.154 g
+Monounsaturated fat: 0.086 g
+Polyunsaturated fat: 0.41 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1193 mg
+Potassium: 124 mg
+Calcium: 338 mg
+Iron: 4.67 mg
+Magnesium: 19 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 196 µg

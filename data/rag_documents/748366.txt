@@ -1,0 +1,12 @@
+Food: Oil, soybean
+Food ID: 748366
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 14.9 g
+Monounsaturated fat: 22.1 g
+Polyunsaturated fat: 57.6 g
+
+Vitamins:
+Vitamin E: 12.2 mg

@@ -1,0 +1,36 @@
+Food: Fish, salmon, grilled
+Food ID: 2706287
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 259 kcal
+Protein: 25.92 g
+Carbohydrates: 0 g
+Fat: 16.48 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.764 g
+Monounsaturated fat: 4.832 g
+Polyunsaturated fat: 4.622 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 288 mg
+Potassium: 461 mg
+Calcium: 11 mg
+Iron: 0.45 mg
+Magnesium: 34 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 67 µg
+Vitamin C: 3 mg
+Vitamin D: 13.9 µg
+Vitamin E: 3.86 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.733 mg
+Vitamin B12: 3.94 µg
+Folate: 24 µg

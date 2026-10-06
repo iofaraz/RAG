@@ -1,0 +1,37 @@
+Food: Peas, green (includes baby and lesuer types), canned, drained solids, unprepared
+Food ID: 170013
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 4.47 g
+Carbohydrates: 11.36 g
+Fat: 0.8 g
+Fiber: 4.9 g
+Sugar: 2.99 g
+
+Fats:
+Saturated fat: 0.143 g
+Monounsaturated fat: 0.071 g
+Polyunsaturated fat: 0.375 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 273 mg
+Potassium: 106 mg
+Calcium: 23 mg
+Iron: 1.18 mg
+Magnesium: 18 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 36.8 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

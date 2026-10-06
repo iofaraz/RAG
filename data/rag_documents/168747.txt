@@ -1,0 +1,23 @@
+Food: Alcoholic beverage, beer, regular, BUDWEISER
+Food ID: 168747
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 0.36 g
+Carbohydrates: 2.97 g
+Fat: 0 g
+Fiber: 0 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 33 mg
+Calcium: 4 mg
+Iron: 0 mg
+Magnesium: 7 mg
+Zinc: 0 mg

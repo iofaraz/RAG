@@ -1,0 +1,37 @@
+Food: Blackberries, canned, heavy syrup, solids and liquids
+Food ID: 171709
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 1.31 g
+Carbohydrates: 23.1 g
+Fat: 0.14 g
+Fiber: 3.4 g
+Sugar: 19.7 g
+
+Fats:
+Saturated fat: 0.005 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.08 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 99 mg
+Calcium: 21 mg
+Iron: 0.65 mg
+Magnesium: 17 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.78 mg
+Vitamin K: 13.3 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

@@ -1,0 +1,18 @@
+Food: Artificial Blueberry Muffin Mix, dry
+Food ID: 175078
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 407 kcal
+Protein: 4.7 g
+Carbohydrates: 77.45 g
+Fat: 8.7 g
+
+Fats:
+Saturated fat: 1.865 g
+Monounsaturated fat: 3.742 g
+Polyunsaturated fat: 1.679 g
+
+Minerals:
+Sodium: 760 mg

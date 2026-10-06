@@ -1,0 +1,36 @@
+Food: Milk, nonfat, fluid, with added nonfat milk solids, vitamin A and vitamin D (fat free or skim)
+Food ID: 171270
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 3.57 g
+Carbohydrates: 5.02 g
+Fat: 0.25 g
+Fiber: 0 g
+Sugar: 5.02 g
+
+Fats:
+Saturated fat: 0.162 g
+Monounsaturated fat: 0.065 g
+Polyunsaturated fat: 0.009 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 171 mg
+Calcium: 129 mg
+Iron: 0.05 mg
+Magnesium: 15 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 1 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.39 µg
+Folate: 5 µg

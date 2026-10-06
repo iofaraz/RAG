@@ -1,0 +1,37 @@
+Food: Popcorn, sugar syrup/caramel, fat-free
+Food ID: 169685
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 2 g
+Carbohydrates: 90.06 g
+Fat: 1.4 g
+Fiber: 2.5 g
+Sugar: 64.68 g
+
+Fats:
+Saturated fat: 0.2 g
+Monounsaturated fat: 0.26 g
+Polyunsaturated fat: 0.634 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 286 mg
+Potassium: 110 mg
+Calcium: 18 mg
+Iron: 0.8 mg
+Magnesium: 27 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

@@ -1,0 +1,32 @@
+Food: Candies, halavah, plain
+Food ID: 167996
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 469 kcal
+Protein: 12.49 g
+Carbohydrates: 60.49 g
+Fat: 21.52 g
+Fiber: 4.5 g
+
+Fats:
+Saturated fat: 4.127 g
+Monounsaturated fat: 8.194 g
+Polyunsaturated fat: 8.481 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 195 mg
+Potassium: 187 mg
+Calcium: 33 mg
+Iron: 4.53 mg
+Magnesium: 218 mg
+Zinc: 4.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.348 mg
+Vitamin B12: 0.04 µg
+Folate: 65 µg

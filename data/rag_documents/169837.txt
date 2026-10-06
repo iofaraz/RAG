@@ -1,0 +1,35 @@
+Food: Restaurant, family style, chicken fingers, from kid's menu
+Food ID: 169837
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 307 kcal
+Protein: 18.68 g
+Carbohydrates: 18.77 g
+Fat: 17.45 g
+Fiber: 1.1 g
+Sugar: 0.33 g
+
+Fats:
+Saturated fat: 3.199 g
+Monounsaturated fat: 3.962 g
+Polyunsaturated fat: 9.013 g
+Trans fat: 0.131 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 809 mg
+Potassium: 322 mg
+Calcium: 21 mg
+Iron: 0.76 mg
+Magnesium: 29 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin E: 1.47 mg
+Vitamin K: 28 µg
+Vitamin B6: 0.453 mg
+Vitamin B12: 0.13 µg
+Folate: 7 µg

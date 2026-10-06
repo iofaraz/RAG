@@ -1,0 +1,36 @@
+Food: Walnuts, excluding honey roasted
+Food ID: 2707531
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 730 kcal
+Protein: 14.56 g
+Carbohydrates: 10.91 g
+Fat: 69.74 g
+Fiber: 5.2 g
+Sugar: 2.61 g
+
+Fats:
+Saturated fat: 6.05 g
+Monounsaturated fat: 9.62 g
+Polyunsaturated fat: 49.3 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 424 mg
+Calcium: 88 mg
+Iron: 2.24 mg
+Magnesium: 142 mg
+Zinc: 2.76 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.7 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.66 mg
+Vitamin B12: 0 µg
+Folate: 98 µg

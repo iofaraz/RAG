@@ -1,0 +1,13 @@
+Food: Alcoholic beverage, wine, table, white, late harvest
+Food ID: 173202
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 0.07 g
+Carbohydrates: 13.39 g
+Fat: 0 g
+
+Fats:
+Trans fat: 0 g

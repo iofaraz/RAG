@@ -1,0 +1,36 @@
+Food: Baby Toddler snack, NFS
+Food ID: 2708128
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 359 kcal
+Protein: 7.34 g
+Carbohydrates: 83.4 g
+Fat: 3.29 g
+Fiber: 3.4 g
+Sugar: 18.18 g
+
+Fats:
+Saturated fat: 0.322 g
+Monounsaturated fat: 1.128 g
+Polyunsaturated fat: 0.704 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 83 mg
+Potassium: 257 mg
+Calcium: 518 mg
+Iron: 20.42 mg
+Magnesium: 58 mg
+Zinc: 14.46 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 7.83 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 1.723 mg
+Vitamin B12: 0.03 µg
+Folate: 23 µg

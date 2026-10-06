@@ -1,0 +1,18 @@
+Food: Tea, herbal, brewed, Hohoysi (Hopi)
+Food ID: 169828
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 2 kcal
+Protein: 0.12 g
+Carbohydrates: 0 g
+Fat: 0.2 g
+
+Minerals:
+Sodium: 27 mg
+Potassium: 44 mg
+Calcium: 5 mg
+Iron: 0.03 mg
+Magnesium: 0 mg
+Zinc: 0.05 mg

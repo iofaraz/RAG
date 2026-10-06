@@ -1,0 +1,32 @@
+Food: Pie, coconut custard, commercially prepared
+Food ID: 172782
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 5.9 g
+Carbohydrates: 30.2 g
+Fat: 13.2 g
+Fiber: 1.8 g
+
+Fats:
+Saturated fat: 5.854 g
+Monounsaturated fat: 5.495 g
+Polyunsaturated fat: 1.17 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 175 mg
+Calcium: 81 mg
+Iron: 0.8 mg
+Magnesium: 18 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0.6 mg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0.09 µg
+Folate: 13 µg

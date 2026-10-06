@@ -1,0 +1,36 @@
+Food: Sausage, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy
+Food ID: 2706643
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 3.73 g
+Carbohydrates: 11.61 g
+Fat: 7.53 g
+Fiber: 1.4 g
+Sugar: 1.11 g
+
+Fats:
+Saturated fat: 1.78 g
+Monounsaturated fat: 3.123 g
+Polyunsaturated fat: 2.031 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 231 mg
+Calcium: 14 mg
+Iron: 0.43 mg
+Magnesium: 14 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 7 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.94 mg
+Vitamin K: 13.2 µg
+Vitamin B6: 0.171 mg
+Vitamin B12: 0.13 µg
+Folate: 11 µg

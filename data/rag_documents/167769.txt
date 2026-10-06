@@ -1,0 +1,29 @@
+Food: Cherries, sour, canned, water pack, drained
+Food ID: 167769
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 0.69 g
+Carbohydrates: 10.45 g
+Fat: 0.21 g
+Fiber: 1.2 g
+Sugar: 6.99 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 115 mg
+Calcium: 11 mg
+Iron: 0.64 mg
+Magnesium: 8 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin C: 0.3 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0 µg

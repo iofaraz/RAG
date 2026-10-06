@@ -1,0 +1,36 @@
+Food: Turkey bacon, cooked
+Food ID: 2706135
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 29.5 g
+Carbohydrates: 4.24 g
+Fat: 25.87 g
+Fiber: 0 g
+Sugar: 4.24 g
+
+Fats:
+Saturated fat: 6.933 g
+Monounsaturated fat: 9.382 g
+Polyunsaturated fat: 6.871 g
+Cholesterol: 153 mg
+
+Minerals:
+Sodium: 2021 mg
+Potassium: 666 mg
+Calcium: 163 mg
+Iron: 2.63 mg
+Magnesium: 30 mg
+Zinc: 4.71 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.14 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.374 mg
+Vitamin B12: 1.88 µg
+Folate: 15 µg

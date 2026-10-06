@@ -1,0 +1,36 @@
+Food: Stuffed shells, cheese- and spinach- filled, no sauce
+Food ID: 2708782
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 9.56 g
+Carbohydrates: 22.36 g
+Fat: 6.63 g
+Fiber: 1 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 3.265 g
+Monounsaturated fat: 1.637 g
+Polyunsaturated fat: 0.592 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 439 mg
+Potassium: 209 mg
+Calcium: 154 mg
+Iron: 1.95 mg
+Magnesium: 35 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 135 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.71 mg
+Vitamin K: 103.4 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.41 µg
+Folate: 56 µg

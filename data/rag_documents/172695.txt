@@ -1,0 +1,36 @@
+Food: Cake, angelfood, dry mix, prepared
+Food ID: 172695
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 6.1 g
+Carbohydrates: 58.7 g
+Fat: 0.3 g
+Fiber: 0.2 g
+Sugar: 30.51 g
+
+Fats:
+Saturated fat: 0.043 g
+Monounsaturated fat: 0.026 g
+Polyunsaturated fat: 0.124 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 511 mg
+Potassium: 135 mg
+Calcium: 84 mg
+Iron: 0.23 mg
+Magnesium: 8 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.006 mg
+Vitamin B12: 0.03 µg
+Folate: 19 µg

@@ -1,0 +1,36 @@
+Food: Crackers, milk
+Food ID: 2708159
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 446 kcal
+Protein: 7.6 g
+Carbohydrates: 71.73 g
+Fat: 13.77 g
+Fiber: 3.4 g
+Sugar: 10.32 g
+
+Fats:
+Saturated fat: 2.912 g
+Monounsaturated fat: 5.485 g
+Polyunsaturated fat: 4.867 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 687 mg
+Potassium: 114 mg
+Calcium: 172 mg
+Iron: 3.58 mg
+Magnesium: 22 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.22 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.08 µg
+Folate: 90 µg

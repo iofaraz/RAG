@@ -1,0 +1,37 @@
+Food: Topping, SMUCKER'S MAGIC SHELL
+Food ID: 167956
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 609 kcal
+Protein: 2.94 g
+Carbohydrates: 50.07 g
+Fat: 44.1 g
+Fiber: 2.9 g
+Sugar: 47.06 g
+
+Fats:
+Saturated fat: 20.59 g
+Monounsaturated fat: 6.156 g
+Polyunsaturated fat: 15.094 g
+Trans fat: 0.017 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 29 mg
+Potassium: 73 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 15 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 9.85 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.013 mg
+Vitamin B12: 0.08 µg
+Folate: 6 µg

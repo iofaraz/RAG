@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, neck chops, separable lean only, raw
+Food ID: 174455
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 19.84 g
+Carbohydrates: 0 g
+Fat: 7.97 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.12 g
+Monounsaturated fat: 2.172 g
+Polyunsaturated fat: 0.38 g
+Trans fat: 0.259 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 323 mg
+Calcium: 23 mg
+Iron: 1.24 mg
+Magnesium: 20 mg
+Zinc: 3.48 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin B6: 0.121 mg
+Vitamin B12: 2.89 µg

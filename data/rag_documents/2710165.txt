@@ -1,0 +1,36 @@
+Food: Animal fat or drippings
+Food ID: 2710165
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 841 kcal
+Protein: 2.23 g
+Carbohydrates: 0 g
+Fat: 92.18 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 35.58 g
+Monounsaturated fat: 41.249 g
+Polyunsaturated fat: 10.052 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 604 mg
+Potassium: 21 mg
+Calcium: 5 mg
+Iron: 0.23 mg
+Magnesium: 1 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 2.2 µg
+Vitamin E: 0.64 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.19 µg
+Folate: 0 µg

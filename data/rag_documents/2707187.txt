@@ -1,0 +1,36 @@
+Food: Egg salad, made with light creamy dressing
+Food ID: 2707187
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 10.17 g
+Carbohydrates: 2.37 g
+Fat: 11.29 g
+Fiber: 0 g
+Sugar: 2.08 g
+
+Fats:
+Saturated fat: 3.009 g
+Monounsaturated fat: 3.89 g
+Polyunsaturated fat: 2.811 g
+Cholesterol: 292 mg
+
+Minerals:
+Sodium: 426 mg
+Potassium: 106 mg
+Calcium: 41 mg
+Iron: 0.96 mg
+Magnesium: 8 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 119 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.7 µg
+Vitamin E: 1.33 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0.88 µg
+Folate: 36 µg

@@ -1,0 +1,37 @@
+Food: Fast foods, submarine sandwich, bacon, lettuce, and tomato on white bread
+Food ID: 170313
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 205 kcal
+Protein: 10.06 g
+Carbohydrates: 26.66 g
+Fat: 6.41 g
+Fiber: 1.6 g
+Sugar: 3.61 g
+
+Fats:
+Saturated fat: 1.917 g
+Monounsaturated fat: 2.356 g
+Polyunsaturated fat: 1.617 g
+Trans fat: 0.031 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 354 mg
+Potassium: 186 mg
+Calcium: 210 mg
+Iron: 2.14 mg
+Magnesium: 22 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 6.4 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.18 µg
+Folate: 89 µg

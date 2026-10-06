@@ -1,0 +1,32 @@
+Food: Snacks, rice cakes, brown rice, corn
+Food ID: 169679
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 385 kcal
+Protein: 8.4 g
+Carbohydrates: 81.2 g
+Fat: 3.2 g
+Fiber: 2.9 g
+
+Fats:
+Saturated fat: 0.63 g
+Monounsaturated fat: 1.14 g
+Polyunsaturated fat: 1.13 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 275 mg
+Calcium: 9 mg
+Iron: 1.17 mg
+Magnesium: 114 mg
+Zinc: 2.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

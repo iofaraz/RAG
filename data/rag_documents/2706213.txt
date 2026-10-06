@@ -1,0 +1,36 @@
+Food: Liverwurst
+Food ID: 2706213
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 327 kcal
+Protein: 14.5 g
+Carbohydrates: 3.1 g
+Fat: 28.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.307 g
+Monounsaturated fat: 12.731 g
+Polyunsaturated fat: 3.193 g
+Cholesterol: 180 mg
+
+Minerals:
+Sodium: 977 mg
+Potassium: 199 mg
+Calcium: 9 mg
+Iron: 11.2 mg
+Magnesium: 11 mg
+Zinc: 2.81 mg
+
+Vitamins:
+Vitamin A: 4220 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.35 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.33 mg
+Vitamin B12: 20.09 µg
+Folate: 44 µg

@@ -1,0 +1,36 @@
+Food: Beignet
+Food ID: 2708071
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 417 kcal
+Protein: 5.46 g
+Carbohydrates: 53.69 g
+Fat: 20.18 g
+Fiber: 1.9 g
+Sugar: 31.09 g
+
+Fats:
+Saturated fat: 8.403 g
+Monounsaturated fat: 6.443 g
+Polyunsaturated fat: 3.189 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 281 mg
+Potassium: 91 mg
+Calcium: 90 mg
+Iron: 2.12 mg
+Magnesium: 15 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.27 mg
+Vitamin K: 10.2 µg
+Vitamin B6: 0.033 mg
+Vitamin B12: 0.1 µg
+Folate: 96 µg

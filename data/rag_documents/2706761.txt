@@ -1,0 +1,36 @@
+Food: Pork and vegetables, Hawaiian style
+Food ID: 2706761
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 7.43 g
+Carbohydrates: 6.97 g
+Fat: 3.64 g
+Fiber: 1.9 g
+Sugar: 2.21 g
+
+Fats:
+Saturated fat: 0.984 g
+Monounsaturated fat: 1.328 g
+Polyunsaturated fat: 0.957 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 202 mg
+Potassium: 250 mg
+Calcium: 26 mg
+Iron: 0.63 mg
+Magnesium: 19 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 85 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.67 mg
+Vitamin K: 20.8 µg
+Vitamin B6: 0.229 mg
+Vitamin B12: 0.16 µg
+Folate: 17 µg

@@ -1,0 +1,20 @@
+Food: Beef, tenderloin steak, raw
+Food ID: 2727573
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 21.0938 g
+Carbohydrates: 0.18025 g
+Fat: 6.456 g
+
+Fats:
+Cholesterol: 64.41 mg
+
+Minerals:
+Sodium: 44.85 mg
+Potassium: 344.7 mg
+Calcium: 4.089 mg
+Iron: 2.53 mg
+Magnesium: 21.98 mg
+Zinc: 3.225 mg

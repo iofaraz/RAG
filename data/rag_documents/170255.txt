@@ -1,0 +1,23 @@
+Food: Frozen novelties, juice type, POPSICLE SCRIBBLERS
+Food ID: 170255
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 0 g
+Carbohydrates: 19.68 g
+Fat: 0.24 g
+Fiber: 0 g
+Sugar: 14.57 g
+
+Minerals:
+Sodium: 13 mg
+Potassium: 23 mg
+Calcium: 5 mg
+Iron: 0.3 mg
+Magnesium: 3 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin C: 1.2 mg

@@ -1,0 +1,20 @@
+Food: Whale, beluga, flipper, raw (Alaska Native)
+Food ID: 168979
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 19 g
+Carbohydrates: 0 g
+Fat: 21.7 g
+Fiber: 0 g
+Sugar: 0 g
+
+Minerals:
+Calcium: 11 mg
+Iron: 2.8 mg
+
+Vitamins:
+Vitamin A: 279 µg
+Vitamin C: 0 mg

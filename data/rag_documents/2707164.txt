@@ -1,0 +1,36 @@
+Food: Egg, whole, baked, NS as to fat
+Food ID: 2707164
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 11.58 g
+Carbohydrates: 0.91 g
+Fat: 15 g
+Fiber: 0 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 4.479 g
+Monounsaturated fat: 5.412 g
+Polyunsaturated fat: 3.337 g
+Cholesterol: 388 mg
+
+Minerals:
+Sodium: 248 mg
+Potassium: 124 mg
+Calcium: 46 mg
+Iron: 1.56 mg
+Magnesium: 10 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 193 µg
+Vitamin C: 0 mg
+Vitamin D: 2.4 µg
+Vitamin E: 1.83 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0.76 µg
+Folate: 50 µg

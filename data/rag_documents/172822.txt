@@ -1,0 +1,32 @@
+Food: Crackers, melba toast, plain, without salt
+Food ID: 172822
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 12.1 g
+Carbohydrates: 76.6 g
+Fat: 3.2 g
+Fiber: 6.3 g
+
+Fats:
+Saturated fat: 0.445 g
+Monounsaturated fat: 0.782 g
+Polyunsaturated fat: 1.282 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 202 mg
+Calcium: 93 mg
+Iron: 3.7 mg
+Magnesium: 59 mg
+Zinc: 2.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0 µg
+Folate: 124 µg

@@ -1,0 +1,36 @@
+Food: Greens, canned, cooked
+Food ID: 2709598
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 1.32 g
+Carbohydrates: 2.71 g
+Fat: 2.82 g
+Fiber: 1.3 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.73 g
+Monounsaturated fat: 0.918 g
+Polyunsaturated fat: 0.842 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 136 mg
+Calcium: 114 mg
+Iron: 1.46 mg
+Magnesium: 19 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 298 µg
+Vitamin C: 14.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.8 mg
+Vitamin K: 278.6 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0 µg
+Folate: 84 µg

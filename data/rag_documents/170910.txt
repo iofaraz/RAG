@@ -1,0 +1,37 @@
+Food: Milk, chocolate, lowfat, reduced sugar
+Food ID: 170910
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 3.43 g
+Carbohydrates: 7.68 g
+Fat: 1.04 g
+Fiber: 0 g
+Sugar: 7.29 g
+
+Fats:
+Saturated fat: 0.616 g
+Monounsaturated fat: 0.29 g
+Polyunsaturated fat: 0.054 g
+Trans fat: 0.036 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 168 mg
+Calcium: 122 mg
+Iron: 0.16 mg
+Magnesium: 13 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.2 µg
+Folate: 5 µg

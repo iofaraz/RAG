@@ -1,0 +1,36 @@
+Food: Buffalo sauce
+Food ID: 2709751
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 11 kcal
+Protein: 1.21 g
+Carbohydrates: 0.75 g
+Fat: 0.71 g
+Fiber: 0.6 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 0.1 g
+Monounsaturated fat: 0.057 g
+Polyunsaturated fat: 0.377 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2917 mg
+Potassium: 120 mg
+Calcium: 14 mg
+Iron: 1.09 mg
+Magnesium: 11 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 77 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

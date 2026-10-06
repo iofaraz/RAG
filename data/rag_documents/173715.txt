@@ -1,0 +1,32 @@
+Food: Fish, salmon, coho, farmed, raw
+Food ID: 173715
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 21.27 g
+Carbohydrates: 0 g
+Fat: 7.67 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.816 g
+Monounsaturated fat: 3.33 g
+Polyunsaturated fat: 1.861 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 450 mg
+Calcium: 12 mg
+Iron: 0.34 mg
+Magnesium: 31 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 1.1 mg
+Vitamin B6: 0.66 mg
+Vitamin B12: 2.67 µg
+Folate: 13 µg

@@ -1,0 +1,30 @@
+Food: Vinespinach, (basella), raw
+Food ID: 170474
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 1.8 g
+Carbohydrates: 3.4 g
+Fat: 0.3 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 510 mg
+Calcium: 109 mg
+Iron: 1.2 mg
+Magnesium: 65 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 400 µg
+Vitamin C: 102 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.24 mg
+Vitamin B12: 0 µg
+Folate: 140 µg

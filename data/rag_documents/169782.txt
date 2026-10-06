@@ -1,0 +1,32 @@
+Food: HUNGRY MAN, Salisbury Steak With Gravy, frozen, unprepared
+Food ID: 169782
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 7.96 g
+Carbohydrates: 6.96 g
+Fat: 8.53 g
+Fiber: 1.3 g
+Sugar: 0.18 g
+
+Fats:
+Saturated fat: 3.426 g
+Monounsaturated fat: 3.933 g
+Polyunsaturated fat: 0.533 g
+Trans fat: 0.347 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 379 mg
+Potassium: 195 mg
+Calcium: 29 mg
+Iron: 1.02 mg
+Magnesium: 19 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin E: 0.1 mg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0.77 µg

@@ -1,0 +1,36 @@
+Food: Funnel cake with sugar
+Food ID: 2708349
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 7.87 g
+Carbohydrates: 43.49 g
+Fat: 16.57 g
+Fiber: 1 g
+Sugar: 15.87 g
+
+Fats:
+Saturated fat: 3.125 g
+Monounsaturated fat: 6.44 g
+Polyunsaturated fat: 5.51 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 278 mg
+Potassium: 174 mg
+Calcium: 138 mg
+Iron: 2.31 mg
+Magnesium: 19 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 2.69 mg
+Vitamin K: 13.5 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.42 µg
+Folate: 45 µg

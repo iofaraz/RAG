@@ -1,0 +1,37 @@
+Food: Chicory greens, raw
+Food ID: 169992
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 1.7 g
+Carbohydrates: 4.7 g
+Fat: 0.3 g
+Fiber: 4 g
+Sugar: 0.7 g
+
+Fats:
+Saturated fat: 0.073 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.131 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 420 mg
+Calcium: 100 mg
+Iron: 0.9 mg
+Magnesium: 30 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 286 µg
+Vitamin C: 24 mg
+Vitamin D: 0 µg
+Vitamin E: 2.26 mg
+Vitamin K: 297.6 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 0 µg
+Folate: 110 µg

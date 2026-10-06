@@ -1,0 +1,36 @@
+Food: Frozen coffee drink, decaffeinated
+Food ID: 2710404
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 1.56 g
+Carbohydrates: 13.46 g
+Fat: 0.94 g
+Fiber: 0 g
+Sugar: 13.23 g
+
+Fats:
+Saturated fat: 0.525 g
+Monounsaturated fat: 0.184 g
+Polyunsaturated fat: 0.041 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 91 mg
+Calcium: 59 mg
+Iron: 0.02 mg
+Magnesium: 18 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.028 mg
+Vitamin B12: 0.25 µg
+Folate: 1 µg

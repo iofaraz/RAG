@@ -1,0 +1,36 @@
+Food: Lettuce, salad with assorted vegetables excluding tomatoes and carrots, no dressing
+Food ID: 2709823
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 1.19 g
+Carbohydrates: 4.09 g
+Fat: 0.19 g
+Fiber: 1.3 g
+Sugar: 1.55 g
+
+Fats:
+Saturated fat: 0.039 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.096 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 273 mg
+Calcium: 31 mg
+Iron: 0.31 mg
+Magnesium: 20 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 178 µg
+Vitamin C: 15.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 96.4 µg
+Vitamin B6: 0.096 mg
+Vitamin B12: 0 µg
+Folate: 41 µg

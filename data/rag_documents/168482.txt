@@ -1,0 +1,37 @@
+Food: Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)
+Food ID: 168482
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 1.57 g
+Carbohydrates: 20.12 g
+Fat: 0.05 g
+Fiber: 3 g
+Sugar: 4.18 g
+
+Fats:
+Saturated fat: 0.018 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.014 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 55 mg
+Potassium: 337 mg
+Calcium: 30 mg
+Iron: 0.61 mg
+Magnesium: 25 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 709 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.209 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

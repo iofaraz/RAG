@@ -1,0 +1,35 @@
+Food: Chicken, roasting, meat only, raw
+Food ID: 173636
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 20.33 g
+Carbohydrates: 0 g
+Fat: 2.7 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.67 g
+Monounsaturated fat: 0.83 g
+Polyunsaturated fat: 0.67 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 238 mg
+Calcium: 10 mg
+Iron: 1.03 mg
+Magnesium: 23 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin E: 0.22 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.42 mg
+Vitamin B12: 0.36 µg
+Folate: 7 µg

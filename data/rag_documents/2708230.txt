@@ -1,0 +1,36 @@
+Food: Popcorn, microwave, kettle
+Food ID: 2708230
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 504 kcal
+Protein: 9.35 g
+Carbohydrates: 58.01 g
+Fat: 27.5 g
+Fiber: 10.5 g
+Sugar: 2.2 g
+
+Fats:
+Saturated fat: 4.595 g
+Monounsaturated fat: 7.553 g
+Polyunsaturated fat: 13.515 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 601 mg
+Potassium: 238 mg
+Calcium: 6 mg
+Iron: 2.31 mg
+Magnesium: 104 mg
+Zinc: 2.23 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5.12 mg
+Vitamin K: 8.4 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

@@ -1,0 +1,36 @@
+Food: Light ice cream bar, vanilla, chocolate coated
+Food ID: 2705671
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 3.39 g
+Carbohydrates: 19.15 g
+Fat: 16.62 g
+Fiber: 0.5 g
+Sugar: 10.45 g
+
+Fats:
+Saturated fat: 13.007 g
+Monounsaturated fat: 1.872 g
+Polyunsaturated fat: 0.529 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 163 mg
+Calcium: 110 mg
+Iron: 0.3 mg
+Magnesium: 14 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 78 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.028 mg
+Vitamin B12: 0.36 µg
+Folate: 4 µg

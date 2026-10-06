@@ -1,0 +1,37 @@
+Food: Crackers, cheese, regular
+Food ID: 174975
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 489 kcal
+Protein: 10.93 g
+Carbohydrates: 59.42 g
+Fat: 22.74 g
+Fiber: 2.3 g
+Sugar: 4.53 g
+
+Fats:
+Saturated fat: 5.288 g
+Monounsaturated fat: 5.744 g
+Polyunsaturated fat: 10.09 g
+Trans fat: 0.542 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 973 mg
+Potassium: 156 mg
+Calcium: 136 mg
+Iron: 4.88 mg
+Magnesium: 25 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.19 mg
+Vitamin K: 9.4 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0.34 µg
+Folate: 152 µg

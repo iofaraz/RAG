@@ -1,0 +1,32 @@
+Food: Beef, rib, shortribs, separable lean only, choice, raw
+Food ID: 168614
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 175 kcal
+Protein: 19.05 g
+Carbohydrates: 0.4 g
+Fat: 10.19 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.33 g
+Monounsaturated fat: 4.38 g
+Polyunsaturated fat: 0.38 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 357 mg
+Calcium: 8 mg
+Iron: 2.16 mg
+Magnesium: 22 mg
+Zinc: 4.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.39 mg
+Vitamin B12: 3.39 µg
+Folate: 6 µg

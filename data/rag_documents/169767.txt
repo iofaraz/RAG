@@ -1,0 +1,37 @@
+Food: Vegetable juice, BOLTHOUSE FARMS, DAILY GREENS
+Food ID: 169767
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 0.49 g
+Carbohydrates: 8.13 g
+Fat: 0.04 g
+Fiber: 1.9 g
+Sugar: 5.37 g
+
+Fats:
+Saturated fat: 0.015 g
+Monounsaturated fat: 0.009 g
+Polyunsaturated fat: 0.015 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 224 mg
+Calcium: 110 mg
+Iron: 3.85 mg
+Magnesium: 11 mg
+Zinc: 3.47 mg
+
+Vitamins:
+Vitamin A: 602 µg
+Vitamin C: 10.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.47 mg
+Vitamin K: 105.6 µg
+Vitamin B6: 0.32 mg
+Vitamin B12: 0.97 µg
+Folate: 63 µg

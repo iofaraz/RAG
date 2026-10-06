@@ -1,0 +1,37 @@
+Food: Cabbage, common, cooked, boiled, drained, with salt
+Food ID: 168514
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 1.27 g
+Carbohydrates: 5.51 g
+Fat: 0.06 g
+Fiber: 1.9 g
+Sugar: 2.79 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.019 g
+Polyunsaturated fat: 0.023 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 255 mg
+Potassium: 196 mg
+Calcium: 48 mg
+Iron: 0.17 mg
+Magnesium: 15 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 37.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 108.7 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

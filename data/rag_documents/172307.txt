@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, SIMILAC, PM 60/40, powder not reconstituted
+Food ID: 172307
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 524 kcal
+Protein: 11.4 g
+Carbohydrates: 54.94 g
+Fat: 28.71 g
+Fiber: 0 g
+Sugar: 52.38 g
+
+Fats:
+Saturated fat: 12.214 g
+Monounsaturated fat: 5.242 g
+Polyunsaturated fat: 10.835 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 123 mg
+Potassium: 411 mg
+Calcium: 288 mg
+Iron: 1.13 mg
+Magnesium: 31 mg
+Zinc: 3.85 mg
+
+Vitamins:
+Vitamin A: 462 µg
+Vitamin C: 46.2 mg
+Vitamin D: 7.7 µg
+Vitamin E: 8.61 mg
+Vitamin K: 41.1 µg
+Vitamin B6: 0.308 mg
+Vitamin B12: 1.28 µg
+Folate: 77 µg

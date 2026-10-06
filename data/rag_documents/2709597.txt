@@ -1,0 +1,36 @@
+Food: Greens, frozen, cooked, fat added
+Food ID: 2709597
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 2.84 g
+Carbohydrates: 5.59 g
+Fat: 3.24 g
+Fiber: 2.6 g
+Sugar: 0.76 g
+
+Fats:
+Saturated fat: 0.761 g
+Monounsaturated fat: 0.96 g
+Polyunsaturated fat: 1.064 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 150 mg
+Potassium: 188 mg
+Calcium: 164 mg
+Iron: 1.06 mg
+Magnesium: 25 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 377 µg
+Vitamin C: 20.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.88 mg
+Vitamin K: 487.9 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0 µg
+Folate: 65 µg

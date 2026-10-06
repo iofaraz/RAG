@@ -1,0 +1,36 @@
+Food: Fish, whiting, baked or broiled
+Food ID: 2706313
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 22.75 g
+Carbohydrates: 0.01 g
+Fat: 6.16 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.493 g
+Monounsaturated fat: 1.956 g
+Polyunsaturated fat: 1.825 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 305 mg
+Potassium: 310 mg
+Calcium: 60 mg
+Iron: 0.43 mg
+Magnesium: 26 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0 mg
+Vitamin D: 1.8 µg
+Vitamin E: 1.05 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.203 mg
+Vitamin B12: 2.57 µg
+Folate: 15 µg

@@ -1,0 +1,37 @@
+Food: Grapefruit juice, white, canned, sweetened
+Food ID: 174679
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 0.58 g
+Carbohydrates: 11.13 g
+Fat: 0.09 g
+Fiber: 0.1 g
+Sugar: 11.03 g
+
+Fats:
+Saturated fat: 0.012 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.021 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 162 mg
+Calcium: 8 mg
+Iron: 0.36 mg
+Magnesium: 10 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 26.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

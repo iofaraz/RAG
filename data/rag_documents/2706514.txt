@@ -1,0 +1,36 @@
+Food: Ham and noodles, no sauce
+Food ID: 2706514
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 7.15 g
+Carbohydrates: 15.88 g
+Fat: 5.54 g
+Fiber: 0.8 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 1.193 g
+Monounsaturated fat: 2.277 g
+Polyunsaturated fat: 1.585 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 101 mg
+Calcium: 10 mg
+Iron: 1.18 mg
+Magnesium: 18 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.64 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0.19 µg
+Folate: 54 µg

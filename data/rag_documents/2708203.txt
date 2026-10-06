@@ -1,0 +1,36 @@
+Food: Cheese flavored corn snacks (Cheetos)
+Food ID: 2708203
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 567 kcal
+Protein: 5.46 g
+Carbohydrates: 54.54 g
+Fat: 36.54 g
+Fiber: 0.8 g
+Sugar: 3.57 g
+
+Fats:
+Saturated fat: 3.749 g
+Monounsaturated fat: 10.052 g
+Polyunsaturated fat: 17.934 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 928 mg
+Potassium: 180 mg
+Calcium: 53 mg
+Iron: 1.69 mg
+Magnesium: 18 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 4.18 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.2 µg
+Folate: 80 µg

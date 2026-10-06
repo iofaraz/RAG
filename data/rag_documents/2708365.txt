@@ -1,0 +1,36 @@
+Food: Grits, regular or quick, made with water, no added fat
+Food ID: 2708365
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 58 kcal
+Protein: 1.2 g
+Carbohydrates: 12.41 g
+Fat: 0.28 g
+Fiber: 0.7 g
+Sugar: 0.09 g
+
+Fats:
+Saturated fat: 0.053 g
+Monounsaturated fat: 0.049 g
+Polyunsaturated fat: 0.137 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 21 mg
+Calcium: 4 mg
+Iron: 0.46 mg
+Magnesium: 7 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.033 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

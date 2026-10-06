@@ -1,0 +1,26 @@
+Food: Beverages, MOTTS, Apple juice light, fortified with vitamin C
+Food ID: 174857
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 0 g
+Carbohydrates: 5.1 g
+Fat: 0.1 g
+Fiber: 0 g
+Sugar: 4.8 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 51 mg
+Calcium: 3 mg
+Iron: 0.2 mg
+
+Vitamins:
+Vitamin C: 24 mg

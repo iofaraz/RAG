@@ -1,0 +1,36 @@
+Food: Squash, summer, casserole, with rice and tomato sauce
+Food ID: 2710060
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 2.32 g
+Carbohydrates: 14.9 g
+Fat: 1.66 g
+Fiber: 1.1 g
+Sugar: 2.4 g
+
+Fats:
+Saturated fat: 0.749 g
+Monounsaturated fat: 0.316 g
+Polyunsaturated fat: 0.229 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 120 mg
+Potassium: 203 mg
+Calcium: 26 mg
+Iron: 0.97 mg
+Magnesium: 19 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 10.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0.02 µg
+Folate: 35 µg

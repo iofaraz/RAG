@@ -1,0 +1,16 @@
+Food: Whale, beluga, eyes (Alaska Native)
+Food ID: 169796
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 291 kcal
+Protein: 19.6 g
+Carbohydrates: 0 g
+Fat: 23.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Vitamins:
+Vitamin A: 561 µg
+Vitamin C: 0 mg

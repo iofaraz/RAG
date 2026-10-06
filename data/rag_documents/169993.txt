@@ -1,0 +1,35 @@
+Food: Chicory roots, raw
+Food ID: 169993
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 1.4 g
+Carbohydrates: 17.51 g
+Fat: 0.2 g
+Fiber: 1.5 g
+Sugar: 8.73 g
+
+Fats:
+Saturated fat: 0.048 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.087 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 290 mg
+Calcium: 41 mg
+Iron: 0.8 mg
+Magnesium: 22 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.241 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

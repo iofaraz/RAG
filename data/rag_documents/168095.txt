@@ -1,0 +1,36 @@
+Food: Granola bar, soft, milk chocolate coated, peanut butter
+Food ID: 168095
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 536 kcal
+Protein: 9.6 g
+Carbohydrates: 54.1 g
+Fat: 31.2 g
+Fiber: 3.8 g
+Sugar: 23.63 g
+
+Fats:
+Saturated fat: 17.065 g
+Monounsaturated fat: 6.561 g
+Polyunsaturated fat: 1.906 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 193 mg
+Potassium: 339 mg
+Calcium: 108 mg
+Iron: 1.45 mg
+Magnesium: 67 mg
+Zinc: 1.47 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 4.59 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.46 µg
+Folate: 25 µg

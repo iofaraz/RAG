@@ -1,0 +1,37 @@
+Food: Macaroni or noodles with cheese, microwaveable, unprepared
+Food ID: 169776
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 388 kcal
+Protein: 11.48 g
+Carbohydrates: 70.75 g
+Fat: 6.56 g
+Fiber: 1.6 g
+Sugar: 8.2 g
+
+Fats:
+Saturated fat: 2.814 g
+Monounsaturated fat: 1.625 g
+Polyunsaturated fat: 1.987 g
+Trans fat: 0 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 902 mg
+Potassium: 348 mg
+Calcium: 328 mg
+Iron: 2.36 mg
+Magnesium: 49 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 99 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 0.77 µg
+Folate: 204 µg

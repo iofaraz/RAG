@@ -1,0 +1,36 @@
+Food: Pan Dulce, with sugar topping
+Food ID: 2707675
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 8.73 g
+Carbohydrates: 56.35 g
+Fat: 12.82 g
+Fiber: 2.1 g
+Sugar: 15.68 g
+
+Fats:
+Saturated fat: 2.436 g
+Monounsaturated fat: 4.022 g
+Polyunsaturated fat: 2.255 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 235 mg
+Potassium: 102 mg
+Calcium: 84 mg
+Iron: 2.69 mg
+Magnesium: 23 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.85 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.146 mg
+Vitamin B12: 0.1 µg
+Folate: 100 µg

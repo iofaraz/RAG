@@ -1,0 +1,37 @@
+Food: Spices, coriander leaf, dried
+Food ID: 170921
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 279 kcal
+Protein: 21.93 g
+Carbohydrates: 52.1 g
+Fat: 4.78 g
+Fiber: 10.4 g
+Sugar: 7.27 g
+
+Fats:
+Saturated fat: 0.115 g
+Monounsaturated fat: 2.232 g
+Polyunsaturated fat: 0.328 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 211 mg
+Potassium: 4466 mg
+Calcium: 1246 mg
+Iron: 42.46 mg
+Magnesium: 694 mg
+Zinc: 4.72 mg
+
+Vitamins:
+Vitamin A: 293 µg
+Vitamin C: 566.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.03 mg
+Vitamin K: 1359.5 µg
+Vitamin B6: 0.61 mg
+Vitamin B12: 0 µg
+Folate: 274 µg

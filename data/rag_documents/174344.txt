@@ -1,0 +1,29 @@
+Food: Game meat, moose, raw
+Food ID: 174344
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 22.24 g
+Carbohydrates: 0 g
+Fat: 0.74 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.22 g
+Monounsaturated fat: 0.15 g
+Polyunsaturated fat: 0.24 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 317 mg
+Calcium: 5 mg
+Iron: 3.21 mg
+Magnesium: 23 mg
+Zinc: 2.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4 mg

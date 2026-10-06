@@ -1,0 +1,36 @@
+Food: Nutritional powder mix, high protein (Slim Fast)
+Food ID: 2710739
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 433 kcal
+Protein: 27.87 g
+Carbohydrates: 50 g
+Fat: 13.46 g
+Fiber: 18.2 g
+Sugar: 20.59 g
+
+Fats:
+Saturated fat: 1.333 g
+Monounsaturated fat: 8.93 g
+Polyunsaturated fat: 1.049 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 495 mg
+Potassium: 752 mg
+Calcium: 1039 mg
+Iron: 24.84 mg
+Magnesium: 473 mg
+Zinc: 17.29 mg
+
+Vitamins:
+Vitamin A: 865 µg
+Vitamin C: 103.8 mg
+Vitamin D: 9.6 µg
+Vitamin E: 51.92 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 2.307 mg
+Vitamin B12: 8.07 µg
+Folate: 385 µg

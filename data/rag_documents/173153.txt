@@ -1,0 +1,37 @@
+Food: Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, CHEWY TRAIL MIX
+Food ID: 173153
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 415 kcal
+Protein: 5.71 g
+Carbohydrates: 72.27 g
+Fat: 11.43 g
+Fiber: 3.8 g
+Sugar: 42.86 g
+
+Fats:
+Saturated fat: 1.435 g
+Monounsaturated fat: 4.585 g
+Polyunsaturated fat: 4.028 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 185 mg
+Potassium: 189 mg
+Calcium: 116 mg
+Iron: 8.71 mg
+Magnesium: 63 mg
+Zinc: 1.35 mg
+
+Vitamins:
+Vitamin A: 302 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 2.66 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.52 mg
+Vitamin B12: 0 µg
+Folate: 92 µg

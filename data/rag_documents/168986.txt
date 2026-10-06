@@ -1,0 +1,17 @@
+Food: Chiton, leathery, gumboots (Alaska Native)
+Food ID: 168986
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 17.1 g
+Carbohydrates: 0 g
+Fat: 1.6 g
+
+Minerals:
+Calcium: 121 mg
+Iron: 16 mg
+
+Vitamins:
+Vitamin C: 0 mg

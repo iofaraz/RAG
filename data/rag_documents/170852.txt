@@ -1,0 +1,32 @@
+Food: Cheese, tilsit
+Food ID: 170852
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 24.41 g
+Carbohydrates: 1.88 g
+Fat: 25.98 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 16.775 g
+Monounsaturated fat: 7.136 g
+Polyunsaturated fat: 0.721 g
+Cholesterol: 102 mg
+
+Minerals:
+Sodium: 753 mg
+Potassium: 65 mg
+Calcium: 700 mg
+Iron: 0.23 mg
+Magnesium: 13 mg
+Zinc: 3.5 mg
+
+Vitamins:
+Vitamin A: 249 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.065 mg
+Vitamin B12: 2.1 µg
+Folate: 20 µg

@@ -1,0 +1,36 @@
+Food: Lasagna with meat, frozen
+Food ID: 2708754
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 6.63 g
+Carbohydrates: 14.39 g
+Fat: 4.42 g
+Fiber: 1.4 g
+Sugar: 2.96 g
+
+Fats:
+Saturated fat: 2.067 g
+Monounsaturated fat: 1.6 g
+Polyunsaturated fat: 0.358 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 347 mg
+Potassium: 184 mg
+Calcium: 73 mg
+Iron: 0.65 mg
+Magnesium: 18 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 4.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0.74 µg
+Folate: 14 µg

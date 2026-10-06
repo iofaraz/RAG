@@ -1,0 +1,31 @@
+Food: Restaurant, Latino, Arroz con habichuelas colorados (Rice And Red Beans)
+Food ID: 168065
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 3.96 g
+Carbohydrates: 23.74 g
+Fat: 3.46 g
+Fiber: 2.6 g
+Sugar: 0.15 g
+
+Fats:
+Saturated fat: 0.502 g
+Monounsaturated fat: 0.691 g
+Polyunsaturated fat: 1.579 g
+Trans fat: 0.012 g
+
+Minerals:
+Sodium: 370 mg
+Potassium: 194 mg
+Calcium: 15 mg
+Iron: 1.22 mg
+Magnesium: 21 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin E: 0.23 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.047 mg

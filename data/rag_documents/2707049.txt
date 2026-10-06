@@ -1,0 +1,36 @@
+Food: Salami sandwich on wheat, with cheese
+Food ID: 2707049
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 325 kcal
+Protein: 16.73 g
+Carbohydrates: 20.96 g
+Fat: 19.04 g
+Fiber: 2.4 g
+Sugar: 2.81 g
+
+Fats:
+Saturated fat: 7.488 g
+Monounsaturated fat: 7.282 g
+Polyunsaturated fat: 2.848 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 1065 mg
+Potassium: 254 mg
+Calcium: 219 mg
+Iron: 2 mg
+Magnesium: 37 mg
+Zinc: 2.16 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.52 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.263 mg
+Vitamin B12: 0.7 µg
+Folate: 34 µg

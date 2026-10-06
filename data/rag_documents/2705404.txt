@@ -1,0 +1,36 @@
+Food: Soy milk, sweetened
+Food ID: 2705404
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 3.41 g
+Carbohydrates: 5.22 g
+Fat: 2.05 g
+Fiber: 0 g
+Sugar: 4.53 g
+
+Fats:
+Saturated fat: 0.301 g
+Monounsaturated fat: 0.399 g
+Polyunsaturated fat: 1.104 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 152 mg
+Calcium: 97 mg
+Iron: 0.52 mg
+Magnesium: 21 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.15 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.37 µg
+Folate: 19 µg

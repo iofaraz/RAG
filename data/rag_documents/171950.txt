@@ -1,0 +1,32 @@
+Food: Fish, burbot, raw
+Food ID: 171950
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 19.31 g
+Carbohydrates: 0 g
+Fat: 0.81 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.163 g
+Monounsaturated fat: 0.133 g
+Polyunsaturated fat: 0.297 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 97 mg
+Potassium: 404 mg
+Calcium: 50 mg
+Iron: 0.9 mg
+Magnesium: 32 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 0.8 µg
+Folate: 1 µg

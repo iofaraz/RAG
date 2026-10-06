@@ -1,0 +1,36 @@
+Food: Beef, ribeye filet, boneless, separable lean only, trimmed to 0" fat, choice, cooked, grilled
+Food ID: 174702
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 28.35 g
+Carbohydrates: 0.51 g
+Fat: 10.26 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.616 g
+Monounsaturated fat: 4.463 g
+Polyunsaturated fat: 0.407 g
+Trans fat: 0.466 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 409 mg
+Calcium: 6 mg
+Iron: 2.76 mg
+Magnesium: 28 mg
+Zinc: 7.19 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.543 mg
+Vitamin B12: 3.15 µg
+Folate: 7 µg

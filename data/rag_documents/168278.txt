@@ -1,0 +1,32 @@
+Food: Pork, cured, breakfast strips, raw or unheated
+Food ID: 168278
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 388 kcal
+Protein: 11.74 g
+Carbohydrates: 0.7 g
+Fat: 37.16 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 12.91 g
+Monounsaturated fat: 16.79 g
+Polyunsaturated fat: 5.55 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 987 mg
+Potassium: 204 mg
+Calcium: 8 mg
+Iron: 0.94 mg
+Magnesium: 12 mg
+Zinc: 1.66 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 27.2 mg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0.99 µg
+Folate: 3 µg

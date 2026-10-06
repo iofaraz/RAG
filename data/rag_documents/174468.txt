@@ -1,0 +1,32 @@
+Food: Duck, wild, meat and skin, raw
+Food ID: 174468
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 17.42 g
+Carbohydrates: 0 g
+Fat: 15.2 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 5.04 g
+Monounsaturated fat: 6.8 g
+Polyunsaturated fat: 2.02 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 249 mg
+Calcium: 5 mg
+Iron: 4.16 mg
+Magnesium: 20 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 5.2 mg
+Vitamin B6: 0.53 mg
+Vitamin B12: 0.65 µg
+Folate: 21 µg

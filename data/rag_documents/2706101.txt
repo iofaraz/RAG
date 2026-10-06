@@ -1,0 +1,36 @@
+Food: Chicken tenders or strips, breaded, from school lunch
+Food ID: 2706101
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 15.67 g
+Carbohydrates: 22.86 g
+Fat: 12.9 g
+Fiber: 2.2 g
+Sugar: 0.49 g
+
+Fats:
+Saturated fat: 2.83 g
+Monounsaturated fat: 3.593 g
+Polyunsaturated fat: 4.189 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 511 mg
+Potassium: 231 mg
+Calcium: 32 mg
+Iron: 1.99 mg
+Magnesium: 24 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.23 mg
+Vitamin K: 10.4 µg
+Vitamin B6: 0.309 mg
+Vitamin B12: 0.24 µg
+Folate: 11 µg

@@ -1,0 +1,36 @@
+Food: Cocoa powder, not reconstituted
+Food ID: 2705587
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 19.6 g
+Carbohydrates: 57.9 g
+Fat: 13.7 g
+Fiber: 37 g
+Sugar: 1.75 g
+
+Fats:
+Saturated fat: 8.07 g
+Monounsaturated fat: 4.57 g
+Polyunsaturated fat: 0.44 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 1524 mg
+Calcium: 128 mg
+Iron: 13.86 mg
+Magnesium: 499 mg
+Zinc: 6.81 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

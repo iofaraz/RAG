@@ -1,0 +1,36 @@
+Food: Mollusks, mussel, blue, raw
+Food ID: 174216
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 11.9 g
+Carbohydrates: 3.69 g
+Fat: 2.24 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.425 g
+Monounsaturated fat: 0.507 g
+Polyunsaturated fat: 0.606 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 286 mg
+Potassium: 320 mg
+Calcium: 26 mg
+Iron: 3.95 mg
+Magnesium: 34 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 12 µg
+Folate: 42 µg

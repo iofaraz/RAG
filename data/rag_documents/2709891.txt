@@ -1,0 +1,36 @@
+Food: Cabbage, green, cooked with oil
+Food ID: 2709891
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 58 kcal
+Protein: 0.97 g
+Carbohydrates: 6.43 g
+Fat: 3.26 g
+Fiber: 2.5 g
+Sugar: 3.23 g
+
+Fats:
+Saturated fat: 0.439 g
+Monounsaturated fat: 1.299 g
+Polyunsaturated fat: 1.179 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 133 mg
+Potassium: 209 mg
+Calcium: 43 mg
+Iron: 0.08 mg
+Magnesium: 14 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 34.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.73 mg
+Vitamin K: 62.9 µg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0 µg
+Folate: 37 µg

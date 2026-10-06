@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, heart, raw
+Food ID: 172527
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 16.47 g
+Carbohydrates: 0.21 g
+Fat: 5.68 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.25 g
+Monounsaturated fat: 1.6 g
+Polyunsaturated fat: 0.55 g
+Cholesterol: 135 mg
+
+Minerals:
+Sodium: 89 mg
+Potassium: 316 mg
+Calcium: 6 mg
+Iron: 4.6 mg
+Magnesium: 17 mg
+Zinc: 1.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5 mg
+Vitamin B6: 0.39 mg
+Vitamin B12: 10.25 µg
+Folate: 2 µg

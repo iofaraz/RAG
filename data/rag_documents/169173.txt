@@ -1,0 +1,36 @@
+Food: Pork, cured, ham, rump, bone-in, separable lean only, heated, roasted
+Food ID: 169173
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 26.02 g
+Carbohydrates: 0.68 g
+Fat: 3.07 g
+Fiber: 0 g
+Sugar: 0.68 g
+
+Fats:
+Saturated fat: 0.917 g
+Monounsaturated fat: 1.067 g
+Polyunsaturated fat: 0.562 g
+Trans fat: 0.021 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 846 mg
+Potassium: 394 mg
+Calcium: 8 mg
+Iron: 1.59 mg
+Magnesium: 24 mg
+Zinc: 3.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.33 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.479 mg
+Vitamin B12: 0.65 µg
+Folate: 0 µg

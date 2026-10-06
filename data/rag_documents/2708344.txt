@@ -1,0 +1,36 @@
+Food: Dumpling, no meat
+Food ID: 2708344
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 3.45 g
+Carbohydrates: 20.49 g
+Fat: 3.37 g
+Fiber: 0.7 g
+Sugar: 1.23 g
+
+Fats:
+Saturated fat: 0.959 g
+Monounsaturated fat: 1.159 g
+Polyunsaturated fat: 0.819 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 428 mg
+Potassium: 71 mg
+Calcium: 142 mg
+Iron: 1.57 mg
+Magnesium: 10 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.028 mg
+Vitamin B12: 0.11 µg
+Folate: 28 µg

@@ -1,0 +1,31 @@
+Food: WENDY'S, Ultimate Chicken Grill Sandwich
+Food ID: 170724
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 179 kcal
+Protein: 14.73 g
+Carbohydrates: 18.88 g
+Fat: 5 g
+Fiber: 1.1 g
+
+Fats:
+Saturated fat: 1.03 g
+Monounsaturated fat: 1.46 g
+Polyunsaturated fat: 1.81 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 427 mg
+Potassium: 221 mg
+Calcium: 25 mg
+Iron: 1.55 mg
+Magnesium: 24 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin C: 1.1 mg
+Vitamin K: 8.9 µg
+Vitamin B6: 0.141 mg
+Vitamin B12: 0.33 µg

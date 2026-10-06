@@ -1,0 +1,36 @@
+Food: Bread, lard, toasted, Puerto Rican style
+Food ID: 2707609
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 314 kcal
+Protein: 8.14 g
+Carbohydrates: 62.34 g
+Fat: 3.62 g
+Fiber: 2.2 g
+Sugar: 7.83 g
+
+Fats:
+Saturated fat: 1.089 g
+Monounsaturated fat: 1.228 g
+Polyunsaturated fat: 0.566 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 482 mg
+Potassium: 107 mg
+Calcium: 16 mg
+Iron: 3.97 mg
+Magnesium: 20 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0 µg
+Folate: 107 µg

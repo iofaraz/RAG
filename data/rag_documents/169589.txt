@@ -1,0 +1,37 @@
+Food: Candies, MARS SNACKFOOD US, SNICKERS Bar
+Food ID: 169589
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 491 kcal
+Protein: 7.53 g
+Carbohydrates: 61.51 g
+Fat: 23.85 g
+Fiber: 2.3 g
+Sugar: 50.47 g
+
+Fats:
+Saturated fat: 9.069 g
+Monounsaturated fat: 7.875 g
+Polyunsaturated fat: 3.014 g
+Trans fat: 0.436 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 239 mg
+Potassium: 323 mg
+Calcium: 93 mg
+Iron: 0.72 mg
+Magnesium: 72 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.5 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.16 µg
+Folate: 27 µg

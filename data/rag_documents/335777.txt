@@ -1,0 +1,16 @@
+Food: Beans, Dry, Medium Red (0% moisture)
+Food ID: 335777
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 25.5 g
+Fat: 1.04 g
+Fiber: 4.3 g
+
+Minerals:
+Potassium: 1490 mg
+Calcium: 193 mg
+Iron: 6.27 mg
+Magnesium: 178 mg
+Zinc: 3.82 mg

@@ -1,0 +1,17 @@
+Food: Beans, pinto, canned, sodium added, drained and rinsed
+Food ID: 2644292
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 6.69375 g
+Carbohydrates: 19.6002 g
+Fat: 1.266 g
+
+Minerals:
+Sodium: 201.6 mg
+Potassium: 209.6 mg
+Calcium: 55.23 mg
+Iron: 1.284 mg
+Magnesium: 27.49 mg
+Zinc: 0.6248 mg

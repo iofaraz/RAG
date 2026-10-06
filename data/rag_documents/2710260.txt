@@ -1,0 +1,36 @@
+Food: Sugar, brown
+Food ID: 2710260
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 380 kcal
+Protein: 0.12 g
+Carbohydrates: 98.09 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 97.02 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 133 mg
+Calcium: 83 mg
+Iron: 0.71 mg
+Magnesium: 9 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

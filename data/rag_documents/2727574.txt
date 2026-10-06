@@ -1,0 +1,20 @@
+Food: Beef, top sirloin steak, raw
+Food ID: 2727574
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 21.975 g
+Carbohydrates: 0.218 g
+Fat: 5.708 g
+
+Fats:
+Cholesterol: 60.13 mg
+
+Minerals:
+Sodium: 42.85 mg
+Potassium: 349.4 mg
+Calcium: 3.701 mg
+Iron: 2.224 mg
+Magnesium: 22.08 mg
+Zinc: 3.453 mg

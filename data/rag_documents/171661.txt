@@ -1,0 +1,37 @@
+Food: Cereals, oats, instant, fortified, plain, dry
+Food ID: 171661
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 362 kcal
+Protein: 11.92 g
+Carbohydrates: 69.52 g
+Fat: 6.9 g
+Fiber: 10 g
+Sugar: 1.5 g
+
+Fats:
+Saturated fat: 1.346 g
+Monounsaturated fat: 2.325 g
+Polyunsaturated fat: 2.533 g
+Trans fat: 0.016 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 220 mg
+Potassium: 366 mg
+Calcium: 351 mg
+Iron: 24.72 mg
+Magnesium: 128 mg
+Zinc: 2.51 mg
+
+Vitamins:
+Vitamin A: 772 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

@@ -1,0 +1,36 @@
+Food: Meat loaf made with beef, with tomato-based sauce
+Food ID: 2706500
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 13.78 g
+Carbohydrates: 6.77 g
+Fat: 8.35 g
+Fiber: 0.7 g
+Sugar: 2.23 g
+
+Fats:
+Saturated fat: 3.067 g
+Monounsaturated fat: 3.539 g
+Polyunsaturated fat: 0.494 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 429 mg
+Potassium: 279 mg
+Calcium: 53 mg
+Iron: 1.8 mg
+Magnesium: 18 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.45 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.229 mg
+Vitamin B12: 1.28 µg
+Folate: 18 µg

@@ -1,0 +1,36 @@
+Food: Beef and rice with cheese sauce
+Food ID: 2706498
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 8.08 g
+Carbohydrates: 14.66 g
+Fat: 5.35 g
+Fiber: 0.4 g
+Sugar: 0.16 g
+
+Fats:
+Saturated fat: 2.271 g
+Monounsaturated fat: 2.107 g
+Polyunsaturated fat: 0.235 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 298 mg
+Potassium: 106 mg
+Calcium: 33 mg
+Iron: 1.35 mg
+Magnesium: 12 mg
+Zinc: 1.75 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.121 mg
+Vitamin B12: 0.65 µg
+Folate: 29 µg

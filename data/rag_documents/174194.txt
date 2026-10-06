@@ -1,0 +1,32 @@
+Food: Fish, eel, mixed species, cooked, dry heat
+Food ID: 174194
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 23.65 g
+Carbohydrates: 0 g
+Fat: 14.95 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.023 g
+Monounsaturated fat: 9.218 g
+Polyunsaturated fat: 1.214 g
+Cholesterol: 161 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 349 mg
+Calcium: 26 mg
+Iron: 0.64 mg
+Magnesium: 26 mg
+Zinc: 2.08 mg
+
+Vitamins:
+Vitamin A: 1137 µg
+Vitamin C: 1.8 mg
+Vitamin B6: 0.077 mg
+Vitamin B12: 2.89 µg
+Folate: 17 µg

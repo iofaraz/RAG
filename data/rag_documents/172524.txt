@@ -1,0 +1,36 @@
+Food: Game meat, squirrel, cooked, roasted
+Food ID: 172524
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 30.77 g
+Carbohydrates: 0 g
+Fat: 4.69 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.54 g
+Monounsaturated fat: 1.786 g
+Polyunsaturated fat: 1.683 g
+Cholesterol: 121 mg
+
+Minerals:
+Sodium: 119 mg
+Potassium: 352 mg
+Calcium: 3 mg
+Iron: 6.81 mg
+Magnesium: 28 mg
+Zinc: 1.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.37 mg
+Vitamin B12: 6.51 µg
+Folate: 9 µg

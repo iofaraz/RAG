@@ -1,0 +1,21 @@
+Food: Plum, black, with skin, raw
+Food ID: 2710837
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.578125 g
+Carbohydrates: 13.4556 g
+Fat: 0.2825 g
+Fiber: 1.346 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 186.3 mg
+Calcium: 4.031 mg
+Iron: 0 mg
+Magnesium: 6.615 mg
+Zinc: 0.04518 mg
+
+Vitamins:
+Vitamin C: 1.824 mg

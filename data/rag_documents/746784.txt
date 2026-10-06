@@ -1,0 +1,18 @@
+Food: Sugars, granulated
+Food ID: 746784
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 385 kcal
+Protein: 0 g
+Carbohydrates: 99.6 g
+Fat: 0.32 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 2 mg
+Calcium: 1 mg
+Iron: 0.05 mg
+Magnesium: 0.3 mg
+Zinc: 0.01 mg

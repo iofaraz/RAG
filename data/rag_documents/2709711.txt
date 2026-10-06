@@ -1,0 +1,36 @@
+Food: Sweet potato fries, frozen
+Food ID: 2709711
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 2.27 g
+Carbohydrates: 37.45 g
+Fat: 9.39 g
+Fiber: 6 g
+Sugar: 13.58 g
+
+Fats:
+Saturated fat: 1.218 g
+Monounsaturated fat: 3.898 g
+Polyunsaturated fat: 3.014 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 154 mg
+Potassium: 431 mg
+Calcium: 55 mg
+Iron: 0.81 mg
+Magnesium: 27 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 457 µg
+Vitamin C: 7.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.57 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.186 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

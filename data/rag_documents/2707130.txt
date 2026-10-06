@@ -1,0 +1,36 @@
+Food: Soup, Italian wedding
+Food ID: 2707130
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 3.57 g
+Carbohydrates: 7.38 g
+Fat: 2.4 g
+Fiber: 0.9 g
+Sugar: 0.69 g
+
+Fats:
+Saturated fat: 0.804 g
+Monounsaturated fat: 0.912 g
+Polyunsaturated fat: 0.29 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 239 mg
+Potassium: 138 mg
+Calcium: 22 mg
+Iron: 0.68 mg
+Magnesium: 23 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 72 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.45 mg
+Vitamin K: 86.3 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 0.22 µg
+Folate: 32 µg

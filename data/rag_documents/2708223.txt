@@ -1,0 +1,36 @@
+Food: Popcorn, microwave, NFS
+Food ID: 2708223
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 518 kcal
+Protein: 9.13 g
+Carbohydrates: 54.99 g
+Fat: 30.57 g
+Fiber: 10.2 g
+Sugar: 0.61 g
+
+Fats:
+Saturated fat: 14.304 g
+Monounsaturated fat: 6.777 g
+Polyunsaturated fat: 7.417 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 764 mg
+Potassium: 232 mg
+Calcium: 6 mg
+Iron: 2.26 mg
+Magnesium: 102 mg
+Zinc: 2.18 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.07 mg
+Vitamin K: 28.4 µg
+Vitamin B6: 0.111 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

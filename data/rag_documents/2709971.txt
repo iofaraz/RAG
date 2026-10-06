@@ -1,0 +1,36 @@
+Food: Green peas, canned, cooked with butter or margarine
+Food ID: 2709971
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 4.36 g
+Carbohydrates: 11.04 g
+Fat: 2.97 g
+Fiber: 4.8 g
+Sugar: 2.91 g
+
+Fats:
+Saturated fat: 1.086 g
+Monounsaturated fat: 0.647 g
+Polyunsaturated fat: 0.71 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 282 mg
+Potassium: 104 mg
+Calcium: 23 mg
+Iron: 1.15 mg
+Magnesium: 18 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.58 mg
+Vitamin K: 37 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

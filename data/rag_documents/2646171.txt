@@ -1,0 +1,24 @@
+Food: Chicken, thigh, boneless, skinless, raw
+Food ID: 2646171
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 18.6125 g
+Carbohydrates: 0 g
+Fat: 7.916 g
+
+Fats:
+Saturated fat: 1.658 g
+Monounsaturated fat: 2.239 g
+Polyunsaturated fat: 1.42 g
+Trans fat: 0.02375 g
+Cholesterol: 91.66 mg
+
+Minerals:
+Sodium: 62.33 mg
+Potassium: 271.8 mg
+Calcium: 5.65 mg
+Iron: 0.6018 mg
+Magnesium: 21.8 mg
+Zinc: 1.348 mg

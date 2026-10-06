@@ -1,0 +1,14 @@
+Food: Oil, whale, bowhead (Alaska Native)
+Food ID: 167625
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 900 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+
+Minerals:
+Calcium: 0 mg
+Iron: 0 mg

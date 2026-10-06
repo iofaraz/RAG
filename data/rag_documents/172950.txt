@@ -1,0 +1,36 @@
+Food: Luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes SPAM, 25% less sodium
+Food ID: 172950
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 293 kcal
+Protein: 12.5 g
+Carbohydrates: 3.4 g
+Fat: 25.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.873 g
+Monounsaturated fat: 12.34 g
+Polyunsaturated fat: 2.666 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 1036 mg
+Potassium: 564 mg
+Calcium: 0 mg
+Iron: 0.64 mg
+Magnesium: 14 mg
+Zinc: 2.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 43 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.283 mg
+Vitamin B12: 0.61 µg
+Folate: 4 µg

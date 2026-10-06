@@ -1,0 +1,36 @@
+Food: Margarine-like shortening, industrial, soy (partially hydrogenated), cottonseed, and soy, principal use flaky pastries
+Food ID: 173599
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 628 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 71 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 22.869 g
+Monounsaturated fat: 37.243 g
+Polyunsaturated fat: 7.512 g
+Trans fat: 19.068 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 864 mg
+Potassium: 0 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 6.13 mg
+Vitamin K: 43 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

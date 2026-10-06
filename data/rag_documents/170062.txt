@@ -1,0 +1,37 @@
+Food: Turnip greens and turnips, frozen, cooked, boiled, drained, without salt
+Food ID: 170062
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 2.99 g
+Carbohydrates: 4.85 g
+Fat: 0.38 g
+Fiber: 3.1 g
+Sugar: 1.07 g
+
+Fats:
+Saturated fat: 0.085 g
+Monounsaturated fat: 0.024 g
+Polyunsaturated fat: 0.16 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 216 mg
+Calcium: 128 mg
+Iron: 1.75 mg
+Magnesium: 24 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 431 µg
+Vitamin C: 18.2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.13 mg
+Vitamin K: 415.1 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

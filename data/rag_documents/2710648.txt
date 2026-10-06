@@ -1,0 +1,36 @@
+Food: Rob Roy
+Food ID: 2710648
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 0.05 g
+Carbohydrates: 3.6 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 2.05 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 26 mg
+Calcium: 2 mg
+Iron: 0.09 mg
+Magnesium: 2 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

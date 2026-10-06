@@ -1,0 +1,36 @@
+Food: Clams, baked or broiled
+Food ID: 2706340
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 18.23 g
+Carbohydrates: 4.44 g
+Fat: 5.73 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.419 g
+Monounsaturated fat: 1.758 g
+Polyunsaturated fat: 1.54 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 285 mg
+Potassium: 58 mg
+Calcium: 49 mg
+Iron: 2.02 mg
+Magnesium: 24 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 126 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.52 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 11.91 µg
+Folate: 5 µg

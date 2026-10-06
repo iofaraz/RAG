@@ -1,0 +1,36 @@
+Food: Peanuts, dry roasted, unsalted
+Food ID: 2707519
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 587 kcal
+Protein: 24.35 g
+Carbohydrates: 21.26 g
+Fat: 49.66 g
+Fiber: 8.4 g
+Sugar: 4.9 g
+
+Fats:
+Saturated fat: 7.723 g
+Monounsaturated fat: 26.181 g
+Polyunsaturated fat: 9.773 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 634 mg
+Calcium: 58 mg
+Iron: 1.58 mg
+Magnesium: 178 mg
+Zinc: 2.77 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4.93 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.466 mg
+Vitamin B12: 0 µg
+Folate: 97 µg

@@ -1,0 +1,36 @@
+Food: Sausage and peppers, no sauce
+Food ID: 2706776
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 247 kcal
+Protein: 13.99 g
+Carbohydrates: 3.26 g
+Fat: 19.87 g
+Fiber: 0.3 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 6.929 g
+Monounsaturated fat: 8.779 g
+Polyunsaturated fat: 3.778 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 551 mg
+Potassium: 263 mg
+Calcium: 11 mg
+Iron: 1.09 mg
+Magnesium: 16 mg
+Zinc: 1.85 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 15.4 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.73 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.285 mg
+Vitamin B12: 0.76 µg
+Folate: 3 µg

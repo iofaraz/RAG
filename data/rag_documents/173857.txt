@@ -1,0 +1,37 @@
+Food: Bologna, turkey
+Food ID: 173857
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 209 kcal
+Protein: 11.42 g
+Carbohydrates: 4.68 g
+Fat: 16.05 g
+Fiber: 0.5 g
+Sugar: 2.9 g
+
+Fats:
+Saturated fat: 4.355 g
+Monounsaturated fat: 6.836 g
+Polyunsaturated fat: 3.854 g
+Trans fat: 0.123 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 1071 mg
+Potassium: 135 mg
+Calcium: 123 mg
+Iron: 3 mg
+Magnesium: 16 mg
+Zinc: 1.3 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 13.3 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.45 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.243 mg
+Vitamin B12: 0.23 µg
+Folate: 9 µg

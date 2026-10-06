@@ -1,0 +1,37 @@
+Food: Carrot, dehydrated
+Food ID: 170500
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 8.1 g
+Carbohydrates: 79.57 g
+Fat: 1.49 g
+Fiber: 23.6 g
+Sugar: 38.82 g
+
+Fats:
+Saturated fat: 0.256 g
+Monounsaturated fat: 0.076 g
+Polyunsaturated fat: 0.73 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 275 mg
+Potassium: 2540 mg
+Calcium: 212 mg
+Iron: 3.93 mg
+Magnesium: 118 mg
+Zinc: 1.57 mg
+
+Vitamins:
+Vitamin A: 3423 µg
+Vitamin C: 14.6 mg
+Vitamin D: 0 µg
+Vitamin E: 5.45 mg
+Vitamin K: 108 µg
+Vitamin B6: 1.04 mg
+Vitamin B12: 0 µg
+Folate: 55 µg

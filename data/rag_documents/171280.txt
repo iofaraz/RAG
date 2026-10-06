@@ -1,0 +1,32 @@
+Food: Milk, indian buffalo, fluid
+Food ID: 171280
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 3.75 g
+Carbohydrates: 5.18 g
+Fat: 6.89 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.597 g
+Monounsaturated fat: 1.787 g
+Polyunsaturated fat: 0.146 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 178 mg
+Calcium: 169 mg
+Iron: 0.12 mg
+Magnesium: 31 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 2.3 mg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0.36 µg
+Folate: 6 µg

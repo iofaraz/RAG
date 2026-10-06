@@ -1,0 +1,36 @@
+Food: Chicken, fried, with potatoes, vegetable, frozen meal
+Food ID: 2707106
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 10.26 g
+Carbohydrates: 10.63 g
+Fat: 8.13 g
+Fiber: 1.7 g
+Sugar: 1.29 g
+
+Fats:
+Saturated fat: 2.663 g
+Monounsaturated fat: 3.288 g
+Polyunsaturated fat: 1.427 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 669 mg
+Potassium: 247 mg
+Calcium: 36 mg
+Iron: 0.62 mg
+Magnesium: 20 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.39 mg
+Vitamin K: 5.6 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.25 µg
+Folate: 15 µg

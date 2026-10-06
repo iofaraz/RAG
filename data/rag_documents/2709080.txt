@@ -1,0 +1,36 @@
+Food: Flavored rice mixture with cheese
+Food ID: 2709080
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 2.99 g
+Carbohydrates: 25.22 g
+Fat: 1.2 g
+Fiber: 0.6 g
+Sugar: 1.8 g
+
+Fats:
+Saturated fat: 0.599 g
+Monounsaturated fat: 0.256 g
+Polyunsaturated fat: 0.228 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 389 mg
+Potassium: 102 mg
+Calcium: 47 mg
+Iron: 1.46 mg
+Magnesium: 29 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.19 µg
+Folate: 36 µg

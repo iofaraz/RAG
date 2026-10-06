@@ -1,0 +1,36 @@
+Food: Turkey sandwich on white, with cheese
+Food ID: 2706982
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 13.31 g
+Carbohydrates: 23.22 g
+Fat: 7.47 g
+Fiber: 1 g
+Sugar: 3.14 g
+
+Fats:
+Saturated fat: 3.235 g
+Monounsaturated fat: 1.763 g
+Polyunsaturated fat: 1.399 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 683 mg
+Potassium: 226 mg
+Calcium: 236 mg
+Iron: 1.71 mg
+Magnesium: 24 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.26 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.22 mg
+Vitamin B12: 0.38 µg
+Folate: 53 µg

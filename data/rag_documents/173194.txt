@@ -1,0 +1,13 @@
+Food: Alcoholic Beverage, wine, table, red, Claret
+Food ID: 173194
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 0.07 g
+Carbohydrates: 3.01 g
+Fat: 0 g
+
+Fats:
+Trans fat: 0 g

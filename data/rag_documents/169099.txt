@@ -1,0 +1,37 @@
+Food: Orange juice, canned, unsweetened
+Food ID: 169099
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.68 g
+Carbohydrates: 11.01 g
+Fat: 0.15 g
+Fiber: 0.3 g
+Sugar: 8.76 g
+
+Fats:
+Saturated fat: 0.018 g
+Monounsaturated fat: 0.025 g
+Polyunsaturated fat: 0.034 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 184 mg
+Calcium: 10 mg
+Iron: 0.1 mg
+Magnesium: 10 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 30.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

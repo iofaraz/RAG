@@ -1,0 +1,34 @@
+Food: Game meat, bison, chuck, shoulder clod, separable lean only, cooked, braised
+Food ID: 174424
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 193 kcal
+Protein: 33.78 g
+Carbohydrates: 0 g
+Fat: 5.43 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.32 g
+Monounsaturated fat: 2.122 g
+Polyunsaturated fat: 0.255 g
+Cholesterol: 111 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 316 mg
+Calcium: 7 mg
+Iron: 4.86 mg
+Magnesium: 26 mg
+Zinc: 8.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.23 mg
+Vitamin B6: 0.458 mg
+Vitamin B12: 2.38 µg
+Folate: 21 µg

@@ -1,0 +1,29 @@
+Food: Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8" fat, choice, cooked, grilled
+Food ID: 335061
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 27.3 g
+Carbohydrates: 0 g
+Fat: 11.4 g
+
+Fats:
+Saturated fat: 4.68 g
+Monounsaturated fat: 4.67 g
+Polyunsaturated fat: 0.514 g
+Trans fat: 0.594 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 283 mg
+Calcium: 19 mg
+Iron: 3.53 mg
+Magnesium: 20 mg
+Zinc: 4.69 mg
+
+Vitamins:
+Vitamin B6: 0.753 mg
+Vitamin B12: 1.88 µg

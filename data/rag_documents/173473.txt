@@ -1,0 +1,34 @@
+Food: Rosemary, fresh
+Food ID: 173473
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 3.31 g
+Carbohydrates: 20.7 g
+Fat: 5.86 g
+Fiber: 14.1 g
+
+Fats:
+Saturated fat: 2.838 g
+Monounsaturated fat: 1.16 g
+Polyunsaturated fat: 0.901 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 668 mg
+Calcium: 317 mg
+Iron: 6.65 mg
+Magnesium: 91 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 146 µg
+Vitamin C: 21.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.336 mg
+Vitamin B12: 0 µg
+Folate: 109 µg

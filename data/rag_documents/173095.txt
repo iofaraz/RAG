@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, variety meats and by-products, tripe cooked, boiled
+Food ID: 173095
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 19 g
+Carbohydrates: 0 g
+Fat: 2.98 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.922 g
+Monounsaturated fat: 0.718 g
+Polyunsaturated fat: 0.159 g
+Trans fat: 0.07 g
+Cholesterol: 199 mg
+
+Minerals:
+Sodium: 40 mg
+Potassium: 102 mg
+Calcium: 158 mg
+Iron: 3.72 mg
+Magnesium: 24 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.51 mg
+Vitamin B6: 0.013 mg
+Vitamin B12: 2.29 µg

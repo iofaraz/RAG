@@ -1,0 +1,30 @@
+Food: Pepeao, dried
+Food ID: 168418
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 298 kcal
+Protein: 4.82 g
+Carbohydrates: 81.03 g
+Fat: 0.44 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 708 mg
+Calcium: 113 mg
+Iron: 6.14 mg
+Magnesium: 146 mg
+Zinc: 7.52 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.95 mg
+Vitamin B12: 0 µg
+Folate: 160 µg

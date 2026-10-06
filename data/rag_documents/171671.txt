@@ -1,0 +1,36 @@
+Food: Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt
+Food ID: 171671
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 1.71 g
+Carbohydrates: 14.76 g
+Fat: 0.46 g
+Fiber: 0.8 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 0.066 g
+Monounsaturated fat: 0.064 g
+Polyunsaturated fat: 0.165 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 223 mg
+Potassium: 27 mg
+Calcium: 1 mg
+Iron: 0.57 mg
+Magnesium: 7 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

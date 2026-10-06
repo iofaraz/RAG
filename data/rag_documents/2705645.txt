@@ -1,0 +1,36 @@
+Food: Ice cream cone, scooped, vanilla
+Food ID: 2705645
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 3.68 g
+Carbohydrates: 25.82 g
+Fat: 10.84 g
+Fiber: 0.8 g
+Sugar: 20.61 g
+
+Fats:
+Saturated fat: 6.567 g
+Monounsaturated fat: 2.924 g
+Polyunsaturated fat: 0.564 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 87 mg
+Potassium: 196 mg
+Calcium: 124 mg
+Iron: 0.23 mg
+Magnesium: 14 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.32 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.37 µg
+Folate: 12 µg

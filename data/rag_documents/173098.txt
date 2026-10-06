@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, bolar blade, separable lean and fat, raw
+Food ID: 173098
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 21.29 g
+Carbohydrates: 0 g
+Fat: 8.22 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.017 g
+Monounsaturated fat: 2.884 g
+Polyunsaturated fat: 0.318 g
+Trans fat: 0.19 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 313 mg
+Calcium: 4 mg
+Iron: 1.97 mg
+Magnesium: 22 mg
+Zinc: 3.46 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.37 mg
+Vitamin B6: 0.315 mg
+Vitamin B12: 1.71 µg

@@ -1,0 +1,30 @@
+Food: Mutton, cooked, roasted (Navajo)
+Food ID: 167634
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 33.43 g
+Carbohydrates: 0.08 g
+Fat: 11.09 g
+
+Fats:
+Saturated fat: 5.142 g
+Monounsaturated fat: 4.459 g
+Polyunsaturated fat: 0.814 g
+Cholesterol: 109 mg
+
+Minerals:
+Sodium: 135 mg
+Potassium: 409 mg
+Calcium: 10 mg
+Iron: 4.76 mg
+Magnesium: 31 mg
+Zinc: 5.93 mg
+
+Vitamins:
+Vitamin E: 0.8 mg
+Vitamin B6: 0.377 mg
+Vitamin B12: 4.44 µg
+Folate: 0 µg

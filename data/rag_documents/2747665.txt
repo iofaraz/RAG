@@ -1,0 +1,22 @@
+Food: Radishes, red, raw
+Food ID: 2747665
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.65625 g
+Carbohydrates: 4.05682 g
+Fat: 0.08313 g
+Fiber: 1.314 g
+
+Minerals:
+Sodium: 51.16 mg
+Potassium: 197.8 mg
+Calcium: 21.51 mg
+Iron: 0 mg
+Magnesium: 8.944 mg
+Zinc: 0.1039 mg
+
+Vitamins:
+Vitamin C: 17.76 mg
+Folate: 63.2 µg

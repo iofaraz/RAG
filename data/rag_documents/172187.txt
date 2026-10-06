@@ -1,0 +1,37 @@
+Food: Egg, whole, cooked, scrambled
+Food ID: 172187
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 9.99 g
+Carbohydrates: 1.61 g
+Fat: 10.98 g
+Fiber: 0 g
+Sugar: 1.39 g
+
+Fats:
+Saturated fat: 3.331 g
+Monounsaturated fat: 4.441 g
+Polyunsaturated fat: 2.429 g
+Trans fat: 0.624 g
+Cholesterol: 277 mg
+
+Minerals:
+Sodium: 145 mg
+Potassium: 132 mg
+Calcium: 66 mg
+Iron: 1.31 mg
+Magnesium: 11 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 161 µg
+Vitamin C: 0 mg
+Vitamin D: 1.8 µg
+Vitamin E: 1.15 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.76 µg
+Folate: 36 µg

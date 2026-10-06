@@ -1,0 +1,36 @@
+Food: Carrots, canned, cooked with oil
+Food ID: 2709675
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 0.62 g
+Carbohydrates: 5.38 g
+Fat: 3.1 g
+Fiber: 1.5 g
+Sugar: 2.41 g
+
+Fats:
+Saturated fat: 0.424 g
+Monounsaturated fat: 1.243 g
+Polyunsaturated fat: 1.208 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 235 mg
+Potassium: 174 mg
+Calcium: 24 mg
+Iron: 0.63 mg
+Magnesium: 8 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 542 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.27 mg
+Vitamin K: 12.4 µg
+Vitamin B6: 0.109 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

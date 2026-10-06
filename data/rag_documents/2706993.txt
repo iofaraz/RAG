@@ -1,0 +1,36 @@
+Food: Club sandwich on white
+Food ID: 2706993
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 222 kcal
+Protein: 15.08 g
+Carbohydrates: 23.09 g
+Fat: 7.48 g
+Fiber: 1 g
+Sugar: 2.62 g
+
+Fats:
+Saturated fat: 2.253 g
+Monounsaturated fat: 2.763 g
+Polyunsaturated fat: 1.923 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 769 mg
+Potassium: 283 mg
+Calcium: 101 mg
+Iron: 1.86 mg
+Magnesium: 24 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.277 mg
+Vitamin B12: 0.29 µg
+Folate: 51 µg

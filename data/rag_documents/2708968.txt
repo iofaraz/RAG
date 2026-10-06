@@ -1,0 +1,36 @@
+Food: Sushi, topped with eel
+Food ID: 2708968
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 7.6 g
+Carbohydrates: 13.39 g
+Fat: 4.16 g
+Fiber: 0.6 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 0.84 g
+Monounsaturated fat: 2.533 g
+Polyunsaturated fat: 0.369 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 308 mg
+Potassium: 100 mg
+Calcium: 9 mg
+Iron: 0.26 mg
+Magnesium: 10 mg
+Zinc: 0.81 mg
+
+Vitamins:
+Vitamin A: 307 µg
+Vitamin C: 0.5 mg
+Vitamin D: 8.1 µg
+Vitamin E: 1.41 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0.94 µg
+Folate: 5 µg

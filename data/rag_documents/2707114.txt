@@ -1,0 +1,36 @@
+Food: Chicken and vegetable entree with noodles, diet frozen meal
+Food ID: 2707114
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 7.58 g
+Carbohydrates: 9.78 g
+Fat: 1.89 g
+Fiber: 1.6 g
+Sugar: 2.27 g
+
+Fats:
+Saturated fat: 0.491 g
+Monounsaturated fat: 0.645 g
+Polyunsaturated fat: 0.36 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 283 mg
+Potassium: 245 mg
+Calcium: 21 mg
+Iron: 0.64 mg
+Magnesium: 18 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 13.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 12.5 µg
+Vitamin B6: 0.135 mg
+Vitamin B12: 0.08 µg
+Folate: 32 µg

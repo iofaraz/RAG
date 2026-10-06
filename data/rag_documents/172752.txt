@@ -1,0 +1,36 @@
+Food: Croutons, seasoned
+Food ID: 172752
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 465 kcal
+Protein: 10.8 g
+Carbohydrates: 63.5 g
+Fat: 18.3 g
+Fiber: 5 g
+Sugar: 4.41 g
+
+Fats:
+Saturated fat: 5.247 g
+Monounsaturated fat: 9.498 g
+Polyunsaturated fat: 2.368 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 1333 mg
+Potassium: 181 mg
+Calcium: 96 mg
+Iron: 2.82 mg
+Magnesium: 42 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 7.6 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.14 µg
+Folate: 105 µg

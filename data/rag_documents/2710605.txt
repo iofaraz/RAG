@@ -1,0 +1,36 @@
+Food: Atole de avena
+Food ID: 2710605
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 1.74 g
+Carbohydrates: 15.46 g
+Fat: 1.58 g
+Fiber: 0.2 g
+Sugar: 13.98 g
+
+Fats:
+Saturated fat: 0.835 g
+Monounsaturated fat: 0.346 g
+Polyunsaturated fat: 0.102 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 74 mg
+Calcium: 56 mg
+Iron: 0.1 mg
+Magnesium: 9 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.22 µg
+Folate: 1 µg

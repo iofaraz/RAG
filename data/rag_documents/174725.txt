@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, hind shin, separable lean only, raw
+Food ID: 174725
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 21.46 g
+Carbohydrates: 0 g
+Fat: 3.12 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.881 g
+Monounsaturated fat: 1.257 g
+Polyunsaturated fat: 0.146 g
+Trans fat: 0.022 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 326 mg
+Calcium: 4 mg
+Iron: 2.04 mg
+Magnesium: 21 mg
+Zinc: 3.86 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin B6: 0.259 mg
+Vitamin B12: 1.51 µg

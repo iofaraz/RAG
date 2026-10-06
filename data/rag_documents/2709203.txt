@@ -1,0 +1,36 @@
+Food: Date
+Food ID: 2709203
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 2.45 g
+Carbohydrates: 75.03 g
+Fat: 0.39 g
+Fiber: 8 g
+Sugar: 63.35 g
+
+Fats:
+Saturated fat: 0.032 g
+Monounsaturated fat: 0.036 g
+Polyunsaturated fat: 0.019 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 656 mg
+Calcium: 39 mg
+Iron: 1.02 mg
+Magnesium: 43 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.165 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

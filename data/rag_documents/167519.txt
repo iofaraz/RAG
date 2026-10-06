@@ -1,0 +1,33 @@
+Food: Waffle, plain, frozen, ready-to-heat, microwave
+Food ID: 167519
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 298 kcal
+Protein: 6.71 g
+Carbohydrates: 45.41 g
+Fat: 9.91 g
+Fiber: 2.4 g
+Sugar: 5.04 g
+
+Fats:
+Saturated fat: 1.58 g
+Monounsaturated fat: 5.195 g
+Polyunsaturated fat: 2.24 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 682 mg
+Potassium: 148 mg
+Calcium: 197 mg
+Iron: 5.81 mg
+Magnesium: 25 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin E: 0.95 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 1.016 mg
+Vitamin B12: 2.18 µg
+Folate: 67 µg

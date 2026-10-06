@@ -1,0 +1,29 @@
+Food: Ruby Red grapefruit juice blend (grapefruit, grape, apple), OCEAN SPRAY, bottled, with added vitamin C
+Food ID: 167805
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 0.5 g
+Carbohydrates: 10.53 g
+Fat: 0.1 g
+Fiber: 0.2 g
+Sugar: 10.3 g
+
+Fats:
+Saturated fat: 0.008 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.014 g
+Trans fat: 0.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 94 mg
+Calcium: 10 mg
+Iron: 0.14 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 49.2 mg

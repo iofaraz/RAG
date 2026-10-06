@@ -1,0 +1,36 @@
+Food: Pretzels, hard, yogurt coated
+Food ID: 2708262
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 438 kcal
+Protein: 5.94 g
+Carbohydrates: 76.56 g
+Fat: 12.17 g
+Fiber: 1.1 g
+Sugar: 45.42 g
+
+Fats:
+Saturated fat: 9.863 g
+Monounsaturated fat: 0.748 g
+Polyunsaturated fat: 0.692 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 441 mg
+Potassium: 173 mg
+Calcium: 96 mg
+Iron: 1.78 mg
+Magnesium: 21 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.58 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.26 µg
+Folate: 71 µg

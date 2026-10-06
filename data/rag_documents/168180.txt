@@ -1,0 +1,29 @@
+Food: Blueberries, wild, canned, heavy syrup, drained
+Food ID: 168180
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 107 kcal
+Protein: 0.56 g
+Carbohydrates: 28.32 g
+Fat: 0.34 g
+Fiber: 4.9 g
+Sugar: 19.28 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 46 mg
+Calcium: 19 mg
+Iron: 2.2 mg
+Magnesium: 6 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin C: 0.3 mg
+Vitamin K: 14.8 µg
+Vitamin B6: 0.035 mg
+Folate: 8 µg

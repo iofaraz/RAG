@@ -1,0 +1,33 @@
+Food: Restaurant, Latino, chicken and rice, entree, prepared
+Food ID: 167659
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 12.02 g
+Carbohydrates: 20.03 g
+Fat: 5.06 g
+Fiber: 1.2 g
+Sugar: 0.55 g
+
+Fats:
+Saturated fat: 1.101 g
+Monounsaturated fat: 1.799 g
+Polyunsaturated fat: 1.564 g
+Trans fat: 0.06 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 518 mg
+Potassium: 184 mg
+Calcium: 18 mg
+Iron: 0.95 mg
+Magnesium: 18 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin E: 0.5 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 0.16 µg

@@ -1,0 +1,36 @@
+Food: Bread, reduced-calorie, rye
+Food ID: 174920
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 9.1 g
+Carbohydrates: 40.5 g
+Fat: 2.9 g
+Fiber: 12 g
+Sugar: 2.29 g
+
+Fats:
+Saturated fat: 0.368 g
+Monounsaturated fat: 0.672 g
+Polyunsaturated fat: 0.752 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 513 mg
+Potassium: 98 mg
+Calcium: 76 mg
+Iron: 3.1 mg
+Magnesium: 22 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.04 µg
+Folate: 58 µg

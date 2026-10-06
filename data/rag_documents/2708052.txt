@@ -1,0 +1,36 @@
+Food: Pastry, Italian, with cheese
+Food ID: 2708052
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 267 kcal
+Protein: 7.52 g
+Carbohydrates: 35.06 g
+Fat: 10.94 g
+Fiber: 0.8 g
+Sugar: 13.08 g
+
+Fats:
+Saturated fat: 5.145 g
+Monounsaturated fat: 2.715 g
+Polyunsaturated fat: 1.989 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 190 mg
+Calcium: 146 mg
+Iron: 1.45 mg
+Magnesium: 22 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.92 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.49 µg
+Folate: 29 µg

@@ -1,0 +1,36 @@
+Food: Taco, cheese only
+Food ID: 2708533
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 275 kcal
+Protein: 12.19 g
+Carbohydrates: 27.75 g
+Fat: 13.45 g
+Fiber: 3.8 g
+Sugar: 0.86 g
+
+Fats:
+Saturated fat: 7.088 g
+Monounsaturated fat: 2.912 g
+Polyunsaturated fat: 1.268 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 311 mg
+Potassium: 149 mg
+Calcium: 314 mg
+Iron: 0.76 mg
+Magnesium: 54 mg
+Zinc: 2.18 mg
+
+Vitamins:
+Vitamin A: 85 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.34 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0.48 µg
+Folate: 9 µg

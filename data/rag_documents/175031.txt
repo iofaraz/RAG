@@ -1,0 +1,36 @@
+Food: Rolls, hard (includes kaiser)
+Food ID: 175031
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 293 kcal
+Protein: 9.9 g
+Carbohydrates: 52.7 g
+Fat: 4.3 g
+Fiber: 2.3 g
+Sugar: 1.77 g
+
+Fats:
+Saturated fat: 0.606 g
+Monounsaturated fat: 1.133 g
+Polyunsaturated fat: 1.719 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 544 mg
+Potassium: 108 mg
+Calcium: 95 mg
+Iron: 3.28 mg
+Magnesium: 27 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0 µg
+Folate: 95 µg

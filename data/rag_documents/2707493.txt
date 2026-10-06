@@ -1,0 +1,36 @@
+Food: Cashews, NFS
+Food ID: 2707493
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 574 kcal
+Protein: 15.31 g
+Carbohydrates: 32.69 g
+Fat: 46.35 g
+Fiber: 3 g
+Sugar: 5.01 g
+
+Fats:
+Saturated fat: 9.157 g
+Monounsaturated fat: 27.317 g
+Polyunsaturated fat: 7.836 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 565 mg
+Calcium: 45 mg
+Iron: 6 mg
+Magnesium: 260 mg
+Zinc: 5.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 34.7 µg
+Vitamin B6: 0.256 mg
+Vitamin B12: 0 µg
+Folate: 69 µg

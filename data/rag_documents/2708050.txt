@@ -1,0 +1,36 @@
+Food: Pastry, Chinese, made with rice flour
+Food ID: 2708050
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 242 kcal
+Protein: 2.78 g
+Carbohydrates: 45.05 g
+Fat: 6 g
+Fiber: 0.5 g
+Sugar: 19.09 g
+
+Fats:
+Saturated fat: 0.892 g
+Monounsaturated fat: 1.869 g
+Polyunsaturated fat: 2.885 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 55 mg
+Calcium: 19 mg
+Iron: 0.35 mg
+Magnesium: 19 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.97 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.033 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

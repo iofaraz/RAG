@@ -1,0 +1,37 @@
+Food: Frostings, coconut-nut, ready-to-eat
+Food ID: 169618
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 433 kcal
+Protein: 1.5 g
+Carbohydrates: 52.7 g
+Fat: 24 g
+Fiber: 2.5 g
+Sugar: 40 g
+
+Fats:
+Saturated fat: 8.631 g
+Monounsaturated fat: 10.786 g
+Polyunsaturated fat: 3.264 g
+Trans fat: 3.748 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 160 mg
+Potassium: 186 mg
+Calcium: 13 mg
+Iron: 0.54 mg
+Magnesium: 19 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.09 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

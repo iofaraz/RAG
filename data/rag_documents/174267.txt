@@ -1,0 +1,37 @@
+Food: Peanut flour, defatted
+Food ID: 174267
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 327 kcal
+Protein: 52.2 g
+Carbohydrates: 34.7 g
+Fat: 0.55 g
+Fiber: 15.8 g
+Sugar: 8.22 g
+
+Fats:
+Saturated fat: 0.063 g
+Monounsaturated fat: 0.225 g
+Polyunsaturated fat: 0.143 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 180 mg
+Potassium: 1290 mg
+Calcium: 140 mg
+Iron: 2.1 mg
+Magnesium: 370 mg
+Zinc: 5.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.504 mg
+Vitamin B12: 0 µg
+Folate: 248 µg

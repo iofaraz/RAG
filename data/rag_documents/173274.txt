@@ -1,0 +1,37 @@
+Food: Fast foods, vanilla, light, soft-serve ice cream, with cone
+Food ID: 173274
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 163 kcal
+Protein: 4.24 g
+Carbohydrates: 26.36 g
+Fat: 4.86 g
+Fiber: 0.1 g
+Sugar: 19.49 g
+
+Fats:
+Saturated fat: 2.542 g
+Monounsaturated fat: 1.206 g
+Polyunsaturated fat: 0.297 g
+Trans fat: 0.28 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 193 mg
+Calcium: 129 mg
+Iron: 0.35 mg
+Magnesium: 13 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.58 µg
+Folate: 13 µg

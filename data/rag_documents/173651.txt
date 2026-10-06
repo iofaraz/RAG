@@ -1,0 +1,37 @@
+Food: Beverages, Orange-flavor drink, breakfast type, with pulp, frozen concentrate.
+Food ID: 173651
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 0.1 g
+Carbohydrates: 42.9 g
+Fat: 0.5 g
+Fiber: 0.2 g
+Sugar: 11.7 g
+
+Fats:
+Saturated fat: 0.078 g
+Monounsaturated fat: 0.226 g
+Polyunsaturated fat: 0.197 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 435 mg
+Calcium: 130 mg
+Iron: 0.26 mg
+Magnesium: 2 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 243.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

@@ -1,0 +1,36 @@
+Food: Rolls, french
+Food ID: 172795
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 8.6 g
+Carbohydrates: 50.2 g
+Fat: 4.3 g
+Fiber: 3.2 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 0.962 g
+Monounsaturated fat: 1.961 g
+Polyunsaturated fat: 0.834 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 574 mg
+Potassium: 114 mg
+Calcium: 91 mg
+Iron: 2.71 mg
+Magnesium: 20 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0 µg
+Folate: 113 µg

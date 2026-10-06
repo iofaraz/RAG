@@ -1,0 +1,36 @@
+Food: Toddler meal, meat and vegetables
+Food ID: 2710134
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 3.49 g
+Carbohydrates: 8.33 g
+Fat: 3.34 g
+Fiber: 1 g
+Sugar: 1.67 g
+
+Fats:
+Saturated fat: 0.505 g
+Monounsaturated fat: 1.78 g
+Polyunsaturated fat: 0.828 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 157 mg
+Potassium: 151 mg
+Calcium: 21 mg
+Iron: 0.51 mg
+Magnesium: 14 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin C: 6.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.58 mg
+Vitamin K: 9.5 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.15 µg
+Folate: 11 µg

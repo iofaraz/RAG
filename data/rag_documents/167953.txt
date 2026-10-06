@@ -1,0 +1,37 @@
+Food: Fruit syrup
+Food ID: 167953
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 0 g
+Carbohydrates: 85.13 g
+Fat: 0 g
+Fiber: 0.1 g
+Sugar: 53 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 7 mg
+Calcium: 8 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Alcoholic beverage, daiquiri, prepared-from-recipe
+Food ID: 169574
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 186 kcal
+Protein: 0.06 g
+Carbohydrates: 6.94 g
+Fat: 0.06 g
+Fiber: 0.1 g
+Sugar: 5.58 g
+
+Fats:
+Saturated fat: 0.006 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.016 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 21 mg
+Calcium: 3 mg
+Iron: 0.09 mg
+Magnesium: 2 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.6 mg
+Vitamin E: 0.03 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.008 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

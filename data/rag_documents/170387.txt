@@ -1,0 +1,30 @@
+Food: Butterbur, canned
+Food ID: 170387
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 3 kcal
+Protein: 0.11 g
+Carbohydrates: 0.38 g
+Fat: 0.13 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 12 mg
+Calcium: 34 mg
+Iron: 0.63 mg
+Magnesium: 2 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 11.9 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.033 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

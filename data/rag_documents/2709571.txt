@@ -1,0 +1,36 @@
+Food: Beet greens, cooked
+Food ID: 2709571
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 2.3 g
+Carbohydrates: 4.51 g
+Fat: 2.87 g
+Fiber: 3.9 g
+Sugar: 0.53 g
+
+Fats:
+Saturated fat: 0.737 g
+Monounsaturated fat: 0.998 g
+Polyunsaturated fat: 0.833 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 365 mg
+Potassium: 794 mg
+Calcium: 122 mg
+Iron: 2.68 mg
+Magnesium: 73 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 325 µg
+Vitamin C: 21.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.97 mg
+Vitamin K: 418.6 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

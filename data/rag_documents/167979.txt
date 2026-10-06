@@ -1,0 +1,24 @@
+Food: Candies, HERSHEY'S GOLDEN ALMOND SOLITAIRES
+Food ID: 167979
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 569 kcal
+Protein: 11.97 g
+Carbohydrates: 46.85 g
+Fat: 37.13 g
+Fiber: 4.4 g
+Sugar: 37.13 g
+
+Fats:
+Saturated fat: 15.23 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 52 mg
+Calcium: 203 mg
+Iron: 2.5 mg
+
+Vitamins:
+Vitamin C: 0 mg

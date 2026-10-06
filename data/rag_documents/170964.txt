@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, mixed, dry fortified
+Food ID: 170964
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 399 kcal
+Protein: 6.66 g
+Carbohydrates: 78.21 g
+Fat: 6.66 g
+Fiber: 6.7 g
+Sugar: 26.66 g
+
+Fats:
+Saturated fat: 0.769 g
+Monounsaturated fat: 1.206 g
+Polyunsaturated fat: 1.697 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 467 mg
+Calcium: 800 mg
+Iron: 30 mg
+Magnesium: 100 mg
+Zinc: 10.66 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 58.3 mg
+Vitamin D: 0 µg
+Vitamin E: 4.21 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 1.166 mg
+Vitamin B12: 5 µg
+Folate: 167 µg

@@ -1,0 +1,14 @@
+Food: Fish, salmon, king, chinook, smoked and canned (Alaska Native)
+Food ID: 167614
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 23.2 g
+Carbohydrates: 0 g
+Fat: 5.9 g
+
+Minerals:
+Calcium: 60 mg
+Iron: 1.8 mg

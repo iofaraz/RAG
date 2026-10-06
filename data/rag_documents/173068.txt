@@ -1,0 +1,28 @@
+Food: Beef, Australian, imported, grass-fed, ground, 85% lean / 15% fat, raw
+Food ID: 173068
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 17.72 g
+Carbohydrates: 0 g
+Fat: 18.12 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.938 g
+Monounsaturated fat: 7.969 g
+Polyunsaturated fat: 0.699 g
+Trans fat: 0.906 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 62 mg
+Calcium: 6 mg
+Iron: 1.79 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

@@ -1,0 +1,36 @@
+Food: Kiwifruit, ZESPRI SunGold, raw
+Food ID: 168211
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 1.02 g
+Carbohydrates: 15.79 g
+Fat: 0.28 g
+Fiber: 1.4 g
+Sugar: 12.3 g
+
+Fats:
+Saturated fat: 0.065 g
+Monounsaturated fat: 0.023 g
+Polyunsaturated fat: 0.111 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 315 mg
+Calcium: 17 mg
+Iron: 0.21 mg
+Magnesium: 12 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 161.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.4 mg
+Vitamin K: 6.1 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.08 µg
+Folate: 31 µg

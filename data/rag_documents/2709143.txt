@@ -1,0 +1,36 @@
+Food: Pancakes and sausage, frozen meal
+Food ID: 2709143
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 9 g
+Carbohydrates: 27.92 g
+Fat: 13.85 g
+Fiber: 0.6 g
+Sugar: 9.61 g
+
+Fats:
+Saturated fat: 3.554 g
+Monounsaturated fat: 6.052 g
+Polyunsaturated fat: 3.282 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 574 mg
+Potassium: 177 mg
+Calcium: 49 mg
+Iron: 1.72 mg
+Magnesium: 15 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1 mg
+Vitamin K: 7.2 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0.44 µg
+Folate: 32 µg

@@ -1,0 +1,33 @@
+Food: Beans, cranberry (roman), mature seeds, cooked, boiled, without salt
+Food ID: 173736
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 9.34 g
+Carbohydrates: 24.46 g
+Fat: 0.46 g
+Fiber: 8.6 g
+
+Fats:
+Saturated fat: 0.119 g
+Monounsaturated fat: 0.04 g
+Polyunsaturated fat: 0.199 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 387 mg
+Calcium: 50 mg
+Iron: 2.09 mg
+Magnesium: 50 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0 µg
+Folate: 207 µg

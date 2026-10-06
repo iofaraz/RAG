@@ -1,0 +1,36 @@
+Food: Soup, bouillon cubes and granules, low sodium, dry
+Food ID: 171613
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 438 kcal
+Protein: 16.7 g
+Carbohydrates: 64.88 g
+Fat: 13.89 g
+Fiber: 0.2 g
+Sugar: 14.47 g
+
+Fats:
+Saturated fat: 3.433 g
+Monounsaturated fat: 5.365 g
+Polyunsaturated fat: 4.485 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 1067 mg
+Potassium: 309 mg
+Calcium: 187 mg
+Iron: 1.03 mg
+Magnesium: 56 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 66.9 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.3 µg
+Folate: 21 µg

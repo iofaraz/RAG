@@ -1,0 +1,36 @@
+Food: Marie biscuit
+Food ID: 2707971
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 406 kcal
+Protein: 7.05 g
+Carbohydrates: 70.54 g
+Fat: 10.58 g
+Fiber: 3.5 g
+Sugar: 21.16 g
+
+Fats:
+Saturated fat: 5.291 g
+Monounsaturated fat: 2.694 g
+Polyunsaturated fat: 1.67 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 307 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 28 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.45 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.19 µg
+Folate: 118 µg

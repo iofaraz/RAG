@@ -1,0 +1,36 @@
+Food: Nuts, pistachio nuts, raw
+Food ID: 170184
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 560 kcal
+Protein: 20.16 g
+Carbohydrates: 27.17 g
+Fat: 45.32 g
+Fiber: 10.6 g
+Sugar: 7.66 g
+
+Fats:
+Saturated fat: 5.907 g
+Monounsaturated fat: 23.257 g
+Polyunsaturated fat: 14.38 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 1025 mg
+Calcium: 105 mg
+Iron: 3.92 mg
+Magnesium: 121 mg
+Zinc: 2.2 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 5.6 mg
+Vitamin D: 0 µg
+Vitamin E: 2.86 mg
+Vitamin B6: 1.7 mg
+Vitamin B12: 0 µg
+Folate: 51 µg

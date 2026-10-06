@@ -1,0 +1,20 @@
+Food: Grapes, green, seedless, raw
+Food ID: 2263891
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.89875 g
+Carbohydrates: 18.6038 g
+Fat: 0.2325 g
+
+Minerals:
+Sodium: 3.171 mg
+Potassium: 218.1 mg
+Calcium: 9.897 mg
+Iron: 0.1991 mg
+Magnesium: 7.118 mg
+Zinc: 0.02674 mg
+
+Vitamins:
+Vitamin C: 3.017 mg

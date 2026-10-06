@@ -1,0 +1,36 @@
+Food: Cookie, with peanut butter filling, chocolate-coated
+Food ID: 2707956
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 562 kcal
+Protein: 8.1 g
+Carbohydrates: 52.9 g
+Fat: 35.3 g
+Fiber: 3.5 g
+Sugar: 30.9 g
+
+Fats:
+Saturated fat: 19.2 g
+Monounsaturated fat: 8.4 g
+Polyunsaturated fat: 6.3 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 371 mg
+Potassium: 217 mg
+Calcium: 35 mg
+Iron: 2.1 mg
+Magnesium: 17 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4.32 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.01 µg
+Folate: 63 µg

@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, kidney, raw
+Food ID: 174442
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 15.21 g
+Carbohydrates: 0.03 g
+Fat: 2.54 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.768 g
+Monounsaturated fat: 0.391 g
+Polyunsaturated fat: 0.54 g
+Trans fat: 0.046 g
+Cholesterol: 369 mg
+
+Minerals:
+Sodium: 168 mg
+Potassium: 231 mg
+Calcium: 8 mg
+Iron: 6.6 mg
+Magnesium: 16 mg
+Zinc: 1.81 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.42 mg
+Vitamin B6: 0.173 mg
+Vitamin B12: 50.37 µg

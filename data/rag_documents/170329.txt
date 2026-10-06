@@ -1,0 +1,32 @@
+Food: BURGER KING, Cheeseburger
+Food ID: 170329
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 286 kcal
+Protein: 14.57 g
+Carbohydrates: 23.71 g
+Fat: 14.81 g
+Fiber: 1 g
+Sugar: 4.49 g
+
+Fats:
+Saturated fat: 6.842 g
+Monounsaturated fat: 5.704 g
+Polyunsaturated fat: 1.521 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 602 mg
+Potassium: 178 mg
+Calcium: 93 mg
+Iron: 2.5 mg
+Magnesium: 24 mg
+Zinc: 2.4 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin E: 0.1 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.09 mg

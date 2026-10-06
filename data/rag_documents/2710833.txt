@@ -1,0 +1,22 @@
+Food: Mango, Tommy Atkins, peeled, raw
+Food ID: 2710833
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.5625 g
+Carbohydrates: 15.265 g
+Fat: 0.5725 g
+Fiber: 1.753 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 165 mg
+Calcium: 12.4 mg
+Iron: 0 mg
+Magnesium: 10.26 mg
+Zinc: 0.0664 mg
+
+Vitamins:
+Vitamin C: 25.5 mg
+Vitamin B6: 0.07138 mg

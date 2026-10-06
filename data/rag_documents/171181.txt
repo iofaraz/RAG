@@ -1,0 +1,25 @@
+Food: SMART SOUP, Indian Bean Masala
+Food ID: 171181
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 3.3 g
+Carbohydrates: 10.5 g
+Fat: 0.88 g
+Fiber: 2.6 g
+Sugar: 2.3 g
+
+Fats:
+Saturated fat: 0.18 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 92 mg
+Calcium: 22 mg
+Iron: 1 mg
+
+Vitamins:
+Vitamin C: 0 mg

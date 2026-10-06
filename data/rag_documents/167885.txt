@@ -1,0 +1,36 @@
+Food: Pork, cured, ham, extra lean and regular, canned, unheated
+Food ID: 167885
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 17.97 g
+Carbohydrates: 0 g
+Fat: 7.46 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.45 g
+Monounsaturated fat: 3.57 g
+Polyunsaturated fat: 0.76 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 1276 mg
+Potassium: 334 mg
+Calcium: 6 mg
+Iron: 0.9 mg
+Magnesium: 16 mg
+Zinc: 1.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.46 mg
+Vitamin B12: 0.8 µg
+Folate: 6 µg

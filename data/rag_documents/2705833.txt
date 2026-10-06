@@ -1,0 +1,36 @@
+Food: Beef, steak, sirloin, lean and fat eaten
+Food ID: 2705833
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 262 kcal
+Protein: 26.23 g
+Carbohydrates: 0 g
+Fat: 16.65 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.556 g
+Monounsaturated fat: 6.938 g
+Polyunsaturated fat: 0.616 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 325 mg
+Calcium: 19 mg
+Iron: 1.68 mg
+Magnesium: 22 mg
+Zinc: 4.71 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.549 mg
+Vitamin B12: 1.55 µg
+Folate: 8 µg

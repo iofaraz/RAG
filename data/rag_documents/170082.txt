@@ -1,0 +1,37 @@
+Food: Shallots, freeze-dried
+Food ID: 170082
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 348 kcal
+Protein: 12.3 g
+Carbohydrates: 80.7 g
+Fat: 0.5 g
+Fiber: 15.7 g
+Sugar: 38.16 g
+
+Fats:
+Saturated fat: 0.084 g
+Monounsaturated fat: 0.07 g
+Polyunsaturated fat: 0.196 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 1650 mg
+Calcium: 183 mg
+Iron: 6 mg
+Magnesium: 104 mg
+Zinc: 1.93 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 39 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 1.675 mg
+Vitamin B12: 0 µg
+Folate: 116 µg

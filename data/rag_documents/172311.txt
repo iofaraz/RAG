@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, ENFACARE, with iron, powder, with ARA and DHA
+Food ID: 172311
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 505 kcal
+Protein: 13.9 g
+Carbohydrates: 53.8 g
+Fat: 26 g
+Fiber: 0 g
+Sugar: 34 g
+
+Fats:
+Saturated fat: 10.2 g
+Monounsaturated fat: 8.8 g
+Polyunsaturated fat: 5.402 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 184 mg
+Potassium: 520 mg
+Calcium: 600 mg
+Iron: 8.9 mg
+Magnesium: 40 mg
+Zinc: 6.2 mg
+
+Vitamins:
+Vitamin A: 670 µg
+Vitamin C: 79 mg
+Vitamin D: 9.3 µg
+Vitamin E: 8.9 mg
+Vitamin K: 41.3 µg
+Vitamin B6: 0.33 mg
+Vitamin B12: 1.49 µg
+Folate: 128 µg

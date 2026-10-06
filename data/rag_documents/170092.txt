@@ -1,0 +1,36 @@
+Food: Potato pancakes
+Food ID: 170092
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 268 kcal
+Protein: 6.08 g
+Carbohydrates: 27.81 g
+Fat: 14.76 g
+Fiber: 3.3 g
+Sugar: 1.79 g
+
+Fats:
+Saturated fat: 2.496 g
+Monounsaturated fat: 3.73 g
+Polyunsaturated fat: 7.516 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 764 mg
+Potassium: 622 mg
+Calcium: 32 mg
+Iron: 1.67 mg
+Magnesium: 36 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 27.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.23 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.448 mg
+Vitamin B12: 0.29 µg
+Folate: 41 µg

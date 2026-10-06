@@ -1,0 +1,37 @@
+Food: Spices, parsley, dried
+Food ID: 170930
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 292 kcal
+Protein: 26.63 g
+Carbohydrates: 50.64 g
+Fat: 5.48 g
+Fiber: 26.7 g
+Sugar: 7.27 g
+
+Fats:
+Saturated fat: 1.378 g
+Monounsaturated fat: 0.761 g
+Polyunsaturated fat: 3.124 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 452 mg
+Potassium: 2683 mg
+Calcium: 1140 mg
+Iron: 22.04 mg
+Magnesium: 400 mg
+Zinc: 5.44 mg
+
+Vitamins:
+Vitamin A: 97 µg
+Vitamin C: 125 mg
+Vitamin D: 0 µg
+Vitamin E: 8.96 mg
+Vitamin K: 1359.5 µg
+Vitamin B6: 0.9 mg
+Vitamin B12: 0 µg
+Folate: 180 µg

@@ -1,0 +1,37 @@
+Food: Babyfood, GERBER, GRADUATES Lil Biscuits Vanilla Wheat
+Food ID: 171371
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 407 kcal
+Protein: 7.97 g
+Carbohydrates: 72.48 g
+Fat: 9.27 g
+Fiber: 5.9 g
+Sugar: 24.9 g
+
+Fats:
+Saturated fat: 0.81 g
+Monounsaturated fat: 6.559 g
+Polyunsaturated fat: 1.55 g
+Trans fat: 0.017 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 259 mg
+Potassium: 318 mg
+Calcium: 1278 mg
+Iron: 18.87 mg
+Magnesium: 63 mg
+Zinc: 14.15 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 9.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 24.66 mg
+Vitamin K: 14.2 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0.07 µg
+Folate: 49 µg

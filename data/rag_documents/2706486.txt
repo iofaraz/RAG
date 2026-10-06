@@ -1,0 +1,36 @@
+Food: Beef stroganoff with noodles
+Food ID: 2706486
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 7.76 g
+Carbohydrates: 8.99 g
+Fat: 6.8 g
+Fiber: 0.7 g
+Sugar: 1.01 g
+
+Fats:
+Saturated fat: 2.442 g
+Monounsaturated fat: 2.057 g
+Polyunsaturated fat: 1.439 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 151 mg
+Calcium: 30 mg
+Iron: 0.92 mg
+Magnesium: 14 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.58 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0.26 µg
+Folate: 22 µg

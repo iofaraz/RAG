@@ -1,0 +1,36 @@
+Food: Cream, whipped, cream topping, pressurized
+Food ID: 170860
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 3.2 g
+Carbohydrates: 12.49 g
+Fat: 22.22 g
+Fiber: 0 g
+Sugar: 8 g
+
+Fats:
+Saturated fat: 13.831 g
+Monounsaturated fat: 6.418 g
+Polyunsaturated fat: 0.825 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 147 mg
+Calcium: 101 mg
+Iron: 0.05 mg
+Magnesium: 11 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 188 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.64 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.29 µg
+Folate: 3 µg

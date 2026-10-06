@@ -1,0 +1,36 @@
+Food: Snacks, pretzels, hard, confectioner's coating, chocolate-flavor
+Food ID: 167556
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 457 kcal
+Protein: 7.5 g
+Carbohydrates: 70.9 g
+Fat: 16.7 g
+Fiber: 2.4 g
+Sugar: 38.8 g
+
+Fats:
+Saturated fat: 7.68 g
+Monounsaturated fat: 5.39 g
+Polyunsaturated fat: 2.15 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 569 mg
+Potassium: 225 mg
+Calcium: 74 mg
+Iron: 2 mg
+Magnesium: 41 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.62 mg
+Vitamin K: 11.1 µg
+Vitamin B6: 0.172 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

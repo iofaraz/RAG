@@ -1,0 +1,36 @@
+Food: Double cheeseburger, from fast food, 2 medium patties
+Food ID: 2706917
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 300 kcal
+Protein: 19.64 g
+Carbohydrates: 11.79 g
+Fat: 18.84 g
+Fiber: 0.4 g
+Sugar: 2.03 g
+
+Fats:
+Saturated fat: 8.186 g
+Monounsaturated fat: 6.979 g
+Polyunsaturated fat: 0.962 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 440 mg
+Potassium: 240 mg
+Calcium: 177 mg
+Iron: 2.33 mg
+Magnesium: 21 mg
+Zinc: 3.65 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.17 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.297 mg
+Vitamin B12: 1.93 µg
+Folate: 36 µg

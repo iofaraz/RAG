@@ -1,0 +1,32 @@
+Food: Fish, cusk, raw
+Food ID: 171958
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 87 kcal
+Protein: 18.99 g
+Carbohydrates: 0 g
+Fat: 0.69 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.13 g
+Monounsaturated fat: 0.09 g
+Polyunsaturated fat: 0.28 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 392 mg
+Calcium: 10 mg
+Iron: 0.83 mg
+Magnesium: 31 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.387 mg
+Vitamin B12: 1.04 µg
+Folate: 2 µg

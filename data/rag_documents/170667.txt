@@ -1,0 +1,24 @@
+Food: Frozen novelties, KLONDIKE, SLIM-A-BEAR, No Sugar Added, Stickless Bar
+Food ID: 170667
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 242 kcal
+Protein: 5.2 g
+Carbohydrates: 25.98 g
+Fat: 13 g
+Fiber: 3.9 g
+Sugar: 8.64 g
+
+Fats:
+Saturated fat: 10.4 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 86 mg
+Calcium: 289 mg
+Iron: 0.41 mg
+
+Vitamins:
+Vitamin C: 1 mg

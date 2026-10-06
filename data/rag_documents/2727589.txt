@@ -1,0 +1,19 @@
+Food: Juice, tart cherry, from concentrate, shelf-stable
+Food ID: 2727589
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.146563 g
+
+Minerals:
+Sodium: 1.363 mg
+Potassium: 169.8 mg
+Calcium: 16.2 mg
+Iron: 0.2034 mg
+Magnesium: 12.12 mg
+Zinc: 0.03283 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Folate: 4.674 µg

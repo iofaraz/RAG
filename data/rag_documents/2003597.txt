@@ -1,0 +1,22 @@
+Food: Orange juice, no pulp, not fortified, not from concentrate, refrigerated
+Food ID: 2003597
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.8125 g
+Carbohydrates: 10.0124 g
+Fat: 0.3563 g
+
+Minerals:
+Sodium: 0.075 mg
+Potassium: 182.8 mg
+Calcium: 9.288 mg
+Iron: 0.07061 mg
+Magnesium: 10.26 mg
+Zinc: 0.03206 mg
+
+Vitamins:
+Vitamin C: 30.54 mg
+Vitamin B6: 0.04113 mg
+Folate: 28.98 µg

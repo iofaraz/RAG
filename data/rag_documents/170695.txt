@@ -1,0 +1,37 @@
+Food: Fast foods, roast beef sandwich, plain
+Food ID: 170695
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 15.17 g
+Carbohydrates: 22.21 g
+Fat: 10.3 g
+Fiber: 1.3 g
+Sugar: 3.84 g
+
+Fats:
+Saturated fat: 3.399 g
+Monounsaturated fat: 3.987 g
+Polyunsaturated fat: 1.762 g
+Trans fat: 0.389 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 653 mg
+Potassium: 224 mg
+Calcium: 55 mg
+Iron: 2.64 mg
+Magnesium: 23 mg
+Zinc: 2.27 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.215 mg
+Vitamin B12: 0.96 µg
+Folate: 51 µg

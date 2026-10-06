@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, Raisin Bran Cereal
+Food ID: 172996
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 342 kcal
+Protein: 7.63 g
+Carbohydrates: 80.37 g
+Fat: 1.87 g
+Fiber: 10.2 g
+Sugar: 33.04 g
+
+Fats:
+Saturated fat: 0.424 g
+Monounsaturated fat: 0.357 g
+Polyunsaturated fat: 0.908 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 466 mg
+Potassium: 546 mg
+Calcium: 33 mg
+Iron: 15.25 mg
+Magnesium: 136 mg
+Zinc: 6.36 mg
+
+Vitamins:
+Vitamin A: 253 µg
+Vitamin C: 0 mg
+Vitamin D: 2.5 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.85 mg
+Vitamin B12: 2.53 µg
+Folate: 339 µg

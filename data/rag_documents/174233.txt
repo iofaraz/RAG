@@ -1,0 +1,32 @@
+Food: Fish, herring, Pacific, cooked, dry heat
+Food ID: 174233
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 250 kcal
+Protein: 21.01 g
+Carbohydrates: 0 g
+Fat: 17.79 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.174 g
+Monounsaturated fat: 8.807 g
+Polyunsaturated fat: 3.106 g
+Cholesterol: 99 mg
+
+Minerals:
+Sodium: 95 mg
+Potassium: 542 mg
+Calcium: 106 mg
+Iron: 1.44 mg
+Magnesium: 41 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.519 mg
+Vitamin B12: 9.62 µg
+Folate: 6 µg

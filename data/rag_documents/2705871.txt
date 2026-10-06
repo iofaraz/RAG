@@ -1,0 +1,36 @@
+Food: Pork, chop, coated, lean only eaten
+Food ID: 2705871
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 25.99 g
+Carbohydrates: 7.16 g
+Fat: 7.74 g
+Fiber: 0.4 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 2.171 g
+Monounsaturated fat: 3.171 g
+Polyunsaturated fat: 1.544 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 413 mg
+Potassium: 403 mg
+Calcium: 24 mg
+Iron: 1.02 mg
+Magnesium: 28 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.56 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.577 mg
+Vitamin B12: 0.56 µg
+Folate: 11 µg

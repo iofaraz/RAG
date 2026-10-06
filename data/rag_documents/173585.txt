@@ -1,0 +1,37 @@
+Food: Margarine, regular, 80% fat, composite, stick, without salt
+Food ID: 173585
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 717 kcal
+Protein: 0.16 g
+Carbohydrates: 0.7 g
+Fat: 80.71 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 15.189 g
+Monounsaturated fat: 38.877 g
+Polyunsaturated fat: 24.302 g
+Trans fat: 14.89 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 18 mg
+Calcium: 3 mg
+Iron: 0.06 mg
+Magnesium: 3 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 819 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 9 mg
+Vitamin K: 93 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0.1 µg
+Folate: 1 µg

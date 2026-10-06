@@ -1,0 +1,36 @@
+Food: Green beans, NS as to form, cooked
+Food ID: 2709855
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 1.51 g
+Carbohydrates: 5.74 g
+Fat: 2.93 g
+Fiber: 2.4 g
+Sugar: 1.81 g
+
+Fats:
+Saturated fat: 0.751 g
+Monounsaturated fat: 0.937 g
+Polyunsaturated fat: 0.906 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 204 mg
+Potassium: 194 mg
+Calcium: 38 mg
+Iron: 0.71 mg
+Magnesium: 20 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 6.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.61 mg
+Vitamin K: 43.2 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

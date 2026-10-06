@@ -1,0 +1,36 @@
+Food: Roast beef sandwich on wheat, with cheese
+Food ID: 2706956
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 15.73 g
+Carbohydrates: 20.93 g
+Fat: 7.61 g
+Fiber: 2.4 g
+Sugar: 2.82 g
+
+Fats:
+Saturated fat: 3.36 g
+Monounsaturated fat: 1.888 g
+Polyunsaturated fat: 0.958 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 696 mg
+Potassium: 370 mg
+Calcium: 211 mg
+Iron: 2.29 mg
+Magnesium: 37 mg
+Zinc: 2.38 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.46 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.271 mg
+Vitamin B12: 1.07 µg
+Folate: 36 µg

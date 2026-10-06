@@ -1,0 +1,30 @@
+Food: Crackers, gluten-free, multigrain and vegetable, made with corn starch and white rice flour
+Food ID: 174103
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 456 kcal
+Protein: 2.5 g
+Carbohydrates: 76.94 g
+Fat: 15.41 g
+Fiber: 3 g
+Sugar: 3.9 g
+
+Fats:
+Saturated fat: 5.711 g
+Monounsaturated fat: 4.881 g
+Polyunsaturated fat: 1.374 g
+Trans fat: 0.048 g
+
+Minerals:
+Sodium: 890 mg
+Potassium: 86 mg
+Calcium: 28 mg
+Iron: 0.56 mg
+Magnesium: 15 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin B6: 0.07 mg
+Folate: 7 µg

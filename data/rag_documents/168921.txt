@@ -1,0 +1,22 @@
+Food: Corn flour, whole-grain, blue (harina de maiz morado)
+Food ID: 168921
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 8.75 g
+Carbohydrates: 73.89 g
+Fat: 5.09 g
+Fiber: 8.4 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 381 mg
+Calcium: 5 mg
+Iron: 1.74 mg
+Magnesium: 110 mg
+Zinc: 2.24 mg
+
+Vitamins:
+Vitamin B6: 0.47 mg

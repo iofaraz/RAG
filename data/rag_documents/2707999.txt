@@ -1,0 +1,36 @@
+Food: Pie, cherry
+Food ID: 2707999
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 311 kcal
+Protein: 2.95 g
+Carbohydrates: 40.93 g
+Fat: 15.3 g
+Fiber: 1.9 g
+Sugar: 19.53 g
+
+Fats:
+Saturated fat: 5.348 g
+Monounsaturated fat: 6.43 g
+Polyunsaturated fat: 2.037 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 217 mg
+Potassium: 101 mg
+Calcium: 14 mg
+Iron: 1.28 mg
+Magnesium: 11 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.67 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

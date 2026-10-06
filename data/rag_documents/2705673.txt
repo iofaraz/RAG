@@ -1,0 +1,36 @@
+Food: Creamsicle
+Food ID: 2705673
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 1.54 g
+Carbohydrates: 32.75 g
+Fat: 3.08 g
+Fiber: 0 g
+Sugar: 18.46 g
+
+Fats:
+Saturated fat: 1.813 g
+Monounsaturated fat: 0.819 g
+Polyunsaturated fat: 0.137 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 46 mg
+Potassium: 174 mg
+Calcium: 62 mg
+Iron: 0 mg
+Magnesium: 12 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 93 µg
+Vitamin C: 13.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.36 µg
+Folate: 6 µg

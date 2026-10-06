@@ -1,0 +1,36 @@
+Food: Topping from cheese pizza
+Food ID: 2705787
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 16.86 g
+Carbohydrates: 7.62 g
+Fat: 14.67 g
+Fiber: 1 g
+Sugar: 4.38 g
+
+Fats:
+Saturated fat: 8.024 g
+Monounsaturated fat: 3.366 g
+Polyunsaturated fat: 0.793 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 713 mg
+Potassium: 261 mg
+Calcium: 485 mg
+Iron: 0.58 mg
+Magnesium: 29 mg
+Zinc: 2.57 mg
+
+Vitamins:
+Vitamin A: 156 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.72 mg
+Vitamin K: 8.8 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 0.62 µg
+Folate: 21 µg

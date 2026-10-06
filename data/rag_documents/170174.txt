@@ -1,0 +1,36 @@
+Food: Nuts, coconut water (liquid from coconuts)
+Food ID: 170174
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 0.72 g
+Carbohydrates: 3.71 g
+Fat: 0.2 g
+Fiber: 1.1 g
+Sugar: 2.61 g
+
+Fats:
+Saturated fat: 0.176 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 105 mg
+Potassium: 250 mg
+Calcium: 24 mg
+Iron: 0.29 mg
+Magnesium: 25 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

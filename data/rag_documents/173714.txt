@@ -1,0 +1,32 @@
+Food: Fish, catfish, channel, wild, cooked, dry heat
+Food ID: 173714
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 18.47 g
+Carbohydrates: 0 g
+Fat: 2.85 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.744 g
+Monounsaturated fat: 1.099 g
+Polyunsaturated fat: 0.636 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 419 mg
+Calcium: 11 mg
+Iron: 0.35 mg
+Magnesium: 28 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.8 mg
+Vitamin B6: 0.106 mg
+Vitamin B12: 2.9 µg
+Folate: 10 µg

@@ -1,0 +1,36 @@
+Food: Tuna cake or patty
+Food ID: 2706560
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 15.33 g
+Carbohydrates: 2.65 g
+Fat: 14.92 g
+Fiber: 0.2 g
+Sugar: 0.49 g
+
+Fats:
+Saturated fat: 2.446 g
+Monounsaturated fat: 4.415 g
+Polyunsaturated fat: 7.186 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 155 mg
+Calcium: 25 mg
+Iron: 1.53 mg
+Magnesium: 19 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0.3 mg
+Vitamin D: 1.1 µg
+Vitamin E: 1.65 mg
+Vitamin K: 23.1 µg
+Vitamin B6: 0.222 mg
+Vitamin B12: 1.76 µg
+Folate: 12 µg

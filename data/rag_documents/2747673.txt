@@ -1,0 +1,20 @@
+Food: Tuna, ahi or yellowfin, frozen, wild caught
+Food ID: 2747673
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 24.7 g
+Carbohydrates: 0 g
+Fat: 0.3875 g
+
+Minerals:
+Sodium: 94.37 mg
+Potassium: 420.2 mg
+Calcium: 3.193 mg
+Iron: 0.5914 mg
+Magnesium: 35.48 mg
+Zinc: 0.3524 mg
+
+Vitamins:
+Vitamin B12: 1.374 µg

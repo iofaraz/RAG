@@ -1,0 +1,21 @@
+Food: Farro, pearled, dry, raw
+Food ID: 2710828
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 12.6394 g
+Carbohydrates: 72.1316 g
+Fat: 3.103 g
+Fiber: 7.31 g
+
+Minerals:
+Sodium: 0.845 mg
+Potassium: 385.4 mg
+Calcium: 25.94 mg
+Iron: 3.195 mg
+Magnesium: 118.8 mg
+Zinc: 3.968 mg
+
+Vitamins:
+Vitamin B6: 0.2346 mg

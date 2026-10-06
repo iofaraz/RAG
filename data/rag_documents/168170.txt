@@ -1,0 +1,26 @@
+Food: Roselle, raw
+Food ID: 168170
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 0.96 g
+Carbohydrates: 11.31 g
+Fat: 0.64 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 208 mg
+Calcium: 215 mg
+Iron: 1.48 mg
+Magnesium: 51 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 12 mg
+Vitamin B12: 0 µg

@@ -1,0 +1,33 @@
+Food: Sweet potato leaves, raw
+Food ID: 169303
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 2.49 g
+Carbohydrates: 8.82 g
+Fat: 0.51 g
+Fiber: 5.3 g
+
+Fats:
+Saturated fat: 0.111 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.228 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 508 mg
+Calcium: 78 mg
+Iron: 0.97 mg
+Magnesium: 70 mg
+
+Vitamins:
+Vitamin A: 189 µg
+Vitamin C: 11 mg
+Vitamin D: 0 µg
+Vitamin K: 302.2 µg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0 µg

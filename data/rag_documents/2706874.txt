@@ -1,0 +1,36 @@
+Food: Antipasto with ham, fish, cheese, vegetables
+Food ID: 2706874
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 11.62 g
+Carbohydrates: 3.75 g
+Fat: 10.7 g
+Fiber: 1.1 g
+Sugar: 1.51 g
+
+Fats:
+Saturated fat: 4.634 g
+Monounsaturated fat: 3.746 g
+Polyunsaturated fat: 1.078 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 854 mg
+Potassium: 248 mg
+Calcium: 178 mg
+Iron: 0.8 mg
+Magnesium: 21 mg
+Zinc: 1.47 mg
+
+Vitamins:
+Vitamin A: 288 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.03 mg
+Vitamin K: 9.7 µg
+Vitamin B6: 0.169 mg
+Vitamin B12: 0.5 µg
+Folate: 11 µg

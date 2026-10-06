@@ -1,0 +1,36 @@
+Food: Sunflower seeds, plain, salted
+Food ID: 2707583
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 575 kcal
+Protein: 19.1 g
+Carbohydrates: 23.78 g
+Fat: 49.21 g
+Fiber: 11 g
+Sugar: 2.7 g
+
+Fats:
+Saturated fat: 5.157 g
+Monounsaturated fat: 9.392 g
+Polyunsaturated fat: 32.494 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 462 mg
+Potassium: 840 mg
+Calcium: 70 mg
+Iron: 3.76 mg
+Magnesium: 127 mg
+Zinc: 5.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 25.79 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.794 mg
+Vitamin B12: 0 µg
+Folate: 234 µg

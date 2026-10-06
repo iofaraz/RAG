@@ -1,0 +1,36 @@
+Food: Pretzels, hard, white chocolate coated
+Food ID: 2708261
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 445 kcal
+Protein: 5.94 g
+Carbohydrates: 74.7 g
+Fat: 14.19 g
+Fiber: 1.2 g
+Sugar: 44.09 g
+
+Fats:
+Saturated fat: 8.001 g
+Monounsaturated fat: 4.15 g
+Polyunsaturated fat: 0.886 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 442 mg
+Potassium: 172 mg
+Calcium: 94 mg
+Iron: 1.82 mg
+Magnesium: 19 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.22 µg
+Folate: 71 µg

@@ -1,0 +1,37 @@
+Food: Vegetarian fillets
+Food ID: 169068
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 23 g
+Carbohydrates: 9 g
+Fat: 18 g
+Fiber: 6.1 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 2.849 g
+Monounsaturated fat: 4.376 g
+Polyunsaturated fat: 9.332 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 490 mg
+Potassium: 600 mg
+Calcium: 95 mg
+Iron: 2 mg
+Magnesium: 23 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.45 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.5 mg
+Vitamin B12: 4.2 µg
+Folate: 102 µg

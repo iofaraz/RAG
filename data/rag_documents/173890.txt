@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, QUAKER, KING VITAMAN
+Food ID: 173890
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 6.41 g
+Carbohydrates: 83.85 g
+Fat: 3.44 g
+Fiber: 3.4 g
+Sugar: 20.27 g
+
+Fats:
+Saturated fat: 1.584 g
+Monounsaturated fat: 0.644 g
+Polyunsaturated fat: 1.117 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 825 mg
+Potassium: 268 mg
+Calcium: 10 mg
+Iron: 29 mg
+Magnesium: 82 mg
+Zinc: 12.71 mg
+
+Vitamins:
+Vitamin A: 968 µg
+Vitamin C: 40 mg
+Vitamin D: 0 µg
+Vitamin E: 4.55 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 1.672 mg
+Vitamin B12: 5 µg
+Folate: 1334 µg

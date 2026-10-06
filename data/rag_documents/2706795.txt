@@ -1,0 +1,36 @@
+Food: Moo Goo Gai Pan
+Food ID: 2706795
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 7.11 g
+Carbohydrates: 4.87 g
+Fat: 2.44 g
+Fiber: 1.4 g
+Sugar: 2.01 g
+
+Fats:
+Saturated fat: 0.389 g
+Monounsaturated fat: 0.853 g
+Polyunsaturated fat: 0.771 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 106 mg
+Potassium: 209 mg
+Calcium: 11 mg
+Iron: 0.42 mg
+Magnesium: 12 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 6.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.76 mg
+Vitamin K: 16.5 µg
+Vitamin B6: 0.238 mg
+Vitamin B12: 0.04 µg
+Folate: 17 µg

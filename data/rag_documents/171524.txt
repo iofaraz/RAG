@@ -1,0 +1,37 @@
+Food: Chicken, broiler, rotisserie, BBQ, skin
+Food ID: 171524
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 378 kcal
+Protein: 15.19 g
+Carbohydrates: 0.7 g
+Fat: 35.15 g
+Fiber: 0 g
+Sugar: 0.7 g
+
+Fats:
+Saturated fat: 9.333 g
+Monounsaturated fat: 14.464 g
+Polyunsaturated fat: 4.018 g
+Trans fat: 0.438 g
+Cholesterol: 120 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 223 mg
+Calcium: 34 mg
+Iron: 0.86 mg
+Magnesium: 22 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.33 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.259 mg
+Vitamin B12: 0.55 µg
+Folate: 9 µg

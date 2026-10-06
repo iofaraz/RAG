@@ -1,0 +1,36 @@
+Food: Taco or tostada salad, meatless with sour cream
+Food ID: 2708513
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 167 kcal
+Protein: 5 g
+Carbohydrates: 17.56 g
+Fat: 8.7 g
+Fiber: 3.3 g
+Sugar: 2.04 g
+
+Fats:
+Saturated fat: 3.212 g
+Monounsaturated fat: 2.916 g
+Polyunsaturated fat: 1.574 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 241 mg
+Potassium: 221 mg
+Calcium: 90 mg
+Iron: 1.58 mg
+Magnesium: 21 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 10.6 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.05 µg
+Folate: 44 µg

@@ -1,0 +1,34 @@
+Food: Chicken breast, oven-roasted, fat-free, sliced
+Food ID: 172963
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 16.79 g
+Carbohydrates: 2.17 g
+Fat: 0.39 g
+Fiber: 0 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 0.13 g
+Monounsaturated fat: 0.121 g
+Polyunsaturated fat: 0.073 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 1087 mg
+Potassium: 67 mg
+Calcium: 6 mg
+Iron: 0.32 mg
+Magnesium: 9 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.09 µg
+Folate: 1 µg

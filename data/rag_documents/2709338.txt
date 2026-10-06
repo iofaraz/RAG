@@ -1,0 +1,36 @@
+Food: Fruit smoothie, light
+Food ID: 2709338
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 2.61 g
+Carbohydrates: 9.71 g
+Fat: 0.61 g
+Fiber: 1 g
+Sugar: 7.47 g
+
+Fats:
+Saturated fat: 0.315 g
+Monounsaturated fat: 0.144 g
+Polyunsaturated fat: 0.078 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 184 mg
+Calcium: 91 mg
+Iron: 0.17 mg
+Magnesium: 14 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 8.9 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.15 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.31 µg
+Folate: 9 µg

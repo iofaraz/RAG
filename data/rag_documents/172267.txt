@@ -1,0 +1,26 @@
+Food: Babyfood, dinner, vegetables and noodles and turkey, strained
+Food ID: 172267
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 1.2 g
+Carbohydrates: 6.8 g
+Fat: 1.2 g
+Fiber: 1.1 g
+
+Minerals:
+Sodium: 21 mg
+Potassium: 63 mg
+Calcium: 32 mg
+Iron: 0.19 mg
+Magnesium: 8 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 0.8 mg
+Vitamin B6: 0.016 mg
+Vitamin B12: 0.1 µg
+Folate: 2 µg

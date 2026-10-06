@@ -1,0 +1,37 @@
+Food: Lima beans, immature seeds, raw
+Food ID: 168396
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 6.84 g
+Carbohydrates: 20.17 g
+Fat: 0.86 g
+Fiber: 4.9 g
+Sugar: 1.48 g
+
+Fats:
+Saturated fat: 0.198 g
+Monounsaturated fat: 0.05 g
+Polyunsaturated fat: 0.419 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 467 mg
+Calcium: 34 mg
+Iron: 3.14 mg
+Magnesium: 58 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 23.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 5.6 µg
+Vitamin B6: 0.204 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

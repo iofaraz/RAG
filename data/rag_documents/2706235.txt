@@ -1,0 +1,36 @@
+Food: Fish, catfish, baked or broiled
+Food ID: 2706235
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 18.93 g
+Carbohydrates: 0.01 g
+Fat: 11.91 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 2.813 g
+Monounsaturated fat: 4.805 g
+Polyunsaturated fat: 2.691 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 337 mg
+Potassium: 376 mg
+Calcium: 11 mg
+Iron: 0.29 mg
+Magnesium: 24 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.68 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.201 mg
+Vitamin B12: 3.22 µg
+Folate: 11 µg

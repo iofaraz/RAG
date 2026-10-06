@@ -1,0 +1,36 @@
+Food: Game meat, deer, loin, separable lean only, 1" steak, cooked, broiled
+Food ID: 172604
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 30.2 g
+Carbohydrates: 0 g
+Fat: 2.38 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.351 g
+Monounsaturated fat: 0.54 g
+Polyunsaturated fat: 0.158 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 398 mg
+Calcium: 6 mg
+Iron: 4.09 mg
+Magnesium: 30 mg
+Zinc: 3.63 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.62 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.756 mg
+Vitamin B12: 1.83 µg
+Folate: 9 µg

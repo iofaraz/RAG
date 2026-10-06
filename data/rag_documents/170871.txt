@@ -1,0 +1,36 @@
+Food: Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D
+Food ID: 170871
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 3.95 g
+Carbohydrates: 5.49 g
+Fat: 1.98 g
+Fiber: 0 g
+Sugar: 5.26 g
+
+Fats:
+Saturated fat: 1.232 g
+Monounsaturated fat: 0.572 g
+Polyunsaturated fat: 0.074 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 182 mg
+Calcium: 143 mg
+Iron: 0.06 mg
+Magnesium: 16 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin D: 1 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.43 µg
+Folate: 6 µg

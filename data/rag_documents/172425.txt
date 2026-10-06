@@ -1,0 +1,33 @@
+Food: Mothbeans, mature seeds, raw
+Food ID: 172425
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 343 kcal
+Protein: 22.94 g
+Carbohydrates: 61.52 g
+Fat: 1.61 g
+
+Fats:
+Saturated fat: 0.364 g
+Monounsaturated fat: 0.129 g
+Polyunsaturated fat: 0.75 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 1191 mg
+Calcium: 150 mg
+Iron: 10.85 mg
+Magnesium: 381 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.366 mg
+Vitamin B12: 0 µg
+Folate: 649 µg

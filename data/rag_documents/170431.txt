@@ -1,0 +1,37 @@
+Food: Poi
+Food ID: 170431
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 0.38 g
+Carbohydrates: 27.23 g
+Fat: 0.14 g
+Fiber: 0.4 g
+Sugar: 0.39 g
+
+Fats:
+Saturated fat: 0.029 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.058 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 183 mg
+Calcium: 16 mg
+Iron: 0.88 mg
+Magnesium: 24 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 2.3 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.273 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

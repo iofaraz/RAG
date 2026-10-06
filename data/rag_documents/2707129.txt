@@ -1,0 +1,36 @@
+Food: Soup, pozole
+Food ID: 2707129
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 3.38 g
+Carbohydrates: 4.59 g
+Fat: 1.23 g
+Fiber: 0.9 g
+Sugar: 0.98 g
+
+Fats:
+Saturated fat: 0.279 g
+Monounsaturated fat: 0.469 g
+Polyunsaturated fat: 0.349 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 248 mg
+Potassium: 103 mg
+Calcium: 10 mg
+Iron: 0.26 mg
+Magnesium: 10 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 7.7 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.03 µg
+Folate: 7 µg

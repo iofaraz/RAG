@@ -1,0 +1,37 @@
+Food: Pork, cured, ham, separable fat, boneless, unheated
+Food ID: 169156
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 515 kcal
+Protein: 7.5 g
+Carbohydrates: 1.87 g
+Fat: 53 g
+Fiber: 0 g
+Sugar: 0.44 g
+
+Fats:
+Saturated fat: 17.433 g
+Monounsaturated fat: 23.902 g
+Polyunsaturated fat: 6.901 g
+Trans fat: 0.412 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 616 mg
+Potassium: 174 mg
+Calcium: 4 mg
+Iron: 0.5 mg
+Magnesium: 11 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.76 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.187 mg
+Vitamin B12: 0.31 µg
+Folate: 0 µg

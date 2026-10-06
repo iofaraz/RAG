@@ -1,0 +1,36 @@
+Food: Soup, vegetable, canned, low sodium, condensed
+Food ID: 174538
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 2.2 g
+Carbohydrates: 12.11 g
+Fat: 0.9 g
+Fiber: 2.1 g
+Sugar: 4.31 g
+
+Fats:
+Saturated fat: 0.147 g
+Monounsaturated fat: 0.203 g
+Polyunsaturated fat: 0.403 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 385 mg
+Potassium: 433 mg
+Calcium: 20 mg
+Iron: 0.66 mg
+Magnesium: 25 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 86 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.43 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

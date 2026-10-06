@@ -1,0 +1,37 @@
+Food: Orange-grapefruit juice, canned or bottled, unsweetened
+Food ID: 169104
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 0.6 g
+Carbohydrates: 10.28 g
+Fat: 0.1 g
+Fiber: 0.1 g
+Sugar: 10.18 g
+
+Fats:
+Saturated fat: 0.011 g
+Monounsaturated fat: 0.017 g
+Polyunsaturated fat: 0.019 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 158 mg
+Calcium: 8 mg
+Iron: 0.46 mg
+Magnesium: 10 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 29.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

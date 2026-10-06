@@ -1,0 +1,36 @@
+Food: Pork, tenderloin
+Food ID: 2705877
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 24.65 g
+Carbohydrates: 0.09 g
+Fat: 3.38 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.155 g
+Monounsaturated fat: 1.286 g
+Polyunsaturated fat: 0.488 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 339 mg
+Potassium: 462 mg
+Calcium: 6 mg
+Iron: 1.09 mg
+Magnesium: 28 mg
+Zinc: 2.28 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.696 mg
+Vitamin B12: 0.54 µg
+Folate: 0 µg

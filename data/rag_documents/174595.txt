@@ -1,0 +1,33 @@
+Food: Bratwurst, veal, cooked
+Food ID: 174595
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 13.99 g
+Carbohydrates: 0 g
+Fat: 31.7 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 14.94 g
+Monounsaturated fat: 13 g
+Polyunsaturated fat: 1.614 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 231 mg
+Calcium: 11 mg
+Iron: 0.74 mg
+Magnesium: 16 mg
+Zinc: 2.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.307 mg
+Vitamin B12: 0.98 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Pistachio nuts, lightly salted
+Food ID: 2707529
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 579 kcal
+Protein: 20.32 g
+Carbohydrates: 27.3 g
+Fat: 47.21 g
+Fiber: 9.9 g
+Sugar: 7.47 g
+
+Fats:
+Saturated fat: 5.847 g
+Monounsaturated fat: 24.945 g
+Polyunsaturated fat: 14.028 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 198 mg
+Potassium: 972 mg
+Calcium: 104 mg
+Iron: 3.89 mg
+Magnesium: 105 mg
+Zinc: 2.26 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0 µg
+Vitamin E: 2.66 mg
+Vitamin K: 15.7 µg
+Vitamin B6: 1.083 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

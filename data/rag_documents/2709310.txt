@@ -1,0 +1,36 @@
+Food: Pineapple salad with dressing
+Food ID: 2709310
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 0.5 g
+Carbohydrates: 12.79 g
+Fat: 5.79 g
+Fiber: 0.8 g
+Sugar: 10.35 g
+
+Fats:
+Saturated fat: 0.884 g
+Monounsaturated fat: 1.272 g
+Polyunsaturated fat: 3.382 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 128 mg
+Calcium: 12 mg
+Iron: 0.06 mg
+Magnesium: 12 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 52.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 13.4 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.01 µg
+Folate: 17 µg

@@ -1,0 +1,37 @@
+Food: Pineapple, canned, heavy syrup pack, solids and liquids
+Food ID: 169944
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 0.35 g
+Carbohydrates: 20.2 g
+Fat: 0.11 g
+Fiber: 0.8 g
+Sugar: 16.9 g
+
+Fats:
+Saturated fat: 0.009 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.04 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 104 mg
+Calcium: 14 mg
+Iron: 0.38 mg
+Magnesium: 16 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 7.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

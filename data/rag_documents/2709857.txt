@@ -1,0 +1,36 @@
+Food: Green beans, frozen, cooked, fat added, NS as to fat type
+Food ID: 2709857
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.45 g
+Carbohydrates: 6.25 g
+Fat: 2.71 g
+Fiber: 2.9 g
+Sugar: 1.82 g
+
+Fats:
+Saturated fat: 0.709 g
+Monounsaturated fat: 0.911 g
+Polyunsaturated fat: 0.811 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 122 mg
+Potassium: 154 mg
+Calcium: 41 mg
+Iron: 0.64 mg
+Magnesium: 18 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 39 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

@@ -1,0 +1,36 @@
+Food: Frostings, glaze, chocolate, prepared-from-recipe, with butter, NFSMI Recipe No. C-32
+Food ID: 168852
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 359 kcal
+Protein: 1.42 g
+Carbohydrates: 72.18 g
+Fat: 7.17 g
+Fiber: 1.1 g
+Sugar: 64.3 g
+
+Fats:
+Saturated fat: 4.483 g
+Monounsaturated fat: 1.894 g
+Polyunsaturated fat: 0.294 g
+Trans fat: 0.266 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 132 mg
+Potassium: 130 mg
+Calcium: 32 mg
+Iron: 0.6 mg
+Magnesium: 20 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 0.1 mg
+Vitamin E: 0.19 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0.09 µg
+Folate: 2 µg

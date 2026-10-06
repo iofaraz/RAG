@@ -1,0 +1,34 @@
+Food: Oscar Mayer, Bologna (beef)
+Food ID: 174589
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 316 kcal
+Protein: 11.05 g
+Carbohydrates: 2.45 g
+Fat: 29.1 g
+Fiber: 0 g
+Sugar: 1.4 g
+
+Fats:
+Saturated fat: 12.85 g
+Monounsaturated fat: 15.21 g
+Polyunsaturated fat: 1.11 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 1179 mg
+Potassium: 168 mg
+Calcium: 12 mg
+Iron: 1.36 mg
+Magnesium: 14 mg
+Zinc: 2.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 1.43 µg
+Folate: 13 µg

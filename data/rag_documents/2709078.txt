@@ -1,0 +1,36 @@
+Food: Dirty rice
+Food ID: 2709078
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 5.12 g
+Carbohydrates: 17.25 g
+Fat: 2.25 g
+Fiber: 0.6 g
+Sugar: 0.87 g
+
+Fats:
+Saturated fat: 0.403 g
+Monounsaturated fat: 0.784 g
+Polyunsaturated fat: 0.702 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 85 mg
+Calcium: 15 mg
+Iron: 1.77 mg
+Magnesium: 9 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 208 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 1.07 µg
+Folate: 62 µg

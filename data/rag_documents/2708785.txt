@@ -1,0 +1,36 @@
+Food: Tortellini, meat-filled, with tomato sauce
+Food ID: 2708785
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 6.62 g
+Carbohydrates: 15.83 g
+Fat: 4.92 g
+Fiber: 1 g
+Sugar: 1.27 g
+
+Fats:
+Saturated fat: 1.387 g
+Monounsaturated fat: 1.853 g
+Polyunsaturated fat: 1.025 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 618 mg
+Potassium: 124 mg
+Calcium: 38 mg
+Iron: 1.19 mg
+Magnesium: 19 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.65 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0.24 µg
+Folate: 50 µg

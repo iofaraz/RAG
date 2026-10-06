@@ -1,0 +1,36 @@
+Food: Soup, onion, dry, mix
+Food ID: 171165
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 293 kcal
+Protein: 7.48 g
+Carbohydrates: 65.07 g
+Fat: 0.34 g
+Fiber: 6.6 g
+Sugar: 4.65 g
+
+Fats:
+Saturated fat: 0.089 g
+Monounsaturated fat: 0.067 g
+Polyunsaturated fat: 0.164 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8031 mg
+Potassium: 721 mg
+Calcium: 143 mg
+Iron: 1.25 mg
+Magnesium: 60 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 3.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.582 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Crackers, gluten free, flavored
+Food ID: 2708189
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 453 kcal
+Protein: 11.25 g
+Carbohydrates: 66.3 g
+Fat: 15.84 g
+Fiber: 10.2 g
+Sugar: 0.86 g
+
+Fats:
+Saturated fat: 2.069 g
+Monounsaturated fat: 7.004 g
+Polyunsaturated fat: 5.981 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 438 mg
+Potassium: 381 mg
+Calcium: 238 mg
+Iron: 2.83 mg
+Magnesium: 164 mg
+Zinc: 2.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.5 mg
+Vitamin K: 13.7 µg
+Vitamin B6: 0.37 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

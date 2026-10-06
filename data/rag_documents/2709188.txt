@@ -1,0 +1,36 @@
+Food: Orange juice, 100%, canned, bottled or in a carton
+Food ID: 2709188
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.77 g
+Carbohydrates: 10.18 g
+Fat: 0.34 g
+Fiber: 0.3 g
+Sugar: 8.18 g
+
+Fats:
+Saturated fat: 0.014 g
+Monounsaturated fat: 0.022 g
+Polyunsaturated fat: 0.03 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 182 mg
+Calcium: 11 mg
+Iron: 0.06 mg
+Magnesium: 10 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 28.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

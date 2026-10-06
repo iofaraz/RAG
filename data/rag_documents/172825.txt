@@ -1,0 +1,32 @@
+Food: Danish pastry, fruit, unenriched (includes apple, cinnamon, raisin, strawberry)
+Food ID: 172825
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 5.4 g
+Carbohydrates: 47.8 g
+Fat: 18.5 g
+Fiber: 1.9 g
+
+Fats:
+Saturated fat: 2.826 g
+Monounsaturated fat: 5.937 g
+Polyunsaturated fat: 1.508 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 354 mg
+Potassium: 83 mg
+Calcium: 46 mg
+Iron: 0.75 mg
+Magnesium: 15 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 3.9 mg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.13 µg
+Folate: 16 µg

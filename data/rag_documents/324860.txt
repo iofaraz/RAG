@@ -1,0 +1,30 @@
+Food: Peanut butter, smooth style, with salt
+Food ID: 324860
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 597 kcal
+Protein: 22.5 g
+Carbohydrates: 22.3 g
+Fat: 51.1 g
+Fiber: 4.8 g
+
+Fats:
+Saturated fat: 10.1 g
+Monounsaturated fat: 25.4 g
+Polyunsaturated fat: 12.3 g
+Trans fat: 0.06 g
+
+Minerals:
+Sodium: 429 mg
+Potassium: 564 mg
+Calcium: 49 mg
+Iron: 1.73 mg
+Magnesium: 169 mg
+Zinc: 2.54 mg
+
+Vitamins:
+Vitamin E: 9.11 mg
+Vitamin B6: 0.444 mg
+Folate: 86 µg

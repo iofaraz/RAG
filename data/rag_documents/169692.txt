@@ -1,0 +1,30 @@
+Food: Gelatin desserts, dry mix, reduced calorie, with aspartame, added phosphorus, potassium, sodium, vitamin C
+Food ID: 169692
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 345 kcal
+Protein: 55.3 g
+Carbohydrates: 33.3 g
+Fat: 0 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2751 mg
+Potassium: 1985 mg
+Calcium: 2 mg
+Iron: 0.02 mg
+Magnesium: 1 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 490 mg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

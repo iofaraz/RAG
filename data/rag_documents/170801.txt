@@ -1,0 +1,37 @@
+Food: Beef, chuck eye steak, boneless, separable lean only, trimmed to 0" fat, all grades, cooked, grilled
+Food ID: 170801
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 209 kcal
+Protein: 27.94 g
+Carbohydrates: 0 g
+Fat: 10.79 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.83 g
+Monounsaturated fat: 5.39 g
+Polyunsaturated fat: 0.48 g
+Trans fat: 0.618 g
+Cholesterol: 88 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 380 mg
+Calcium: 17 mg
+Iron: 2.87 mg
+Magnesium: 25 mg
+Zinc: 10.54 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.412 mg
+Vitamin B12: 3.37 µg
+Folate: 7 µg

@@ -1,0 +1,36 @@
+Food: Egg, white, cooked, fat added
+Food ID: 2707171
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 9.99 g
+Carbohydrates: 2.21 g
+Fat: 5.72 g
+Fiber: 0 g
+Sugar: 0.67 g
+
+Fats:
+Saturated fat: 1.496 g
+Monounsaturated fat: 2.029 g
+Polyunsaturated fat: 1.64 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 282 mg
+Potassium: 153 mg
+Calcium: 7 mg
+Iron: 0.08 mg
+Magnesium: 10 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.86 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.07 µg
+Folate: 3 µg

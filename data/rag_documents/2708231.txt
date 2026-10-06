@@ -1,0 +1,36 @@
+Food: Popcorn, ready-to-eat, NFS
+Food ID: 2708231
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 530 kcal
+Protein: 8.88 g
+Carbohydrates: 53.38 g
+Fat: 32.53 g
+Fiber: 10 g
+Sugar: 0.6 g
+
+Fats:
+Saturated fat: 4.378 g
+Monounsaturated fat: 8.799 g
+Polyunsaturated fat: 17.15 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 764 mg
+Potassium: 226 mg
+Calcium: 6 mg
+Iron: 2.19 mg
+Magnesium: 99 mg
+Zinc: 2.11 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 6.85 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

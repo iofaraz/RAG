@@ -1,0 +1,37 @@
+Food: Egg, whole, cooked, omelet
+Food ID: 172185
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 10.57 g
+Carbohydrates: 0.64 g
+Fat: 11.66 g
+Fiber: 0 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 3.319 g
+Monounsaturated fat: 4.843 g
+Polyunsaturated fat: 2.712 g
+Trans fat: 0.709 g
+Cholesterol: 313 mg
+
+Minerals:
+Sodium: 155 mg
+Potassium: 117 mg
+Calcium: 48 mg
+Iron: 1.48 mg
+Magnesium: 11 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 172 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 1.29 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 0.76 µg
+Folate: 39 µg

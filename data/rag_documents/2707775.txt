@@ -1,0 +1,36 @@
+Food: Muffin, English, oat bran, with raisins
+Food ID: 2707775
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 7.89 g
+Carbohydrates: 51.58 g
+Fat: 3.98 g
+Fiber: 4 g
+Sugar: 13.84 g
+
+Fats:
+Saturated fat: 0.642 g
+Monounsaturated fat: 1.423 g
+Polyunsaturated fat: 1.537 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 405 mg
+Potassium: 202 mg
+Calcium: 66 mg
+Iron: 2.61 mg
+Magnesium: 37 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.44 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.03 µg
+Folate: 56 µg

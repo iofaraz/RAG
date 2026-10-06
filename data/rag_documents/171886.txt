@@ -1,0 +1,36 @@
+Food: Beverages, Cocoa mix, no sugar added, powder
+Food ID: 171886
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 377 kcal
+Protein: 15.49 g
+Carbohydrates: 71.93 g
+Fat: 3 g
+Fiber: 7.5 g
+Sugar: 37.65 g
+
+Fats:
+Saturated fat: 1.777 g
+Monounsaturated fat: 0.979 g
+Polyunsaturated fat: 0.088 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 876 mg
+Potassium: 2702 mg
+Calcium: 576 mg
+Iron: 4.96 mg
+Magnesium: 208 mg
+Zinc: 3.44 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.318 mg
+Vitamin B12: 1.18 µg
+Folate: 14 µg

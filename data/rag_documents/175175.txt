@@ -1,0 +1,37 @@
+Food: Fish, salmon, pink, canned, drained solids
+Food ID: 175175
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 23.1 g
+Carbohydrates: 0 g
+Fat: 5.02 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.895 g
+Monounsaturated fat: 1.211 g
+Polyunsaturated fat: 1.507 g
+Trans fat: 0.027 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 381 mg
+Potassium: 333 mg
+Calcium: 283 mg
+Iron: 0.77 mg
+Magnesium: 32 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin D: 14.5 µg
+Vitamin E: 1.28 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 4.95 µg
+Folate: 4 µg

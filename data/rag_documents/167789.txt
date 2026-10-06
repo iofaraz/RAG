@@ -1,0 +1,31 @@
+Food: Nance, frozen, unsweetened
+Food ID: 167789
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 73 kcal
+Protein: 0.66 g
+Carbohydrates: 16.97 g
+Fat: 1.16 g
+Fiber: 7.5 g
+Sugar: 8.31 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 3 mg
+Potassium: 244 mg
+Calcium: 46 mg
+Iron: 0.38 mg
+Magnesium: 20 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 92.5 mg
+Vitamin E: 1.25 mg
+Vitamin K: 11.9 µg
+Vitamin B6: 0.021 mg
+Folate: 8 µg

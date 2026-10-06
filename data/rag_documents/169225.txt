@@ -1,0 +1,37 @@
+Food: Cucumber, peeled, raw
+Food ID: 169225
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 10 kcal
+Protein: 0.59 g
+Carbohydrates: 2.16 g
+Fat: 0.16 g
+Fiber: 0.7 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 0.078 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.019 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 136 mg
+Calcium: 14 mg
+Iron: 0.22 mg
+Magnesium: 12 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 7.2 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

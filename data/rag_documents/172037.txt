@@ -1,0 +1,37 @@
+Food: Fast foods, shrimp, breaded and fried
+Food ID: 172037
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 308 kcal
+Protein: 7.84 g
+Carbohydrates: 27.99 g
+Fat: 18.9 g
+Fiber: 0.7 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 3.843 g
+Monounsaturated fat: 11.905 g
+Polyunsaturated fat: 1.593 g
+Trans fat: 0.011 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 897 mg
+Potassium: 82 mg
+Calcium: 29 mg
+Iron: 0.86 mg
+Magnesium: 16 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.52 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.53 µg
+Folate: 43 µg

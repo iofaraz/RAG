@@ -1,0 +1,36 @@
+Food: Onions, green, cooked
+Food ID: 2709953
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 2.09 g
+Carbohydrates: 8.37 g
+Fat: 3.21 g
+Fiber: 3 g
+Sugar: 2.66 g
+
+Fats:
+Saturated fat: 0.82 g
+Monounsaturated fat: 1.094 g
+Polyunsaturated fat: 0.943 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 161 mg
+Potassium: 315 mg
+Calcium: 83 mg
+Iron: 1.69 mg
+Magnesium: 23 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 67 µg
+Vitamin C: 18.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.07 mg
+Vitamin K: 238.2 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0 µg
+Folate: 62 µg

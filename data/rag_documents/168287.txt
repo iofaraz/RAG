@@ -1,0 +1,36 @@
+Food: Pork, cured, salt pork, raw
+Food ID: 168287
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 748 kcal
+Protein: 5.05 g
+Carbohydrates: 0 g
+Fat: 80.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 29.38 g
+Monounsaturated fat: 37.94 g
+Polyunsaturated fat: 9.4 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 2684 mg
+Potassium: 66 mg
+Calcium: 6 mg
+Iron: 0.44 mg
+Magnesium: 7 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.29 µg
+Folate: 1 µg

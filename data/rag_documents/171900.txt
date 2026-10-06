@@ -1,0 +1,36 @@
+Food: Beverages, OCEAN SPRAY, Cran Lemonade
+Food ID: 171900
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 0.07 g
+Carbohydrates: 11.12 g
+Fat: 0 g
+Fiber: 0.6 g
+Sugar: 10.4 g
+
+Fats:
+Saturated fat: 0.001 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.001 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 10 mg
+Calcium: 2 mg
+Iron: 0.03 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 32.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg

@@ -1,0 +1,37 @@
+Food: Fish, tuna, yellowfin, fresh, cooked, dry heat
+Food ID: 172006
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 130 kcal
+Protein: 29.15 g
+Carbohydrates: 0 g
+Fat: 0.59 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.205 g
+Monounsaturated fat: 0.138 g
+Polyunsaturated fat: 0.175 g
+Trans fat: 0.02 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 527 mg
+Calcium: 4 mg
+Iron: 0.92 mg
+Magnesium: 42 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 2 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 1.038 mg
+Vitamin B12: 2.35 µg
+Folate: 2 µg

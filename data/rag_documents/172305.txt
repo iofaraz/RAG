@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, low iron, ready to feed, with ARA and DHA
+Food ID: 172305
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 1.38 g
+Carbohydrates: 7.18 g
+Fat: 3.5 g
+Fiber: 0 g
+Sugar: 7.18 g
+
+Fats:
+Saturated fat: 1.453 g
+Monounsaturated fat: 1.255 g
+Polyunsaturated fat: 0.67 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 71 mg
+Calcium: 51 mg
+Iron: 0.46 mg
+Magnesium: 5 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 7.9 mg
+Vitamin D: 1 µg
+Vitamin E: 0.87 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.19 µg
+Folate: 11 µg

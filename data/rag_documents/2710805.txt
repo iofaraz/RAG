@@ -1,0 +1,36 @@
+Food: Celery, cooked, as ingredient
+Food ID: 2710805
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 18 kcal
+Protein: 0.53 g
+Carbohydrates: 3.57 g
+Fat: 0.17 g
+Fiber: 1.7 g
+Sugar: 1.44 g
+
+Fats:
+Saturated fat: 0.045 g
+Monounsaturated fat: 0.034 g
+Polyunsaturated fat: 0.085 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 104 mg
+Potassium: 285 mg
+Calcium: 49 mg
+Iron: 0 mg
+Magnesium: 12 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 31.5 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

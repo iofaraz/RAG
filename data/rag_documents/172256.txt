@@ -1,0 +1,27 @@
+Food: Babyfood, dinner, vegetables and dumplings and beef, strained
+Food ID: 172256
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 2 g
+Carbohydrates: 7.7 g
+Fat: 0.9 g
+Sugar: 0 g
+
+Minerals:
+Sodium: 49 mg
+Potassium: 46 mg
+Calcium: 14 mg
+Iron: 0.39 mg
+Magnesium: 6 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0.8 mg
+Vitamin E: 0.24 mg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.09 µg
+Folate: 7 µg

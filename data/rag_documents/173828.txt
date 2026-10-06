@@ -1,0 +1,33 @@
+Food: Veal, rib, separable lean only, raw
+Food ID: 173828
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 19.97 g
+Carbohydrates: 0 g
+Fat: 3.89 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.17 g
+Monounsaturated fat: 1.25 g
+Polyunsaturated fat: 0.4 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 95 mg
+Potassium: 306 mg
+Calcium: 14 mg
+Iron: 0.88 mg
+Magnesium: 23 mg
+Zinc: 3.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.21 mg
+Vitamin B6: 0.44 mg
+Vitamin B12: 1.36 µg
+Folate: 13 µg

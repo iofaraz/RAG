@@ -1,0 +1,36 @@
+Food: Onion dip, regular
+Food ID: 2705621
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 2.15 g
+Carbohydrates: 3.92 g
+Fat: 35.77 g
+Fiber: 0.2 g
+Sugar: 2.64 g
+
+Fats:
+Saturated fat: 8.745 g
+Monounsaturated fat: 7.95 g
+Polyunsaturated fat: 17.375 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 563 mg
+Potassium: 103 mg
+Calcium: 65 mg
+Iron: 0.1 mg
+Magnesium: 7 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.4 mg
+Vitamin K: 62.9 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.15 µg
+Folate: 6 µg

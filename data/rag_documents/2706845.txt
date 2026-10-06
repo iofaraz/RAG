@@ -1,0 +1,36 @@
+Food: Seafood garden salad with seafood, lettuce, vegetables excluding tomato and carrots, no dressing
+Food ID: 2706845
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 7.66 g
+Carbohydrates: 2.62 g
+Fat: 0.5 g
+Fiber: 0.8 g
+Sugar: 0.99 g
+
+Fats:
+Saturated fat: 0.095 g
+Monounsaturated fat: 0.05 g
+Polyunsaturated fat: 0.231 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 280 mg
+Potassium: 236 mg
+Calcium: 63 mg
+Iron: 0.67 mg
+Magnesium: 25 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 114 µg
+Vitamin C: 11.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.77 mg
+Vitamin K: 61.7 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 0.73 µg
+Folate: 37 µg

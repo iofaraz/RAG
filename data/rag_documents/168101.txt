@@ -1,0 +1,36 @@
+Food: Bologna, beef, low fat
+Food ID: 168101
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 204 kcal
+Protein: 11.8 g
+Carbohydrates: 5.2 g
+Fat: 14.8 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.464 g
+Monounsaturated fat: 6.455 g
+Polyunsaturated fat: 0.51 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 821 mg
+Potassium: 147 mg
+Calcium: 9 mg
+Iron: 1 mg
+Magnesium: 12 mg
+Zinc: 1.83 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 1.4 µg
+Folate: 5 µg

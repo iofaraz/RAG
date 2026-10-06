@@ -1,0 +1,37 @@
+Food: Fennel, bulb, raw
+Food ID: 169385
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 1.24 g
+Carbohydrates: 7.3 g
+Fat: 0.2 g
+Fiber: 3.1 g
+Sugar: 3.93 g
+
+Fats:
+Saturated fat: 0.09 g
+Monounsaturated fat: 0.068 g
+Polyunsaturated fat: 0.169 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 414 mg
+Calcium: 49 mg
+Iron: 0.73 mg
+Magnesium: 17 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 12 mg
+Vitamin D: 0 µg
+Vitamin E: 0.58 mg
+Vitamin K: 62.8 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

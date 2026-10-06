@@ -1,0 +1,36 @@
+Food: Teriyaki sauce
+Food ID: 2707445
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 5.93 g
+Carbohydrates: 15.56 g
+Fat: 0.02 g
+Fiber: 0.1 g
+Sugar: 14.1 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3833 mg
+Potassium: 225 mg
+Calcium: 25 mg
+Iron: 1.7 mg
+Magnesium: 61 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

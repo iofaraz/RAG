@@ -1,0 +1,36 @@
+Food: Soup, noodle, NFS
+Food ID: 2709145
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 5.48 g
+Carbohydrates: 10.08 g
+Fat: 2.99 g
+Fiber: 0.8 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 0.689 g
+Monounsaturated fat: 1.142 g
+Polyunsaturated fat: 0.803 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 290 mg
+Potassium: 102 mg
+Calcium: 14 mg
+Iron: 0.68 mg
+Magnesium: 13 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.39 mg
+Vitamin K: 10.5 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.18 µg
+Folate: 32 µg

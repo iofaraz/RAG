@@ -1,0 +1,37 @@
+Food: Sweet potato, canned, mashed
+Food ID: 169305
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 1.98 g
+Carbohydrates: 23.19 g
+Fat: 0.2 g
+Fiber: 1.7 g
+Sugar: 5.45 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.084 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 210 mg
+Calcium: 30 mg
+Iron: 1.33 mg
+Magnesium: 24 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 435 µg
+Vitamin C: 5.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.09 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.235 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

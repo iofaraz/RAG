@@ -1,0 +1,36 @@
+Food: Turkey sandwich or sub, restaurant
+Food ID: 2706985
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 12.33 g
+Carbohydrates: 23.89 g
+Fat: 3.69 g
+Fiber: 1.1 g
+Sugar: 2.96 g
+
+Fats:
+Saturated fat: 0.867 g
+Monounsaturated fat: 0.947 g
+Polyunsaturated fat: 1.414 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 644 mg
+Potassium: 254 mg
+Calcium: 105 mg
+Iron: 1.78 mg
+Magnesium: 23 mg
+Zinc: 0.91 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.263 mg
+Vitamin B12: 0.2 µg
+Folate: 53 µg

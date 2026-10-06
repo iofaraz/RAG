@@ -1,0 +1,34 @@
+Food: Sauce, pesto, ready-to-serve, shelf stable
+Food ID: 171580
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 426 kcal
+Protein: 5 g
+Carbohydrates: 6.14 g
+Fat: 42.42 g
+Fiber: 1.7 g
+Sugar: 1.92 g
+
+Fats:
+Saturated fat: 7.362 g
+Monounsaturated fat: 19.351 g
+Polyunsaturated fat: 13.74 g
+Trans fat: 0.194 g
+
+Minerals:
+Sodium: 998 mg
+Potassium: 205 mg
+Calcium: 173 mg
+Iron: 0.88 mg
+Magnesium: 45 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 0.1 mg
+Vitamin E: 8.86 mg
+Vitamin K: 193.8 µg
+Vitamin B6: 0.178 mg
+Folate: 27 µg

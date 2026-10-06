@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, tail, raw
+Food ID: 168291
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 378 kcal
+Protein: 17.75 g
+Carbohydrates: 0 g
+Fat: 33.5 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.64 g
+Monounsaturated fat: 15.8 g
+Polyunsaturated fat: 3.68 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 349 mg
+Calcium: 18 mg
+Iron: 0.99 mg
+Magnesium: 8 mg
+Zinc: 2.31 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.37 mg
+Vitamin B12: 0.88 µg
+Folate: 5 µg

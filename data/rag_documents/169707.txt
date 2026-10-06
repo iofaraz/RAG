@@ -1,0 +1,36 @@
+Food: Rice, white, long-grain, parboiled, enriched, dry
+Food ID: 169707
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 7.51 g
+Carbohydrates: 80.89 g
+Fat: 1.03 g
+Fiber: 1.8 g
+Sugar: 0.33 g
+
+Fats:
+Saturated fat: 0.294 g
+Monounsaturated fat: 0.258 g
+Polyunsaturated fat: 0.322 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 174 mg
+Calcium: 71 mg
+Iron: 3.33 mg
+Magnesium: 27 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.452 mg
+Vitamin B12: 0 µg
+Folate: 257 µg

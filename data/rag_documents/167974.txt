@@ -1,0 +1,36 @@
+Food: Candies, caramels
+Food ID: 167974
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 382 kcal
+Protein: 4.6 g
+Carbohydrates: 77 g
+Fat: 8.1 g
+Fiber: 0 g
+Sugar: 65.5 g
+
+Fats:
+Saturated fat: 2.476 g
+Monounsaturated fat: 1.542 g
+Polyunsaturated fat: 3.478 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 245 mg
+Potassium: 214 mg
+Calcium: 138 mg
+Iron: 0.14 mg
+Magnesium: 17 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.3 µg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Cheese sauce, for use with vegetables
+Food ID: 2710244
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 4.69 g
+Carbohydrates: 9.62 g
+Fat: 6.8 g
+Fiber: 0.1 g
+Sugar: 0.07 g
+
+Fats:
+Saturated fat: 3.841 g
+Monounsaturated fat: 1.49 g
+Polyunsaturated fat: 0.238 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 908 mg
+Potassium: 16 mg
+Calcium: 145 mg
+Iron: 0.08 mg
+Magnesium: 6 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.013 mg
+Vitamin B12: 0.2 µg
+Folate: 4 µg

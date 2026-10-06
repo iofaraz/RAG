@@ -1,0 +1,36 @@
+Food: Salad dressing, blue or roquefort cheese, low calorie
+Food ID: 169876
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 5.1 g
+Carbohydrates: 2.9 g
+Fat: 7.2 g
+Fiber: 0 g
+Sugar: 2.82 g
+
+Fats:
+Saturated fat: 2.575 g
+Monounsaturated fat: 1.783 g
+Polyunsaturated fat: 2.422 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 939 mg
+Potassium: 5 mg
+Calcium: 89 mg
+Iron: 0.5 mg
+Magnesium: 7 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.23 µg
+Folate: 3 µg

@@ -1,0 +1,36 @@
+Food: Rice, brown and wild, cooked, fat added
+Food ID: 2708430
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 2.82 g
+Carbohydrates: 24.31 g
+Fat: 3.24 g
+Fiber: 1.6 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 0.544 g
+Monounsaturated fat: 1.327 g
+Polyunsaturated fat: 1.251 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 202 mg
+Potassium: 85 mg
+Calcium: 3 mg
+Iron: 0.55 mg
+Magnesium: 37 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.63 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.121 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

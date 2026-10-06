@@ -1,0 +1,30 @@
+Food: McDONALD'S, McCHICKEN Sandwich
+Food ID: 173305
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 10.43 g
+Carbohydrates: 27.97 g
+Fat: 13.21 g
+Fiber: 1.3 g
+Sugar: 3.57 g
+
+Fats:
+Saturated fat: 2.346 g
+Monounsaturated fat: 4.401 g
+Polyunsaturated fat: 4.964 g
+Trans fat: 0.079 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 624 mg
+Potassium: 173 mg
+Calcium: 88 mg
+Iron: 1.74 mg
+Magnesium: 20 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin B12: 0.19 µg

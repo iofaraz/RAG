@@ -1,0 +1,36 @@
+Food: Chicken nuggets, NFS
+Food ID: 2706092
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 307 kcal
+Protein: 15.92 g
+Carbohydrates: 14.93 g
+Fat: 20.36 g
+Fiber: 0.9 g
+Sugar: 0.08 g
+
+Fats:
+Saturated fat: 3.566 g
+Monounsaturated fat: 7.735 g
+Polyunsaturated fat: 6.511 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 594 mg
+Potassium: 251 mg
+Calcium: 11 mg
+Iron: 0.83 mg
+Magnesium: 24 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.12 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0.33 µg
+Folate: 11 µg

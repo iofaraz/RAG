@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, chuck eye roll, separable lean and fat, raw
+Food ID: 173100
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 181 kcal
+Protein: 19.38 g
+Carbohydrates: 0 g
+Fat: 11.45 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.437 g
+Monounsaturated fat: 4.042 g
+Polyunsaturated fat: 0.377 g
+Trans fat: 0.31 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 295 mg
+Calcium: 6 mg
+Iron: 1.89 mg
+Magnesium: 19 mg
+Zinc: 4.44 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.57 mg
+Vitamin B6: 0.175 mg
+Vitamin B12: 2.07 µg

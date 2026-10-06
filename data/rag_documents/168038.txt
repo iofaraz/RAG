@@ -1,0 +1,32 @@
+Food: Cornmeal, white (Navajo)
+Food ID: 168038
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 398 kcal
+Protein: 10.99 g
+Carbohydrates: 77.14 g
+Fat: 5.04 g
+Fiber: 10.4 g
+Sugar: 1.46 g
+
+Fats:
+Saturated fat: 0.853 g
+Monounsaturated fat: 1.532 g
+Polyunsaturated fat: 2.078 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 443 mg
+Calcium: 11 mg
+Iron: 3.79 mg
+Magnesium: 125 mg
+Zinc: 3.24 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.37 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.583 mg
+Folate: 32 µg

@@ -1,0 +1,37 @@
+Food: Turnips, cooked, boiled, drained, with salt
+Food ID: 170547
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 0.71 g
+Carbohydrates: 5.06 g
+Fat: 0.08 g
+Fiber: 2 g
+Sugar: 2.99 g
+
+Fats:
+Saturated fat: 0.008 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.042 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 286 mg
+Potassium: 135 mg
+Calcium: 22 mg
+Iron: 0.22 mg
+Magnesium: 8 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 11.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

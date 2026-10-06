@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, NEXT STEP, PROSOBEE LIPIL, powder, with ARA and DHA
+Food ID: 172314
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 480 kcal
+Protein: 15.6 g
+Carbohydrates: 57.1 g
+Fat: 21 g
+Fiber: 0 g
+Sugar: 56 g
+
+Fats:
+Saturated fat: 8.905 g
+Monounsaturated fat: 7.8 g
+Polyunsaturated fat: 4.2 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 171 mg
+Potassium: 570 mg
+Calcium: 920 mg
+Iron: 9.5 mg
+Magnesium: 52 mg
+Zinc: 5.7 mg
+
+Vitamins:
+Vitamin A: 430 µg
+Vitamin C: 57 mg
+Vitamin D: 7.1 µg
+Vitamin E: 6.4 mg
+Vitamin K: 38 µg
+Vitamin B6: 0.28 mg
+Vitamin B12: 1.42 µg
+Folate: 76 µg

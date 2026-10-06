@@ -1,0 +1,36 @@
+Food: Ham, turkey, sliced, extra lean, prepackaged or deli
+Food ID: 168092
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 19.6 g
+Carbohydrates: 0.93 g
+Fat: 5.8 g
+Fiber: 0 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 0.5 g
+Monounsaturated fat: 0.864 g
+Polyunsaturated fat: 1.148 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 1038 mg
+Potassium: 299 mg
+Calcium: 5 mg
+Iron: 1.35 mg
+Magnesium: 20 mg
+Zinc: 2.36 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.23 mg
+Vitamin B12: 0.26 µg
+Folate: 6 µg

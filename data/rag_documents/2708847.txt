@@ -1,0 +1,36 @@
+Food: Pasta with tomato-based sauce, poultry, and added vegetables, home recipe
+Food ID: 2708847
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 6.08 g
+Carbohydrates: 18.92 g
+Fat: 1.63 g
+Fiber: 1.6 g
+Sugar: 2.23 g
+
+Fats:
+Saturated fat: 0.32 g
+Monounsaturated fat: 0.416 g
+Polyunsaturated fat: 0.512 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 160 mg
+Potassium: 173 mg
+Calcium: 15 mg
+Iron: 1.02 mg
+Magnesium: 19 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 4.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.129 mg
+Vitamin B12: 0.1 µg
+Folate: 45 µg

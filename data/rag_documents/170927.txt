@@ -1,0 +1,33 @@
+Food: Spices, mace, ground
+Food ID: 170927
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 475 kcal
+Protein: 6.71 g
+Carbohydrates: 50.5 g
+Fat: 32.38 g
+Fiber: 20.2 g
+
+Fats:
+Saturated fat: 9.51 g
+Monounsaturated fat: 11.17 g
+Polyunsaturated fat: 4.39 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 463 mg
+Calcium: 252 mg
+Iron: 13.9 mg
+Magnesium: 163 mg
+Zinc: 2.3 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0 µg
+Folate: 76 µg

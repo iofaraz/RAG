@@ -1,0 +1,37 @@
+Food: Chayote, fruit, raw
+Food ID: 170402
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 0.82 g
+Carbohydrates: 4.51 g
+Fat: 0.13 g
+Fiber: 1.7 g
+Sugar: 1.66 g
+
+Fats:
+Saturated fat: 0.028 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.057 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 125 mg
+Calcium: 17 mg
+Iron: 0.34 mg
+Magnesium: 12 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0 µg
+Folate: 93 µg

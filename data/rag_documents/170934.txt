@@ -1,0 +1,34 @@
+Food: Spices, saffron
+Food ID: 170934
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 310 kcal
+Protein: 11.43 g
+Carbohydrates: 65.37 g
+Fat: 5.85 g
+Fiber: 3.9 g
+
+Fats:
+Saturated fat: 1.586 g
+Monounsaturated fat: 0.429 g
+Polyunsaturated fat: 2.067 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 148 mg
+Potassium: 1724 mg
+Calcium: 111 mg
+Iron: 11.1 mg
+Magnesium: 264 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 80.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 1.01 mg
+Vitamin B12: 0 µg
+Folate: 93 µg

@@ -1,0 +1,37 @@
+Food: Fish, ocean perch, Atlantic, cooked, dry heat
+Food ID: 175126
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 96 kcal
+Protein: 18.51 g
+Carbohydrates: 0 g
+Fat: 1.87 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.33 g
+Monounsaturated fat: 0.575 g
+Polyunsaturated fat: 0.368 g
+Trans fat: 0.011 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 347 mg
+Potassium: 226 mg
+Calcium: 34 mg
+Iron: 0.27 mg
+Magnesium: 27 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 1.4 µg
+Vitamin E: 0.91 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 1.72 µg
+Folate: 10 µg

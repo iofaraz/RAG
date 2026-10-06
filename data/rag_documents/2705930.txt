@@ -1,0 +1,36 @@
+Food: Chicken, NS as to part and cooking method, skin eaten
+Food ID: 2705930
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 196 kcal
+Protein: 25.07 g
+Carbohydrates: 0.1 g
+Fat: 10.65 g
+Fiber: 0 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 2.728 g
+Monounsaturated fat: 4.449 g
+Polyunsaturated fat: 1.388 g
+Cholesterol: 113 mg
+
+Minerals:
+Sodium: 343 mg
+Potassium: 270 mg
+Calcium: 17 mg
+Iron: 0.74 mg
+Magnesium: 23 mg
+Zinc: 1.47 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.25 mg
+Vitamin B12: 0.39 µg
+Folate: 10 µg

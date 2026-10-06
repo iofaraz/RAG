@@ -1,0 +1,32 @@
+Food: Restaurant, Chinese, egg rolls, assorted
+Food ID: 167667
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 250 kcal
+Protein: 8.28 g
+Carbohydrates: 27.29 g
+Fat: 11.94 g
+Fiber: 2.6 g
+
+Fats:
+Saturated fat: 2.116 g
+Monounsaturated fat: 3.036 g
+Polyunsaturated fat: 5.601 g
+Trans fat: 0.103 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 468 mg
+Potassium: 165 mg
+Calcium: 40 mg
+Iron: 1.41 mg
+Magnesium: 18 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin K: 58.9 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 0.44 µg

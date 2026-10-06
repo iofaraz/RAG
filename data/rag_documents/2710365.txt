@@ -1,0 +1,36 @@
+Food: Chocolate candy, candy shell
+Food ID: 2710365
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 492 kcal
+Protein: 4.33 g
+Carbohydrates: 71.19 g
+Fat: 21.13 g
+Fiber: 2.8 g
+Sugar: 63.68 g
+
+Fats:
+Saturated fat: 13.08 g
+Monounsaturated fat: 5.183 g
+Polyunsaturated fat: 0.921 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 261 mg
+Calcium: 105 mg
+Iron: 1.11 mg
+Magnesium: 44 mg
+Zinc: 1.61 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0.53 µg
+Folate: 8 µg

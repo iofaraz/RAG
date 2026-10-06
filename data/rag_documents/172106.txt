@@ -1,0 +1,36 @@
+Food: Lasagna, Vegetable, frozen, baked
+Food ID: 172106
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 6.87 g
+Carbohydrates: 14.18 g
+Fat: 6.04 g
+Fiber: 1.9 g
+Sugar: 2.54 g
+
+Fats:
+Saturated fat: 2.866 g
+Monounsaturated fat: 1.721 g
+Polyunsaturated fat: 1.337 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 445 mg
+Potassium: 170 mg
+Calcium: 150 mg
+Iron: 0.55 mg
+Magnesium: 21 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 17.8 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.59 µg
+Folate: 14 µg

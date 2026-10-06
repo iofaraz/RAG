@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST, GREAT GRAINS, Raisin, Date & Pecan
+Food ID: 169041
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 378 kcal
+Protein: 7.9 g
+Carbohydrates: 74.3 g
+Fat: 7.1 g
+Fiber: 9.3 g
+Sugar: 24.1 g
+
+Fats:
+Saturated fat: 0.8 g
+Monounsaturated fat: 3.8 g
+Polyunsaturated fat: 2.1 g
+Trans fat: 0.1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 247 mg
+Potassium: 378 mg
+Calcium: 39 mg
+Iron: 16.4 mg
+Magnesium: 87 mg
+Zinc: 2.2 mg
+
+Vitamins:
+Vitamin A: 407 µg
+Vitamin C: 0.5 mg
+Vitamin D: 1.8 µg
+Vitamin E: 0.57 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.9 mg
+Vitamin B12: 2.7 µg
+Folate: 182 µg

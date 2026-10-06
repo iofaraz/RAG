@@ -1,0 +1,31 @@
+Food: Pears, raw, red anjou
+Food ID: 167777
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 0.33 g
+Carbohydrates: 14.94 g
+Fat: 0.14 g
+Fiber: 3 g
+Sugar: 9.54 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 123 mg
+Calcium: 11 mg
+Iron: 0.19 mg
+Magnesium: 7 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 5.2 mg
+Vitamin E: 0.12 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.039 mg
+Folate: 7 µg

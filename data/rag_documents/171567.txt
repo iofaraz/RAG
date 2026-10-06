@@ -1,0 +1,31 @@
+Food: Gravy, chicken, dry
+Food ID: 171567
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 11.27 g
+Carbohydrates: 62.09 g
+Fat: 9.73 g
+
+Fats:
+Saturated fat: 2.92 g
+Monounsaturated fat: 4.648 g
+Polyunsaturated fat: 1.877 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 4152 mg
+Potassium: 404 mg
+Calcium: 146 mg
+Iron: 1.33 mg
+Magnesium: 40 mg
+Zinc: 1.39 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.6 mg
+Vitamin B6: 0.202 mg
+Vitamin B12: 0.48 µg
+Folate: 125 µg

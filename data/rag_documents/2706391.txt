@@ -1,0 +1,36 @@
+Food: Barbecue beef, no sauce
+Food ID: 2706391
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 27.97 g
+Carbohydrates: 0 g
+Fat: 15.15 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.892 g
+Monounsaturated fat: 7.001 g
+Polyunsaturated fat: 0.573 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 411 mg
+Potassium: 271 mg
+Calcium: 10 mg
+Iron: 2.72 mg
+Magnesium: 21 mg
+Zinc: 7.94 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.29 mg
+Vitamin B12: 2.78 µg
+Folate: 7 µg

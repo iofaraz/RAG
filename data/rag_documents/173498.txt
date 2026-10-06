@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, vegetables chicken, strained
+Food ID: 173498
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 2.47 g
+Carbohydrates: 8.42 g
+Fat: 1.73 g
+Fiber: 2.1 g
+Sugar: 1.58 g
+
+Fats:
+Saturated fat: 0.496 g
+Monounsaturated fat: 0.712 g
+Polyunsaturated fat: 0.374 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 158 mg
+Calcium: 27 mg
+Iron: 0.53 mg
+Magnesium: 14 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 207 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.32 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 0.01 µg
+Folate: 5 µg

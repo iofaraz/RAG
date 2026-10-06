@@ -1,0 +1,37 @@
+Food: Snacks, M&M MARS, COMBOS Snacks Cheddar Cheese Pretzel
+Food ID: 167964
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 463 kcal
+Protein: 9.85 g
+Carbohydrates: 66.5 g
+Fat: 16.92 g
+Fiber: 3.6 g
+Sugar: 17.6 g
+
+Fats:
+Saturated fat: 9.656 g
+Monounsaturated fat: 3.806 g
+Polyunsaturated fat: 1.354 g
+Trans fat: 0.043 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 1117 mg
+Potassium: 130 mg
+Calcium: 197 mg
+Iron: 0.92 mg
+Magnesium: 22 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.67 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.12 µg
+Folate: 8 µg

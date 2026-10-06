@@ -1,0 +1,36 @@
+Food: Pizza, cheese with vegetables, from frozen, thick crust
+Food ID: 2708625
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 253 kcal
+Protein: 9.76 g
+Carbohydrates: 27.67 g
+Fat: 11.49 g
+Fiber: 2.1 g
+Sugar: 3.6 g
+
+Fats:
+Saturated fat: 3.994 g
+Monounsaturated fat: 3.969 g
+Polyunsaturated fat: 1.784 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 418 mg
+Potassium: 153 mg
+Calcium: 168 mg
+Iron: 2.14 mg
+Magnesium: 22 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 3.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.089 mg
+Vitamin B12: 0.73 µg
+Folate: 36 µg

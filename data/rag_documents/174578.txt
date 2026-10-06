@@ -1,0 +1,37 @@
+Food: Pork sausage, link/patty, cooked, pan-fried
+Food ID: 174578
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 325 kcal
+Protein: 18.53 g
+Carbohydrates: 1.42 g
+Fat: 27.25 g
+Fiber: 0 g
+Sugar: 1.09 g
+
+Fats:
+Saturated fat: 8.826 g
+Monounsaturated fat: 11.541 g
+Polyunsaturated fat: 5.115 g
+Trans fat: 0.12 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 814 mg
+Potassium: 342 mg
+Calcium: 9 mg
+Iron: 1.2 mg
+Magnesium: 16 mg
+Zinc: 2.45 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 1.4 µg
+Vitamin E: 0.9 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.195 mg
+Vitamin B12: 0.98 µg
+Folate: 1 µg

@@ -1,0 +1,22 @@
+Food: Beans, snap, green, raw
+Food ID: 2346400
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.96875 g
+Carbohydrates: 7.41245 g
+Fat: 0.275 g
+Fiber: 3.011 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 290.4 mg
+Calcium: 40.05 mg
+Iron: 0.6516 mg
+Magnesium: 28.21 mg
+Zinc: 0.3498 mg
+
+Vitamins:
+Vitamin K: 43.9 µg
+Vitamin B6: 0.121 mg

@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, POP'ABLES MILKY WAY Brand Bite Size Candies
+Food ID: 169644
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 463 kcal
+Protein: 3.3 g
+Carbohydrates: 71.85 g
+Fat: 18 g
+Fiber: 1 g
+Sugar: 61.08 g
+
+Fats:
+Saturated fat: 8.889 g
+Trans fat: 0.201 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 146 mg
+Calcium: 91 mg
+Iron: 0.5 mg
+
+Vitamins:
+Vitamin C: 0.6 mg

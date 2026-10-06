@@ -1,0 +1,37 @@
+Food: Seaweed, spirulina, dried
+Food ID: 170495
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 57.47 g
+Carbohydrates: 23.9 g
+Fat: 7.72 g
+Fiber: 3.6 g
+Sugar: 3.1 g
+
+Fats:
+Saturated fat: 2.65 g
+Monounsaturated fat: 0.675 g
+Polyunsaturated fat: 2.08 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1048 mg
+Potassium: 1363 mg
+Calcium: 120 mg
+Iron: 28.5 mg
+Magnesium: 195 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 10.1 mg
+Vitamin D: 0 µg
+Vitamin E: 5 mg
+Vitamin K: 25.5 µg
+Vitamin B6: 0.364 mg
+Vitamin B12: 0 µg
+Folate: 94 µg

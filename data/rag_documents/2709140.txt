@@ -1,0 +1,36 @@
+Food: Noodles with vegetables in tomato-based sauce, diet frozen meal
+Food ID: 2709140
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 70 kcal
+Protein: 3.63 g
+Carbohydrates: 10.82 g
+Fat: 1.55 g
+Fiber: 1.7 g
+Sugar: 2.71 g
+
+Fats:
+Saturated fat: 0.667 g
+Monounsaturated fat: 0.347 g
+Polyunsaturated fat: 0.21 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 134 mg
+Potassium: 280 mg
+Calcium: 49 mg
+Iron: 0.87 mg
+Magnesium: 18 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 8.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.57 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0.06 µg
+Folate: 28 µg

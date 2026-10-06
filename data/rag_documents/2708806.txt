@@ -1,0 +1,36 @@
+Food: Pad Thai with chicken
+Food ID: 2708806
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 8.13 g
+Carbohydrates: 14.36 g
+Fat: 7.5 g
+Fiber: 1.2 g
+Sugar: 4.06 g
+
+Fats:
+Saturated fat: 1.303 g
+Monounsaturated fat: 3.289 g
+Polyunsaturated fat: 2.116 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 384 mg
+Potassium: 152 mg
+Calcium: 21 mg
+Iron: 0.68 mg
+Magnesium: 25 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.13 mg
+Vitamin K: 19.9 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0.14 µg
+Folate: 24 µg

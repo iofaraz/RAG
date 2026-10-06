@@ -1,0 +1,36 @@
+Food: Dark green vegetables as ingredient in omelet
+Food ID: 2710806
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 2.97 g
+Carbohydrates: 4.51 g
+Fat: 0.56 g
+Fiber: 1.9 g
+Sugar: 1.19 g
+
+Fats:
+Saturated fat: 0.066 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.144 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 94 mg
+Potassium: 452 mg
+Calcium: 65 mg
+Iron: 1.01 mg
+Magnesium: 82 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 242 µg
+Vitamin C: 34.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.72 mg
+Vitamin K: 414.1 µg
+Vitamin B6: 0.219 mg
+Vitamin B12: 0 µg
+Folate: 81 µg

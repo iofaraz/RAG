@@ -1,0 +1,35 @@
+Food: Restaurant, Chinese, sweet and sour pork
+Food ID: 168082
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 8.91 g
+Carbohydrates: 23.34 g
+Fat: 15.66 g
+Fiber: 1 g
+Sugar: 10.34 g
+
+Fats:
+Saturated fat: 2.68 g
+Monounsaturated fat: 3.527 g
+Polyunsaturated fat: 7.116 g
+Trans fat: 0.087 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 304 mg
+Potassium: 152 mg
+Calcium: 46 mg
+Iron: 3.07 mg
+Magnesium: 13 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 2.3 mg
+Vitamin E: 0.89 mg
+Vitamin K: 27.9 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0.19 µg

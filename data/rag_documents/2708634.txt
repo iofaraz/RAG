@@ -1,0 +1,36 @@
+Food: Pizza, cheese, with fruit, thick crust
+Food ID: 2708634
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 246 kcal
+Protein: 9.57 g
+Carbohydrates: 30.89 g
+Fat: 9.3 g
+Fiber: 2 g
+Sugar: 4.31 g
+
+Fats:
+Saturated fat: 3.722 g
+Monounsaturated fat: 2.286 g
+Polyunsaturated fat: 2.428 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 475 mg
+Potassium: 164 mg
+Calcium: 159 mg
+Iron: 2.19 mg
+Magnesium: 22 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 6.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 8.9 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0.31 µg
+Folate: 95 µg

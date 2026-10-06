@@ -1,0 +1,32 @@
+Food: Poultry, mechanically deboned, from mature hens, raw
+Food ID: 171106
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 14.72 g
+Carbohydrates: 0 g
+Fat: 19.98 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.73 g
+Monounsaturated fat: 9.3 g
+Polyunsaturated fat: 4.55 g
+Cholesterol: 143 mg
+
+Minerals:
+Sodium: 40 mg
+Potassium: 104 mg
+Calcium: 187 mg
+Iron: 1.22 mg
+Magnesium: 12 mg
+Zinc: 1.9 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 2 mg
+Vitamin B6: 0.28 mg
+Vitamin B12: 0.27 µg
+Folate: 5 µg

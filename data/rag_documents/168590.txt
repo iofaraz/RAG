@@ -1,0 +1,32 @@
+Food: Nuts, chestnuts, japanese, roasted
+Food ID: 168590
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 2.97 g
+Carbohydrates: 45.13 g
+Fat: 0.8 g
+
+Fats:
+Saturated fat: 0.118 g
+Monounsaturated fat: 0.419 g
+Polyunsaturated fat: 0.207 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 427 mg
+Calcium: 35 mg
+Iron: 2.1 mg
+Magnesium: 64 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 28 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.418 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

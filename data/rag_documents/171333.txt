@@ -1,0 +1,33 @@
+Food: Spices, rosemary, dried
+Food ID: 171333
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 4.88 g
+Carbohydrates: 64.06 g
+Fat: 15.22 g
+Fiber: 42.6 g
+
+Fats:
+Saturated fat: 7.371 g
+Monounsaturated fat: 3.014 g
+Polyunsaturated fat: 2.339 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 955 mg
+Calcium: 1280 mg
+Iron: 29.25 mg
+Magnesium: 220 mg
+Zinc: 3.23 mg
+
+Vitamins:
+Vitamin A: 156 µg
+Vitamin C: 61.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 1.74 mg
+Vitamin B12: 0 µg
+Folate: 307 µg

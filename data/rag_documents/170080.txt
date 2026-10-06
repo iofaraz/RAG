@@ -1,0 +1,37 @@
+Food: Peppers, jalapeno, canned, solids and liquids
+Food ID: 170080
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.92 g
+Carbohydrates: 4.74 g
+Fat: 0.94 g
+Fiber: 2.6 g
+Sugar: 2.14 g
+
+Fats:
+Saturated fat: 0.097 g
+Monounsaturated fat: 0.053 g
+Polyunsaturated fat: 0.514 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1671 mg
+Potassium: 193 mg
+Calcium: 23 mg
+Iron: 1.88 mg
+Magnesium: 15 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 85 µg
+Vitamin C: 10 mg
+Vitamin D: 0 µg
+Vitamin E: 0.69 mg
+Vitamin K: 12.9 µg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

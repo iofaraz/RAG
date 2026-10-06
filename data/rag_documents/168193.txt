@@ -1,0 +1,30 @@
+Food: Pineapple, raw, traditional varieties
+Food ID: 168193
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 0.55 g
+Carbohydrates: 11.82 g
+Fat: 0.13 g
+Sugar: 8.29 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 125 mg
+Calcium: 13 mg
+Iron: 0.25 mg
+Magnesium: 12 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 16.9 mg
+Vitamin D: 0 µg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.106 mg
+Folate: 11 µg

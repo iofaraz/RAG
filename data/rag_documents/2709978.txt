@@ -1,0 +1,36 @@
+Food: Peppers, hot, cooked
+Food ID: 2709978
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 1.41 g
+Carbohydrates: 7.72 g
+Fat: 3.06 g
+Fiber: 2.2 g
+Sugar: 4.76 g
+
+Fats:
+Saturated fat: 0.761 g
+Monounsaturated fat: 0.968 g
+Polyunsaturated fat: 0.938 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 132 mg
+Potassium: 288 mg
+Calcium: 14 mg
+Iron: 0.65 mg
+Magnesium: 19 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 112.4 mg
+Vitamin D: 0 µg
+Vitamin E: 2.55 mg
+Vitamin K: 18.6 µg
+Vitamin B6: 0.437 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

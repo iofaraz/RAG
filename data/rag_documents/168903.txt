@@ -1,0 +1,33 @@
+Food: Macaroni, vegetable, enriched, dry
+Food ID: 168903
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 367 kcal
+Protein: 13.14 g
+Carbohydrates: 74.88 g
+Fat: 1.04 g
+Fiber: 4.3 g
+
+Fats:
+Saturated fat: 0.15 g
+Monounsaturated fat: 0.12 g
+Polyunsaturated fat: 0.426 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 285 mg
+Calcium: 34 mg
+Iron: 4.28 mg
+Magnesium: 46 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.129 mg
+Vitamin B12: 0 µg
+Folate: 278 µg

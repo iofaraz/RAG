@@ -1,0 +1,31 @@
+Food: Nabisco, Nabisco Grahams Crackers
+Food ID: 175083
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 424 kcal
+Protein: 6.99 g
+Carbohydrates: 76.2 g
+Fat: 10 g
+Fiber: 3.4 g
+Sugar: 23 g
+
+Fats:
+Saturated fat: 1.56 g
+Monounsaturated fat: 3.6 g
+Polyunsaturated fat: 0.46 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 659 mg
+Potassium: 177 mg
+Calcium: 79 mg
+Iron: 4.13 mg
+Magnesium: 59 mg
+Zinc: 1.94 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.1 mg
+Folate: 46 µg

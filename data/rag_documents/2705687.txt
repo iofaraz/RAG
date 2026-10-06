@@ -1,0 +1,36 @@
+Food: Pudding, tapioca, made from dry mix
+Food ID: 2705687
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 130 kcal
+Protein: 1.95 g
+Carbohydrates: 21.69 g
+Fat: 3.88 g
+Fiber: 0 g
+Sugar: 14.91 g
+
+Fats:
+Saturated fat: 0.962 g
+Monounsaturated fat: 2.538 g
+Polyunsaturated fat: 0.072 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 145 mg
+Potassium: 92 mg
+Calcium: 71 mg
+Iron: 0.11 mg
+Magnesium: 6 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.024 mg
+Vitamin B12: 0.21 µg
+Folate: 3 µg

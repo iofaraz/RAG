@@ -1,0 +1,36 @@
+Food: Buckwheat groats
+Food ID: 2708362
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 3.24 g
+Carbohydrates: 18.99 g
+Fat: 3.97 g
+Fiber: 2.6 g
+Sugar: 0.87 g
+
+Fats:
+Saturated fat: 1.585 g
+Monounsaturated fat: 1.068 g
+Polyunsaturated fat: 0.712 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 170 mg
+Potassium: 85 mg
+Calcium: 8 mg
+Iron: 0.76 mg
+Magnesium: 49 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.41 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

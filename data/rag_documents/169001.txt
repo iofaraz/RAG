@@ -1,0 +1,30 @@
+Food: Sea lion, Steller, kidney (Alaska Native)
+Food ID: 169001
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 18.1 g
+Carbohydrates: 1.4 g
+Fat: 1.7 g
+
+Fats:
+Saturated fat: 0.3 g
+Monounsaturated fat: 0.3 g
+Polyunsaturated fat: 0.3 g
+Trans fat: 0 g
+Cholesterol: 390 mg
+
+Minerals:
+Sodium: 231 mg
+Potassium: 253 mg
+Calcium: 9 mg
+Iron: 7 mg
+Magnesium: 16 mg
+Zinc: 2.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0 mg

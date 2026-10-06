@@ -1,0 +1,36 @@
+Food: Ham or pork and potatoes with gravy
+Food ID: 2706516
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 5.4 g
+Carbohydrates: 11.68 g
+Fat: 6.33 g
+Fiber: 0.9 g
+Sugar: 0.54 g
+
+Fats:
+Saturated fat: 1.276 g
+Monounsaturated fat: 2.673 g
+Polyunsaturated fat: 1.808 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 301 mg
+Potassium: 242 mg
+Calcium: 10 mg
+Iron: 0.36 mg
+Magnesium: 15 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.83 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.227 mg
+Vitamin B12: 0.11 µg
+Folate: 5 µg

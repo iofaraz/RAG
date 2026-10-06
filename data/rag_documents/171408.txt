@@ -1,0 +1,36 @@
+Food: Salad dressing, mayonnaise, imitation, soybean without cholesterol
+Food ID: 171408
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 482 kcal
+Protein: 0.1 g
+Carbohydrates: 15.8 g
+Fat: 47.7 g
+Fiber: 0 g
+Sugar: 6 g
+
+Fats:
+Saturated fat: 7.5 g
+Monounsaturated fat: 10.5 g
+Polyunsaturated fat: 27.6 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 353 mg
+Potassium: 10 mg
+Calcium: 0 mg
+Iron: 0.01 mg
+Magnesium: 0 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5 mg
+Vitamin K: 42.2 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,32 @@
+Food: Soup, beef mushroom, canned, condensed
+Food ID: 171175
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 4.6 g
+Carbohydrates: 5.2 g
+Fat: 2.4 g
+Fiber: 0.2 g
+
+Fats:
+Saturated fat: 1.2 g
+Monounsaturated fat: 1 g
+Polyunsaturated fat: 0.1 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 709 mg
+Potassium: 126 mg
+Calcium: 4 mg
+Iron: 0.7 mg
+Magnesium: 7 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.16 µg
+Folate: 7 µg

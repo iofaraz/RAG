@@ -1,0 +1,36 @@
+Food: Cream of wheat, instant, made with water, fat added
+Food ID: 2708437
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 1.5 g
+Carbohydrates: 14.06 g
+Fat: 2.09 g
+Fiber: 0.5 g
+Sugar: 3.56 g
+
+Fats:
+Saturated fat: 0.844 g
+Monounsaturated fat: 0.523 g
+Polyunsaturated fat: 0.405 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 98 mg
+Potassium: 17 mg
+Calcium: 53 mg
+Iron: 4.01 mg
+Magnesium: 6 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 207 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.278 mg
+Vitamin B12: 0 µg
+Folate: 50 µg

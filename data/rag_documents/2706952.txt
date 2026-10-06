@@ -1,0 +1,36 @@
+Food: Reuben sandwich
+Food ID: 2706952
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 10.01 g
+Carbohydrates: 16.42 g
+Fat: 19.43 g
+Fiber: 2.2 g
+Sugar: 3.48 g
+
+Fats:
+Saturated fat: 5.786 g
+Monounsaturated fat: 6.573 g
+Polyunsaturated fat: 4.678 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 688 mg
+Potassium: 134 mg
+Calcium: 117 mg
+Iron: 1.69 mg
+Magnesium: 21 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.62 mg
+Vitamin K: 17.2 µg
+Vitamin B6: 0.144 mg
+Vitamin B12: 0.7 µg
+Folate: 32 µg

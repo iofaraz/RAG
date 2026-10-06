@@ -1,0 +1,27 @@
+Food: Agutuk, fish with shortening (Alaskan ice cream) (Alaska Native)
+Food ID: 169823
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 470 kcal
+Protein: 9 g
+Carbohydrates: 10.5 g
+Fat: 43.5 g
+
+Fats:
+Saturated fat: 8.6 g
+Monounsaturated fat: 15.6 g
+Polyunsaturated fat: 17.3 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 206 mg
+Iron: 0.2 mg
+Magnesium: 16 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin E: 4 mg

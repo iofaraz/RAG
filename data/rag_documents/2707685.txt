@@ -1,0 +1,36 @@
+Food: Bagel, with raisins
+Food ID: 2707685
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 268 kcal
+Protein: 9.83 g
+Carbohydrates: 55.07 g
+Fat: 1.21 g
+Fiber: 1.9 g
+Sugar: 14.1 g
+
+Fats:
+Saturated fat: 0.333 g
+Monounsaturated fat: 0.353 g
+Polyunsaturated fat: 0.479 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 382 mg
+Potassium: 171 mg
+Calcium: 69 mg
+Iron: 3.39 mg
+Magnesium: 30 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 96 µg

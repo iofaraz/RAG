@@ -1,0 +1,36 @@
+Food: Burrito bowl, chicken, with beans and rice
+Food ID: 2708563
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 145 kcal
+Protein: 13.03 g
+Carbohydrates: 10.58 g
+Fat: 5.44 g
+Fiber: 1 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 2.289 g
+Monounsaturated fat: 1.695 g
+Polyunsaturated fat: 0.756 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 311 mg
+Potassium: 196 mg
+Calcium: 68 mg
+Iron: 0.93 mg
+Magnesium: 23 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.15 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.28 mg
+Vitamin B12: 0.2 µg
+Folate: 24 µg

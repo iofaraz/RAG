@@ -1,0 +1,25 @@
+Food: Cheese, queso fresco, solid
+Food ID: 2647442
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 18.8848 g
+Carbohydrates: 2.9572 g
+Fat: 23.36 g
+
+Fats:
+Saturated fat: 13.95 g
+Monounsaturated fat: 4.964 g
+Cholesterol: 76.09 mg
+
+Minerals:
+Sodium: 626.5 mg
+Potassium: 126.4 mg
+Calcium: 601.8 mg
+Iron: 0 mg
+Magnesium: 27.64 mg
+Zinc: 2.908 mg
+
+Vitamins:
+Vitamin D: 0 µg

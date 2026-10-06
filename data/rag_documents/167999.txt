@@ -1,0 +1,36 @@
+Food: Baking chocolate, mexican, squares
+Food ID: 167999
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 426 kcal
+Protein: 3.64 g
+Carbohydrates: 77.41 g
+Fat: 15.59 g
+Fiber: 4 g
+Sugar: 69.4 g
+
+Fats:
+Saturated fat: 8.606 g
+Monounsaturated fat: 5.044 g
+Polyunsaturated fat: 1.162 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 397 mg
+Calcium: 34 mg
+Iron: 2.18 mg
+Magnesium: 95 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

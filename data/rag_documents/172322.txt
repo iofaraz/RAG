@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, AR, powder, with ARA and DHA
+Food ID: 172322
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 504 kcal
+Protein: 12.4 g
+Carbohydrates: 57.4 g
+Fat: 25 g
+Fiber: 0 g
+Sugar: 56.03 g
+
+Fats:
+Saturated fat: 10.5 g
+Monounsaturated fat: 8.6 g
+Polyunsaturated fat: 4.7 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 540 mg
+Calcium: 390 mg
+Iron: 9.16 mg
+Magnesium: 40 mg
+Zinc: 5.09 mg
+
+Vitamins:
+Vitamin A: 450 µg
+Vitamin C: 60 mg
+Vitamin D: 7.5 µg
+Vitamin E: 4.5 mg
+Vitamin K: 45 µg
+Vitamin B6: 0.306 mg
+Vitamin B12: 1.53 µg
+Folate: 80 µg

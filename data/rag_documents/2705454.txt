@@ -1,0 +1,36 @@
+Food: Frozen yogurt, soft serve, vanilla
+Food ID: 2705454
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 4 g
+Carbohydrates: 24.2 g
+Fat: 5.6 g
+Fiber: 0 g
+Sugar: 24 g
+
+Fats:
+Saturated fat: 3.42 g
+Monounsaturated fat: 1.59 g
+Polyunsaturated fat: 0.21 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 87 mg
+Potassium: 211 mg
+Calcium: 143 mg
+Iron: 0.3 mg
+Magnesium: 14 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.29 µg
+Folate: 6 µg

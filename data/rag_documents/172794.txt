@@ -1,0 +1,36 @@
+Food: Rolls, dinner, whole-wheat
+Food ID: 172794
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 8.7 g
+Carbohydrates: 51.1 g
+Fat: 4.7 g
+Fiber: 7.5 g
+Sugar: 8.46 g
+
+Fats:
+Saturated fat: 0.836 g
+Monounsaturated fat: 1.199 g
+Polyunsaturated fat: 2.161 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 521 mg
+Potassium: 272 mg
+Calcium: 106 mg
+Iron: 2.42 mg
+Magnesium: 85 mg
+Zinc: 2.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.9 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.195 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

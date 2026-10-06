@@ -1,0 +1,36 @@
+Food: Fish and noodles with mushroom sauce
+Food ID: 2706576
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 6.3 g
+Carbohydrates: 14.79 g
+Fat: 5.11 g
+Fiber: 0.8 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 0.93 g
+Monounsaturated fat: 1.639 g
+Polyunsaturated fat: 2.019 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 312 mg
+Potassium: 89 mg
+Calcium: 24 mg
+Iron: 0.85 mg
+Magnesium: 19 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.77 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.25 µg
+Folate: 43 µg

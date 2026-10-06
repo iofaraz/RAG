@@ -1,0 +1,36 @@
+Food: Turkey with vegetable, stuffing, diet frozen meal
+Food ID: 2707117
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 96 kcal
+Protein: 9.3 g
+Carbohydrates: 10.66 g
+Fat: 1.82 g
+Fiber: 1.5 g
+Sugar: 3.79 g
+
+Fats:
+Saturated fat: 0.509 g
+Monounsaturated fat: 0.703 g
+Polyunsaturated fat: 0.395 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 210 mg
+Potassium: 196 mg
+Calcium: 24 mg
+Iron: 0.67 mg
+Magnesium: 18 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 119 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.35 mg
+Vitamin K: 11.2 µg
+Vitamin B6: 0.253 mg
+Vitamin B12: 0.11 µg
+Folate: 12 µg

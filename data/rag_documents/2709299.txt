@@ -1,0 +1,36 @@
+Food: Fruit salad, excluding citrus fruits, with marshmallows
+Food ID: 2709299
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 1.78 g
+Carbohydrates: 17.54 g
+Fat: 19.48 g
+Fiber: 1.4 g
+Sugar: 12.72 g
+
+Fats:
+Saturated fat: 2.687 g
+Monounsaturated fat: 3.899 g
+Polyunsaturated fat: 12.161 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 124 mg
+Potassium: 171 mg
+Calcium: 14 mg
+Iron: 0.28 mg
+Magnesium: 21 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 15.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.74 mg
+Vitamin K: 32.8 µg
+Vitamin B6: 0.132 mg
+Vitamin B12: 0.02 µg
+Folate: 16 µg

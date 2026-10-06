@@ -1,0 +1,35 @@
+Food: Cookies, sugar, refrigerated dough
+Food ID: 174972
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 436 kcal
+Protein: 4 g
+Carbohydrates: 61.22 g
+Fat: 19.48 g
+Fiber: 0.9 g
+Sugar: 36.51 g
+
+Fats:
+Saturated fat: 4.955 g
+Monounsaturated fat: 11.077 g
+Polyunsaturated fat: 2.469 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 328 mg
+Potassium: 147 mg
+Calcium: 8 mg
+Iron: 1.85 mg
+Magnesium: 7 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin E: 0.19 mg
+Vitamin K: 8.8 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0.02 µg
+Folate: 63 µg

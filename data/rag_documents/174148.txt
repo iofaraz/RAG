@@ -1,0 +1,36 @@
+Food: Beverages, OCEAN SPRAY, Light Cranberry
+Food ID: 174148
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 0.22 g
+Carbohydrates: 4.72 g
+Fat: 0.01 g
+Fiber: 0.7 g
+Sugar: 3.97 g
+
+Fats:
+Saturated fat: 0.004 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.003 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 38 mg
+Calcium: 3 mg
+Iron: 0.07 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg

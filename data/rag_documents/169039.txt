@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, frosted oat cereal with marshmallows
+Food ID: 169039
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 400 kcal
+Protein: 7.1 g
+Carbohydrates: 84.7 g
+Fat: 3.33 g
+Fiber: 4.3 g
+Sugar: 36.13 g
+
+Fats:
+Saturated fat: 0.62 g
+Monounsaturated fat: 1.1 g
+Polyunsaturated fat: 1.28 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 533 mg
+Potassium: 207 mg
+Calcium: 333 mg
+Iron: 15 mg
+Magnesium: 28 mg
+Zinc: 7.94 mg
+
+Vitamins:
+Vitamin A: 500 µg
+Vitamin C: 20 mg
+Vitamin D: 3.6 µg
+Vitamin E: 0.45 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 1.76 mg
+Vitamin B12: 5.29 µg
+Folate: 353 µg

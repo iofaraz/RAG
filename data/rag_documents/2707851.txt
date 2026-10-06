@@ -1,0 +1,36 @@
+Food: Bread, zucchini
+Food ID: 2707851
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 306 kcal
+Protein: 5.05 g
+Carbohydrates: 42.64 g
+Fat: 13.14 g
+Fiber: 0.9 g
+Sugar: 22.72 g
+
+Fats:
+Saturated fat: 2.173 g
+Monounsaturated fat: 5.229 g
+Polyunsaturated fat: 4.61 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 290 mg
+Potassium: 164 mg
+Calcium: 137 mg
+Iron: 1.93 mg
+Magnesium: 16 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 3 mg
+Vitamin D: 0.5 µg
+Vitamin E: 2.28 mg
+Vitamin K: 12.3 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.16 µg
+Folate: 38 µg

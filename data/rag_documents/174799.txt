@@ -1,0 +1,37 @@
+Food: Snacks, CLIF BAR, mixed flavors
+Food ID: 174799
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 14.71 g
+Carbohydrates: 65.44 g
+Fat: 5.88 g
+Fiber: 7.4 g
+Sugar: 31.62 g
+
+Fats:
+Saturated fat: 1.471 g
+Monounsaturated fat: 1.093 g
+Polyunsaturated fat: 2.182 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 195 mg
+Potassium: 412 mg
+Calcium: 368 mg
+Iron: 6.62 mg
+Magnesium: 147 mg
+Zinc: 4.41 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 88.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 36.8 µg
+Vitamin B6: 0.588 mg
+Vitamin B12: 1.32 µg
+Folate: 118 µg

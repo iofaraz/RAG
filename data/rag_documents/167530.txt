@@ -1,0 +1,33 @@
+Food: Crackers, cream, Gamesa Sabrosas
+Food ID: 167530
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 484 kcal
+Protein: 7.01 g
+Carbohydrates: 64.55 g
+Fat: 20.37 g
+Fiber: 2.4 g
+Sugar: 9.37 g
+
+Fats:
+Saturated fat: 5.362 g
+Monounsaturated fat: 10.625 g
+Polyunsaturated fat: 2.45 g
+Trans fat: 3.969 g
+
+Minerals:
+Sodium: 1148 mg
+Potassium: 129 mg
+Calcium: 26 mg
+Iron: 7.38 mg
+Magnesium: 25 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin E: 1.59 mg
+Vitamin K: 17.9 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0.46 µg
+Folate: 149 µg

@@ -1,0 +1,26 @@
+Food: Cookies, gluten-free, vanilla sandwich, with creme filling
+Food ID: 171860
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 493 kcal
+Protein: 2.66 g
+Carbohydrates: 74.61 g
+Fat: 20.47 g
+Fiber: 0.5 g
+Sugar: 46.68 g
+
+Fats:
+Saturated fat: 7.006 g
+Monounsaturated fat: 8.251 g
+Polyunsaturated fat: 2.851 g
+Trans fat: 0.057 g
+
+Minerals:
+Sodium: 201 mg
+Potassium: 105 mg
+Calcium: 14 mg
+Iron: 0.34 mg
+Magnesium: 13 mg
+Zinc: 0.23 mg

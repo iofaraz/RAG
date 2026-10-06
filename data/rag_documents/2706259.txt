@@ -1,0 +1,36 @@
+Food: Fish, haddock, steamed
+Food ID: 2706259
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 87 kcal
+Protein: 20.59 g
+Carbohydrates: 0 g
+Fat: 0.57 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.117 g
+Monounsaturated fat: 0.072 g
+Polyunsaturated fat: 0.206 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 184 mg
+Potassium: 361 mg
+Calcium: 14 mg
+Iron: 0.22 mg
+Magnesium: 27 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.57 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.319 mg
+Vitamin B12: 2.08 µg
+Folate: 14 µg

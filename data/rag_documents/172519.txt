@@ -1,0 +1,29 @@
+Food: Game meat, muskrat, cooked, roasted
+Food ID: 172519
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 30.09 g
+Carbohydrates: 0 g
+Fat: 11.74 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 121 mg
+
+Minerals:
+Sodium: 95 mg
+Potassium: 320 mg
+Calcium: 36 mg
+Iron: 7.1 mg
+Magnesium: 26 mg
+Zinc: 2.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7 mg
+Vitamin B6: 0.47 mg
+Vitamin B12: 8.3 µg
+Folate: 11 µg

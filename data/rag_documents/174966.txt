@@ -1,0 +1,36 @@
+Food: Cookies, raisin, soft-type
+Food ID: 174966
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 401 kcal
+Protein: 4.1 g
+Carbohydrates: 68 g
+Fat: 13.6 g
+Fiber: 1.2 g
+Sugar: 47.56 g
+
+Fats:
+Saturated fat: 3.46 g
+Monounsaturated fat: 7.649 g
+Polyunsaturated fat: 1.756 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 418 mg
+Potassium: 140 mg
+Calcium: 46 mg
+Iron: 2.29 mg
+Magnesium: 21 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 2.22 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.03 µg
+Folate: 32 µg

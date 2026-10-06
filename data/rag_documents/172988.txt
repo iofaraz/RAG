@@ -1,0 +1,35 @@
+Food: Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Wheat Germ, Regular
+Food ID: 172988
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 31.43 g
+Carbohydrates: 49.38 g
+Fat: 9.56 g
+Fiber: 11.9 g
+Sugar: 7.14 g
+
+Fats:
+Saturated fat: 1.66 g
+Monounsaturated fat: 1.25 g
+Polyunsaturated fat: 5.98 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 1097 mg
+Calcium: 50 mg
+Iron: 8.34 mg
+Magnesium: 313 mg
+Zinc: 16.01 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 6 mg
+Vitamin D: 0 µg
+Vitamin E: 19.29 mg
+Vitamin B6: 0.6 mg
+Vitamin B12: 0.21 µg
+Folate: 669 µg

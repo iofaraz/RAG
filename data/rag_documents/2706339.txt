@@ -1,0 +1,36 @@
+Food: Clams, NFS
+Food ID: 2706339
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 16.14 g
+Carbohydrates: 6.74 g
+Fat: 5.2 g
+Fiber: 0.1 g
+Sugar: 0.05 g
+
+Fats:
+Saturated fat: 0.912 g
+Monounsaturated fat: 1.792 g
+Polyunsaturated fat: 1.686 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 199 mg
+Potassium: 55 mg
+Calcium: 45 mg
+Iron: 1.95 mg
+Magnesium: 21 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.46 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 10.66 µg
+Folate: 10 µg

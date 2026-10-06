@@ -1,0 +1,36 @@
+Food: Frozen coffee drink, decaffeinated, nonfat, with whipped cream
+Food ID: 2710408
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 1.62 g
+Carbohydrates: 12.96 g
+Fat: 1.99 g
+Fiber: 0 g
+Sugar: 12.75 g
+
+Fats:
+Saturated fat: 1.122 g
+Monounsaturated fat: 0.399 g
+Polyunsaturated fat: 0.099 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 22 mg
+Potassium: 95 mg
+Calcium: 62 mg
+Iron: 0.02 mg
+Magnesium: 17 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.25 µg
+Folate: 1 µg

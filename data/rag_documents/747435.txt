@@ -1,0 +1,16 @@
+Food: Beans, Dry, Light Tan (0% moisture)
+Food ID: 747435
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 24.6 g
+Fat: 1.28 g
+Fiber: 4.3 g
+
+Minerals:
+Potassium: 1230 mg
+Calcium: 98 mg
+Iron: 7.29 mg
+Magnesium: 178 mg
+Zinc: 3.23 mg

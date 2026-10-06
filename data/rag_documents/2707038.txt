@@ -1,0 +1,36 @@
+Food: Tuna salad sandwich wrap
+Food ID: 2707038
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 10.59 g
+Carbohydrates: 16.99 g
+Fat: 14.82 g
+Fiber: 1.3 g
+Sugar: 2.64 g
+
+Fats:
+Saturated fat: 4.085 g
+Monounsaturated fat: 3.293 g
+Polyunsaturated fat: 6.342 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 564 mg
+Potassium: 146 mg
+Calcium: 150 mg
+Iron: 1.7 mg
+Magnesium: 18 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.63 mg
+Vitamin K: 29.1 µg
+Vitamin B6: 0.132 mg
+Vitamin B12: 0.96 µg
+Folate: 36 µg

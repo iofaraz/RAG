@@ -1,0 +1,28 @@
+Food: Beverages, V8 SPLASH Smoothies, Tropical Colada
+Food ID: 174830
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 1.22 g
+Carbohydrates: 8.54 g
+Fat: 0 g
+Fiber: 0.4 g
+Sugar: 7.32 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 24 mg
+Calcium: 41 mg
+Iron: 0.15 mg
+
+Vitamins:
+Vitamin C: 24.4 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0.24 µg

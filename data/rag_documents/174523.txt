@@ -1,0 +1,37 @@
+Food: Sauce, barbecue
+Food ID: 174523
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 0.82 g
+Carbohydrates: 40.77 g
+Fat: 0.63 g
+Fiber: 0.9 g
+Sugar: 33.24 g
+
+Fats:
+Saturated fat: 0.045 g
+Monounsaturated fat: 0.082 g
+Polyunsaturated fat: 0.101 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1027 mg
+Potassium: 232 mg
+Calcium: 33 mg
+Iron: 0.64 mg
+Magnesium: 13 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.8 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

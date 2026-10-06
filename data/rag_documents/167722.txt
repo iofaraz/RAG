@@ -1,0 +1,37 @@
+Food: Tofu yogurt
+Food ID: 167722
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 3.5 g
+Carbohydrates: 15.96 g
+Fat: 1.8 g
+Fiber: 0.2 g
+Sugar: 1.24 g
+
+Fats:
+Saturated fat: 0.259 g
+Monounsaturated fat: 0.4 g
+Polyunsaturated fat: 1.017 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 47 mg
+Calcium: 118 mg
+Iron: 1.06 mg
+Magnesium: 40 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

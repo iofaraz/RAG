@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, hind-shank, separable lean only, raw
+Food ID: 174454
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 20.4 g
+Carbohydrates: 0.73 g
+Fat: 3.35 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.05 g
+Monounsaturated fat: 1.015 g
+Polyunsaturated fat: 0.291 g
+Trans fat: 0.089 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 82 mg
+Potassium: 327 mg
+Calcium: 5 mg
+Iron: 1.46 mg
+Magnesium: 22 mg
+Zinc: 3.45 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin B6: 0.148 mg
+Vitamin B12: 1.43 µg

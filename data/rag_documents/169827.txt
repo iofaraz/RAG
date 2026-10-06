@@ -1,0 +1,22 @@
+Food: Hazelnuts, beaked (Northern Plains Indians)
+Food ID: 169827
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 628 kcal
+Protein: 14.89 g
+Carbohydrates: 22.98 g
+Fat: 52.99 g
+Fiber: 9.8 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 738 mg
+Calcium: 441 mg
+Iron: 3.12 mg
+Magnesium: 235 mg
+Zinc: 2.06 mg
+
+Vitamins:
+Vitamin B6: 0.55 mg

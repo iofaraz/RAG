@@ -1,0 +1,35 @@
+Food: Lamb, Australian, imported, fresh, leg, bottom, boneless, separable lean only, trimmed to 1/8" fat, cooked, roasted
+Food ID: 174885
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 28.6 g
+Carbohydrates: 0 g
+Fat: 8.35 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.224 g
+Monounsaturated fat: 3.231 g
+Polyunsaturated fat: 0.546 g
+Trans fat: 0.413 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 287 mg
+Calcium: 2 mg
+Iron: 2.04 mg
+Magnesium: 23 mg
+Zinc: 3.67 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin B6: 0.441 mg
+Vitamin B12: 2.45 µg

@@ -1,0 +1,21 @@
+Food: Lettuce, iceberg, raw
+Food ID: 2346388
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.7425 g
+Carbohydrates: 3.36875 g
+Fat: 0.07375 g
+
+Minerals:
+Sodium: 16.11 mg
+Potassium: 139.3 mg
+Calcium: 14.24 mg
+Iron: 0.03325 mg
+Magnesium: 6.311 mg
+Zinc: 0.1728 mg
+
+Vitamins:
+Vitamin K: 20.5 µg
+Vitamin B6: 0.04013 mg

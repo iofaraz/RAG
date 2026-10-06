@@ -1,0 +1,36 @@
+Food: Stuffed grape leaves with beef and rice
+Food ID: 2706621
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 8.15 g
+Carbohydrates: 11.3 g
+Fat: 17.03 g
+Fiber: 3.1 g
+Sugar: 2.48 g
+
+Fats:
+Saturated fat: 3.659 g
+Monounsaturated fat: 9.748 g
+Polyunsaturated fat: 1.851 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 420 mg
+Potassium: 225 mg
+Calcium: 98 mg
+Iron: 1.91 mg
+Magnesium: 36 mg
+Zinc: 1.8 mg
+
+Vitamins:
+Vitamin A: 337 µg
+Vitamin C: 9.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.99 mg
+Vitamin K: 66.3 µg
+Vitamin B6: 0.192 mg
+Vitamin B12: 0.52 µg
+Folate: 31 µg

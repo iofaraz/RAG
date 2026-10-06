@@ -1,0 +1,37 @@
+Food: Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8" fat, choice, raw
+Food ID: 174010
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 22.93 g
+Carbohydrates: 0 g
+Fat: 6.34 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.515 g
+Monounsaturated fat: 2.948 g
+Polyunsaturated fat: 0.393 g
+Trans fat: 0.307 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 46 mg
+Potassium: 283 mg
+Calcium: 15 mg
+Iron: 1.93 mg
+Magnesium: 11 mg
+Zinc: 3.79 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.24 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.589 mg
+Vitamin B12: 1.71 µg
+Folate: 4 µg

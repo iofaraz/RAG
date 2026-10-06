@@ -1,0 +1,37 @@
+Food: Burdock root, cooked, boiled, drained, without salt
+Food ID: 170384
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 2.09 g
+Carbohydrates: 21.15 g
+Fat: 0.14 g
+Fiber: 1.8 g
+Sugar: 3.55 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.035 g
+Polyunsaturated fat: 0.055 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 360 mg
+Calcium: 49 mg
+Iron: 0.77 mg
+Magnesium: 39 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.279 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

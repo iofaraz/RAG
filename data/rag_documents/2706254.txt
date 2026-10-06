@@ -1,0 +1,36 @@
+Food: Fish, haddock, NFS
+Food ID: 2706254
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 14.31 g
+Carbohydrates: 11.72 g
+Fat: 12.51 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.733 g
+Monounsaturated fat: 5.092 g
+Polyunsaturated fat: 4.748 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 395 mg
+Potassium: 242 mg
+Calcium: 23 mg
+Iron: 1.02 mg
+Magnesium: 21 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 2.59 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.205 mg
+Vitamin B12: 1.28 µg
+Folate: 32 µg

@@ -1,0 +1,36 @@
+Food: Coconut cream, canned, sweetened
+Food ID: 2707571
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 1.17 g
+Carbohydrates: 53.21 g
+Fat: 16.31 g
+Fiber: 0.2 g
+Sugar: 51.5 g
+
+Fats:
+Saturated fat: 15.472 g
+Monounsaturated fat: 0.679 g
+Polyunsaturated fat: 0.159 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 101 mg
+Calcium: 4 mg
+Iron: 0.13 mg
+Magnesium: 17 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

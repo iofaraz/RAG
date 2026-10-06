@@ -1,0 +1,21 @@
+Food: Rice, white, long grain, unenriched, raw
+Food ID: 2512381
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 7.03885 g
+Carbohydrates: 80.3131 g
+Fat: 1.033 g
+Fiber: 0.1488 g
+
+Minerals:
+Sodium: 0.4625 mg
+Potassium: 82.26 mg
+Calcium: 4.46 mg
+Iron: 0.1405 mg
+Magnesium: 26.53 mg
+Zinc: 1.354 mg
+
+Vitamins:
+Vitamin B6: 0.05788 mg

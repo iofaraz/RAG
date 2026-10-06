@@ -1,0 +1,36 @@
+Food: Steak, NS as to type of meat, NS as to fat eaten
+Food ID: 2705823
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 26.95 g
+Carbohydrates: 0 g
+Fat: 12.99 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.307 g
+Monounsaturated fat: 5.884 g
+Polyunsaturated fat: 0.67 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 367 mg
+Potassium: 321 mg
+Calcium: 17 mg
+Iron: 2.6 mg
+Magnesium: 21 mg
+Zinc: 5.07 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.25 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.645 mg
+Vitamin B12: 1.99 µg
+Folate: 6 µg

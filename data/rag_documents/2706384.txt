@@ -1,0 +1,36 @@
+Food: Swedish meatballs with cream or white sauce
+Food ID: 2706384
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 170 kcal
+Protein: 12.48 g
+Carbohydrates: 6.29 g
+Fat: 10.3 g
+Fiber: 0.2 g
+Sugar: 2.46 g
+
+Fats:
+Saturated fat: 4.535 g
+Monounsaturated fat: 3.965 g
+Polyunsaturated fat: 0.495 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 537 mg
+Potassium: 204 mg
+Calcium: 55 mg
+Iron: 1.42 mg
+Magnesium: 15 mg
+Zinc: 2.66 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.185 mg
+Vitamin B12: 1.18 µg
+Folate: 13 µg

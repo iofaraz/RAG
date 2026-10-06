@@ -1,0 +1,36 @@
+Food: Cake made with glutinous rice and dried beans
+Food ID: 2708348
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 7.76 g
+Carbohydrates: 36.09 g
+Fat: 0.6 g
+Fiber: 3.4 g
+Sugar: 1.47 g
+
+Fats:
+Saturated fat: 0.075 g
+Monounsaturated fat: 0.121 g
+Polyunsaturated fat: 0.155 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 942 mg
+Potassium: 241 mg
+Calcium: 34 mg
+Iron: 0.93 mg
+Magnesium: 37 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

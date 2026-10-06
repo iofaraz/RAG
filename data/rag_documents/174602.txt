@@ -1,0 +1,34 @@
+Food: Bacon and beef sticks
+Food ID: 174602
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 517 kcal
+Protein: 29.1 g
+Carbohydrates: 0.8 g
+Fat: 44.2 g
+Fiber: 0 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 16 g
+Monounsaturated fat: 21.9 g
+Polyunsaturated fat: 4.3 g
+Cholesterol: 102 mg
+
+Minerals:
+Sodium: 1420 mg
+Potassium: 385 mg
+Calcium: 14 mg
+Iron: 1.86 mg
+Magnesium: 17 mg
+Zinc: 3.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.5 mg
+Vitamin B12: 1.9 µg
+Folate: 2 µg

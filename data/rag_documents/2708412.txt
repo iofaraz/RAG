@@ -1,0 +1,36 @@
+Food: Rice, brown, cooked, made with margarine
+Food ID: 2708412
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 2.38 g
+Carbohydrates: 25.18 g
+Fat: 2.6 g
+Fiber: 1 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 0.493 g
+Monounsaturated fat: 0.909 g
+Polyunsaturated fat: 0.932 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 213 mg
+Potassium: 79 mg
+Calcium: 6 mg
+Iron: 0.39 mg
+Magnesium: 39 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.62 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

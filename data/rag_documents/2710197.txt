@@ -1,0 +1,36 @@
+Food: Blue or roquefort cheese dressing
+Food ID: 2710197
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 484 kcal
+Protein: 1.37 g
+Carbohydrates: 4.77 g
+Fat: 51.1 g
+Fiber: 0.4 g
+Sugar: 3.48 g
+
+Fats:
+Saturated fat: 8.275 g
+Monounsaturated fat: 13.279 g
+Polyunsaturated fat: 27.545 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 642 mg
+Potassium: 88 mg
+Calcium: 37 mg
+Iron: 0.09 mg
+Magnesium: 8 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 4.28 mg
+Vitamin K: 85.9 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.27 µg
+Folate: 5 µg

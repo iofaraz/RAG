@@ -1,0 +1,35 @@
+Food: Pork, oriental style, dehydrated
+Food ID: 169082
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 615 kcal
+Protein: 11.8 g
+Carbohydrates: 1.4 g
+Fat: 62.4 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 23.056 g
+Monounsaturated fat: 28.555 g
+Polyunsaturated fat: 7.32 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 685 mg
+Potassium: 139 mg
+Calcium: 10 mg
+Iron: 0.5 mg
+Magnesium: 11 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.36 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.2 mg
+Vitamin B12: 0.3 µg
+Folate: 2 µg

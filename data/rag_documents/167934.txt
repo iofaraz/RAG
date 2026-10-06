@@ -1,0 +1,37 @@
+Food: Crackers, wheat, reduced fat
+Food ID: 167934
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 444 kcal
+Protein: 9.34 g
+Carbohydrates: 71.52 g
+Fat: 13.37 g
+Fiber: 3.4 g
+Sugar: 15.01 g
+
+Fats:
+Saturated fat: 2.112 g
+Monounsaturated fat: 3.295 g
+Polyunsaturated fat: 7.055 g
+Trans fat: 0.201 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 776 mg
+Potassium: 210 mg
+Calcium: 80 mg
+Iron: 5.02 mg
+Magnesium: 47 mg
+Zinc: 1.74 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.18 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.14 µg
+Folate: 127 µg

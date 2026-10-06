@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, All Natural Light Vanilla Chocolate Strawberry
+Food ID: 170662
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 4.69 g
+Carbohydrates: 26.06 g
+Fat: 4.35 g
+Fiber: 0.4 g
+Sugar: 22.47 g
+
+Fats:
+Saturated fat: 2.7 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 69 mg
+Calcium: 158 mg
+Iron: 0.31 mg
+
+Vitamins:
+Vitamin C: 1.7 mg

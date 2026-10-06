@@ -1,0 +1,36 @@
+Food: Soup, bean & ham, canned, reduced sodium, prepared with water or ready-to-serve
+Food ID: 174533
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 4.19 g
+Carbohydrates: 13.66 g
+Fat: 1.03 g
+Fiber: 4 g
+Sugar: 3.17 g
+
+Fats:
+Saturated fat: 0.252 g
+Monounsaturated fat: 0.415 g
+Polyunsaturated fat: 0.269 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 187 mg
+Potassium: 158 mg
+Calcium: 38 mg
+Iron: 1.02 mg
+Magnesium: 19 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.03 µg
+Folate: 29 µg

@@ -1,0 +1,36 @@
+Food: Gravy, instant turkey, dry
+Food ID: 171590
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 409 kcal
+Protein: 11.72 g
+Carbohydrates: 57.56 g
+Fat: 14.66 g
+Fiber: 3.8 g
+Sugar: 7.6 g
+
+Fats:
+Saturated fat: 4.931 g
+Monounsaturated fat: 5.25 g
+Polyunsaturated fat: 4.478 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 4090 mg
+Potassium: 306 mg
+Calcium: 115 mg
+Iron: 9.57 mg
+Magnesium: 30 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.74 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.205 mg
+Vitamin B12: 0.37 µg
+Folate: 45 µg

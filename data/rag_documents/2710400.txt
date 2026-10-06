@@ -1,0 +1,36 @@
+Food: Frozen coffee drink, with non-dairy milk
+Food ID: 2710400
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 0.54 g
+Carbohydrates: 12.53 g
+Fat: 0.8 g
+Fiber: 0 g
+Sugar: 11.83 g
+
+Fats:
+Saturated fat: 0.087 g
+Monounsaturated fat: 0.359 g
+Polyunsaturated fat: 0.248 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 42 mg
+Calcium: 71 mg
+Iron: 0.17 mg
+Magnesium: 17 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.95 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.006 mg
+Vitamin B12: 0.17 µg
+Folate: 2 µg

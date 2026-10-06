@@ -1,0 +1,36 @@
+Food: Scone
+Food ID: 2707808
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 382 kcal
+Protein: 6.67 g
+Carbohydrates: 48.07 g
+Fat: 18.35 g
+Fiber: 1.2 g
+Sugar: 13.4 g
+
+Fats:
+Saturated fat: 9.744 g
+Monounsaturated fat: 3.767 g
+Polyunsaturated fat: 0.814 g
+Cholesterol: 74 mg
+
+Minerals:
+Sodium: 446 mg
+Potassium: 118 mg
+Calcium: 211 mg
+Iron: 2.9 mg
+Magnesium: 17 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 179 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.1 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.2 µg
+Folate: 54 µg

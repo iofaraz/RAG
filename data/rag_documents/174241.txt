@@ -1,0 +1,29 @@
+Food: Fish, scup, cooked, dry heat
+Food ID: 174241
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 135 kcal
+Protein: 24.21 g
+Carbohydrates: 0 g
+Fat: 3.5 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 368 mg
+Calcium: 51 mg
+Iron: 0.68 mg
+Magnesium: 29 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.346 mg
+Vitamin B12: 1.62 µg
+Folate: 17 µg

@@ -1,0 +1,22 @@
+Food: Beverages, V8 SPLASH Juice Drinks, Strawberry Banana
+Food ID: 174168
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 0 g
+Carbohydrates: 7.41 g
+Fat: 0 g
+Sugar: 7.41 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 21 mg
+Potassium: 8 mg
+
+Vitamins:
+Vitamin C: 24.7 mg
+Vitamin E: 1.11 mg

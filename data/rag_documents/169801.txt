@@ -1,0 +1,14 @@
+Food: Caribou, eye, raw (Alaska Native)
+Food ID: 169801
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 326 kcal
+Protein: 10.8 g
+Carbohydrates: 0 g
+Fat: 31.4 g
+
+Minerals:
+Calcium: 19 mg
+Iron: 4.7 mg

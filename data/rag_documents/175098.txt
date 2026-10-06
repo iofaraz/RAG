@@ -1,0 +1,36 @@
+Food: Alcoholic beverage, liqueur, coffee with cream, 34 proof
+Food ID: 175098
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 327 kcal
+Protein: 2.8 g
+Carbohydrates: 20.9 g
+Fat: 15.7 g
+Fiber: 0 g
+Sugar: 19.76 g
+
+Fats:
+Saturated fat: 9.664 g
+Monounsaturated fat: 4.458 g
+Polyunsaturated fat: 0.669 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 32 mg
+Calcium: 16 mg
+Iron: 0.13 mg
+Magnesium: 2 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 173 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.45 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0.08 µg
+Folate: 2 µg

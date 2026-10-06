@@ -1,0 +1,37 @@
+Food: Pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted
+Food ID: 168357
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 191 kcal
+Protein: 24.39 g
+Carbohydrates: 0.64 g
+Fat: 9.35 g
+Fiber: 0 g
+Sugar: 0.64 g
+
+Fats:
+Saturated fat: 3.018 g
+Monounsaturated fat: 4.082 g
+Polyunsaturated fat: 1.288 g
+Trans fat: 0.066 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 810 mg
+Potassium: 356 mg
+Calcium: 7 mg
+Iron: 1.42 mg
+Magnesium: 22 mg
+Zinc: 2.59 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.33 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.44 mg
+Vitamin B12: 0.58 µg
+Folate: 1 µg

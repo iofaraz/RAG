@@ -1,0 +1,22 @@
+Food: Cranberry juice, not fortified, from concentrate, shelf stable
+Food ID: 2003594
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0 g
+Carbohydrates: 7.26375 g
+Fat: 0.3375 g
+
+Minerals:
+Sodium: 6.341 mg
+Potassium: 70.58 mg
+Calcium: 6.641 mg
+Iron: 0.1257 mg
+Magnesium: 4.381 mg
+Zinc: 0.0412 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.00925 mg
+Folate: 8.968 µg

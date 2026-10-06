@@ -1,0 +1,36 @@
+Food: Toddler formula, store brand, beginning or next stage
+Food ID: 2705547
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 1.72 g
+Carbohydrates: 6.43 g
+Fat: 3.32 g
+Fiber: 0 g
+Sugar: 6.42 g
+
+Fats:
+Saturated fat: 1.361 g
+Monounsaturated fat: 1.164 g
+Polyunsaturated fat: 0.624 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 86 mg
+Calcium: 121 mg
+Iron: 1.06 mg
+Magnesium: 5 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 7.4 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.88 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.18 µg
+Folate: 10 µg

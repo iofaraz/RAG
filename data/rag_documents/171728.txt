@@ -1,0 +1,28 @@
+Food: Beef, Australian, imported, grass-fed,  external fat, raw
+Food ID: 171728
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 509 kcal
+Protein: 11.32 g
+Carbohydrates: 0.39 g
+Fat: 51.36 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 22.65 g
+Monounsaturated fat: 21.426 g
+Polyunsaturated fat: 1.419 g
+Trans fat: 2.763 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 36 mg
+Calcium: 6 mg
+Iron: 0.95 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg

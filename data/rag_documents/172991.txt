@@ -1,0 +1,37 @@
+Food: Cereals, QUAKER, Instant Oatmeal, Raisin and Spice, dry
+Food ID: 172991
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 360 kcal
+Protein: 9.11 g
+Carbohydrates: 75.68 g
+Fat: 4 g
+Fiber: 5.8 g
+Sugar: 35.65 g
+
+Fats:
+Saturated fat: 0.605 g
+Monounsaturated fat: 1.191 g
+Polyunsaturated fat: 1.254 g
+Trans fat: 0.04 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 440 mg
+Potassium: 360 mg
+Calcium: 235 mg
+Iron: 9.1 mg
+Magnesium: 82 mg
+Zinc: 1.98 mg
+
+Vitamins:
+Vitamin A: 494 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 1.11 mg
+Vitamin B12: 0 µg
+Folate: 213 µg

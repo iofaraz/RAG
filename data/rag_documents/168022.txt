@@ -1,0 +1,13 @@
+Food: Rhubarb, wild, leaves (Alaska Native)
+Food ID: 168022
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 4.2 g
+Carbohydrates: 9.9 g
+Fat: 0.5 g
+
+Vitamins:
+Vitamin C: 33 mg

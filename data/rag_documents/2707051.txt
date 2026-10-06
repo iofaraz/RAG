@@ -1,0 +1,36 @@
+Food: Italian sandwich on wheat
+Food ID: 2707051
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 308 kcal
+Protein: 16.42 g
+Carbohydrates: 17.53 g
+Fat: 18.92 g
+Fiber: 2 g
+Sugar: 2.29 g
+
+Fats:
+Saturated fat: 7.475 g
+Monounsaturated fat: 7.323 g
+Polyunsaturated fat: 2.383 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 1006 mg
+Potassium: 268 mg
+Calcium: 181 mg
+Iron: 1.76 mg
+Magnesium: 34 mg
+Zinc: 2.01 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.55 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.272 mg
+Vitamin B12: 0.67 µg
+Folate: 29 µg

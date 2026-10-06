@@ -1,0 +1,37 @@
+Food: Fast Food, Pizza Chain, 14" pizza, pepperoni topping, thick crust
+Food ID: 173296
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 11.49 g
+Carbohydrates: 31.84 g
+Fat: 12.58 g
+Fiber: 2.2 g
+Sugar: 2.93 g
+
+Fats:
+Saturated fat: 4.839 g
+Monounsaturated fat: 3.731 g
+Polyunsaturated fat: 2.98 g
+Trans fat: 0.297 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 684 mg
+Potassium: 189 mg
+Calcium: 148 mg
+Iron: 2.55 mg
+Magnesium: 23 mg
+Zinc: 1.35 mg
+
+Vitamins:
+Vitamin A: 71 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 11.5 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.51 µg
+Folate: 103 µg

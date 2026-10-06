@@ -1,0 +1,37 @@
+Food: Beverages, chocolate malt, powder, prepared with fat free milk
+Food ID: 173184
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 3.25 g
+Carbohydrates: 8.64 g
+Fat: 0.17 g
+Fiber: 0 g
+Sugar: 7.77 g
+
+Fats:
+Saturated fat: 0.112 g
+Monounsaturated fat: 0.045 g
+Polyunsaturated fat: 0.007 g
+Trans fat: 0 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 158 mg
+Calcium: 234 mg
+Iron: 0.74 mg
+Magnesium: 20 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 137 µg
+Vitamin C: 3.3 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.54 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.36 µg
+Folate: 5 µg

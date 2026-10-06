@@ -1,0 +1,36 @@
+Food: Infant formula, amino acids
+Food ID: 2705583
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1.8 g
+Carbohydrates: 7.21 g
+Fat: 3.36 g
+Fiber: 0 g
+Sugar: 6.6 g
+
+Fats:
+Saturated fat: 1.333 g
+Monounsaturated fat: 1.139 g
+Polyunsaturated fat: 0.712 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 71 mg
+Calcium: 61 mg
+Iron: 1.16 mg
+Magnesium: 7 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 7.8 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.58 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.19 µg
+Folate: 10 µg

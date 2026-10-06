@@ -1,0 +1,36 @@
+Food: Breakfast meat as ingredient in omelet
+Food ID: 2710781
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 20.81 g
+Carbohydrates: 1.61 g
+Fat: 17.87 g
+Fiber: 0 g
+Sugar: 0.9 g
+
+Fats:
+Saturated fat: 5.813 g
+Monounsaturated fat: 7.539 g
+Polyunsaturated fat: 3.257 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 1102 mg
+Potassium: 367 mg
+Calcium: 15 mg
+Iron: 1.14 mg
+Magnesium: 21 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.55 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.362 mg
+Vitamin B12: 0.79 µg
+Folate: 2 µg

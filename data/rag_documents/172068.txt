@@ -1,0 +1,33 @@
+Food: McDONALD'S, Sausage McMUFFIN with Egg
+Food ID: 172068
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 12.59 g
+Carbohydrates: 17.28 g
+Fat: 17.83 g
+Fiber: 0.9 g
+Sugar: 1.57 g
+
+Fats:
+Saturated fat: 6.008 g
+Monounsaturated fat: 6.581 g
+Polyunsaturated fat: 2.768 g
+Trans fat: 0.339 g
+Cholesterol: 154 mg
+
+Minerals:
+Sodium: 572 mg
+Potassium: 171 mg
+Calcium: 172 mg
+Iron: 1.97 mg
+Magnesium: 18 mg
+Zinc: 1.22 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.5 mg
+Vitamin B6: 0.149 mg
+Vitamin B12: 0.7 µg

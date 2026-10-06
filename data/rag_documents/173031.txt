@@ -1,0 +1,33 @@
+Food: Gooseberries, canned, light syrup pack, solids and liquids
+Food ID: 173031
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 73 kcal
+Protein: 0.65 g
+Carbohydrates: 18.75 g
+Fat: 0.2 g
+Fiber: 2.4 g
+
+Fats:
+Saturated fat: 0.013 g
+Monounsaturated fat: 0.018 g
+Polyunsaturated fat: 0.11 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 77 mg
+Calcium: 16 mg
+Iron: 0.33 mg
+Magnesium: 6 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 10 mg
+Vitamin B6: 0.012 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

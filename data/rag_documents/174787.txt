@@ -1,0 +1,37 @@
+Food: Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE
+Food ID: 174787
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 403 kcal
+Protein: 20.75 g
+Carbohydrates: 52.49 g
+Fat: 12.19 g
+Fiber: 4.3 g
+Sugar: 16.9 g
+
+Fats:
+Saturated fat: 5.523 g
+Monounsaturated fat: 2.933 g
+Polyunsaturated fat: 2.714 g
+Trans fat: 0.012 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 386 mg
+Potassium: 412 mg
+Calcium: 886 mg
+Iron: 14.2 mg
+Magnesium: 329 mg
+Zinc: 9.72 mg
+
+Vitamins:
+Vitamin A: 374 µg
+Vitamin C: 68 mg
+Vitamin D: 3.1 µg
+Vitamin E: 8.4 mg
+Vitamin K: 40.8 µg
+Vitamin B6: 2.4 mg
+Vitamin B12: 6.4 µg
+Folate: 1057 µg

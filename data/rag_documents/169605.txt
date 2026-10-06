@@ -1,0 +1,33 @@
+Food: Puddings, rice, dry mix, prepared with whole milk
+Food ID: 169605
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 3.25 g
+Carbohydrates: 20.68 g
+Fat: 2.82 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 1.682 g
+Monounsaturated fat: 0.767 g
+Polyunsaturated fat: 0.104 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 108 mg
+Potassium: 128 mg
+Calcium: 103 mg
+Iron: 0.37 mg
+Magnesium: 13 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.8 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.24 µg
+Folate: 4 µg

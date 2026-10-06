@@ -1,0 +1,30 @@
+Food: Guavas, strawberry, raw
+Food ID: 173045
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 0.58 g
+Carbohydrates: 17.36 g
+Fat: 0.6 g
+Fiber: 5.4 g
+
+Fats:
+Saturated fat: 0.172 g
+Monounsaturated fat: 0.055 g
+Polyunsaturated fat: 0.253 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 37 mg
+Potassium: 292 mg
+Calcium: 21 mg
+Iron: 0.22 mg
+Magnesium: 17 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 37 mg
+Vitamin B12: 0 µg

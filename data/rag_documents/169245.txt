@@ -1,0 +1,37 @@
+Food: Lambsquarters, cooked, boiled, drained, without salt
+Food ID: 169245
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 3.2 g
+Carbohydrates: 5 g
+Fat: 0.7 g
+Fiber: 2.1 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 0.052 g
+Monounsaturated fat: 0.131 g
+Polyunsaturated fat: 0.307 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 29 mg
+Potassium: 288 mg
+Calcium: 258 mg
+Iron: 0.7 mg
+Magnesium: 23 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 391 µg
+Vitamin C: 37 mg
+Vitamin D: 0 µg
+Vitamin E: 1.85 mg
+Vitamin K: 494.2 µg
+Vitamin B6: 0.174 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

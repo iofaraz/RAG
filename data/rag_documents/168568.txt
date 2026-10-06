@@ -1,0 +1,36 @@
+Food: Carrots, baby, raw
+Food ID: 168568
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 0.64 g
+Carbohydrates: 8.24 g
+Fat: 0.13 g
+Fiber: 2.9 g
+Sugar: 4.76 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.065 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 237 mg
+Calcium: 32 mg
+Iron: 0.89 mg
+Magnesium: 10 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 690 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0 µg
+Vitamin K: 9.4 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

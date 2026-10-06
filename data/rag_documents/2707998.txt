@@ -1,0 +1,36 @@
+Food: Pie, blueberry
+Food ID: 2707998
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 300 kcal
+Protein: 2.82 g
+Carbohydrates: 37.95 g
+Fat: 15.52 g
+Fiber: 2.5 g
+Sugar: 15.49 g
+
+Fats:
+Saturated fat: 5.36 g
+Monounsaturated fat: 6.457 g
+Polyunsaturated fat: 2.147 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 217 mg
+Potassium: 71 mg
+Calcium: 13 mg
+Iron: 1.21 mg
+Magnesium: 9 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.79 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

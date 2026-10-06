@@ -1,0 +1,36 @@
+Food: Babyfood, vegetables, peas, strained
+Food ID: 170939
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 3.27 g
+Carbohydrates: 8.36 g
+Fat: 0.43 g
+Fiber: 2 g
+Sugar: 2.01 g
+
+Fats:
+Saturated fat: 0.07 g
+Monounsaturated fat: 0.05 g
+Polyunsaturated fat: 0.2 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 106 mg
+Calcium: 18 mg
+Iron: 0.95 mg
+Magnesium: 17 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 15.5 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

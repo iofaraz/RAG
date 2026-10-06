@@ -1,0 +1,36 @@
+Food: Salad dressing, caesar, fat-free
+Food ID: 171045
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 1.47 g
+Carbohydrates: 30.73 g
+Fat: 0.23 g
+Fiber: 0.2 g
+Sugar: 8.82 g
+
+Fats:
+Saturated fat: 0.096 g
+Monounsaturated fat: 0.045 g
+Polyunsaturated fat: 0.01 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 1265 mg
+Potassium: 48 mg
+Calcium: 33 mg
+Iron: 0.29 mg
+Magnesium: 4 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.04 µg
+Folate: 2 µg

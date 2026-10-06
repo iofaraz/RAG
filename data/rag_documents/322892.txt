@@ -1,0 +1,33 @@
+Food: Milk, whole, 3.25% milkfat, with added vitamin D
+Food ID: 322892
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 3.28 g
+Carbohydrates: 4.67 g
+Fat: 3.2 g
+
+Fats:
+Saturated fat: 1.86 g
+Monounsaturated fat: 0.688 g
+Polyunsaturated fat: 0.108 g
+Trans fat: 0.112 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 150 mg
+Calcium: 123 mg
+Iron: 0 mg
+Magnesium: 11.9 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin D: 1 µg
+Vitamin E: 0.05 mg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.54 µg
+Folate: 0 µg

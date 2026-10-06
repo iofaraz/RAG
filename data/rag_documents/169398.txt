@@ -1,0 +1,31 @@
+Food: Epazote, raw
+Food ID: 169398
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 0.33 g
+Carbohydrates: 7.44 g
+Fat: 0.52 g
+Fiber: 3.8 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 633 mg
+Calcium: 275 mg
+Iron: 1.88 mg
+Magnesium: 121 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.152 mg
+Vitamin B12: 0 µg
+Folate: 215 µg

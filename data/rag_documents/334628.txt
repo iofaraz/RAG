@@ -1,0 +1,33 @@
+Food: Restaurant, Latino, tamale, pork
+Food ID: 334628
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 7.38 g
+Carbohydrates: 15.8 g
+Fat: 9.04 g
+Fiber: 2.4 g
+
+Fats:
+Saturated fat: 2.69 g
+Monounsaturated fat: 3.2 g
+Polyunsaturated fat: 2.03 g
+Trans fat: 0.058 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 473 mg
+Potassium: 152 mg
+Calcium: 75 mg
+Iron: 0.87 mg
+Magnesium: 26.2 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin E: 0.53 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.132 mg
+Vitamin B12: 0.12 µg

@@ -1,0 +1,36 @@
+Food: Cereal, corn flakes, plain
+Food ID: 2708453
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 365 kcal
+Protein: 6.4 g
+Carbohydrates: 79.52 g
+Fat: 1.6 g
+Fiber: 3.5 g
+Sugar: 9.44 g
+
+Fats:
+Saturated fat: 0.198 g
+Monounsaturated fat: 0.351 g
+Polyunsaturated fat: 0.746 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 703 mg
+Potassium: 128 mg
+Calcium: 4 mg
+Iron: 28.01 mg
+Magnesium: 29 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 5 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.44 mg
+Vitamin B12: 1.8 µg
+Folate: 327 µg

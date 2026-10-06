@@ -1,0 +1,36 @@
+Food: Pomegranate juice beverage, 40-50% juice, light
+Food ID: 2710593
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.08 g
+Carbohydrates: 6.56 g
+Fat: 0.14 g
+Fiber: 0 g
+Sugar: 6.32 g
+
+Fats:
+Saturated fat: 0.038 g
+Monounsaturated fat: 0.029 g
+Polyunsaturated fat: 0.025 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 108 mg
+Calcium: 7 mg
+Iron: 0.05 mg
+Magnesium: 4 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

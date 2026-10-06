@@ -1,0 +1,37 @@
+Food: Broccoli, frozen, spears, unprepared (Includes foods for USDA's Food Distribution Program)
+Food ID: 169970
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 3.06 g
+Carbohydrates: 5.35 g
+Fat: 0.34 g
+Fiber: 3 g
+Sugar: 1.47 g
+
+Fats:
+Saturated fat: 0.052 g
+Monounsaturated fat: 0.024 g
+Polyunsaturated fat: 0.162 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 250 mg
+Calcium: 41 mg
+Iron: 0.72 mg
+Magnesium: 16 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 68.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.35 mg
+Vitamin K: 101.4 µg
+Vitamin B6: 0.175 mg
+Vitamin B12: 0 µg
+Folate: 94 µg

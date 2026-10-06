@@ -1,0 +1,36 @@
+Food: Green beans, canned, cooked, fat added, NS as to fat type
+Food ID: 2709858
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 1.02 g
+Carbohydrates: 4 g
+Fat: 2.93 g
+Fiber: 1.8 g
+Sugar: 1.26 g
+
+Fats:
+Saturated fat: 0.758 g
+Monounsaturated fat: 0.923 g
+Polyunsaturated fat: 0.937 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 282 mg
+Potassium: 95 mg
+Calcium: 35 mg
+Iron: 0.76 mg
+Magnesium: 13 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 39.9 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

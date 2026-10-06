@@ -1,0 +1,37 @@
+Food: Pork, fresh, enhanced, loin, tenderloin, separable lean only, raw
+Food ID: 168361
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 20.39 g
+Carbohydrates: 0 g
+Fat: 2.09 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.671 g
+Monounsaturated fat: 0.762 g
+Polyunsaturated fat: 0.352 g
+Trans fat: 0.02 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 243 mg
+Potassium: 527 mg
+Calcium: 4 mg
+Iron: 0.92 mg
+Magnesium: 23 mg
+Zinc: 1.73 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.21 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.756 mg
+Vitamin B12: 0.5 µg
+Folate: 0 µg

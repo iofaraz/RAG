@@ -1,0 +1,36 @@
+Food: Soup, vegetarian vegetable, canned, condensed
+Food ID: 171161
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 1.72 g
+Carbohydrates: 9.78 g
+Fat: 1.58 g
+Fiber: 0.5 g
+Sugar: 3.13 g
+
+Fats:
+Saturated fat: 0.24 g
+Monounsaturated fat: 0.68 g
+Polyunsaturated fat: 0.59 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 516 mg
+Potassium: 171 mg
+Calcium: 17 mg
+Iron: 0.88 mg
+Magnesium: 6 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 142 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.17 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

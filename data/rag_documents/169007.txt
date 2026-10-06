@@ -1,0 +1,34 @@
+Food: Tamales, masa and pork filling (Hopi)
+Food ID: 169007
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 168 kcal
+Protein: 13.19 g
+Carbohydrates: 18.28 g
+Fat: 4.7 g
+Fiber: 3.3 g
+Sugar: 1.57 g
+
+Fats:
+Saturated fat: 1.383 g
+Monounsaturated fat: 1.649 g
+Polyunsaturated fat: 1.009 g
+Trans fat: 0.012 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 298 mg
+Potassium: 250 mg
+Calcium: 18 mg
+Iron: 0.66 mg
+Magnesium: 35 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin E: 1.11 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.262 mg
+Vitamin B12: 0.22 µg

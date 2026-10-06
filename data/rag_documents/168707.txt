@@ -1,0 +1,37 @@
+Food: Beef, shoulder top blade steak, boneless, separable lean and fat, trimmed to 0" fat, choice, raw
+Food ID: 168707
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 152 kcal
+Protein: 20.07 g
+Carbohydrates: 0 g
+Fat: 7.94 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.462 g
+Monounsaturated fat: 4.207 g
+Polyunsaturated fat: 0.43 g
+Trans fat: 0.347 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 336 mg
+Calcium: 12 mg
+Iron: 2.5 mg
+Magnesium: 19 mg
+Zinc: 7.53 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.414 mg
+Vitamin B12: 4.29 µg
+Folate: 3 µg

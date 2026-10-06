@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, tongue, raw
+Food ID: 174366
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 222 kcal
+Protein: 15.7 g
+Carbohydrates: 0 g
+Fat: 17.17 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 6.63 g
+Monounsaturated fat: 8.46 g
+Polyunsaturated fat: 1.06 g
+Cholesterol: 156 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 257 mg
+Calcium: 9 mg
+Iron: 2.65 mg
+Magnesium: 21 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 6 mg
+Vitamin B6: 0.18 mg
+Vitamin B12: 7.2 µg
+Folate: 4 µg

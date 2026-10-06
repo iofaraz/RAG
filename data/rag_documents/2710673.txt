@@ -1,0 +1,36 @@
+Food: White Russian
+Food ID: 2710673
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 181 kcal
+Protein: 2.15 g
+Carbohydrates: 11.17 g
+Fat: 7.9 g
+Fiber: 0 g
+Sugar: 9.56 g
+
+Fats:
+Saturated fat: 4.818 g
+Monounsaturated fat: 2.27 g
+Polyunsaturated fat: 0.397 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 96 mg
+Calcium: 73 mg
+Iron: 0.05 mg
+Magnesium: 7 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.13 µg
+Folate: 2 µg

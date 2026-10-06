@@ -1,0 +1,36 @@
+Food: Soup, stock, chicken, home-prepared
+Food ID: 172884
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 2.52 g
+Carbohydrates: 3.53 g
+Fat: 1.2 g
+Fiber: 0 g
+Sugar: 1.58 g
+
+Fats:
+Saturated fat: 0.321 g
+Monounsaturated fat: 0.582 g
+Polyunsaturated fat: 0.213 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 143 mg
+Potassium: 105 mg
+Calcium: 3 mg
+Iron: 0.21 mg
+Magnesium: 4 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

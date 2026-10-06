@@ -1,0 +1,36 @@
+Food: Beef, steak, cube
+Food ID: 2705826
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 28.83 g
+Carbohydrates: 0 g
+Fat: 7.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.118 g
+Monounsaturated fat: 3.24 g
+Polyunsaturated fat: 1.462 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 379 mg
+Potassium: 417 mg
+Calcium: 18 mg
+Iron: 3.12 mg
+Magnesium: 16 mg
+Zinc: 4.93 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.845 mg
+Vitamin B12: 2.19 µg
+Folate: 5 µg

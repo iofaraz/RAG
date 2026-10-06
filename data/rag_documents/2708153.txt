@@ -1,0 +1,36 @@
+Food: Crackers, cheese, reduced fat
+Food ID: 2708153
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 418 kcal
+Protein: 10 g
+Carbohydrates: 68.19 g
+Fat: 11.67 g
+Fiber: 3.3 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.333 g
+Monounsaturated fat: 2.121 g
+Polyunsaturated fat: 5.273 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1167 mg
+Potassium: 141 mg
+Calcium: 67 mg
+Iron: 4.8 mg
+Magnesium: 22 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.88 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.03 µg
+Folate: 228 µg

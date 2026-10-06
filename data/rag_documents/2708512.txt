@@ -1,0 +1,36 @@
+Food: Taco or tostada salad with chicken and sour cream
+Food ID: 2708512
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 171 kcal
+Protein: 7.24 g
+Carbohydrates: 14.96 g
+Fat: 9.26 g
+Fiber: 2.5 g
+Sugar: 1.98 g
+
+Fats:
+Saturated fat: 3.324 g
+Monounsaturated fat: 3.173 g
+Polyunsaturated fat: 1.656 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 282 mg
+Potassium: 212 mg
+Calcium: 85 mg
+Iron: 1.4 mg
+Magnesium: 19 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 10.3 µg
+Vitamin B6: 0.096 mg
+Vitamin B12: 0.09 µg
+Folate: 36 µg

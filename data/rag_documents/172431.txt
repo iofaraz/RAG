@@ -1,0 +1,33 @@
+Food: Peanuts, spanish, oil-roasted, with salt
+Food ID: 172431
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 579 kcal
+Protein: 28.01 g
+Carbohydrates: 17.45 g
+Fat: 49.04 g
+Fiber: 8.9 g
+
+Fats:
+Saturated fat: 7.555 g
+Monounsaturated fat: 22.073 g
+Polyunsaturated fat: 17.008 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 433 mg
+Potassium: 776 mg
+Calcium: 100 mg
+Iron: 2.28 mg
+Magnesium: 168 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.256 mg
+Vitamin B12: 0 µg
+Folate: 126 µg

@@ -1,0 +1,37 @@
+Food: Peanut Butter, smooth (Includes foods for USDA's Food Distribution Program)
+Food ID: 174294
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 588 kcal
+Protein: 21.93 g
+Carbohydrates: 23.98 g
+Fat: 49.54 g
+Fiber: 5.7 g
+Sugar: 6.5 g
+
+Fats:
+Saturated fat: 9.519 g
+Monounsaturated fat: 20.726 g
+Polyunsaturated fat: 11.331 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 476 mg
+Potassium: 592 mg
+Calcium: 54 mg
+Iron: 2.16 mg
+Magnesium: 179 mg
+Zinc: 2.67 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5.94 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.551 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

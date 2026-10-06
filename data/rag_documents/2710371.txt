@@ -1,0 +1,36 @@
+Food: Chewing gum
+Food ID: 2710371
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 360 kcal
+Protein: 0 g
+Carbohydrates: 96.7 g
+Fat: 0.3 g
+Fiber: 2.4 g
+Sugar: 66.08 g
+
+Fats:
+Saturated fat: 0.042 g
+Monounsaturated fat: 0.079 g
+Polyunsaturated fat: 0.137 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 2 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Cabbage, cooked, as ingredient
+Food ID: 2710800
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 1 g
+Carbohydrates: 6.65 g
+Fat: 0.24 g
+Fiber: 2.6 g
+Sugar: 3.33 g
+
+Fats:
+Saturated fat: 0.035 g
+Monounsaturated fat: 0.018 g
+Polyunsaturated fat: 0.018 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 216 mg
+Calcium: 44 mg
+Iron: 0.07 mg
+Magnesium: 15 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 35.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 61.9 µg
+Vitamin B6: 0.129 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

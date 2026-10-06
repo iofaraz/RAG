@@ -1,0 +1,34 @@
+Food: ON THE BORDER, cheese enchilada
+Food ID: 169854
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 11.67 g
+Carbohydrates: 16.2 g
+Fat: 17.74 g
+Fiber: 1.8 g
+Sugar: 2.89 g
+
+Fats:
+Saturated fat: 7.52 g
+Monounsaturated fat: 4.088 g
+Polyunsaturated fat: 2.107 g
+Trans fat: 0.421 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 561 mg
+Potassium: 176 mg
+Calcium: 293 mg
+Iron: 0.71 mg
+Magnesium: 30 mg
+Zinc: 1.88 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin E: 0.89 mg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0.72 µg
+Folate: 14 µg

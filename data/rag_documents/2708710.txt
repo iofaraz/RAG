@@ -1,0 +1,36 @@
+Food: Empanada, no meat
+Food ID: 2708710
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 5.75 g
+Carbohydrates: 31.5 g
+Fat: 13.16 g
+Fiber: 3.4 g
+Sugar: 2.56 g
+
+Fats:
+Saturated fat: 4.589 g
+Monounsaturated fat: 5.835 g
+Polyunsaturated fat: 1.583 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 399 mg
+Potassium: 197 mg
+Calcium: 46 mg
+Iron: 1.63 mg
+Magnesium: 27 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.05 µg
+Folate: 61 µg

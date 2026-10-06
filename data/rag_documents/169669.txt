@@ -1,0 +1,36 @@
+Food: Candies, fudge, chocolate marshmallow, prepared-from-recipe
+Food ID: 169669
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 453 kcal
+Protein: 2.26 g
+Carbohydrates: 71.34 g
+Fat: 17.48 g
+Fiber: 1.7 g
+Sugar: 64.06 g
+
+Fats:
+Saturated fat: 10.669 g
+Monounsaturated fat: 5.205 g
+Polyunsaturated fat: 0.611 g
+Trans fat: 0.32 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 85 mg
+Potassium: 147 mg
+Calcium: 45 mg
+Iron: 0.96 mg
+Magnesium: 36 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 0.2 mg
+Vitamin E: 0.32 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0.03 µg
+Folate: 5 µg

@@ -1,0 +1,14 @@
+Food: Fish, blackfish, whole (Alaska Native)
+Food ID: 169798
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 15.5 g
+Carbohydrates: 0 g
+Fat: 1.75 g
+
+Minerals:
+Calcium: 236 mg
+Iron: 4.6 mg

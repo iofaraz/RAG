@@ -1,0 +1,36 @@
+Food: Pie, mince, prepared from recipe
+Food ID: 175019
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 289 kcal
+Protein: 2.6 g
+Carbohydrates: 48 g
+Fat: 10.8 g
+Fiber: 2.6 g
+Sugar: 28.31 g
+
+Fats:
+Saturated fat: 2.682 g
+Monounsaturated fat: 4.654 g
+Polyunsaturated fat: 2.842 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 254 mg
+Potassium: 203 mg
+Calcium: 22 mg
+Iron: 1.49 mg
+Magnesium: 14 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 5.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

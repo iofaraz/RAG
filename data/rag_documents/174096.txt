@@ -1,0 +1,37 @@
+Food: Cookies, chocolate, made with rice cereal
+Food ID: 174096
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 440 kcal
+Protein: 3.23 g
+Carbohydrates: 63.26 g
+Fat: 19.35 g
+Fiber: 1.6 g
+Sugar: 40.32 g
+
+Fats:
+Saturated fat: 11.29 g
+Monounsaturated fat: 3.966 g
+Polyunsaturated fat: 3.013 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 210 mg
+Potassium: 227 mg
+Calcium: 32 mg
+Iron: 2.49 mg
+Magnesium: 38 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.96 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.328 mg
+Vitamin B12: 0.07 µg
+Folate: 24 µg

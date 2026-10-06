@@ -1,0 +1,24 @@
+Food: Lambsquarters, steamed (Northern Plains Indians)
+Food ID: 169815
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 4.06 g
+Carbohydrates: 7.47 g
+Fat: 0.16 g
+Fiber: 5.2 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 1070 mg
+Calcium: 349 mg
+Iron: 1.15 mg
+Magnesium: 164 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 194 µg
+Vitamin C: 4.9 mg
+Vitamin B6: 0.232 mg

@@ -1,0 +1,36 @@
+Food: Egg white, omelet, scrambled, or fried, with cheese and vegetables
+Food ID: 2707294
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 10.36 g
+Carbohydrates: 2.77 g
+Fat: 7.64 g
+Fiber: 0.2 g
+Sugar: 0.96 g
+
+Fats:
+Saturated fat: 2.962 g
+Monounsaturated fat: 2.286 g
+Polyunsaturated fat: 1.413 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 341 mg
+Potassium: 185 mg
+Calcium: 111 mg
+Iron: 0.22 mg
+Magnesium: 20 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.93 mg
+Vitamin K: 49.2 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.21 µg
+Folate: 13 µg

@@ -1,0 +1,31 @@
+Food: Candies, YORK BITES
+Food ID: 168776
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 394 kcal
+Protein: 1.78 g
+Carbohydrates: 81.64 g
+Fat: 7.32 g
+Fiber: 2 g
+Sugar: 75 g
+
+Fats:
+Saturated fat: 4.43 g
+Monounsaturated fat: 0.48 g
+Polyunsaturated fat: 0.1 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 46 mg
+Potassium: 108 mg
+Calcium: 10 mg
+Iron: 0.94 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0 mg
+Folate: 0 µg

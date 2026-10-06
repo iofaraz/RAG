@@ -1,0 +1,36 @@
+Food: Bibimbap, Korean
+Food ID: 2708950
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 5.5 g
+Carbohydrates: 8.11 g
+Fat: 2.44 g
+Fiber: 1.1 g
+Sugar: 1.52 g
+
+Fats:
+Saturated fat: 0.49 g
+Monounsaturated fat: 0.898 g
+Polyunsaturated fat: 0.781 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 435 mg
+Potassium: 244 mg
+Calcium: 25 mg
+Iron: 0.93 mg
+Magnesium: 28 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin C: 10.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 95.4 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0.26 µg
+Folate: 37 µg

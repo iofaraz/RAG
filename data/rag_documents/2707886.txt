@@ -1,0 +1,36 @@
+Food: Cake, sponge
+Food ID: 2707886
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 5.4 g
+Carbohydrates: 61 g
+Fat: 2.7 g
+Fiber: 0.5 g
+Sugar: 36.66 g
+
+Fats:
+Saturated fat: 0.802 g
+Monounsaturated fat: 0.949 g
+Polyunsaturated fat: 0.448 g
+Cholesterol: 102 mg
+
+Minerals:
+Sodium: 623 mg
+Potassium: 99 mg
+Calcium: 70 mg
+Iron: 2.72 mg
+Magnesium: 11 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.24 µg
+Folate: 47 µg

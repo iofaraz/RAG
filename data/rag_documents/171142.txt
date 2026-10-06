@@ -1,0 +1,36 @@
+Food: Soup, bean with pork, canned, condensed
+Food ID: 171142
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 5.88 g
+Carbohydrates: 16.97 g
+Fat: 4.42 g
+Fiber: 5.9 g
+Sugar: 3 g
+
+Fats:
+Saturated fat: 1.14 g
+Monounsaturated fat: 1.62 g
+Polyunsaturated fat: 1.36 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 672 mg
+Potassium: 375 mg
+Calcium: 60 mg
+Iron: 1.53 mg
+Magnesium: 33 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.03 µg
+Folate: 24 µg

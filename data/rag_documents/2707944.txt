@@ -1,0 +1,36 @@
+Food: Cookie, multigrain, high fiber
+Food ID: 2707944
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 464 kcal
+Protein: 9.8 g
+Carbohydrates: 66.7 g
+Fat: 17.6 g
+Fiber: 3.1 g
+Sugar: 27.52 g
+
+Fats:
+Saturated fat: 12.69 g
+Monounsaturated fat: 1.933 g
+Polyunsaturated fat: 1.634 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 251 mg
+Potassium: 326 mg
+Calcium: 60 mg
+Iron: 3.18 mg
+Magnesium: 101 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.82 mg
+Vitamin K: 15.9 µg
+Vitamin B6: 0.35 mg
+Vitamin B12: 0 µg
+Folate: 81 µg

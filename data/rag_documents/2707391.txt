@@ -1,0 +1,36 @@
+Food: Baked beans, vegetarian
+Food ID: 2707391
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 4.75 g
+Carbohydrates: 21.14 g
+Fat: 0.37 g
+Fiber: 4.1 g
+Sugar: 7.96 g
+
+Fats:
+Saturated fat: 0.071 g
+Monounsaturated fat: 0.095 g
+Polyunsaturated fat: 0.121 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 343 mg
+Potassium: 224 mg
+Calcium: 34 mg
+Iron: 1.19 mg
+Magnesium: 27 mg
+Zinc: 2.28 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

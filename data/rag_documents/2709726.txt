@@ -1,0 +1,36 @@
+Food: Tomato, green, pickled
+Food ID: 2709726
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 40 kcal
+Protein: 1 g
+Carbohydrates: 9.09 g
+Fat: 0.18 g
+Fiber: 0.9 g
+Sugar: 8.19 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.025 g
+Polyunsaturated fat: 0.067 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 955 mg
+Potassium: 169 mg
+Calcium: 12 mg
+Iron: 0.43 mg
+Magnesium: 8 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 18.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 8.4 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

@@ -1,0 +1,36 @@
+Food: Beans and rice, with tomatoes
+Food ID: 2708991
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 137 kcal
+Protein: 4.7 g
+Carbohydrates: 21.9 g
+Fat: 3.46 g
+Fiber: 3.8 g
+Sugar: 0.81 g
+
+Fats:
+Saturated fat: 0.498 g
+Monounsaturated fat: 1.379 g
+Polyunsaturated fat: 1.315 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 309 mg
+Potassium: 227 mg
+Calcium: 23 mg
+Iron: 1.46 mg
+Magnesium: 28 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.22 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 0 µg
+Folate: 85 µg

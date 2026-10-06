@@ -1,0 +1,13 @@
+Food: Alcoholic beverage, wine, table, white, Muscat
+Food ID: 174849
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 0.07 g
+Carbohydrates: 5.23 g
+Fat: 0 g
+
+Fats:
+Trans fat: 0 g

@@ -1,0 +1,37 @@
+Food: Sausage, smoked link sausage, pork
+Food ID: 174584
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 11.98 g
+Carbohydrates: 0.94 g
+Fat: 28.23 g
+Fiber: 0 g
+Sugar: 0.94 g
+
+Fats:
+Saturated fat: 9.313 g
+Monounsaturated fat: 11.212 g
+Polyunsaturated fat: 3.626 g
+Trans fat: 0.231 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 827 mg
+Potassium: 483 mg
+Calcium: 11 mg
+Iron: 0.59 mg
+Magnesium: 11 mg
+Zinc: 1.31 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.179 mg
+Vitamin B12: 0.66 µg
+Folate: 1 µg

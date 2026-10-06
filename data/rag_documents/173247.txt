@@ -1,0 +1,28 @@
+Food: Archway Home Style Cookies, Dutch Cocoa
+Food ID: 173247
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 431 kcal
+Protein: 4.5 g
+Carbohydrates: 69.44 g
+Fat: 14.99 g
+Fiber: 2.6 g
+Sugar: 35.35 g
+
+Fats:
+Saturated fat: 3.62 g
+Monounsaturated fat: 5.94 g
+Polyunsaturated fat: 1.18 g
+Trans fat: 4.24 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 384 mg
+Potassium: 239 mg
+Calcium: 13 mg
+Iron: 3.36 mg
+
+Vitamins:
+Folate: 63 µg

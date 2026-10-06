@@ -1,0 +1,36 @@
+Food: Doughnuts, cake-type, chocolate, sugared or glazed
+Food ID: 174993
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 417 kcal
+Protein: 4.5 g
+Carbohydrates: 57.4 g
+Fat: 19.9 g
+Fiber: 2.2 g
+Sugar: 31.92 g
+
+Fats:
+Saturated fat: 5.132 g
+Monounsaturated fat: 11.278 g
+Polyunsaturated fat: 2.477 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 215 mg
+Potassium: 106 mg
+Calcium: 213 mg
+Iron: 2.27 mg
+Magnesium: 34 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 9.8 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.1 µg
+Folate: 45 µg

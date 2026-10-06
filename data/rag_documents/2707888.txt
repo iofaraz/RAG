@@ -1,0 +1,36 @@
+Food: Cake, torte
+Food ID: 2707888
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 3.28 g
+Carbohydrates: 33.86 g
+Fat: 10.36 g
+Fiber: 0.9 g
+Sugar: 19.08 g
+
+Fats:
+Saturated fat: 2.991 g
+Monounsaturated fat: 3.748 g
+Polyunsaturated fat: 2.626 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 273 mg
+Potassium: 85 mg
+Calcium: 94 mg
+Iron: 1.01 mg
+Magnesium: 9 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 14.3 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.69 mg
+Vitamin K: 7.6 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.16 µg
+Folate: 25 µg

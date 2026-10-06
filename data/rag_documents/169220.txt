@@ -1,0 +1,35 @@
+Food: Cowpeas (blackeyes), immature seeds, raw
+Food ID: 169220
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 2.95 g
+Carbohydrates: 18.83 g
+Fat: 0.35 g
+Fiber: 5 g
+Sugar: 3 g
+
+Fats:
+Saturated fat: 0.09 g
+Monounsaturated fat: 0.032 g
+Polyunsaturated fat: 0.15 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 431 mg
+Calcium: 126 mg
+Iron: 1.1 mg
+Magnesium: 51 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 168 µg

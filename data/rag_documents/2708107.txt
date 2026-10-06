@@ -1,0 +1,36 @@
+Food: Cereal or granola bar, chocolate coated, NFS
+Food ID: 2708107
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 480 kcal
+Protein: 7.52 g
+Carbohydrates: 64.96 g
+Fat: 20.42 g
+Fiber: 3.2 g
+Sugar: 37.61 g
+
+Fats:
+Saturated fat: 8.693 g
+Monounsaturated fat: 3.499 g
+Polyunsaturated fat: 7.051 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 269 mg
+Potassium: 231 mg
+Calcium: 65 mg
+Iron: 1.16 mg
+Magnesium: 55 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 4.19 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.06 µg
+Folate: 12 µg

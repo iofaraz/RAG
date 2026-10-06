@@ -1,0 +1,37 @@
+Food: Meatballs, meatless
+Food ID: 169067
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 197 kcal
+Protein: 21 g
+Carbohydrates: 8 g
+Fat: 9 g
+Fiber: 4.6 g
+Sugar: 1.25 g
+
+Fats:
+Saturated fat: 1.425 g
+Monounsaturated fat: 2.188 g
+Polyunsaturated fat: 4.666 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 550 mg
+Potassium: 180 mg
+Calcium: 25 mg
+Iron: 2.16 mg
+Magnesium: 18 mg
+Zinc: 1.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.73 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.2 mg
+Vitamin B12: 1.5 µg
+Folate: 78 µg

@@ -1,0 +1,28 @@
+Food: Mushrooms, Chanterelle, raw
+Food ID: 168422
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 1.49 g
+Carbohydrates: 6.86 g
+Fat: 0.53 g
+Fiber: 3.8 g
+Sugar: 1.16 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 9 mg
+Potassium: 506 mg
+Calcium: 15 mg
+Iron: 3.47 mg
+Magnesium: 13 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin D: 5.3 µg
+Vitamin B6: 0.044 mg
+Folate: 2 µg

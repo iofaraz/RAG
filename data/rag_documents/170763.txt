@@ -1,0 +1,37 @@
+Food: Fast foods, taco with beef, cheese and lettuce, soft
+Food ID: 170763
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 9.25 g
+Carbohydrates: 20.23 g
+Fat: 9.75 g
+Fiber: 2.9 g
+Sugar: 1.57 g
+
+Fats:
+Saturated fat: 4.155 g
+Monounsaturated fat: 3.243 g
+Polyunsaturated fat: 1.578 g
+Trans fat: 0.403 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 560 mg
+Potassium: 161 mg
+Calcium: 123 mg
+Iron: 1.67 mg
+Magnesium: 19 mg
+Zinc: 1.37 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.25 mg
+Vitamin K: 7.4 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.84 µg
+Folate: 63 µg

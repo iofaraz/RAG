@@ -1,0 +1,36 @@
+Food: Turkey sandwich on wheat
+Food ID: 2706983
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 13.05 g
+Carbohydrates: 24.56 g
+Fat: 3.88 g
+Fiber: 2.8 g
+Sugar: 3.13 g
+
+Fats:
+Saturated fat: 0.81 g
+Monounsaturated fat: 0.89 g
+Polyunsaturated fat: 1.304 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 619 mg
+Potassium: 277 mg
+Calcium: 90 mg
+Iron: 1.83 mg
+Magnesium: 38 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.24 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.281 mg
+Vitamin B12: 0.18 µg
+Folate: 39 µg

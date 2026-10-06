@@ -1,0 +1,32 @@
+Food: Cake, yellow, light, dry mix
+Food ID: 173244
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 404 kcal
+Protein: 4.7 g
+Carbohydrates: 84.1 g
+Fat: 5.5 g
+Fiber: 1.3 g
+
+Fats:
+Saturated fat: 1.367 g
+Monounsaturated fat: 2.973 g
+Polyunsaturated fat: 0.796 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 604 mg
+Potassium: 65 mg
+Calcium: 155 mg
+Iron: 1.31 mg
+Magnesium: 10 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0.11 µg
+Folate: 76 µg

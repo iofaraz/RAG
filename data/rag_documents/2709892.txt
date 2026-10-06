@@ -1,0 +1,36 @@
+Food: Cabbage, green, cooked with butter or margarine
+Food ID: 2709892
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 0.99 g
+Carbohydrates: 6.44 g
+Fat: 2.51 g
+Fiber: 2.5 g
+Sugar: 3.24 g
+
+Fats:
+Saturated fat: 1.018 g
+Monounsaturated fat: 0.617 g
+Polyunsaturated fat: 0.377 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 151 mg
+Potassium: 209 mg
+Calcium: 43 mg
+Iron: 0.07 mg
+Magnesium: 14 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 34.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.37 mg
+Vitamin K: 61.2 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0 µg
+Folate: 37 µg

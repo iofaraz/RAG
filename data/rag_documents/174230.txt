@@ -1,0 +1,32 @@
+Food: Fish, burbot, cooked, dry heat
+Food ID: 174230
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 24.76 g
+Carbohydrates: 0 g
+Fat: 1.04 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.209 g
+Monounsaturated fat: 0.17 g
+Polyunsaturated fat: 0.381 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 124 mg
+Potassium: 518 mg
+Calcium: 64 mg
+Iron: 1.15 mg
+Magnesium: 41 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.346 mg
+Vitamin B12: 0.92 µg
+Folate: 1 µg

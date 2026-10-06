@@ -1,0 +1,32 @@
+Food: Fish, perch, mixed species, cooked, dry heat
+Food ID: 173679
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 24.86 g
+Carbohydrates: 0 g
+Fat: 1.18 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.237 g
+Monounsaturated fat: 0.195 g
+Polyunsaturated fat: 0.472 g
+Cholesterol: 115 mg
+
+Minerals:
+Sodium: 79 mg
+Potassium: 344 mg
+Calcium: 102 mg
+Iron: 1.16 mg
+Magnesium: 38 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 1.7 mg
+Vitamin B6: 0.14 mg
+Vitamin B12: 2.2 µg
+Folate: 6 µg

@@ -1,0 +1,26 @@
+Food: Candies, NESTLE, GOOBERS Chocolate Covered Peanuts
+Food ID: 167581
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 512 kcal
+Protein: 9.7 g
+Carbohydrates: 53 g
+Fat: 34 g
+Fiber: 9.7 g
+Sugar: 43 g
+
+Fats:
+Saturated fat: 12.1 g
+Trans fat: 0.07 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 502 mg
+Calcium: 89 mg
+Iron: 1.1 mg
+
+Vitamins:
+Vitamin C: 0.3 mg

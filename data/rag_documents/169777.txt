@@ -1,0 +1,33 @@
+Food: Spanish rice mix, dry mix, prepared (with canola/vegetable oil blend or diced tomatoes and margarine)
+Food ID: 169777
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 3.27 g
+Carbohydrates: 22.74 g
+Fat: 2.38 g
+Fiber: 1.5 g
+Sugar: 1.79 g
+
+Fats:
+Saturated fat: 0.387 g
+Monounsaturated fat: 0.834 g
+Polyunsaturated fat: 0.867 g
+Trans fat: 0.104 g
+
+Minerals:
+Sodium: 349 mg
+Potassium: 185 mg
+Calcium: 18 mg
+Iron: 1.02 mg
+Magnesium: 13 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin E: 0.67 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.096 mg
+Folate: 68 µg

@@ -1,0 +1,32 @@
+Food: Potatoes, scalloped, home-prepared with butter
+Food ID: 170038
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 2.87 g
+Carbohydrates: 10.78 g
+Fat: 3.68 g
+Fiber: 1.9 g
+
+Fats:
+Saturated fat: 2.255 g
+Monounsaturated fat: 1.039 g
+Polyunsaturated fat: 0.166 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 378 mg
+Calcium: 57 mg
+Iron: 0.57 mg
+Magnesium: 19 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin C: 10.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.178 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

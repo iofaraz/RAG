@@ -1,0 +1,36 @@
+Food: Almond milk, chocolate
+Food ID: 2705408
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 0.57 g
+Carbohydrates: 7.44 g
+Fat: 1.2 g
+Fiber: 0.1 g
+Sugar: 6.97 g
+
+Fats:
+Saturated fat: 0.121 g
+Monounsaturated fat: 0.69 g
+Polyunsaturated fat: 0.257 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 33 mg
+Calcium: 161 mg
+Iron: 0.31 mg
+Magnesium: 8 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 3.08 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.32 µg
+Folate: 0 µg

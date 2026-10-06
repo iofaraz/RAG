@@ -1,0 +1,37 @@
+Food: Beef, variety meats and by-products, kidneys, raw
+Food ID: 169449
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 17.4 g
+Carbohydrates: 0.29 g
+Fat: 3.09 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.868 g
+Monounsaturated fat: 0.586 g
+Polyunsaturated fat: 0.545 g
+Trans fat: 0.1 g
+Cholesterol: 411 mg
+
+Minerals:
+Sodium: 182 mg
+Potassium: 262 mg
+Calcium: 13 mg
+Iron: 4.6 mg
+Magnesium: 17 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 419 µg
+Vitamin C: 9.4 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.665 mg
+Vitamin B12: 27.5 µg
+Folate: 98 µg

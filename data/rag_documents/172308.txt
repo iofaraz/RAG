@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN WITH LGG, with iron, powder, not reconstituted, with ARA and DHA
+Food ID: 172308
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 514 kcal
+Protein: 14.1 g
+Carbohydrates: 53.6 g
+Fat: 27 g
+Fiber: 0 g
+Sugar: 4.5 g
+
+Fats:
+Saturated fat: 11.3 g
+Monounsaturated fat: 9.3 g
+Polyunsaturated fat: 5.1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 560 mg
+Calcium: 470 mg
+Iron: 9.1 mg
+Magnesium: 40 mg
+Zinc: 5.1 mg
+
+Vitamins:
+Vitamin A: 450 µg
+Vitamin C: 61 mg
+Vitamin D: 6.3 µg
+Vitamin E: 4.5 mg
+Vitamin K: 45 µg
+Vitamin B6: 0.3 mg
+Vitamin B12: 1.52 µg
+Folate: 79 µg

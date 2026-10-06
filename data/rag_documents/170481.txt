@@ -1,0 +1,33 @@
+Food: Borage, raw
+Food ID: 170481
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 1.8 g
+Carbohydrates: 3.06 g
+Fat: 0.7 g
+
+Fats:
+Saturated fat: 0.17 g
+Monounsaturated fat: 0.211 g
+Polyunsaturated fat: 0.109 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 470 mg
+Calcium: 93 mg
+Iron: 3.3 mg
+Magnesium: 52 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 210 µg
+Vitamin C: 35 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

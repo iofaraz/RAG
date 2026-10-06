@@ -1,0 +1,36 @@
+Food: Lo mein, with pork
+Food ID: 2708801
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 9.48 g
+Carbohydrates: 16.18 g
+Fat: 3.79 g
+Fiber: 1 g
+Sugar: 2.11 g
+
+Fats:
+Saturated fat: 1.066 g
+Monounsaturated fat: 1.328 g
+Polyunsaturated fat: 1.186 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 168 mg
+Calcium: 20 mg
+Iron: 1.07 mg
+Magnesium: 17 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.28 mg
+Vitamin K: 10.2 µg
+Vitamin B6: 0.164 mg
+Vitamin B12: 0.14 µg
+Folate: 23 µg

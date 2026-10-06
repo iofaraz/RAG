@@ -1,0 +1,36 @@
+Food: Potato salad, German style
+Food ID: 2709541
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 2.92 g
+Carbohydrates: 17.17 g
+Fat: 3.22 g
+Fiber: 1.9 g
+Sugar: 1.46 g
+
+Fats:
+Saturated fat: 1.199 g
+Monounsaturated fat: 1.394 g
+Polyunsaturated fat: 0.458 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 181 mg
+Potassium: 446 mg
+Calcium: 17 mg
+Iron: 0.89 mg
+Magnesium: 24 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 7.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.07 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.262 mg
+Vitamin B12: 0.03 µg
+Folate: 23 µg

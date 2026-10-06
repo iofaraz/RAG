@@ -1,0 +1,36 @@
+Food: Soup, stock, fish, home-prepared
+Food ID: 172885
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 2.26 g
+Carbohydrates: 0 g
+Fat: 0.81 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.203 g
+Monounsaturated fat: 0.236 g
+Polyunsaturated fat: 0.138 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 156 mg
+Potassium: 144 mg
+Calcium: 3 mg
+Iron: 0.01 mg
+Magnesium: 7 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.69 µg
+Folate: 2 µg

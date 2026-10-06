@@ -1,0 +1,36 @@
+Food: Tomatoes, canned, cooked
+Food ID: 2709722
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 0.82 g
+Carbohydrates: 3.23 g
+Fat: 3.04 g
+Fiber: 1.8 g
+Sugar: 2.91 g
+
+Fats:
+Saturated fat: 0.701 g
+Monounsaturated fat: 0.945 g
+Polyunsaturated fat: 0.83 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 130 mg
+Potassium: 193 mg
+Calcium: 29 mg
+Iron: 0.56 mg
+Magnesium: 10 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 12.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

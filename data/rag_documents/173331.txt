@@ -1,0 +1,37 @@
+Food: Chicken pot pie, frozen entree, prepared
+Food ID: 173331
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 204 kcal
+Protein: 5.11 g
+Carbohydrates: 19.21 g
+Fat: 11.85 g
+Fiber: 1.1 g
+Sugar: 2.26 g
+
+Fats:
+Saturated fat: 4.365 g
+Monounsaturated fat: 3.613 g
+Polyunsaturated fat: 3.302 g
+Trans fat: 0.085 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 393 mg
+Potassium: 110 mg
+Calcium: 20 mg
+Iron: 0.76 mg
+Magnesium: 11 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.53 mg
+Vitamin K: 10.7 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.11 µg
+Folate: 35 µg

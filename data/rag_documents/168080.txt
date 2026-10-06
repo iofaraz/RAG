@@ -1,0 +1,35 @@
+Food: Restaurant, Chinese, shrimp and vegetables
+Food ID: 168080
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 5.9 g
+Carbohydrates: 4.52 g
+Fat: 4.05 g
+Fiber: 1.4 g
+Sugar: 2.16 g
+
+Fats:
+Saturated fat: 0.633 g
+Monounsaturated fat: 0.817 g
+Polyunsaturated fat: 1.984 g
+Trans fat: 0.021 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 375 mg
+Potassium: 192 mg
+Calcium: 36 mg
+Iron: 0.72 mg
+Magnesium: 16 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 11.3 mg
+Vitamin E: 0.99 mg
+Vitamin K: 52 µg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0.21 µg

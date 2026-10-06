@@ -1,0 +1,36 @@
+Food: Beverages, tea, instant, sweetened with sodium saccharin, lemon-flavored, powder
+Food ID: 175091
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 338 kcal
+Protein: 3.3 g
+Carbohydrates: 85.4 g
+Fat: 0.6 g
+Fiber: 0 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 412 mg
+Potassium: 2568 mg
+Calcium: 21 mg
+Iron: 8.87 mg
+Magnesium: 125 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.121 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

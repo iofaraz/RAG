@@ -1,0 +1,36 @@
+Food: Hamburger (Burger King)
+Food ID: 2706922
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 254 kcal
+Protein: 13.63 g
+Carbohydrates: 25.98 g
+Fat: 10.24 g
+Fiber: 1.1 g
+Sugar: 4.66 g
+
+Fats:
+Saturated fat: 3.717 g
+Monounsaturated fat: 3.984 g
+Polyunsaturated fat: 1.16 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 199 mg
+Calcium: 80 mg
+Iron: 2.67 mg
+Magnesium: 21 mg
+Zinc: 2.21 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.22 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.205 mg
+Vitamin B12: 1.09 µg
+Folate: 55 µg

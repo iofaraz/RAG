@@ -1,0 +1,37 @@
+Food: Beverages, pineapple and grapefruit juice drink, canned
+Food ID: 173224
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.2 g
+Carbohydrates: 11.6 g
+Fat: 0.1 g
+Fiber: 0.1 g
+Sugar: 11.52 g
+
+Fats:
+Saturated fat: 0.006 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.028 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 61 mg
+Calcium: 7 mg
+Iron: 0.31 mg
+Magnesium: 6 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 46 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

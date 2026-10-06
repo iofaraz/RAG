@@ -1,0 +1,33 @@
+Food: Taro shoots, raw
+Food ID: 168489
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 11 kcal
+Protein: 0.92 g
+Carbohydrates: 2.32 g
+Fat: 0.09 g
+
+Fats:
+Saturated fat: 0.018 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.037 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 332 mg
+Calcium: 12 mg
+Iron: 0.6 mg
+Magnesium: 8 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.111 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

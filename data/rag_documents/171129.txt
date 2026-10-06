@@ -1,0 +1,37 @@
+Food: Turkey, thigh, from whole bird, meat only, with added solution, raw
+Food ID: 171129
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 19.27 g
+Carbohydrates: 0.15 g
+Fat: 4.12 g
+Fiber: 0 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 1.124 g
+Monounsaturated fat: 1.244 g
+Polyunsaturated fat: 1.009 g
+Trans fat: 0.052 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 226 mg
+Calcium: 15 mg
+Iron: 0.9 mg
+Magnesium: 21 mg
+Zinc: 2.68 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.425 mg
+Vitamin B12: 2.05 µg
+Folate: 6 µg

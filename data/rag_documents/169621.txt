@@ -1,0 +1,33 @@
+Food: Flan, caramel custard, dry mix, prepared with 2% milk
+Food ID: 169621
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 2.99 g
+Carbohydrates: 18.82 g
+Fat: 1.72 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.035 g
+Monounsaturated fat: 0.472 g
+Polyunsaturated fat: 0.064 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 113 mg
+Potassium: 163 mg
+Calcium: 113 mg
+Iron: 0.06 mg
+Magnesium: 12 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.9 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0.26 µg
+Folate: 4 µg

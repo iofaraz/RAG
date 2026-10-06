@@ -1,0 +1,26 @@
+Food: Babyfood, fruit, papaya and applesauce with tapioca, strained
+Food ID: 171350
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 70 kcal
+Protein: 0.2 g
+Carbohydrates: 18.9 g
+Fat: 0.1 g
+Fiber: 1.4 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 79 mg
+Calcium: 7 mg
+Iron: 0.44 mg
+Magnesium: 5 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 113.1 mg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

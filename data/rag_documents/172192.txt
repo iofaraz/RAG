@@ -1,0 +1,32 @@
+Food: Egg, turkey, whole, fresh, raw
+Food ID: 172192
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 171 kcal
+Protein: 13.68 g
+Carbohydrates: 1.15 g
+Fat: 11.88 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.632 g
+Monounsaturated fat: 4.571 g
+Polyunsaturated fat: 1.658 g
+Cholesterol: 933 mg
+
+Minerals:
+Sodium: 151 mg
+Potassium: 142 mg
+Calcium: 99 mg
+Iron: 4.1 mg
+Magnesium: 13 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 166 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.131 mg
+Vitamin B12: 1.69 µg
+Folate: 71 µg

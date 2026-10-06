@@ -1,0 +1,13 @@
+Food: Caribou, bone marrow, raw (Alaska Native)
+Food ID: 169800
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 786 kcal
+Protein: 6.7 g
+Carbohydrates: 0 g
+Fat: 84.4 g
+
+Minerals:
+Iron: 4.5 mg

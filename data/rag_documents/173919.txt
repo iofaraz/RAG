@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST SELECTS Blueberry Morning
+Food ID: 173919
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 395 kcal
+Protein: 6.5 g
+Carbohydrates: 81.6 g
+Fat: 5.3 g
+Fiber: 4.7 g
+Sugar: 29.2 g
+
+Fats:
+Saturated fat: 0.6 g
+Monounsaturated fat: 2.9 g
+Polyunsaturated fat: 1.5 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 341 mg
+Potassium: 195 mg
+Calcium: 41 mg
+Iron: 3.3 mg
+Magnesium: 57 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 400 µg
+Vitamin C: 0.9 mg
+Vitamin D: 1.8 µg
+Vitamin E: 1.56 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 0.9 mg
+Vitamin B12: 2.7 µg
+Folate: 182 µg

@@ -1,0 +1,36 @@
+Food: Snacks, potato chips, made from dried potatoes, fat-free, made with olestra
+Food ID: 168864
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 253 kcal
+Protein: 5.06 g
+Carbohydrates: 56 g
+Fat: 0.93 g
+Fiber: 7.3 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 0.355 g
+Monounsaturated fat: 0.3 g
+Polyunsaturated fat: 0.19 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 429 mg
+Potassium: 931 mg
+Calcium: 20 mg
+Iron: 1.14 mg
+Magnesium: 48 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 108.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 328.6 µg
+Vitamin B6: 0.532 mg
+Vitamin B12: 0 µg
+Folate: 67 µg

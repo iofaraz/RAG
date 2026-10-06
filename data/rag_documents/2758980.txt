@@ -1,0 +1,19 @@
+Food: Raisins, dark, seedless
+Food ID: 2758980
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 3.679 g
+
+Minerals:
+Sodium: 13.17 mg
+Potassium: 936 mg
+Calcium: 51.49 mg
+Iron: 1.844 mg
+Magnesium: 35.54 mg
+Zinc: 0.176 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.2336 mg

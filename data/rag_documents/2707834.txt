@@ -1,0 +1,36 @@
+Food: Muffin, whole wheat
+Food ID: 2707834
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 7.8 g
+Carbohydrates: 44.01 g
+Fat: 18.44 g
+Fiber: 3.5 g
+Sugar: 20.09 g
+
+Fats:
+Saturated fat: 3.058 g
+Monounsaturated fat: 7.269 g
+Polyunsaturated fat: 6.57 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 393 mg
+Potassium: 195 mg
+Calcium: 173 mg
+Iron: 1.75 mg
+Magnesium: 51 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 3.31 mg
+Vitamin K: 16.2 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.22 µg
+Folate: 17 µg

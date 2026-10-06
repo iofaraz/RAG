@@ -1,0 +1,36 @@
+Food: Fried stuffed potatoes, Puerto Rican style
+Food ID: 2710138
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 4.9 g
+Carbohydrates: 16.18 g
+Fat: 11.33 g
+Fiber: 1.9 g
+Sugar: 0.9 g
+
+Fats:
+Saturated fat: 2.194 g
+Monounsaturated fat: 5.116 g
+Polyunsaturated fat: 3.12 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 144 mg
+Potassium: 370 mg
+Calcium: 17 mg
+Iron: 1.12 mg
+Magnesium: 22 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 12.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.75 mg
+Vitamin K: 10.2 µg
+Vitamin B6: 0.256 mg
+Vitamin B12: 0.24 µg
+Folate: 14 µg

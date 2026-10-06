@@ -1,0 +1,36 @@
+Food: Cheese, American and Swiss blends
+Food ID: 2705763
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 16.79 g
+Carbohydrates: 7.16 g
+Fat: 27.16 g
+Fiber: 0 g
+Sugar: 4.72 g
+
+Fats:
+Saturated fat: 15.608 g
+Monounsaturated fat: 6.116 g
+Polyunsaturated fat: 1.075 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 1430 mg
+Potassium: 207 mg
+Calcium: 1062 mg
+Iron: 0.74 mg
+Magnesium: 30 mg
+Zinc: 2.37 mg
+
+Vitamins:
+Vitamin A: 262 µg
+Vitamin C: 0 mg
+Vitamin D: 6.5 µg
+Vitamin E: 0.82 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 1.48 µg
+Folate: 13 µg

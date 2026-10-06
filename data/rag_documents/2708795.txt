@@ -1,0 +1,36 @@
+Food: Cannelloni, cheese- and spinach-filled, no sauce
+Food ID: 2708795
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 6.31 g
+Carbohydrates: 18.36 g
+Fat: 6.51 g
+Fiber: 1.1 g
+Sugar: 0.75 g
+
+Fats:
+Saturated fat: 2.622 g
+Monounsaturated fat: 2.48 g
+Polyunsaturated fat: 0.573 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 618 mg
+Potassium: 225 mg
+Calcium: 99 mg
+Iron: 1.51 mg
+Magnesium: 35 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 118 µg
+Vitamin C: 5.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.09 mg
+Vitamin K: 115.9 µg
+Vitamin B6: 0.109 mg
+Vitamin B12: 0.28 µg
+Folate: 48 µg

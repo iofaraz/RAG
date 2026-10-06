@@ -1,0 +1,37 @@
+Food: Restaurant, Chinese, sweet and sour chicken
+Food ID: 168081
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 250 kcal
+Protein: 10.1 g
+Carbohydrates: 23.86 g
+Fat: 12.65 g
+Fiber: 1 g
+Sugar: 11.47 g
+
+Fats:
+Saturated fat: 1.933 g
+Monounsaturated fat: 2.717 g
+Polyunsaturated fat: 6.419 g
+Trans fat: 0.077 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 246 mg
+Potassium: 158 mg
+Calcium: 45 mg
+Iron: 2.12 mg
+Magnesium: 15 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.82 mg
+Vitamin K: 22.5 µg
+Vitamin B6: 0.257 mg
+Vitamin B12: 0.09 µg
+Folate: 11 µg

@@ -1,0 +1,36 @@
+Food: Pumpkin, cooked
+Food ID: 2709692
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 1.05 g
+Carbohydrates: 6.77 g
+Fat: 2.84 g
+Fiber: 0.5 g
+Sugar: 2.88 g
+
+Fats:
+Saturated fat: 0.77 g
+Monounsaturated fat: 0.985 g
+Polyunsaturated fat: 0.79 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 131 mg
+Potassium: 354 mg
+Calcium: 22 mg
+Iron: 0.84 mg
+Magnesium: 13 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 433 µg
+Vitamin C: 8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.51 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

@@ -1,0 +1,35 @@
+Food: DENNY'S, golden fried shrimp
+Food ID: 168077
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 319 kcal
+Protein: 13.88 g
+Carbohydrates: 20.93 g
+Fat: 20.01 g
+Fiber: 1.5 g
+Sugar: 0.75 g
+
+Fats:
+Saturated fat: 3.515 g
+Monounsaturated fat: 4.772 g
+Polyunsaturated fat: 9.516 g
+Trans fat: 0.178 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 1400 mg
+Potassium: 128 mg
+Calcium: 47 mg
+Iron: 1.54 mg
+Magnesium: 26 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin E: 2.61 mg
+Vitamin K: 35.3 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.4 µg
+Folate: 54 µg

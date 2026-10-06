@@ -1,0 +1,36 @@
+Food: Vegetables, stew type, cooked, fat added
+Food ID: 2710029
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 1.44 g
+Carbohydrates: 15.11 g
+Fat: 3.64 g
+Fiber: 2 g
+Sugar: 3.04 g
+
+Fats:
+Saturated fat: 0.937 g
+Monounsaturated fat: 1.237 g
+Polyunsaturated fat: 1.051 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 181 mg
+Potassium: 309 mg
+Calcium: 18 mg
+Iron: 0.25 mg
+Magnesium: 18 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 257 µg
+Vitamin C: 8.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.75 mg
+Vitamin K: 8.6 µg
+Vitamin B6: 0.226 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

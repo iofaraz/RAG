@@ -1,0 +1,37 @@
+Food: Milk and cereal bar
+Food ID: 174650
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 413 kcal
+Protein: 6.47 g
+Carbohydrates: 72.05 g
+Fat: 10.98 g
+Fiber: 0.4 g
+Sugar: 45.97 g
+
+Fats:
+Saturated fat: 9.114 g
+Monounsaturated fat: 1.186 g
+Polyunsaturated fat: 0.239 g
+Trans fat: 0 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 319 mg
+Potassium: 254 mg
+Calcium: 410 mg
+Iron: 5.99 mg
+Magnesium: 21 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 188 µg
+Vitamin C: 15.4 mg
+Vitamin D: 1.7 µg
+Vitamin E: 0.42 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.819 mg
+Vitamin B12: 2 µg
+Folate: 98 µg

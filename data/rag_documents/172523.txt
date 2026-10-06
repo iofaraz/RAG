@@ -1,0 +1,28 @@
+Food: Game meat, squirrel, raw
+Food ID: 172523
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 21.23 g
+Carbohydrates: 0 g
+Fat: 3.21 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.38 g
+Monounsaturated fat: 1.18 g
+Polyunsaturated fat: 0.94 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 103 mg
+Potassium: 304 mg
+Calcium: 2 mg
+Iron: 4.7 mg
+Magnesium: 24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

@@ -1,0 +1,36 @@
+Food: Macaroni or pasta salad, made with mayonnaise
+Food ID: 2708932
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 4.46 g
+Carbohydrates: 24.65 g
+Fat: 11.52 g
+Fiber: 1.4 g
+Sugar: 1.85 g
+
+Fats:
+Saturated fat: 1.824 g
+Monounsaturated fat: 2.538 g
+Polyunsaturated fat: 6.7 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 204 mg
+Potassium: 49 mg
+Calcium: 8 mg
+Iron: 1.01 mg
+Magnesium: 14 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 27.7 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.02 µg
+Folate: 56 µg

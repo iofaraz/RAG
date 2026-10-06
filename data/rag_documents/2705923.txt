@@ -1,0 +1,36 @@
+Food: Squirrel
+Food ID: 2705923
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 30.53 g
+Carbohydrates: 0 g
+Fat: 4.65 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.536 g
+Monounsaturated fat: 1.772 g
+Polyunsaturated fat: 1.67 g
+Cholesterol: 120 mg
+
+Minerals:
+Sodium: 425 mg
+Potassium: 349 mg
+Calcium: 3 mg
+Iron: 6.76 mg
+Magnesium: 28 mg
+Zinc: 1.77 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.367 mg
+Vitamin B12: 6.46 µg
+Folate: 9 µg

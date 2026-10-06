@@ -1,0 +1,34 @@
+Food: Cereals, QUAKER, Weight Control Instant Oatmeal, banana bread
+Food ID: 173923
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 361 kcal
+Protein: 16.5 g
+Carbohydrates: 64.42 g
+Fat: 6.16 g
+Fiber: 12.6 g
+Sugar: 1.29 g
+
+Fats:
+Saturated fat: 1.188 g
+Monounsaturated fat: 2.185 g
+Polyunsaturated fat: 1.807 g
+Trans fat: 0 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 619 mg
+Potassium: 327 mg
+Calcium: 243 mg
+Iron: 8.78 mg
+Magnesium: 117 mg
+Zinc: 2.6 mg
+
+Vitamins:
+Vitamin C: 0.1 mg
+Vitamin E: 0.55 mg
+Vitamin B6: 1.018 mg
+Vitamin B12: 0 µg
+Folate: 204 µg

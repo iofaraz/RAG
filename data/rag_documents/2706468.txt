@@ -1,0 +1,36 @@
+Food: Meat loaf, Puerto Rican style
+Food ID: 2706468
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 325 kcal
+Protein: 19.85 g
+Carbohydrates: 10.7 g
+Fat: 22 g
+Fiber: 0.6 g
+Sugar: 1.03 g
+
+Fats:
+Saturated fat: 6.374 g
+Monounsaturated fat: 9.361 g
+Polyunsaturated fat: 3.448 g
+Cholesterol: 148 mg
+
+Minerals:
+Sodium: 629 mg
+Potassium: 229 mg
+Calcium: 30 mg
+Iron: 2.28 mg
+Magnesium: 18 mg
+Zinc: 3.29 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 1 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.7 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 1.07 µg
+Folate: 28 µg

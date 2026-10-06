@@ -1,0 +1,36 @@
+Food: Ham, chopped, not canned
+Food ID: 171627
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 16.5 g
+Carbohydrates: 0 g
+Fat: 16.7 g
+Fiber: 0 g
+Sugar: 5 g
+
+Fats:
+Saturated fat: 6.1 g
+Monounsaturated fat: 8.2 g
+Polyunsaturated fat: 2.11 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 1194 mg
+Potassium: 319 mg
+Calcium: 7 mg
+Iron: 0.83 mg
+Magnesium: 16 mg
+Zinc: 1.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.23 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.35 mg
+Vitamin B12: 0.92 µg
+Folate: 1 µg

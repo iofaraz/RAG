@@ -1,0 +1,36 @@
+Food: Chicken thigh, fried, coated, skin / coating eaten, from fast food
+Food ID: 2706050
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 294 kcal
+Protein: 16.26 g
+Carbohydrates: 13 g
+Fat: 19.67 g
+Fiber: 0.3 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 4.566 g
+Monounsaturated fat: 8.93 g
+Polyunsaturated fat: 4.355 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 748 mg
+Potassium: 203 mg
+Calcium: 50 mg
+Iron: 1.26 mg
+Magnesium: 20 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.46 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.141 mg
+Vitamin B12: 0.35 µg
+Folate: 32 µg

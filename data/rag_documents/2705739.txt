@@ -1,0 +1,36 @@
+Food: Cheese, Cheddar, reduced sodium
+Food ID: 2705739
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 398 kcal
+Protein: 24.35 g
+Carbohydrates: 1.91 g
+Fat: 32.62 g
+Fiber: 0 g
+Sugar: 0.49 g
+
+Fats:
+Saturated fat: 20.768 g
+Monounsaturated fat: 9.189 g
+Polyunsaturated fat: 0.972 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 112 mg
+Calcium: 703 mg
+Iron: 0.72 mg
+Magnesium: 27 mg
+Zinc: 3.09 mg
+
+Vitamins:
+Vitamin A: 264 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.28 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.83 µg
+Folate: 18 µg

@@ -1,0 +1,33 @@
+Food: Beverages, tea, instant, lemon, with added ascorbic acid
+Food ID: 171918
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 385 kcal
+Protein: 0.6 g
+Carbohydrates: 97.6 g
+Fat: 0.3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.091 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 217 mg
+Calcium: 3 mg
+Iron: 0.16 mg
+Magnesium: 11 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 100 mg
+Vitamin B6: 0.022 mg
+Vitamin B12: 0 µg
+Folate: 43 µg

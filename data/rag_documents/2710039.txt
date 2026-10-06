@@ -1,0 +1,36 @@
+Food: Artichokes, stuffed
+Food ID: 2710039
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 5.33 g
+Carbohydrates: 22.28 g
+Fat: 5.94 g
+Fiber: 3.9 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 1.386 g
+Monounsaturated fat: 2.967 g
+Polyunsaturated fat: 0.907 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 404 mg
+Potassium: 218 mg
+Calcium: 85 mg
+Iron: 1.43 mg
+Magnesium: 32 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 5.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 28.2 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.1 µg
+Folate: 63 µg

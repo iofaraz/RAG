@@ -1,0 +1,36 @@
+Food: Salad dressing, sesame seed dressing, regular
+Food ID: 171006
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 443 kcal
+Protein: 3.1 g
+Carbohydrates: 8.6 g
+Fat: 45.2 g
+Fiber: 1 g
+Sugar: 8.32 g
+
+Fats:
+Saturated fat: 6.2 g
+Monounsaturated fat: 11.9 g
+Polyunsaturated fat: 25.1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1000 mg
+Potassium: 157 mg
+Calcium: 19 mg
+Iron: 0.6 mg
+Magnesium: 0 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5 mg
+Vitamin K: 56 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

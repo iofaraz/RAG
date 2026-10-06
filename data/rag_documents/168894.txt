@@ -1,0 +1,36 @@
+Food: Wheat flour, white, all-purpose, enriched, bleached
+Food ID: 168894
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 10.33 g
+Carbohydrates: 76.31 g
+Fat: 0.98 g
+Fiber: 2.7 g
+Sugar: 0.27 g
+
+Fats:
+Saturated fat: 0.155 g
+Monounsaturated fat: 0.087 g
+Polyunsaturated fat: 0.413 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 107 mg
+Calcium: 15 mg
+Iron: 4.64 mg
+Magnesium: 22 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0 µg
+Folate: 183 µg

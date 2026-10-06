@@ -1,0 +1,36 @@
+Food: Cornbread, made from home recipe
+Food ID: 2707811
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 6.55 g
+Carbohydrates: 42.87 g
+Fat: 9.8 g
+Fiber: 1.5 g
+Sugar: 6.85 g
+
+Fats:
+Saturated fat: 1.865 g
+Monounsaturated fat: 3.707 g
+Polyunsaturated fat: 3.272 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 485 mg
+Potassium: 142 mg
+Calcium: 203 mg
+Iron: 2.68 mg
+Magnesium: 20 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.53 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.2 µg
+Folate: 64 µg

@@ -1,0 +1,36 @@
+Food: Corn flour, whole-grain, yellow
+Food ID: 170290
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 361 kcal
+Protein: 6.93 g
+Carbohydrates: 76.85 g
+Fat: 3.86 g
+Fiber: 7.3 g
+Sugar: 0.64 g
+
+Fats:
+Saturated fat: 0.543 g
+Monounsaturated fat: 1.018 g
+Polyunsaturated fat: 1.759 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 315 mg
+Calcium: 7 mg
+Iron: 2.38 mg
+Magnesium: 93 mg
+Zinc: 1.73 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.37 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

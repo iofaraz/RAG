@@ -1,0 +1,37 @@
+Food: Beans, shellie, canned, solids and liquids
+Food ID: 169960
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 30 kcal
+Protein: 1.76 g
+Carbohydrates: 6.19 g
+Fat: 0.19 g
+Fiber: 3.4 g
+Sugar: 0.63 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.11 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 334 mg
+Potassium: 109 mg
+Calcium: 29 mg
+Iron: 0.99 mg
+Magnesium: 15 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

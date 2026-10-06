@@ -1,0 +1,36 @@
+Food: Light ice cream cone, vanilla, prepackaged
+Food ID: 2705675
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 223 kcal
+Protein: 5.41 g
+Carbohydrates: 34.23 g
+Fat: 7.3 g
+Fiber: 0.7 g
+Sugar: 16.4 g
+
+Fats:
+Saturated fat: 3.29 g
+Monounsaturated fat: 2.409 g
+Polyunsaturated fat: 0.865 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 133 mg
+Potassium: 212 mg
+Calcium: 128 mg
+Iron: 0.8 mg
+Magnesium: 21 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 86 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.45 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.4 µg
+Folate: 24 µg

@@ -1,0 +1,36 @@
+Food: Candies, butterscotch
+Food ID: 167972
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 391 kcal
+Protein: 0.03 g
+Carbohydrates: 90.4 g
+Fat: 3.3 g
+Fiber: 0 g
+Sugar: 80.46 g
+
+Fats:
+Saturated fat: 2.065 g
+Monounsaturated fat: 0.845 g
+Polyunsaturated fat: 0.122 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 391 mg
+Potassium: 3 mg
+Calcium: 4 mg
+Iron: 0.01 mg
+Magnesium: 0 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

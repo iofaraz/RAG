@@ -1,0 +1,17 @@
+Food: Peanut butter, Creamy
+Food ID: 2758989
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 5.178 g
+
+Fats:
+Saturated fat: 9.979 g
+Monounsaturated fat: 28.01 g
+Polyunsaturated fat: 10.53 g
+Trans fat: 0.0375 g
+
+Vitamins:
+Vitamin B6: 0.1346 mg
+Folate: 118 µg

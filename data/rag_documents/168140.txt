@@ -1,0 +1,36 @@
+Food: Babyfood, fruit supreme dessert
+Food ID: 168140
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 73 kcal
+Protein: 0.5 g
+Carbohydrates: 17.18 g
+Fat: 0.2 g
+Fiber: 2 g
+Sugar: 14.87 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.025 g
+Polyunsaturated fat: 0.068 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 129 mg
+Calcium: 6 mg
+Iron: 0.17 mg
+Magnesium: 7 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 12.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.79 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

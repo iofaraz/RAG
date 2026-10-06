@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean only, raw
+Food ID: 172628
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 20.2 g
+Carbohydrates: 0 g
+Fat: 6.88 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.125 g
+Monounsaturated fat: 1.605 g
+Polyunsaturated fat: 0.352 g
+Trans fat: 0.132 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 325 mg
+Calcium: 5 mg
+Iron: 1.16 mg
+Magnesium: 21 mg
+Zinc: 3.8 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin B6: 0.113 mg
+Vitamin B12: 2.38 µg

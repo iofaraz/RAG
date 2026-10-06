@@ -1,0 +1,21 @@
+Food: Soup, bean with bacon, condensed, single brand
+Food ID: 171586
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 6.5 g
+Carbohydrates: 18 g
+Fat: 2.1 g
+Fiber: 4.6 g
+
+Fats:
+Saturated fat: 0.601 g
+Monounsaturated fat: 0.747 g
+Polyunsaturated fat: 0.446 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 672 mg
+Iron: 1.37 mg

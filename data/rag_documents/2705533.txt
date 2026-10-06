@@ -1,0 +1,36 @@
+Food: Infant formula, Enfamil, NFS
+Food ID: 2705533
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1.43 g
+Carbohydrates: 7.36 g
+Fat: 3.49 g
+Fiber: 0 g
+Sugar: 7.34 g
+
+Fats:
+Saturated fat: 1.448 g
+Monounsaturated fat: 1.276 g
+Polyunsaturated fat: 0.671 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 71 mg
+Calcium: 51 mg
+Iron: 1.19 mg
+Magnesium: 5 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 8 mg
+Vitamin D: 1 µg
+Vitamin E: 0.82 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.2 µg
+Folate: 11 µg

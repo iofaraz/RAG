@@ -1,0 +1,37 @@
+Food: Turkey, whole, light meat, meat and skin, raw
+Food ID: 171088
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 21.96 g
+Carbohydrates: 0.15 g
+Fat: 7.43 g
+Fiber: 0 g
+Sugar: 0.06 g
+
+Fats:
+Saturated fat: 1.899 g
+Monounsaturated fat: 2.431 g
+Polyunsaturated fat: 1.952 g
+Trans fat: 0.1 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 105 mg
+Potassium: 223 mg
+Calcium: 11 mg
+Iron: 0.75 mg
+Magnesium: 25 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.711 mg
+Vitamin B12: 0.67 µg
+Folate: 7 µg

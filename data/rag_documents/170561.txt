@@ -1,0 +1,32 @@
+Food: Seeds, sesame meal, partially defatted
+Food ID: 170561
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 567 kcal
+Protein: 16.96 g
+Carbohydrates: 26.04 g
+Fat: 48 g
+
+Fats:
+Saturated fat: 6.722 g
+Monounsaturated fat: 18.127 g
+Polyunsaturated fat: 21.039 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 406 mg
+Calcium: 153 mg
+Iron: 14.55 mg
+Magnesium: 346 mg
+Zinc: 10.23 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.146 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

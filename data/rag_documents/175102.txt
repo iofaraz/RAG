@@ -1,0 +1,32 @@
+Food: Beverages, shake, fast food, strawberry
+Food ID: 175102
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 3.4 g
+Carbohydrates: 18.9 g
+Fat: 2.8 g
+Fiber: 0.4 g
+
+Fats:
+Saturated fat: 1.734 g
+Trans fat: 0 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 83 mg
+Potassium: 182 mg
+Calcium: 113 mg
+Iron: 0.11 mg
+Magnesium: 13 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.31 µg
+Folate: 3 µg

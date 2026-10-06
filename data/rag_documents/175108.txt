@@ -1,0 +1,37 @@
+Food: Beverages, COCA-COLA, POWERADE, lemon-lime flavored, ready-to-drink
+Food ID: 175108
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 0 g
+Carbohydrates: 7.84 g
+Fat: 0.05 g
+Fiber: 0 g
+Sugar: 6.11 g
+
+Fats:
+Saturated fat: 0.008 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.028 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 42 mg
+Potassium: 18 mg
+Calcium: 1 mg
+Iron: 0.09 mg
+Magnesium: 0 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0.91 µg
+Folate: 0 µg

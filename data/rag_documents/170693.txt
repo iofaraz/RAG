@@ -1,0 +1,37 @@
+Food: Fast foods, hamburger; single, regular patty; plain
+Food ID: 170693
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 297 kcal
+Protein: 16.52 g
+Carbohydrates: 31.5 g
+Fat: 12.01 g
+Fiber: 1.7 g
+Sugar: 4.88 g
+
+Fats:
+Saturated fat: 4.493 g
+Monounsaturated fat: 4.835 g
+Polyunsaturated fat: 1.68 g
+Trans fat: 0.514 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 331 mg
+Potassium: 197 mg
+Calcium: 62 mg
+Iron: 3.06 mg
+Magnesium: 27 mg
+Zinc: 2.52 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.38 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.212 mg
+Vitamin B12: 0.89 µg
+Folate: 80 µg

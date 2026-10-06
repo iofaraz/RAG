@@ -1,0 +1,36 @@
+Food: Bread, wheat or cracked wheat, made from home recipe or purchased at bakery, toasted
+Food ID: 2707723
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 297 kcal
+Protein: 11.35 g
+Carbohydrates: 54.06 g
+Fat: 4.09 g
+Fiber: 3.7 g
+Sugar: 3.5 g
+
+Fats:
+Saturated fat: 1.337 g
+Monounsaturated fat: 0.955 g
+Polyunsaturated fat: 0.964 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 634 mg
+Potassium: 187 mg
+Calcium: 46 mg
+Iron: 3.53 mg
+Magnesium: 50 mg
+Zinc: 1.39 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.42 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0.07 µg
+Folate: 71 µg

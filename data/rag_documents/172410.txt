@@ -1,0 +1,36 @@
+Food: Duck, domesticated, meat only, raw
+Food ID: 172410
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 135 kcal
+Protein: 18.28 g
+Carbohydrates: 0.94 g
+Fat: 5.95 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.32 g
+Monounsaturated fat: 1.54 g
+Polyunsaturated fat: 0.75 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 74 mg
+Potassium: 271 mg
+Calcium: 11 mg
+Iron: 2.4 mg
+Magnesium: 19 mg
+Zinc: 1.9 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 5.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.7 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.34 mg
+Vitamin B12: 0.4 µg
+Folate: 25 µg

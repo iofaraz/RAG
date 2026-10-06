@@ -1,0 +1,31 @@
+Food: Candies, HEATH BITES
+Food ID: 168801
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 530 kcal
+Protein: 3.94 g
+Carbohydrates: 63.39 g
+Fat: 30.38 g
+Fiber: 2 g
+Sugar: 60.02 g
+
+Fats:
+Saturated fat: 15.62 g
+Monounsaturated fat: 8.8 g
+Polyunsaturated fat: 2.55 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 245 mg
+Potassium: 210 mg
+Calcium: 86 mg
+Iron: 0.78 mg
+Magnesium: 6 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin C: 0.8 mg
+Vitamin B6: 0 mg
+Folate: 1 µg

@@ -1,0 +1,36 @@
+Food: Gelatins, dry powder, unsweetened
+Food ID: 169599
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 335 kcal
+Protein: 85.6 g
+Carbohydrates: 0 g
+Fat: 0.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.07 g
+Monounsaturated fat: 0.06 g
+Polyunsaturated fat: 0.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 196 mg
+Potassium: 16 mg
+Calcium: 55 mg
+Iron: 1.11 mg
+Magnesium: 22 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.007 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

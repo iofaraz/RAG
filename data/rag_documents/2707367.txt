@@ -1,0 +1,36 @@
+Food: Fava beans, cooked
+Food ID: 2707367
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 7.06 g
+Carbohydrates: 18.26 g
+Fat: 6.88 g
+Fiber: 5 g
+Sugar: 1.69 g
+
+Fats:
+Saturated fat: 0.931 g
+Monounsaturated fat: 2.83 g
+Polyunsaturated fat: 2.651 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 220 mg
+Potassium: 249 mg
+Calcium: 34 mg
+Iron: 1.4 mg
+Magnesium: 40 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.25 mg
+Vitamin K: 9.2 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0 µg
+Folate: 92 µg

@@ -1,0 +1,36 @@
+Food: French or Catalina dressing
+Food ID: 2710201
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 419 kcal
+Protein: 0.87 g
+Carbohydrates: 18.79 g
+Fat: 39.07 g
+Fiber: 2.4 g
+Sugar: 17.43 g
+
+Fats:
+Saturated fat: 6.093 g
+Monounsaturated fat: 8.91 g
+Polyunsaturated fat: 22.952 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 661 mg
+Potassium: 108 mg
+Calcium: 27 mg
+Iron: 0.32 mg
+Magnesium: 7 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5 mg
+Vitamin K: 121.4 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.14 µg
+Folate: 0 µg

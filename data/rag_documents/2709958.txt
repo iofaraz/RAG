@@ -1,0 +1,36 @@
+Food: Green peas, cooked, from restaurant
+Food ID: 2709958
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 5.37 g
+Carbohydrates: 14.28 g
+Fat: 4.72 g
+Fiber: 5.6 g
+Sugar: 5.61 g
+
+Fats:
+Saturated fat: 1.202 g
+Monounsaturated fat: 1.57 g
+Polyunsaturated fat: 1.426 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 211 mg
+Potassium: 242 mg
+Calcium: 25 mg
+Iron: 1.46 mg
+Magnesium: 33 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 33.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.78 mg
+Vitamin K: 28 µg
+Vitamin B6: 0.178 mg
+Vitamin B12: 0 µg
+Folate: 55 µg

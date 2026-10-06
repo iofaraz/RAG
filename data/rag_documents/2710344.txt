@@ -1,0 +1,36 @@
+Food: Chocolate candy, cream filled
+Food ID: 2710344
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 2.2 g
+Carbohydrates: 80.4 g
+Fat: 9.3 g
+Fiber: 2.1 g
+Sugar: 71.42 g
+
+Fats:
+Saturated fat: 5.46 g
+Monounsaturated fat: 3.09 g
+Polyunsaturated fat: 0.3 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 168 mg
+Calcium: 17 mg
+Iron: 1.56 mg
+Magnesium: 63 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

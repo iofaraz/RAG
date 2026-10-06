@@ -1,0 +1,36 @@
+Food: Pickled sausage
+Food ID: 2706204
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 314 kcal
+Protein: 18.06 g
+Carbohydrates: 2.13 g
+Fat: 25.99 g
+Fiber: 0 g
+Sugar: 1.45 g
+
+Fats:
+Saturated fat: 9.077 g
+Monounsaturated fat: 11.508 g
+Polyunsaturated fat: 4.921 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 1067 mg
+Potassium: 308 mg
+Calcium: 12 mg
+Iron: 1.28 mg
+Magnesium: 19 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.79 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.34 mg
+Vitamin B12: 1.05 µg
+Folate: 0 µg

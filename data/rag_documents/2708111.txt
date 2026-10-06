@@ -1,0 +1,36 @@
+Food: Cereal or granola bar, coated with non-chocolate coating
+Food ID: 2708111
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 508 kcal
+Protein: 10.2 g
+Carbohydrates: 53.4 g
+Fat: 31.1 g
+Fiber: 2.8 g
+Sugar: 23.74 g
+
+Fats:
+Saturated fat: 17.01 g
+Monounsaturated fat: 6.54 g
+Polyunsaturated fat: 1.9 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 193 mg
+Potassium: 339 mg
+Calcium: 108 mg
+Iron: 1.45 mg
+Magnesium: 67 mg
+Zinc: 1.47 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 4.17 mg
+Vitamin K: 13.2 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

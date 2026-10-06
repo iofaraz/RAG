@@ -1,0 +1,36 @@
+Food: Sauce, NFS
+Food ID: 2710177
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 1.59 g
+Carbohydrates: 12.72 g
+Fat: 5.67 g
+Fiber: 0.2 g
+Sugar: 4.56 g
+
+Fats:
+Saturated fat: 2.612 g
+Monounsaturated fat: 1.482 g
+Polyunsaturated fat: 0.688 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 968 mg
+Potassium: 56 mg
+Calcium: 39 mg
+Iron: 0.19 mg
+Magnesium: 7 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.45 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.021 mg
+Vitamin B12: 0.04 µg
+Folate: 3 µg

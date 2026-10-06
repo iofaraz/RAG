@@ -1,0 +1,31 @@
+Food: Snacks, corn cakes, very low sodium
+Food ID: 170647
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 8.1 g
+Carbohydrates: 83.4 g
+Fat: 2.4 g
+
+Fats:
+Saturated fat: 0.42 g
+Monounsaturated fat: 0.76 g
+Polyunsaturated fat: 0.93 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 157 mg
+Calcium: 19 mg
+Iron: 1.4 mg
+Magnesium: 114 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

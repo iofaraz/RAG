@@ -1,0 +1,36 @@
+Food: Creamy Italian dressing, fat free
+Food ID: 2710231
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 1.03 g
+Carbohydrates: 10.44 g
+Fat: 1.14 g
+Fiber: 0.5 g
+Sugar: 8.32 g
+
+Fats:
+Saturated fat: 0.325 g
+Monounsaturated fat: 0.296 g
+Polyunsaturated fat: 0.38 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 1094 mg
+Potassium: 107 mg
+Calcium: 31 mg
+Iron: 0.38 mg
+Magnesium: 5 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.75 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 0.26 µg
+Folate: 11 µg

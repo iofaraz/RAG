@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, All Natural Light Mint Chocolate Chip
+Food ID: 170663
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 196 kcal
+Protein: 4.69 g
+Carbohydrates: 28.39 g
+Fat: 7.09 g
+Fiber: 0.6 g
+Sugar: 25.38 g
+
+Fats:
+Saturated fat: 4.48 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 67 mg
+Calcium: 160 mg
+Iron: 0.52 mg
+
+Vitamins:
+Vitamin C: 1.4 mg

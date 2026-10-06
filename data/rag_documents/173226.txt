@@ -1,0 +1,36 @@
+Food: Shake, fast food, vanilla
+Food ID: 173226
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 3.37 g
+Carbohydrates: 19.59 g
+Fat: 6.52 g
+Fiber: 0.9 g
+Sugar: 13.63 g
+
+Fats:
+Saturated fat: 3.962 g
+Monounsaturated fat: 1.785 g
+Polyunsaturated fat: 0.316 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 166 mg
+Calcium: 115 mg
+Iron: 0.46 mg
+Magnesium: 13 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 91 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.22 µg
+Folate: 0 µg

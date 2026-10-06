@@ -1,0 +1,37 @@
+Food: Tortilla chips, yellow, plain, salted
+Food ID: 173143
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 497 kcal
+Protein: 6.62 g
+Carbohydrates: 67.38 g
+Fat: 22.33 g
+Fiber: 4.7 g
+Sugar: 1.21 g
+
+Fats:
+Saturated fat: 2.776 g
+Monounsaturated fat: 8.584 g
+Polyunsaturated fat: 9.179 g
+Trans fat: 0.066 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 310 mg
+Potassium: 206 mg
+Calcium: 104 mg
+Iron: 1.32 mg
+Magnesium: 84 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.97 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.202 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

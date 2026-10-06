@@ -1,0 +1,33 @@
+Food: Macaroni and cheese, dry mix, prepared with 2% milk and 80% stick margarine from dry mix
+Food ID: 173341
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 4.89 g
+Carbohydrates: 23.93 g
+Fat: 8.28 g
+Fiber: 1.2 g
+Sugar: 4.27 g
+
+Fats:
+Saturated fat: 1.816 g
+Monounsaturated fat: 3.687 g
+Polyunsaturated fat: 1.88 g
+Trans fat: 1.244 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 338 mg
+Potassium: 129 mg
+Calcium: 63 mg
+Iron: 0.99 mg
+Magnesium: 17 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin K: 6.4 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.16 µg
+Folate: 70 µg

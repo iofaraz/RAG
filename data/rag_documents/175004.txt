@@ -1,0 +1,32 @@
+Food: Muffins, corn, toaster-type
+Food ID: 175004
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 5.3 g
+Carbohydrates: 57.9 g
+Fat: 11.3 g
+Fiber: 1.6 g
+
+Fats:
+Saturated fat: 1.681 g
+Monounsaturated fat: 2.625 g
+Polyunsaturated fat: 6.324 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 430 mg
+Potassium: 92 mg
+Calcium: 19 mg
+Iron: 1.47 mg
+Magnesium: 14 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.03 µg
+Folate: 57 µg

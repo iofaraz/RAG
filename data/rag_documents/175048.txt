@@ -1,0 +1,36 @@
+Food: Waffles, plain, frozen, ready -to-heat, toasted
+Food ID: 175048
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 312 kcal
+Protein: 7.19 g
+Carbohydrates: 49.29 g
+Fat: 9.61 g
+Fiber: 2.4 g
+Sugar: 5.02 g
+
+Fats:
+Saturated fat: 1.638 g
+Monounsaturated fat: 4.914 g
+Polyunsaturated fat: 2.197 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 467 mg
+Potassium: 144 mg
+Calcium: 307 mg
+Iron: 6.91 mg
+Magnesium: 24 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 398 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.98 mg
+Vitamin K: 6.8 µg
+Vitamin B6: 1.044 mg
+Vitamin B12: 2.9 µg
+Folate: 75 µg

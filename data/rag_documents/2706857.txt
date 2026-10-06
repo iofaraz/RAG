@@ -1,0 +1,36 @@
+Food: Kung Pao shrimp
+Food ID: 2706857
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 13.94 g
+Carbohydrates: 5.32 g
+Fat: 10.74 g
+Fiber: 1 g
+Sugar: 1.43 g
+
+Fats:
+Saturated fat: 1.689 g
+Monounsaturated fat: 4.74 g
+Polyunsaturated fat: 3.388 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 210 mg
+Potassium: 184 mg
+Calcium: 59 mg
+Iron: 0.45 mg
+Magnesium: 37 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 11.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.6 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.192 mg
+Vitamin B12: 0.72 µg
+Folate: 24 µg

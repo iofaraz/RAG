@@ -1,0 +1,34 @@
+Food: McDONALD'S, FILET-O-FISH
+Food ID: 170319
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 11.26 g
+Carbohydrates: 26.39 g
+Fat: 14.64 g
+Fiber: 1.4 g
+Sugar: 3.67 g
+
+Fats:
+Saturated fat: 2.833 g
+Monounsaturated fat: 4.005 g
+Polyunsaturated fat: 5.952 g
+Trans fat: 0.128 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 434 mg
+Potassium: 220 mg
+Calcium: 120 mg
+Iron: 1.56 mg
+Magnesium: 27 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin C: 0.3 mg
+Vitamin E: 1.17 mg
+Vitamin K: 4.9 µg
+Vitamin B12: 1.08 µg
+Folate: 21 µg

@@ -1,0 +1,37 @@
+Food: Egg, whole, dried
+Food ID: 172188
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 592 kcal
+Protein: 48.05 g
+Carbohydrates: 1.13 g
+Fat: 43.9 g
+Fiber: 0 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 15.069 g
+Monounsaturated fat: 16.726 g
+Polyunsaturated fat: 8.314 g
+Trans fat: 0.265 g
+Cholesterol: 1630 mg
+
+Minerals:
+Sodium: 476 mg
+Potassium: 540 mg
+Calcium: 244 mg
+Iron: 7.2 mg
+Magnesium: 34 mg
+Zinc: 3.15 mg
+
+Vitamins:
+Vitamin A: 301 µg
+Vitamin C: 0 mg
+Vitamin D: 8.3 µg
+Vitamin E: 3.88 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.499 mg
+Vitamin B12: 2.96 µg
+Folate: 119 µg

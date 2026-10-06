@@ -1,0 +1,36 @@
+Food: Whipped topping, fat free
+Food ID: 2705612
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 224 kcal
+Protein: 3 g
+Carbohydrates: 23.6 g
+Fat: 13.1 g
+Fiber: 0 g
+Sugar: 23.6 g
+
+Fats:
+Saturated fat: 11.273 g
+Monounsaturated fat: 0.838 g
+Polyunsaturated fat: 0.269 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 101 mg
+Calcium: 71 mg
+Iron: 0.1 mg
+Magnesium: 7 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.2 µg
+Folate: 3 µg

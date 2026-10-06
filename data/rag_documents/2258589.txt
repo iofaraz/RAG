@@ -1,0 +1,23 @@
+Food: Peppers, bell, yellow, raw
+Food ID: 2258589
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.819375 g
+Carbohydrates: 6.60173 g
+Fat: 0.1211 g
+Fiber: 1.071 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 197.3 mg
+Calcium: 6.686 mg
+Iron: 0.3596 mg
+Magnesium: 10.34 mg
+Zinc: 0.193 mg
+
+Vitamins:
+Vitamin C: 138.8 mg
+Vitamin B6: 0.2918 mg
+Folate: 41.63 µg

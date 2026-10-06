@@ -1,0 +1,37 @@
+Food: Peas, green, split, mature seeds, raw
+Food ID: 172428
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 23.12 g
+Carbohydrates: 61.63 g
+Fat: 3.89 g
+Fiber: 22.2 g
+Sugar: 3.14 g
+
+Fats:
+Saturated fat: 0.408 g
+Monounsaturated fat: 0.615 g
+Polyunsaturated fat: 1.022 g
+Trans fat: 0.004 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 852 mg
+Calcium: 46 mg
+Iron: 4.73 mg
+Magnesium: 63 mg
+Zinc: 3.49 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 15.9 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

@@ -1,0 +1,36 @@
+Food: Grilled cheese sandwich, cheddar cheese, on wheat bread
+Food ID: 2705805
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 14.4 g
+Carbohydrates: 24.42 g
+Fat: 23.46 g
+Fiber: 2.8 g
+Sugar: 2.85 g
+
+Fats:
+Saturated fat: 11.247 g
+Monounsaturated fat: 5.425 g
+Polyunsaturated fat: 2.672 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 536 mg
+Potassium: 128 mg
+Calcium: 342 mg
+Iron: 1.69 mg
+Magnesium: 39 mg
+Zinc: 2.04 mg
+
+Vitamins:
+Vitamin A: 209 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.32 mg
+Vitamin K: 9 µg
+Vitamin B6: 0.242 mg
+Vitamin B12: 0.37 µg
+Folate: 39 µg

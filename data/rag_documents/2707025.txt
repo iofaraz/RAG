@@ -1,0 +1,36 @@
+Food: Fish sandwich, from school cafeteria
+Food ID: 2707025
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 209 kcal
+Protein: 15 g
+Carbohydrates: 27.4 g
+Fat: 4.34 g
+Fiber: 3.5 g
+Sugar: 2.51 g
+
+Fats:
+Saturated fat: 1.007 g
+Monounsaturated fat: 1.112 g
+Polyunsaturated fat: 1.588 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 387 mg
+Potassium: 280 mg
+Calcium: 100 mg
+Iron: 1.76 mg
+Magnesium: 54 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.82 mg
+Vitamin K: 6.1 µg
+Vitamin B6: 0.254 mg
+Vitamin B12: 0.77 µg
+Folate: 36 µg

@@ -1,0 +1,36 @@
+Food: Turkey, wing, smoked, cooked, with skin, bone removed
+Food ID: 167709
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 27.4 g
+Carbohydrates: 0 g
+Fat: 12.41 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.383 g
+Monounsaturated fat: 4.651 g
+Polyunsaturated fat: 2.934 g
+Cholesterol: 81 mg
+
+Minerals:
+Sodium: 996 mg
+Potassium: 266 mg
+Calcium: 24 mg
+Iron: 1.46 mg
+Magnesium: 25 mg
+Zinc: 2.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.42 mg
+Vitamin B12: 0.34 µg
+Folate: 6 µg

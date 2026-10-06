@@ -1,0 +1,13 @@
+Food: Willow, leaves in oil (Alaska Native)
+Food ID: 168035
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 592 kcal
+Protein: 2.6 g
+Carbohydrates: 8.1 g
+Fat: 61 g
+
+Minerals:
+Iron: 1.3 mg

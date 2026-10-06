@@ -1,0 +1,36 @@
+Food: Beverages, Orange juice drink
+Food ID: 169044
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 0.2 g
+Carbohydrates: 13.41 g
+Fat: 0 g
+Fiber: 0.2 g
+Sugar: 9.36 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.01 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 42 mg
+Calcium: 2 mg
+Iron: 0.11 mg
+Magnesium: 3 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 15 mg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.5 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

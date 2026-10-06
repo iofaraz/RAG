@@ -1,0 +1,25 @@
+Food: Ascidians (tunughnak) (Alaska Native)
+Food ID: 168978
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 20 kcal
+Protein: 3.8 g
+Carbohydrates: 0 g
+Fat: 0.5 g
+
+Fats:
+Saturated fat: 0.1 g
+Monounsaturated fat: 0.12 g
+Polyunsaturated fat: 0.2 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 656 mg
+Potassium: 102 mg
+Calcium: 47 mg
+Iron: 3.3 mg
+
+Vitamins:
+Vitamin C: 0 mg

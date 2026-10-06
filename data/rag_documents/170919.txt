@@ -1,0 +1,33 @@
+Food: Spices, cardamom
+Food ID: 170919
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 311 kcal
+Protein: 10.76 g
+Carbohydrates: 68.47 g
+Fat: 6.7 g
+Fiber: 28 g
+
+Fats:
+Saturated fat: 0.68 g
+Monounsaturated fat: 0.87 g
+Polyunsaturated fat: 0.43 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 1119 mg
+Calcium: 383 mg
+Iron: 13.97 mg
+Magnesium: 229 mg
+Zinc: 7.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.23 mg
+Vitamin B12: 0 µg

@@ -1,0 +1,37 @@
+Food: Pumpkin leaves, cooked, boiled, drained, without salt
+Food ID: 168447
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 2.72 g
+Carbohydrates: 3.39 g
+Fat: 0.22 g
+Fiber: 2.7 g
+Sugar: 0.69 g
+
+Fats:
+Saturated fat: 0.114 g
+Monounsaturated fat: 0.029 g
+Polyunsaturated fat: 0.012 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 438 mg
+Calcium: 43 mg
+Iron: 3.2 mg
+Magnesium: 38 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 80 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 108 µg
+Vitamin B6: 0.196 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

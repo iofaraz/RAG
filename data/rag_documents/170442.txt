@@ -1,0 +1,33 @@
+Food: Potatoes, au gratin, home-prepared from recipe using butter
+Food ID: 170442
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 5.06 g
+Carbohydrates: 11.26 g
+Fat: 7.59 g
+Fiber: 1.8 g
+
+Fats:
+Saturated fat: 4.733 g
+Monounsaturated fat: 2.149 g
+Polyunsaturated fat: 0.276 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 433 mg
+Potassium: 396 mg
+Calcium: 119 mg
+Iron: 0.64 mg
+Magnesium: 20 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 9.9 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.174 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

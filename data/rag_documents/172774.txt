@@ -1,0 +1,36 @@
+Food: Pancakes, buckwheat, dry mix, incomplete
+Food ID: 172774
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 10.9 g
+Carbohydrates: 71.3 g
+Fat: 2.7 g
+Fiber: 8.5 g
+Sugar: 7.21 g
+
+Fats:
+Saturated fat: 0.439 g
+Monounsaturated fat: 0.581 g
+Polyunsaturated fat: 1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 684 mg
+Potassium: 316 mg
+Calcium: 476 mg
+Iron: 4.73 mg
+Magnesium: 190 mg
+Zinc: 2.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.48 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.438 mg
+Vitamin B12: 0 µg
+Folate: 53 µg

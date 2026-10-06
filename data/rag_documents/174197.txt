@@ -1,0 +1,37 @@
+Food: Fish, flatfish (flounder and sole species), cooked, dry heat
+Food ID: 174197
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 15.24 g
+Carbohydrates: 0 g
+Fat: 2.37 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.542 g
+Monounsaturated fat: 0.657 g
+Polyunsaturated fat: 0.459 g
+Trans fat: 0.014 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 363 mg
+Potassium: 197 mg
+Calcium: 25 mg
+Iron: 0.23 mg
+Magnesium: 22 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 3.5 µg
+Vitamin E: 0.77 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 1.31 µg
+Folate: 6 µg

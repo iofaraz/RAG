@@ -1,0 +1,32 @@
+Food: Fish, whitefish, mixed species, cooked, dry heat
+Food ID: 174246
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 24.47 g
+Carbohydrates: 0 g
+Fat: 7.51 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.162 g
+Monounsaturated fat: 2.559 g
+Polyunsaturated fat: 2.755 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 406 mg
+Calcium: 33 mg
+Iron: 0.47 mg
+Magnesium: 42 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.346 mg
+Vitamin B12: 0.96 µg
+Folate: 17 µg

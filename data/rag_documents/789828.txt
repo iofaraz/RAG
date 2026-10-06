@@ -1,0 +1,18 @@
+Food: Butter, stick, unsalted
+Food ID: 789828
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fat: 81.5 g
+
+Fats:
+Cholesterol: 234 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 19 mg
+Calcium: 14 mg
+Iron: 0.03 mg
+Magnesium: 1.6 mg
+Zinc: 0.07 mg

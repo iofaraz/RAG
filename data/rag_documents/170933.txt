@@ -1,0 +1,34 @@
+Food: Spices, pepper, white
+Food ID: 170933
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 10.4 g
+Carbohydrates: 68.61 g
+Fat: 2.12 g
+Fiber: 26.2 g
+
+Fats:
+Saturated fat: 0.626 g
+Monounsaturated fat: 0.789 g
+Polyunsaturated fat: 0.616 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 73 mg
+Calcium: 265 mg
+Iron: 14.31 mg
+Magnesium: 90 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

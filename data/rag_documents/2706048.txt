@@ -1,0 +1,36 @@
+Food: Chicken thigh, fried, coated, skin / coating eaten, from pre-cooked
+Food ID: 2706048
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 18.23 g
+Carbohydrates: 7.15 g
+Fat: 19.01 g
+Fiber: 0.3 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 4.135 g
+Monounsaturated fat: 8.006 g
+Polyunsaturated fat: 5.321 g
+Cholesterol: 101 mg
+
+Minerals:
+Sodium: 464 mg
+Potassium: 200 mg
+Calcium: 16 mg
+Iron: 1.34 mg
+Magnesium: 19 mg
+Zinc: 1.36 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.66 mg
+Vitamin K: 10.5 µg
+Vitamin B6: 0.311 mg
+Vitamin B12: 0.34 µg
+Folate: 18 µg

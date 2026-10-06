@@ -1,0 +1,36 @@
+Food: Salad dressing, sweet and sour
+Food ID: 169875
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 15 kcal
+Protein: 0.1 g
+Carbohydrates: 3.7 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 3.7 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 208 mg
+Potassium: 33 mg
+Calcium: 4 mg
+Iron: 0.04 mg
+Magnesium: 3 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 8.1 mg
+Vitamin D: 0 µg
+Vitamin E: 2.56 mg
+Vitamin K: 39.6 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

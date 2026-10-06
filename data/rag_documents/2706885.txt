@@ -1,0 +1,36 @@
+Food: Barbecue beef sandwich, on white bun
+Food ID: 2706885
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 245 kcal
+Protein: 16.48 g
+Carbohydrates: 24.86 g
+Fat: 8.5 g
+Fiber: 0.8 g
+Sugar: 9.07 g
+
+Fats:
+Saturated fat: 3.039 g
+Monounsaturated fat: 3.533 g
+Polyunsaturated fat: 0.881 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 562 mg
+Potassium: 214 mg
+Calcium: 59 mg
+Iron: 2.54 mg
+Magnesium: 20 mg
+Zinc: 3.98 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.172 mg
+Vitamin B12: 1.37 µg
+Folate: 35 µg

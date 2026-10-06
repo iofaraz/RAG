@@ -1,0 +1,36 @@
+Food: Veal, chop
+Food ID: 2705909
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 29.51 g
+Carbohydrates: 0.07 g
+Fat: 4.4 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.728 g
+Monounsaturated fat: 2.061 g
+Polyunsaturated fat: 0.255 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 391 mg
+Potassium: 237 mg
+Calcium: 13 mg
+Iron: 0.78 mg
+Magnesium: 33 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.38 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.686 mg
+Vitamin B12: 2.87 µg
+Folate: 7 µg

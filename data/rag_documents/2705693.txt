@@ -1,0 +1,36 @@
+Food: Pudding, flavors other than chocolate, ready-to-eat, sugar free
+Food ID: 2705693
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 70 kcal
+Protein: 3.18 g
+Carbohydrates: 9.53 g
+Fat: 2.07 g
+Fiber: 0 g
+Sugar: 4.65 g
+
+Fats:
+Saturated fat: 1.181 g
+Monounsaturated fat: 0.438 g
+Polyunsaturated fat: 0.091 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 257 mg
+Potassium: 149 mg
+Calcium: 126 mg
+Iron: 0.02 mg
+Magnesium: 12 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.53 µg
+Folate: 1 µg

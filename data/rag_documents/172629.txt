@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, rack - fully frenched, separable lean only, cooked, fast roasted
+Food ID: 172629
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 24.39 g
+Carbohydrates: 0 g
+Fat: 8.38 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.196 g
+Monounsaturated fat: 2.399 g
+Polyunsaturated fat: 0.43 g
+Trans fat: 0.313 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 330 mg
+Calcium: 11 mg
+Iron: 1.76 mg
+Magnesium: 24 mg
+Zinc: 2.56 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.29 mg
+Vitamin B6: 0.291 mg
+Vitamin B12: 1.31 µg

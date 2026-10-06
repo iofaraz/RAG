@@ -1,0 +1,36 @@
+Food: Burrito bowl, chicken
+Food ID: 2708560
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 21.04 g
+Carbohydrates: 0.27 g
+Fat: 8.11 g
+Fiber: 0 g
+Sugar: 0.09 g
+
+Fats:
+Saturated fat: 3.286 g
+Monounsaturated fat: 2.704 g
+Polyunsaturated fat: 1.147 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 301 mg
+Potassium: 211 mg
+Calcium: 79 mg
+Iron: 0.54 mg
+Magnesium: 22 mg
+Zinc: 1.31 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.22 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.459 mg
+Vitamin B12: 0.34 µg
+Folate: 4 µg

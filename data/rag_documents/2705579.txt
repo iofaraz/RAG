@@ -1,0 +1,36 @@
+Food: Infant formula, Enfamil Nutramigen, ready-to-feed
+Food ID: 2705579
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 1.82 g
+Carbohydrates: 6.94 g
+Fat: 3.49 g
+Fiber: 0 g
+Sugar: 6.6 g
+
+Fats:
+Saturated fat: 1.462 g
+Monounsaturated fat: 1.204 g
+Polyunsaturated fat: 0.66 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 72 mg
+Calcium: 61 mg
+Iron: 1.18 mg
+Magnesium: 5 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 7.9 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.58 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.2 µg
+Folate: 10 µg

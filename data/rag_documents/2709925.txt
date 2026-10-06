@@ -1,0 +1,36 @@
+Food: Corn, canned, reduced sodium, cooked, fat added, NS as to fat type
+Food ID: 2709925
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 2.04 g
+Carbohydrates: 14.48 g
+Fat: 3.55 g
+Fiber: 1.8 g
+Sugar: 4.34 g
+
+Fats:
+Saturated fat: 0.799 g
+Monounsaturated fat: 1.125 g
+Polyunsaturated fat: 1.032 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 22 mg
+Potassium: 142 mg
+Calcium: 4 mg
+Iron: 0.38 mg
+Magnesium: 16 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.44 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

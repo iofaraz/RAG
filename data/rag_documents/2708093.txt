@@ -1,0 +1,36 @@
+Food: Cereal or granola bar (General Mills Nature Valley Sweet and Salty Granola Bar)
+Food ID: 2708093
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 487 kcal
+Protein: 9.14 g
+Carbohydrates: 61.14 g
+Fat: 22.86 g
+Fiber: 2.9 g
+Sugar: 33.14 g
+
+Fats:
+Saturated fat: 6.857 g
+Monounsaturated fat: 9.083 g
+Polyunsaturated fat: 5.141 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 390 mg
+Calcium: 57 mg
+Iron: 1.44 mg
+Magnesium: 102 mg
+Zinc: 1.77 mg
+
+Vitamins:
+Vitamin A: 142 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 6.89 mg
+Vitamin K: 11.7 µg
+Vitamin B6: 0.32 mg
+Vitamin B12: 0.25 µg
+Folate: 55 µg

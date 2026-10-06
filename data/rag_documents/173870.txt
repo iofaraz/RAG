@@ -1,0 +1,32 @@
+Food: Liver sausage, liverwurst, pork
+Food ID: 173870
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 326 kcal
+Protein: 14.1 g
+Carbohydrates: 2.2 g
+Fat: 28.5 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 10.6 g
+Monounsaturated fat: 13.34 g
+Polyunsaturated fat: 2.6 g
+Cholesterol: 158 mg
+
+Minerals:
+Sodium: 860 mg
+Potassium: 170 mg
+Calcium: 26 mg
+Iron: 6.4 mg
+Magnesium: 12 mg
+Zinc: 2.3 mg
+
+Vitamins:
+Vitamin A: 8308 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.19 mg
+Vitamin B12: 13.46 µg
+Folate: 30 µg

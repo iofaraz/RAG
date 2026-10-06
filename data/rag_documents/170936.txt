@@ -1,0 +1,31 @@
+Food: Spices, savory, ground
+Food ID: 170936
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 6.73 g
+Carbohydrates: 68.73 g
+Fat: 5.91 g
+Fiber: 45.7 g
+
+Fats:
+Saturated fat: 3.26 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 1051 mg
+Calcium: 2132 mg
+Iron: 37.88 mg
+Magnesium: 377 mg
+Zinc: 4.3 mg
+
+Vitamins:
+Vitamin A: 257 µg
+Vitamin C: 50 mg
+Vitamin D: 0 µg
+Vitamin B6: 1.81 mg
+Vitamin B12: 0 µg

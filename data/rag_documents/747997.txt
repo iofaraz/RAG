@@ -1,0 +1,10 @@
+Food: Eggs, Grade A, Large, egg white
+Food ID: 747997
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 10.7 g
+Carbohydrates: 2.36 g
+Fat: 0 g

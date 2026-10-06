@@ -1,0 +1,22 @@
+Food: Potatoes, gold, without skin, raw
+Food ID: 2346403
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.8125 g
+Carbohydrates: 15.9624 g
+Fat: 0.2638 g
+
+Minerals:
+Sodium: 2.238 mg
+Potassium: 445.8 mg
+Calcium: 5.943 mg
+Iron: 0.3728 mg
+Magnesium: 22.3 mg
+Zinc: 0.3739 mg
+
+Vitamins:
+Vitamin C: 23.3 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.145 mg

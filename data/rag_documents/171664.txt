@@ -1,0 +1,37 @@
+Food: Cereals, oats, instant, fortified, with cinnamon and spice, dry
+Food ID: 171664
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 369 kcal
+Protein: 9.53 g
+Carbohydrates: 76.08 g
+Fat: 4.84 g
+Fiber: 8 g
+Sugar: 25.33 g
+
+Fats:
+Saturated fat: 0.768 g
+Monounsaturated fat: 1.487 g
+Polyunsaturated fat: 1.696 g
+Trans fat: 0.003 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 434 mg
+Potassium: 284 mg
+Calcium: 234 mg
+Iron: 8.46 mg
+Magnesium: 92 mg
+Zinc: 2.29 mg
+
+Vitamins:
+Vitamin A: 440 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.882 mg
+Vitamin B12: 0 µg
+Folate: 191 µg

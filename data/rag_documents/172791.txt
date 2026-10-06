@@ -1,0 +1,36 @@
+Food: Phyllo dough
+Food ID: 172791
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 7.1 g
+Carbohydrates: 52.6 g
+Fat: 6 g
+Fiber: 1.9 g
+Sugar: 0.18 g
+
+Fats:
+Saturated fat: 1.47 g
+Monounsaturated fat: 3.149 g
+Polyunsaturated fat: 0.923 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 74 mg
+Calcium: 11 mg
+Iron: 3.21 mg
+Magnesium: 15 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 88 µg

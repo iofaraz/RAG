@@ -1,0 +1,36 @@
+Food: Carrots, NS as to form, cooked
+Food ID: 2709669
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 0.96 g
+Carbohydrates: 10.36 g
+Fat: 3 g
+Fiber: 3.1 g
+Sugar: 4.78 g
+
+Fats:
+Saturated fat: 0.726 g
+Monounsaturated fat: 0.953 g
+Polyunsaturated fat: 0.864 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 214 mg
+Potassium: 283 mg
+Calcium: 31 mg
+Iron: 0.15 mg
+Magnesium: 12 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 812 µg
+Vitamin C: 5.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.06 mg
+Vitamin K: 15.5 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

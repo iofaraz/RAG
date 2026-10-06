@@ -1,0 +1,34 @@
+Food: Tomatoes, sun-dried, packed in oil, drained
+Food ID: 169384
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 5.06 g
+Carbohydrates: 23.33 g
+Fat: 14.08 g
+Fiber: 5.8 g
+
+Fats:
+Saturated fat: 1.893 g
+Monounsaturated fat: 8.663 g
+Polyunsaturated fat: 2.06 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 266 mg
+Potassium: 1565 mg
+Calcium: 47 mg
+Iron: 2.68 mg
+Magnesium: 81 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 101.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.319 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

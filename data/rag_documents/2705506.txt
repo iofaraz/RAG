@@ -1,0 +1,36 @@
+Food: Milk shake, home recipe, flavors other than chocolate, light
+Food ID: 2705506
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 3.88 g
+Carbohydrates: 13.83 g
+Fat: 2.33 g
+Fiber: 0.1 g
+Sugar: 11.07 g
+
+Fats:
+Saturated fat: 1.408 g
+Monounsaturated fat: 0.591 g
+Polyunsaturated fat: 0.099 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 176 mg
+Calcium: 138 mg
+Iron: 0.07 mg
+Magnesium: 13 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.56 µg
+Folate: 3 µg

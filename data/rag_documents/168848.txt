@@ -1,0 +1,32 @@
+Food: Frozen yogurts, chocolate, soft-serve
+Food ID: 168848
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 4 g
+Carbohydrates: 24.9 g
+Fat: 6 g
+Fiber: 2.2 g
+
+Fats:
+Saturated fat: 3.63 g
+Monounsaturated fat: 1.75 g
+Polyunsaturated fat: 0.22 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 98 mg
+Potassium: 261 mg
+Calcium: 147 mg
+Iron: 1.25 mg
+Magnesium: 27 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 0.3 mg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.29 µg
+Folate: 11 µg

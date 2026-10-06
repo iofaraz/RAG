@@ -1,0 +1,31 @@
+Food: Gravy, unspecified type, dry
+Food ID: 171570
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 344 kcal
+Protein: 13 g
+Carbohydrates: 58 g
+Fat: 8 g
+
+Fats:
+Saturated fat: 2.86 g
+Monounsaturated fat: 3.15 g
+Polyunsaturated fat: 1.62 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 5730 mg
+Potassium: 262 mg
+Calcium: 150 mg
+Iron: 1 mg
+Magnesium: 45 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7 mg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.7 µg
+Folate: 31 µg

@@ -1,0 +1,31 @@
+Food: Glutino, Gluten Free Wafers, Lemon Flavored
+Food ID: 168002
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 515 kcal
+Protein: 0 g
+Carbohydrates: 74.39 g
+Fat: 24.18 g
+Fiber: 0 g
+Sugar: 42.31 g
+
+Fats:
+Saturated fat: 10.501 g
+Monounsaturated fat: 8.312 g
+Polyunsaturated fat: 2.67 g
+Trans fat: 0.043 g
+
+Minerals:
+Sodium: 111 mg
+Potassium: 36 mg
+Calcium: 9 mg
+Iron: 0.18 mg
+Magnesium: 3 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin E: 3.12 mg
+Vitamin B6: 0 mg
+Folate: 0 µg

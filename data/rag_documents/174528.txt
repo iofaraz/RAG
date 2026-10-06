@@ -1,0 +1,36 @@
+Food: Sauce, ready-to-serve, pepper, TABASCO
+Food ID: 174528
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 12 kcal
+Protein: 1.29 g
+Carbohydrates: 0.8 g
+Fat: 0.76 g
+Fiber: 0.6 g
+Sugar: 0.13 g
+
+Fats:
+Saturated fat: 0.106 g
+Monounsaturated fat: 0.061 g
+Polyunsaturated fat: 0.401 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 633 mg
+Potassium: 128 mg
+Calcium: 12 mg
+Iron: 1.16 mg
+Magnesium: 12 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.154 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

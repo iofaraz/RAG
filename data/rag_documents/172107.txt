@@ -1,0 +1,37 @@
+Food: HOT POCKETS, meatballs & mozzarella stuffed sandwich, frozen
+Food ID: 172107
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 9.32 g
+Carbohydrates: 30.68 g
+Fat: 10.23 g
+Fiber: 2.2 g
+Sugar: 7.73 g
+
+Fats:
+Saturated fat: 3.93 g
+Monounsaturated fat: 2.787 g
+Polyunsaturated fat: 2.611 g
+Trans fat: 0.156 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 378 mg
+Potassium: 204 mg
+Calcium: 181 mg
+Iron: 2.08 mg
+Magnesium: 22 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.69 mg
+Vitamin K: 10.8 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.6 µg
+Folate: 76 µg

@@ -1,0 +1,36 @@
+Food: Fruit juice drink, noncitrus, carbonated
+Food ID: 2710566
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 0.07 g
+Carbohydrates: 7.74 g
+Fat: 0.18 g
+Fiber: 0.1 g
+Sugar: 6.38 g
+
+Fats:
+Saturated fat: 0.012 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.023 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 35 mg
+Calcium: 7 mg
+Iron: 0.06 mg
+Magnesium: 4 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 20.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.012 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

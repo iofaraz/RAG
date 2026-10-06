@@ -1,0 +1,31 @@
+Food: McDONALD'S, BIG MAC (without Big Mac Sauce)
+Food ID: 172067
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 12.79 g
+Carbohydrates: 21.01 g
+Fat: 11.57 g
+Fiber: 1.7 g
+Sugar: 3.7 g
+
+Fats:
+Saturated fat: 4.162 g
+Monounsaturated fat: 3.802 g
+Polyunsaturated fat: 0.334 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 454 mg
+Potassium: 192 mg
+Calcium: 124 mg
+Iron: 2.14 mg
+Magnesium: 21 mg
+Zinc: 2.07 mg
+
+Vitamins:
+Vitamin C: 0.4 mg
+Vitamin B12: 0.94 µg
+Folate: 50 µg

@@ -1,0 +1,37 @@
+Food: Cheese, cottage, lowfat, 2% milkfat
+Food ID: 172182
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 10.45 g
+Carbohydrates: 4.76 g
+Fat: 2.27 g
+Fiber: 0 g
+Sugar: 4 g
+
+Fats:
+Saturated fat: 1.235 g
+Monounsaturated fat: 0.516 g
+Polyunsaturated fat: 0.083 g
+Trans fat: 0.067 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 308 mg
+Potassium: 125 mg
+Calcium: 111 mg
+Iron: 0.13 mg
+Magnesium: 9 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.057 mg
+Vitamin B12: 0.47 µg
+Folate: 8 µg

@@ -1,0 +1,36 @@
+Food: Kefir
+Food ID: 2705394
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 3.59 g
+Carbohydrates: 7.48 g
+Fat: 0.96 g
+Fiber: 0 g
+Sugar: 6.91 g
+
+Fats:
+Saturated fat: 0.596 g
+Monounsaturated fat: 0.286 g
+Polyunsaturated fat: 0.047 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 159 mg
+Calcium: 124 mg
+Iron: 0.04 mg
+Magnesium: 12 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 174 µg
+Vitamin C: 0.8 mg
+Vitamin D: 1 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0.3 µg
+Folate: 18 µg

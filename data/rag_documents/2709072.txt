@@ -1,0 +1,36 @@
+Food: Stuffed pepper, with meat
+Food ID: 2709072
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 198 kcal
+Protein: 9.2 g
+Carbohydrates: 4.23 g
+Fat: 15.87 g
+Fiber: 0.7 g
+Sugar: 1.59 g
+
+Fats:
+Saturated fat: 4.736 g
+Monounsaturated fat: 6.015 g
+Polyunsaturated fat: 3.421 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 288 mg
+Potassium: 190 mg
+Calcium: 94 mg
+Iron: 0.79 mg
+Magnesium: 14 mg
+Zinc: 1.96 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 48.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.87 mg
+Vitamin K: 14.7 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 0.67 µg
+Folate: 19 µg

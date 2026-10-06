@@ -1,0 +1,36 @@
+Food: Oysters, fried
+Food ID: 2706354
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 6.26 g
+Carbohydrates: 13.79 g
+Fat: 13.47 g
+Fiber: 0.5 g
+Sugar: 0.67 g
+
+Fats:
+Saturated fat: 2.023 g
+Monounsaturated fat: 5.241 g
+Polyunsaturated fat: 5.026 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 408 mg
+Potassium: 143 mg
+Calcium: 59 mg
+Iron: 4.4 mg
+Magnesium: 19 mg
+Zinc: 30.02 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.89 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 5.68 µg
+Folate: 28 µg

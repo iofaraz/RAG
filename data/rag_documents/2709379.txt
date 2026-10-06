@@ -1,0 +1,36 @@
+Food: Baby Toddler juice, fruit and yogurt blend
+Food ID: 2709379
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 1.56 g
+Carbohydrates: 12.7 g
+Fat: 1.48 g
+Fiber: 1 g
+Sugar: 8.59 g
+
+Fats:
+Saturated fat: 0.727 g
+Monounsaturated fat: 0.276 g
+Polyunsaturated fat: 0.058 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 178 mg
+Calcium: 41 mg
+Iron: 0.22 mg
+Magnesium: 13 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 21.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.39 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.11 µg
+Folate: 9 µg

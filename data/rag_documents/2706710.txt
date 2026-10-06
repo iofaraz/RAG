@@ -1,0 +1,36 @@
+Food: Chicken fricassee, Puerto Rican style
+Food ID: 2706710
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 12.13 g
+Carbohydrates: 7.17 g
+Fat: 10.65 g
+Fiber: 1.2 g
+Sugar: 1.26 g
+
+Fats:
+Saturated fat: 1.805 g
+Monounsaturated fat: 4.718 g
+Polyunsaturated fat: 3.23 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 753 mg
+Potassium: 317 mg
+Calcium: 18 mg
+Iron: 0.77 mg
+Magnesium: 20 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 16.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.97 mg
+Vitamin K: 9.2 µg
+Vitamin B6: 0.235 mg
+Vitamin B12: 0.17 µg
+Folate: 13 µg

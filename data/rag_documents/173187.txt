@@ -1,0 +1,37 @@
+Food: Beverages, chocolate almond milk, unsweetened, shelf-stable, fortified with vitamin D2 and E
+Food ID: 173187
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 0.83 g
+Carbohydrates: 1.25 g
+Fat: 1.46 g
+Fiber: 0.4 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.729 g
+Polyunsaturated fat: 0.243 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 96 mg
+Calcium: 188 mg
+Iron: 0.45 mg
+Magnesium: 10 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 4.19 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.015 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

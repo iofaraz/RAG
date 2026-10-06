@@ -1,0 +1,34 @@
+Food: Lotus root, raw
+Food ID: 169250
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 2.6 g
+Carbohydrates: 17.23 g
+Fat: 0.1 g
+Fiber: 4.9 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.02 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 40 mg
+Potassium: 556 mg
+Calcium: 45 mg
+Iron: 1.16 mg
+Magnesium: 23 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 44 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.258 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

@@ -1,0 +1,36 @@
+Food: Cress, raw
+Food ID: 2709586
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 2.6 g
+Carbohydrates: 5.5 g
+Fat: 0.7 g
+Fiber: 1.1 g
+Sugar: 4.4 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.239 g
+Polyunsaturated fat: 0.228 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 606 mg
+Calcium: 81 mg
+Iron: 1.3 mg
+Magnesium: 38 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 346 µg
+Vitamin C: 69 mg
+Vitamin D: 0 µg
+Vitamin E: 0.7 mg
+Vitamin K: 541.9 µg
+Vitamin B6: 0.247 mg
+Vitamin B12: 0 µg
+Folate: 80 µg

@@ -1,0 +1,36 @@
+Food: Fish, shark
+Food ID: 2706300
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 23.27 g
+Carbohydrates: 7.79 g
+Fat: 9.58 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 2.222 g
+Monounsaturated fat: 3.565 g
+Polyunsaturated fat: 2.641 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 346 mg
+Potassium: 184 mg
+Calcium: 46 mg
+Iron: 1.47 mg
+Magnesium: 55 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.74 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.415 mg
+Vitamin B12: 1.42 µg
+Folate: 19 µg

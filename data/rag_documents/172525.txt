@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, brain, raw
+Food ID: 172525
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 10.4 g
+Carbohydrates: 0 g
+Fat: 8.58 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.19 g
+Monounsaturated fat: 1.55 g
+Polyunsaturated fat: 0.88 g
+Cholesterol: 1352 mg
+
+Minerals:
+Sodium: 112 mg
+Potassium: 296 mg
+Calcium: 9 mg
+Iron: 1.75 mg
+Magnesium: 12 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 16 mg
+Vitamin B6: 0.29 mg
+Vitamin B12: 11.3 µg
+Folate: 3 µg

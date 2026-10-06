@@ -1,0 +1,33 @@
+Food: DENNY'S, hash browns
+Food ID: 169025
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 197 kcal
+Protein: 2.49 g
+Carbohydrates: 26.59 g
+Fat: 8.99 g
+Fiber: 2.7 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 1.689 g
+Monounsaturated fat: 2.035 g
+Polyunsaturated fat: 5.029 g
+Trans fat: 0.048 g
+
+Minerals:
+Sodium: 468 mg
+Potassium: 416 mg
+Calcium: 17 mg
+Iron: 0.56 mg
+Magnesium: 26 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.55 mg
+Vitamin K: 32.6 µg
+Vitamin B6: 0.203 mg
+Folate: 23 µg

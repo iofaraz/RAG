@@ -1,0 +1,36 @@
+Food: Fish broth
+Food ID: 171606
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 2 g
+Carbohydrates: 0.4 g
+Fat: 0.6 g
+Fiber: 0 g
+Sugar: 0.09 g
+
+Fats:
+Saturated fat: 0.133 g
+Monounsaturated fat: 0.108 g
+Polyunsaturated fat: 0.245 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 86 mg
+Calcium: 30 mg
+Iron: 0.21 mg
+Magnesium: 1 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.1 µg
+Folate: 4 µg

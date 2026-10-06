@@ -1,0 +1,36 @@
+Food: Soup, beef stroganoff, canned, chunky style, ready-to-serve
+Food ID: 171612
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 98 kcal
+Protein: 5.1 g
+Carbohydrates: 9 g
+Fat: 4.6 g
+Fiber: 0.6 g
+Sugar: 1.68 g
+
+Fats:
+Saturated fat: 2.324 g
+Monounsaturated fat: 1.556 g
+Polyunsaturated fat: 0.246 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 435 mg
+Potassium: 140 mg
+Calcium: 20 mg
+Iron: 0.88 mg
+Magnesium: 2 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 102.8 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.26 µg
+Folate: 67 µg

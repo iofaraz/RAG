@@ -1,0 +1,20 @@
+Food: Celery, raw
+Food ID: 2346405
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.492188 g
+Carbohydrates: 3.31651 g
+Fat: 0.1625 g
+
+Minerals:
+Sodium: 97.21 mg
+Potassium: 265.2 mg
+Calcium: 46.28 mg
+Iron: 0 mg
+Magnesium: 10.93 mg
+Zinc: 0.0929 mg
+
+Vitamins:
+Vitamin B6: 0.05175 mg

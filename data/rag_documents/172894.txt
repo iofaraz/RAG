@@ -1,0 +1,32 @@
+Food: Soup, cheese, canned, prepared with equal volume milk
+Food ID: 172894
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 3.77 g
+Carbohydrates: 6.47 g
+Fat: 5.8 g
+Fiber: 0.4 g
+
+Fats:
+Saturated fat: 3.63 g
+Monounsaturated fat: 1.63 g
+Polyunsaturated fat: 0.18 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 406 mg
+Potassium: 136 mg
+Calcium: 115 mg
+Iron: 0.32 mg
+Magnesium: 8 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 143 µg
+Vitamin C: 0.5 mg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.17 µg
+Folate: 4 µg

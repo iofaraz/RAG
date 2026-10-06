@@ -1,0 +1,36 @@
+Food: Rice, white, with peas, fat added
+Food ID: 2709001
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 3.22 g
+Carbohydrates: 24.03 g
+Fat: 2.42 g
+Fiber: 1.4 g
+Sugar: 1.11 g
+
+Fats:
+Saturated fat: 0.356 g
+Monounsaturated fat: 0.983 g
+Polyunsaturated fat: 0.914 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 197 mg
+Potassium: 52 mg
+Calcium: 13 mg
+Iron: 1.25 mg
+Magnesium: 14 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.45 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0 µg
+Folate: 57 µg

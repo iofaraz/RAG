@@ -1,0 +1,31 @@
+Food: Cake, pudding-type, carrot, dry mix
+Food ID: 174932
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 415 kcal
+Protein: 5.1 g
+Carbohydrates: 79.2 g
+Fat: 9.8 g
+
+Fats:
+Saturated fat: 1.472 g
+Monounsaturated fat: 4.036 g
+Polyunsaturated fat: 3.702 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 567 mg
+Potassium: 169 mg
+Calcium: 172 mg
+Iron: 1.8 mg
+Magnesium: 8 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 97 µg
+Vitamin C: 1.2 mg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.04 µg
+Folate: 67 µg

@@ -1,0 +1,36 @@
+Food: Wonton, dumpling or pot sticker, steamed
+Food ID: 2708708
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 6.9 g
+Carbohydrates: 11.07 g
+Fat: 4.6 g
+Fiber: 1.2 g
+Sugar: 2.3 g
+
+Fats:
+Saturated fat: 1.437 g
+Monounsaturated fat: 2.099 g
+Polyunsaturated fat: 0.652 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 368 mg
+Potassium: 237 mg
+Calcium: 23 mg
+Iron: 0.62 mg
+Magnesium: 18 mg
+Zinc: 1.39 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 6.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.21 mg
+Vitamin K: 45.8 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0.22 µg
+Folate: 15 µg

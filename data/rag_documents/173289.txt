@@ -1,0 +1,33 @@
+Food: LITTLE CAESARS 14" Cheese Pizza, Thin Crust
+Food ID: 173289
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 16.23 g
+Carbohydrates: 22.85 g
+Fat: 16.99 g
+Fiber: 1.6 g
+Sugar: 2.76 g
+
+Fats:
+Saturated fat: 7.327 g
+Monounsaturated fat: 4.42 g
+Polyunsaturated fat: 3.161 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 455 mg
+Potassium: 177 mg
+Calcium: 422 mg
+Iron: 0.64 mg
+Magnesium: 28 mg
+Zinc: 2.12 mg
+
+Vitamins:
+Vitamin A: 123 µg
+Vitamin C: 0 mg
+Vitamin E: 1.21 mg
+Vitamin K: 9.6 µg
+Vitamin B12: 0.71 µg

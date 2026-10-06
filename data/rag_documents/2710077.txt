@@ -1,0 +1,36 @@
+Food: Kimchi
+Food ID: 2710077
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 15 kcal
+Protein: 1.1 g
+Carbohydrates: 2.4 g
+Fat: 0.5 g
+Fiber: 1.6 g
+Sugar: 1.06 g
+
+Fats:
+Saturated fat: 0.067 g
+Monounsaturated fat: 0.037 g
+Polyunsaturated fat: 0.241 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 498 mg
+Potassium: 151 mg
+Calcium: 33 mg
+Iron: 2.5 mg
+Magnesium: 14 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 43.6 µg
+Vitamin B6: 0.213 mg
+Vitamin B12: 0 µg
+Folate: 52 µg

@@ -1,0 +1,36 @@
+Food: Egg Salad, made with any type of fat free dressing
+Food ID: 2707190
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 9.8 g
+Carbohydrates: 4.29 g
+Fat: 8.82 g
+Fiber: 0.4 g
+Sugar: 3.14 g
+
+Fats:
+Saturated fat: 2.666 g
+Monounsaturated fat: 3.578 g
+Polyunsaturated fat: 1.111 g
+Cholesterol: 291 mg
+
+Minerals:
+Sodium: 420 mg
+Potassium: 109 mg
+Calcium: 40 mg
+Iron: 0.95 mg
+Magnesium: 8 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 116 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 0.81 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.094 mg
+Vitamin B12: 0.86 µg
+Folate: 34 µg

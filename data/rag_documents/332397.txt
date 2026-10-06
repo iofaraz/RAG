@@ -1,0 +1,24 @@
+Food: Ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+Food ID: 332397
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 16.7 g
+Carbohydrates: 0.27 g
+Fat: 3.73 g
+
+Fats:
+Saturated fat: 1.12 g
+Monounsaturated fat: 1.47 g
+Polyunsaturated fat: 0.544 g
+Trans fat: 0.01 g
+
+Minerals:
+Sodium: 1040 mg
+Potassium: 425 mg
+Calcium: 5 mg
+Iron: 0.58 mg
+Magnesium: 18.8 mg
+Zinc: 1.52 mg

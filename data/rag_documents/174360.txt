@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, lungs, cooked, braised
+Food ID: 174360
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 19.88 g
+Carbohydrates: 0 g
+Fat: 3.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.06 g
+Monounsaturated fat: 0.8 g
+Polyunsaturated fat: 0.43 g
+Cholesterol: 284 mg
+
+Minerals:
+Sodium: 84 mg
+Potassium: 127 mg
+Calcium: 12 mg
+Iron: 4.57 mg
+Magnesium: 11 mg
+Zinc: 1.93 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 28 mg
+Vitamin B6: 0.06 mg
+Vitamin B12: 2.52 µg
+Folate: 8 µg

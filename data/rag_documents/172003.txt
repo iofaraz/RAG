@@ -1,0 +1,32 @@
+Food: Fish, sunfish, pumpkin seed, cooked, dry heat
+Food ID: 172003
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 24.87 g
+Carbohydrates: 0 g
+Fat: 0.9 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.178 g
+Monounsaturated fat: 0.15 g
+Polyunsaturated fat: 0.315 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 103 mg
+Potassium: 449 mg
+Calcium: 103 mg
+Iron: 1.54 mg
+Magnesium: 38 mg
+Zinc: 1.99 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 1 mg
+Vitamin B6: 0.138 mg
+Vitamin B12: 2.31 µg
+Folate: 17 µg

@@ -1,0 +1,22 @@
+Food: Beverages, V8 SPLASH Juice Drinks, Diet Berry Blend
+Food ID: 174162
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 4 kcal
+Protein: 0 g
+Carbohydrates: 1.23 g
+Fat: 0 g
+Sugar: 0.41 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 14 mg
+Potassium: 33 mg
+
+Vitamins:
+Vitamin C: 24.7 mg
+Vitamin E: 1.11 mg

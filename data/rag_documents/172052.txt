@@ -1,0 +1,36 @@
+Food: PIZZA HUT 14" Pepperoni Pizza, Hand-Tossed Crust
+Food ID: 172052
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 291 kcal
+Protein: 12.23 g
+Carbohydrates: 32.11 g
+Fat: 12.63 g
+Fiber: 2.6 g
+Sugar: 2.82 g
+
+Fats:
+Saturated fat: 5.404 g
+Monounsaturated fat: 4.338 g
+Polyunsaturated fat: 2.022 g
+Trans fat: 0.259 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 759 mg
+Potassium: 207 mg
+Calcium: 166 mg
+Iron: 2.71 mg
+Magnesium: 24 mg
+Zinc: 1.49 mg
+
+Vitamins:
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin K: 8.5 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.51 µg
+Folate: 112 µg

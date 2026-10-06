@@ -1,0 +1,36 @@
+Food: Beverages, Malt liquor beverage
+Food ID: 171907
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 40 kcal
+Protein: 0.35 g
+Carbohydrates: 0 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 33 mg
+Calcium: 3 mg
+Iron: 0.03 mg
+Magnesium: 5 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

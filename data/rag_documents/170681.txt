@@ -1,0 +1,36 @@
+Food: Syrup, NESTLE, chocolate
+Food ID: 170681
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 0 g
+Carbohydrates: 67.21 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 60 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 150 mg
+Potassium: 122 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 40 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

@@ -1,0 +1,33 @@
+Food: Macaroni and cheese, box mix with cheese sauce, prepared
+Food ID: 169770
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 164 kcal
+Protein: 6.68 g
+Carbohydrates: 23.1 g
+Fat: 4.99 g
+Fiber: 1.2 g
+Sugar: 1.57 g
+
+Fats:
+Saturated fat: 1.636 g
+Monounsaturated fat: 2.216 g
+Polyunsaturated fat: 1.044 g
+Trans fat: 0.092 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 460 mg
+Potassium: 80 mg
+Calcium: 85 mg
+Iron: 1.17 mg
+Magnesium: 15 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin E: 0.54 mg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0.27 µg

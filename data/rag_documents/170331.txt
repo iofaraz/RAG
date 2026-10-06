@@ -1,0 +1,33 @@
+Food: BURGER KING, Original Chicken Sandwich
+Food ID: 170331
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 286 kcal
+Protein: 12.14 g
+Carbohydrates: 26.22 g
+Fat: 14.69 g
+Fiber: 2.4 g
+Sugar: 3.02 g
+
+Fats:
+Saturated fat: 2.723 g
+Monounsaturated fat: 3.704 g
+Polyunsaturated fat: 7.22 g
+Trans fat: 0.082 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 638 mg
+Potassium: 196 mg
+Calcium: 46 mg
+Iron: 1.79 mg
+Magnesium: 23 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin K: 23.7 µg
+Vitamin B6: 0.154 mg
+Folate: 33 µg

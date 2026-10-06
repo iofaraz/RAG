@@ -1,0 +1,32 @@
+Food: Fish, salmon, chum, canned, without salt, drained solids with bone
+Food ID: 174224
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 21.43 g
+Carbohydrates: 0 g
+Fat: 5.5 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.486 g
+Monounsaturated fat: 1.919 g
+Polyunsaturated fat: 1.517 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 300 mg
+Calcium: 249 mg
+Iron: 0.7 mg
+Magnesium: 30 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.38 mg
+Vitamin B12: 4.4 µg
+Folate: 20 µg

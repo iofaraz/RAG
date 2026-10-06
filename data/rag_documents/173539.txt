@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, PREGESTIMIL, with iron, with ARA and DHA, prepared from powder
+Food ID: 173539
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 1.86 g
+Carbohydrates: 6.54 g
+Fat: 3.7 g
+Fiber: 0 g
+Sugar: 0.53 g
+
+Fats:
+Saturated fat: 2.2 g
+Monounsaturated fat: 0.52 g
+Polyunsaturated fat: 0.81 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 73 mg
+Calcium: 62 mg
+Iron: 1.19 mg
+Magnesium: 5 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 8 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1.19 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.2 µg
+Folate: 11 µg

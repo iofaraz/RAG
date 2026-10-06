@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, QUAKER, QUAKER OAT LIFE, plain
+Food ID: 173891
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 9.98 g
+Carbohydrates: 77.74 g
+Fat: 4.43 g
+Fiber: 6.6 g
+Sugar: 19.43 g
+
+Fats:
+Saturated fat: 0.83 g
+Monounsaturated fat: 1.48 g
+Polyunsaturated fat: 1.42 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 501 mg
+Potassium: 283 mg
+Calcium: 351 mg
+Iron: 29.33 mg
+Magnesium: 98 mg
+Zinc: 13.78 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.61 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 1.8 mg
+Vitamin B12: 0 µg
+Folate: 1305 µg

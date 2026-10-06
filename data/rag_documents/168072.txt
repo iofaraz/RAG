@@ -1,0 +1,37 @@
+Food: Restaurant, Chinese, beef and vegetables
+Food ID: 168072
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 7.08 g
+Carbohydrates: 7.29 g
+Fat: 5.3 g
+Fiber: 1.5 g
+Sugar: 2.41 g
+
+Fats:
+Saturated fat: 0.978 g
+Monounsaturated fat: 1.217 g
+Polyunsaturated fat: 2.13 g
+Trans fat: 0.058 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 409 mg
+Potassium: 204 mg
+Calcium: 22 mg
+Iron: 1.11 mg
+Magnesium: 15 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 11.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.82 mg
+Vitamin K: 51.3 µg
+Vitamin B6: 0.161 mg
+Vitamin B12: 0.48 µg
+Folate: 45 µg

@@ -1,0 +1,31 @@
+Food: Rice and vermicelli mix, chicken flavor, prepared with 80% margarine
+Food ID: 173348
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 2.65 g
+Carbohydrates: 23.54 g
+Fat: 3.45 g
+Fiber: 0.7 g
+Sugar: 0.64 g
+
+Fats:
+Saturated fat: 0.746 g
+Monounsaturated fat: 1.421 g
+Polyunsaturated fat: 1.161 g
+Trans fat: 0.485 g
+
+Minerals:
+Sodium: 377 mg
+Potassium: 58 mg
+Calcium: 7 mg
+Iron: 0.95 mg
+Magnesium: 10 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin E: 0.27 mg
+Vitamin B6: 0.05 mg

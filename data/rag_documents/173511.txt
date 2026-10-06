@@ -1,0 +1,36 @@
+Food: Babyfood, apples, dices, toddler
+Food ID: 173511
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 0.19 g
+Carbohydrates: 11.56 g
+Fat: 0.36 g
+Fiber: 1.9 g
+Sugar: 10.48 g
+
+Fats:
+Saturated fat: 0.02 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.03 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 86 mg
+Calcium: 4 mg
+Iron: 0.08 mg
+Magnesium: 4 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 64.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

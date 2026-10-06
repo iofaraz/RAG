@@ -1,0 +1,37 @@
+Food: Squash, winter, spaghetti, cooked, boiled, drained, or baked, with salt
+Food ID: 170539
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.66 g
+Carbohydrates: 6.46 g
+Fat: 0.26 g
+Fiber: 1.4 g
+Sugar: 2.53 g
+
+Fats:
+Saturated fat: 0.062 g
+Monounsaturated fat: 0.022 g
+Polyunsaturated fat: 0.126 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 254 mg
+Potassium: 117 mg
+Calcium: 21 mg
+Iron: 0.34 mg
+Magnesium: 11 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

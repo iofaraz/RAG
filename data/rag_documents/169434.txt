@@ -1,0 +1,35 @@
+Food: Beef, flank, steak, separable lean and fat, trimmed to 0" fat, choice, cooked, braised
+Food ID: 169434
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 263 kcal
+Protein: 26.98 g
+Carbohydrates: 0 g
+Fat: 16.44 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.92 g
+Monounsaturated fat: 6.94 g
+Polyunsaturated fat: 0.53 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 337 mg
+Calcium: 6 mg
+Iron: 3.33 mg
+Magnesium: 23 mg
+Zinc: 5.77 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.69 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.35 mg
+Vitamin B12: 3.3 µg
+Folate: 9 µg

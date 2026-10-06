@@ -1,0 +1,37 @@
+Food: Snacks, granola bites, mixed flavors
+Food ID: 173146
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 451 kcal
+Protein: 7.17 g
+Carbohydrates: 66.27 g
+Fat: 17.5 g
+Fiber: 5.7 g
+Sugar: 30 g
+
+Fats:
+Saturated fat: 9.888 g
+Monounsaturated fat: 3.194 g
+Polyunsaturated fat: 2.546 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 285 mg
+Calcium: 41 mg
+Iron: 1.56 mg
+Magnesium: 69 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.51 mg
+Vitamin K: 9.1 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 0.07 µg
+Folate: 33 µg

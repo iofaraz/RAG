@@ -1,0 +1,36 @@
+Food: Cereal, other, NFS
+Food ID: 2708481
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 6.88 g
+Carbohydrates: 78.46 g
+Fat: 4.44 g
+Fiber: 4.8 g
+Sugar: 25.35 g
+
+Fats:
+Saturated fat: 0.64 g
+Monounsaturated fat: 1.836 g
+Polyunsaturated fat: 1.366 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 530 mg
+Potassium: 154 mg
+Calcium: 116 mg
+Iron: 16.06 mg
+Magnesium: 50 mg
+Zinc: 1.31 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 14.3 mg
+Vitamin D: 5 µg
+Vitamin E: 0.48 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.959 mg
+Vitamin B12: 1.23 µg
+Folate: 265 µg

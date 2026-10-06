@@ -1,0 +1,15 @@
+Food: Tortilla, wheat flour, shelf stable
+Food ID: 2758996
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Minerals:
+Sodium: 730.5 mg
+Potassium: 135.6 mg
+Calcium: 137.7 mg
+Iron: 3.429 mg
+Magnesium: 19.85 mg
+Zinc: 0.4969 mg
+
+Vitamins:
+Folate: 127.9 µg

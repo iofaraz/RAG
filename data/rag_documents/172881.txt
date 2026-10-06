@@ -1,0 +1,32 @@
+Food: Soup, tomato bisque, canned, condensed
+Food ID: 172881
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 96 kcal
+Protein: 1.76 g
+Carbohydrates: 18.47 g
+Fat: 1.95 g
+Fiber: 0.8 g
+
+Fats:
+Saturated fat: 0.42 g
+Monounsaturated fat: 0.53 g
+Polyunsaturated fat: 0.87 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 698 mg
+Potassium: 325 mg
+Calcium: 31 mg
+Iron: 0.64 mg
+Magnesium: 7 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 4.6 mg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

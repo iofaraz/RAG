@@ -1,0 +1,36 @@
+Food: Fish, salmon cake or patty
+Food ID: 2706552
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 285 kcal
+Protein: 16.07 g
+Carbohydrates: 4.46 g
+Fat: 22.1 g
+Fiber: 0.3 g
+Sugar: 0.65 g
+
+Fats:
+Saturated fat: 4.046 g
+Monounsaturated fat: 6.598 g
+Polyunsaturated fat: 9.148 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 404 mg
+Potassium: 282 mg
+Calcium: 23 mg
+Iron: 0.71 mg
+Magnesium: 22 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 1.9 mg
+Vitamin D: 7.7 µg
+Vitamin E: 3.37 mg
+Vitamin K: 23 µg
+Vitamin B6: 0.406 mg
+Vitamin B12: 2.24 µg
+Folate: 27 µg

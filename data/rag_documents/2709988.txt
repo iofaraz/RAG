@@ -1,0 +1,36 @@
+Food: Seaweed, dried
+Food ID: 2709988
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 298 kcal
+Protein: 31.84 g
+Carbohydrates: 52.39 g
+Fat: 4.01 g
+Fiber: 5.6 g
+Sugar: 3.04 g
+
+Fats:
+Saturated fat: 1.356 g
+Monounsaturated fat: 0.351 g
+Polyunsaturated fat: 1.091 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 575 mg
+Potassium: 1244 mg
+Calcium: 372 mg
+Iron: 24.95 mg
+Magnesium: 482 mg
+Zinc: 3.9 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 5 mg
+Vitamin D: 0 µg
+Vitamin E: 5 mg
+Vitamin K: 25 µg
+Vitamin B6: 0.334 mg
+Vitamin B12: 0 µg
+Folate: 337 µg

@@ -1,0 +1,32 @@
+Food: CRACKER BARREL, farm raised catfish platter
+Food ID: 168075
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 22.94 g
+Carbohydrates: 5.31 g
+Fat: 17.05 g
+Fiber: 1.6 g
+
+Fats:
+Saturated fat: 3.249 g
+Monounsaturated fat: 4.577 g
+Polyunsaturated fat: 7.612 g
+Trans fat: 0.193 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 434 mg
+Calcium: 43 mg
+Iron: 0.71 mg
+Magnesium: 34 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin K: 24.7 µg
+Vitamin B6: 0.182 mg
+Vitamin B12: 3.1 µg

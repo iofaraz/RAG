@@ -1,0 +1,36 @@
+Food: Ham or pork with gravy
+Food ID: 2706398
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 20.15 g
+Carbohydrates: 1.58 g
+Fat: 7.49 g
+Fiber: 0 g
+Sugar: 0.09 g
+
+Fats:
+Saturated fat: 2.636 g
+Monounsaturated fat: 3.316 g
+Polyunsaturated fat: 0.651 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 349 mg
+Potassium: 309 mg
+Calcium: 16 mg
+Iron: 0.79 mg
+Magnesium: 20 mg
+Zinc: 1.79 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.392 mg
+Vitamin B12: 0.51 µg
+Folate: 1 µg

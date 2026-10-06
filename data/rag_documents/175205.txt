@@ -1,0 +1,37 @@
+Food: Broadbeans (fava beans), mature seeds, raw
+Food ID: 175205
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 26.12 g
+Carbohydrates: 58.29 g
+Fat: 1.53 g
+Fiber: 25 g
+Sugar: 5.7 g
+
+Fats:
+Saturated fat: 0.254 g
+Monounsaturated fat: 0.303 g
+Polyunsaturated fat: 0.627 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 1062 mg
+Calcium: 103 mg
+Iron: 6.7 mg
+Magnesium: 192 mg
+Zinc: 3.14 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 9 µg
+Vitamin B6: 0.366 mg
+Vitamin B12: 0 µg
+Folate: 423 µg

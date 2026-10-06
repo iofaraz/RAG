@@ -1,0 +1,29 @@
+Food: Moose, liver, braised (Alaska Native)
+Food ID: 167609
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 24.38 g
+Carbohydrates: 3.43 g
+Fat: 4.89 g
+
+Fats:
+Monounsaturated fat: 0.65 g
+Polyunsaturated fat: 1.07 g
+Cholesterol: 389 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 235 mg
+Calcium: 7 mg
+Iron: 6.77 mg
+Magnesium: 20 mg
+Zinc: 6.07 mg
+
+Vitamins:
+Vitamin C: 22.6 mg
+Vitamin B6: 0.91 mg
+Vitamin B12: 71 µg
+Folate: 217 µg

@@ -1,0 +1,36 @@
+Food: Toddler formula, MEAD JOHNSON, ENFAGROW PREMIUM (formerly ENFAMIL, LIPIL, NEXT STEP), ready-to-feed
+Food ID: 170993
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 1.78 g
+Carbohydrates: 7.18 g
+Fat: 3.63 g
+Fiber: 0 g
+Sugar: 7.18 g
+
+Fats:
+Saturated fat: 1.55 g
+Monounsaturated fat: 1.38 g
+Polyunsaturated fat: 0.73 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 89 mg
+Calcium: 133 mg
+Iron: 1.37 mg
+Magnesium: 5 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 8.2 mg
+Vitamin D: 1 µg
+Vitamin E: 0.87 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.21 µg
+Folate: 11 µg

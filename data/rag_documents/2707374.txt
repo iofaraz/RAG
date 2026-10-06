@@ -1,0 +1,36 @@
+Food: Pinto beans, from canned, fat added
+Food ID: 2707374
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 188 kcal
+Protein: 7.37 g
+Carbohydrates: 24.33 g
+Fat: 7.13 g
+Fiber: 7.4 g
+Sugar: 1.64 g
+
+Fats:
+Saturated fat: 1.019 g
+Monounsaturated fat: 2.824 g
+Polyunsaturated fat: 2.719 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 303 mg
+Potassium: 442 mg
+Calcium: 75 mg
+Iron: 2.37 mg
+Magnesium: 53 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 2.06 mg
+Vitamin K: 9.6 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 0 µg
+Folate: 37 µg

@@ -1,0 +1,33 @@
+Food: Hummus, commercial
+Food ID: 321358
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 229 kcal
+Protein: 7.35 g
+Carbohydrates: 14.9 g
+Fat: 17.1 g
+Fiber: 5.4 g
+
+Fats:
+Saturated fat: 2.22 g
+Monounsaturated fat: 6.37 g
+Polyunsaturated fat: 7.48 g
+Trans fat: 0.018 g
+
+Minerals:
+Sodium: 438 mg
+Potassium: 289 mg
+Calcium: 41 mg
+Iron: 2.41 mg
+Magnesium: 71.1 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin E: 1.74 mg
+Vitamin K: 17.2 µg
+Vitamin B6: 0.143 mg
+Folate: 36 µg

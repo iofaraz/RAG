@@ -1,0 +1,23 @@
+Food: Flour, rice, white, unenriched
+Food ID: 790214
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 359 kcal
+Protein: 6.94 g
+Carbohydrates: 79.8 g
+Fat: 1.3 g
+Fiber: 0.5 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 75 mg
+Calcium: 6 mg
+Iron: 0.22 mg
+Magnesium: 22.9 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin B6: 0.052 mg
+Folate: 16 µg

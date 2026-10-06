@@ -1,0 +1,36 @@
+Food: Tuna salad, made with mayonnaise
+Food ID: 2706828
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 194 kcal
+Protein: 10.07 g
+Carbohydrates: 2.89 g
+Fat: 15.84 g
+Fiber: 0.4 g
+Sugar: 2.07 g
+
+Fats:
+Saturated fat: 2.52 g
+Monounsaturated fat: 3.52 g
+Polyunsaturated fat: 9.293 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 418 mg
+Potassium: 155 mg
+Calcium: 21 mg
+Iron: 0.95 mg
+Magnesium: 15 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.93 mg
+Vitamin K: 44.7 µg
+Vitamin B6: 0.178 mg
+Vitamin B12: 1.34 µg
+Folate: 11 µg

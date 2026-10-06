@@ -1,0 +1,32 @@
+Food: Seeds, lotus seeds, raw
+Food ID: 168591
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 4.13 g
+Carbohydrates: 17.28 g
+Fat: 0.53 g
+
+Fats:
+Saturated fat: 0.088 g
+Monounsaturated fat: 0.104 g
+Polyunsaturated fat: 0.312 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 367 mg
+Calcium: 44 mg
+Iron: 0.95 mg
+Magnesium: 56 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

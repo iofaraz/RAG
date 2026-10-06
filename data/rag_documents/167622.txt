@@ -1,0 +1,24 @@
+Food: Deer (venison), sitka, raw (Alaska Native)
+Food ID: 167622
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 21.5 g
+Carbohydrates: 0 g
+Fat: 2.66 g
+
+Fats:
+Saturated fat: 0.63 g
+Monounsaturated fat: 0.34 g
+Polyunsaturated fat: 0.35 g
+Cholesterol: 18 mg
+
+Minerals:
+Calcium: 7 mg
+Iron: 2.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

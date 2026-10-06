@@ -1,0 +1,29 @@
+Food: Fish, shad, american, cooked, dry heat
+Food ID: 174243
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 21.71 g
+Carbohydrates: 0 g
+Fat: 17.65 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 96 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 492 mg
+Calcium: 60 mg
+Iron: 1.24 mg
+Magnesium: 38 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.462 mg
+Vitamin B12: 0.14 µg
+Folate: 17 µg

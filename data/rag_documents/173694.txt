@@ -1,0 +1,32 @@
+Food: Fish, sea bass, mixed species, cooked, dry heat
+Food ID: 173694
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 23.63 g
+Carbohydrates: 0 g
+Fat: 2.56 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.655 g
+Monounsaturated fat: 0.544 g
+Polyunsaturated fat: 0.953 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 87 mg
+Potassium: 328 mg
+Calcium: 13 mg
+Iron: 0.37 mg
+Magnesium: 53 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.46 mg
+Vitamin B12: 0.3 µg
+Folate: 6 µg

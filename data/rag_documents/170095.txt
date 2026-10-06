@@ -1,0 +1,33 @@
+Food: Radish seeds, sprouted, raw
+Food ID: 170095
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 3.81 g
+Carbohydrates: 3.6 g
+Fat: 2.53 g
+
+Fats:
+Saturated fat: 0.767 g
+Monounsaturated fat: 0.419 g
+Polyunsaturated fat: 1.141 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 86 mg
+Calcium: 51 mg
+Iron: 0.86 mg
+Magnesium: 44 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 28.9 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.285 mg
+Vitamin B12: 0 µg
+Folate: 95 µg

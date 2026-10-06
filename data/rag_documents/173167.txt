@@ -1,0 +1,37 @@
+Food: Beverages, ABBOTT, EAS whey protein powder
+Food ID: 173167
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 385 kcal
+Protein: 66.67 g
+Carbohydrates: 17.95 g
+Fat: 5.13 g
+Fiber: 0 g
+Sugar: 5.13 g
+
+Fats:
+Saturated fat: 2.564 g
+Monounsaturated fat: 0.281 g
+Polyunsaturated fat: 0.926 g
+Trans fat: 0 g
+Cholesterol: 205 mg
+
+Minerals:
+Sodium: 385 mg
+Potassium: 564 mg
+Calcium: 256 mg
+Iron: 0.92 mg
+Magnesium: 181 mg
+Zinc: 7.14 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 1 mg
+Vitamin B12: 2.27 µg
+Folate: 200 µg

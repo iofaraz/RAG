@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, COCO-ROOS
+Food ID: 174619
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 389 kcal
+Protein: 3.41 g
+Carbohydrates: 86.75 g
+Fat: 4.61 g
+Fiber: 3.3 g
+Sugar: 48.11 g
+
+Fats:
+Saturated fat: 2.57 g
+Monounsaturated fat: 0.887 g
+Polyunsaturated fat: 0.555 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 201 mg
+Calcium: 333 mg
+Iron: 30 mg
+Magnesium: 27 mg
+Zinc: 12.5 mg
+
+Vitamins:
+Vitamin A: 481 µg
+Vitamin C: 20 mg
+Vitamin D: 3.3 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.66 mg
+Vitamin B12: 5 µg
+Folate: 667 µg

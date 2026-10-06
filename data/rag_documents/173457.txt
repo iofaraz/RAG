@@ -1,0 +1,36 @@
+Food: Yogurt, fruit, low fat, 10 grams protein per 8 ounce, fortified with vitamin D
+Food ID: 173457
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 4.37 g
+Carbohydrates: 19.05 g
+Fat: 1.08 g
+Fiber: 0 g
+Sugar: 19.05 g
+
+Fats:
+Saturated fat: 0.697 g
+Monounsaturated fat: 0.297 g
+Polyunsaturated fat: 0.031 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 195 mg
+Calcium: 152 mg
+Iron: 0.07 mg
+Magnesium: 15 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.7 mg
+Vitamin D: 1.3 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.47 µg
+Folate: 9 µg

@@ -1,0 +1,33 @@
+Food: CHICK-FIL-A, hash browns
+Food ID: 170304
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 301 kcal
+Protein: 3 g
+Carbohydrates: 30.51 g
+Fat: 18.5 g
+Fiber: 3.2 g
+Sugar: 0.54 g
+
+Fats:
+Saturated fat: 2.778 g
+Monounsaturated fat: 10.7 g
+Polyunsaturated fat: 3.887 g
+Trans fat: 0.044 g
+
+Minerals:
+Sodium: 454 mg
+Potassium: 456 mg
+Calcium: 22 mg
+Iron: 0.65 mg
+Magnesium: 25 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 6.2 mg
+Vitamin E: 3 mg
+Vitamin B6: 0.23 mg
+Folate: 13 µg

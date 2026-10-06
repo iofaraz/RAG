@@ -1,0 +1,36 @@
+Food: Cheese, Swiss, reduced fat
+Food ID: 2705737
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 179 kcal
+Protein: 28.4 g
+Carbohydrates: 3.4 g
+Fat: 5.1 g
+Fiber: 0 g
+Sugar: 1.33 g
+
+Fats:
+Saturated fat: 3.304 g
+Monounsaturated fat: 1.351 g
+Polyunsaturated fat: 0.18 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 199 mg
+Potassium: 111 mg
+Calcium: 961 mg
+Iron: 0.17 mg
+Magnesium: 36 mg
+Zinc: 3.9 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 1.68 µg
+Folate: 6 µg

@@ -1,0 +1,36 @@
+Food: Chow fun noodles with meat and vegetables
+Food ID: 2708796
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 7.09 g
+Carbohydrates: 11.51 g
+Fat: 2.74 g
+Fiber: 0.9 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 0.849 g
+Monounsaturated fat: 1.065 g
+Polyunsaturated fat: 0.547 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 162 mg
+Potassium: 145 mg
+Calcium: 16 mg
+Iron: 0.45 mg
+Magnesium: 11 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.26 mg
+Vitamin K: 7.9 µg
+Vitamin B6: 0.151 mg
+Vitamin B12: 0.15 µg
+Folate: 17 µg

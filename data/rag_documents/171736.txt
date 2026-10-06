@@ -1,0 +1,28 @@
+Food: Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 9, raw
+Food ID: 171736
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 16.92 g
+Carbohydrates: 0.13 g
+Fat: 29.15 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 10.309 g
+Monounsaturated fat: 15.368 g
+Polyunsaturated fat: 1.079 g
+Trans fat: 0.891 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 68 mg
+Calcium: 4 mg
+Iron: 1.71 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

@@ -1,0 +1,36 @@
+Food: Barbecue pork sandwich, on wheat bun
+Food ID: 2706976
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 15.52 g
+Carbohydrates: 23.3 g
+Fat: 8.86 g
+Fiber: 2 g
+Sugar: 8.38 g
+
+Fats:
+Saturated fat: 2.894 g
+Monounsaturated fat: 3.509 g
+Polyunsaturated fat: 1.665 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 549 mg
+Potassium: 262 mg
+Calcium: 70 mg
+Iron: 1.8 mg
+Magnesium: 32 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.36 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.252 mg
+Vitamin B12: 0.39 µg
+Folate: 26 µg

@@ -1,0 +1,36 @@
+Food: Bread, whole grain white
+Food ID: 2707706
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 10.66 g
+Carbohydrates: 43.91 g
+Fat: 2.15 g
+Fiber: 9.2 g
+Sugar: 5 g
+
+Fats:
+Saturated fat: 0.63 g
+Monounsaturated fat: 0.393 g
+Polyunsaturated fat: 0.973 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 450 mg
+Potassium: 127 mg
+Calcium: 684 mg
+Iron: 4.89 mg
+Magnesium: 26 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 7.7 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 127 µg

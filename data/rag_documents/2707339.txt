@@ -1,0 +1,36 @@
+Food: Sausage biscuit sandwich
+Food ID: 2707339
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 10.66 g
+Carbohydrates: 27.21 g
+Fat: 24.47 g
+Fiber: 1.6 g
+Sugar: 2.77 g
+
+Fats:
+Saturated fat: 11.626 g
+Monounsaturated fat: 6.973 g
+Polyunsaturated fat: 3.694 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 870 mg
+Potassium: 197 mg
+Calcium: 48 mg
+Iron: 2.13 mg
+Magnesium: 15 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.57 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.34 µg
+Folate: 53 µg

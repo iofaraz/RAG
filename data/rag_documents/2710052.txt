@@ -1,0 +1,36 @@
+Food: Mushrooms, stuffed
+Food ID: 2710052
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 288 kcal
+Protein: 10.7 g
+Carbohydrates: 27.72 g
+Fat: 15 g
+Fiber: 3 g
+Sugar: 4 g
+
+Fats:
+Saturated fat: 4.084 g
+Monounsaturated fat: 5.827 g
+Polyunsaturated fat: 3.814 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 638 mg
+Potassium: 434 mg
+Calcium: 147 mg
+Iron: 1.83 mg
+Magnesium: 27 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 112 µg
+Vitamin C: 4.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.11 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.128 mg
+Vitamin B12: 0.29 µg
+Folate: 50 µg

@@ -1,0 +1,36 @@
+Food: Meringues
+Food ID: 2707297
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 324 kcal
+Protein: 7.17 g
+Carbohydrates: 75.34 g
+Fat: 0.04 g
+Fiber: 0 g
+Sugar: 73.06 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 113 mg
+Potassium: 111 mg
+Calcium: 5 mg
+Iron: 0.1 mg
+Magnesium: 7 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 0.05 µg
+Folate: 2 µg

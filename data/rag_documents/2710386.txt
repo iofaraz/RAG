@@ -1,0 +1,36 @@
+Food: Coffee, Latte
+Food ID: 2710386
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 2.81 g
+Carbohydrates: 4.35 g
+Fat: 1.61 g
+Fiber: 0 g
+Sugar: 4.06 g
+
+Fats:
+Saturated fat: 0.938 g
+Monounsaturated fat: 0.332 g
+Polyunsaturated fat: 0.064 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 152 mg
+Calcium: 105 mg
+Iron: 0.02 mg
+Magnesium: 23 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.37 µg
+Folate: 2 µg

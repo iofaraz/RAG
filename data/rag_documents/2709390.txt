@@ -1,0 +1,36 @@
+Food: Potato, boiled, from fresh, peel not eaten, made with oil
+Food ID: 2709390
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 1.86 g
+Carbohydrates: 20.45 g
+Fat: 4.84 g
+Fiber: 1.4 g
+Sugar: 1.61 g
+
+Fats:
+Saturated fat: 0.659 g
+Monounsaturated fat: 2.012 g
+Polyunsaturated fat: 1.863 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 152 mg
+Potassium: 371 mg
+Calcium: 5 mg
+Iron: 0.34 mg
+Magnesium: 24 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 12.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.94 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.286 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

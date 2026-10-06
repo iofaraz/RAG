@@ -1,0 +1,36 @@
+Food: Chicken fillet biscuit, from fast food
+Food ID: 2707002
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 320 kcal
+Protein: 10.78 g
+Carbohydrates: 26.41 g
+Fat: 19.09 g
+Fiber: 2 g
+Sugar: 1.98 g
+
+Fats:
+Saturated fat: 7.622 g
+Monounsaturated fat: 4.387 g
+Polyunsaturated fat: 5.423 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 775 mg
+Potassium: 205 mg
+Calcium: 51 mg
+Iron: 1.64 mg
+Magnesium: 22 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.76 mg
+Vitamin K: 17.1 µg
+Vitamin B6: 0.204 mg
+Vitamin B12: 0.1 µg
+Folate: 51 µg

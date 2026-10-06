@@ -1,0 +1,37 @@
+Food: Fish, cod, Pacific, cooked, dry heat (may contain additives to retain moisture)
+Food ID: 171990
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 18.73 g
+Carbohydrates: 0 g
+Fat: 0.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.105 g
+Monounsaturated fat: 0.089 g
+Polyunsaturated fat: 0.201 g
+Trans fat: 0.006 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 289 mg
+Calcium: 10 mg
+Iron: 0.2 mg
+Magnesium: 24 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.67 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.136 mg
+Vitamin B12: 2.31 µg
+Folate: 8 µg

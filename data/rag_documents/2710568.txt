@@ -1,0 +1,36 @@
+Food: Tamarind drink
+Food ID: 2710568
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 0.64 g
+Carbohydrates: 27.67 g
+Fat: 0.18 g
+Fiber: 1.2 g
+Sugar: 22.28 g
+
+Fats:
+Saturated fat: 0.062 g
+Monounsaturated fat: 0.041 g
+Polyunsaturated fat: 0.013 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 144 mg
+Calcium: 19 mg
+Iron: 0.65 mg
+Magnesium: 22 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.015 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

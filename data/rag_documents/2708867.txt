@@ -1,0 +1,36 @@
+Food: Pasta with cream sauce and poultry, restaurant
+Food ID: 2708867
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 5.83 g
+Carbohydrates: 15.41 g
+Fat: 13.33 g
+Fiber: 0.9 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 4.235 g
+Monounsaturated fat: 4.305 g
+Polyunsaturated fat: 3.171 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 561 mg
+Potassium: 60 mg
+Calcium: 29 mg
+Iron: 0.72 mg
+Magnesium: 12 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.46 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0.11 µg
+Folate: 36 µg

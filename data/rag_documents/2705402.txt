@@ -1,0 +1,36 @@
+Food: Milk, condensed, sweetened
+Food ID: 2705402
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 321 kcal
+Protein: 7.91 g
+Carbohydrates: 54.4 g
+Fat: 8.7 g
+Fiber: 0 g
+Sugar: 54.4 g
+
+Fats:
+Saturated fat: 5.486 g
+Monounsaturated fat: 2.427 g
+Polyunsaturated fat: 0.337 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 127 mg
+Potassium: 371 mg
+Calcium: 284 mg
+Iron: 0.19 mg
+Magnesium: 26 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 74 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.16 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.44 µg
+Folate: 11 µg

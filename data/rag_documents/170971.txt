@@ -1,0 +1,32 @@
+Food: Babyfood, cereal, with egg yolks, strained
+Food ID: 170971
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 1.9 g
+Carbohydrates: 7 g
+Fat: 1.8 g
+Fiber: 0.9 g
+
+Fats:
+Saturated fat: 0.61 g
+Monounsaturated fat: 0.79 g
+Polyunsaturated fat: 0.3 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 39 mg
+Calcium: 24 mg
+Iron: 0.47 mg
+Magnesium: 3 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0.7 mg
+Vitamin B6: 0.021 mg
+Vitamin B12: 0.07 µg
+Folate: 3 µg

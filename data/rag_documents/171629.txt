@@ -1,0 +1,32 @@
+Food: Ham and cheese spread
+Food ID: 171629
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 245 kcal
+Protein: 16.18 g
+Carbohydrates: 2.28 g
+Fat: 18.53 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 8.62 g
+Monounsaturated fat: 7.08 g
+Polyunsaturated fat: 1.38 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 1197 mg
+Potassium: 162 mg
+Calcium: 217 mg
+Iron: 0.76 mg
+Magnesium: 18 mg
+Zinc: 2.25 mg
+
+Vitamins:
+Vitamin A: 91 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.73 µg
+Folate: 3 µg

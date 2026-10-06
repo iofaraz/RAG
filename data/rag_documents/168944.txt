@@ -1,0 +1,35 @@
+Food: Wheat flour, whole-grain, soft wheat
+Food ID: 168944
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 332 kcal
+Protein: 9.61 g
+Carbohydrates: 74.48 g
+Fat: 1.95 g
+Fiber: 13.1 g
+Sugar: 1.02 g
+
+Fats:
+Saturated fat: 0.43 g
+Monounsaturated fat: 0.283 g
+Polyunsaturated fat: 1.167 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 394 mg
+Calcium: 33 mg
+Iron: 3.71 mg
+Magnesium: 117 mg
+Zinc: 2.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.191 mg
+Folate: 28 µg

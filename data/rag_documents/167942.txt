@@ -1,0 +1,37 @@
+Food: Crackers, saltines, whole wheat (includes multi-grain)
+Food ID: 167942
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 398 kcal
+Protein: 7.14 g
+Carbohydrates: 68.25 g
+Fat: 10.71 g
+Fiber: 6.7 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 2.793 g
+Polyunsaturated fat: 7.229 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1214 mg
+Potassium: 221 mg
+Calcium: 0 mg
+Iron: 5.14 mg
+Magnesium: 70 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.19 mg
+Vitamin K: 18.3 µg
+Vitamin B6: 0.213 mg
+Vitamin B12: 0 µg
+Folate: 82 µg

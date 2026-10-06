@@ -1,0 +1,36 @@
+Food: Fish, cod, Atlantic, raw
+Food ID: 171955
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 17.81 g
+Carbohydrates: 0 g
+Fat: 0.67 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.131 g
+Monounsaturated fat: 0.094 g
+Polyunsaturated fat: 0.231 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 413 mg
+Calcium: 16 mg
+Iron: 0.38 mg
+Magnesium: 32 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 1 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.64 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.245 mg
+Vitamin B12: 0.91 µg
+Folate: 7 µg

@@ -1,0 +1,36 @@
+Food: Beef curry with rice
+Food ID: 2706389
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 5.61 g
+Carbohydrates: 15.12 g
+Fat: 4.05 g
+Fiber: 1 g
+Sugar: 1.56 g
+
+Fats:
+Saturated fat: 1.107 g
+Monounsaturated fat: 1.579 g
+Polyunsaturated fat: 1.116 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 314 mg
+Potassium: 187 mg
+Calcium: 16 mg
+Iron: 1.17 mg
+Magnesium: 15 mg
+Zinc: 1.3 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.85 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.158 mg
+Vitamin B12: 0.33 µg
+Folate: 32 µg

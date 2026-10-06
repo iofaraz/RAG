@@ -1,0 +1,32 @@
+Food: Fish, bass, freshwater, mixed species, cooked, dry heat
+Food ID: 171989
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 24.18 g
+Carbohydrates: 0 g
+Fat: 4.73 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.001 g
+Monounsaturated fat: 1.835 g
+Polyunsaturated fat: 1.36 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 90 mg
+Potassium: 456 mg
+Calcium: 103 mg
+Iron: 1.91 mg
+Magnesium: 38 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 2.1 mg
+Vitamin B6: 0.138 mg
+Vitamin B12: 2.31 µg
+Folate: 17 µg

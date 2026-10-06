@@ -1,0 +1,36 @@
+Food: Hamburger, NFS
+Food ID: 2706920
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 288 kcal
+Protein: 17.51 g
+Carbohydrates: 20.68 g
+Fat: 14.38 g
+Fiber: 0.7 g
+Sugar: 3 g
+
+Fats:
+Saturated fat: 5.495 g
+Monounsaturated fat: 5.779 g
+Polyunsaturated fat: 1.118 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 355 mg
+Potassium: 229 mg
+Calcium: 66 mg
+Iron: 2.83 mg
+Magnesium: 21 mg
+Zinc: 3.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.28 mg
+Vitamin B12: 1.63 µg
+Folate: 51 µg

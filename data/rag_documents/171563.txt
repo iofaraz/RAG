@@ -1,0 +1,35 @@
+Food: Soup, chicken broth cubes, dry
+Food ID: 171563
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 198 kcal
+Protein: 14.6 g
+Carbohydrates: 23.5 g
+Fat: 4.7 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.2 g
+Monounsaturated fat: 1.92 g
+Polyunsaturated fat: 1.62 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 24000 mg
+Potassium: 374 mg
+Calcium: 190 mg
+Iron: 1.87 mg
+Magnesium: 56 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1 mg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.3 µg
+Folate: 32 µg

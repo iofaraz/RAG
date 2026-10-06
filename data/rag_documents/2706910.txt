@@ -1,0 +1,36 @@
+Food: Double cheeseburger, on white bun, 2 large patties
+Food ID: 2706910
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 20.24 g
+Carbohydrates: 9.66 g
+Fat: 19.36 g
+Fiber: 0.3 g
+Sugar: 1.66 g
+
+Fats:
+Saturated fat: 8.29 g
+Monounsaturated fat: 7.401 g
+Polyunsaturated fat: 0.906 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 409 mg
+Potassium: 252 mg
+Calcium: 147 mg
+Iron: 2.34 mg
+Magnesium: 21 mg
+Zinc: 3.86 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.14 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.322 mg
+Vitamin B12: 2.06 µg
+Folate: 33 µg

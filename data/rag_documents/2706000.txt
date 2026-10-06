@@ -1,0 +1,36 @@
+Food: Chicken drumstick, NS as to cooking method, skin eaten
+Food ID: 2706000
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 25.65 g
+Carbohydrates: 0.12 g
+Fat: 11.46 g
+Fiber: 0 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 2.855 g
+Monounsaturated fat: 4.75 g
+Polyunsaturated fat: 1.523 g
+Cholesterol: 149 mg
+
+Minerals:
+Sodium: 392 mg
+Potassium: 279 mg
+Calcium: 22 mg
+Iron: 1.02 mg
+Magnesium: 23 mg
+Zinc: 2.52 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.196 mg
+Vitamin B12: 0.49 µg
+Folate: 9 µg

@@ -1,0 +1,34 @@
+Food: Potato wedges, frozen (Includes foods for USDA's Food Distribution Program)
+Food ID: 168443
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 2.7 g
+Carbohydrates: 25.46 g
+Fat: 2.2 g
+Fiber: 2 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 0.55 g
+Monounsaturated fat: 1.451 g
+Polyunsaturated fat: 0.102 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 394 mg
+Calcium: 15 mg
+Iron: 0.7 mg
+Magnesium: 19 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 11.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.35 mg
+Vitamin B12: 0 µg

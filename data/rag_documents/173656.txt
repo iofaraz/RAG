@@ -1,0 +1,21 @@
+Food: Beverages, water, bottled, non-carbonated, PEPSI, AQUAFINA
+Food ID: 173656
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 0 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 0 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg

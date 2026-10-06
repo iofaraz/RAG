@@ -1,0 +1,31 @@
+Food: Veal, variety meats and by-products, pancreas, cooked, braised
+Food ID: 174363
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 256 kcal
+Protein: 29.1 g
+Carbohydrates: 0 g
+Fat: 14.6 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 5.01 g
+Monounsaturated fat: 5.03 g
+Polyunsaturated fat: 2.72 g
+
+Minerals:
+Sodium: 68 mg
+Potassium: 278 mg
+Calcium: 18 mg
+Iron: 2.38 mg
+Magnesium: 24 mg
+Zinc: 5.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 6 mg
+Vitamin B6: 0.19 mg
+Vitamin B12: 17.33 µg
+Folate: 3 µg

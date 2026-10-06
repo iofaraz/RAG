@@ -1,0 +1,25 @@
+Food: Soy milk, sweetened, plain, refrigerated
+Food ID: 2257044
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.77687 g
+Carbohydrates: 2.99613 g
+Fat: 1.957 g
+Fiber: 0 g
+
+Minerals:
+Sodium: 39.44 mg
+Potassium: 117.9 mg
+Calcium: 154.8 mg
+Iron: 0.3666 mg
+Magnesium: 17.46 mg
+Zinc: 0.2636 mg
+
+Vitamins:
+Vitamin D: 4.63 µg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.03643 mg
+Vitamin B12: 1.327 µg
+Folate: 15.81 µg

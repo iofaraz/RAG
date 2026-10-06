@@ -1,0 +1,31 @@
+Food: Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Double Chocolate Nut Bar
+Food ID: 173132
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 377 kcal
+Protein: 22.35 g
+Carbohydrates: 51.66 g
+Fat: 8.99 g
+Fiber: 10.5 g
+Sugar: 22.67 g
+
+Fats:
+Saturated fat: 4.847 g
+Trans fat: 0.103 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 333 mg
+Calcium: 1495 mg
+Iron: 17.95 mg
+Magnesium: 317 mg
+Zinc: 13.57 mg
+
+Vitamins:
+Vitamin C: 176.2 mg
+Vitamin E: 30.5 mg
+Vitamin B6: 4.525 mg
+Vitamin B12: 7.5 µg
+Folate: 905 µg

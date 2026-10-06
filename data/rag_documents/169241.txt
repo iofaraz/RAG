@@ -1,0 +1,33 @@
+Food: Kanpyo, (dried gourd strips)
+Food ID: 169241
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 8.58 g
+Carbohydrates: 65.03 g
+Fat: 0.56 g
+Fiber: 9.8 g
+
+Fats:
+Saturated fat: 0.045 g
+Monounsaturated fat: 0.103 g
+Polyunsaturated fat: 0.244 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 1582 mg
+Calcium: 280 mg
+Iron: 5.12 mg
+Magnesium: 125 mg
+Zinc: 5.86 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.532 mg
+Vitamin B12: 0 µg
+Folate: 61 µg

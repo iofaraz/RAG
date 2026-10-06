@@ -1,0 +1,31 @@
+Food: Cake, shortcake, biscuit-type, prepared from recipe
+Food ID: 174941
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 6.1 g
+Carbohydrates: 48.5 g
+Fat: 14.2 g
+
+Fats:
+Saturated fat: 3.772 g
+Monounsaturated fat: 6.045 g
+Polyunsaturated fat: 3.632 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 506 mg
+Potassium: 106 mg
+Calcium: 205 mg
+Iron: 2.54 mg
+Magnesium: 16 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.07 µg
+Folate: 53 µg

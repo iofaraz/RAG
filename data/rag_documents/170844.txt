@@ -1,0 +1,36 @@
+Food: Cheese, monterey
+Food ID: 170844
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 24.48 g
+Carbohydrates: 0.68 g
+Fat: 30.28 g
+Fiber: 0 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 19.066 g
+Monounsaturated fat: 8.751 g
+Polyunsaturated fat: 0.899 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 600 mg
+Potassium: 81 mg
+Calcium: 746 mg
+Iron: 0.72 mg
+Magnesium: 27 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 198 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.26 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.83 µg
+Folate: 18 µg

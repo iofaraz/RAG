@@ -1,0 +1,24 @@
+Food: Frozen novelties, KLONDIKE, SLIM-A-BEAR Fudge Bar, 98% fat free, no sugar added
+Food ID: 170260
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 4.31 g
+Carbohydrates: 30.07 g
+Fat: 1.88 g
+Fiber: 6 g
+Sugar: 7.1 g
+
+Fats:
+Saturated fat: 1 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 120 mg
+Calcium: 138 mg
+Iron: 0.71 mg
+
+Vitamins:
+Vitamin C: 0.9 mg

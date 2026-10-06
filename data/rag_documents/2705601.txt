@@ -1,0 +1,36 @@
+Food: Coffee creamer, liquid, flavored
+Food ID: 2705601
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 0.69 g
+Carbohydrates: 35.07 g
+Fat: 13.5 g
+Fiber: 1.1 g
+Sugar: 33.04 g
+
+Fats:
+Saturated fat: 2.635 g
+Monounsaturated fat: 4.002 g
+Polyunsaturated fat: 6.269 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 96 mg
+Calcium: 6 mg
+Iron: 0.59 mg
+Magnesium: 19 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.58 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.004 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

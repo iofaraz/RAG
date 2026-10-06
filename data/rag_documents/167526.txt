@@ -1,0 +1,37 @@
+Food: Bread, salvadoran sweet cheese (quesadilla salvadorena)
+Food ID: 167526
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 7.12 g
+Carbohydrates: 47.84 g
+Fat: 17.12 g
+Fiber: 0.7 g
+Sugar: 24.9 g
+
+Fats:
+Saturated fat: 4.612 g
+Monounsaturated fat: 6.794 g
+Polyunsaturated fat: 4.428 g
+Trans fat: 2.027 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 510 mg
+Potassium: 350 mg
+Calcium: 73 mg
+Iron: 0.98 mg
+Magnesium: 11 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 141 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.96 mg
+Vitamin K: 11.2 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.35 µg
+Folate: 33 µg

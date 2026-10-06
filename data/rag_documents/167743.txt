@@ -1,0 +1,36 @@
+Food: Syrup, Cane
+Food ID: 167743
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 0 g
+Carbohydrates: 73.14 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 73.2 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 63 mg
+Calcium: 13 mg
+Iron: 3.6 mg
+Magnesium: 10 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

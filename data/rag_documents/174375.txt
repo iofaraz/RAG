@@ -1,0 +1,32 @@
+Food: Lamb, loin, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled
+Food ID: 174375
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 297 kcal
+Protein: 26.06 g
+Carbohydrates: 0 g
+Fat: 20.61 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 8.65 g
+Monounsaturated fat: 8.69 g
+Polyunsaturated fat: 1.48 g
+Cholesterol: 99 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 336 mg
+Calcium: 20 mg
+Iron: 1.84 mg
+Magnesium: 25 mg
+Zinc: 3.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 2.48 µg
+Folate: 19 µg

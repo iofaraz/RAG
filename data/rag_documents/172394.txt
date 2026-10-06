@@ -1,0 +1,32 @@
+Food: Chicken, roasting, meat and skin and giblets and neck, raw
+Food ID: 172394
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 17.09 g
+Carbohydrates: 0.09 g
+Fat: 15.46 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.41 g
+Monounsaturated fat: 6.39 g
+Polyunsaturated fat: 3.33 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 196 mg
+Calcium: 10 mg
+Iron: 1.37 mg
+Magnesium: 19 mg
+Zinc: 1.28 mg
+
+Vitamins:
+Vitamin A: 253 µg
+Vitamin C: 2.4 mg
+Vitamin B6: 0.32 mg
+Vitamin B12: 0.99 µg
+Folate: 26 µg

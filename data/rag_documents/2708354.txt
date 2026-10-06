@@ -1,0 +1,36 @@
+Food: Noodles, chow mein
+Food ID: 2708354
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 521 kcal
+Protein: 10.33 g
+Carbohydrates: 51.9 g
+Fat: 31.72 g
+Fiber: 1.9 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 4.931 g
+Monounsaturated fat: 7.617 g
+Polyunsaturated fat: 16.949 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 378 mg
+Potassium: 89 mg
+Calcium: 21 mg
+Iron: 1.76 mg
+Magnesium: 21 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.29 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

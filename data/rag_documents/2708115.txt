@@ -1,0 +1,36 @@
+Food: Breakfast bar, date, with yogurt coating
+Food ID: 2708115
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 348 kcal
+Protein: 3.7 g
+Carbohydrates: 70.9 g
+Fat: 7.3 g
+Fiber: 4.6 g
+Sugar: 46.36 g
+
+Fats:
+Saturated fat: 1.123 g
+Monounsaturated fat: 3.003 g
+Polyunsaturated fat: 2.772 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 207 mg
+Calcium: 64 mg
+Iron: 2.9 mg
+Magnesium: 27 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.09 µg
+Folate: 35 µg

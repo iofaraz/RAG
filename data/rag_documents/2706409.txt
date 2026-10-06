@@ -1,0 +1,36 @@
+Food: Chili hot dog, no bun
+Food ID: 2706409
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 10.01 g
+Carbohydrates: 7.09 g
+Fat: 14.98 g
+Fiber: 1.7 g
+Sugar: 1.35 g
+
+Fats:
+Saturated fat: 6.028 g
+Monounsaturated fat: 6.446 g
+Polyunsaturated fat: 0.585 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 579 mg
+Potassium: 299 mg
+Calcium: 18 mg
+Iron: 1.51 mg
+Magnesium: 18 mg
+Zinc: 1.84 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.47 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.135 mg
+Vitamin B12: 0.64 µg
+Folate: 28 µg

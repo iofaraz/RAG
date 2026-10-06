@@ -1,0 +1,36 @@
+Food: Babyfood, apple yogurt dessert, strained
+Food ID: 167690
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 0.8 g
+Carbohydrates: 19.5 g
+Fat: 1.6 g
+Fiber: 0.5 g
+Sugar: 12.02 g
+
+Fats:
+Saturated fat: 1.034 g
+Monounsaturated fat: 0.438 g
+Polyunsaturated fat: 0.044 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 70 mg
+Calcium: 6 mg
+Iron: 0 mg
+Magnesium: 15 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 35.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.5 µg
+Folate: 9 µg

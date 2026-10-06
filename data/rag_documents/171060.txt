@@ -1,0 +1,37 @@
+Food: Chicken, liver, all classes, raw
+Food ID: 171060
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 16.92 g
+Carbohydrates: 0.73 g
+Fat: 4.83 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.563 g
+Monounsaturated fat: 1.249 g
+Polyunsaturated fat: 1.306 g
+Trans fat: 0.065 g
+Cholesterol: 345 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 230 mg
+Calcium: 8 mg
+Iron: 8.99 mg
+Magnesium: 19 mg
+Zinc: 2.67 mg
+
+Vitamins:
+Vitamin A: 3296 µg
+Vitamin C: 17.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.7 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.853 mg
+Vitamin B12: 16.58 µg
+Folate: 588 µg

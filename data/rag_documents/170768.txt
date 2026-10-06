@@ -1,0 +1,32 @@
+Food: PIZZA HUT 14" Sausage Pizza, THIN 'N CRISPY Crust
+Food ID: 170768
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 13.95 g
+Carbohydrates: 28.7 g
+Fat: 16.9 g
+Fiber: 2.4 g
+Sugar: 2.62 g
+
+Fats:
+Saturated fat: 6.698 g
+Monounsaturated fat: 5.444 g
+Polyunsaturated fat: 3.33 g
+Trans fat: 0.282 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 839 mg
+Potassium: 220 mg
+Calcium: 193 mg
+Iron: 2.38 mg
+Magnesium: 24 mg
+Zinc: 1.54 mg
+
+Vitamins:
+Vitamin C: 3 mg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.49 µg

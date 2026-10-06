@@ -1,0 +1,36 @@
+Food: Fruit juice blend, 100% juice
+Food ID: 2709316
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 0.16 g
+Carbohydrates: 12.46 g
+Fat: 0.12 g
+Fiber: 0.2 g
+Sugar: 10.92 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.032 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 96 mg
+Calcium: 11 mg
+Iron: 0.11 mg
+Magnesium: 7 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 28.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.021 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

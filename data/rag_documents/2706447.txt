@@ -1,0 +1,36 @@
+Food: Fish with cream or white sauce, not tuna or lobster
+Food ID: 2706447
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 17.05 g
+Carbohydrates: 2.75 g
+Fat: 3.64 g
+Fiber: 0 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 1.513 g
+Monounsaturated fat: 0.853 g
+Polyunsaturated fat: 0.612 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 343 mg
+Potassium: 217 mg
+Calcium: 46 mg
+Iron: 0.44 mg
+Magnesium: 33 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0.7 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.81 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.25 mg
+Vitamin B12: 0.86 µg
+Folate: 8 µg

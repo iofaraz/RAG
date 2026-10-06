@@ -1,0 +1,16 @@
+Food: Beans, Dry, Flor de Mayo (0% moisture)
+Food ID: 335428
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 23.3 g
+Fat: 0.86 g
+Fiber: 4 g
+
+Minerals:
+Potassium: 1490 mg
+Calcium: 180 mg
+Iron: 4.47 mg
+Magnesium: 182 mg
+Zinc: 3.42 mg

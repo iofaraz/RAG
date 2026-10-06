@@ -1,0 +1,21 @@
+Food: Flour, pastry, unenriched, unbleached
+Food ID: 1104913
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 8.75 g
+Carbohydrates: 77.2 g
+Fat: 1.64 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 142 mg
+Calcium: 17 mg
+Iron: 0.87 mg
+Magnesium: 22.4 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin B6: 0.065 mg

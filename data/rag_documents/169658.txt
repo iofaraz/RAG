@@ -1,0 +1,36 @@
+Food: Sugars, maple
+Food ID: 169658
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 354 kcal
+Protein: 0.1 g
+Carbohydrates: 90.9 g
+Fat: 0.2 g
+Fiber: 0 g
+Sugar: 84.87 g
+
+Fats:
+Saturated fat: 0.036 g
+Monounsaturated fat: 0.064 g
+Polyunsaturated fat: 0.1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 274 mg
+Calcium: 90 mg
+Iron: 1.61 mg
+Magnesium: 19 mg
+Zinc: 6.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

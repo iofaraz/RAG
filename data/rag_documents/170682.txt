@@ -1,0 +1,36 @@
+Food: Amaranth grain, uncooked
+Food ID: 170682
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 13.56 g
+Carbohydrates: 65.25 g
+Fat: 7.02 g
+Fiber: 6.7 g
+Sugar: 1.69 g
+
+Fats:
+Saturated fat: 1.459 g
+Monounsaturated fat: 1.685 g
+Polyunsaturated fat: 2.778 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 508 mg
+Calcium: 159 mg
+Iron: 7.61 mg
+Magnesium: 248 mg
+Zinc: 2.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.19 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.591 mg
+Vitamin B12: 0 µg
+Folate: 82 µg

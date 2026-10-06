@@ -1,0 +1,24 @@
+Food: Pork, loin, tenderloin, boneless, raw
+Food ID: 2646169
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 21.5813 g
+Carbohydrates: 0 g
+Fat: 3.899 g
+
+Fats:
+Saturated fat: 0.8663 g
+Monounsaturated fat: 0.8625 g
+Polyunsaturated fat: 0.4175 g
+Trans fat: 0.01 g
+Cholesterol: 59.58 mg
+
+Minerals:
+Sodium: 41.39 mg
+Potassium: 397.4 mg
+Calcium: 4.528 mg
+Iron: 0.9293 mg
+Magnesium: 24.66 mg
+Zinc: 1.773 mg

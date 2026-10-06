@@ -1,0 +1,13 @@
+Food: Salad dressing, Italian dressing, commercial, regular
+Food ID: 2758987
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 3.616 g
+Monounsaturated fat: 8.511 g
+Polyunsaturated fat: 13.39 g
+Trans fat: 0.07188 g
+
+Vitamins:
+Vitamin B6: 0.03413 mg

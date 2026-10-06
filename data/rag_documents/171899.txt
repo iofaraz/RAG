@@ -1,0 +1,37 @@
+Food: Beverages, OCEAN SPRAY, Cran Raspberry Juice Drink
+Food ID: 171899
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 0.28 g
+Carbohydrates: 11.96 g
+Fat: 0 g
+Fiber: 0.6 g
+Sugar: 11.4 g
+
+Fats:
+Saturated fat: 0.001 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.001 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 18 mg
+Calcium: 2 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 27.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

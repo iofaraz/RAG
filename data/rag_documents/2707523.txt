@@ -1,0 +1,36 @@
+Food: Pecans, salted
+Food ID: 2707523
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 747 kcal
+Protein: 9.57 g
+Carbohydrates: 12.2 g
+Fat: 73.35 g
+Fiber: 5.6 g
+Sugar: 3.81 g
+
+Fats:
+Saturated fat: 6.601 g
+Monounsaturated fat: 39.002 g
+Polyunsaturated fat: 23.134 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 383 mg
+Potassium: 346 mg
+Calcium: 53 mg
+Iron: 2.28 mg
+Magnesium: 99 mg
+Zinc: 3.77 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.91 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.164 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

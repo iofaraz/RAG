@@ -1,0 +1,36 @@
+Food: Chicken breast, fried, coated, prepared skinless, coating eaten, from raw
+Food ID: 2705975
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 24.56 g
+Carbohydrates: 6.01 g
+Fat: 9.99 g
+Fiber: 0.2 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 1.576 g
+Monounsaturated fat: 3.736 g
+Polyunsaturated fat: 3.201 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 318 mg
+Potassium: 292 mg
+Calcium: 13 mg
+Iron: 0.81 mg
+Magnesium: 24 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.93 mg
+Vitamin K: 7.1 µg
+Vitamin B6: 0.687 mg
+Vitamin B12: 0.16 µg
+Folate: 18 µg

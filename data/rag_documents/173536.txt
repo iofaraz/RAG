@@ -1,0 +1,36 @@
+Food: Infant formula, NESTLE, GOOD START SUPREME, with iron, powder
+Food ID: 173536
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 509 kcal
+Protein: 11.3 g
+Carbohydrates: 57.32 g
+Fat: 26.1 g
+Fiber: 0 g
+Sugar: 39.3 g
+
+Fats:
+Saturated fat: 11.66 g
+Monounsaturated fat: 8.5 g
+Polyunsaturated fat: 5.88 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 138 mg
+Potassium: 553 mg
+Calcium: 343 mg
+Iron: 7.7 mg
+Magnesium: 36 mg
+Zinc: 4.1 mg
+
+Vitamins:
+Vitamin A: 461 µg
+Vitamin C: 46.1 mg
+Vitamin D: 7.7 µg
+Vitamin E: 7.7 mg
+Vitamin K: 41 µg
+Vitamin B6: 0.384 mg
+Vitamin B12: 1.1 µg
+Folate: 77 µg

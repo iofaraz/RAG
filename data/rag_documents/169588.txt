@@ -1,0 +1,36 @@
+Food: Candies, sesame crunch
+Food ID: 169588
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 516 kcal
+Protein: 11.6 g
+Carbohydrates: 50.3 g
+Fat: 33.3 g
+Fiber: 7.7 g
+Sugar: 31.17 g
+
+Fats:
+Saturated fat: 4.662 g
+Monounsaturated fat: 12.571 g
+Polyunsaturated fat: 14.591 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 307 mg
+Calcium: 639 mg
+Iron: 4.27 mg
+Magnesium: 251 mg
+Zinc: 3.76 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.491 mg
+Vitamin B12: 0 µg
+Folate: 51 µg

@@ -1,0 +1,33 @@
+Food: T.G.I. FRIDAY'S, fried mozzarella
+Food ID: 169834
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 15.82 g
+Carbohydrates: 25.33 g
+Fat: 18.76 g
+Fiber: 2.2 g
+Sugar: 1.45 g
+
+Fats:
+Saturated fat: 7.172 g
+Monounsaturated fat: 4.481 g
+Polyunsaturated fat: 5.261 g
+Trans fat: 0.342 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 738 mg
+Potassium: 97 mg
+Calcium: 351 mg
+Iron: 0.59 mg
+Magnesium: 23 mg
+Zinc: 2.24 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin E: 0.86 mg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0.94 µg

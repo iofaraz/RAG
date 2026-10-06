@@ -1,0 +1,36 @@
+Food: Cheese, Camembert
+Food ID: 2705707
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 300 kcal
+Protein: 19.8 g
+Carbohydrates: 0.46 g
+Fat: 24.26 g
+Fiber: 0 g
+Sugar: 0.46 g
+
+Fats:
+Saturated fat: 15.259 g
+Monounsaturated fat: 7.023 g
+Polyunsaturated fat: 0.724 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 842 mg
+Potassium: 187 mg
+Calcium: 388 mg
+Iron: 0.33 mg
+Magnesium: 20 mg
+Zinc: 2.38 mg
+
+Vitamins:
+Vitamin A: 241 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.21 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.227 mg
+Vitamin B12: 1.3 µg
+Folate: 62 µg

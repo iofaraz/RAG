@@ -1,0 +1,36 @@
+Food: Salad Dressing, mayonnaise-like, fat-free
+Food ID: 167700
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 0.2 g
+Carbohydrates: 15.5 g
+Fat: 2.7 g
+Fiber: 1.9 g
+Sugar: 10.3 g
+
+Fats:
+Saturated fat: 0.6 g
+Monounsaturated fat: 1.887 g
+Polyunsaturated fat: 0.063 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 788 mg
+Potassium: 49 mg
+Calcium: 6 mg
+Iron: 0.12 mg
+Magnesium: 2 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

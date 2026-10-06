@@ -1,0 +1,36 @@
+Food: Double hamburger, on white bun, 2 small patties
+Food ID: 2706936
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 289 kcal
+Protein: 19.18 g
+Carbohydrates: 14.26 g
+Fat: 16.65 g
+Fiber: 0.5 g
+Sugar: 2.07 g
+
+Fats:
+Saturated fat: 6.505 g
+Monounsaturated fat: 6.872 g
+Polyunsaturated fat: 0.973 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 344 mg
+Potassium: 252 mg
+Calcium: 49 mg
+Iron: 2.7 mg
+Magnesium: 20 mg
+Zinc: 3.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.327 mg
+Vitamin B12: 1.94 µg
+Folate: 42 µg

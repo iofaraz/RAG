@@ -1,0 +1,36 @@
+Food: Chicken or turkey and noodles with mushroom sauce
+Food ID: 2706531
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 6.92 g
+Carbohydrates: 14.86 g
+Fat: 5.46 g
+Fiber: 0.8 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 1.077 g
+Monounsaturated fat: 1.82 g
+Polyunsaturated fat: 1.935 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 337 mg
+Potassium: 94 mg
+Calcium: 24 mg
+Iron: 0.89 mg
+Magnesium: 16 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.62 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.15 µg
+Folate: 43 µg

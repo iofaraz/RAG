@@ -1,0 +1,36 @@
+Food: Bread, puri
+Food ID: 2707714
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 409 kcal
+Protein: 6.84 g
+Carbohydrates: 39.23 g
+Fat: 24.94 g
+Fiber: 3.5 g
+Sugar: 0.18 g
+
+Fats:
+Saturated fat: 3.339 g
+Monounsaturated fat: 10.199 g
+Polyunsaturated fat: 9.568 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 170 mg
+Potassium: 134 mg
+Calcium: 16 mg
+Iron: 2.55 mg
+Magnesium: 43 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4.73 mg
+Vitamin K: 24.5 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

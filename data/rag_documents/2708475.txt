@@ -1,0 +1,36 @@
+Food: Cereal, O's, NFS
+Food ID: 2708475
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 10.52 g
+Carbohydrates: 71.96 g
+Fat: 5.77 g
+Fiber: 9.1 g
+Sugar: 18.63 g
+
+Fats:
+Saturated fat: 0.921 g
+Monounsaturated fat: 1.895 g
+Polyunsaturated fat: 1.965 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 543 mg
+Potassium: 290 mg
+Calcium: 360 mg
+Iron: 21.3 mg
+Magnesium: 110 mg
+Zinc: 2.91 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 22.9 mg
+Vitamin D: 5 µg
+Vitamin E: 0.42 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.713 mg
+Vitamin B12: 0.89 µg
+Folate: 145 µg

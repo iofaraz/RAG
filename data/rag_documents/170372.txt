@@ -1,0 +1,32 @@
+Food: PIZZA HUT 14" Sausage Pizza, Pan Crust
+Food ID: 170372
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 11.08 g
+Carbohydrates: 29.56 g
+Fat: 13.85 g
+Fiber: 2 g
+Sugar: 1.82 g
+
+Fats:
+Saturated fat: 4.855 g
+Monounsaturated fat: 4.273 g
+Polyunsaturated fat: 3.723 g
+Trans fat: 0.2 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 596 mg
+Potassium: 192 mg
+Calcium: 132 mg
+Iron: 2.39 mg
+Magnesium: 21 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin C: 1.6 mg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.48 µg

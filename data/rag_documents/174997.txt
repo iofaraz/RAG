@@ -1,0 +1,37 @@
+Food: Muffins, English, raisin-cinnamon (includes apple-cinnamon)
+Food ID: 174997
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 7.91 g
+Carbohydrates: 48.1 g
+Fat: 1.8 g
+Fiber: 2.6 g
+Sugar: 14.76 g
+
+Fats:
+Saturated fat: 0.54 g
+Monounsaturated fat: 0.846 g
+Polyunsaturated fat: 0.339 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 299 mg
+Potassium: 173 mg
+Calcium: 114 mg
+Iron: 4.5 mg
+Magnesium: 23 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0 µg
+Folate: 74 µg

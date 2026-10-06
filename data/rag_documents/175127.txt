@@ -1,0 +1,32 @@
+Food: Fish, pike, northern, cooked, dry heat
+Food ID: 175127
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 24.69 g
+Carbohydrates: 0 g
+Fat: 0.88 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.151 g
+Monounsaturated fat: 0.201 g
+Polyunsaturated fat: 0.259 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 331 mg
+Calcium: 73 mg
+Iron: 0.71 mg
+Magnesium: 40 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 3.8 mg
+Vitamin B6: 0.135 mg
+Vitamin B12: 2.3 µg
+Folate: 17 µg

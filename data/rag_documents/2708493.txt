@@ -1,0 +1,36 @@
+Food: Baby Toddler cereal, rice, dry
+Food ID: 2708493
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 6.65 g
+Carbohydrates: 83.14 g
+Fat: 2.19 g
+Fiber: 1.3 g
+Sugar: 4.85 g
+
+Fats:
+Saturated fat: 0.234 g
+Monounsaturated fat: 0.42 g
+Polyunsaturated fat: 0.784 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 32 mg
+Potassium: 281 mg
+Calcium: 860 mg
+Iron: 53.01 mg
+Magnesium: 37 mg
+Zinc: 10.92 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 58.3 mg
+Vitamin D: 8.5 µg
+Vitamin E: 5 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.885 mg
+Vitamin B12: 0.8 µg
+Folate: 247 µg

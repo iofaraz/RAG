@@ -1,0 +1,32 @@
+Food: Veal, variety meats and by-products, tongue, cooked, braised
+Food ID: 174369
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 25.85 g
+Carbohydrates: 0 g
+Fat: 10.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.35 g
+Monounsaturated fat: 4.61 g
+Polyunsaturated fat: 0.38 g
+Cholesterol: 238 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 162 mg
+Calcium: 9 mg
+Iron: 2.09 mg
+Magnesium: 18 mg
+Zinc: 4.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 6 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 5.3 µg
+Folate: 9 µg

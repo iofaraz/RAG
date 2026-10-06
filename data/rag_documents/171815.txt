@@ -1,0 +1,36 @@
+Food: Beef, round, top round, steak, separable lean only, trimmed to 1/8" fat, all grades, cooked, broiled
+Food ID: 171815
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 31.82 g
+Carbohydrates: 0 g
+Fat: 5.45 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.878 g
+Monounsaturated fat: 2.278 g
+Polyunsaturated fat: 0.239 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 42 mg
+Potassium: 264 mg
+Calcium: 7 mg
+Iron: 2.7 mg
+Magnesium: 21 mg
+Zinc: 5.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.49 mg
+Vitamin K: 17.5 µg
+Vitamin B6: 0.427 mg
+Vitamin B12: 1.75 µg
+Folate: 11 µg

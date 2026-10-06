@@ -1,0 +1,32 @@
+Food: School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Pepperoni Pizza 50/50 Cheese, frozen
+Food ID: 170703
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 12.14 g
+Carbohydrates: 28.84 g
+Fat: 8.19 g
+Fiber: 4.1 g
+Sugar: 7.24 g
+
+Fats:
+Saturated fat: 2.81 g
+Monounsaturated fat: 2.12 g
+Polyunsaturated fat: 2.23 g
+Trans fat: 0.18 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 470 mg
+Potassium: 363 mg
+Calcium: 192 mg
+Iron: 2.6 mg
+Magnesium: 49 mg
+Zinc: 2.38 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.178 mg
+Vitamin B12: 2.05 µg

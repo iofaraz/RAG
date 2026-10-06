@@ -1,0 +1,36 @@
+Food: Bread, cornmeal and molasses, toasted
+Food ID: 2707623
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 313 kcal
+Protein: 8.69 g
+Carbohydrates: 60.72 g
+Fat: 4.2 g
+Fiber: 1.8 g
+Sugar: 16.43 g
+
+Fats:
+Saturated fat: 1.886 g
+Monounsaturated fat: 0.784 g
+Polyunsaturated fat: 0.549 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 346 mg
+Potassium: 404 mg
+Calcium: 57 mg
+Iron: 4.33 mg
+Magnesium: 75 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0 µg
+Folate: 73 µg

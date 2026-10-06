@@ -1,0 +1,17 @@
+Food: Willow, young leaves, chopped (Alaska Native)
+Food ID: 168036
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 6.1 g
+Carbohydrates: 20.7 g
+Fat: 1.6 g
+
+Minerals:
+Calcium: 130 mg
+Iron: 2.6 mg
+
+Vitamins:
+Vitamin C: 190 mg

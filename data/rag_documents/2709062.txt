@@ -1,0 +1,36 @@
+Food: Rice, brown, with carrots and dark green vegetables, no added fat
+Food ID: 2709062
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 2.51 g
+Carbohydrates: 21.72 g
+Fat: 0.82 g
+Fiber: 1.8 g
+Sugar: 0.7 g
+
+Fats:
+Saturated fat: 0.213 g
+Monounsaturated fat: 0.293 g
+Polyunsaturated fat: 0.3 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 170 mg
+Potassium: 125 mg
+Calcium: 11 mg
+Iron: 0.55 mg
+Magnesium: 34 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 8.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 12.4 µg
+Vitamin B6: 0.131 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

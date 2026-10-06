@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST, Honey Nut Shredded Wheat
+Food ID: 173894
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 8.5 g
+Carbohydrates: 83.6 g
+Fat: 2.9 g
+Fiber: 10.7 g
+Sugar: 20.7 g
+
+Fats:
+Saturated fat: 0.4 g
+Monounsaturated fat: 1.2 g
+Polyunsaturated fat: 1.2 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 102 mg
+Potassium: 348 mg
+Calcium: 38 mg
+Iron: 28 mg
+Magnesium: 93 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.2 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.8 mg
+Vitamin B12: 2.5 µg
+Folate: 170 µg

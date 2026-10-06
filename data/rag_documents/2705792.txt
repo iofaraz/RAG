@@ -1,0 +1,36 @@
+Food: Cheese souffle
+Food ID: 2705792
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 9.43 g
+Carbohydrates: 6.38 g
+Fat: 16.01 g
+Fiber: 0.1 g
+Sugar: 2.44 g
+
+Fats:
+Saturated fat: 8.267 g
+Monounsaturated fat: 3.815 g
+Polyunsaturated fat: 0.965 g
+Cholesterol: 157 mg
+
+Minerals:
+Sodium: 314 mg
+Potassium: 131 mg
+Calcium: 189 mg
+Iron: 0.76 mg
+Magnesium: 14 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 190 µg
+Vitamin C: 0 mg
+Vitamin D: 1.4 µg
+Vitamin E: 0.44 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.41 µg
+Folate: 24 µg

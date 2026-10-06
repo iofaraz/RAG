@@ -1,0 +1,36 @@
+Food: Seeds, flaxseed
+Food ID: 169414
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 534 kcal
+Protein: 18.29 g
+Carbohydrates: 28.88 g
+Fat: 42.16 g
+Fiber: 27.3 g
+Sugar: 1.55 g
+
+Fats:
+Saturated fat: 3.663 g
+Monounsaturated fat: 7.527 g
+Polyunsaturated fat: 28.73 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 813 mg
+Calcium: 255 mg
+Iron: 5.73 mg
+Magnesium: 392 mg
+Zinc: 4.34 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.473 mg
+Vitamin B12: 0 µg
+Folate: 87 µg

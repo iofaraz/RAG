@@ -1,0 +1,20 @@
+Food: Squash, pie pumpkin, peeled, seeded, raw
+Food ID: 2727578
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.854375 g
+Fiber: 2.3 g
+
+Minerals:
+Sodium: 0.3125 mg
+Potassium: 472.1 mg
+Calcium: 16.36 mg
+Iron: 0.06325 mg
+Magnesium: 12.8 mg
+Zinc: 0.1387 mg
+
+Vitamins:
+Vitamin C: 10.07 mg
+Folate: 30.98 µg

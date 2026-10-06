@@ -1,0 +1,37 @@
+Food: Cranberry juice cocktail, bottled, low calorie, with calcium, saccharin and corn sweetener
+Food ID: 171904
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 0.02 g
+Carbohydrates: 4.6 g
+Fat: 0.01 g
+Fiber: 0 g
+Sugar: 4.59 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 25 mg
+Calcium: 9 mg
+Iron: 0.04 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 32.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.002 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

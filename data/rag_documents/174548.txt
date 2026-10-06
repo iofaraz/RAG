@@ -1,0 +1,28 @@
+Food: CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup
+Food ID: 174548
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 3.41 g
+Carbohydrates: 5.41 g
+Fat: 1.3 g
+Fiber: 1 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.408 g
+Trans fat: 0 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 325 mg
+Potassium: 90 mg
+Calcium: 11 mg
+Iron: 0.34 mg
+Magnesium: 7 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin C: 0 mg

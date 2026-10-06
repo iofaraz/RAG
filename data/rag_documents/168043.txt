@@ -1,0 +1,35 @@
+Food: Stew, hominy with mutton (Navajo)
+Food ID: 168043
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 6.71 g
+Carbohydrates: 9.38 g
+Fat: 2.06 g
+Fiber: 2 g
+Sugar: 0.11 g
+
+Fats:
+Saturated fat: 0.733 g
+Monounsaturated fat: 0.897 g
+Polyunsaturated fat: 0.287 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 118 mg
+Calcium: 8 mg
+Iron: 0.81 mg
+Magnesium: 20 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.37 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 0.64 µg
+Folate: 0 µg

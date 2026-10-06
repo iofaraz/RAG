@@ -1,0 +1,37 @@
+Food: Chicken, nuggets, dark and white meat, precooked, frozen, not reheated
+Food ID: 172111
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 268 kcal
+Protein: 12.02 g
+Carbohydrates: 16.09 g
+Fat: 17.31 g
+Fiber: 1.6 g
+Sugar: 0.72 g
+
+Fats:
+Saturated fat: 3.598 g
+Monounsaturated fat: 5.524 g
+Polyunsaturated fat: 6.81 g
+Trans fat: 0.069 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 540 mg
+Potassium: 206 mg
+Calcium: 47 mg
+Iron: 0.95 mg
+Magnesium: 25 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.92 mg
+Vitamin K: 10 µg
+Vitamin B6: 0.221 mg
+Vitamin B12: 0.23 µg
+Folate: 35 µg

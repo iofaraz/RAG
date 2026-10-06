@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, oatmeal, with applesauce and bananas, junior, fortified
+Food ID: 171363
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 0.89 g
+Carbohydrates: 16.03 g
+Fat: 0.89 g
+Fiber: 0.9 g
+Sugar: 8.85 g
+
+Fats:
+Saturated fat: 0.126 g
+Monounsaturated fat: 0.216 g
+Polyunsaturated fat: 0.253 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 97 mg
+Calcium: 6 mg
+Iron: 7.5 mg
+Magnesium: 11 mg
+Zinc: 7.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 13.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.59 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.089 mg
+Vitamin B12: 0.44 µg
+Folate: 22 µg

@@ -1,0 +1,36 @@
+Food: Fish, halibut, Atlantic and Pacific, raw
+Food ID: 174200
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 18.56 g
+Carbohydrates: 0 g
+Fat: 1.33 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.292 g
+Monounsaturated fat: 0.471 g
+Polyunsaturated fat: 0.29 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 68 mg
+Potassium: 435 mg
+Calcium: 7 mg
+Iron: 0.16 mg
+Magnesium: 23 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin D: 4.7 µg
+Vitamin E: 0.61 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.548 mg
+Vitamin B12: 1.1 µg
+Folate: 12 µg

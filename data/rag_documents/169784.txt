@@ -1,0 +1,32 @@
+Food: JIMMY DEAN, Sausage, Egg, and Cheese Breakfast Biscuit, frozen, unprepared
+Food ID: 169784
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 328 kcal
+Protein: 9.29 g
+Carbohydrates: 21.07 g
+Fat: 22.9 g
+Fiber: 2 g
+Sugar: 3.1 g
+
+Fats:
+Saturated fat: 8.595 g
+Monounsaturated fat: 8.539 g
+Polyunsaturated fat: 3.881 g
+Trans fat: 0.177 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 589 mg
+Potassium: 292 mg
+Calcium: 137 mg
+Iron: 1.84 mg
+Magnesium: 15 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin B6: 0.123 mg
+Vitamin B12: 0.64 µg
+Folate: 52 µg

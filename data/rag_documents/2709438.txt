@@ -1,0 +1,36 @@
+Food: Potato chips, unsalted
+Food ID: 2709438
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 537 kcal
+Protein: 6.25 g
+Carbohydrates: 59.66 g
+Fat: 30.3 g
+Fiber: 5.4 g
+Sugar: 0.19 g
+
+Fats:
+Saturated fat: 5.269 g
+Monounsaturated fat: 7.548 g
+Polyunsaturated fat: 15.975 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 1535 mg
+Calcium: 18 mg
+Iron: 1.19 mg
+Magnesium: 78 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 22.6 mg
+Vitamin D: 0 µg
+Vitamin E: 7.53 mg
+Vitamin K: 11.9 µg
+Vitamin B6: 0.59 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

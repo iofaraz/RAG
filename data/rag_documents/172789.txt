@@ -1,0 +1,36 @@
+Food: Pie, vanilla cream, prepared from recipe
+Food ID: 172789
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 4.8 g
+Carbohydrates: 32.6 g
+Fat: 14.4 g
+Fiber: 0.6 g
+Sugar: 12.68 g
+
+Fats:
+Saturated fat: 4.03 g
+Monounsaturated fat: 6.043 g
+Polyunsaturated fat: 3.438 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 260 mg
+Potassium: 126 mg
+Calcium: 90 mg
+Iron: 1.02 mg
+Magnesium: 13 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 0.5 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.45 mg
+Vitamin K: 6.7 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0.3 µg
+Folate: 26 µg

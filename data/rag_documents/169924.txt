@@ -1,0 +1,37 @@
+Food: Tangerines, (mandarin oranges), canned, light syrup pack
+Food ID: 169924
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 0.45 g
+Carbohydrates: 16.19 g
+Fat: 0.1 g
+Fiber: 0.7 g
+Sugar: 15.49 g
+
+Fats:
+Saturated fat: 0.012 g
+Monounsaturated fat: 0.018 g
+Polyunsaturated fat: 0.02 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 78 mg
+Calcium: 7 mg
+Iron: 0.37 mg
+Magnesium: 8 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 19.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

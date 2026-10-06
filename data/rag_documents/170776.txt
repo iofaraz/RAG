@@ -1,0 +1,35 @@
+Food: McDONALD'S, Southern Style Chicken Biscuit
+Food ID: 170776
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 304 kcal
+Protein: 11.93 g
+Carbohydrates: 30.56 g
+Fat: 14.93 g
+Fiber: 1.4 g
+Sugar: 2.62 g
+
+Fats:
+Saturated fat: 5.712 g
+Monounsaturated fat: 5.455 g
+Polyunsaturated fat: 3.308 g
+Trans fat: 0.07 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 868 mg
+Potassium: 206 mg
+Calcium: 44 mg
+Iron: 1.76 mg
+Magnesium: 18 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin C: 0.7 mg
+Vitamin E: 1.88 mg
+Vitamin K: 6.6 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0.15 µg
+Folate: 64 µg

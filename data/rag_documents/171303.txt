@@ -1,0 +1,37 @@
+Food: Milk, chocolate, fat free, with added vitamin A and vitamin D
+Food ID: 171303
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 3.39 g
+Carbohydrates: 13.46 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 8.39 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 79 mg
+Potassium: 182 mg
+Calcium: 127 mg
+Iron: 0.27 mg
+Magnesium: 13 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 1 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.024 mg
+Vitamin B12: 0.32 µg
+Folate: 2 µg

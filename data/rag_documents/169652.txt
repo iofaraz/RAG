@@ -1,0 +1,29 @@
+Food: Candies, MARS SNACKFOOD US, COCOAVIA Blueberry and Almond Chocolate Bar
+Food ID: 169652
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 525 kcal
+Protein: 6.35 g
+Carbohydrates: 60.37 g
+Fat: 28.68 g
+Fiber: 9.1 g
+Sugar: 38.99 g
+
+Fats:
+Saturated fat: 13.07 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Calcium: 985 mg
+Iron: 3.18 mg
+
+Vitamins:
+Vitamin C: 34.2 mg
+Vitamin E: 9.2 mg
+Vitamin B6: 1.364 mg
+Vitamin B12: 2.73 µg
+Folate: 182 µg

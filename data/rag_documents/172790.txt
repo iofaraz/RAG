@@ -1,0 +1,35 @@
+Food: Puff pastry, frozen, ready-to-bake
+Food ID: 172790
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 551 kcal
+Protein: 7.3 g
+Carbohydrates: 45.1 g
+Fat: 38.1 g
+Fiber: 1.5 g
+Sugar: 0.74 g
+
+Fats:
+Saturated fat: 9.643 g
+Monounsaturated fat: 21.597 g
+Polyunsaturated fat: 4.894 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 249 mg
+Potassium: 61 mg
+Calcium: 10 mg
+Iron: 2.56 mg
+Magnesium: 16 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.54 mg
+Vitamin K: 16.1 µg
+Vitamin B6: 0.021 mg
+Vitamin B12: 0 µg
+Folate: 78 µg

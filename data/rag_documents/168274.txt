@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, pancreas, cooked, braised
+Food ID: 168274
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 28.5 g
+Carbohydrates: 0 g
+Fat: 10.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.73 g
+Monounsaturated fat: 3.75 g
+Polyunsaturated fat: 2.03 g
+Cholesterol: 315 mg
+
+Minerals:
+Sodium: 42 mg
+Potassium: 168 mg
+Calcium: 16 mg
+Iron: 2.69 mg
+Magnesium: 23 mg
+Zinc: 4.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.7 mg
+Vitamin B6: 0.44 mg
+Vitamin B12: 17.07 µg
+Folate: 5 µg

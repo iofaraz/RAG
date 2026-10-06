@@ -1,0 +1,37 @@
+Food: Crustaceans, crab, alaska king, imitation, made from surimi
+Food ID: 174203
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 7.62 g
+Carbohydrates: 15 g
+Fat: 0.46 g
+Fiber: 0.5 g
+Sugar: 6.25 g
+
+Fats:
+Saturated fat: 0.216 g
+Monounsaturated fat: 0.275 g
+Polyunsaturated fat: 0.143 g
+Trans fat: 0.008 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 529 mg
+Potassium: 90 mg
+Calcium: 13 mg
+Iron: 0.39 mg
+Magnesium: 43 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.57 µg
+Folate: 0 µg

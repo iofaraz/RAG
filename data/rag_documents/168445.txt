@@ -1,0 +1,35 @@
+Food: Potatoes, french fried, steak fries, salt added in processing, frozen, oven-heated
+Food ID: 168445
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 2.57 g
+Carbohydrates: 26.98 g
+Fat: 3.76 g
+Fiber: 2.6 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 0.737 g
+Monounsaturated fat: 2.207 g
+Polyunsaturated fat: 0.252 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 373 mg
+Potassium: 459 mg
+Calcium: 10 mg
+Iron: 0.64 mg
+Magnesium: 23 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin C: 14 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.192 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

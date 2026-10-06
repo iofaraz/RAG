@@ -1,0 +1,26 @@
+Food: Peaches, yellow, raw
+Food ID: 325430
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 0.91 g
+Carbohydrates: 10.1 g
+Fat: 0.27 g
+Fiber: 1.5 g
+
+Minerals:
+Sodium: 13 mg
+Potassium: 122 mg
+Calcium: 4 mg
+Iron: 0.34 mg
+Magnesium: 8 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 4.1 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.025 mg
+Folate: 6 µg

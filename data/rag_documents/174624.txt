@@ -1,0 +1,36 @@
+Food: Cereals, QUAKER, Instant Oatmeal, fruit and cream variety, dry
+Food ID: 174624
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 8.3 g
+Carbohydrates: 75.42 g
+Fat: 6.37 g
+Fiber: 6 g
+Sugar: 31.27 g
+
+Fats:
+Saturated fat: 1.308 g
+Monounsaturated fat: 2.092 g
+Polyunsaturated fat: 1.335 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 499 mg
+Potassium: 280 mg
+Calcium: 307 mg
+Iron: 11.3 mg
+Magnesium: 84 mg
+Zinc: 1.85 mg
+
+Vitamins:
+Vitamin A: 943 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 1.257 mg
+Vitamin B12: 0.03 µg
+Folate: 251 µg

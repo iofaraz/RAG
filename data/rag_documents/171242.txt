@@ -1,0 +1,36 @@
+Food: Cheese, gruyere
+Food ID: 171242
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 413 kcal
+Protein: 29.81 g
+Carbohydrates: 0.36 g
+Fat: 32.34 g
+Fiber: 0 g
+Sugar: 0.36 g
+
+Fats:
+Saturated fat: 18.913 g
+Monounsaturated fat: 10.043 g
+Polyunsaturated fat: 1.733 g
+Cholesterol: 110 mg
+
+Minerals:
+Sodium: 714 mg
+Potassium: 81 mg
+Calcium: 1011 mg
+Iron: 0.17 mg
+Magnesium: 36 mg
+Zinc: 3.9 mg
+
+Vitamins:
+Vitamin A: 271 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.28 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 1.6 µg
+Folate: 10 µg

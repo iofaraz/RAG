@@ -1,0 +1,23 @@
+Food: Apples, fuji, with skin, raw
+Food ID: 1750340
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.148438 g
+Carbohydrates: 15.6512 g
+Fat: 0.1625 g
+Fiber: 2.075 g
+Sugar: 13.33 g
+
+Minerals:
+Sodium: 1.013 mg
+Potassium: 103.8 mg
+Calcium: 5.975 mg
+Iron: 0.015 mg
+Magnesium: 4.67 mg
+Zinc: 0.01676 mg
+
+Vitamins:
+Vitamin B6: 0.03544 mg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Cuban sandwich
+Food ID: 2706973
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 15.86 g
+Carbohydrates: 16.3 g
+Fat: 10.69 g
+Fiber: 0.8 g
+Sugar: 2.46 g
+
+Fats:
+Saturated fat: 4.376 g
+Monounsaturated fat: 3.735 g
+Polyunsaturated fat: 1.508 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 553 mg
+Potassium: 212 mg
+Calcium: 159 mg
+Iron: 1.75 mg
+Magnesium: 22 mg
+Zinc: 2.35 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.3 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0.68 µg
+Folate: 32 µg

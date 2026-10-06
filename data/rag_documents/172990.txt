@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, Frosted Flakes
+Food ID: 172990
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 389 kcal
+Protein: 4.25 g
+Carbohydrates: 90.2 g
+Fat: 0.87 g
+Fiber: 1.2 g
+Sugar: 39.27 g
+
+Fats:
+Saturated fat: 0.107 g
+Monounsaturated fat: 0.171 g
+Polyunsaturated fat: 0.435 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 451 mg
+Potassium: 82 mg
+Calcium: 3 mg
+Iron: 11.6 mg
+Magnesium: 12 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 454 µg
+Vitamin C: 19.4 mg
+Vitamin D: 3.2 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 1.61 mg
+Vitamin B12: 4.84 µg
+Folate: 323 µg

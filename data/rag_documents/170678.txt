@@ -1,0 +1,37 @@
+Food: Candies, M&M MARS Pretzel Chocolate Candies
+Food ID: 170678
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 447 kcal
+Protein: 5 g
+Carbohydrates: 72.94 g
+Fat: 15 g
+Fiber: 2.5 g
+Sugar: 50 g
+
+Fats:
+Saturated fat: 8.986 g
+Monounsaturated fat: 3.302 g
+Polyunsaturated fat: 1.014 g
+Trans fat: 0 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 475 mg
+Potassium: 253 mg
+Calcium: 50 mg
+Iron: 0.9 mg
+Magnesium: 39 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.37 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0.45 µg
+Folate: 15 µg

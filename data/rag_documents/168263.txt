@@ -1,0 +1,37 @@
+Food: Pork, fresh, loin, center loin (chops), boneless, separable lean only, raw
+Food ID: 168263
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 23.75 g
+Carbohydrates: 0 g
+Fat: 3.09 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.801 g
+Monounsaturated fat: 0.958 g
+Polyunsaturated fat: 0.287 g
+Trans fat: 0.008 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 87 mg
+Potassium: 386 mg
+Calcium: 6 mg
+Iron: 0.48 mg
+Magnesium: 26 mg
+Zinc: 1.42 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.363 mg
+Vitamin B12: 0.41 µg
+Folate: 0 µg

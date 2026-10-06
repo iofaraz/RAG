@@ -1,0 +1,37 @@
+Food: Beef, variety meats and by-products, liver, cooked, braised
+Food ID: 168626
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 191 kcal
+Protein: 29.08 g
+Carbohydrates: 5.13 g
+Fat: 5.26 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.947 g
+Monounsaturated fat: 1.124 g
+Polyunsaturated fat: 1.109 g
+Trans fat: 0.365 g
+Cholesterol: 396 mg
+
+Minerals:
+Sodium: 79 mg
+Potassium: 352 mg
+Calcium: 6 mg
+Iron: 6.54 mg
+Magnesium: 21 mg
+Zinc: 5.3 mg
+
+Vitamins:
+Vitamin A: 9442 µg
+Vitamin C: 1.9 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.51 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 1.017 mg
+Vitamin B12: 70.58 µg
+Folate: 253 µg

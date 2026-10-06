@@ -1,0 +1,36 @@
+Food: Taro, cooked
+Food ID: 2709567
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 1.57 g
+Carbohydrates: 27.55 g
+Fat: 2.95 g
+Fiber: 4.3 g
+Sugar: 0.42 g
+
+Fats:
+Saturated fat: 0.759 g
+Monounsaturated fat: 0.988 g
+Polyunsaturated fat: 0.872 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 142 mg
+Potassium: 616 mg
+Calcium: 45 mg
+Iron: 0.58 mg
+Magnesium: 34 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 2.89 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.283 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

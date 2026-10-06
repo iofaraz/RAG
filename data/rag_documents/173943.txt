@@ -1,0 +1,33 @@
+Food: Apricots, dried, sulfured, stewed, with added sugar
+Food ID: 173943
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 1.17 g
+Carbohydrates: 29.26 g
+Fat: 0.15 g
+Fiber: 4.1 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.064 g
+Polyunsaturated fat: 0.029 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 443 mg
+Calcium: 15 mg
+Iron: 1.52 mg
+Magnesium: 15 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 107 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,32 @@
+Food: Fish, herring, Pacific, raw
+Food ID: 173669
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 16.39 g
+Carbohydrates: 0 g
+Fat: 13.88 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.257 g
+Monounsaturated fat: 6.872 g
+Polyunsaturated fat: 2.423 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 74 mg
+Potassium: 423 mg
+Calcium: 83 mg
+Iron: 1.12 mg
+Magnesium: 32 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.45 mg
+Vitamin B12: 10 µg
+Folate: 5 µg

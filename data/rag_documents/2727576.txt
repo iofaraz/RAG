@@ -1,0 +1,20 @@
+Food: Pork, belly, with skin, raw
+Food ID: 2727576
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 15.2 g
+Carbohydrates: 0 g
+Fat: 35.83 g
+
+Fats:
+Cholesterol: 66.62 mg
+
+Minerals:
+Sodium: 49.7 mg
+Potassium: 207.9 mg
+Calcium: 4.205 mg
+Iron: 0.3817 mg
+Magnesium: 12.18 mg
+Zinc: 1.067 mg

@@ -1,0 +1,26 @@
+Food: Pitanga, (surinam-cherry), raw
+Food ID: 169129
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 0.8 g
+Carbohydrates: 7.49 g
+Fat: 0.4 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 103 mg
+Calcium: 9 mg
+Iron: 0.2 mg
+Magnesium: 12 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 26.3 mg
+Vitamin B12: 0 µg

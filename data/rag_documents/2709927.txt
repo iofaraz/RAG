@@ -1,0 +1,36 @@
+Food: Corn, canned, reduced sodium, cooked with butter or margarine
+Food ID: 2709927
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 2.05 g
+Carbohydrates: 14.48 g
+Fat: 3.16 g
+Fiber: 1.8 g
+Sugar: 4.34 g
+
+Fats:
+Saturated fat: 1.098 g
+Monounsaturated fat: 0.771 g
+Polyunsaturated fat: 0.617 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 143 mg
+Calcium: 5 mg
+Iron: 0.38 mg
+Magnesium: 16 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.26 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

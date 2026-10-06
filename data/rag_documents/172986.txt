@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, QUAKER, MOTHER'S Toasted Oat Bran cereal
+Food ID: 172986
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 11.45 g
+Carbohydrates: 75.41 g
+Fat: 5.04 g
+Fiber: 8.6 g
+Sugar: 15.57 g
+
+Fats:
+Saturated fat: 0.89 g
+Monounsaturated fat: 1.65 g
+Polyunsaturated fat: 1.82 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 653 mg
+Potassium: 489 mg
+Calcium: 58 mg
+Iron: 4.07 mg
+Magnesium: 136 mg
+Zinc: 2.89 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4.49 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

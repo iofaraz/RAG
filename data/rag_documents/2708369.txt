@@ -1,0 +1,36 @@
+Food: Grits, with cheese, fat added
+Food ID: 2708369
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 3.56 g
+Carbohydrates: 11.36 g
+Fat: 5.28 g
+Fiber: 0.6 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 2.701 g
+Monounsaturated fat: 1.21 g
+Polyunsaturated fat: 0.473 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 143 mg
+Potassium: 27 mg
+Calcium: 79 mg
+Iron: 0.42 mg
+Magnesium: 9 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.25 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.11 µg
+Folate: 19 µg

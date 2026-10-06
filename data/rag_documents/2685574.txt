@@ -1,0 +1,22 @@
+Food: Collards, raw
+Food ID: 2685574
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.96875 g
+Carbohydrates: 7.02225 g
+Fat: 0.77 g
+Fiber: 3.816 g
+
+Minerals:
+Sodium: 18.41 mg
+Potassium: 409.8 mg
+Calcium: 276.4 mg
+Iron: 0.7505 mg
+Magnesium: 49.51 mg
+Zinc: 0.4594 mg
+
+Vitamins:
+Vitamin C: 89.4 mg
+Folate: 168 µg

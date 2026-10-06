@@ -1,0 +1,36 @@
+Food: Oil, olive, salad or cooking
+Food ID: 171413
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 884 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 13.808 g
+Monounsaturated fat: 72.961 g
+Polyunsaturated fat: 10.523 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 1 mg
+Calcium: 1 mg
+Iron: 0.56 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 14.35 mg
+Vitamin K: 60.2 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

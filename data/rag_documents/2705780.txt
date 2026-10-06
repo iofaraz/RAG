@@ -1,0 +1,36 @@
+Food: Cheese, cottage cheese, with gelatin dessert and vegetables
+Food ID: 2705780
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 8.03 g
+Carbohydrates: 7.11 g
+Fat: 2.8 g
+Fiber: 0.2 g
+Sugar: 5.37 g
+
+Fats:
+Saturated fat: 1.717 g
+Monounsaturated fat: 0.605 g
+Polyunsaturated fat: 0.087 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 254 mg
+Potassium: 103 mg
+Calcium: 61 mg
+Iron: 0.02 mg
+Magnesium: 7 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.44 µg
+Folate: 11 µg

@@ -1,0 +1,35 @@
+Food: Peanuts, spanish, raw
+Food ID: 174263
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 570 kcal
+Protein: 26.15 g
+Carbohydrates: 15.83 g
+Fat: 49.6 g
+Fiber: 9.5 g
+
+Fats:
+Saturated fat: 7.098 g
+Monounsaturated fat: 22.325 g
+Polyunsaturated fat: 17.238 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 22 mg
+Potassium: 744 mg
+Calcium: 106 mg
+Iron: 3.91 mg
+Magnesium: 188 mg
+Zinc: 2.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin K: 0 µg
+Vitamin B6: 0.348 mg
+Vitamin B12: 0 µg
+Folate: 240 µg

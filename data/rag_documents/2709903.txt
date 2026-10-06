@@ -1,0 +1,36 @@
+Food: Cauliflower, fresh, cooked with butter or margarine
+Food ID: 2709903
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 1.95 g
+Carbohydrates: 5.02 g
+Fat: 2.56 g
+Fiber: 2 g
+Sugar: 1.94 g
+
+Fats:
+Saturated fat: 1.114 g
+Monounsaturated fat: 0.634 g
+Polyunsaturated fat: 0.391 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 165 mg
+Potassium: 302 mg
+Calcium: 23 mg
+Iron: 0.42 mg
+Magnesium: 15 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 41.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 17 µg
+Vitamin B6: 0.201 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

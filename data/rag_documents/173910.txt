@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST, Shredded Wheat, original big biscuit
+Food ID: 173910
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 337 kcal
+Protein: 11.37 g
+Carbohydrates: 78.96 g
+Fat: 2.01 g
+Fiber: 12.4 g
+Sugar: 0.94 g
+
+Fats:
+Saturated fat: 0.41 g
+Monounsaturated fat: 0.29 g
+Polyunsaturated fat: 1.22 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 381 mg
+Calcium: 56 mg
+Iron: 2.63 mg
+Magnesium: 130 mg
+Zinc: 2.89 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0 µg
+Folate: 43 µg

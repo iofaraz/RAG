@@ -1,0 +1,36 @@
+Food: Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled
+Food ID: 172133
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 182 kcal
+Protein: 26.3 g
+Carbohydrates: 0.12 g
+Fat: 7.66 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.765 g
+Monounsaturated fat: 3.044 g
+Polyunsaturated fat: 0.395 g
+Trans fat: 0.275 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 361 mg
+Calcium: 5 mg
+Iron: 2.79 mg
+Magnesium: 26 mg
+Zinc: 7.09 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.18 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.576 mg
+Vitamin B12: 4.95 µg
+Folate: 11 µg

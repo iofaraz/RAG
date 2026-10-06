@@ -1,0 +1,36 @@
+Food: Babyfood, banana juice with low fat yogurt
+Food ID: 168090
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 2.5 g
+Carbohydrates: 17.54 g
+Fat: 0.8 g
+Fiber: 0.4 g
+Sugar: 13.28 g
+
+Fats:
+Saturated fat: 0.517 g
+Monounsaturated fat: 0.219 g
+Polyunsaturated fat: 0.022 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 37 mg
+Potassium: 160 mg
+Calcium: 79 mg
+Iron: 0.2 mg
+Magnesium: 10 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 33.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.43 µg
+Folate: 6 µg

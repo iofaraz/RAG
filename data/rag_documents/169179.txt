@@ -1,0 +1,36 @@
+Food: Pork, fresh, composite of separable fat, with added solution, raw
+Food ID: 169179
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 508 kcal
+Protein: 9.27 g
+Carbohydrates: 0 g
+Fat: 52.33 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 18.488 g
+Monounsaturated fat: 21.538 g
+Polyunsaturated fat: 7.532 g
+Trans fat: 0.579 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 191 mg
+Calcium: 22 mg
+Iron: 0.47 mg
+Magnesium: 9 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.04 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.275 mg
+Vitamin B12: 1.47 µg
+Folate: 0 µg

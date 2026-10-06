@@ -1,0 +1,31 @@
+Food: Seeds, sisymbrium sp. seeds, whole, dried
+Food ID: 168587
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 318 kcal
+Protein: 12.14 g
+Carbohydrates: 58.26 g
+Fat: 4.6 g
+
+Fats:
+Saturated fat: 0.902 g
+Monounsaturated fat: 1.486 g
+Polyunsaturated fat: 2.023 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 2130 mg
+Calcium: 1633 mg
+Iron: 0.11 mg
+Magnesium: 314 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 30.7 mg
+Vitamin B6: 0.778 mg
+Vitamin B12: 0 µg
+Folate: 95 µg

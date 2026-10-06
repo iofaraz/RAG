@@ -1,0 +1,36 @@
+Food: Tomato sandwich on white
+Food ID: 2709761
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 8.46 g
+Carbohydrates: 26.54 g
+Fat: 6.8 g
+Fiber: 1.5 g
+Sugar: 3.99 g
+
+Fats:
+Saturated fat: 3.245 g
+Monounsaturated fat: 1.473 g
+Polyunsaturated fat: 1.135 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 494 mg
+Potassium: 159 mg
+Calcium: 264 mg
+Iron: 1.81 mg
+Magnesium: 22 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.42 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.26 µg
+Folate: 62 µg

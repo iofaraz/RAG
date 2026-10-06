@@ -1,0 +1,37 @@
+Food: Kiwifruit, green, raw
+Food ID: 168153
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 1.14 g
+Carbohydrates: 14.66 g
+Fat: 0.52 g
+Fiber: 3 g
+Sugar: 8.99 g
+
+Fats:
+Saturated fat: 0.029 g
+Monounsaturated fat: 0.047 g
+Polyunsaturated fat: 0.287 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 312 mg
+Calcium: 34 mg
+Iron: 0.31 mg
+Magnesium: 17 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 92.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.46 mg
+Vitamin K: 40.3 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

@@ -1,0 +1,37 @@
+Food: Beans, black turtle, mature seeds, raw
+Food ID: 175186
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 21.25 g
+Carbohydrates: 63.25 g
+Fat: 0.9 g
+Fiber: 15.5 g
+Sugar: 2.12 g
+
+Fats:
+Saturated fat: 0.232 g
+Monounsaturated fat: 0.078 g
+Polyunsaturated fat: 0.387 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 1500 mg
+Calcium: 160 mg
+Iron: 8.7 mg
+Magnesium: 160 mg
+Zinc: 2.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 5.6 µg
+Vitamin B6: 0.286 mg
+Vitamin B12: 0 µg
+Folate: 444 µg

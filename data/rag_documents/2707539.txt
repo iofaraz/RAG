@@ -1,0 +1,36 @@
+Food: Peanut butter, lower sodium and lower sugar
+Food ID: 2707539
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 624 kcal
+Protein: 23.5 g
+Carbohydrates: 18.27 g
+Fat: 53.12 g
+Fiber: 6.4 g
+Sugar: 8.42 g
+
+Fats:
+Saturated fat: 10.272 g
+Monounsaturated fat: 26.469 g
+Polyunsaturated fat: 14.4 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 154 mg
+Potassium: 688 mg
+Calcium: 60 mg
+Iron: 2.29 mg
+Magnesium: 166 mg
+Zinc: 3.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 8.58 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.456 mg
+Vitamin B12: 0 µg
+Folate: 116 µg

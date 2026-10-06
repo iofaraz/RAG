@@ -1,0 +1,36 @@
+Food: Pasta, whole grain, cooked
+Food ID: 2708358
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 5.95 g
+Carbohydrates: 29.89 g
+Fat: 1.7 g
+Fiber: 3.9 g
+Sugar: 0.75 g
+
+Fats:
+Saturated fat: 0.242 g
+Monounsaturated fat: 0.175 g
+Polyunsaturated fat: 0.571 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 235 mg
+Potassium: 95 mg
+Calcium: 13 mg
+Iron: 1.71 mg
+Magnesium: 54 mg
+Zinc: 1.33 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

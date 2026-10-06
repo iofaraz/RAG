@@ -1,0 +1,36 @@
+Food: Yogurt parfait, with fruit
+Food ID: 2705450
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 5.25 g
+Carbohydrates: 16.08 g
+Fat: 2.18 g
+Fiber: 1.3 g
+Sugar: 10.36 g
+
+Fats:
+Saturated fat: 0.608 g
+Monounsaturated fat: 0.885 g
+Polyunsaturated fat: 0.407 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 44 mg
+Potassium: 170 mg
+Calcium: 86 mg
+Iron: 0.43 mg
+Magnesium: 21 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 13.5 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.38 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.33 µg
+Folate: 9 µg

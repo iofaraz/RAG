@@ -1,0 +1,32 @@
+Food: Chicken, broilers or fryers, meat and skin and giblets and neck, raw
+Food ID: 171047
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 18.33 g
+Carbohydrates: 0.13 g
+Fat: 14.83 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.24 g
+Monounsaturated fat: 6.08 g
+Polyunsaturated fat: 3.19 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 189 mg
+Calcium: 11 mg
+Iron: 1.31 mg
+Magnesium: 20 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 232 µg
+Vitamin C: 2.6 mg
+Vitamin B6: 0.34 mg
+Vitamin B12: 1.11 µg
+Folate: 30 µg

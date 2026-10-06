@@ -1,0 +1,36 @@
+Food: Coffee, Iced Cafe Mocha
+Food ID: 2710443
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.58 g
+Carbohydrates: 8.95 g
+Fat: 0.91 g
+Fiber: 0 g
+Sugar: 7.99 g
+
+Fats:
+Saturated fat: 0.531 g
+Monounsaturated fat: 0.186 g
+Polyunsaturated fat: 0.041 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 104 mg
+Calcium: 60 mg
+Iron: 0.02 mg
+Magnesium: 22 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.26 µg
+Folate: 1 µg

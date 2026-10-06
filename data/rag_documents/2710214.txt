@@ -1,0 +1,36 @@
+Food: Fruit dressing
+Food ID: 2710214
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 2.51 g
+Carbohydrates: 12.42 g
+Fat: 17.97 g
+Fiber: 0.1 g
+Sugar: 9.67 g
+
+Fats:
+Saturated fat: 10.329 g
+Monounsaturated fat: 3.718 g
+Polyunsaturated fat: 0.795 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 132 mg
+Calcium: 90 mg
+Iron: 0.02 mg
+Magnesium: 9 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 165 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.47 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.21 µg
+Folate: 7 µg

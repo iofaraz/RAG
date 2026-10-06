@@ -1,0 +1,36 @@
+Food: Oil, industrial, coconut (hydrogenated), used for whipped toppings and coffee whiteners
+Food ID: 172367
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 880 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 99.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 93.536 g
+Monounsaturated fat: 0.267 g
+Polyunsaturated fat: 0 g
+Trans fat: 0.267 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 2 mg
+Calcium: 1 mg
+Iron: 0.15 mg
+Magnesium: 0 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.09 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

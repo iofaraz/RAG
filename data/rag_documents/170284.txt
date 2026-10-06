@@ -1,0 +1,36 @@
+Food: Barley, pearled, raw
+Food ID: 170284
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 352 kcal
+Protein: 9.91 g
+Carbohydrates: 77.72 g
+Fat: 1.16 g
+Fiber: 15.6 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 0.244 g
+Monounsaturated fat: 0.149 g
+Polyunsaturated fat: 0.56 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 280 mg
+Calcium: 29 mg
+Iron: 2.5 mg
+Magnesium: 79 mg
+Zinc: 2.13 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

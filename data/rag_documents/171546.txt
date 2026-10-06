@@ -1,0 +1,37 @@
+Food: Soup, chicken and vegetable, canned, ready-to-serve
+Food ID: 171546
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 1.97 g
+Carbohydrates: 4.68 g
+Fat: 0.73 g
+Fiber: 0.9 g
+Sugar: 1.01 g
+
+Fats:
+Saturated fat: 0.121 g
+Monounsaturated fat: 0.158 g
+Polyunsaturated fat: 0.134 g
+Trans fat: 0 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 229 mg
+Potassium: 133 mg
+Calcium: 14 mg
+Iron: 0.25 mg
+Magnesium: 8 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 0.11 µg
+Folate: 13 µg

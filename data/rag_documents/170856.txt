@@ -1,0 +1,31 @@
+Food: Cheese food, cold pack, American
+Food ID: 170856
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 19.66 g
+Carbohydrates: 8.32 g
+Fat: 24.46 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 15.355 g
+Monounsaturated fat: 7.165 g
+Polyunsaturated fat: 0.719 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 966 mg
+Potassium: 363 mg
+Calcium: 497 mg
+Iron: 0.84 mg
+Magnesium: 30 mg
+Zinc: 3.01 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.141 mg
+Vitamin B12: 1.28 µg
+Folate: 5 µg

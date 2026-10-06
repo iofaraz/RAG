@@ -1,0 +1,36 @@
+Food: Bread, whole wheat, with raisins
+Food ID: 2707716
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 8.63 g
+Carbohydrates: 56.35 g
+Fat: 4.14 g
+Fiber: 6.5 g
+Sugar: 19.48 g
+
+Fats:
+Saturated fat: 1.48 g
+Monounsaturated fat: 0.911 g
+Polyunsaturated fat: 0.855 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 480 mg
+Potassium: 322 mg
+Calcium: 59 mg
+Iron: 2.22 mg
+Magnesium: 73 mg
+Zinc: 1.75 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.44 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.163 mg
+Vitamin B12: 0.05 µg
+Folate: 35 µg

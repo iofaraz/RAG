@@ -1,0 +1,37 @@
+Food: Spices, ginger, ground
+Food ID: 170926
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 335 kcal
+Protein: 8.98 g
+Carbohydrates: 71.62 g
+Fat: 4.24 g
+Fiber: 14.1 g
+Sugar: 3.39 g
+
+Fats:
+Saturated fat: 2.599 g
+Monounsaturated fat: 0.479 g
+Polyunsaturated fat: 0.929 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 1320 mg
+Calcium: 114 mg
+Iron: 19.8 mg
+Magnesium: 214 mg
+Zinc: 3.64 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.626 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

@@ -1,0 +1,28 @@
+Food: Beef, Australian, imported, Wagyu, external fat, Aust. marble score 4/5, raw
+Food ID: 171730
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 596 kcal
+Protein: 6.54 g
+Carbohydrates: 0 g
+Fat: 63.27 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 22.504 g
+Monounsaturated fat: 31.583 g
+Polyunsaturated fat: 1.575 g
+Trans fat: 3.304 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 37 mg
+Calcium: 2 mg
+Iron: 1 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg

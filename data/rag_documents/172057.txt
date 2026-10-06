@@ -1,0 +1,37 @@
+Food: Fast foods, griddle cake sandwich, sausage
+Food ID: 172057
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 318 kcal
+Protein: 8.41 g
+Carbohydrates: 31.25 g
+Fat: 17.76 g
+Fiber: 1 g
+Sugar: 11.23 g
+
+Fats:
+Saturated fat: 5.363 g
+Monounsaturated fat: 7.531 g
+Polyunsaturated fat: 2.414 g
+Trans fat: 0.956 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 737 mg
+Potassium: 145 mg
+Calcium: 63 mg
+Iron: 1.42 mg
+Magnesium: 14 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0.27 µg
+Folate: 74 µg

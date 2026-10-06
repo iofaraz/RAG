@@ -1,0 +1,36 @@
+Food: Cheese, Mexican blend
+Food ID: 171288
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 23.54 g
+Carbohydrates: 0.13 g
+Fat: 32.14 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 16.07 g
+Monounsaturated fat: 7.871 g
+Polyunsaturated fat: 0.864 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 607 mg
+Potassium: 85 mg
+Calcium: 659 mg
+Iron: 0.59 mg
+Magnesium: 25 mg
+Zinc: 3.01 mg
+
+Vitamins:
+Vitamin A: 174 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.25 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 1.23 µg
+Folate: 13 µg

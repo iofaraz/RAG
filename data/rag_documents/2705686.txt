@@ -1,0 +1,36 @@
+Food: Firni, Indian pudding
+Food ID: 2705686
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 3.58 g
+Carbohydrates: 25.13 g
+Fat: 3.11 g
+Fiber: 0.3 g
+Sugar: 15.66 g
+
+Fats:
+Saturated fat: 1.491 g
+Monounsaturated fat: 0.872 g
+Polyunsaturated fat: 0.236 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 136 mg
+Calcium: 100 mg
+Iron: 0.51 mg
+Magnesium: 14 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.057 mg
+Vitamin B12: 0.23 µg
+Folate: 17 µg

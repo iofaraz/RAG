@@ -1,0 +1,36 @@
+Food: Chicken, NS as to part, stewed, NS as to skin eaten
+Food ID: 2705938
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 156 kcal
+Protein: 26.03 g
+Carbohydrates: 0 g
+Fat: 5.38 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.366 g
+Monounsaturated fat: 1.921 g
+Polyunsaturated fat: 0.973 g
+Cholesterol: 113 mg
+
+Minerals:
+Sodium: 366 mg
+Potassium: 293 mg
+Calcium: 9 mg
+Iron: 0.77 mg
+Magnesium: 25 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.43 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.607 mg
+Vitamin B12: 0.29 µg
+Folate: 6 µg

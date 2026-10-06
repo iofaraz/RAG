@@ -1,0 +1,36 @@
+Food: Gordita, meat, with beans
+Food ID: 2708586
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 11.41 g
+Carbohydrates: 16.64 g
+Fat: 15.59 g
+Fiber: 2 g
+Sugar: 0.46 g
+
+Fats:
+Saturated fat: 4.643 g
+Monounsaturated fat: 5.985 g
+Polyunsaturated fat: 3.373 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 347 mg
+Potassium: 212 mg
+Calcium: 90 mg
+Iron: 2.32 mg
+Magnesium: 30 mg
+Zinc: 2.34 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.33 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0.77 µg
+Folate: 37 µg

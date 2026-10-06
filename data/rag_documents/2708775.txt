@@ -1,0 +1,36 @@
+Food: Manicotti, cheese-filled, no sauce
+Food ID: 2708775
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 10.4 g
+Carbohydrates: 20.4 g
+Fat: 9.3 g
+Fiber: 0.6 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 5.009 g
+Monounsaturated fat: 2.271 g
+Polyunsaturated fat: 0.657 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 443 mg
+Potassium: 156 mg
+Calcium: 203 mg
+Iron: 1.48 mg
+Magnesium: 19 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 104 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.35 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.58 µg
+Folate: 33 µg

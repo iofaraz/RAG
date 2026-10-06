@@ -1,0 +1,33 @@
+Food: Wheat flour, white, tortilla mix, enriched
+Food ID: 169724
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 405 kcal
+Protein: 9.66 g
+Carbohydrates: 67.14 g
+Fat: 10.63 g
+
+Fats:
+Saturated fat: 4.1 g
+Monounsaturated fat: 4.541 g
+Polyunsaturated fat: 1.522 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 677 mg
+Potassium: 100 mg
+Calcium: 205 mg
+Iron: 7.05 mg
+Magnesium: 21 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.64 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 136 µg

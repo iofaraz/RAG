@@ -1,0 +1,35 @@
+Food: Restaurant, family style, spaghetti and meatballs
+Food ID: 169029
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 170 kcal
+Protein: 7.84 g
+Carbohydrates: 15.51 g
+Fat: 8.52 g
+Fiber: 1.5 g
+Sugar: 2.03 g
+
+Fats:
+Saturated fat: 3.104 g
+Monounsaturated fat: 3.6 g
+Polyunsaturated fat: 1.213 g
+Trans fat: 0.217 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 351 mg
+Potassium: 206 mg
+Calcium: 45 mg
+Iron: 1.29 mg
+Magnesium: 23 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0.9 mg
+Vitamin E: 0.75 mg
+Vitamin B6: 0.143 mg
+Vitamin B12: 0.39 µg
+Folate: 36 µg

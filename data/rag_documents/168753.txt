@@ -1,0 +1,30 @@
+Food: Alcoholic beverage, tequila sunrise, canned
+Food ID: 168753
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 0.3 g
+Carbohydrates: 11.3 g
+Fat: 0.1 g
+Fiber: 0 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 10 mg
+Calcium: 0 mg
+Iron: 0.02 mg
+Magnesium: 7 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 19.3 mg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

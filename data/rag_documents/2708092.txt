@@ -1,0 +1,36 @@
+Food: Cereal or granola bar, with yogurt coating (General Mills Nature Valley Chewy Granola Bar)
+Food ID: 2708092
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 423 kcal
+Protein: 5.71 g
+Carbohydrates: 74.29 g
+Fat: 11.43 g
+Fiber: 4.4 g
+Sugar: 40 g
+
+Fats:
+Saturated fat: 1.372 g
+Monounsaturated fat: 6.372 g
+Polyunsaturated fat: 3.476 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 271 mg
+Potassium: 168 mg
+Calcium: 286 mg
+Iron: 1.03 mg
+Magnesium: 62 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 475 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.7 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.708 mg
+Vitamin B12: 0.01 µg
+Folate: 126 µg

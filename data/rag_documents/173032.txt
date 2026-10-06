@@ -1,0 +1,25 @@
+Food: Goji berries, dried
+Food ID: 173032
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 349 kcal
+Protein: 14.26 g
+Carbohydrates: 77.06 g
+Fat: 0.39 g
+Fiber: 13 g
+Sugar: 45.61 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 298 mg
+Calcium: 190 mg
+Iron: 6.8 mg
+
+Vitamins:
+Vitamin C: 48.4 mg

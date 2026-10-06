@@ -1,0 +1,36 @@
+Food: Syrups, chocolate, HERSHEY'S Genuine Chocolate Flavored Lite Syrup
+Food ID: 168834
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 1.4 g
+Carbohydrates: 34.56 g
+Fat: 0.97 g
+Fiber: 0 g
+Sugar: 28.57 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 100 mg
+Potassium: 187 mg
+Calcium: 11 mg
+Iron: 0 mg
+Magnesium: 36 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

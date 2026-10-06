@@ -1,0 +1,36 @@
+Food: Frozen yogurt cone, chocolate
+Food ID: 2705459
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 3.2 g
+Carbohydrates: 23.9 g
+Fat: 3.73 g
+Fiber: 2.3 g
+Sugar: 18.71 g
+
+Fats:
+Saturated fat: 2.23 g
+Monounsaturated fat: 0.996 g
+Polyunsaturated fat: 0.228 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 229 mg
+Calcium: 97 mg
+Iron: 0.59 mg
+Magnesium: 25 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.07 µg
+Folate: 18 µg

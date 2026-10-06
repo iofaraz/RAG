@@ -1,0 +1,36 @@
+Food: Fast Food, Pizza Chain, 14" pizza, meat and vegetable topping, regular crust
+Food ID: 172055
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 11.02 g
+Carbohydrates: 25.38 g
+Fat: 10.9 g
+Fiber: 2.2 g
+Sugar: 3.73 g
+
+Fats:
+Saturated fat: 4.407 g
+Monounsaturated fat: 3.787 g
+Polyunsaturated fat: 1.89 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 589 mg
+Potassium: 184 mg
+Calcium: 120 mg
+Iron: 1.86 mg
+Magnesium: 23 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.68 µg
+Folate: 62 µg

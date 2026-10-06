@@ -1,0 +1,36 @@
+Food: Soup, onion, canned, condensed
+Food ID: 171551
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 3.06 g
+Carbohydrates: 6.68 g
+Fat: 1.42 g
+Fiber: 0.7 g
+Sugar: 2.72 g
+
+Fats:
+Saturated fat: 0.21 g
+Monounsaturated fat: 0.61 g
+Polyunsaturated fat: 0.53 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 516 mg
+Potassium: 56 mg
+Calcium: 22 mg
+Iron: 0.55 mg
+Magnesium: 2 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

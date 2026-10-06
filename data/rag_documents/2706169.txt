@@ -1,0 +1,36 @@
+Food: Hot dog, reduced fat
+Food ID: 2706169
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 13.75 g
+Carbohydrates: 5.1 g
+Fat: 15.66 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.504 g
+Monounsaturated fat: 7.398 g
+Polyunsaturated fat: 0.869 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 615 mg
+Potassium: 203 mg
+Calcium: 16 mg
+Iron: 1.17 mg
+Magnesium: 10 mg
+Zinc: 2.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.156 mg
+Vitamin B12: 0.88 µg
+Folate: 3 µg

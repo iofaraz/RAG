@@ -1,0 +1,36 @@
+Food: Popcorn, caramel coated, with nuts
+Food ID: 2708240
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 397 kcal
+Protein: 6.35 g
+Carbohydrates: 80.06 g
+Fat: 7.74 g
+Fiber: 3.8 g
+Sugar: 45 g
+
+Fats:
+Saturated fat: 1.032 g
+Monounsaturated fat: 2.708 g
+Polyunsaturated fat: 3.244 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 352 mg
+Calcium: 66 mg
+Iron: 3.88 mg
+Magnesium: 79 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.84 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.184 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

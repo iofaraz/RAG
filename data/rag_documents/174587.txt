@@ -1,0 +1,32 @@
+Food: Luncheon sausage, pork and beef
+Food ID: 174587
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 15.38 g
+Carbohydrates: 1.58 g
+Fat: 20.9 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.62 g
+Monounsaturated fat: 9.93 g
+Polyunsaturated fat: 2.05 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 1182 mg
+Potassium: 245 mg
+Calcium: 13 mg
+Iron: 1.43 mg
+Magnesium: 14 mg
+Zinc: 2.45 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.2 mg
+Vitamin B12: 1.96 µg
+Folate: 3 µg

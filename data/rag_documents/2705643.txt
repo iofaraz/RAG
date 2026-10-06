@@ -1,0 +1,36 @@
+Food: Ice cream sandwich, chocolate
+Food ID: 2705643
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 4.5 g
+Carbohydrates: 39.33 g
+Fat: 11.8 g
+Fiber: 1.8 g
+Sugar: 28.38 g
+
+Fats:
+Saturated fat: 6.16 g
+Monounsaturated fat: 3.624 g
+Polyunsaturated fat: 1.346 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 202 mg
+Potassium: 239 mg
+Calcium: 90 mg
+Iron: 1.7 mg
+Magnesium: 35 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.4 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.24 µg
+Folate: 24 µg

@@ -1,0 +1,29 @@
+Food: Fish, monkfish, cooked, dry heat
+Food ID: 171996
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 18.56 g
+Carbohydrates: 0 g
+Fat: 1.95 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 513 mg
+Calcium: 10 mg
+Iron: 0.41 mg
+Magnesium: 27 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 1 mg
+Vitamin B6: 0.277 mg
+Vitamin B12: 1.04 µg
+Folate: 8 µg

@@ -1,0 +1,36 @@
+Food: Strawberry milk, NFS
+Food ID: 2705495
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 3.2 g
+Carbohydrates: 8.54 g
+Fat: 2.06 g
+Fiber: 0 g
+Sugar: 8.45 g
+
+Fats:
+Saturated fat: 1.2 g
+Monounsaturated fat: 0.44 g
+Polyunsaturated fat: 0.067 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 150 mg
+Calcium: 121 mg
+Iron: 0.02 mg
+Magnesium: 12 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0.54 µg
+Folate: 1 µg

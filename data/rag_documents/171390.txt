@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, Enfagrow, Soy, Toddler ready-to-feed
+Food ID: 171390
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 2.17 g
+Carbohydrates: 7.64 g
+Fat: 2.89 g
+Fiber: 0 g
+Sugar: 7.64 g
+
+Fats:
+Saturated fat: 0.855 g
+Monounsaturated fat: 0.727 g
+Polyunsaturated fat: 0.38 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 79 mg
+Calcium: 128 mg
+Iron: 1.31 mg
+Magnesium: 7 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 7.9 mg
+Vitamin D: 1 µg
+Vitamin E: 0.59 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.2 µg
+Folate: 11 µg

@@ -1,0 +1,33 @@
+Food: MORI-NU, Tofu, silken, soft
+Food ID: 174292
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 4.8 g
+Carbohydrates: 2.9 g
+Fat: 2.7 g
+Fiber: 0.1 g
+Sugar: 1.31 g
+
+Fats:
+Saturated fat: 0.357 g
+Monounsaturated fat: 0.522 g
+Polyunsaturated fat: 1.55 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 180 mg
+Calcium: 31 mg
+Iron: 0.82 mg
+Magnesium: 29 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0 µg

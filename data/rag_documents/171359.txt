@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, whole wheat, with apples, dry fortified
+Food ID: 171359
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 402 kcal
+Protein: 6.6 g
+Carbohydrates: 83.2 g
+Fat: 4.8 g
+Fiber: 6.7 g
+Sugar: 26.66 g
+
+Fats:
+Saturated fat: 0.639 g
+Monounsaturated fat: 1.277 g
+Polyunsaturated fat: 1.866 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 500 mg
+Calcium: 600 mg
+Iron: 45 mg
+Magnesium: 140 mg
+Zinc: 2.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 58.3 mg
+Vitamin D: 0 µg
+Vitamin E: 50 mg
+Vitamin K: 8.3 µg
+Vitamin B6: 0.66 mg
+Vitamin B12: 3.33 µg
+Folate: 166 µg

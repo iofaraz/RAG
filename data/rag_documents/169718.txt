@@ -1,0 +1,33 @@
+Food: Triticale
+Food ID: 169718
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 336 kcal
+Protein: 13.05 g
+Carbohydrates: 72.13 g
+Fat: 2.09 g
+
+Fats:
+Saturated fat: 0.366 g
+Monounsaturated fat: 0.211 g
+Polyunsaturated fat: 0.913 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 332 mg
+Calcium: 37 mg
+Iron: 2.57 mg
+Magnesium: 130 mg
+Zinc: 3.45 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.9 mg
+Vitamin B6: 0.138 mg
+Vitamin B12: 0 µg
+Folate: 73 µg

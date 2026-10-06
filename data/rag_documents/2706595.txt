@@ -1,0 +1,36 @@
+Food: Beef, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy
+Food ID: 2706595
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 5.23 g
+Carbohydrates: 11.17 g
+Fat: 7.16 g
+Fiber: 1.4 g
+Sugar: 0.94 g
+
+Fats:
+Saturated fat: 1.327 g
+Monounsaturated fat: 2.971 g
+Polyunsaturated fat: 2.201 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 302 mg
+Potassium: 215 mg
+Calcium: 13 mg
+Iron: 0.59 mg
+Magnesium: 14 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 78 µg
+Vitamin C: 6.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.27 mg
+Vitamin K: 15.3 µg
+Vitamin B6: 0.194 mg
+Vitamin B12: 0.22 µg
+Folate: 12 µg

@@ -1,0 +1,36 @@
+Food: Potato, hash brown, from fast food, with cheese
+Food ID: 2709479
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 295 kcal
+Protein: 6.03 g
+Carbohydrates: 24.47 g
+Fat: 19.87 g
+Fiber: 2.2 g
+Sugar: 0.52 g
+
+Fats:
+Saturated fat: 5.317 g
+Monounsaturated fat: 7.762 g
+Polyunsaturated fat: 4.917 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 581 mg
+Potassium: 309 mg
+Calcium: 134 mg
+Iron: 0.53 mg
+Magnesium: 22 mg
+Zinc: 0.91 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.31 mg
+Vitamin K: 8.6 µg
+Vitamin B6: 0.166 mg
+Vitamin B12: 0.17 µg
+Folate: 13 µg

@@ -1,0 +1,36 @@
+Food: Tomatoes, canned, reduced sodium, cooked
+Food ID: 2709724
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 39 kcal
+Protein: 0.78 g
+Carbohydrates: 3.37 g
+Fat: 2.8 g
+Fiber: 1.8 g
+Sugar: 2.48 g
+
+Fats:
+Saturated fat: 0.701 g
+Monounsaturated fat: 0.945 g
+Polyunsaturated fat: 0.83 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 186 mg
+Calcium: 32 mg
+Iron: 0.56 mg
+Magnesium: 10 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 12.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

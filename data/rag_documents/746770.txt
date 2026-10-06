@@ -1,0 +1,26 @@
+Food: Melons, cantaloupe, raw
+Food ID: 746770
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 0.82 g
+Carbohydrates: 8.16 g
+Fat: 0.18 g
+Fiber: 0.8 g
+
+Minerals:
+Sodium: 30 mg
+Potassium: 157 mg
+Calcium: 9 mg
+Iron: 0.38 mg
+Magnesium: 13 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 232 µg
+Vitamin C: 10.9 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.04 mg
+Folate: 14 µg

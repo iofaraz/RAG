@@ -1,0 +1,36 @@
+Food: Mushrooms, enoki, raw
+Food ID: 169382
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 2.66 g
+Carbohydrates: 7.81 g
+Fat: 0.29 g
+Fiber: 2.7 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 0.027 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.124 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 359 mg
+Calcium: 0 mg
+Iron: 1.15 mg
+Magnesium: 16 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 48 µg

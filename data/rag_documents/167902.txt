@@ -1,0 +1,32 @@
+Food: Pork, fresh, ground, raw
+Food ID: 167902
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 263 kcal
+Protein: 16.88 g
+Carbohydrates: 0 g
+Fat: 21.19 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.87 g
+Monounsaturated fat: 9.44 g
+Polyunsaturated fat: 1.91 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 287 mg
+Calcium: 14 mg
+Iron: 0.88 mg
+Magnesium: 19 mg
+Zinc: 2.2 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.7 mg
+Vitamin B6: 0.383 mg
+Vitamin B12: 0.7 µg
+Folate: 5 µg

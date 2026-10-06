@@ -1,0 +1,32 @@
+Food: Fish, tuna salad
+Food ID: 175160
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 16.04 g
+Carbohydrates: 9.41 g
+Fat: 9.26 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.544 g
+Monounsaturated fat: 2.887 g
+Polyunsaturated fat: 4.122 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 402 mg
+Potassium: 178 mg
+Calcium: 17 mg
+Iron: 1 mg
+Magnesium: 19 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 2.2 mg
+Vitamin B6: 0.081 mg
+Vitamin B12: 1.2 µg
+Folate: 8 µg

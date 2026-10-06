@@ -1,0 +1,36 @@
+Food: Sopaipilla, without syrup or honey
+Food ID: 2708034
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 367 kcal
+Protein: 5.79 g
+Carbohydrates: 41.46 g
+Fat: 20.18 g
+Fiber: 1.4 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 4.928 g
+Monounsaturated fat: 8.036 g
+Polyunsaturated fat: 5.67 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 898 mg
+Potassium: 73 mg
+Calcium: 98 mg
+Iron: 3.16 mg
+Magnesium: 15 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.22 mg
+Vitamin K: 10.5 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 55 µg

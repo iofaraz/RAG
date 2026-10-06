@@ -1,0 +1,36 @@
+Food: Sausage, turkey, hot, smoked
+Food ID: 174606
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 15.05 g
+Carbohydrates: 4.65 g
+Fat: 8.75 g
+Fiber: 0.3 g
+Sugar: 3.2 g
+
+Fats:
+Saturated fat: 3.401 g
+Monounsaturated fat: 2.38 g
+Polyunsaturated fat: 1.572 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 916 mg
+Potassium: 197 mg
+Calcium: 21 mg
+Iron: 9.6 mg
+Magnesium: 25 mg
+Zinc: 2.13 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 30.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.381 mg
+Vitamin B12: 0.43 µg
+Folate: 8 µg

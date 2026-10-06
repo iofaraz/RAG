@@ -1,0 +1,34 @@
+Food: Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, with real strawberries
+Food ID: 173019
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 399 kcal
+Protein: 6.7 g
+Carbohydrates: 83.3 g
+Fat: 4.9 g
+Fiber: 5.4 g
+Sugar: 24 g
+
+Fats:
+Saturated fat: 0.6 g
+Monounsaturated fat: 2.5 g
+Polyunsaturated fat: 1.5 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 410 mg
+Potassium: 219 mg
+Calcium: 26 mg
+Iron: 26.1 mg
+Magnesium: 46 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin C: 15.6 mg
+Vitamin D: 3.2 µg
+Vitamin B6: 1.7 mg
+Vitamin B12: 4.8 µg
+Folate: 323 µg

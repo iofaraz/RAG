@@ -1,0 +1,28 @@
+Food: Archway Home Style Cookies, Old Fashioned Molasses
+Food ID: 173250
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 406 kcal
+Protein: 4.27 g
+Carbohydrates: 70.55 g
+Fat: 11.83 g
+Fiber: 1.1 g
+Sugar: 36.09 g
+
+Fats:
+Saturated fat: 2.77 g
+Monounsaturated fat: 4.8 g
+Polyunsaturated fat: 1 g
+Trans fat: 3.25 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 561 mg
+Calcium: 32 mg
+Iron: 4.99 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Folate: 71 µg

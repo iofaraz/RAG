@@ -1,0 +1,36 @@
+Food: Cookies, chocolate wafers
+Food ID: 172714
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 433 kcal
+Protein: 6.6 g
+Carbohydrates: 72.7 g
+Fat: 14.2 g
+Fiber: 3.4 g
+Sugar: 37.43 g
+
+Fats:
+Saturated fat: 4.241 g
+Monounsaturated fat: 4.865 g
+Polyunsaturated fat: 4.153 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 580 mg
+Potassium: 210 mg
+Calcium: 31 mg
+Iron: 4.01 mg
+Magnesium: 53 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.09 µg
+Folate: 47 µg

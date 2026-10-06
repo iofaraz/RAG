@@ -1,0 +1,33 @@
+Food: Sausage, pork, chorizo, link or ground, cooked, pan-fried
+Food ID: 746781
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 19.3 g
+Carbohydrates: 2.63 g
+Fat: 28.1 g
+
+Fats:
+Saturated fat: 9.45 g
+Monounsaturated fat: 11.7 g
+Polyunsaturated fat: 4.74 g
+Trans fat: 0.115 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 983 mg
+Potassium: 435 mg
+Calcium: 37 mg
+Iron: 2.34 mg
+Magnesium: 30.1 mg
+Zinc: 2.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 1.5 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.554 mg
+Vitamin B12: 1.21 µg
+Folate: 10 µg

@@ -1,0 +1,36 @@
+Food: Bean salad, yellow and/or green string beans
+Food ID: 2710009
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 3.52 g
+Carbohydrates: 13 g
+Fat: 5 g
+Fiber: 3.4 g
+Sugar: 3.48 g
+
+Fats:
+Saturated fat: 0.712 g
+Monounsaturated fat: 1.281 g
+Polyunsaturated fat: 2.548 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 266 mg
+Potassium: 210 mg
+Calcium: 27 mg
+Iron: 1.32 mg
+Magnesium: 23 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 9.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.54 mg
+Vitamin K: 27.2 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0 µg
+Folate: 54 µg

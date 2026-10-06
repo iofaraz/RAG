@@ -1,0 +1,36 @@
+Food: Imitation cheese
+Food ID: 2705777
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 25 g
+Carbohydrates: 1 g
+Fat: 32 g
+Fiber: 0 g
+Sugar: 1 g
+
+Fats:
+Saturated fat: 5.815 g
+Monounsaturated fat: 14.127 g
+Polyunsaturated fat: 10.615 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 670 mg
+Potassium: 55 mg
+Calcium: 705 mg
+Iron: 0.7 mg
+Magnesium: 30 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 115 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.83 µg
+Folate: 18 µg

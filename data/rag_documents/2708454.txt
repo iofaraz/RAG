@@ -1,0 +1,36 @@
+Food: Cereal, corn puffs
+Food ID: 2708454
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 7.74 g
+Carbohydrates: 77.82 g
+Fat: 2.57 g
+Fiber: 7.3 g
+Sugar: 12.24 g
+
+Fats:
+Saturated fat: 0.259 g
+Monounsaturated fat: 0.962 g
+Polyunsaturated fat: 0.981 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 525 mg
+Potassium: 122 mg
+Calcium: 324 mg
+Iron: 27.99 mg
+Magnesium: 28 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 22.8 mg
+Vitamin D: 5 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.787 mg
+Vitamin B12: 0.89 µg
+Folate: 148 µg

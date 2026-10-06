@@ -1,0 +1,37 @@
+Food: Sauce, pasta, spaghetti/marinara, ready-to-serve
+Food ID: 171192
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.39 g
+Carbohydrates: 7.43 g
+Fat: 1.61 g
+Fiber: 1.8 g
+Sugar: 4.91 g
+
+Fats:
+Saturated fat: 0.218 g
+Monounsaturated fat: 0.298 g
+Polyunsaturated fat: 0.673 g
+Trans fat: 0.007 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 437 mg
+Potassium: 320 mg
+Calcium: 26 mg
+Iron: 0.73 mg
+Magnesium: 18 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.4 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.173 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

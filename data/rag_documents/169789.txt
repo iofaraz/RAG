@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 24 calories ready-to-feed Low iron
+Food ID: 169789
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 1.97 g
+Carbohydrates: 7.19 g
+Fat: 3.34 g
+Fiber: 0 g
+Sugar: 7.21 g
+
+Fats:
+Saturated fat: 1.339 g
+Monounsaturated fat: 0.85 g
+Polyunsaturated fat: 1.169 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 64 mg
+Calcium: 108 mg
+Iron: 0.33 mg
+Magnesium: 6 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 248 µg
+Vitamin C: 13.1 mg
+Vitamin D: 3.9 µg
+Vitamin E: 1.86 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.16 µg
+Folate: 26 µg

@@ -1,0 +1,36 @@
+Food: Cheese, pasteurized process, American, low fat
+Food ID: 169080
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 24.6 g
+Carbohydrates: 3.5 g
+Fat: 7 g
+Fiber: 0 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 4.41 g
+Monounsaturated fat: 2.005 g
+Polyunsaturated fat: 0.222 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 1789 mg
+Potassium: 180 mg
+Calcium: 684 mg
+Iron: 0.43 mg
+Magnesium: 24 mg
+Zinc: 3.32 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.27 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.77 µg
+Folate: 9 µg

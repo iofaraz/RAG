@@ -1,0 +1,36 @@
+Food: Bread, sweet potato, toasted
+Food ID: 2707649
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 9.5 g
+Carbohydrates: 49.87 g
+Fat: 3.15 g
+Fiber: 1.9 g
+Sugar: 3.88 g
+
+Fats:
+Saturated fat: 1.055 g
+Monounsaturated fat: 0.727 g
+Polyunsaturated fat: 0.736 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 521 mg
+Potassium: 173 mg
+Calcium: 39 mg
+Iron: 3.45 mg
+Magnesium: 28 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.51 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.096 mg
+Vitamin B12: 0.05 µg
+Folate: 63 µg

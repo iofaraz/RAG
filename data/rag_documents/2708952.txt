@@ -1,0 +1,36 @@
+Food: Rice, fried, NFS
+Food ID: 2708952
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 3.84 g
+Carbohydrates: 32.5 g
+Fat: 3.19 g
+Fiber: 1.1 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 0.493 g
+Monounsaturated fat: 0.588 g
+Polyunsaturated fat: 1.13 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 69 mg
+Calcium: 11 mg
+Iron: 0.46 mg
+Magnesium: 10 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

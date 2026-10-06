@@ -1,0 +1,27 @@
+Food: Nance, canned, syrup, drained
+Food ID: 167788
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 0.56 g
+Carbohydrates: 22.79 g
+Fat: 1.28 g
+Fiber: 7 g
+Sugar: 15.66 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 8 mg
+Potassium: 194 mg
+Calcium: 42 mg
+Iron: 0.37 mg
+Magnesium: 16 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin C: 10.8 mg
+Vitamin B6: 0.015 mg

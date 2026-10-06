@@ -1,0 +1,29 @@
+Food: Veal, shank (fore and hind), separable lean only, raw
+Food ID: 172570
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 19.28 g
+Carbohydrates: 0 g
+Fat: 2.83 g
+
+Fats:
+Saturated fat: 0.738 g
+Monounsaturated fat: 0.982 g
+Polyunsaturated fat: 0.334 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 85 mg
+Potassium: 316 mg
+Calcium: 20 mg
+Iron: 0.76 mg
+Magnesium: 21 mg
+Zinc: 4.02 mg
+
+Vitamins:
+Vitamin B6: 0.44 mg
+Vitamin B12: 1.37 µg
+Folate: 15 µg

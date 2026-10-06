@@ -1,0 +1,32 @@
+Food: Corn, white, steamed (Navajo)
+Food ID: 168037
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 9.72 g
+Carbohydrates: 75.2 g
+Fat: 5.18 g
+Fiber: 16.6 g
+Sugar: 6.47 g
+
+Fats:
+Saturated fat: 0.83 g
+Monounsaturated fat: 1.483 g
+Polyunsaturated fat: 1.862 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 532 mg
+Calcium: 14 mg
+Iron: 2.29 mg
+Magnesium: 123 mg
+Zinc: 3.15 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.289 mg
+Folate: 100 µg

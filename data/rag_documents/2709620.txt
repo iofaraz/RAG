@@ -1,0 +1,36 @@
+Food: Spinach, NS as to form, cooked
+Food ID: 2709620
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 3.32 g
+Carbohydrates: 3.01 g
+Fat: 3.68 g
+Fiber: 1.8 g
+Sugar: 0.48 g
+
+Fats:
+Saturated fat: 0.855 g
+Monounsaturated fat: 1.074 g
+Polyunsaturated fat: 1.047 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 264 mg
+Potassium: 524 mg
+Calcium: 77 mg
+Iron: 1.2 mg
+Magnesium: 106 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 344 µg
+Vitamin C: 24.2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.76 mg
+Vitamin K: 552.4 µg
+Vitamin B6: 0.251 mg
+Vitamin B12: 0 µg
+Folate: 97 µg

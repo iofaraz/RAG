@@ -1,0 +1,27 @@
+Food: Melon, banana (Navajo)
+Food ID: 167629
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 0.84 g
+Carbohydrates: 4.06 g
+Fat: 0.2 g
+Fiber: 0.3 g
+Sugar: 3.36 g
+
+Minerals:
+Sodium: 11 mg
+Potassium: 140 mg
+Calcium: 13 mg
+Iron: 0.21 mg
+Magnesium: 10 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin C: 8.1 mg
+Vitamin E: 0 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.05 mg
+Folate: 20 µg

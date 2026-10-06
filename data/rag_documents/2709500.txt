@@ -1,0 +1,36 @@
+Food: Potato, mashed, from restaurant
+Food ID: 2709500
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 2.07 g
+Carbohydrates: 16.77 g
+Fat: 7.22 g
+Fiber: 1.1 g
+Sugar: 2.05 g
+
+Fats:
+Saturated fat: 3.486 g
+Monounsaturated fat: 1.937 g
+Polyunsaturated fat: 0.926 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 315 mg
+Calcium: 25 mg
+Iron: 0.27 mg
+Magnesium: 20 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 9.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.56 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.307 mg
+Vitamin B12: 0.04 µg
+Folate: 7 µg

@@ -1,0 +1,35 @@
+Food: Beverages, chocolate syrup, prepared with whole milk
+Food ID: 174118
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 3.07 g
+Carbohydrates: 12.78 g
+Fat: 2.96 g
+Fiber: 0.3 g
+Sugar: 11.31 g
+
+Fats:
+Saturated fat: 1.681 g
+Monounsaturated fat: 0.74 g
+Polyunsaturated fat: 0.172 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 145 mg
+Calcium: 89 mg
+Iron: 0.32 mg
+Magnesium: 18 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin E: 0.05 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0.38 µg
+Folate: 5 µg

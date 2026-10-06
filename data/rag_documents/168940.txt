@@ -1,0 +1,36 @@
+Food: Wheat flour, white (industrial), 11.5% protein, bleached, unenriched
+Food ID: 168940
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 363 kcal
+Protein: 11.5 g
+Carbohydrates: 73.81 g
+Fat: 1.45 g
+Fiber: 2.4 g
+Sugar: 1.12 g
+
+Fats:
+Saturated fat: 0.268 g
+Monounsaturated fat: 0.166 g
+Polyunsaturated fat: 0.749 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 138 mg
+Calcium: 20 mg
+Iron: 1.26 mg
+Magnesium: 30 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

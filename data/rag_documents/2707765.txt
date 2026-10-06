@@ -1,0 +1,36 @@
+Food: Bread, black, toasted
+Food ID: 2707765
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 275 kcal
+Protein: 9.56 g
+Carbohydrates: 52.2 g
+Fat: 3.41 g
+Fiber: 7.1 g
+Sugar: 0.58 g
+
+Fats:
+Saturated fat: 0.48 g
+Monounsaturated fat: 1.024 g
+Polyunsaturated fat: 1.359 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 655 mg
+Potassium: 229 mg
+Calcium: 75 mg
+Iron: 3.15 mg
+Magnesium: 59 mg
+Zinc: 1.63 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.138 mg
+Vitamin B12: 0 µg
+Folate: 87 µg

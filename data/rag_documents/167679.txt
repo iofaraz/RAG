@@ -1,0 +1,37 @@
+Food: Restaurant, Chinese, orange chicken
+Food ID: 167679
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 262 kcal
+Protein: 14.46 g
+Carbohydrates: 22.46 g
+Fat: 12.68 g
+Fiber: 0.8 g
+Sugar: 13.6 g
+
+Fats:
+Saturated fat: 2.422 g
+Monounsaturated fat: 3.474 g
+Polyunsaturated fat: 6.086 g
+Trans fat: 0.053 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 553 mg
+Potassium: 209 mg
+Calcium: 14 mg
+Iron: 0.94 mg
+Magnesium: 20 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.07 mg
+Vitamin K: 24.4 µg
+Vitamin B6: 0.23 mg
+Vitamin B12: 0.2 µg
+Folate: 10 µg

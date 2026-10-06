@@ -1,0 +1,25 @@
+Food: George Weston Bakeries, Thomas English Muffins
+Food ID: 167515
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 232 kcal
+Protein: 8 g
+Carbohydrates: 46 g
+Fat: 1.8 g
+
+Fats:
+Saturated fat: 0.308 g
+Monounsaturated fat: 0.303 g
+Polyunsaturated fat: 0.92 g
+Trans fat: 0.082 g
+
+Minerals:
+Sodium: 345 mg
+Calcium: 180 mg
+Iron: 1.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Folate: 40 µg

@@ -1,0 +1,22 @@
+Food: Flour, 00
+Food ID: 2003586
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 11.4 g
+Carbohydrates: 74.4462 g
+Fat: 1.52 g
+Fiber: 2.656 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 135.5 mg
+Calcium: 18.68 mg
+Iron: 0.9863 mg
+Magnesium: 25.8 mg
+Zinc: 0.791 mg
+
+Vitamins:
+Vitamin B6: 0.05513 mg
+Folate: 13.46 µg

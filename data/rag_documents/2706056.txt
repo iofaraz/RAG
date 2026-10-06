@@ -1,0 +1,36 @@
+Food: Chicken wing, NS as to cooking method
+Food ID: 2706056
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 23.42 g
+Carbohydrates: 0.6 g
+Fat: 18.04 g
+Fiber: 0 g
+Sugar: 0.6 g
+
+Fats:
+Saturated fat: 4.627 g
+Monounsaturated fat: 7.332 g
+Polyunsaturated fat: 2.177 g
+Cholesterol: 129 mg
+
+Minerals:
+Sodium: 579 mg
+Potassium: 285 mg
+Calcium: 33 mg
+Iron: 0.93 mg
+Magnesium: 23 mg
+Zinc: 1.57 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.212 mg
+Vitamin B12: 0.45 µg
+Folate: 8 µg

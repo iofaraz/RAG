@@ -1,0 +1,36 @@
+Food: Pasta, whole grain, with cream sauce and poultry, ready-to-heat
+Food ID: 2708917
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 6.28 g
+Carbohydrates: 15.93 g
+Fat: 9.09 g
+Fiber: 2 g
+Sugar: 0.73 g
+
+Fats:
+Saturated fat: 3.795 g
+Monounsaturated fat: 2.282 g
+Polyunsaturated fat: 1.4 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 386 mg
+Potassium: 90 mg
+Calcium: 34 mg
+Iron: 0.97 mg
+Magnesium: 31 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.6 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0.12 µg
+Folate: 12 µg

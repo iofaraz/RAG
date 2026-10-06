@@ -1,0 +1,37 @@
+Food: Beef, round, eye of round steak, boneless, separable lean and fat, trimmed to 0" fat, choice, cooked, grilled
+Food ID: 173994
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 163 kcal
+Protein: 29.79 g
+Carbohydrates: 0 g
+Fat: 4.83 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.744 g
+Monounsaturated fat: 2.059 g
+Polyunsaturated fat: 0.346 g
+Trans fat: 0.225 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 419 mg
+Calcium: 17 mg
+Iron: 1.91 mg
+Magnesium: 16 mg
+Zinc: 4.43 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.33 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.837 mg
+Vitamin B12: 2.18 µg
+Folate: 5 µg

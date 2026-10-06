@@ -1,0 +1,36 @@
+Food: Candies, soft fruit and nut squares
+Food ID: 170658
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 2.31 g
+Carbohydrates: 73.81 g
+Fat: 9.52 g
+Fiber: 2.4 g
+Sugar: 45.95 g
+
+Fats:
+Saturated fat: 0.898 g
+Monounsaturated fat: 1.297 g
+Polyunsaturated fat: 6.84 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 131 mg
+Potassium: 82 mg
+Calcium: 17 mg
+Iron: 0.93 mg
+Magnesium: 25 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

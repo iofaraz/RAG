@@ -1,0 +1,21 @@
+Food: Flour, rice, brown
+Food ID: 1104812
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 365.25 kcal
+Protein: 7.19 g
+Carbohydrates: 75.5 g
+Fat: 3.85 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 265 mg
+Calcium: 10 mg
+Iron: 1.5 mg
+Magnesium: 124 mg
+Zinc: 1.91 mg
+
+Vitamins:
+Vitamin B6: 0.132 mg

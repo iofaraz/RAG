@@ -1,0 +1,36 @@
+Food: Chicken or turkey creole, without rice
+Food ID: 2706784
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 13.8 g
+Carbohydrates: 2.99 g
+Fat: 4.22 g
+Fiber: 1.1 g
+Sugar: 1.83 g
+
+Fats:
+Saturated fat: 0.931 g
+Monounsaturated fat: 1.754 g
+Polyunsaturated fat: 0.881 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 364 mg
+Potassium: 276 mg
+Calcium: 24 mg
+Iron: 0.72 mg
+Magnesium: 19 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 12.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.83 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.196 mg
+Vitamin B12: 0.18 µg
+Folate: 11 µg

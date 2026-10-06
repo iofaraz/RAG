@@ -1,0 +1,36 @@
+Food: Shrimp, grilled
+Food ID: 2706362
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 17.26 g
+Carbohydrates: 1.16 g
+Fat: 3.55 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.924 g
+Monounsaturated fat: 1.034 g
+Polyunsaturated fat: 1.024 g
+Cholesterol: 162 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 144 mg
+Calcium: 69 mg
+Iron: 0.27 mg
+Magnesium: 28 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.01 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.198 mg
+Vitamin B12: 1.2 µg
+Folate: 18 µg

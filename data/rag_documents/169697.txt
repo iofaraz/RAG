@@ -1,0 +1,36 @@
+Food: Cornmeal, whole-grain, yellow
+Food ID: 169697
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 362 kcal
+Protein: 8.12 g
+Carbohydrates: 76.89 g
+Fat: 3.59 g
+Fiber: 7.3 g
+Sugar: 0.64 g
+
+Fats:
+Saturated fat: 0.505 g
+Monounsaturated fat: 0.948 g
+Polyunsaturated fat: 1.638 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 287 mg
+Calcium: 6 mg
+Iron: 3.45 mg
+Magnesium: 127 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.304 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

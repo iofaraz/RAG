@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, ALPEN
+Food ID: 169075
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 352 kcal
+Protein: 11.2 g
+Carbohydrates: 75.7 g
+Fat: 3.3 g
+Fiber: 9.1 g
+Sugar: 20 g
+
+Fats:
+Saturated fat: 0.496 g
+Monounsaturated fat: 1.327 g
+Polyunsaturated fat: 0.925 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 418 mg
+Calcium: 147 mg
+Iron: 3 mg
+Magnesium: 94 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 8.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.28 mg
+Vitamin B12: 0.12 µg
+Folate: 30 µg

@@ -1,0 +1,32 @@
+Food: Fish, mahimahi, cooked, dry heat
+Food ID: 171992
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 23.72 g
+Carbohydrates: 0 g
+Fat: 0.9 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.241 g
+Monounsaturated fat: 0.155 g
+Polyunsaturated fat: 0.211 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 113 mg
+Potassium: 533 mg
+Calcium: 19 mg
+Iron: 1.45 mg
+Magnesium: 38 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.462 mg
+Vitamin B12: 0.69 µg
+Folate: 6 µg

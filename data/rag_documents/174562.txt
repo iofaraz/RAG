@@ -1,0 +1,32 @@
+Food: Soup, turkey noodle, canned, prepared with equal volume water
+Food ID: 174562
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 28 kcal
+Protein: 1.6 g
+Carbohydrates: 3.54 g
+Fat: 0.82 g
+Fiber: 0.3 g
+
+Fats:
+Saturated fat: 0.23 g
+Monounsaturated fat: 0.33 g
+Polyunsaturated fat: 0.2 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 334 mg
+Potassium: 31 mg
+Calcium: 5 mg
+Iron: 0.39 mg
+Magnesium: 2 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.015 mg
+Vitamin B12: 0.06 µg
+Folate: 8 µg

@@ -1,0 +1,36 @@
+Food: Cabbage, red, pickled
+Food ID: 2710076
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 1.03 g
+Carbohydrates: 10.49 g
+Fat: 0.19 g
+Fiber: 1.7 g
+Sugar: 8.05 g
+
+Fats:
+Saturated fat: 0.017 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.066 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 954 mg
+Potassium: 223 mg
+Calcium: 27 mg
+Iron: 0 mg
+Magnesium: 11 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 38 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 26.8 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

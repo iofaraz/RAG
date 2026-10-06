@@ -1,0 +1,36 @@
+Food: Shrimp teriyaki
+Food ID: 2706462
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 21.62 g
+Carbohydrates: 3.34 g
+Fat: 1.56 g
+Fiber: 0 g
+Sugar: 1.76 g
+
+Fats:
+Saturated fat: 0.478 g
+Monounsaturated fat: 0.331 g
+Polyunsaturated fat: 0.541 g
+Cholesterol: 193 mg
+
+Minerals:
+Sodium: 581 mg
+Potassium: 184 mg
+Calcium: 87 mg
+Iron: 0.51 mg
+Magnesium: 42 mg
+Zinc: 1.51 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.02 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.234 mg
+Vitamin B12: 1.52 µg
+Folate: 23 µg

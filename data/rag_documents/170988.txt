@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, ALIMENTUM ADVANCE, with iron, powder, not reconstituted, with DHA and ARA
+Food ID: 170988
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 517 kcal
+Protein: 13.99 g
+Carbohydrates: 51.91 g
+Fat: 28.19 g
+Fiber: 0 g
+Sugar: 34.18 g
+
+Fats:
+Saturated fat: 14.282 g
+Monounsaturated fat: 2.276 g
+Polyunsaturated fat: 8.877 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 224 mg
+Potassium: 598 mg
+Calcium: 534 mg
+Iron: 9.16 mg
+Magnesium: 38 mg
+Zinc: 3.82 mg
+
+Vitamins:
+Vitamin A: 458 µg
+Vitamin C: 45.8 mg
+Vitamin D: 5.7 µg
+Vitamin E: 10.24 mg
+Vitamin K: 76.3 µg
+Vitamin B6: 0.305 mg
+Vitamin B12: 2.29 µg
+Folate: 76 µg

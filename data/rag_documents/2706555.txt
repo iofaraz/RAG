@@ -1,0 +1,36 @@
+Food: Shrimp and noodles with mushroom sauce
+Food ID: 2706555
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 6.31 g
+Carbohydrates: 15.05 g
+Fat: 5.24 g
+Fiber: 0.8 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 0.984 g
+Monounsaturated fat: 1.678 g
+Polyunsaturated fat: 2.067 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 226 mg
+Potassium: 78 mg
+Calcium: 35 mg
+Iron: 0.82 mg
+Magnesium: 18 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.98 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0.34 µg
+Folate: 45 µg

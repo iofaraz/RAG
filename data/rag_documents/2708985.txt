@@ -1,0 +1,36 @@
+Food: Biryani with vegetables
+Food ID: 2708985
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 1.93 g
+Carbohydrates: 17.91 g
+Fat: 3.2 g
+Fiber: 1.2 g
+Sugar: 1.18 g
+
+Fats:
+Saturated fat: 1.705 g
+Monounsaturated fat: 0.676 g
+Polyunsaturated fat: 0.152 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 177 mg
+Potassium: 102 mg
+Calcium: 17 mg
+Iron: 1.04 mg
+Magnesium: 11 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 4.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.071 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

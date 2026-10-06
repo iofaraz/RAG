@@ -1,0 +1,26 @@
+Food: Sauce, barbecue, KC MASTERPIECE, original
+Food ID: 171829
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 1 g
+Carbohydrates: 37.92 g
+Fat: 0.52 g
+Fiber: 1.4 g
+Sugar: 30.95 g
+
+Minerals:
+Sodium: 613 mg
+Potassium: 277 mg
+Calcium: 40 mg
+Iron: 1.09 mg
+Magnesium: 16 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.2 mg
+Vitamin E: 0.96 mg
+Vitamin B6: 0.093 mg

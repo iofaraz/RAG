@@ -1,0 +1,36 @@
+Food: Chicken curry with rice
+Food ID: 2706438
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 4.96 g
+Carbohydrates: 15.12 g
+Fat: 4 g
+Fiber: 1 g
+Sugar: 1.56 g
+
+Fats:
+Saturated fat: 0.965 g
+Monounsaturated fat: 1.488 g
+Polyunsaturated fat: 1.174 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 324 mg
+Potassium: 182 mg
+Calcium: 16 mg
+Iron: 0.9 mg
+Magnesium: 15 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.88 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0.05 µg
+Folate: 33 µg

@@ -1,0 +1,36 @@
+Food: Waffle, fruit
+Food ID: 2708326
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 307 kcal
+Protein: 6.94 g
+Carbohydrates: 36.25 g
+Fat: 14.92 g
+Fiber: 2.8 g
+Sugar: 9.11 g
+
+Fats:
+Saturated fat: 3.265 g
+Monounsaturated fat: 5.52 g
+Polyunsaturated fat: 4.711 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 467 mg
+Potassium: 175 mg
+Calcium: 192 mg
+Iron: 1.4 mg
+Magnesium: 20 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 71 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.9 µg
+Vitamin E: 2.5 mg
+Vitamin K: 16.5 µg
+Vitamin B6: 0.141 mg
+Vitamin B12: 0.35 µg
+Folate: 43 µg

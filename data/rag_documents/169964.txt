@@ -1,0 +1,33 @@
+Food: Beans, snap, green, frozen, all styles, microwaved
+Food ID: 169964
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 1.98 g
+Carbohydrates: 6.98 g
+Fat: 0.41 g
+Fiber: 3.4 g
+Sugar: 2.6 g
+
+Fats:
+Saturated fat: 0.092 g
+Monounsaturated fat: 0.016 g
+Polyunsaturated fat: 0.214 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 3 mg
+Potassium: 237 mg
+Calcium: 61 mg
+Iron: 0.8 mg
+Magnesium: 29 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin C: 11 mg
+Vitamin E: 0.42 mg
+Vitamin K: 57.7 µg
+Vitamin B6: 0.063 mg
+Folate: 12 µg

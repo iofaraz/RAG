@@ -1,0 +1,36 @@
+Food: Stewed tripe, with potatoes, Puerto Rican style
+Food ID: 2706725
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 8.56 g
+Carbohydrates: 9.49 g
+Fat: 4.05 g
+Fiber: 1.6 g
+Sugar: 2.03 g
+
+Fats:
+Saturated fat: 0.968 g
+Monounsaturated fat: 1.394 g
+Polyunsaturated fat: 1.185 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 561 mg
+Potassium: 272 mg
+Calcium: 43 mg
+Iron: 0.84 mg
+Magnesium: 21 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 17.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.74 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.151 mg
+Vitamin B12: 0.46 µg
+Folate: 32 µg

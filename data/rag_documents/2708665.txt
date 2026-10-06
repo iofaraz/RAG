@@ -1,0 +1,36 @@
+Food: Pizza with meat and vegetables, from restaurant or fast food, thick crust
+Food ID: 2708665
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 259 kcal
+Protein: 10.94 g
+Carbohydrates: 30.11 g
+Fat: 10.53 g
+Fiber: 2 g
+Sugar: 3.23 g
+
+Fats:
+Saturated fat: 4.175 g
+Monounsaturated fat: 2.806 g
+Polyunsaturated fat: 2.607 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 505 mg
+Potassium: 179 mg
+Calcium: 161 mg
+Iron: 2.35 mg
+Magnesium: 22 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.77 mg
+Vitamin K: 9.2 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.41 µg
+Folate: 96 µg

@@ -1,0 +1,37 @@
+Food: Cream, sour, cultured
+Food ID: 171257
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 198 kcal
+Protein: 2.44 g
+Carbohydrates: 4.63 g
+Fat: 19.35 g
+Fiber: 0 g
+Sugar: 3.41 g
+
+Fats:
+Saturated fat: 10.14 g
+Monounsaturated fat: 4.594 g
+Polyunsaturated fat: 0.8 g
+Trans fat: 0.796 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 125 mg
+Calcium: 101 mg
+Iron: 0.07 mg
+Magnesium: 10 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 124 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.21 µg
+Folate: 6 µg

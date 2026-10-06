@@ -1,0 +1,33 @@
+Food: ON THE BORDER, cheese quesadilla
+Food ID: 169034
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 394 kcal
+Protein: 16.87 g
+Carbohydrates: 24.25 g
+Fat: 25.5 g
+Fiber: 2.2 g
+Sugar: 2.04 g
+
+Fats:
+Saturated fat: 12.976 g
+Monounsaturated fat: 6.309 g
+Polyunsaturated fat: 2.361 g
+Trans fat: 0.635 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 677 mg
+Potassium: 95 mg
+Calcium: 432 mg
+Iron: 1.52 mg
+Magnesium: 24 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin E: 0.68 mg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.82 µg
+Folate: 55 µg

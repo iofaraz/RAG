@@ -1,0 +1,36 @@
+Food: Pineapple juice, 100%
+Food ID: 2709329
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 0.36 g
+Carbohydrates: 12.87 g
+Fat: 0.12 g
+Fiber: 0.2 g
+Sugar: 9.98 g
+
+Fats:
+Saturated fat: 0.008 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.042 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 130 mg
+Calcium: 13 mg
+Iron: 0.31 mg
+Magnesium: 12 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 43.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

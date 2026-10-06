@@ -1,0 +1,36 @@
+Food: Macaroni or pasta salad with shrimp
+Food ID: 2708944
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 6.86 g
+Carbohydrates: 20.94 g
+Fat: 9.99 g
+Fiber: 1.2 g
+Sugar: 1.57 g
+
+Fats:
+Saturated fat: 1.578 g
+Monounsaturated fat: 2.172 g
+Polyunsaturated fat: 5.794 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 304 mg
+Potassium: 54 mg
+Calcium: 29 mg
+Iron: 1.18 mg
+Magnesium: 17 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.64 mg
+Vitamin K: 23.5 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.13 µg
+Folate: 49 µg

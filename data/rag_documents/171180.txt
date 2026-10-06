@@ -1,0 +1,34 @@
+Food: Soup, SWANSON, vegetable broth
+Food ID: 171180
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 6 kcal
+Protein: 0.23 g
+Carbohydrates: 1.02 g
+Fat: 0.07 g
+Fiber: 0 g
+Sugar: 0.57 g
+
+Fats:
+Saturated fat: 0.031 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.004 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 303 mg
+Potassium: 20 mg
+Calcium: 3 mg
+Iron: 0.08 mg
+Magnesium: 1 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.4 mg
+Vitamin E: 0 mg
+Vitamin B6: 0.007 mg
+Folate: 0 µg

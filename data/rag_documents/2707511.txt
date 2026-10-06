@@ -1,0 +1,36 @@
+Food: Mixed nuts, honey roasted
+Food ID: 2707511
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 586 kcal
+Protein: 15.35 g
+Carbohydrates: 33.11 g
+Fat: 46.72 g
+Fiber: 5.8 g
+Sugar: 20.34 g
+
+Fats:
+Saturated fat: 6.553 g
+Monounsaturated fat: 24.074 g
+Polyunsaturated fat: 12.343 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 388 mg
+Potassium: 470 mg
+Calcium: 73 mg
+Iron: 2.16 mg
+Magnesium: 153 mg
+Zinc: 2.49 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 6.92 mg
+Vitamin K: 13 µg
+Vitamin B6: 0.291 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

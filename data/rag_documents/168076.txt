@@ -1,0 +1,35 @@
+Food: DENNY'S, mozzarella cheese sticks
+Food ID: 168076
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 324 kcal
+Protein: 13.56 g
+Carbohydrates: 27.22 g
+Fat: 17.87 g
+Fiber: 1.6 g
+Sugar: 2.83 g
+
+Fats:
+Saturated fat: 6.643 g
+Monounsaturated fat: 4.287 g
+Polyunsaturated fat: 5.104 g
+Trans fat: 0.372 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 1008 mg
+Potassium: 121 mg
+Calcium: 331 mg
+Iron: 0.84 mg
+Magnesium: 21 mg
+Zinc: 1.98 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin E: 0.74 mg
+Vitamin K: 25.4 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.95 µg
+Folate: 26 µg

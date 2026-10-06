@@ -1,0 +1,36 @@
+Food: Cookie, marshmallow, chocolate-covered
+Food ID: 2707916
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 421 kcal
+Protein: 4 g
+Carbohydrates: 67.7 g
+Fat: 16.9 g
+Fiber: 2 g
+Sugar: 44.8 g
+
+Fats:
+Saturated fat: 4.722 g
+Monounsaturated fat: 9.345 g
+Polyunsaturated fat: 1.943 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 188 mg
+Potassium: 182 mg
+Calcium: 46 mg
+Iron: 2.53 mg
+Magnesium: 36 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0.17 µg
+Folate: 23 µg

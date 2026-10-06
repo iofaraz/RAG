@@ -1,0 +1,36 @@
+Food: Lobster with bread stuffing, baked
+Food ID: 2706563
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 177 kcal
+Protein: 14.98 g
+Carbohydrates: 9.83 g
+Fat: 8.26 g
+Fiber: 0.5 g
+Sugar: 1.21 g
+
+Fats:
+Saturated fat: 4.168 g
+Monounsaturated fat: 1.745 g
+Polyunsaturated fat: 0.81 g
+Cholesterol: 120 mg
+
+Minerals:
+Sodium: 641 mg
+Potassium: 187 mg
+Calcium: 110 mg
+Iron: 0.86 mg
+Magnesium: 35 mg
+Zinc: 2.96 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.73 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.097 mg
+Vitamin B12: 0.98 µg
+Folate: 23 µg

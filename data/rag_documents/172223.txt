@@ -1,0 +1,37 @@
+Food: Cheese, fresh, queso fresco
+Food ID: 172223
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 18.09 g
+Carbohydrates: 2.98 g
+Fat: 23.82 g
+Fiber: 0 g
+Sugar: 2.32 g
+
+Fats:
+Saturated fat: 12.94 g
+Monounsaturated fat: 5.966 g
+Polyunsaturated fat: 1.106 g
+Trans fat: 0.834 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 751 mg
+Potassium: 129 mg
+Calcium: 566 mg
+Iron: 0.2 mg
+Magnesium: 24 mg
+Zinc: 2.58 mg
+
+Vitamins:
+Vitamin A: 224 µg
+Vitamin C: 0 mg
+Vitamin D: 2.7 µg
+Vitamin E: 0.37 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 1.68 µg
+Folate: 7 µg

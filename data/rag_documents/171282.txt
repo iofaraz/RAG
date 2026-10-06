@@ -1,0 +1,35 @@
+Food: Whey, sweet, fluid
+Food ID: 171282
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.85 g
+Carbohydrates: 5.14 g
+Fat: 0.36 g
+Fiber: 0 g
+Sugar: 5.14 g
+
+Fats:
+Saturated fat: 0.23 g
+Monounsaturated fat: 0.1 g
+Polyunsaturated fat: 0.011 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 161 mg
+Calcium: 47 mg
+Iron: 0.06 mg
+Magnesium: 8 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.1 mg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.28 µg
+Folate: 1 µg

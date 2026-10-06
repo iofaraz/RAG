@@ -1,0 +1,33 @@
+Food: Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D
+Food ID: 170873
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 3.48 g
+Carbohydrates: 4.97 g
+Fat: 0.97 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.604 g
+Monounsaturated fat: 0.28 g
+Polyunsaturated fat: 0.036 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 162 mg
+Calcium: 128 mg
+Iron: 0.05 mg
+Magnesium: 14 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 1 mg
+Vitamin D: 1 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.38 µg
+Folate: 5 µg

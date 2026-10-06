@@ -1,0 +1,36 @@
+Food: Potatoes, mashed, dehydrated, granules with milk, dry form
+Food ID: 170041
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 10.9 g
+Carbohydrates: 77.7 g
+Fat: 1.1 g
+Fiber: 6.6 g
+Sugar: 3.37 g
+
+Fats:
+Saturated fat: 0.461 g
+Monounsaturated fat: 0.152 g
+Polyunsaturated fat: 0.285 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 82 mg
+Potassium: 1848 mg
+Calcium: 142 mg
+Iron: 3.5 mg
+Magnesium: 74 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 16 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 8.7 µg
+Vitamin B6: 0.887 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

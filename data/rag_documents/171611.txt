@@ -1,0 +1,36 @@
+Food: Soup, beef and mushroom, low sodium, chunk style
+Food ID: 171611
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 4.3 g
+Carbohydrates: 9.58 g
+Fat: 2.3 g
+Fiber: 0.2 g
+Sugar: 0.84 g
+
+Fats:
+Saturated fat: 1.621 g
+Monounsaturated fat: 0.394 g
+Polyunsaturated fat: 0.068 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 140 mg
+Calcium: 13 mg
+Iron: 0.97 mg
+Magnesium: 2 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.26 µg
+Folate: 5 µg

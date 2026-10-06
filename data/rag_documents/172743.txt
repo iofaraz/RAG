@@ -1,0 +1,32 @@
+Food: Crackers, rye, sandwich-type with cheese filling
+Food ID: 172743
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 481 kcal
+Protein: 9.2 g
+Carbohydrates: 60.8 g
+Fat: 22.3 g
+Fiber: 3.6 g
+
+Fats:
+Saturated fat: 5.987 g
+Monounsaturated fat: 12.236 g
+Polyunsaturated fat: 2.863 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 1044 mg
+Potassium: 342 mg
+Calcium: 222 mg
+Iron: 2.45 mg
+Magnesium: 37 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0.4 mg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.12 µg
+Folate: 81 µg

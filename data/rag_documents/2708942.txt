@@ -1,0 +1,36 @@
+Food: Macaroni or pasta salad with tuna
+Food ID: 2708942
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 200 kcal
+Protein: 6.69 g
+Carbohydrates: 20.88 g
+Fat: 9.9 g
+Fiber: 1.2 g
+Sugar: 1.57 g
+
+Fats:
+Saturated fat: 1.579 g
+Monounsaturated fat: 2.166 g
+Polyunsaturated fat: 5.712 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 206 mg
+Potassium: 69 mg
+Calcium: 10 mg
+Iron: 1.11 mg
+Magnesium: 16 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.52 mg
+Vitamin K: 23.5 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.41 µg
+Folate: 48 µg

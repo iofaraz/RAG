@@ -1,0 +1,37 @@
+Food: Mollusks, oyster, eastern, wild, cooked, dry heat
+Food ID: 175171
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 8.87 g
+Carbohydrates: 4.23 g
+Fat: 2.65 g
+Fiber: 0 g
+Sugar: 0.96 g
+
+Fats:
+Saturated fat: 0.736 g
+Monounsaturated fat: 0.393 g
+Polyunsaturated fat: 0.82 g
+Trans fat: 0.053 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 132 mg
+Potassium: 242 mg
+Calcium: 92 mg
+Iron: 7.16 mg
+Magnesium: 28 mg
+Zinc: 61.04 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.32 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 12.91 µg
+Folate: 10 µg

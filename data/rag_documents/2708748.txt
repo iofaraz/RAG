@@ -1,0 +1,36 @@
+Food: Dressing with chicken or turkey and vegetables
+Food ID: 2708748
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 8.2 g
+Carbohydrates: 20.97 g
+Fat: 11.17 g
+Fiber: 1.4 g
+Sugar: 2.72 g
+
+Fats:
+Saturated fat: 2.529 g
+Monounsaturated fat: 4.686 g
+Polyunsaturated fat: 3.355 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 509 mg
+Potassium: 128 mg
+Calcium: 100 mg
+Iron: 2.58 mg
+Magnesium: 17 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 345 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.01 mg
+Vitamin K: 18 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 1.42 µg
+Folate: 74 µg

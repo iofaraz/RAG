@@ -1,0 +1,36 @@
+Food: Nutritional supplement for people with diabetes, liquid
+Food ID: 170892
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 4.4 g
+Carbohydrates: 11.88 g
+Fat: 3.08 g
+Fiber: 2.2 g
+Sugar: 2.64 g
+
+Fats:
+Saturated fat: 0.232 g
+Monounsaturated fat: 2.318 g
+Polyunsaturated fat: 0.395 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 176 mg
+Calcium: 110 mg
+Iron: 1.98 mg
+Magnesium: 44 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 165 µg
+Vitamin C: 26.4 mg
+Vitamin D: 1.1 µg
+Vitamin E: 1.46 mg
+Vitamin K: 8.8 µg
+Vitamin B6: 0.22 mg
+Vitamin B12: 0.66 µg
+Folate: 44 µg

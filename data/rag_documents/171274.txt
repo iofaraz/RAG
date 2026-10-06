@@ -1,0 +1,36 @@
+Food: Milk, buttermilk, dried
+Food ID: 171274
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 34.3 g
+Carbohydrates: 49 g
+Fat: 5.78 g
+Fiber: 0 g
+Sugar: 49 g
+
+Fats:
+Saturated fat: 3.598 g
+Monounsaturated fat: 1.669 g
+Polyunsaturated fat: 0.215 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 517 mg
+Potassium: 1592 mg
+Calcium: 1184 mg
+Iron: 0.3 mg
+Magnesium: 110 mg
+Zinc: 4.02 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 5.7 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.1 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.338 mg
+Vitamin B12: 3.82 µg
+Folate: 47 µg

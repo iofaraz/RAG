@@ -1,0 +1,19 @@
+Food: Rutabaga, peeled, raw
+Food ID: 2727580
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.8875 g
+Fiber: 2.9 g
+
+Minerals:
+Sodium: 4.591 mg
+Potassium: 266.6 mg
+Calcium: 42 mg
+Iron: 0.1373 mg
+Magnesium: 15.44 mg
+Zinc: 0.2111 mg
+
+Vitamins:
+Vitamin B6: 0.1988 mg

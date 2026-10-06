@@ -1,0 +1,36 @@
+Food: Arepa Dominicana
+Food ID: 2707828
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 267 kcal
+Protein: 5.66 g
+Carbohydrates: 30.47 g
+Fat: 14 g
+Fiber: 2.4 g
+Sugar: 3.25 g
+
+Fats:
+Saturated fat: 9.083 g
+Monounsaturated fat: 2.457 g
+Polyunsaturated fat: 1.448 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 399 mg
+Potassium: 202 mg
+Calcium: 82 mg
+Iron: 2.31 mg
+Magnesium: 28 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.54 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.19 µg
+Folate: 60 µg

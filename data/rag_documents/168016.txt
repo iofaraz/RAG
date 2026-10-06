@@ -1,0 +1,26 @@
+Food: Sweet Potato puffs, frozen, unprepared
+Food ID: 168016
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 1.36 g
+Carbohydrates: 30.72 g
+Fat: 3.58 g
+Fiber: 1.9 g
+Sugar: 7.65 g
+
+Fats:
+Saturated fat: 0.31 g
+Trans fat: 0.07 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 250 mg
+Potassium: 248 mg
+Calcium: 57 mg
+Iron: 0.4 mg
+
+Vitamins:
+Vitamin C: 2.2 mg

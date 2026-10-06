@@ -1,0 +1,26 @@
+Food: Oheloberries, raw
+Food ID: 169915
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 28 kcal
+Protein: 0.38 g
+Carbohydrates: 6.84 g
+Fat: 0.22 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 38 mg
+Calcium: 7 mg
+Iron: 0.09 mg
+Magnesium: 6 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 6 mg
+Vitamin B12: 0 µg

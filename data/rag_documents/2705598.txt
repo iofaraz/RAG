@@ -1,0 +1,36 @@
+Food: Cream, whipped
+Food ID: 2705598
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 1.9 g
+Carbohydrates: 9.49 g
+Fat: 33.45 g
+Fiber: 0 g
+Sugar: 8.55 g
+
+Fats:
+Saturated fat: 19.191 g
+Monounsaturated fat: 6.905 g
+Polyunsaturated fat: 1.477 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 91 mg
+Calcium: 57 mg
+Iron: 0 mg
+Magnesium: 6 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 308 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.86 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

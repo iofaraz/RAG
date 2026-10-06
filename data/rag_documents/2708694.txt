@@ -1,0 +1,36 @@
+Food: Pizza, cheese, gluten-free thick crust
+Food ID: 2708694
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 261 kcal
+Protein: 7.81 g
+Carbohydrates: 30.54 g
+Fat: 11.88 g
+Fiber: 2.9 g
+Sugar: 3.27 g
+
+Fats:
+Saturated fat: 3.716 g
+Monounsaturated fat: 5.122 g
+Polyunsaturated fat: 0.935 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 477 mg
+Potassium: 111 mg
+Calcium: 234 mg
+Iron: 1.81 mg
+Magnesium: 15 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.65 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0.19 µg
+Folate: 25 µg

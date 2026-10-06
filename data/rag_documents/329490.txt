@@ -1,0 +1,24 @@
+Food: Egg, whole, dried
+Food ID: 329490
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 575 kcal
+Protein: 48.1 g
+Carbohydrates: 1.87 g
+Fat: 39.8 g
+
+Fats:
+Cholesterol: 1700 mg
+
+Minerals:
+Sodium: 485 mg
+Potassium: 468 mg
+Calcium: 220 mg
+Iron: 6.97 mg
+Magnesium: 44.6 mg
+Zinc: 5.02 mg
+
+Vitamins:
+Vitamin D: 9.7 µg

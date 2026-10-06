@@ -1,0 +1,36 @@
+Food: Cauliflower, frozen, cooked with butter or margarine
+Food ID: 2709905
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 38 kcal
+Protein: 1.58 g
+Carbohydrates: 3.64 g
+Fat: 2.4 g
+Fiber: 2.6 g
+Sugar: 1.03 g
+
+Fats:
+Saturated fat: 0.977 g
+Monounsaturated fat: 0.59 g
+Polyunsaturated fat: 0.447 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 147 mg
+Potassium: 135 mg
+Calcium: 17 mg
+Iron: 0.4 mg
+Magnesium: 9 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 30.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 12.8 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0 µg
+Folate: 40 µg

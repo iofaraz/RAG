@@ -1,0 +1,17 @@
+Food: Beans, great northern, canned, sodium added, drained and rinsed
+Food ID: 2644294
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 7.03125 g
+Carbohydrates: 19.3287 g
+Fat: 1.266 g
+
+Minerals:
+Sodium: 223.1 mg
+Potassium: 213.1 mg
+Calcium: 67.16 mg
+Iron: 1.382 mg
+Magnesium: 29.3 mg
+Zinc: 0.6349 mg

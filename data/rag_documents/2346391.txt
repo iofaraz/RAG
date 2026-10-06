@@ -1,0 +1,22 @@
+Food: Lettuce, leaf, green, raw
+Food ID: 2346391
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.09375 g
+Carbohydrates: 4.06615 g
+Fat: 0.1563 g
+
+Minerals:
+Sodium: 28.88 mg
+Potassium: 277.1 mg
+Calcium: 39.84 mg
+Iron: 0.3195 mg
+Magnesium: 12.77 mg
+Zinc: 0.3103 mg
+
+Vitamins:
+Vitamin C: 15.15 mg
+Vitamin K: 118.5 µg
+Vitamin B6: 0.07088 mg

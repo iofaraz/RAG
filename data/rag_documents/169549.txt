@@ -1,0 +1,36 @@
+Food: Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8" fat, prime, cooked, roasted
+Food ID: 169549
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 343 kcal
+Protein: 24.04 g
+Carbohydrates: 0 g
+Fat: 26.67 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 10.63 g
+Monounsaturated fat: 11.01 g
+Polyunsaturated fat: 1.03 g
+Cholesterol: 88 mg
+
+Minerals:
+Sodium: 55 mg
+Potassium: 336 mg
+Calcium: 8 mg
+Iron: 3.12 mg
+Magnesium: 23 mg
+Zinc: 4.39 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.55 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.33 mg
+Vitamin B12: 2.53 µg
+Folate: 7 µg

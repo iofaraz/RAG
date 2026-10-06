@@ -1,0 +1,37 @@
+Food: Pork, fresh, loin, country-style ribs, separable lean and fat, bone-in, cooked, broiled
+Food ID: 169200
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 25.58 g
+Carbohydrates: 0 g
+Fat: 17.56 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.311 g
+Monounsaturated fat: 6.366 g
+Polyunsaturated fat: 2.378 g
+Trans fat: 0.052 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 344 mg
+Calcium: 57 mg
+Iron: 0.96 mg
+Magnesium: 22 mg
+Zinc: 3.41 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.23 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.534 mg
+Vitamin B12: 0.71 µg
+Folate: 0 µg

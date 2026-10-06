@@ -1,0 +1,36 @@
+Food: Lobster with sauce, Puerto Rican style
+Food ID: 2706869
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 10.75 g
+Carbohydrates: 3.94 g
+Fat: 10.55 g
+Fiber: 0.9 g
+Sugar: 2.24 g
+
+Fats:
+Saturated fat: 1.681 g
+Monounsaturated fat: 6.966 g
+Polyunsaturated fat: 1.177 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 719 mg
+Potassium: 282 mg
+Calcium: 63 mg
+Iron: 0.65 mg
+Magnesium: 32 mg
+Zinc: 2.27 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 8.9 mg
+Vitamin D: 0 µg
+Vitamin E: 3.15 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.131 mg
+Vitamin B12: 0.68 µg
+Folate: 11 µg

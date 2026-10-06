@@ -1,0 +1,36 @@
+Food: Almond butter and jelly sandwich, on white bread
+Food ID: 2707564
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 10.98 g
+Carbohydrates: 44.88 g
+Fat: 16.99 g
+Fiber: 4.2 g
+Sugar: 13.26 g
+
+Fats:
+Saturated fat: 1.648 g
+Monounsaturated fat: 10.239 g
+Polyunsaturated fat: 4.581 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 313 mg
+Potassium: 284 mg
+Calcium: 189 mg
+Iron: 3 mg
+Magnesium: 92 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 4.85 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0 µg
+Folate: 72 µg

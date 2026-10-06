@@ -1,0 +1,37 @@
+Food: Kale, cooked, boiled, drained, without salt
+Food ID: 169238
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 2.94 g
+Carbohydrates: 5.3 g
+Fat: 1.21 g
+Fiber: 4 g
+Sugar: 1.21 g
+
+Fats:
+Saturated fat: 0.175 g
+Monounsaturated fat: 0.102 g
+Polyunsaturated fat: 0.66 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 144 mg
+Calcium: 150 mg
+Iron: 0.84 mg
+Magnesium: 25 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 146 µg
+Vitamin C: 17.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.61 mg
+Vitamin K: 418.5 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0 µg
+Folate: 65 µg

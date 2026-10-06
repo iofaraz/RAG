@@ -1,0 +1,36 @@
+Food: Puddings, chocolate flavor, low calorie, regular, dry mix
+Food ID: 167740
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 365 kcal
+Protein: 10.08 g
+Carbohydrates: 74.42 g
+Fat: 3 g
+Fiber: 10.1 g
+Sugar: 0.7 g
+
+Fats:
+Saturated fat: 1.578 g
+Monounsaturated fat: 1.15 g
+Polyunsaturated fat: 0.13 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3326 mg
+Potassium: 570 mg
+Calcium: 50 mg
+Iron: 3.87 mg
+Magnesium: 110 mg
+Zinc: 1.49 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Egg sandwich on white bread, with meat and cheese
+Food ID: 2707310
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 13.08 g
+Carbohydrates: 17.74 g
+Fat: 17.16 g
+Fiber: 0.8 g
+Sugar: 2.4 g
+
+Fats:
+Saturated fat: 6.263 g
+Monounsaturated fat: 6.078 g
+Polyunsaturated fat: 3.245 g
+Cholesterol: 150 mg
+
+Minerals:
+Sodium: 510 mg
+Potassium: 168 mg
+Calcium: 194 mg
+Iron: 1.92 mg
+Magnesium: 19 mg
+Zinc: 1.53 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.9 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.62 µg
+Folate: 55 µg

@@ -1,0 +1,36 @@
+Food: Toddler meal, NFS
+Food ID: 2710133
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 3.65 g
+Carbohydrates: 12.84 g
+Fat: 2.08 g
+Fiber: 1 g
+Sugar: 1.37 g
+
+Fats:
+Saturated fat: 0.708 g
+Monounsaturated fat: 0.812 g
+Polyunsaturated fat: 0.384 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 99 mg
+Calcium: 45 mg
+Iron: 0.69 mg
+Magnesium: 13 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 87 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.09 µg
+Folate: 26 µg

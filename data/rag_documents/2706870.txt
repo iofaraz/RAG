@@ -1,0 +1,36 @@
+Food: Octopus salad, Puerto Rican style
+Food ID: 2706870
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 170 kcal
+Protein: 9.67 g
+Carbohydrates: 5.56 g
+Fat: 11.95 g
+Fiber: 1 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 1.904 g
+Monounsaturated fat: 7.79 g
+Polyunsaturated fat: 1.242 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 129 mg
+Potassium: 297 mg
+Calcium: 44 mg
+Iron: 3.3 mg
+Magnesium: 24 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 8.9 mg
+Vitamin D: 0 µg
+Vitamin E: 3.26 mg
+Vitamin K: 6.1 µg
+Vitamin B6: 0.237 mg
+Vitamin B12: 9.69 µg
+Folate: 18 µg

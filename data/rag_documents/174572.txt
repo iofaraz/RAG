@@ -1,0 +1,37 @@
+Food: Turkey breast, low salt, prepackaged or deli, luncheon meat
+Food ID: 174572
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 21.81 g
+Carbohydrates: 3.51 g
+Fat: 0.83 g
+Fiber: 0.5 g
+Sugar: 3.51 g
+
+Fats:
+Saturated fat: 0.197 g
+Monounsaturated fat: 0.261 g
+Polyunsaturated fat: 0.184 g
+Trans fat: 0 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 772 mg
+Potassium: 211 mg
+Calcium: 8 mg
+Iron: 0.63 mg
+Magnesium: 21 mg
+Zinc: 1.33 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 5.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.128 mg
+Vitamin B12: 0.09 µg
+Folate: 4 µg

@@ -1,0 +1,17 @@
+Food: Blackeye pea, dry
+Food ID: 2644284
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 21.225 g
+Carbohydrates: 61.836 g
+Fat: 2.419 g
+
+Minerals:
+Sodium: 3.458 mg
+Potassium: 1243 mg
+Calcium: 71.4 mg
+Iron: 5.93 mg
+Magnesium: 183.9 mg
+Zinc: 3.654 mg

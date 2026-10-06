@@ -1,0 +1,36 @@
+Food: Crisp, apple
+Food ID: 2708023
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 2.81 g
+Carbohydrates: 30.18 g
+Fat: 9.59 g
+Fiber: 2.7 g
+Sugar: 15.82 g
+
+Fats:
+Saturated fat: 4.772 g
+Monounsaturated fat: 2.081 g
+Polyunsaturated fat: 0.718 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 119 mg
+Potassium: 119 mg
+Calcium: 15 mg
+Iron: 1 mg
+Magnesium: 30 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

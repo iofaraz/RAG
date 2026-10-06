@@ -1,0 +1,26 @@
+Food: Potatoes, french fried, steak cut, salt not added in processing, frozen, unprepared
+Food ID: 168947
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 2.4 g
+Carbohydrates: 24.31 g
+Fat: 3.42 g
+Fiber: 2.4 g
+Sugar: 0.21 g
+
+Fats:
+Saturated fat: 0.88 g
+Trans fat: 0.07 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 360 mg
+Calcium: 13 mg
+Iron: 0.83 mg
+
+Vitamins:
+Vitamin C: 6.9 mg

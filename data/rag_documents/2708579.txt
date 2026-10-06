@@ -1,0 +1,36 @@
+Food: Nachos, beef or pork, with beans
+Food ID: 2708579
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 220 kcal
+Protein: 9.28 g
+Carbohydrates: 18.26 g
+Fat: 12.45 g
+Fiber: 2 g
+Sugar: 0.38 g
+
+Fats:
+Saturated fat: 3.124 g
+Monounsaturated fat: 4.493 g
+Polyunsaturated fat: 3.618 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 424 mg
+Potassium: 188 mg
+Calcium: 56 mg
+Iron: 1.36 mg
+Magnesium: 30 mg
+Zinc: 1.88 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.39 mg
+Vitamin K: 8.4 µg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0.58 µg
+Folate: 16 µg

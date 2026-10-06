@@ -1,0 +1,36 @@
+Food: Bread, white, commercially prepared, toasted
+Food ID: 174925
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 9 g
+Carbohydrates: 54.5 g
+Fat: 4 g
+Fiber: 2.9 g
+Sugar: 6.2 g
+
+Fats:
+Saturated fat: 0.764 g
+Monounsaturated fat: 0.796 g
+Polyunsaturated fat: 2.09 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 537 mg
+Potassium: 131 mg
+Calcium: 119 mg
+Iron: 3.33 mg
+Magnesium: 26 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0.02 µg
+Folate: 104 µg

@@ -1,0 +1,33 @@
+Food: Tofu, fried, prepared with calcium sulfate
+Food ID: 174304
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 18.82 g
+Carbohydrates: 8.86 g
+Fat: 20.18 g
+Fiber: 3.9 g
+
+Fats:
+Saturated fat: 2.918 g
+Monounsaturated fat: 4.456 g
+Polyunsaturated fat: 11.39 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 146 mg
+Calcium: 961 mg
+Iron: 4.87 mg
+Magnesium: 95 mg
+Zinc: 1.99 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

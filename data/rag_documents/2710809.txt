@@ -1,0 +1,36 @@
+Food: Mirepoix, cooked, as ingredient
+Food ID: 2710809
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 1.02 g
+Carbohydrates: 9.06 g
+Fat: 0.19 g
+Fiber: 2.2 g
+Sugar: 4.09 g
+
+Fats:
+Saturated fat: 0.044 g
+Monounsaturated fat: 0.019 g
+Polyunsaturated fat: 0.058 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 230 mg
+Calcium: 34 mg
+Iron: 0.16 mg
+Magnesium: 12 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 212 µg
+Vitamin C: 5.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 11.5 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

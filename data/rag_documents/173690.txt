@@ -1,0 +1,37 @@
+Food: Fish, salmon, pink, canned, total can contents
+Food ID: 173690
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 19.68 g
+Carbohydrates: 0 g
+Fat: 4.97 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.862 g
+Monounsaturated fat: 1.205 g
+Polyunsaturated fat: 1.42 g
+Trans fat: 0.026 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 403 mg
+Potassium: 344 mg
+Calcium: 215 mg
+Iron: 0.64 mg
+Magnesium: 30 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 13.7 µg
+Vitamin E: 0.64 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.3 mg
+Vitamin B12: 4.4 µg
+Folate: 15 µg

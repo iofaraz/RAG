@@ -1,0 +1,37 @@
+Food: Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil
+Food ID: 170044
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 2.65 g
+Carbohydrates: 28.51 g
+Fat: 11.59 g
+Fiber: 3.2 g
+Sugar: 0.27 g
+
+Fats:
+Saturated fat: 0.934 g
+Monounsaturated fat: 7.295 g
+Polyunsaturated fat: 2.785 g
+Trans fat: 0.036 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 496 mg
+Calcium: 17 mg
+Iron: 0.54 mg
+Magnesium: 28 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 6.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.19 mg
+Vitamin K: 18.1 µg
+Vitamin B6: 0.236 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

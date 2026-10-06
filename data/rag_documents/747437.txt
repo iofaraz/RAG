@@ -1,0 +1,16 @@
+Food: Beans, Dry, Cranberry (0% moisture)
+Food ID: 747437
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 24.4 g
+Fat: 1.23 g
+Fiber: 4.3 g
+
+Minerals:
+Potassium: 1340 mg
+Calcium: 152 mg
+Iron: 5.26 mg
+Magnesium: 166 mg
+Zinc: 3.03 mg

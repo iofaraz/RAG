@@ -1,0 +1,37 @@
+Food: Nuts, mixed nuts, oil roasted, with peanuts, without salt added
+Food ID: 170587
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 607 kcal
+Protein: 20.04 g
+Carbohydrates: 21.05 g
+Fat: 53.95 g
+Fiber: 7 g
+Sugar: 4.15 g
+
+Fats:
+Saturated fat: 8.711 g
+Monounsaturated fat: 28.488 g
+Polyunsaturated fat: 14.612 g
+Trans fat: 0.055 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 632 mg
+Calcium: 117 mg
+Iron: 2.61 mg
+Magnesium: 229 mg
+Zinc: 3.36 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 7.82 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.352 mg
+Vitamin B12: 0 µg
+Folate: 83 µg

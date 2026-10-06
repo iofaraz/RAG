@@ -1,0 +1,24 @@
+Food: Beef, ground, 80% lean meat / 20% fat, raw
+Food ID: 2514744
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 17.5312 g
+Carbohydrates: 0 g
+Fat: 19.44 g
+
+Fats:
+Saturated fat: 6.845 g
+Monounsaturated fat: 7.247 g
+Polyunsaturated fat: 0.485 g
+Trans fat: 0.7 g
+Cholesterol: 67.74 mg
+
+Minerals:
+Sodium: 54.94 mg
+Potassium: 273.3 mg
+Calcium: 6.889 mg
+Iron: 1.965 mg
+Magnesium: 16.41 mg
+Zinc: 3.848 mg

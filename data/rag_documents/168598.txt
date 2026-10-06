@@ -1,0 +1,36 @@
+Food: Nuts, macadamia nuts, dry roasted, with salt added
+Food ID: 168598
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 716 kcal
+Protein: 7.79 g
+Carbohydrates: 12.83 g
+Fat: 76.08 g
+Fiber: 8 g
+Sugar: 4.14 g
+
+Fats:
+Saturated fat: 11.947 g
+Monounsaturated fat: 59.275 g
+Polyunsaturated fat: 1.498 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 353 mg
+Potassium: 363 mg
+Calcium: 70 mg
+Iron: 2.65 mg
+Magnesium: 118 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.57 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.359 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

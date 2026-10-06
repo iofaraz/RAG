@@ -1,0 +1,37 @@
+Food: Beverages, OCEAN SPRAY, Cran Pomegranate
+Food ID: 171909
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.07 g
+Carbohydrates: 12.56 g
+Fat: 0.01 g
+Fiber: 0.6 g
+Sugar: 12 g
+
+Fats:
+Saturated fat: 0.001 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.001 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 11 mg
+Calcium: 2 mg
+Iron: 0.12 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 27.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

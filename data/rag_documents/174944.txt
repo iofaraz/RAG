@@ -1,0 +1,37 @@
+Food: Cake, yellow, commercially prepared, with chocolate frosting, in-store bakery
+Food ID: 174944
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 3.16 g
+Carbohydrates: 55.36 g
+Fat: 17.75 g
+Fiber: 1.5 g
+Sugar: 39.22 g
+
+Fats:
+Saturated fat: 5.793 g
+Monounsaturated fat: 7.214 g
+Polyunsaturated fat: 4.728 g
+Trans fat: 1.313 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 310 mg
+Potassium: 187 mg
+Calcium: 32 mg
+Iron: 2.03 mg
+Magnesium: 20 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 4.5 mg
+Vitamin K: 25.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

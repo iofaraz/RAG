@@ -1,0 +1,37 @@
+Food: Beverages, orange drink, canned, with added vitamin C
+Food ID: 174868
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 0 g
+Carbohydrates: 12.34 g
+Fat: 0.07 g
+Fiber: 0 g
+Sugar: 11.03 g
+
+Fats:
+Saturated fat: 0.002 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.003 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 18 mg
+Calcium: 5 mg
+Iron: 0.04 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 57.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

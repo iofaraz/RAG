@@ -1,0 +1,32 @@
+Food: Seeds, sesame flour, partially defatted
+Food ID: 170153
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 382 kcal
+Protein: 40.32 g
+Carbohydrates: 35.14 g
+Fat: 11.89 g
+
+Fats:
+Saturated fat: 1.634 g
+Monounsaturated fat: 4.405 g
+Polyunsaturated fat: 5.113 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 425 mg
+Calcium: 150 mg
+Iron: 14.3 mg
+Magnesium: 362 mg
+Zinc: 10.7 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.152 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

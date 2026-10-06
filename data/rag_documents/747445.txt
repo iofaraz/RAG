@@ -1,0 +1,16 @@
+Food: Beans, Dry, Pinto (0% moisture)
+Food ID: 747445
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 23.7 g
+Fat: 1.24 g
+Fiber: 4.1 g
+
+Minerals:
+Potassium: 1510 mg
+Calcium: 161 mg
+Iron: 5.4 mg
+Magnesium: 170 mg
+Zinc: 3.43 mg

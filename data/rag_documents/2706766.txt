@@ -1,0 +1,36 @@
+Food: Pork hash
+Food ID: 2706766
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 186 kcal
+Protein: 12.94 g
+Carbohydrates: 1.96 g
+Fat: 13.66 g
+Fiber: 0.5 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 4.425 g
+Monounsaturated fat: 6.014 g
+Polyunsaturated fat: 1.868 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 486 mg
+Potassium: 268 mg
+Calcium: 20 mg
+Iron: 0.9 mg
+Magnesium: 17 mg
+Zinc: 1.98 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 2.7 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.55 mg
+Vitamin K: 13.3 µg
+Vitamin B6: 0.188 mg
+Vitamin B12: 0.44 µg
+Folate: 9 µg

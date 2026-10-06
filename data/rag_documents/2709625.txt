@@ -1,0 +1,36 @@
+Food: Spinach, frozen, cooked with butter or margarine
+Food ID: 2709625
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 3.9 g
+Carbohydrates: 4.66 g
+Fat: 3.03 g
+Fiber: 3.6 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 1.096 g
+Monounsaturated fat: 0.576 g
+Polyunsaturated fat: 0.704 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 223 mg
+Potassium: 293 mg
+Calcium: 149 mg
+Iron: 1.9 mg
+Magnesium: 79 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 606 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 3.64 mg
+Vitamin K: 524.7 µg
+Vitamin B6: 0.164 mg
+Vitamin B12: 0 µg
+Folate: 117 µg

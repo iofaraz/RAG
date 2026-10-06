@@ -1,0 +1,24 @@
+Food: Vitasoy USA Azumaya, Extra Firm Tofu
+Food ID: 175235
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 10.07 g
+Carbohydrates: 1.53 g
+Fat: 4.6 g
+Fiber: 0.9 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 0.6 g
+Monounsaturated fat: 1.4 g
+Polyunsaturated fat: 2.6 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Calcium: 176 mg
+Iron: 1.7 mg

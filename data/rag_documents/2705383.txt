@@ -1,0 +1,4 @@
+Food: Milk, human
+Food ID: 2705383
+Food Type: survey_fndds_food
+Source: USDA FoodData Central

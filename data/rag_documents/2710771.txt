@@ -1,0 +1,36 @@
+Food: Sports drink, NFS
+Food ID: 2710771
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 26 kcal
+Protein: 0 g
+Carbohydrates: 6.43 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 5.24 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 15 mg
+Calcium: 1 mg
+Iron: 0.05 mg
+Magnesium: 0 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.022 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,37 @@
+Food: Candies, MARS SNACKFOOD US, M&M's Almond Chocolate Candies
+Food ID: 168108
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 522 kcal
+Protein: 7.53 g
+Carbohydrates: 60.5 g
+Fat: 27.76 g
+Fiber: 5.6 g
+Sugar: 49.22 g
+
+Fats:
+Saturated fat: 9.435 g
+Monounsaturated fat: 11.29 g
+Polyunsaturated fat: 3.753 g
+Trans fat: 0.072 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 381 mg
+Calcium: 155 mg
+Iron: 1.73 mg
+Magnesium: 116 mg
+Zinc: 1.86 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 9.52 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.22 µg
+Folate: 12 µg

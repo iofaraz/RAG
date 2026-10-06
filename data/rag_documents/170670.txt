@@ -1,0 +1,30 @@
+Food: Candies, MARS SNACKFOOD US, COCOAVIA Chocolate Covered Almonds
+Food ID: 170670
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 573 kcal
+Protein: 9.51 g
+Carbohydrates: 50.22 g
+Fat: 37.07 g
+Fiber: 10.4 g
+Sugar: 26.92 g
+
+Fats:
+Saturated fat: 11.745 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Calcium: 840 mg
+Iron: 3.56 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 27.3 mg
+Vitamin E: 4.82 mg
+Vitamin B6: 0.714 mg
+Vitamin B12: 2.14 µg
+Folate: 143 µg

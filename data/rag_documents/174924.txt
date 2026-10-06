@@ -1,0 +1,37 @@
+Food: Bread, white, commercially prepared (includes soft bread crumbs)
+Food ID: 174924
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 8.85 g
+Carbohydrates: 49.42 g
+Fat: 3.33 g
+Fiber: 2.7 g
+Sugar: 5.67 g
+
+Fats:
+Saturated fat: 0.698 g
+Monounsaturated fat: 0.599 g
+Polyunsaturated fat: 1.602 g
+Trans fat: 0.027 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 490 mg
+Potassium: 126 mg
+Calcium: 144 mg
+Iron: 3.61 mg
+Magnesium: 23 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0 µg
+Folate: 111 µg

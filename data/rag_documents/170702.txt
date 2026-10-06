@@ -1,0 +1,32 @@
+Food: School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Cheese Pizza 50/50 Cheese, frozen
+Food ID: 170702
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 233 kcal
+Protein: 12.08 g
+Carbohydrates: 29.27 g
+Fat: 7.51 g
+Fiber: 3.8 g
+Sugar: 6.76 g
+
+Fats:
+Saturated fat: 2.79 g
+Monounsaturated fat: 1.7 g
+Polyunsaturated fat: 2.3 g
+Trans fat: 0.2 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 331 mg
+Calcium: 207 mg
+Iron: 2.4 mg
+Magnesium: 48 mg
+Zinc: 1.87 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.155 mg
+Vitamin B12: 1.42 µg

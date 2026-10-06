@@ -1,0 +1,36 @@
+Food: Beef, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce
+Food ID: 2706618
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 5.85 g
+Carbohydrates: 14.9 g
+Fat: 5.4 g
+Fiber: 1.1 g
+Sugar: 1.45 g
+
+Fats:
+Saturated fat: 1.034 g
+Monounsaturated fat: 2.232 g
+Polyunsaturated fat: 1.664 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 306 mg
+Potassium: 156 mg
+Calcium: 15 mg
+Iron: 1.22 mg
+Magnesium: 14 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 5.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.41 mg
+Vitamin K: 13.8 µg
+Vitamin B6: 0.138 mg
+Vitamin B12: 0.22 µg
+Folate: 35 µg

@@ -1,0 +1,13 @@
+Food: Kraft Foods, Shake N Bake Original Recipe, Coating for Pork, dry
+Food ID: 167514
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 377 kcal
+Protein: 6.1 g
+Carbohydrates: 79.8 g
+Fat: 3.7 g
+
+Minerals:
+Sodium: 2182 mg

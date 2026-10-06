@@ -1,0 +1,32 @@
+Food: Nabisco, Nabisco Snackwell's Fat Free Devil's Food Cookie Cakes
+Food ID: 167924
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 305 kcal
+Protein: 5 g
+Carbohydrates: 74.25 g
+Fat: 1.09 g
+Fiber: 1.6 g
+Sugar: 43.38 g
+
+Fats:
+Saturated fat: 0.427 g
+Monounsaturated fat: 0.246 g
+Polyunsaturated fat: 0.196 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 174 mg
+Potassium: 111 mg
+Calcium: 30 mg
+Iron: 2.78 mg
+Magnesium: 25 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin C: 0.1 mg
+Vitamin B6: 0.021 mg
+Vitamin B12: 0.07 µg
+Folate: 19 µg

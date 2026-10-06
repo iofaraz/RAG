@@ -1,0 +1,36 @@
+Food: Wheat, hard white
+Food ID: 169719
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 342 kcal
+Protein: 11.31 g
+Carbohydrates: 75.9 g
+Fat: 1.71 g
+Fiber: 12.2 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.277 g
+Monounsaturated fat: 0.203 g
+Polyunsaturated fat: 0.75 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 432 mg
+Calcium: 32 mg
+Iron: 4.56 mg
+Magnesium: 93 mg
+Zinc: 3.33 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.01 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.368 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

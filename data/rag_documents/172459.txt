@@ -1,0 +1,36 @@
+Food: Peanut butter, smooth, vitamin and mineral fortified
+Food ID: 172459
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 591 kcal
+Protein: 25.72 g
+Carbohydrates: 18.75 g
+Fat: 50.81 g
+Fiber: 5.6 g
+Sugar: 10.47 g
+
+Fats:
+Saturated fat: 10.125 g
+Monounsaturated fat: 24.832 g
+Polyunsaturated fat: 13.847 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 420 mg
+Potassium: 667 mg
+Calcium: 43 mg
+Iron: 16.6 mg
+Magnesium: 355 mg
+Zinc: 14.4 mg
+
+Vitamins:
+Vitamin A: 1172 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 43.2 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 2.23 mg
+Vitamin B12: 0 µg
+Folate: 373 µg

@@ -1,0 +1,36 @@
+Food: Fish and vegetables excluding carrots, broccoli, and dark- green leafy; no potatoes, tomato-based sauce
+Food ID: 2706864
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 6.33 g
+Carbohydrates: 6.3 g
+Fat: 7.26 g
+Fiber: 1.5 g
+Sugar: 2.36 g
+
+Fats:
+Saturated fat: 0.988 g
+Monounsaturated fat: 2.963 g
+Polyunsaturated fat: 2.795 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 303 mg
+Potassium: 249 mg
+Calcium: 16 mg
+Iron: 0.73 mg
+Magnesium: 23 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 4.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 2.14 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 0.24 µg
+Folate: 15 µg

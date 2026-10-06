@@ -1,0 +1,32 @@
+Food: Tortilla, includes plain and from mutton sandwich (Navajo)
+Food ID: 168041
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 7.28 g
+Carbohydrates: 49.94 g
+Fat: 0.95 g
+Fiber: 2.4 g
+Sugar: 2.75 g
+
+Fats:
+Saturated fat: 0.296 g
+Monounsaturated fat: 0.185 g
+Polyunsaturated fat: 0.391 g
+
+Minerals:
+Sodium: 482 mg
+Potassium: 105 mg
+Calcium: 70 mg
+Iron: 3.81 mg
+Magnesium: 19 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.19 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.06 mg
+Folate: 98 µg

@@ -1,0 +1,34 @@
+Food: Peanuts, valencia, raw
+Food ID: 172432
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 570 kcal
+Protein: 25.09 g
+Carbohydrates: 20.91 g
+Fat: 47.58 g
+Fiber: 8.7 g
+
+Fats:
+Saturated fat: 7.329 g
+Monounsaturated fat: 21.414 g
+Polyunsaturated fat: 16.5 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 332 mg
+Calcium: 62 mg
+Iron: 2.09 mg
+Magnesium: 184 mg
+Zinc: 3.34 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.34 mg
+Vitamin B12: 0 µg
+Folate: 246 µg

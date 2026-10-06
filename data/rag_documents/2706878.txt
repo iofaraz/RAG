@@ -1,0 +1,36 @@
+Food: Stewed gizzards, Puerto Rican style
+Food ID: 2706878
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 179 kcal
+Protein: 20.26 g
+Carbohydrates: 4.41 g
+Fat: 8.69 g
+Fiber: 1.1 g
+Sugar: 1.94 g
+
+Fats:
+Saturated fat: 1.738 g
+Monounsaturated fat: 3.651 g
+Polyunsaturated fat: 2.333 g
+Cholesterol: 237 mg
+
+Minerals:
+Sodium: 380 mg
+Potassium: 239 mg
+Calcium: 31 mg
+Iron: 2.52 mg
+Magnesium: 11 mg
+Zinc: 2.94 mg
+
+Vitamins:
+Vitamin A: 79 µg
+Vitamin C: 6.2 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.12 mg
+Vitamin K: 17.3 µg
+Vitamin B6: 0.111 mg
+Vitamin B12: 0.67 µg
+Folate: 11 µg

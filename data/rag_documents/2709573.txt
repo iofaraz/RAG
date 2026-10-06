@@ -1,0 +1,36 @@
+Food: Broccoli raab, cooked
+Food ID: 2709573
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 3.2 g
+Carbohydrates: 2.88 g
+Fat: 3.15 g
+Fiber: 2.7 g
+Sugar: 0.39 g
+
+Fats:
+Saturated fat: 0.778 g
+Monounsaturated fat: 0.985 g
+Polyunsaturated fat: 0.981 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 159 mg
+Potassium: 198 mg
+Calcium: 109 mg
+Iron: 2.16 mg
+Magnesium: 22 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 137 µg
+Vitamin C: 14.3 mg
+Vitamin D: 0 µg
+Vitamin E: 2.03 mg
+Vitamin K: 228.1 µg
+Vitamin B6: 0.181 mg
+Vitamin B12: 0 µg
+Folate: 63 µg

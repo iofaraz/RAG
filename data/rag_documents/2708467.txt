@@ -1,0 +1,36 @@
+Food: Cereal, frosted oats with marshmallows
+Food ID: 2708467
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 8.17 g
+Carbohydrates: 76.61 g
+Fat: 4.07 g
+Fiber: 6.1 g
+Sugar: 33.72 g
+
+Fats:
+Saturated fat: 0.68 g
+Monounsaturated fat: 1.211 g
+Polyunsaturated fat: 1.402 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 639 mg
+Potassium: 221 mg
+Calcium: 357 mg
+Iron: 11.73 mg
+Magnesium: 84 mg
+Zinc: 2.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 23.3 mg
+Vitamin D: 5.1 µg
+Vitamin E: 0.26 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.707 mg
+Vitamin B12: 0.91 µg
+Folate: 141 µg

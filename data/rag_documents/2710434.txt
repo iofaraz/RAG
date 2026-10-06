@@ -1,0 +1,36 @@
+Food: Coffee, Iced Latte, flavored
+Food ID: 2710434
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 40 kcal
+Protein: 1.69 g
+Carbohydrates: 6.09 g
+Fat: 0.98 g
+Fiber: 0 g
+Sugar: 5.81 g
+
+Fats:
+Saturated fat: 0.567 g
+Monounsaturated fat: 0.199 g
+Polyunsaturated fat: 0.044 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 99 mg
+Calcium: 64 mg
+Iron: 0.02 mg
+Magnesium: 20 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.27 µg
+Folate: 1 µg

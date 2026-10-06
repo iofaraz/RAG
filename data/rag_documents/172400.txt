@@ -1,0 +1,35 @@
+Food: Chicken, stewing, meat and skin, raw
+Food ID: 172400
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 17.55 g
+Carbohydrates: 0 g
+Fat: 20.33 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.71 g
+Monounsaturated fat: 8.24 g
+Polyunsaturated fat: 4.44 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 204 mg
+Calcium: 10 mg
+Iron: 1.04 mg
+Magnesium: 20 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0 mg
+Vitamin E: 0.33 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.33 mg
+Vitamin B12: 0.32 µg
+Folate: 6 µg

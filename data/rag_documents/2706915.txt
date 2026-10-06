@@ -1,0 +1,36 @@
+Food: McDouble (McDonalds)
+Food ID: 2706915
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 16.24 g
+Carbohydrates: 17.97 g
+Fat: 16.18 g
+Fiber: 0.9 g
+Sugar: 4.16 g
+
+Fats:
+Saturated fat: 6.96 g
+Monounsaturated fat: 6.001 g
+Polyunsaturated fat: 1.314 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 617 mg
+Potassium: 226 mg
+Calcium: 150 mg
+Iron: 2.35 mg
+Magnesium: 21 mg
+Zinc: 2.77 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.35 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.214 mg
+Vitamin B12: 1.28 µg
+Folate: 43 µg

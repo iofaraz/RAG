@@ -1,0 +1,36 @@
+Food: Chicken fillet sandwich, grilled, on white bun, with cheese
+Food ID: 2707013
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 21.64 g
+Carbohydrates: 17.78 g
+Fat: 7.92 g
+Fiber: 0.6 g
+Sugar: 2.85 g
+
+Fats:
+Saturated fat: 2.952 g
+Monounsaturated fat: 2.017 g
+Polyunsaturated fat: 1.446 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 487 mg
+Potassium: 247 mg
+Calcium: 170 mg
+Iron: 1.46 mg
+Magnesium: 26 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.77 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.483 mg
+Vitamin B12: 0.36 µg
+Folate: 38 µg

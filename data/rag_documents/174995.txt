@@ -1,0 +1,37 @@
+Food: Muffins, English, plain, toasted, enriched, with calcium propionate (includes sourdough)
+Food ID: 174995
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 10.32 g
+Carbohydrates: 52.65 g
+Fat: 2.02 g
+Fiber: 2.8 g
+Sugar: 3.47 g
+
+Fats:
+Saturated fat: 0.533 g
+Monounsaturated fat: 0.478 g
+Polyunsaturated fat: 0.921 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 477 mg
+Potassium: 129 mg
+Calcium: 197 mg
+Iron: 4.65 mg
+Magnesium: 28 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.05 µg
+Folate: 119 µg

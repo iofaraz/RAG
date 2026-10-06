@@ -1,0 +1,36 @@
+Food: Egg, deviled
+Food ID: 2707181
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 198 kcal
+Protein: 11.52 g
+Carbohydrates: 1.07 g
+Fat: 15.9 g
+Fiber: 0 g
+Sugar: 1.07 g
+
+Fats:
+Saturated fat: 3.948 g
+Monounsaturated fat: 5.114 g
+Polyunsaturated fat: 5.014 g
+Cholesterol: 343 mg
+
+Minerals:
+Sodium: 430 mg
+Potassium: 116 mg
+Calcium: 46 mg
+Iron: 1.1 mg
+Magnesium: 9 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 137 µg
+Vitamin C: 0 mg
+Vitamin D: 2 µg
+Vitamin E: 1.21 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.111 mg
+Vitamin B12: 1.02 µg
+Folate: 40 µg

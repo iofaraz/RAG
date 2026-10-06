@@ -1,0 +1,32 @@
+Food: Fish, lingcod, raw
+Food ID: 173671
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 17.66 g
+Carbohydrates: 0 g
+Fat: 1.06 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.197 g
+Monounsaturated fat: 0.35 g
+Polyunsaturated fat: 0.3 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 437 mg
+Calcium: 14 mg
+Iron: 0.32 mg
+Magnesium: 26 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 3.6 µg
+Folate: 9 µg

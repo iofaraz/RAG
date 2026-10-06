@@ -1,0 +1,36 @@
+Food: Beef as ingredient in recipes
+Food ID: 2710780
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 261 kcal
+Protein: 26.44 g
+Carbohydrates: 0 g
+Fat: 16.52 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.4 g
+Monounsaturated fat: 7.358 g
+Polyunsaturated fat: 0.552 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 310 mg
+Calcium: 20 mg
+Iron: 2.5 mg
+Magnesium: 20 mg
+Zinc: 6.25 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.419 mg
+Vitamin B12: 2.57 µg
+Folate: 9 µg

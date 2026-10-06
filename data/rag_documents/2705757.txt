@@ -1,0 +1,36 @@
+Food: Cheese, cottage, lowfat, with fruit
+Food ID: 2705757
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 7.3 g
+Carbohydrates: 10.3 g
+Fat: 1.57 g
+Fiber: 0.3 g
+Sugar: 9.31 g
+
+Fats:
+Saturated fat: 0.822 g
+Monounsaturated fat: 0.309 g
+Polyunsaturated fat: 0.06 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 209 mg
+Potassium: 122 mg
+Calcium: 71 mg
+Iron: 0.1 mg
+Magnesium: 10 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 18.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 0.27 µg
+Folate: 12 µg

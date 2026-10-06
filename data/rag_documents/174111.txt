@@ -1,0 +1,36 @@
+Food: Beverages, Kiwi Strawberry Juice Drink
+Food ID: 174111
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0 g
+Carbohydrates: 12.26 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 11.63 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 14 mg
+Calcium: 0 mg
+Iron: 0.15 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 24.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

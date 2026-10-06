@@ -1,0 +1,36 @@
+Food: Peas and carrots, canned, cooked, fat added
+Food ID: 2709690
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 2.49 g
+Carbohydrates: 8.21 g
+Fat: 3.03 g
+Fiber: 3.1 g
+Sugar: 2.66 g
+
+Fats:
+Saturated fat: 0.755 g
+Monounsaturated fat: 0.945 g
+Polyunsaturated fat: 0.959 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 259 mg
+Potassium: 139 mg
+Calcium: 24 mg
+Iron: 0.89 mg
+Magnesium: 13 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 303 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.93 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

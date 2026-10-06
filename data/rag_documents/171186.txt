@@ -1,0 +1,28 @@
+Food: Sauce, hot chile, sriracha
+Food ID: 171186
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 1.93 g
+Carbohydrates: 19.16 g
+Fat: 0.93 g
+Fiber: 2.2 g
+Sugar: 15.11 g
+
+Minerals:
+Sodium: 2124 mg
+Potassium: 321 mg
+Calcium: 18 mg
+Iron: 1.64 mg
+Magnesium: 16 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 129 µg
+Vitamin C: 26.9 mg
+Vitamin E: 4.8 mg
+Vitamin K: 10.9 µg
+Vitamin B6: 0.455 mg
+Folate: 22 µg

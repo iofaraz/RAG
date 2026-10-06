@@ -1,0 +1,36 @@
+Food: Dessert topping, semi solid, frozen
+Food ID: 170868
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 318 kcal
+Protein: 1.25 g
+Carbohydrates: 23.05 g
+Fat: 25.31 g
+Fiber: 0 g
+Sugar: 23.05 g
+
+Fats:
+Saturated fat: 21.783 g
+Monounsaturated fat: 1.616 g
+Polyunsaturated fat: 0.523 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 18 mg
+Calcium: 6 mg
+Iron: 0.12 mg
+Magnesium: 2 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

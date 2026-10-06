@@ -1,0 +1,36 @@
+Food: Molasses
+Food ID: 2710283
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 0 g
+Carbohydrates: 74.73 g
+Fat: 0.1 g
+Fiber: 0 g
+Sugar: 74.72 g
+
+Fats:
+Saturated fat: 0.018 g
+Monounsaturated fat: 0.032 g
+Polyunsaturated fat: 0.05 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 37 mg
+Potassium: 1464 mg
+Calcium: 205 mg
+Iron: 4.72 mg
+Magnesium: 242 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.67 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

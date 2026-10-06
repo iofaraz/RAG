@@ -1,0 +1,26 @@
+Food: Candies, NESTLE, CRUNCH Bar and Dessert Topping
+Food ID: 168762
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 500 kcal
+Protein: 5 g
+Carbohydrates: 67 g
+Fat: 26 g
+Fiber: 1.9 g
+Sugar: 55 g
+
+Fats:
+Saturated fat: 16 g
+Trans fat: 0.137 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 150 mg
+Potassium: 305 mg
+Calcium: 100 mg
+Iron: 0.7 mg
+
+Vitamins:
+Vitamin C: 0.5 mg

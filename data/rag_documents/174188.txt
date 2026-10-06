@@ -1,0 +1,36 @@
+Food: Fish, caviar, black and red, granular
+Food ID: 174188
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 24.6 g
+Carbohydrates: 4 g
+Fat: 17.9 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.06 g
+Monounsaturated fat: 4.631 g
+Polyunsaturated fat: 7.405 g
+Cholesterol: 588 mg
+
+Minerals:
+Sodium: 1500 mg
+Potassium: 181 mg
+Calcium: 275 mg
+Iron: 11.88 mg
+Magnesium: 300 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 271 µg
+Vitamin C: 0 mg
+Vitamin D: 2.9 µg
+Vitamin E: 1.89 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.32 mg
+Vitamin B12: 20 µg
+Folate: 50 µg

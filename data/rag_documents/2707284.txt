@@ -1,0 +1,36 @@
+Food: Egg white omelet, scrambled, or fried, made with margarine
+Food ID: 2707284
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 9.98 g
+Carbohydrates: 2.25 g
+Fat: 4.24 g
+Fiber: 0 g
+Sugar: 0.66 g
+
+Fats:
+Saturated fat: 0.839 g
+Monounsaturated fat: 1.581 g
+Polyunsaturated fat: 1.692 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 308 mg
+Potassium: 154 mg
+Calcium: 8 mg
+Iron: 0.08 mg
+Magnesium: 10 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.18 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.188 mg
+Vitamin B12: 0.07 µg
+Folate: 3 µg

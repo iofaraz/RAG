@@ -1,0 +1,36 @@
+Food: Babyfood, vegetables, mix vegetables strained
+Food ID: 173515
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 1 g
+Carbohydrates: 8.25 g
+Fat: 0.5 g
+Fiber: 1.5 g
+Sugar: 1.57 g
+
+Fats:
+Saturated fat: 0.089 g
+Monounsaturated fat: 0.118 g
+Polyunsaturated fat: 0.194 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 127 mg
+Calcium: 13 mg
+Iron: 0.32 mg
+Magnesium: 10 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 158 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

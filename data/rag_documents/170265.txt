@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, No Sugar Added, Vanilla Fudge Twirl
+Food ID: 170265
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 3.53 g
+Carbohydrates: 25.63 g
+Fat: 5.68 g
+Fiber: 0.8 g
+Sugar: 5.49 g
+
+Fats:
+Saturated fat: 3.57 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 72 mg
+Calcium: 121 mg
+Iron: 0.36 mg
+
+Vitamins:
+Vitamin C: 0.7 mg

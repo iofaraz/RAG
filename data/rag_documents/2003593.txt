@@ -1,0 +1,22 @@
+Food: Grape juice, white, with added vitamin C, from concentrate, shelf stable
+Food ID: 2003593
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.09375 g
+Carbohydrates: 15.8438 g
+Fat: 0.265 g
+
+Minerals:
+Sodium: 7.188 mg
+Potassium: 49.01 mg
+Calcium: 7.318 mg
+Iron: 0.1191 mg
+Magnesium: 4.274 mg
+Zinc: 0.01773 mg
+
+Vitamins:
+Vitamin C: 55.25 mg
+Vitamin B6: 0.01413 mg
+Folate: 1.731 µg

@@ -1,0 +1,36 @@
+Food: Hot dog sandwich, turkey, on wheat bread
+Food ID: 2707071
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 11.94 g
+Carbohydrates: 18.16 g
+Fat: 12.7 g
+Fiber: 1.9 g
+Sugar: 2.59 g
+
+Fats:
+Saturated fat: 2.887 g
+Monounsaturated fat: 3.983 g
+Polyunsaturated fat: 3.127 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 719 mg
+Potassium: 309 mg
+Calcium: 153 mg
+Iron: 2.05 mg
+Magnesium: 28 mg
+Zinc: 1.67 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.53 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.46 µg
+Folate: 30 µg

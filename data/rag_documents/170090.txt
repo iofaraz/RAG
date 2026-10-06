@@ -1,0 +1,37 @@
+Food: Seaweed, agar, dried
+Food ID: 170090
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 306 kcal
+Protein: 6.21 g
+Carbohydrates: 80.88 g
+Fat: 0.3 g
+Fiber: 7.7 g
+Sugar: 2.97 g
+
+Fats:
+Saturated fat: 0.061 g
+Monounsaturated fat: 0.027 g
+Polyunsaturated fat: 0.102 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 102 mg
+Potassium: 1125 mg
+Calcium: 625 mg
+Iron: 21.4 mg
+Magnesium: 770 mg
+Zinc: 5.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5 mg
+Vitamin K: 24.4 µg
+Vitamin B6: 0.303 mg
+Vitamin B12: 0 µg
+Folate: 580 µg

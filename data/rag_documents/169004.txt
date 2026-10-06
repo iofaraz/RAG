@@ -1,0 +1,32 @@
+Food: Piki bread, made from blue cornmeal (Hopi)
+Food ID: 169004
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 9.06 g
+Carbohydrates: 72.22 g
+Fat: 7.16 g
+Fiber: 9.2 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 0.819 g
+Monounsaturated fat: 1.783 g
+Polyunsaturated fat: 1.623 g
+Trans fat: 0.006 g
+
+Minerals:
+Sodium: 60 mg
+Potassium: 604 mg
+Calcium: 184 mg
+Iron: 6.11 mg
+Magnesium: 181 mg
+Zinc: 3.75 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 0.76 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.542 mg

@@ -1,0 +1,36 @@
+Food: Turkey, light or dark meat, smoked, cooked, with skin, bone removed
+Food ID: 168120
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 28.1 g
+Carbohydrates: 0 g
+Fat: 9.7 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.831 g
+Monounsaturated fat: 3.18 g
+Polyunsaturated fat: 2.473 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 996 mg
+Potassium: 280 mg
+Calcium: 26 mg
+Iron: 1.79 mg
+Magnesium: 25 mg
+Zinc: 2.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.41 mg
+Vitamin B12: 0.35 µg
+Folate: 7 µg

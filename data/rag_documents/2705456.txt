@@ -1,0 +1,36 @@
+Food: Frozen yogurt sandwich
+Food ID: 2705456
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 204 kcal
+Protein: 3.9 g
+Carbohydrates: 34.38 g
+Fat: 6.25 g
+Fiber: 0.8 g
+Sugar: 24.3 g
+
+Fats:
+Saturated fat: 2.805 g
+Monounsaturated fat: 1.956 g
+Polyunsaturated fat: 1.113 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 192 mg
+Potassium: 170 mg
+Calcium: 83 mg
+Iron: 1.35 mg
+Magnesium: 21 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.08 µg
+Folate: 15 µg

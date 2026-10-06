@@ -1,0 +1,27 @@
+Food: Figs, dried, uncooked
+Food ID: 326905
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 3.3 g
+Carbohydrates: 63.9 g
+Fat: 0.92 g
+Fiber: 9.8 g
+
+Minerals:
+Sodium: 10 mg
+Potassium: 680 mg
+Calcium: 162 mg
+Iron: 2.03 mg
+Magnesium: 67.6 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.2 mg
+Vitamin E: 0.36 mg
+Vitamin K: 15.6 µg
+Vitamin B6: 0.106 mg
+Folate: 9 µg

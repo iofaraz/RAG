@@ -1,0 +1,36 @@
+Food: Beef taco filling: beef, cheese, tomato, taco sauce
+Food ID: 2706750
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 181 kcal
+Protein: 12.97 g
+Carbohydrates: 6.37 g
+Fat: 11.32 g
+Fiber: 0.9 g
+Sugar: 4.06 g
+
+Fats:
+Saturated fat: 5.26 g
+Monounsaturated fat: 3.836 g
+Polyunsaturated fat: 0.405 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 473 mg
+Potassium: 273 mg
+Calcium: 130 mg
+Iron: 1.12 mg
+Magnesium: 17 mg
+Zinc: 2.65 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 6.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.75 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 1.07 µg
+Folate: 15 µg

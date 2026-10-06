@@ -1,0 +1,36 @@
+Food: Chicken deli sandwich or sub, with cheese, restaurant
+Food ID: 2706989
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 14.9 g
+Carbohydrates: 20.87 g
+Fat: 7.23 g
+Fiber: 0.9 g
+Sugar: 2.86 g
+
+Fats:
+Saturated fat: 3.458 g
+Monounsaturated fat: 1.734 g
+Polyunsaturated fat: 1.097 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 807 mg
+Potassium: 231 mg
+Calcium: 245 mg
+Iron: 1.53 mg
+Magnesium: 27 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.35 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.246 mg
+Vitamin B12: 0.33 µg
+Folate: 48 µg

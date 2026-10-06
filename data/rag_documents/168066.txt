@@ -1,0 +1,30 @@
+Food: Restaurant, Latino, Arroz con grandules (rice and pigeonpeas)
+Food ID: 168066
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 182 kcal
+Protein: 3.5 g
+Carbohydrates: 30.75 g
+Fat: 4.98 g
+Fiber: 1.4 g
+
+Fats:
+Saturated fat: 0.763 g
+Monounsaturated fat: 1.005 g
+Polyunsaturated fat: 2.32 g
+Trans fat: 0.013 g
+
+Minerals:
+Sodium: 583 mg
+Potassium: 84 mg
+Calcium: 8 mg
+Iron: 0.29 mg
+Magnesium: 14 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin E: 0.68 mg
+Vitamin K: 12.6 µg
+Vitamin B6: 0.04 mg

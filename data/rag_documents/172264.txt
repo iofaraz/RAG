@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, chicken noodle, junior
+Food ID: 172264
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 3.53 g
+Carbohydrates: 7.8 g
+Fat: 3.23 g
+Fiber: 1.7 g
+Sugar: 2.67 g
+
+Fats:
+Saturated fat: 0.341 g
+Monounsaturated fat: 1.814 g
+Polyunsaturated fat: 1.07 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 143 mg
+Calcium: 27 mg
+Iron: 0.49 mg
+Magnesium: 13 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 87 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.01 µg
+Folate: 15 µg

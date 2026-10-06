@@ -1,0 +1,31 @@
+Food: Nuts, beechnuts, dried
+Food ID: 170161
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 576 kcal
+Protein: 6.2 g
+Carbohydrates: 33.5 g
+Fat: 50 g
+
+Fats:
+Saturated fat: 5.719 g
+Monounsaturated fat: 21.892 g
+Polyunsaturated fat: 20.089 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 1017 mg
+Calcium: 1 mg
+Iron: 2.46 mg
+Magnesium: 0 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 15.5 mg
+Vitamin B6: 0.684 mg
+Vitamin B12: 0 µg
+Folate: 113 µg

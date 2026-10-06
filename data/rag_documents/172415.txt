@@ -1,0 +1,32 @@
+Food: Goose, liver, raw
+Food ID: 172415
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 16.37 g
+Carbohydrates: 6.32 g
+Fat: 4.28 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.59 g
+Monounsaturated fat: 0.81 g
+Polyunsaturated fat: 0.26 g
+Cholesterol: 515 mg
+
+Minerals:
+Sodium: 140 mg
+Potassium: 230 mg
+Calcium: 43 mg
+Iron: 30.53 mg
+Magnesium: 24 mg
+Zinc: 3.07 mg
+
+Vitamins:
+Vitamin A: 9309 µg
+Vitamin C: 4.5 mg
+Vitamin B6: 0.76 mg
+Vitamin B12: 54 µg
+Folate: 738 µg

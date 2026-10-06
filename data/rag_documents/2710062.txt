@@ -1,0 +1,36 @@
+Food: Squash, summer, souffle
+Food ID: 2710062
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 4.65 g
+Carbohydrates: 6.87 g
+Fat: 8.94 g
+Fiber: 0.7 g
+Sugar: 3.16 g
+
+Fats:
+Saturated fat: 4.449 g
+Monounsaturated fat: 2.119 g
+Polyunsaturated fat: 0.633 g
+Cholesterol: 101 mg
+
+Minerals:
+Sodium: 232 mg
+Potassium: 218 mg
+Calcium: 63 mg
+Iron: 0.79 mg
+Magnesium: 18 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 114 µg
+Vitamin C: 6.6 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.29 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.26 µg
+Folate: 24 µg

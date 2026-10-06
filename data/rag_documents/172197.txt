@@ -1,0 +1,36 @@
+Food: Cheese, goat, hard type
+Food ID: 172197
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 452 kcal
+Protein: 30.52 g
+Carbohydrates: 2.17 g
+Fat: 35.59 g
+Fiber: 0 g
+Sugar: 2.17 g
+
+Fats:
+Saturated fat: 24.609 g
+Monounsaturated fat: 8.117 g
+Polyunsaturated fat: 0.845 g
+Cholesterol: 105 mg
+
+Minerals:
+Sodium: 423 mg
+Potassium: 48 mg
+Calcium: 895 mg
+Iron: 1.88 mg
+Magnesium: 54 mg
+Zinc: 1.59 mg
+
+Vitamins:
+Vitamin A: 486 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.31 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.12 µg
+Folate: 4 µg

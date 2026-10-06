@@ -1,0 +1,32 @@
+Food: Cookies, shortbread, commercially prepared, pecan
+Food ID: 174968
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 542 kcal
+Protein: 4.9 g
+Carbohydrates: 58.3 g
+Fat: 32.5 g
+Fiber: 1.8 g
+
+Fats:
+Saturated fat: 8.204 g
+Monounsaturated fat: 18.628 g
+Polyunsaturated fat: 4.122 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 281 mg
+Potassium: 73 mg
+Calcium: 30 mg
+Iron: 2.43 mg
+Magnesium: 18 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.01 µg
+Folate: 63 µg

@@ -1,0 +1,26 @@
+Food: Potatoes, yellow fleshed, hash brown, shredded, salt added in processing, frozen, unprepared
+Food ID: 168945
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 2.04 g
+Carbohydrates: 17.98 g
+Fat: 0.07 g
+Fiber: 2 g
+Sugar: 0.23 g
+
+Fats:
+Saturated fat: 0.01 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 330 mg
+Potassium: 398 mg
+Calcium: 9 mg
+Iron: 0.31 mg
+
+Vitamins:
+Vitamin C: 7.8 mg

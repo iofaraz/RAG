@@ -1,0 +1,28 @@
+Food: Nuts, walnuts, glazed
+Food ID: 170593
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 500 kcal
+Protein: 8.28 g
+Carbohydrates: 47.59 g
+Fat: 35.71 g
+Fiber: 3.6 g
+Sugar: 32.14 g
+
+Fats:
+Saturated fat: 3.571 g
+Monounsaturated fat: 5.357 g
+Polyunsaturated fat: 25 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 446 mg
+Potassium: 232 mg
+Calcium: 71 mg
+Iron: 1.29 mg
+
+Vitamins:
+Vitamin C: 0 mg

@@ -1,0 +1,37 @@
+Food: Tomato powder
+Food ID: 170461
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 302 kcal
+Protein: 12.91 g
+Carbohydrates: 74.68 g
+Fat: 0.44 g
+Fiber: 16.5 g
+Sugar: 43.9 g
+
+Fats:
+Saturated fat: 0.062 g
+Monounsaturated fat: 0.066 g
+Polyunsaturated fat: 0.179 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 134 mg
+Potassium: 1927 mg
+Calcium: 166 mg
+Iron: 4.56 mg
+Magnesium: 178 mg
+Zinc: 1.71 mg
+
+Vitamins:
+Vitamin A: 862 µg
+Vitamin C: 116.7 mg
+Vitamin D: 0 µg
+Vitamin E: 12.25 mg
+Vitamin K: 48.8 µg
+Vitamin B6: 0.457 mg
+Vitamin B12: 0 µg
+Folate: 120 µg

@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST, GRAPE-NUTS Cereal
+Food ID: 171647
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 361 kcal
+Protein: 11.22 g
+Carbohydrates: 80.49 g
+Fat: 1.81 g
+Fiber: 13 g
+Sugar: 8.86 g
+
+Fats:
+Saturated fat: 0.34 g
+Monounsaturated fat: 0.21 g
+Polyunsaturated fat: 0.78 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 465 mg
+Potassium: 400 mg
+Calcium: 32 mg
+Iron: 28 mg
+Magnesium: 124 mg
+Zinc: 2.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.62 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.86 mg
+Vitamin B12: 0 µg
+Folate: 345 µg

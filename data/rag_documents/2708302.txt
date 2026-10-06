@@ -1,0 +1,36 @@
+Food: Pancakes, whole grain, fast food / restaurant
+Food ID: 2708302
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 7.59 g
+Carbohydrates: 31.76 g
+Fat: 15.8 g
+Fiber: 3.1 g
+Sugar: 6.65 g
+
+Fats:
+Saturated fat: 3.423 g
+Monounsaturated fat: 5.849 g
+Polyunsaturated fat: 4.83 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 751 mg
+Potassium: 243 mg
+Calcium: 133 mg
+Iron: 3.05 mg
+Magnesium: 41 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 2.5 mg
+Vitamin K: 12.5 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.38 µg
+Folate: 31 µg

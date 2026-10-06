@@ -1,0 +1,37 @@
+Food: Rye flour, medium
+Food ID: 168886
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 349 kcal
+Protein: 10.88 g
+Carbohydrates: 75.43 g
+Fat: 1.52 g
+Fiber: 11.8 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 0.18 g
+Monounsaturated fat: 0.189 g
+Polyunsaturated fat: 0.695 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 374 mg
+Calcium: 24 mg
+Iron: 2.54 mg
+Magnesium: 63 mg
+Zinc: 2.17 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.43 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.268 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

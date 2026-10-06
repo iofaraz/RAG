@@ -1,0 +1,36 @@
+Food: Rice pilaf
+Food ID: 2709077
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 137 kcal
+Protein: 3.29 g
+Carbohydrates: 24.08 g
+Fat: 3.03 g
+Fiber: 0.4 g
+Sugar: 0.48 g
+
+Fats:
+Saturated fat: 0.444 g
+Monounsaturated fat: 1.219 g
+Polyunsaturated fat: 1.117 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 56 mg
+Calcium: 29 mg
+Iron: 0.74 mg
+Magnesium: 11 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.01 µg
+Folate: 47 µg

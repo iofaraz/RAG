@@ -1,0 +1,36 @@
+Food: Pepper steak
+Food ID: 2706747
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 145 kcal
+Protein: 11.88 g
+Carbohydrates: 4.34 g
+Fat: 9.12 g
+Fiber: 0.7 g
+Sugar: 1.67 g
+
+Fats:
+Saturated fat: 2.012 g
+Monounsaturated fat: 3.835 g
+Polyunsaturated fat: 2.416 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 244 mg
+Potassium: 202 mg
+Calcium: 17 mg
+Iron: 1.24 mg
+Magnesium: 16 mg
+Zinc: 1.96 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 22.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.43 mg
+Vitamin K: 19.5 µg
+Vitamin B6: 0.256 mg
+Vitamin B12: 0.61 µg
+Folate: 13 µg

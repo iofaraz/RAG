@@ -1,0 +1,36 @@
+Food: Snacks, potato chips, fat free, salted
+Food ID: 169686
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 9.64 g
+Carbohydrates: 83.76 g
+Fat: 0.6 g
+Fiber: 7.5 g
+Sugar: 3.69 g
+
+Fats:
+Saturated fat: 0.15 g
+Monounsaturated fat: 0.015 g
+Polyunsaturated fat: 0.255 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 643 mg
+Potassium: 1628 mg
+Calcium: 35 mg
+Iron: 3.57 mg
+Magnesium: 70 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 9.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 9.1 µg
+Vitamin B6: 0.8 mg
+Vitamin B12: 0 µg
+Folate: 45 µg

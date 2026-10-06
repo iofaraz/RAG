@@ -1,0 +1,31 @@
+Food: Cookies, chocolate chip, prepared from recipe, made with butter
+Food ID: 172808
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 488 kcal
+Protein: 5.7 g
+Carbohydrates: 58.2 g
+Fat: 28.4 g
+
+Fats:
+Saturated fat: 14.071 g
+Monounsaturated fat: 8.241 g
+Polyunsaturated fat: 4.541 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 341 mg
+Potassium: 221 mg
+Calcium: 38 mg
+Iron: 2.48 mg
+Magnesium: 55 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 139 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.08 µg
+Folate: 33 µg

@@ -1,0 +1,36 @@
+Food: Pretzels, soft, ready-to-eat, salted, no butter
+Food ID: 2708271
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 8.09 g
+Carbohydrates: 70.06 g
+Fat: 3.06 g
+Fiber: 1.7 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 0.685 g
+Monounsaturated fat: 1.056 g
+Polyunsaturated fat: 0.935 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 783 mg
+Potassium: 87 mg
+Calcium: 23 mg
+Iron: 3.87 mg
+Magnesium: 21 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

@@ -1,0 +1,34 @@
+Food: Restaurant, Mexican, soft taco with ground beef, cheese and lettuce
+Food ID: 167658
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 12.56 g
+Carbohydrates: 17.92 g
+Fat: 10.81 g
+Fiber: 1.5 g
+Sugar: 2.39 g
+
+Fats:
+Saturated fat: 4.486 g
+Monounsaturated fat: 4.229 g
+Polyunsaturated fat: 1.203 g
+Trans fat: 0.616 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 509 mg
+Potassium: 244 mg
+Calcium: 116 mg
+Iron: 1.85 mg
+Magnesium: 27 mg
+Zinc: 2.15 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin E: 0.82 mg
+Vitamin B6: 0.136 mg
+Vitamin B12: 1.22 µg
+Folate: 38 µg

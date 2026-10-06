@@ -1,0 +1,32 @@
+Food: APPLEBEE'S, crunchy onion rings
+Food ID: 169840
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 356 kcal
+Protein: 4.58 g
+Carbohydrates: 40.17 g
+Fat: 19.61 g
+Fiber: 3.1 g
+Sugar: 4.48 g
+
+Fats:
+Saturated fat: 3.574 g
+Monounsaturated fat: 4.408 g
+Polyunsaturated fat: 10.255 g
+Trans fat: 0.139 g
+
+Minerals:
+Sodium: 833 mg
+Potassium: 135 mg
+Calcium: 22 mg
+Iron: 0.67 mg
+Magnesium: 17 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 1.27 mg
+Vitamin K: 41.1 µg
+Vitamin B6: 0.077 mg

@@ -1,0 +1,32 @@
+Food: Nectarines, raw
+Food ID: 327357
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 39 kcal
+Protein: 1.06 g
+Carbohydrates: 9.18 g
+Fat: 0.28 g
+Fiber: 1.5 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+
+Minerals:
+Sodium: 13 mg
+Potassium: 131 mg
+Calcium: 2 mg
+Iron: 0.3 mg
+Magnesium: 8.8 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 2.9 mg
+Vitamin E: 0.61 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.025 mg
+Folate: 6 µg

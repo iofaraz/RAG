@@ -1,0 +1,36 @@
+Food: Cake or cupcake, marble
+Food ID: 2707880
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 347 kcal
+Protein: 3.07 g
+Carbohydrates: 52.57 g
+Fat: 15.06 g
+Fiber: 1.2 g
+Sugar: 38.36 g
+
+Fats:
+Saturated fat: 4.036 g
+Monounsaturated fat: 6.785 g
+Polyunsaturated fat: 3.163 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 305 mg
+Potassium: 133 mg
+Calcium: 71 mg
+Iron: 1.57 mg
+Magnesium: 19 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 2.02 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.11 µg
+Folate: 20 µg

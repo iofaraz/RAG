@@ -1,0 +1,24 @@
+Food: Turkey, ground, 93% lean/ 7% fat, raw
+Food ID: 2514747
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 17.3438 g
+Carbohydrates: 0 g
+Fat: 9.591 g
+
+Fats:
+Saturated fat: 2.264 g
+Monounsaturated fat: 2.874 g
+Polyunsaturated fat: 2.59 g
+Trans fat: 0.081 g
+Cholesterol: 82.26 mg
+
+Minerals:
+Sodium: 80.18 mg
+Potassium: 246.3 mg
+Calcium: 23.63 mg
+Iron: 1.087 mg
+Magnesium: 17.3 mg
+Zinc: 2.95 mg

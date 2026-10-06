@@ -1,0 +1,26 @@
+Food: Soup, fish, homemade (Alaska Native)
+Food ID: 168027
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 7.4 g
+Carbohydrates: 5.6 g
+Fat: 2.2 g
+
+Fats:
+Saturated fat: 0.5 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 128 mg
+Calcium: 35 mg
+Iron: 0.5 mg
+Magnesium: 1 mg
+
+Vitamins:
+Vitamin C: 0.3 mg
+Vitamin B6: 0.01 mg
+Folate: 1 µg

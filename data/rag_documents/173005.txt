@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST GREAT GRAINS Cranberry Almond Crunch
+Food ID: 173005
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 8.9 g
+Carbohydrates: 76.6 g
+Fat: 5.9 g
+Fiber: 11.1 g
+Sugar: 25.5 g
+
+Fats:
+Saturated fat: 0.8 g
+Monounsaturated fat: 3 g
+Polyunsaturated fat: 1.7 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 214 mg
+Potassium: 308 mg
+Calcium: 40 mg
+Iron: 3.8 mg
+Magnesium: 89 mg
+Zinc: 3.1 mg
+
+Vitamins:
+Vitamin A: 467 µg
+Vitamin C: 25 mg
+Vitamin D: 2.1 µg
+Vitamin E: 5.63 mg
+Vitamin K: 2 µg
+Vitamin B6: 1 mg
+Vitamin B12: 3.1 µg
+Folate: 208 µg

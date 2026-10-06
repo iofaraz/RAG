@@ -1,0 +1,36 @@
+Food: Gefilte fish
+Food ID: 2706551
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 10.39 g
+Carbohydrates: 8.74 g
+Fat: 0.41 g
+Fiber: 0.4 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 0.07 g
+Monounsaturated fat: 0.055 g
+Polyunsaturated fat: 0.147 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 453 mg
+Potassium: 171 mg
+Calcium: 10 mg
+Iron: 0.68 mg
+Magnesium: 16 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.33 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 1.07 µg
+Folate: 21 µg

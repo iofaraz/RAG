@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE, (LACTOSE FREE), liquid concentrate, with ARA and DHA
+Food ID: 173558
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 2.73 g
+Carbohydrates: 13.64 g
+Fat: 6.95 g
+Fiber: 0 g
+Sugar: 13.78 g
+
+Fats:
+Saturated fat: 4.522 g
+Monounsaturated fat: 0.715 g
+Polyunsaturated fat: 1.548 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 138 mg
+Calcium: 108 mg
+Iron: 2.32 mg
+Magnesium: 8 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 116 µg
+Vitamin C: 11.5 mg
+Vitamin D: 1.9 µg
+Vitamin E: 0.84 mg
+Vitamin K: 10.3 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.32 µg
+Folate: 19 µg

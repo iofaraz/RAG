@@ -1,0 +1,36 @@
+Food: Pizza, with meat, whole wheat thick crust
+Food ID: 2708690
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 284 kcal
+Protein: 12.51 g
+Carbohydrates: 28.13 g
+Fat: 13.98 g
+Fiber: 3.3 g
+Sugar: 3.31 g
+
+Fats:
+Saturated fat: 4.816 g
+Monounsaturated fat: 5.849 g
+Polyunsaturated fat: 1.995 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 628 mg
+Potassium: 218 mg
+Calcium: 181 mg
+Iron: 2.51 mg
+Magnesium: 52 mg
+Zinc: 1.77 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.43 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.196 mg
+Vitamin B12: 0.33 µg
+Folate: 52 µg

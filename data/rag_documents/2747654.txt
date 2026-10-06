@@ -1,0 +1,20 @@
+Food: Cod, Pacific or Alaskan, frozen, wild caught
+Food ID: 2747654
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 14.2 g
+Carbohydrates: 0.524 g
+Fat: 0.216 g
+
+Minerals:
+Sodium: 353.9 mg
+Potassium: 192.3 mg
+Calcium: 9.013 mg
+Iron: 0 mg
+Magnesium: 17.88 mg
+Zinc: 0.2687 mg
+
+Vitamins:
+Vitamin B12: 0.586 µg

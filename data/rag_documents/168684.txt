@@ -1,0 +1,32 @@
+Food: Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8" fat, select, cooked, roasted
+Food ID: 168684
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 23.4 g
+Carbohydrates: 0 g
+Fat: 25.84 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 10.42 g
+Monounsaturated fat: 11.06 g
+Polyunsaturated fat: 0.9 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 299 mg
+Calcium: 9 mg
+Iron: 2.39 mg
+Magnesium: 20 mg
+Zinc: 5.98 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.23 mg
+Vitamin B12: 2.37 µg
+Folate: 8 µg

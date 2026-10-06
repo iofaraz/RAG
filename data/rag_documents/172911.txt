@@ -1,0 +1,37 @@
+Food: Soup, chili beef, canned, prepared with equal volume water
+Food ID: 172911
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 2.49 g
+Carbohydrates: 9.23 g
+Fat: 1.24 g
+Fiber: 1.2 g
+Sugar: 2.49 g
+
+Fats:
+Saturated fat: 0.608 g
+Monounsaturated fat: 0.496 g
+Polyunsaturated fat: 0.046 g
+Trans fat: 0.034 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 388 mg
+Potassium: 196 mg
+Calcium: 18 mg
+Iron: 0.79 mg
+Magnesium: 10 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0.15 µg
+Folate: 4 µg

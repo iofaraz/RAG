@@ -1,0 +1,36 @@
+Food: Scrapple, pork
+Food ID: 172969
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 8.06 g
+Carbohydrates: 14.06 g
+Fat: 13.87 g
+Fiber: 0.3 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 4.732 g
+Monounsaturated fat: 6.156 g
+Polyunsaturated fat: 1.664 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 482 mg
+Potassium: 158 mg
+Calcium: 7 mg
+Iron: 1.89 mg
+Magnesium: 13 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 626 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.15 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.31 µg
+Folate: 5 µg

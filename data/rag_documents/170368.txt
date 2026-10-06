@@ -1,0 +1,36 @@
+Food: Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread
+Food ID: 170368
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 182 kcal
+Protein: 17.34 g
+Carbohydrates: 16.78 g
+Fat: 4.57 g
+Fiber: 0.9 g
+Sugar: 3.08 g
+
+Fats:
+Saturated fat: 0.949 g
+Monounsaturated fat: 1.339 g
+Polyunsaturated fat: 1.839 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 427 mg
+Potassium: 197 mg
+Calcium: 62 mg
+Iron: 1.58 mg
+Magnesium: 23 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.38 mg
+Vitamin K: 6.7 µg
+Vitamin B6: 0.309 mg
+Vitamin B12: 0.22 µg
+Folate: 39 µg

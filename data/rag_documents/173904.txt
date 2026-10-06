@@ -1,0 +1,36 @@
+Food: Cereals, oats, regular and quick, not fortified, dry
+Food ID: 173904
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 13.15 g
+Carbohydrates: 67.7 g
+Fat: 6.52 g
+Fiber: 10.1 g
+Sugar: 0.99 g
+
+Fats:
+Saturated fat: 1.11 g
+Monounsaturated fat: 1.98 g
+Polyunsaturated fat: 2.3 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 362 mg
+Calcium: 52 mg
+Iron: 4.25 mg
+Magnesium: 138 mg
+Zinc: 3.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

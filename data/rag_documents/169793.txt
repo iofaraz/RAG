@@ -1,0 +1,13 @@
+Food: Bear, black, meat (Alaska Native)
+Food ID: 169793
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 20.1 g
+Carbohydrates: 0 g
+Fat: 8.3 g
+
+Minerals:
+Iron: 7.2 mg

@@ -1,0 +1,36 @@
+Food: Classic mixed vegetables, NS as to form, cooked
+Food ID: 2710015
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 2.78 g
+Carbohydrates: 12.68 g
+Fat: 2.69 g
+Fiber: 4.3 g
+Sugar: 3.02 g
+
+Fats:
+Saturated fat: 0.696 g
+Monounsaturated fat: 0.913 g
+Polyunsaturated fat: 0.8 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 155 mg
+Potassium: 164 mg
+Calcium: 25 mg
+Iron: 0.8 mg
+Magnesium: 21 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 219 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.75 mg
+Vitamin K: 24.8 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

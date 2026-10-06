@@ -1,0 +1,36 @@
+Food: Bitter melon, horseradish, jute, or radish leaves, cooked
+Food ID: 2709641
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 3.49 g
+Carbohydrates: 6.47 g
+Fat: 2.74 g
+Fiber: 1.8 g
+Sugar: 1.01 g
+
+Fats:
+Saturated fat: 0.697 g
+Monounsaturated fat: 0.908 g
+Polyunsaturated fat: 0.811 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 134 mg
+Potassium: 583 mg
+Calcium: 41 mg
+Iron: 0.99 mg
+Magnesium: 91 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 128 µg
+Vitamin C: 53.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.78 mg
+Vitamin K: 160 µg
+Vitamin B6: 0.752 mg
+Vitamin B12: 0 µg
+Folate: 85 µg

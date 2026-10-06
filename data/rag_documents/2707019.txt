@@ -1,0 +1,36 @@
+Food: Turkey or chicken burger, on wheat bun
+Food ID: 2707019
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 20.7 g
+Carbohydrates: 18.74 g
+Fat: 7.72 g
+Fiber: 2.2 g
+Sugar: 2.15 g
+
+Fats:
+Saturated fat: 1.857 g
+Monounsaturated fat: 2.291 g
+Polyunsaturated fat: 2.351 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 334 mg
+Potassium: 250 mg
+Calcium: 83 mg
+Iron: 2.19 mg
+Magnesium: 41 mg
+Zinc: 2.38 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.21 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.436 mg
+Vitamin B12: 0.78 µg
+Folate: 34 µg

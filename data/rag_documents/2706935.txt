@@ -1,0 +1,36 @@
+Food: Hamburger, on wheat bun, 1 large patty
+Food ID: 2706935
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 283 kcal
+Protein: 18.99 g
+Carbohydrates: 15.52 g
+Fat: 15.66 g
+Fiber: 1.8 g
+Sugar: 1.78 g
+
+Fats:
+Saturated fat: 6.012 g
+Monounsaturated fat: 6.351 g
+Polyunsaturated fat: 0.965 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 333 mg
+Potassium: 264 mg
+Calcium: 63 mg
+Iron: 2.66 mg
+Magnesium: 32 mg
+Zinc: 3.63 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.12 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.34 mg
+Vitamin B12: 1.74 µg
+Folate: 38 µg

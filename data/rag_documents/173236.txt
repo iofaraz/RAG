@@ -1,0 +1,36 @@
+Food: Beverages, orange-flavor drink, breakfast type, powder, prepared with water
+Food ID: 173236
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 0 g
+Carbohydrates: 12.65 g
+Fat: 0 g
+Fiber: 0.1 g
+Sugar: 11.8 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 25 mg
+Calcium: 52 mg
+Iron: 0 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 77 µg
+Vitamin C: 29.5 mg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

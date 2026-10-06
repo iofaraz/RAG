@@ -1,0 +1,33 @@
+Food: Potatoes, scalloped, dry mix, prepared with water, whole milk and butter
+Food ID: 170450
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 2.12 g
+Carbohydrates: 12.77 g
+Fat: 4.3 g
+Fiber: 1.1 g
+
+Fats:
+Saturated fat: 2.633 g
+Monounsaturated fat: 1.213 g
+Polyunsaturated fat: 0.194 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 341 mg
+Potassium: 203 mg
+Calcium: 36 mg
+Iron: 0.38 mg
+Magnesium: 14 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 3.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

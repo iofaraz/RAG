@@ -1,0 +1,34 @@
+Food: Rice flour, brown
+Food ID: 168898
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 363 kcal
+Protein: 7.23 g
+Carbohydrates: 76.48 g
+Fat: 2.78 g
+Fiber: 4.6 g
+Sugar: 0.66 g
+
+Fats:
+Saturated fat: 0.557 g
+Monounsaturated fat: 1.008 g
+Polyunsaturated fat: 0.996 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 289 mg
+Calcium: 11 mg
+Iron: 1.98 mg
+Magnesium: 112 mg
+Zinc: 2.45 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin B6: 0.736 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

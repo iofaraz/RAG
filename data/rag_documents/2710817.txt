@@ -1,0 +1,22 @@
+Food: Plantains, ripe, raw
+Food ID: 2710817
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.15625 g
+Carbohydrates: 30.9521 g
+Fat: 0.8933 g
+Fiber: 2.125 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 395.6 mg
+Calcium: 3.825 mg
+Iron: 0.3192 mg
+Magnesium: 33.93 mg
+Zinc: 0.1467 mg
+
+Vitamins:
+Vitamin C: 20.08 mg
+Vitamin B6: 0.1893 mg

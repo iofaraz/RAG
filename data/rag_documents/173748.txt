@@ -1,0 +1,37 @@
+Food: Beans, pink, mature seeds, raw
+Food ID: 173748
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 343 kcal
+Protein: 20.96 g
+Carbohydrates: 64.19 g
+Fat: 1.13 g
+Fiber: 12.7 g
+Sugar: 2.14 g
+
+Fats:
+Saturated fat: 0.292 g
+Monounsaturated fat: 0.098 g
+Polyunsaturated fat: 0.487 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 1464 mg
+Calcium: 130 mg
+Iron: 6.77 mg
+Magnesium: 182 mg
+Zinc: 2.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.527 mg
+Vitamin B12: 0 µg
+Folate: 463 µg

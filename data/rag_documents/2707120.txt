@@ -1,0 +1,36 @@
+Food: Shrimp and vegetables in sauce with noodles, diet frozen meal
+Food ID: 2707120
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 5.29 g
+Carbohydrates: 13.45 g
+Fat: 1.72 g
+Fiber: 1.5 g
+Sugar: 1.87 g
+
+Fats:
+Saturated fat: 0.491 g
+Monounsaturated fat: 0.321 g
+Polyunsaturated fat: 0.545 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 456 mg
+Potassium: 87 mg
+Calcium: 32 mg
+Iron: 0.9 mg
+Magnesium: 15 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 129 µg
+Vitamin C: 7.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.11 µg
+Folate: 32 µg

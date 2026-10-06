@@ -1,0 +1,31 @@
+Food: Dates, medjool
+Food ID: 168191
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 1.81 g
+Carbohydrates: 74.97 g
+Fat: 0.15 g
+Fiber: 6.7 g
+Sugar: 66.47 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 696 mg
+Calcium: 64 mg
+Iron: 0.9 mg
+Magnesium: 54 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.249 mg
+Folate: 15 µg

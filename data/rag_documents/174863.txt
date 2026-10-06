@@ -1,0 +1,37 @@
+Food: Malt beverage, includes non-alcoholic beer
+Food ID: 174863
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 0.21 g
+Carbohydrates: 8.05 g
+Fat: 0.12 g
+Fiber: 0 g
+Sugar: 8.05 g
+
+Fats:
+Saturated fat: 0.024 g
+Monounsaturated fat: 0.015 g
+Polyunsaturated fat: 0.056 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 8 mg
+Calcium: 7 mg
+Iron: 0.06 mg
+Magnesium: 7 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.02 µg
+Folate: 14 µg

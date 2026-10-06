@@ -1,0 +1,36 @@
+Food: Babyfood, meat, lamb, strained
+Food ID: 173481
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 14.07 g
+Carbohydrates: 0.85 g
+Fat: 3.41 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.65 g
+Monounsaturated fat: 1.27 g
+Polyunsaturated fat: 0.31 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 193 mg
+Calcium: 7 mg
+Iron: 1.19 mg
+Magnesium: 13 mg
+Zinc: 2.43 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 1.9 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Pretzels, soft, ready-to-eat, topped with cheese
+Food ID: 2708276
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 10.22 g
+Carbohydrates: 62.35 g
+Fat: 5.36 g
+Fiber: 1.5 g
+Sugar: 0.45 g
+
+Fats:
+Saturated fat: 2.13 g
+Monounsaturated fat: 1.538 g
+Polyunsaturated fat: 0.921 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 310 mg
+Potassium: 92 mg
+Calcium: 110 mg
+Iron: 3.44 mg
+Magnesium: 22 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.54 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.2 µg
+Folate: 24 µg

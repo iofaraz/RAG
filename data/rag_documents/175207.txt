@@ -1,0 +1,37 @@
+Food: Chili with beans, canned
+Food ID: 175207
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 6.12 g
+Carbohydrates: 13.24 g
+Fat: 3.76 g
+Fiber: 3.3 g
+Sugar: 1.65 g
+
+Fats:
+Saturated fat: 1.133 g
+Monounsaturated fat: 1.601 g
+Polyunsaturated fat: 0.249 g
+Trans fat: 0 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 423 mg
+Potassium: 365 mg
+Calcium: 47 mg
+Iron: 3.43 mg
+Magnesium: 45 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.132 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

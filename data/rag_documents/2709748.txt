@@ -1,0 +1,36 @@
+Food: Spaghetti sauce, fat free
+Food ID: 2709748
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 24 kcal
+Protein: 1.2 g
+Carbohydrates: 5.31 g
+Fat: 0.3 g
+Fiber: 1.5 g
+Sugar: 3.56 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0.045 g
+Polyunsaturated fat: 0.121 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 474 mg
+Potassium: 297 mg
+Calcium: 14 mg
+Iron: 0.96 mg
+Magnesium: 15 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.44 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

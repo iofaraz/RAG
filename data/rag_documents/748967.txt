@@ -1,0 +1,32 @@
+Food: Eggs, Grade A, Large, egg whole
+Food ID: 748967
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 12.4 g
+Carbohydrates: 0.96 g
+Fat: 9.96 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.2 g
+Monounsaturated fat: 3.63 g
+Polyunsaturated fat: 1.82 g
+Cholesterol: 411 mg
+
+Minerals:
+Sodium: 129 mg
+Potassium: 132 mg
+Calcium: 48 mg
+Iron: 1.67 mg
+Magnesium: 11.4 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 180 µg
+Vitamin D: 2.46 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 1.02 µg
+Folate: 71 µg

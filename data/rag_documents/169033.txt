@@ -1,0 +1,35 @@
+Food: Restaurant, Italian, spaghetti with pomodoro sauce (no meat)
+Food ID: 169033
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 3.9 g
+Carbohydrates: 17.77 g
+Fat: 1.89 g
+Fiber: 1.7 g
+Sugar: 1.82 g
+
+Fats:
+Saturated fat: 0.366 g
+Monounsaturated fat: 0.926 g
+Polyunsaturated fat: 0.528 g
+Trans fat: 0.008 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 191 mg
+Potassium: 140 mg
+Calcium: 15 mg
+Iron: 0.9 mg
+Magnesium: 16 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 1.1 mg
+Vitamin E: 0.81 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.084 mg
+Folate: 29 µg

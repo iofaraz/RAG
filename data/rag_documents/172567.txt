@@ -1,0 +1,30 @@
+Food: Veal, breast, separable fat, cooked
+Food ID: 172567
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 521 kcal
+Protein: 9.4 g
+Carbohydrates: 0 g
+Fat: 53.35 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 21.407 g
+Monounsaturated fat: 26.41 g
+Polyunsaturated fat: 2.865 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 181 mg
+Calcium: 6 mg
+Iron: 0.45 mg
+Magnesium: 10 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.55 µg
+Folate: 5 µg

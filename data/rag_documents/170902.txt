@@ -1,0 +1,37 @@
+Food: Yogurt, Greek, vanilla, nonfat
+Food ID: 170902
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 8.64 g
+Carbohydrates: 10.37 g
+Fat: 0.18 g
+Fiber: 0.5 g
+Sugar: 9.54 g
+
+Fats:
+Saturated fat: 0.133 g
+Monounsaturated fat: 0.039 g
+Polyunsaturated fat: 0.009 g
+Trans fat: 0.004 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 123 mg
+Calcium: 99 mg
+Iron: 0.04 mg
+Magnesium: 10 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.64 µg
+Folate: 11 µg

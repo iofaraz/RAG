@@ -1,0 +1,33 @@
+Food: Wheat, sprouted
+Food ID: 169725
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 198 kcal
+Protein: 7.49 g
+Carbohydrates: 42.53 g
+Fat: 1.27 g
+Fiber: 1.1 g
+
+Fats:
+Saturated fat: 0.206 g
+Monounsaturated fat: 0.151 g
+Polyunsaturated fat: 0.557 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 169 mg
+Calcium: 28 mg
+Iron: 2.14 mg
+Magnesium: 82 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.265 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

@@ -1,0 +1,28 @@
+Food: Salmonberries, raw (Alaska Native)
+Food ID: 168048
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.85 g
+Carbohydrates: 10.05 g
+Fat: 0.33 g
+Fiber: 1.9 g
+Sugar: 3.66 g
+
+Minerals:
+Sodium: 14 mg
+Potassium: 110 mg
+Calcium: 13 mg
+Iron: 0.4 mg
+Magnesium: 15 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 9.2 mg
+Vitamin E: 1.61 mg
+Vitamin K: 14.8 µg
+Vitamin B6: 0.078 mg
+Folate: 17 µg

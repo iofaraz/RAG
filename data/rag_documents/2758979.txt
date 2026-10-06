@@ -1,0 +1,19 @@
+Food: Raisins, golden, seedless
+Food ID: 2758979
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 3.006 g
+
+Minerals:
+Sodium: 13.26 mg
+Potassium: 869.4 mg
+Calcium: 59.01 mg
+Iron: 2.251 mg
+Magnesium: 34.1 mg
+Zinc: 0.1626 mg
+
+Vitamins:
+Vitamin C: 2.608 mg
+Vitamin B6: 0.1074 mg

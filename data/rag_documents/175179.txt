@@ -1,0 +1,25 @@
+Food: Crustaceans, shrimp, raw
+Food ID: 175179
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 20.1 g
+Carbohydrates: 0 g
+Fat: 0.51 g
+
+Fats:
+Saturated fat: 0.101 g
+Monounsaturated fat: 0.086 g
+Polyunsaturated fat: 0.152 g
+Trans fat: 0.004 g
+Cholesterol: 161 mg
+
+Minerals:
+Sodium: 119 mg
+Potassium: 264 mg
+Calcium: 64 mg
+Iron: 0.52 mg
+Magnesium: 35 mg
+Zinc: 1.34 mg

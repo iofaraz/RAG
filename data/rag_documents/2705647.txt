@@ -1,0 +1,36 @@
+Food: Ice cream cone, NFS
+Food ID: 2705647
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 229 kcal
+Protein: 3.75 g
+Carbohydrates: 28.47 g
+Fat: 11.13 g
+Fiber: 0.9 g
+Sugar: 22.19 g
+
+Fats:
+Saturated fat: 6.637 g
+Monounsaturated fat: 3.074 g
+Polyunsaturated fat: 0.609 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 97 mg
+Potassium: 199 mg
+Calcium: 120 mg
+Iron: 0.43 mg
+Magnesium: 16 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 108 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.4 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.36 µg
+Folate: 12 µg

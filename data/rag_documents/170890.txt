@@ -1,0 +1,36 @@
+Food: Milk dessert bar, frozen, made from lowfat milk
+Food ID: 170890
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 4.41 g
+Carbohydrates: 32 g
+Fat: 1.47 g
+Fiber: 6.6 g
+Sugar: 22.06 g
+
+Fats:
+Saturated fat: 0.735 g
+Monounsaturated fat: 0.581 g
+Polyunsaturated fat: 0.065 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 316 mg
+Calcium: 184 mg
+Iron: 0.53 mg
+Magnesium: 20 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 71 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0.14 µg
+Folate: 4 µg

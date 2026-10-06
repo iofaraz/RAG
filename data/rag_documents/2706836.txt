@@ -1,0 +1,36 @@
+Food: Tuna salad, made with any type of fat free dressing
+Food ID: 2706836
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 9.6 g
+Carbohydrates: 6.25 g
+Fat: 1.15 g
+Fiber: 0.8 g
+Sugar: 4.26 g
+
+Fats:
+Saturated fat: 0.261 g
+Monounsaturated fat: 0.509 g
+Polyunsaturated fat: 0.167 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 460 mg
+Potassium: 157 mg
+Calcium: 21 mg
+Iron: 0.9 mg
+Magnesium: 15 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.26 mg
+Vitamin K: 16.7 µg
+Vitamin B6: 0.171 mg
+Vitamin B12: 1.27 µg
+Folate: 10 µg

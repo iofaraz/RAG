@@ -1,0 +1,36 @@
+Food: Worcestershire sauce
+Food ID: 2707447
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 0 g
+Carbohydrates: 19.17 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 10.03 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1300 mg
+Potassium: 800 mg
+Calcium: 107 mg
+Iron: 5.3 mg
+Magnesium: 13 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 13 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

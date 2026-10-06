@@ -1,0 +1,37 @@
+Food: Salad dressing, poppyseed, creamy
+Food ID: 171044
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 399 kcal
+Protein: 0.92 g
+Carbohydrates: 23.73 g
+Fat: 33.33 g
+Fiber: 0.3 g
+Sugar: 23.39 g
+
+Fats:
+Saturated fat: 6.061 g
+Monounsaturated fat: 8.207 g
+Polyunsaturated fat: 17.326 g
+Trans fat: 0.144 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 933 mg
+Potassium: 61 mg
+Calcium: 59 mg
+Iron: 0.25 mg
+Magnesium: 9 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.36 mg
+Vitamin K: 50.2 µg
+Vitamin B6: 0.022 mg
+Vitamin B12: 0.09 µg
+Folate: 3 µg

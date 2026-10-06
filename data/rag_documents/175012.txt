@@ -1,0 +1,31 @@
+Food: Pie, apple, prepared from recipe
+Food ID: 175012
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 2.4 g
+Carbohydrates: 37.1 g
+Fat: 12.5 g
+
+Fats:
+Saturated fat: 3.05 g
+Monounsaturated fat: 5.393 g
+Polyunsaturated fat: 3.338 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 211 mg
+Potassium: 79 mg
+Calcium: 7 mg
+Iron: 1.12 mg
+Magnesium: 7 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 1.7 mg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

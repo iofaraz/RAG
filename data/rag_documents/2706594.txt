@@ -1,0 +1,36 @@
+Food: Shepherd's pie
+Food ID: 2706594
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 7.64 g
+Carbohydrates: 8.72 g
+Fat: 6.3 g
+Fiber: 1.5 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 2.67 g
+Monounsaturated fat: 2.362 g
+Polyunsaturated fat: 0.479 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 264 mg
+Potassium: 250 mg
+Calcium: 26 mg
+Iron: 0.93 mg
+Magnesium: 15 mg
+Zinc: 1.69 mg
+
+Vitamins:
+Vitamin A: 79 µg
+Vitamin C: 2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.33 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 0.69 µg
+Folate: 12 µg

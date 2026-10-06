@@ -1,0 +1,37 @@
+Food: Luncheon slices, meatless
+Food ID: 169066
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 17.78 g
+Carbohydrates: 4.44 g
+Fat: 11.11 g
+Fiber: 1.1 g
+Sugar: 2.22 g
+
+Fats:
+Saturated fat: 1.338 g
+Monounsaturated fat: 2.055 g
+Polyunsaturated fat: 4.383 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 711 mg
+Potassium: 200 mg
+Calcium: 41 mg
+Iron: 1.8 mg
+Magnesium: 23 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.889 mg
+Vitamin B12: 4 µg
+Folate: 100 µg

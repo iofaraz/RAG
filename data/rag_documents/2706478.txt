@@ -1,0 +1,36 @@
+Food: Beef and potatoes with cheese sauce
+Food ID: 2706478
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 8.15 g
+Carbohydrates: 11.1 g
+Fat: 5.6 g
+Fiber: 0.9 g
+Sugar: 0.48 g
+
+Fats:
+Saturated fat: 2.798 g
+Monounsaturated fat: 1.903 g
+Polyunsaturated fat: 0.472 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 233 mg
+Calcium: 94 mg
+Iron: 0.61 mg
+Magnesium: 18 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.09 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.199 mg
+Vitamin B12: 0.34 µg
+Folate: 9 µg

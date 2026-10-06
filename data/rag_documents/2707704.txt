@@ -1,0 +1,36 @@
+Food: Pannetone
+Food ID: 2707704
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 325 kcal
+Protein: 9.76 g
+Carbohydrates: 53.75 g
+Fat: 8.39 g
+Fiber: 2.3 g
+Sugar: 17.79 g
+
+Fats:
+Saturated fat: 3.992 g
+Monounsaturated fat: 1.948 g
+Polyunsaturated fat: 0.702 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 325 mg
+Potassium: 165 mg
+Calcium: 55 mg
+Iron: 2.86 mg
+Magnesium: 24 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.43 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.18 µg
+Folate: 128 µg

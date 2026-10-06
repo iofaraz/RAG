@@ -1,0 +1,36 @@
+Food: Pad Thai with meat
+Food ID: 2708808
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 8.18 g
+Carbohydrates: 14.73 g
+Fat: 7.92 g
+Fiber: 1.2 g
+Sugar: 4.17 g
+
+Fats:
+Saturated fat: 1.578 g
+Monounsaturated fat: 3.473 g
+Polyunsaturated fat: 2.055 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 337 mg
+Potassium: 144 mg
+Calcium: 20 mg
+Iron: 0.96 mg
+Magnesium: 24 mg
+Zinc: 1.22 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.15 mg
+Vitamin K: 20.6 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.34 µg
+Folate: 24 µg

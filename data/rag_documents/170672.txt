@@ -1,0 +1,22 @@
+Food: Sweeteners, for baking, brown, contains sugar and sucralose
+Food ID: 170672
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 388 kcal
+Protein: 0 g
+Carbohydrates: 97.11 g
+Fat: 0 g
+Sugar: 45.66 g
+
+Minerals:
+Sodium: 11 mg
+Potassium: 130 mg
+Calcium: 63 mg
+Iron: 1.64 mg
+Magnesium: 10 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin B6: 0.04 mg

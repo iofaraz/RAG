@@ -1,0 +1,36 @@
+Food: Cheese, feta
+Food ID: 173420
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 14.21 g
+Carbohydrates: 3.88 g
+Fat: 21.49 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 13.3 g
+Monounsaturated fat: 4.623 g
+Polyunsaturated fat: 0.591 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 1139 mg
+Potassium: 62 mg
+Calcium: 493 mg
+Iron: 0.65 mg
+Magnesium: 19 mg
+Zinc: 2.88 mg
+
+Vitamins:
+Vitamin A: 125 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.424 mg
+Vitamin B12: 1.69 µg
+Folate: 32 µg

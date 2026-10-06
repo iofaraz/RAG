@@ -1,0 +1,36 @@
+Food: Meat loaf made with ham
+Food ID: 2706504
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 179 kcal
+Protein: 20.65 g
+Carbohydrates: 6.16 g
+Fat: 7.52 g
+Fiber: 0.3 g
+Sugar: 1.67 g
+
+Fats:
+Saturated fat: 2.261 g
+Monounsaturated fat: 2.844 g
+Polyunsaturated fat: 1.755 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 879 mg
+Potassium: 322 mg
+Calcium: 27 mg
+Iron: 1.26 mg
+Magnesium: 22 mg
+Zinc: 2.12 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.57 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.335 mg
+Vitamin B12: 0.51 µg
+Folate: 14 µg

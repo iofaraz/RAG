@@ -1,0 +1,32 @@
+Food: Crustaceans, crab, dungeness, raw
+Food ID: 171968
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 17.41 g
+Carbohydrates: 0.74 g
+Fat: 0.97 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.132 g
+Monounsaturated fat: 0.167 g
+Polyunsaturated fat: 0.317 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 295 mg
+Potassium: 354 mg
+Calcium: 46 mg
+Iron: 0.37 mg
+Magnesium: 45 mg
+Zinc: 4.27 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 3.5 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 9 µg
+Folate: 44 µg

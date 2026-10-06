@@ -1,0 +1,37 @@
+Food: Butter, salted
+Food ID: 173410
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 717 kcal
+Protein: 0.85 g
+Carbohydrates: 0.06 g
+Fat: 81.11 g
+Fiber: 0 g
+Sugar: 0.06 g
+
+Fats:
+Saturated fat: 51.368 g
+Monounsaturated fat: 21.021 g
+Polyunsaturated fat: 3.043 g
+Trans fat: 3.278 g
+Cholesterol: 215 mg
+
+Minerals:
+Sodium: 643 mg
+Potassium: 24 mg
+Calcium: 24 mg
+Iron: 0.02 mg
+Magnesium: 2 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 684 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.32 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 0.17 µg
+Folate: 3 µg

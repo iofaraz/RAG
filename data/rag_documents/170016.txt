@@ -1,0 +1,37 @@
+Food: Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
+Food ID: 170016
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 5.22 g
+Carbohydrates: 13.62 g
+Fat: 0.4 g
+Fiber: 4.5 g
+Sugar: 5 g
+
+Fats:
+Saturated fat: 0.066 g
+Monounsaturated fat: 0.033 g
+Polyunsaturated fat: 0.175 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 108 mg
+Potassium: 153 mg
+Calcium: 22 mg
+Iron: 1.53 mg
+Magnesium: 26 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 103 µg
+Vitamin C: 18 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 27.9 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0 µg
+Folate: 53 µg

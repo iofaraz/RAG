@@ -1,0 +1,36 @@
+Food: Fish, flounder, NFS
+Food ID: 2706248
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 15.42 g
+Carbohydrates: 0.01 g
+Fat: 6.93 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.734 g
+Monounsaturated fat: 2.274 g
+Polyunsaturated fat: 1.766 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 199 mg
+Calcium: 27 mg
+Iron: 0.23 mg
+Magnesium: 22 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0 mg
+Vitamin D: 3.5 µg
+Vitamin E: 1.46 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.139 mg
+Vitamin B12: 1.26 µg
+Folate: 6 µg

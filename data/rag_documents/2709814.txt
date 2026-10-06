@@ -1,0 +1,36 @@
+Food: Coleslaw, fast food / restaurant
+Food ID: 2709814
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 0.88 g
+Carbohydrates: 12.35 g
+Fat: 11.78 g
+Fiber: 1.9 g
+Sugar: 9.54 g
+
+Fats:
+Saturated fat: 1.909 g
+Monounsaturated fat: 2.582 g
+Polyunsaturated fat: 6.913 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 221 mg
+Potassium: 153 mg
+Calcium: 34 mg
+Iron: 0.3 mg
+Magnesium: 10 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 13.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.8 mg
+Vitamin K: 79 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

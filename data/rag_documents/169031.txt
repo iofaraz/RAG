@@ -1,0 +1,35 @@
+Food: ON THE BORDER, Mexican rice
+Food ID: 169031
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 3.56 g
+Carbohydrates: 34.15 g
+Fat: 4.86 g
+Fiber: 1.1 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 0.886 g
+Monounsaturated fat: 1.155 g
+Polyunsaturated fat: 2.298 g
+Trans fat: 0.025 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 677 mg
+Potassium: 131 mg
+Calcium: 39 mg
+Iron: 1.18 mg
+Magnesium: 15 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.3 mg
+Vitamin E: 0.59 mg
+Vitamin K: 12.3 µg
+Vitamin B12: 0.09 µg
+Folate: 52 µg

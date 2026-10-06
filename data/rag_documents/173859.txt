@@ -1,0 +1,37 @@
+Food: Sausage, pork, chorizo, link or ground, raw
+Food ID: 173859
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 13.63 g
+Carbohydrates: 3.78 g
+Fat: 25.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.595 g
+Monounsaturated fat: 10.603 g
+Polyunsaturated fat: 4.296 g
+Trans fat: 0.123 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 788 mg
+Potassium: 308 mg
+Calcium: 19 mg
+Iron: 1.41 mg
+Magnesium: 20 mg
+Zinc: 1.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.313 mg
+Vitamin B12: 2 µg
+Folate: 0 µg

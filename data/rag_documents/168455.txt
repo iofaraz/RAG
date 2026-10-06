@@ -1,0 +1,37 @@
+Food: Rutabagas, cooked, boiled, drained, without salt
+Food ID: 168455
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 30 kcal
+Protein: 0.93 g
+Carbohydrates: 6.84 g
+Fat: 0.18 g
+Fiber: 1.8 g
+Sugar: 3.95 g
+
+Fats:
+Saturated fat: 0.029 g
+Monounsaturated fat: 0.027 g
+Polyunsaturated fat: 0.095 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 216 mg
+Calcium: 18 mg
+Iron: 0.18 mg
+Magnesium: 10 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 18.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

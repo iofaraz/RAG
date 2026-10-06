@@ -1,0 +1,37 @@
+Food: Cereals, QUAKER, Instant Oatmeal, Cinnamon-Spice, dry
+Food ID: 174636
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 369 kcal
+Protein: 10.39 g
+Carbohydrates: 74.52 g
+Fat: 5.1 g
+Fiber: 8.2 g
+Sugar: 21.14 g
+
+Fats:
+Saturated fat: 0.808 g
+Monounsaturated fat: 1.575 g
+Polyunsaturated fat: 1.767 g
+Trans fat: 0.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 416 mg
+Potassium: 303 mg
+Calcium: 229 mg
+Iron: 8.31 mg
+Magnesium: 99 mg
+Zinc: 2.6 mg
+
+Vitamins:
+Vitamin A: 440 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.862 mg
+Vitamin B12: 0 µg
+Folate: 191 µg

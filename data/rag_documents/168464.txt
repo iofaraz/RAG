@@ -1,0 +1,37 @@
+Food: Squash, summer, crookneck and straightneck, raw
+Food ID: 168464
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 1.01 g
+Carbohydrates: 3.88 g
+Fat: 0.27 g
+Fiber: 1 g
+Sugar: 2.88 g
+
+Fats:
+Saturated fat: 0.093 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.082 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 222 mg
+Calcium: 21 mg
+Iron: 0.44 mg
+Magnesium: 20 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 19.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

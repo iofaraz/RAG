@@ -1,0 +1,36 @@
+Food: Knish
+Food ID: 2708723
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 345 kcal
+Protein: 10.51 g
+Carbohydrates: 31.92 g
+Fat: 19.73 g
+Fiber: 1.1 g
+Sugar: 0.98 g
+
+Fats:
+Saturated fat: 4.507 g
+Monounsaturated fat: 8.665 g
+Polyunsaturated fat: 5.322 g
+Cholesterol: 91 mg
+
+Minerals:
+Sodium: 445 mg
+Potassium: 124 mg
+Calcium: 46 mg
+Iron: 2.55 mg
+Magnesium: 16 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 209 µg
+Vitamin C: 0 mg
+Vitamin D: 1.3 µg
+Vitamin E: 2.02 mg
+Vitamin K: 18.5 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0.3 µg
+Folate: 58 µg

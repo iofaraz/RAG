@@ -1,0 +1,35 @@
+Food: Soybeans, mature seeds, dry roasted
+Food ID: 172441
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 449 kcal
+Protein: 43.32 g
+Carbohydrates: 28.98 g
+Fat: 21.62 g
+Fiber: 8.1 g
+
+Fats:
+Saturated fat: 3.127 g
+Monounsaturated fat: 4.776 g
+Polyunsaturated fat: 12.207 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 1364 mg
+Calcium: 140 mg
+Iron: 3.95 mg
+Magnesium: 228 mg
+Zinc: 4.77 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4.6 mg
+Vitamin D: 0 µg
+Vitamin K: 37 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 0 µg
+Folate: 205 µg

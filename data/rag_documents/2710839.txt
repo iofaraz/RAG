@@ -1,0 +1,21 @@
+Food: Sorghum bran, white, unenriched, dry, raw
+Food ID: 2710839
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 11.1687 g
+Carbohydrates: 68.6953 g
+Fat: 9.259 g
+Fiber: 34.95 g
+
+Minerals:
+Sodium: 2.915 mg
+Potassium: 851.5 mg
+Calcium: 61.66 mg
+Iron: 14.21 mg
+Magnesium: 273.5 mg
+Zinc: 4.4 mg
+
+Vitamins:
+Vitamin B6: 0.4084 mg

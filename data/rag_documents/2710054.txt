@@ -1,0 +1,36 @@
+Food: Fried okra
+Food ID: 2710054
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 3.88 g
+Carbohydrates: 22.37 g
+Fat: 12.84 g
+Fiber: 1.6 g
+Sugar: 1.42 g
+
+Fats:
+Saturated fat: 1.789 g
+Monounsaturated fat: 5.233 g
+Polyunsaturated fat: 4.836 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 111 mg
+Calcium: 52 mg
+Iron: 1.71 mg
+Magnesium: 23 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.43 mg
+Vitamin K: 30.4 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0.04 µg
+Folate: 79 µg

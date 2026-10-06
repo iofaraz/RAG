@@ -1,0 +1,36 @@
+Food: Corned beef sandwich on wheat
+Food ID: 2706950
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 14.67 g
+Carbohydrates: 23.72 g
+Fat: 11.22 g
+Fiber: 2.8 g
+Sugar: 2.69 g
+
+Fats:
+Saturated fat: 3.433 g
+Monounsaturated fat: 4.788 g
+Polyunsaturated fat: 1.133 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 697 mg
+Potassium: 168 mg
+Calcium: 87 mg
+Iron: 2.53 mg
+Magnesium: 35 mg
+Zinc: 2.91 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.194 mg
+Vitamin B12: 0.79 µg
+Folate: 40 µg

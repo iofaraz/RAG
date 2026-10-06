@@ -1,0 +1,36 @@
+Food: Seven-layer salad, lettuce salad made with a combination of onion, celery, green pepper, peas, mayonnaise, cheese, eggs, and/or bacon
+Food ID: 2709829
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 229 kcal
+Protein: 4.7 g
+Carbohydrates: 5.79 g
+Fat: 20.71 g
+Fiber: 1.2 g
+Sugar: 3.19 g
+
+Fats:
+Saturated fat: 4.374 g
+Monounsaturated fat: 5.014 g
+Polyunsaturated fat: 10.406 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 265 mg
+Potassium: 123 mg
+Calcium: 59 mg
+Iron: 0.43 mg
+Magnesium: 10 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 6.7 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.95 mg
+Vitamin K: 47.7 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0.21 µg
+Folate: 27 µg

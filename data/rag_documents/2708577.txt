@@ -1,0 +1,36 @@
+Food: Nachos, cheese only
+Food ID: 2708577
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 4.46 g
+Carbohydrates: 27.83 g
+Fat: 15.74 g
+Fiber: 2 g
+Sugar: 0.45 g
+
+Fats:
+Saturated fat: 2.99 g
+Monounsaturated fat: 5.182 g
+Polyunsaturated fat: 6.293 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 547 mg
+Potassium: 79 mg
+Calcium: 83 mg
+Iron: 0.88 mg
+Magnesium: 32 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.49 mg
+Vitamin K: 14 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.06 µg
+Folate: 14 µg

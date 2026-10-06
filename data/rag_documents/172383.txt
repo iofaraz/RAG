@@ -1,0 +1,32 @@
+Food: Chicken, broilers or fryers, neck, meat only, cooked, fried
+Food ID: 172383
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 229 kcal
+Protein: 26.87 g
+Carbohydrates: 1.77 g
+Fat: 11.88 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3 g
+Monounsaturated fat: 4.57 g
+Polyunsaturated fat: 3.04 g
+Cholesterol: 105 mg
+
+Minerals:
+Sodium: 99 mg
+Potassium: 213 mg
+Calcium: 41 mg
+Iron: 2.98 mg
+Magnesium: 20 mg
+Zinc: 4.24 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.35 mg
+Vitamin B12: 0.3 µg
+Folate: 8 µg

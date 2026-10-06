@@ -1,0 +1,37 @@
+Food: Pumpkin, canned, without salt
+Food ID: 168450
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 1.1 g
+Carbohydrates: 8.09 g
+Fat: 0.28 g
+Fiber: 2.9 g
+Sugar: 3.3 g
+
+Fats:
+Saturated fat: 0.146 g
+Monounsaturated fat: 0.037 g
+Polyunsaturated fat: 0.015 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 206 mg
+Calcium: 26 mg
+Iron: 1.39 mg
+Magnesium: 23 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 778 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.06 mg
+Vitamin K: 16 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

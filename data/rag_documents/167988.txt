@@ -1,0 +1,37 @@
+Food: Candies, fudge, chocolate, with nuts, prepared-from-recipe
+Food ID: 167988
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 460 kcal
+Protein: 4.38 g
+Carbohydrates: 68.15 g
+Fat: 18.93 g
+Fiber: 2.5 g
+Sugar: 63.37 g
+
+Fats:
+Saturated fat: 6.489 g
+Monounsaturated fat: 3.9 g
+Polyunsaturated fat: 7.529 g
+Trans fat: 0.142 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 183 mg
+Calcium: 57 mg
+Iron: 1.97 mg
+Magnesium: 55 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0.07 µg
+Folate: 16 µg

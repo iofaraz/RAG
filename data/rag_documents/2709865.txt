@@ -1,0 +1,36 @@
+Food: Green beans, canned, reduced sodium, cooked, no added fat
+Food ID: 2709865
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 1.12 g
+Carbohydrates: 4.32 g
+Fat: 0.46 g
+Fiber: 1.9 g
+Sugar: 0.78 g
+
+Fats:
+Saturated fat: 0.103 g
+Monounsaturated fat: 0.019 g
+Polyunsaturated fat: 0.234 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 96 mg
+Calcium: 38 mg
+Iron: 1.06 mg
+Magnesium: 13 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 38.9 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

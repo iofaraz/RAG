@@ -1,0 +1,36 @@
+Food: Pretzels, hard, peanut butter filled
+Food ID: 2708266
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 454 kcal
+Protein: 14.04 g
+Carbohydrates: 60.79 g
+Fat: 19 g
+Fiber: 3.9 g
+Sugar: 4.95 g
+
+Fats:
+Saturated fat: 3.688 g
+Monounsaturated fat: 9.095 g
+Polyunsaturated fat: 5.019 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1039 mg
+Potassium: 333 mg
+Calcium: 34 mg
+Iron: 3.62 mg
+Magnesium: 75 mg
+Zinc: 1.52 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 3.33 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.196 mg
+Vitamin B12: 0 µg
+Folate: 142 µg

@@ -1,0 +1,36 @@
+Food: Venison or deer, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy
+Food ID: 2706662
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 5.95 g
+Carbohydrates: 11.17 g
+Fat: 6.5 g
+Fiber: 1.4 g
+Sugar: 0.94 g
+
+Fats:
+Saturated fat: 1.174 g
+Monounsaturated fat: 2.588 g
+Polyunsaturated fat: 2.187 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 222 mg
+Calcium: 13 mg
+Iron: 0.92 mg
+Magnesium: 15 mg
+Zinc: 1.31 mg
+
+Vitamins:
+Vitamin A: 78 µg
+Vitamin C: 6.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.32 mg
+Vitamin K: 15.3 µg
+Vitamin B6: 0.204 mg
+Vitamin B12: 0.4 µg
+Folate: 12 µg

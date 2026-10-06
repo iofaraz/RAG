@@ -1,0 +1,37 @@
+Food: Pineapple, frozen, chunks, sweetened
+Food ID: 169946
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 0.4 g
+Carbohydrates: 22.2 g
+Fat: 0.1 g
+Fiber: 1.1 g
+Sugar: 21.1 g
+
+Fats:
+Saturated fat: 0.007 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.035 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 100 mg
+Calcium: 9 mg
+Iron: 0.4 mg
+Magnesium: 10 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

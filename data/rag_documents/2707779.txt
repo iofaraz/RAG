@@ -1,0 +1,36 @@
+Food: Bread, multigrain, with raisins, toasted
+Food ID: 2707779
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 295 kcal
+Protein: 13.58 g
+Carbohydrates: 51.58 g
+Fat: 4.21 g
+Fiber: 7.8 g
+Sugar: 13.48 g
+
+Fats:
+Saturated fat: 0.873 g
+Monounsaturated fat: 0.754 g
+Polyunsaturated fat: 1.857 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 309 mg
+Calcium: 109 mg
+Iron: 2.67 mg
+Magnesium: 81 mg
+Zinc: 1.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.279 mg
+Vitamin B12: 0 µg
+Folate: 64 µg

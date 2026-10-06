@@ -1,0 +1,36 @@
+Food: Trail mix with nuts and fruit
+Food ID: 2707576
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 454 kcal
+Protein: 10.9 g
+Carbohydrates: 51.06 g
+Fat: 26.83 g
+Fiber: 6.4 g
+Sugar: 36.48 g
+
+Fats:
+Saturated fat: 3.687 g
+Monounsaturated fat: 12.511 g
+Polyunsaturated fat: 8.443 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 134 mg
+Potassium: 522 mg
+Calcium: 61 mg
+Iron: 2.13 mg
+Magnesium: 112 mg
+Zinc: 1.98 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 5.63 mg
+Vitamin K: 7.4 µg
+Vitamin B6: 0.264 mg
+Vitamin B12: 0 µg
+Folate: 51 µg

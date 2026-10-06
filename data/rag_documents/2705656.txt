@@ -1,0 +1,36 @@
+Food: Ice cream soda, flavors other than chocolate
+Food ID: 2705656
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 0.92 g
+Carbohydrates: 14.02 g
+Fat: 2.9 g
+Fiber: 0.2 g
+Sugar: 13.4 g
+
+Fats:
+Saturated fat: 1.787 g
+Monounsaturated fat: 0.781 g
+Polyunsaturated fat: 0.119 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 53 mg
+Calcium: 37 mg
+Iron: 0.06 mg
+Magnesium: 4 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.013 mg
+Vitamin B12: 0.1 µg
+Folate: 1 µg

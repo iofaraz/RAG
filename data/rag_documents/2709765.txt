@@ -1,0 +1,36 @@
+Food: Alfalfa sprouts, raw
+Food ID: 2709765
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 3.99 g
+Carbohydrates: 2.1 g
+Fat: 0.69 g
+Fiber: 1.9 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 0.069 g
+Monounsaturated fat: 0.056 g
+Polyunsaturated fat: 0.409 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 79 mg
+Calcium: 32 mg
+Iron: 0.96 mg
+Magnesium: 27 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 8.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 30.5 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

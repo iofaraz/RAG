@@ -1,0 +1,36 @@
+Food: Congee, with egg
+Food ID: 2708984
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 3.12 g
+Carbohydrates: 6.91 g
+Fat: 2.06 g
+Fiber: 0.1 g
+Sugar: 0.05 g
+
+Fats:
+Saturated fat: 0.658 g
+Monounsaturated fat: 0.747 g
+Polyunsaturated fat: 0.382 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 213 mg
+Potassium: 35 mg
+Calcium: 14 mg
+Iron: 0.62 mg
+Magnesium: 6 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0.2 µg
+Folate: 28 µg

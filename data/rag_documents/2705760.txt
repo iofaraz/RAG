@@ -1,0 +1,36 @@
+Food: Cream cheese, regular, plain
+Food ID: 2705760
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 343 kcal
+Protein: 5.79 g
+Carbohydrates: 4.56 g
+Fat: 33.49 g
+Fiber: 0 g
+Sugar: 3.76 g
+
+Fats:
+Saturated fat: 19.7 g
+Monounsaturated fat: 6.92 g
+Polyunsaturated fat: 1.483 g
+Cholesterol: 101 mg
+
+Minerals:
+Sodium: 368 mg
+Potassium: 125 mg
+Calcium: 97 mg
+Iron: 0 mg
+Magnesium: 9 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 274 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

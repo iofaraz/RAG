@@ -1,0 +1,17 @@
+Food: Beans, baked, canned, vegetarian
+Food ID: 2758983
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 4.233 g
+
+Fats:
+Saturated fat: 0.12 g
+Monounsaturated fat: 0.1 g
+Polyunsaturated fat: 0.3467 g
+Trans fat: 0 g
+
+Vitamins:
+Vitamin B6: 0.05483 mg
+Folate: 58.99 µg

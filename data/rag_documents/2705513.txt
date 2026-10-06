@@ -1,0 +1,36 @@
+Food: Fruit smoothie, NFS
+Food ID: 2705513
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 2.32 g
+Carbohydrates: 11.98 g
+Fat: 1.1 g
+Fiber: 1.1 g
+Sugar: 8.91 g
+
+Fats:
+Saturated fat: 0.588 g
+Monounsaturated fat: 0.243 g
+Polyunsaturated fat: 0.095 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 174 mg
+Calcium: 80 mg
+Iron: 0.19 mg
+Magnesium: 14 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 9.5 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.16 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.071 mg
+Vitamin B12: 0.28 µg
+Folate: 9 µg

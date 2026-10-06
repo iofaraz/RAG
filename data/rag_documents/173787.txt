@@ -1,0 +1,27 @@
+Food: HOUSE FOODS Premium Soft Tofu
+Food ID: 173787
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 6.38 g
+Carbohydrates: 2.19 g
+Fat: 2.71 g
+Fiber: 0.8 g
+Sugar: 0.53 g
+
+Fats:
+Saturated fat: 0.48 g
+Monounsaturated fat: 0.63 g
+Polyunsaturated fat: 1.61 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 34 mg
+Calcium: 78 mg
+Iron: 1.53 mg
+
+Vitamins:
+Vitamin C: 0.9 mg

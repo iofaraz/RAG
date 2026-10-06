@@ -1,0 +1,36 @@
+Food: Ice cream bar, vanilla
+Food ID: 2705638
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 2.11 g
+Carbohydrates: 37.12 g
+Fat: 25.26 g
+Fiber: 1.1 g
+Sugar: 21.05 g
+
+Fats:
+Saturated fat: 17.895 g
+Monounsaturated fat: 1.173 g
+Polyunsaturated fat: 2.208 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 84 mg
+Potassium: 71 mg
+Calcium: 63 mg
+Iron: 0 mg
+Magnesium: 11 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.25 mg
+Vitamin K: 22.3 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 0.09 µg
+Folate: 3 µg

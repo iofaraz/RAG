@@ -1,0 +1,36 @@
+Food: Fish, salmon, steamed
+Food ID: 2706290
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 25.82 g
+Carbohydrates: 0 g
+Fat: 14.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.146 g
+Monounsaturated fat: 3.998 g
+Polyunsaturated fat: 3.938 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 177 mg
+Potassium: 460 mg
+Calcium: 11 mg
+Iron: 0.44 mg
+Magnesium: 34 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 3 mg
+Vitamin D: 13.9 µg
+Vitamin E: 3.49 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.716 mg
+Vitamin B12: 3.93 µg
+Folate: 23 µg

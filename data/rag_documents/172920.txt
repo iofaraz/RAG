@@ -1,0 +1,36 @@
+Food: Soup, tomato rice, canned, prepared with equal volume water
+Food ID: 172920
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.82 g
+Carbohydrates: 8.54 g
+Fat: 1.06 g
+Fiber: 0.7 g
+Sugar: 2.95 g
+
+Fats:
+Saturated fat: 0.2 g
+Monounsaturated fat: 0.235 g
+Polyunsaturated fat: 0.525 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 319 mg
+Potassium: 129 mg
+Calcium: 11 mg
+Iron: 0.31 mg
+Magnesium: 2 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 5.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

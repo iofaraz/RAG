@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, Soy, Toddler transitions, with ARA and DHA,  powder
+Food ID: 169788
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 476 kcal
+Protein: 15.7 g
+Carbohydrates: 56 g
+Fat: 21 g
+Fiber: 0 g
+Sugar: 5.4 g
+
+Fats:
+Saturated fat: 8.7 g
+Monounsaturated fat: 7.5 g
+Polyunsaturated fat: 4 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 171 mg
+Potassium: 570 mg
+Calcium: 930 mg
+Iron: 9.5 mg
+Magnesium: 52 mg
+Zinc: 5.7 mg
+
+Vitamins:
+Vitamin A: 430 µg
+Vitamin C: 57 mg
+Vitamin D: 7 µg
+Vitamin E: 4.3 mg
+Vitamin K: 38 µg
+Vitamin B6: 0.28 mg
+Vitamin B12: 1.42 µg
+Folate: 76 µg

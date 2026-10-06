@@ -1,0 +1,33 @@
+Food: Seeds, sunflower seed kernels, dry roasted, with salt added
+Food ID: 325524
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 612 kcal
+Protein: 21 g
+Carbohydrates: 17.1 g
+Fat: 56.1 g
+Fiber: 10.3 g
+
+Fats:
+Saturated fat: 5.36 g
+Monounsaturated fat: 33.4 g
+Polyunsaturated fat: 13 g
+Trans fat: 0.297 g
+
+Minerals:
+Sodium: 532 mg
+Potassium: 689 mg
+Calcium: 78 mg
+Iron: 5.21 mg
+Magnesium: 358 mg
+Zinc: 6 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin E: 19.6 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.76 mg
+Folate: 169 µg

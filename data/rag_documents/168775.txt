@@ -1,0 +1,36 @@
+Food: Gelatin desserts, dry mix
+Food ID: 168775
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 7.8 g
+Carbohydrates: 90.5 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 86.04 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 466 mg
+Potassium: 7 mg
+Calcium: 3 mg
+Iron: 0.13 mg
+Magnesium: 2 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

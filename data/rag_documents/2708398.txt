@@ -1,0 +1,36 @@
+Food: Oatmeal, multigrain
+Food ID: 2708398
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 2.12 g
+Carbohydrates: 12.19 g
+Fat: 0.46 g
+Fiber: 2 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.076 g
+Monounsaturated fat: 0.101 g
+Polyunsaturated fat: 0.19 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 51 mg
+Calcium: 9 mg
+Iron: 0.46 mg
+Magnesium: 20 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

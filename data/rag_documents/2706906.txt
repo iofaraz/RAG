@@ -1,0 +1,36 @@
+Food: Double cheeseburger, on wheat bun, 2 small patties
+Food ID: 2706906
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 292 kcal
+Protein: 19.72 g
+Carbohydrates: 12.11 g
+Fat: 17.88 g
+Fiber: 1.4 g
+Sugar: 1.62 g
+
+Fats:
+Saturated fat: 7.488 g
+Monounsaturated fat: 6.798 g
+Polyunsaturated fat: 0.927 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 399 mg
+Potassium: 258 mg
+Calcium: 141 mg
+Iron: 2.4 mg
+Magnesium: 30 mg
+Zinc: 3.75 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.16 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.327 mg
+Vitamin B12: 1.85 µg
+Folate: 33 µg

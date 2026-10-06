@@ -1,0 +1,36 @@
+Food: Fish, tuna, canned
+Food ID: 2706311
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 19 g
+Carbohydrates: 0.08 g
+Fat: 0.94 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.224 g
+Monounsaturated fat: 0.114 g
+Polyunsaturated fat: 0.259 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 219 mg
+Potassium: 176 mg
+Calcium: 18 mg
+Iron: 1.67 mg
+Magnesium: 23 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.33 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.32 mg
+Vitamin B12: 2.57 µg
+Folate: 4 µg

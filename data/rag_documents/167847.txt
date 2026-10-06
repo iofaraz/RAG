@@ -1,0 +1,37 @@
+Food: Pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised
+Food ID: 167847
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 194 kcal
+Protein: 26.76 g
+Carbohydrates: 0 g
+Fat: 8.87 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.85 g
+Monounsaturated fat: 3.767 g
+Polyunsaturated fat: 1.859 g
+Trans fat: 0.15 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 100 mg
+Potassium: 382 mg
+Calcium: 16 mg
+Iron: 0.97 mg
+Magnesium: 23 mg
+Zinc: 3.35 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.362 mg
+Vitamin B12: 0.76 µg
+Folate: 5 µg

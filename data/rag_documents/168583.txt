@@ -1,0 +1,31 @@
+Food: Wasabi, root, raw
+Food ID: 168583
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 4.8 g
+Carbohydrates: 23.54 g
+Fat: 0.63 g
+Fiber: 7.8 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 568 mg
+Calcium: 128 mg
+Iron: 1.03 mg
+Magnesium: 69 mg
+Zinc: 1.62 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 41.9 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.274 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

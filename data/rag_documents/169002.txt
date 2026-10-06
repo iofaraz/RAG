@@ -1,0 +1,18 @@
+Food: Sea lion, Steller, heart (Alaska Native)
+Food ID: 169002
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 17 g
+Carbohydrates: 1 g
+Fat: 3.3 g
+
+Minerals:
+Sodium: 115 mg
+Potassium: 319 mg
+Calcium: 5 mg
+Iron: 6.7 mg
+Magnesium: 22 mg
+Zinc: 2.24 mg

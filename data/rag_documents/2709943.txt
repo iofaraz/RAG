@@ -1,0 +1,36 @@
+Food: Mushroom, Asian, cooked, from dried
+Food ID: 2709943
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 2.4 g
+Carbohydrates: 8.15 g
+Fat: 0.2 g
+Fiber: 4.2 g
+Sugar: 1.97 g
+
+Fats:
+Saturated fat: 0.05 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.16 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 117 mg
+Potassium: 242 mg
+Calcium: 1 mg
+Iron: 0.14 mg
+Magnesium: 14 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0.04 µg
+Folate: 32 µg

@@ -1,0 +1,34 @@
+Food: Sausage, pork and beef, with cheddar cheese, smoked
+Food ID: 172955
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 12.89 g
+Carbohydrates: 2.13 g
+Fat: 25.84 g
+Fiber: 0 g
+Sugar: 0.11 g
+
+Fats:
+Saturated fat: 9.482 g
+Monounsaturated fat: 12.357 g
+Polyunsaturated fat: 2.735 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 848 mg
+Potassium: 206 mg
+Calcium: 57 mg
+Iron: 0.73 mg
+Magnesium: 13 mg
+Zinc: 2.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 1.73 µg
+Folate: 3 µg

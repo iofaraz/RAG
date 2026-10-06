@@ -1,0 +1,25 @@
+Food: SILK Hazelnut Creamer
+Food ID: 173782
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 0 g
+Carbohydrates: 20 g
+Fat: 6.67 g
+Fiber: 0 g
+Sugar: 20 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 67 mg
+Calcium: 0 mg
+Iron: 0 mg
+
+Vitamins:
+Vitamin C: 200 mg

@@ -1,0 +1,31 @@
+Food: Bread, naan, plain, commercially prepared, refrigerated
+Food ID: 171845
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 291 kcal
+Protein: 9.62 g
+Carbohydrates: 50.43 g
+Fat: 5.65 g
+Fiber: 2.2 g
+Sugar: 3.55 g
+
+Fats:
+Saturated fat: 1.393 g
+Monounsaturated fat: 1.801 g
+Polyunsaturated fat: 2.098 g
+Trans fat: 0.042 g
+
+Minerals:
+Sodium: 465 mg
+Potassium: 125 mg
+Calcium: 84 mg
+Iron: 3.25 mg
+Magnesium: 27 mg
+Zinc: 0.81 mg
+
+Vitamins:
+Vitamin E: 0.79 mg
+Vitamin B6: 0.095 mg
+Folate: 102 µg

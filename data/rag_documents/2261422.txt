@@ -1,0 +1,22 @@
+Food: Flour, potato
+Food ID: 2261422
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 8.1125 g
+Carbohydrates: 79.9422 g
+Fat: 0.9513 g
+Fiber: 5.401 g
+
+Minerals:
+Sodium: 47.66 mg
+Potassium: 1269 mg
+Calcium: 44.12 mg
+Iron: 11.97 mg
+Magnesium: 73.65 mg
+Zinc: 0.9002 mg
+
+Vitamins:
+Vitamin B6: 0.582 mg
+Folate: 41.15 µg

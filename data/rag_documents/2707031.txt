@@ -1,0 +1,36 @@
+Food: Fish sandwich, grilled
+Food ID: 2707031
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 16.06 g
+Carbohydrates: 21.21 g
+Fat: 3.29 g
+Fiber: 0.8 g
+Sugar: 3.08 g
+
+Fats:
+Saturated fat: 0.766 g
+Monounsaturated fat: 0.822 g
+Polyunsaturated fat: 1.248 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 379 mg
+Potassium: 261 mg
+Calcium: 69 mg
+Iron: 1.58 mg
+Magnesium: 25 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.64 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.22 mg
+Vitamin B12: 1.29 µg
+Folate: 48 µg

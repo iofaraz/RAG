@@ -1,0 +1,37 @@
+Food: Mungo beans, mature seeds, cooked, boiled, with salt
+Food ID: 175256
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 7.54 g
+Carbohydrates: 18.34 g
+Fat: 0.55 g
+Fiber: 6.4 g
+Sugar: 2.01 g
+
+Fats:
+Saturated fat: 0.038 g
+Monounsaturated fat: 0.029 g
+Polyunsaturated fat: 0.359 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 243 mg
+Potassium: 231 mg
+Calcium: 53 mg
+Iron: 1.75 mg
+Magnesium: 63 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0 µg
+Folate: 94 µg

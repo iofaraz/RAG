@@ -1,0 +1,34 @@
+Food: Chrysanthemum, garland, cooked, boiled, drained, with salt
+Food ID: 168522
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 20 kcal
+Protein: 1.64 g
+Carbohydrates: 4.31 g
+Fat: 0.09 g
+Fiber: 2.3 g
+Sugar: 2.01 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 289 mg
+Potassium: 569 mg
+Calcium: 69 mg
+Iron: 3.74 mg
+Magnesium: 18 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 129 µg
+Vitamin C: 23.9 mg
+Vitamin D: 0 µg
+Vitamin E: 2.5 mg
+Vitamin K: 142.7 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0 µg
+Folate: 50 µg

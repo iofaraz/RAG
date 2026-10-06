@@ -1,0 +1,22 @@
+Food: Oil, cooking and salad, ENOVA, 80% diglycerides
+Food ID: 171433
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 884 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+
+Fats:
+Saturated fat: 4.63 g
+Monounsaturated fat: 37.016 g
+Polyunsaturated fat: 53.37 g
+Trans fat: 1.762 g
+
+Minerals:
+Sodium: 0 mg
+
+Vitamins:
+Vitamin E: 21.64 mg

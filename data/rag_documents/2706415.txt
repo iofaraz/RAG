@@ -1,0 +1,36 @@
+Food: Veal scallopini
+Food ID: 2706415
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 18.71 g
+Carbohydrates: 1.47 g
+Fat: 17.47 g
+Fiber: 0.4 g
+Sugar: 0.57 g
+
+Fats:
+Saturated fat: 4.796 g
+Monounsaturated fat: 7.558 g
+Polyunsaturated fat: 3.563 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 281 mg
+Calcium: 40 mg
+Iron: 0.75 mg
+Magnesium: 19 mg
+Zinc: 2.94 mg
+
+Vitamins:
+Vitamin A: 109 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.38 mg
+Vitamin K: 15.4 µg
+Vitamin B6: 0.198 mg
+Vitamin B12: 0.96 µg
+Folate: 16 µg

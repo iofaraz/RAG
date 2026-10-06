@@ -1,0 +1,26 @@
+Food: Soup, HEALTHY CHOICE Garden Vegetable Soup, canned
+Food ID: 172900
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 2.13 g
+Carbohydrates: 10.04 g
+Fat: 0.21 g
+Fiber: 1.9 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 0.05 g
+Monounsaturated fat: 0.07 g
+Polyunsaturated fat: 0.08 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 195 mg
+Calcium: 16 mg
+Iron: 0 mg
+
+Vitamins:
+Vitamin C: 1 mg

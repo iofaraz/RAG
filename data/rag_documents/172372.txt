@@ -1,0 +1,30 @@
+Food: Margarine-like spread, SMART BALANCE Light Buttery Spread
+Food ID: 172372
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 337 kcal
+Protein: 0.02 g
+Carbohydrates: 1.98 g
+Fat: 36.41 g
+
+Fats:
+Saturated fat: 10.087 g
+Monounsaturated fat: 13.699 g
+Polyunsaturated fat: 9.651 g
+Trans fat: 0.611 g
+
+Minerals:
+Sodium: 580 mg
+Potassium: 32 mg
+Calcium: 3 mg
+Iron: 0 mg
+Magnesium: 1 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 1433 µg
+Vitamin E: 15.75 mg
+Vitamin K: 46.8 µg
+Vitamin B6: 0 mg

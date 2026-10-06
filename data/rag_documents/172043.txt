@@ -1,0 +1,34 @@
+Food: DOMINO'S 14" Cheese Pizza, Crunchy Thin Crust
+Food ID: 172043
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 298 kcal
+Protein: 12.33 g
+Carbohydrates: 28.18 g
+Fat: 15.1 g
+Fiber: 2.5 g
+Sugar: 4.09 g
+
+Fats:
+Saturated fat: 6.345 g
+Monounsaturated fat: 3.748 g
+Polyunsaturated fat: 3.762 g
+Trans fat: 0.357 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 628 mg
+Potassium: 202 mg
+Calcium: 292 mg
+Iron: 0.91 mg
+Magnesium: 24 mg
+Zinc: 1.54 mg
+
+Vitamins:
+Vitamin C: 1.7 mg
+Vitamin E: 1.49 mg
+Vitamin K: 15.8 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.64 µg

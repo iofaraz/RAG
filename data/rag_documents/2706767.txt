@@ -1,0 +1,36 @@
+Food: Ham and vegetables including carrots broccoli, and/or dark- green leafy; no potatoes, no sauce
+Food ID: 2706767
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 7.45 g
+Carbohydrates: 2.59 g
+Fat: 8.28 g
+Fiber: 1.2 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 1.682 g
+Monounsaturated fat: 3.635 g
+Polyunsaturated fat: 2.588 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 767 mg
+Potassium: 188 mg
+Calcium: 17 mg
+Iron: 0.63 mg
+Magnesium: 12 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 178 µg
+Vitamin C: 8.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.59 mg
+Vitamin K: 25.6 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.21 µg
+Folate: 14 µg

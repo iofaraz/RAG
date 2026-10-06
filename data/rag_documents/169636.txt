@@ -1,0 +1,31 @@
+Food: Snacks, fruit leather, pieces, with vitamin C
+Food ID: 169636
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 0.1 g
+Carbohydrates: 85.2 g
+Fat: 3.5 g
+Fiber: 3.5 g
+
+Fats:
+Saturated fat: 0.99 g
+Monounsaturated fat: 1.724 g
+Polyunsaturated fat: 0.093 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 164 mg
+Calcium: 18 mg
+Iron: 0.75 mg
+Magnesium: 14 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin C: 120 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

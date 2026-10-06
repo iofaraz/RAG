@@ -1,0 +1,37 @@
+Food: Restaurant, family style, macaroni & cheese, from kids' menu
+Food ID: 169839
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 5.42 g
+Carbohydrates: 18.8 g
+Fat: 6.06 g
+Fiber: 1.1 g
+Sugar: 3.09 g
+
+Fats:
+Saturated fat: 2.147 g
+Monounsaturated fat: 1.954 g
+Polyunsaturated fat: 1.663 g
+Trans fat: 0.117 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 135 mg
+Calcium: 99 mg
+Iron: 0.68 mg
+Magnesium: 19 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.75 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.057 mg
+Vitamin B12: 0.18 µg
+Folate: 34 µg

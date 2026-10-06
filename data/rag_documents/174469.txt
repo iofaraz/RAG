@@ -1,0 +1,32 @@
+Food: Duck, wild, breast, meat only, raw
+Food ID: 174469
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 19.85 g
+Carbohydrates: 0 g
+Fat: 4.25 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.32 g
+Monounsaturated fat: 1.21 g
+Polyunsaturated fat: 0.58 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 268 mg
+Calcium: 3 mg
+Iron: 4.51 mg
+Magnesium: 22 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 6.2 mg
+Vitamin B6: 0.63 mg
+Vitamin B12: 0.76 µg
+Folate: 25 µg

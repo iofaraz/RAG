@@ -1,0 +1,36 @@
+Food: Litchis, dried
+Food ID: 169087
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 3.8 g
+Carbohydrates: 70.7 g
+Fat: 1.2 g
+Fiber: 4.6 g
+Sugar: 66.1 g
+
+Fats:
+Saturated fat: 0.27 g
+Monounsaturated fat: 0.328 g
+Polyunsaturated fat: 0.361 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 1110 mg
+Calcium: 33 mg
+Iron: 1.7 mg
+Magnesium: 42 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 183 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

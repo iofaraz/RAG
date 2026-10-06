@@ -1,0 +1,29 @@
+Food: POPEYES, Fried Chicken, Mild, Drumstick, meat only, skin and breading removed
+Food ID: 170749
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 170 kcal
+Protein: 26.51 g
+Carbohydrates: 0.04 g
+Fat: 7.14 g
+
+Fats:
+Saturated fat: 2.282 g
+Monounsaturated fat: 3.079 g
+Polyunsaturated fat: 1.011 g
+Trans fat: 0.13 g
+Cholesterol: 127 mg
+
+Minerals:
+Sodium: 478 mg
+Potassium: 321 mg
+Calcium: 16 mg
+Iron: 1.06 mg
+Magnesium: 25 mg
+Zinc: 2.59 mg
+
+Vitamins:
+Vitamin B6: 0.296 mg
+Vitamin B12: 0.85 µg

@@ -1,0 +1,36 @@
+Food: Beef, loin, top sirloin cap steak, boneless, separable lean and fat, trimmed to 1/8" fat, choice, cooked, grilled
+Food ID: 174704
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 26.3 g
+Carbohydrates: 1.1 g
+Fat: 14.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.092 g
+Monounsaturated fat: 7.085 g
+Polyunsaturated fat: 0.523 g
+Trans fat: 0.685 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 91 mg
+Potassium: 368 mg
+Calcium: 7 mg
+Iron: 3.23 mg
+Magnesium: 26 mg
+Zinc: 10.21 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.4 mg
+Vitamin B12: 2.81 µg
+Folate: 6 µg

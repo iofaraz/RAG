@@ -1,0 +1,36 @@
+Food: Sausage, pork and beef, fresh, cooked
+Food ID: 174579
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 396 kcal
+Protein: 13.8 g
+Carbohydrates: 2.7 g
+Fat: 36.25 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 12.96 g
+Monounsaturated fat: 17.18 g
+Polyunsaturated fat: 3.9 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 929 mg
+Potassium: 189 mg
+Calcium: 10 mg
+Iron: 1.13 mg
+Magnesium: 12 mg
+Zinc: 1.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.22 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.43 µg
+Folate: 2 µg

@@ -1,0 +1,23 @@
+Food: Fish, salmon, king, chinook, smoked, brined (Alaska Native)
+Food ID: 167615
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 430 kcal
+Protein: 39.9 g
+Carbohydrates: 0 g
+Fat: 30 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 6.97 g
+Monounsaturated fat: 16.9 g
+Polyunsaturated fat: 0.35 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 693 mg
+Potassium: 700 mg
+Calcium: 23 mg
+Iron: 4.5 mg

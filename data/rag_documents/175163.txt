@@ -1,0 +1,33 @@
+Food: Fish, yellowtail, mixed species, raw
+Food ID: 175163
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 23.14 g
+Carbohydrates: 0 g
+Fat: 5.24 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.28 g
+Monounsaturated fat: 1.99 g
+Polyunsaturated fat: 1.42 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 420 mg
+Calcium: 23 mg
+Iron: 0.49 mg
+Magnesium: 30 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 2.8 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 1.3 µg
+Folate: 4 µg

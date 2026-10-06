@@ -1,0 +1,36 @@
+Food: Caramel dip, regular
+Food ID: 2710292
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 295 kcal
+Protein: 1.16 g
+Carbohydrates: 48.47 g
+Fat: 12.33 g
+Fiber: 0 g
+Sugar: 48.54 g
+
+Fats:
+Saturated fat: 6.84 g
+Monounsaturated fat: 2.535 g
+Polyunsaturated fat: 0.378 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 368 mg
+Potassium: 60 mg
+Calcium: 45 mg
+Iron: 0.01 mg
+Magnesium: 5 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 130 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.04 mg
+Vitamin K: 1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.15 µg
+Folate: 2 µg

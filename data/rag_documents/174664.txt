@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, CHOCOLATE MARSHMALLOW MATEYS
+Food ID: 174664
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 392 kcal
+Protein: 3.5 g
+Carbohydrates: 88.18 g
+Fat: 3.67 g
+Fiber: 2.5 g
+Sugar: 55.45 g
+
+Fats:
+Saturated fat: 1.6 g
+Monounsaturated fat: 1.6 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 368 mg
+Potassium: 183 mg
+Calcium: 267 mg
+Iron: 24 mg
+Magnesium: 30 mg
+Zinc: 10 mg
+
+Vitamins:
+Vitamin C: 16 mg
+Vitamin D: 3.3 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.33 mg
+Vitamin B12: 4 µg
+Folate: 533 µg

@@ -1,0 +1,36 @@
+Food: Fish, tilapia, cooked, dry heat
+Food ID: 175177
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 26.15 g
+Carbohydrates: 0 g
+Fat: 2.65 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.94 g
+Monounsaturated fat: 0.955 g
+Polyunsaturated fat: 0.6 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 380 mg
+Calcium: 14 mg
+Iron: 0.69 mg
+Magnesium: 34 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 3.7 µg
+Vitamin E: 0.79 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 1.86 µg
+Folate: 6 µg

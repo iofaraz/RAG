@@ -1,0 +1,28 @@
+Food: Rowal, raw
+Food ID: 167783
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 2.3 g
+Carbohydrates: 23.9 g
+Fat: 2 g
+Fiber: 6.2 g
+Sugar: 14.1 g
+
+Fats:
+Saturated fat: 0.245 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 131 mg
+Calcium: 15 mg
+Iron: 2.2 mg
+Magnesium: 32 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 25.8 mg

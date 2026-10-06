@@ -1,0 +1,31 @@
+Food: Pate, truffle flavor
+Food ID: 172967
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 327 kcal
+Protein: 11.2 g
+Carbohydrates: 6.3 g
+Fat: 28.5 g
+
+Fats:
+Saturated fat: 10.1 g
+Monounsaturated fat: 13.6 g
+Polyunsaturated fat: 3.42 g
+Cholesterol: 105 mg
+
+Minerals:
+Sodium: 807 mg
+Potassium: 138 mg
+Calcium: 70 mg
+Iron: 3.94 mg
+Magnesium: 13 mg
+Zinc: 2.85 mg
+
+Vitamins:
+Vitamin A: 4505 µg
+Vitamin C: 2 mg
+Vitamin B6: 0.06 mg
+Vitamin B12: 3.2 µg
+Folate: 60 µg

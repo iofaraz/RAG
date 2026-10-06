@@ -1,0 +1,29 @@
+Food: Yambean (jicama), cooked, boiled, drained, with salt
+Food ID: 169358
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 0.72 g
+Carbohydrates: 8.23 g
+Fat: 0.09 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 242 mg
+Potassium: 135 mg
+Calcium: 11 mg
+Iron: 0.57 mg
+Magnesium: 11 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin C: 14.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

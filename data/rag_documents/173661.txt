@@ -1,0 +1,33 @@
+Food: Whiskey sour mix, bottled, with added potassium and sodium
+Food ID: 173661
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 0.1 g
+Carbohydrates: 21.4 g
+Fat: 0.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.008 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.02 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 7 mg
+Calcium: 2 mg
+Iron: 0.11 mg
+Magnesium: 1 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 2.7 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

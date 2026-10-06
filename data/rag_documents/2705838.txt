@@ -1,0 +1,36 @@
+Food: Beef, steak, T-bone, NS as to fat eaten
+Food ID: 2705838
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 26.16 g
+Carbohydrates: 0 g
+Fat: 15.56 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.222 g
+Monounsaturated fat: 6.911 g
+Polyunsaturated fat: 0.708 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 267 mg
+Calcium: 19 mg
+Iron: 3.05 mg
+Magnesium: 21 mg
+Zinc: 4.28 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.24 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.642 mg
+Vitamin B12: 2.06 µg
+Folate: 5 µg

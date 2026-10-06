@@ -1,0 +1,36 @@
+Food: Restaurant, Italian, spaghetti with meat sauce
+Food ID: 167680
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 5.79 g
+Carbohydrates: 16.4 g
+Fat: 3.59 g
+Fiber: 1.6 g
+Sugar: 1.82 g
+
+Fats:
+Saturated fat: 1.062 g
+Monounsaturated fat: 1.486 g
+Polyunsaturated fat: 0.512 g
+Trans fat: 0.066 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 230 mg
+Potassium: 172 mg
+Calcium: 17 mg
+Iron: 0.97 mg
+Magnesium: 17 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.7 mg
+Vitamin E: 0.63 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.109 mg
+Vitamin B12: 0.17 µg
+Folate: 30 µg

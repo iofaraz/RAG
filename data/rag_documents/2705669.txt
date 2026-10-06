@@ -1,0 +1,36 @@
+Food: Light ice cream sandwich, chocolate
+Food ID: 2705669
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 4.85 g
+Carbohydrates: 37.86 g
+Fat: 8.4 g
+Fiber: 1.5 g
+Sugar: 20.74 g
+
+Fats:
+Saturated fat: 4.056 g
+Monounsaturated fat: 2.336 g
+Polyunsaturated fat: 1.326 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 190 mg
+Calcium: 113 mg
+Iron: 1.44 mg
+Magnesium: 26 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.37 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.22 µg
+Folate: 15 µg

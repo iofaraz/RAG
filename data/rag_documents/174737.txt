@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, variety meats and by-products, tongue, cooked, boiled
+Food ID: 174737
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 18.31 g
+Carbohydrates: 3.68 g
+Fat: 20.34 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.019 g
+Monounsaturated fat: 6.63 g
+Polyunsaturated fat: 0.715 g
+Trans fat: 0.358 g
+Cholesterol: 105 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 189 mg
+Calcium: 5 mg
+Iron: 2.52 mg
+Magnesium: 17 mg
+Zinc: 4.2 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.95 mg
+Vitamin B6: 0.072 mg
+Vitamin B12: 3.95 µg

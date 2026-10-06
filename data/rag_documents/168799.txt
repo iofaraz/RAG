@@ -1,0 +1,36 @@
+Food: Puddings, chocolate, ready-to-eat, fat free
+Food ID: 168799
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 1.93 g
+Carbohydrates: 20.87 g
+Fat: 0.3 g
+Fiber: 0.3 g
+Sugar: 15.75 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 154 mg
+Potassium: 208 mg
+Calcium: 39 mg
+Iron: 1.69 mg
+Magnesium: 15 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 0.15 µg
+Folate: 3 µg

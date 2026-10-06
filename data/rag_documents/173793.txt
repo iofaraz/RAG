@@ -1,0 +1,34 @@
+Food: Beans, kidney, california red, mature seeds, cooked, boiled, with salt
+Food ID: 173793
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 9.13 g
+Carbohydrates: 22.41 g
+Fat: 0.09 g
+Fiber: 9.3 g
+
+Fats:
+Saturated fat: 0.014 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.052 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 419 mg
+Calcium: 66 mg
+Iron: 2.98 mg
+Magnesium: 48 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0 µg
+Folate: 74 µg

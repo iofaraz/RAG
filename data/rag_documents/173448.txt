@@ -1,0 +1,26 @@
+Food: KRAFT VELVEETA Pasteurized Process Cheese Spread
+Food ID: 173448
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 303 kcal
+Protein: 16.3 g
+Carbohydrates: 9.8 g
+Fat: 22 g
+Fiber: 0 g
+Sugar: 8.1 g
+
+Fats:
+Saturated fat: 14.4 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 1499 mg
+Potassium: 335 mg
+Calcium: 466 mg
+Iron: 0.18 mg
+Zinc: 1.84 mg
+
+Vitamins:
+Vitamin C: 0.2 mg

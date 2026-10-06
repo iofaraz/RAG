@@ -1,0 +1,36 @@
+Food: Pie, key lime
+Food ID: 2708001
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 322 kcal
+Protein: 5.78 g
+Carbohydrates: 42.16 g
+Fat: 14.92 g
+Fiber: 0.3 g
+Sugar: 35.88 g
+
+Fats:
+Saturated fat: 7.594 g
+Monounsaturated fat: 4.997 g
+Polyunsaturated fat: 0.639 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 182 mg
+Potassium: 256 mg
+Calcium: 187 mg
+Iron: 0.46 mg
+Magnesium: 20 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 103 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.37 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.27 µg
+Folate: 16 µg

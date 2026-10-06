@@ -1,0 +1,32 @@
+Food: CHICK-FIL-A, chicken sandwich
+Food ID: 170790
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 16.28 g
+Carbohydrates: 20.89 g
+Fat: 11.19 g
+Fiber: 1.4 g
+Sugar: 3.64 g
+
+Fats:
+Saturated fat: 2.123 g
+Monounsaturated fat: 4.481 g
+Polyunsaturated fat: 3.177 g
+Trans fat: 0.03 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 753 mg
+Potassium: 245 mg
+Calcium: 58 mg
+Iron: 1.77 mg
+Magnesium: 24 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin B6: 0.383 mg
+Vitamin B12: 0.13 µg
+Folate: 47 µg

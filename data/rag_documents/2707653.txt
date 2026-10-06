@@ -1,0 +1,36 @@
+Food: Bread, dough, fried
+Food ID: 2707653
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 9.36 g
+Carbohydrates: 44.97 g
+Fat: 18.84 g
+Fiber: 1.5 g
+Sugar: 3.55 g
+
+Fats:
+Saturated fat: 4.848 g
+Monounsaturated fat: 7.312 g
+Polyunsaturated fat: 5.257 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 177 mg
+Potassium: 132 mg
+Calcium: 54 mg
+Iron: 3.21 mg
+Magnesium: 25 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.29 mg
+Vitamin K: 9.4 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.1 µg
+Folate: 63 µg

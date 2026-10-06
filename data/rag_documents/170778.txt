@@ -1,0 +1,34 @@
+Food: McDONALD'S, RANCH SNACK WRAP, Grilled
+Food ID: 170778
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 222 kcal
+Protein: 13.77 g
+Carbohydrates: 18.43 g
+Fat: 10.31 g
+Fiber: 0.9 g
+Sugar: 1.53 g
+
+Fats:
+Saturated fat: 3.363 g
+Monounsaturated fat: 2.313 g
+Polyunsaturated fat: 3.415 g
+Trans fat: 0.13 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 577 mg
+Potassium: 192 mg
+Calcium: 93 mg
+Iron: 1.45 mg
+Magnesium: 20 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0.4 mg
+Vitamin B6: 0.194 mg
+Vitamin B12: 0.2 µg
+Folate: 45 µg

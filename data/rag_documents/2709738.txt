@@ -1,0 +1,36 @@
+Food: Salsa, red
+Food ID: 2709738
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 1.44 g
+Carbohydrates: 6.74 g
+Fat: 0.19 g
+Fiber: 1.8 g
+Sugar: 3.81 g
+
+Fats:
+Saturated fat: 0.021 g
+Monounsaturated fat: 0.018 g
+Polyunsaturated fat: 0.078 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 656 mg
+Potassium: 258 mg
+Calcium: 28 mg
+Iron: 0.42 mg
+Magnesium: 15 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.22 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

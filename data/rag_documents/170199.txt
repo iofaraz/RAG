@@ -1,0 +1,32 @@
+Food: Beef, cured, corned beef, brisket, raw
+Food ID: 170199
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 198 kcal
+Protein: 14.68 g
+Carbohydrates: 0.14 g
+Fat: 14.9 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.73 g
+Monounsaturated fat: 7.18 g
+Polyunsaturated fat: 0.53 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 1217 mg
+Potassium: 297 mg
+Calcium: 7 mg
+Iron: 1.69 mg
+Magnesium: 14 mg
+Zinc: 2.85 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 27 mg
+Vitamin B6: 0.29 mg
+Vitamin B12: 1.78 µg
+Folate: 5 µg

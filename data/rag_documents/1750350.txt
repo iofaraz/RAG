@@ -1,0 +1,14 @@
+Food: Oil, safflower
+Food ID: 1750350
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 7.651 g
+Monounsaturated fat: 71.63 g
+Polyunsaturated fat: 13.79 g
+Trans fat: 0.1294 g
+
+Vitamins:
+Vitamin E: 45.95 mg
+Vitamin K: 5.344 µg

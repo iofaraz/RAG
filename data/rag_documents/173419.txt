@@ -1,0 +1,36 @@
+Food: Cheese, edam
+Food ID: 173419
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 24.99 g
+Carbohydrates: 1.43 g
+Fat: 28.57 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 18.67 g
+Monounsaturated fat: 8.125 g
+Polyunsaturated fat: 0.665 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 973 mg
+Potassium: 188 mg
+Calcium: 731 mg
+Iron: 0.44 mg
+Magnesium: 30 mg
+Zinc: 3.75 mg
+
+Vitamins:
+Vitamin A: 243 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.24 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 1.54 µg
+Folate: 16 µg

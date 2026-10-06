@@ -1,0 +1,36 @@
+Food: Frozen yogurt bar, chocolate
+Food ID: 2705458
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 3 g
+Carbohydrates: 21.6 g
+Fat: 3.6 g
+Fiber: 2.3 g
+Sugar: 19.24 g
+
+Fats:
+Saturated fat: 2.272 g
+Monounsaturated fat: 0.961 g
+Polyunsaturated fat: 0.102 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 234 mg
+Calcium: 100 mg
+Iron: 0.46 mg
+Magnesium: 25 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.07 µg
+Folate: 12 µg

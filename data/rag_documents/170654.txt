@@ -1,0 +1,31 @@
+Food: Snacks, trail mix, regular, unsalted
+Food ID: 170654
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 462 kcal
+Protein: 13.8 g
+Carbohydrates: 44.9 g
+Fat: 29.4 g
+
+Fats:
+Saturated fat: 5.55 g
+Monounsaturated fat: 12.53 g
+Polyunsaturated fat: 9.65 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 685 mg
+Calcium: 78 mg
+Iron: 3.05 mg
+Magnesium: 158 mg
+Zinc: 3.22 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.4 mg
+Vitamin B6: 0.298 mg
+Vitamin B12: 0 µg
+Folate: 71 µg

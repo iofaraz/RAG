@@ -1,0 +1,33 @@
+Food: McDONALD'S, french fries
+Food ID: 170721
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 3.41 g
+Carbohydrates: 42.58 g
+Fat: 15.47 g
+Fiber: 3.9 g
+Sugar: 0.21 g
+
+Fats:
+Saturated fat: 2.271 g
+Monounsaturated fat: 7.379 g
+Polyunsaturated fat: 4.727 g
+Trans fat: 0.064 g
+
+Minerals:
+Sodium: 189 mg
+Potassium: 596 mg
+Calcium: 19 mg
+Iron: 0.8 mg
+Magnesium: 37 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.6 mg
+Vitamin E: 1.38 mg
+Vitamin K: 16 µg
+Vitamin B6: 0.38 mg

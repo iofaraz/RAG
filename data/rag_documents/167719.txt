@@ -1,0 +1,36 @@
+Food: Chicken, meatless, breaded, fried
+Food ID: 167719
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 21.28 g
+Carbohydrates: 8.51 g
+Fat: 12.77 g
+Fiber: 4.3 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.13 g
+Monounsaturated fat: 3.226 g
+Polyunsaturated fat: 4.581 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 300 mg
+Calcium: 42 mg
+Iron: 3.83 mg
+Magnesium: 12 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.95 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.851 mg
+Vitamin B12: 5.11 µg
+Folate: 56 µg

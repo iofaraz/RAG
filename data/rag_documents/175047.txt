@@ -1,0 +1,31 @@
+Food: Pancakes, buttermilk, prepared from recipe
+Food ID: 175047
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 6.8 g
+Carbohydrates: 28.7 g
+Fat: 9.3 g
+
+Fats:
+Saturated fat: 1.832 g
+Monounsaturated fat: 2.361 g
+Polyunsaturated fat: 4.486 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 522 mg
+Potassium: 145 mg
+Calcium: 157 mg
+Iron: 1.7 mg
+Magnesium: 15 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0.4 mg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.18 µg
+Folate: 38 µg

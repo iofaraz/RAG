@@ -1,0 +1,36 @@
+Food: Dark chocolate candy, other, NFS
+Food ID: 2710335
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 550 kcal
+Protein: 5.09 g
+Carbohydrates: 59.97 g
+Fat: 32.2 g
+Fiber: 7.2 g
+Sugar: 46.14 g
+
+Fats:
+Saturated fat: 18.993 g
+Monounsaturated fat: 9.801 g
+Polyunsaturated fat: 1.107 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 568 mg
+Calcium: 57 mg
+Iron: 8.13 mg
+Magnesium: 152 mg
+Zinc: 2.11 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.23 µg
+Folate: 0 µg

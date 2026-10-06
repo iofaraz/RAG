@@ -1,0 +1,37 @@
+Food: Peppers, sweet, red, frozen, chopped, boiled, drained, with salt
+Food ID: 168549
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 0.95 g
+Carbohydrates: 3.31 g
+Fat: 0.18 g
+Fiber: 0.8 g
+Sugar: 2.86 g
+
+Fats:
+Saturated fat: 0.027 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.099 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 72 mg
+Calcium: 8 mg
+Iron: 0.52 mg
+Magnesium: 7 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 41.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.08 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

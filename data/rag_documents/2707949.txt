@@ -1,0 +1,36 @@
+Food: Cookie, oatmeal, with chocolate chips
+Food ID: 2707949
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 457 kcal
+Protein: 5.72 g
+Carbohydrates: 67.56 g
+Fat: 20.92 g
+Fiber: 3.5 g
+Sugar: 31.74 g
+
+Fats:
+Saturated fat: 7.659 g
+Monounsaturated fat: 10.011 g
+Polyunsaturated fat: 2.169 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 399 mg
+Potassium: 195 mg
+Calcium: 36 mg
+Iron: 2.71 mg
+Magnesium: 52 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 7.4 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0 µg
+Folate: 48 µg

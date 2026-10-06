@@ -1,0 +1,36 @@
+Food: Dandelion greens, cooked
+Food ID: 2709589
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 2.82 g
+Carbohydrates: 9.58 g
+Fat: 3.47 g
+Fiber: 3.6 g
+Sugar: 0.74 g
+
+Fats:
+Saturated fat: 0.893 g
+Monounsaturated fat: 0.986 g
+Polyunsaturated fat: 1.104 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 209 mg
+Potassium: 414 mg
+Calcium: 195 mg
+Iron: 3.23 mg
+Magnesium: 38 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 515 µg
+Vitamin C: 25.5 mg
+Vitamin D: 0 µg
+Vitamin E: 3.99 mg
+Vitamin K: 812.5 µg
+Vitamin B6: 0.266 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

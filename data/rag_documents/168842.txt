@@ -1,0 +1,26 @@
+Food: Candies, MARS SNACKFOOD US, SKITTLES Sours Original
+Food ID: 168842
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 401 kcal
+Protein: 0.18 g
+Carbohydrates: 91.02 g
+Fat: 4 g
+Fiber: 0 g
+Sugar: 73.16 g
+
+Fats:
+Saturated fat: 3.765 g
+Trans fat: 0.068 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Calcium: 0 mg
+Iron: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 61.1 mg

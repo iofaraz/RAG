@@ -1,0 +1,33 @@
+Food: Beverages, cranberry-grape juice drink, bottled
+Food ID: 171902
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 0.2 g
+Carbohydrates: 14 g
+Fat: 0.1 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 0.033 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.023 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 24 mg
+Calcium: 8 mg
+Iron: 0.01 mg
+Magnesium: 3 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 32 mg
+Vitamin B6: 0.028 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

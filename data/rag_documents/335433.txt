@@ -1,0 +1,16 @@
+Food: Beans, Dry, Carioca (0% moisture)
+Food ID: 335433
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 25.2 g
+Fat: 1.44 g
+Fiber: 4.5 g
+
+Minerals:
+Potassium: 1390 mg
+Calcium: 194 mg
+Iron: 5.87 mg
+Magnesium: 179 mg
+Zinc: 3.36 mg

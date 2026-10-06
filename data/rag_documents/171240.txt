@@ -1,0 +1,32 @@
+Food: Cheese, gjetost
+Food ID: 171240
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 466 kcal
+Protein: 9.65 g
+Carbohydrates: 42.65 g
+Fat: 29.51 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 19.16 g
+Monounsaturated fat: 7.879 g
+Polyunsaturated fat: 0.938 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 600 mg
+Potassium: 1409 mg
+Calcium: 400 mg
+Iron: 0.52 mg
+Magnesium: 70 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 334 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.271 mg
+Vitamin B12: 2.42 µg
+Folate: 5 µg

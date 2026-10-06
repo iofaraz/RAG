@@ -1,0 +1,33 @@
+Food: Veal, shoulder, whole (arm and blade), separable lean only, raw
+Food ID: 175280
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 19.79 g
+Carbohydrates: 0 g
+Fat: 3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.9 g
+Monounsaturated fat: 0.96 g
+Polyunsaturated fat: 0.31 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 311 mg
+Calcium: 22 mg
+Iron: 0.9 mg
+Magnesium: 24 mg
+Zinc: 4.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.26 mg
+Vitamin B6: 0.4 mg
+Vitamin B12: 1.68 µg
+Folate: 11 µg

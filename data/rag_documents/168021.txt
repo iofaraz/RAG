@@ -1,0 +1,14 @@
+Food: Fish, pike, northern, liver (Alaska Native)
+Food ID: 168021
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 156 kcal
+Protein: 16.6 g
+Carbohydrates: 4.3 g
+Fat: 8 g
+
+Minerals:
+Calcium: 28 mg
+Iron: 2.1 mg

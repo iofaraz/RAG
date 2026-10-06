@@ -1,0 +1,36 @@
+Food: Miso
+Food ID: 2707439
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 198 kcal
+Protein: 12.79 g
+Carbohydrates: 25.37 g
+Fat: 6.01 g
+Fiber: 5.4 g
+Sugar: 6.2 g
+
+Fats:
+Saturated fat: 1.025 g
+Monounsaturated fat: 1.118 g
+Polyunsaturated fat: 2.884 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3728 mg
+Potassium: 210 mg
+Calcium: 57 mg
+Iron: 2.49 mg
+Magnesium: 48 mg
+Zinc: 2.56 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 29.3 µg
+Vitamin B6: 0.199 mg
+Vitamin B12: 0.08 µg
+Folate: 19 µg

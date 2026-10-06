@@ -1,0 +1,32 @@
+Food: Sauce, barbecue, BULL'S-EYE, original
+Food ID: 171828
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 170 kcal
+Protein: 0.91 g
+Carbohydrates: 39.95 g
+Fat: 0.67 g
+Fiber: 1 g
+Sugar: 35.29 g
+
+Fats:
+Saturated fat: 0.101 g
+Monounsaturated fat: 0.216 g
+Polyunsaturated fat: 0.349 g
+Trans fat: 0.001 g
+
+Minerals:
+Sodium: 1012 mg
+Potassium: 263 mg
+Calcium: 43 mg
+Iron: 0.69 mg
+Magnesium: 16 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.3 mg
+Vitamin E: 0.91 mg
+Vitamin B6: 0.09 mg

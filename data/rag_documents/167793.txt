@@ -1,0 +1,30 @@
+Food: Apples, raw, fuji, with skin (Includes foods for USDA's Food Distribution Program)
+Food ID: 167793
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 0.2 g
+Carbohydrates: 15.22 g
+Fat: 0.18 g
+Fiber: 2.1 g
+Sugar: 11.68 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 109 mg
+Calcium: 7 mg
+Iron: 0.1 mg
+Magnesium: 5 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.045 mg
+Folate: 3 µg

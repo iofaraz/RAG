@@ -1,0 +1,33 @@
+Food: Agave, dried (Southwest)
+Food ID: 168993
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 1.71 g
+Carbohydrates: 81.98 g
+Fat: 0.69 g
+Fiber: 15.6 g
+Sugar: 50.7 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 767 mg
+Calcium: 770 mg
+Iron: 3.64 mg
+Magnesium: 207 mg
+Zinc: 12.1 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.76 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.216 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

@@ -1,0 +1,36 @@
+Food: Shrimp and noodles with gravy
+Food ID: 2706554
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 6.02 g
+Carbohydrates: 14.7 g
+Fat: 5.18 g
+Fiber: 0.6 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 0.899 g
+Monounsaturated fat: 1.965 g
+Polyunsaturated fat: 1.673 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 178 mg
+Potassium: 58 mg
+Calcium: 23 mg
+Iron: 0.83 mg
+Magnesium: 17 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.04 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.3 µg
+Folate: 47 µg

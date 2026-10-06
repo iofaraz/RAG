@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, M&M's Crispy Chocolate Candies
+Food ID: 168814
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 475 kcal
+Protein: 4.28 g
+Carbohydrates: 72.4 g
+Fat: 19.32 g
+Fiber: 2 g
+Sugar: 58.94 g
+
+Fats:
+Saturated fat: 11.651 g
+Trans fat: 0.131 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 136 mg
+Calcium: 90 mg
+Iron: 0.86 mg
+
+Vitamins:
+Vitamin C: 0.5 mg

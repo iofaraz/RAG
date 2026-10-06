@@ -1,0 +1,22 @@
+Food: Flour, semolina, fine
+Food ID: 2003589
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 13.3313 g
+Carbohydrates: 71.9857 g
+Fat: 1.838 g
+Fiber: 3.683 g
+
+Minerals:
+Sodium: 0.4263 mg
+Potassium: 207.8 mg
+Calcium: 19.76 mg
+Iron: 2.431 mg
+Magnesium: 46.28 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin B6: 0.1082 mg
+Folate: 163.6 µg

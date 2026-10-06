@@ -1,0 +1,36 @@
+Food: Dragon fruit
+Food ID: 2709234
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 0.68 g
+Carbohydrates: 16.24 g
+Fat: 0.21 g
+Fiber: 1.8 g
+Sugar: 12 g
+
+Fats:
+Saturated fat: 0.052 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.053 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 206 mg
+Calcium: 13 mg
+Iron: 0.12 mg
+Magnesium: 14 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 19.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, macaroni and tomato and beef, junior
+Food ID: 173491
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 2.5 g
+Carbohydrates: 9.4 g
+Fat: 1.1 g
+Fiber: 1.1 g
+Sugar: 2.43 g
+
+Fats:
+Saturated fat: 0.411 g
+Monounsaturated fat: 0.447 g
+Polyunsaturated fat: 0.079 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 72 mg
+Calcium: 14 mg
+Iron: 0.36 mg
+Magnesium: 7 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 6.7 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.24 µg
+Folate: 9 µg

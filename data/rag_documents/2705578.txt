@@ -1,0 +1,36 @@
+Food: Infant formula, store brand, soy
+Food ID: 2705578
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1.61 g
+Carbohydrates: 6.9 g
+Fat: 3.51 g
+Fiber: 0 g
+Sugar: 6.76 g
+
+Fats:
+Saturated fat: 1.306 g
+Monounsaturated fat: 1.278 g
+Polyunsaturated fat: 0.744 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 74 mg
+Calcium: 68 mg
+Iron: 1.2 mg
+Magnesium: 5 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 6.9 mg
+Vitamin D: 1 µg
+Vitamin E: 0.62 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.24 µg
+Folate: 10 µg

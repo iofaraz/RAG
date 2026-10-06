@@ -1,0 +1,32 @@
+Food: Plantains, green, fried
+Food ID: 168199
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 1.5 g
+Carbohydrates: 49.17 g
+Fat: 11.81 g
+Fiber: 3.5 g
+Sugar: 3.63 g
+
+Fats:
+Saturated fat: 3.69 g
+Monounsaturated fat: 4.353 g
+Polyunsaturated fat: 2.697 g
+Trans fat: 0.159 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 482 mg
+Calcium: 4 mg
+Iron: 0.67 mg
+Magnesium: 58 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 3.4 mg
+Vitamin B6: 0.264 mg
+Folate: 15 µg

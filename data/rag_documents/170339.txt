@@ -1,0 +1,33 @@
+Food: KFC, biscuit
+Food ID: 170339
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 7.5 g
+Carbohydrates: 43.55 g
+Fat: 17.05 g
+Fiber: 2 g
+Sugar: 4.04 g
+
+Fats:
+Saturated fat: 11.916 g
+Monounsaturated fat: 1.243 g
+Polyunsaturated fat: 1.352 g
+Trans fat: 0.26 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 1070 mg
+Potassium: 115 mg
+Calcium: 55 mg
+Iron: 2.86 mg
+Magnesium: 16 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 0.26 mg
+Vitamin B6: 0.063 mg
+Folate: 81 µg

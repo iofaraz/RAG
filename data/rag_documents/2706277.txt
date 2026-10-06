@@ -1,0 +1,36 @@
+Food: Fish, pompano, NFS
+Food ID: 2706277
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 22.96 g
+Carbohydrates: 0.01 g
+Fat: 16.3 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 5.544 g
+Monounsaturated fat: 4.821 g
+Polyunsaturated fat: 2.713 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 296 mg
+Potassium: 474 mg
+Calcium: 28 mg
+Iron: 0.75 mg
+Magnesium: 34 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 0 mg
+Vitamin D: 13.7 µg
+Vitamin E: 0.9 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.253 mg
+Vitamin B12: 1.45 µg
+Folate: 17 µg

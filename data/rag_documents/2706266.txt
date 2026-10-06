@@ -1,0 +1,36 @@
+Food: Fish, mackerel, baked or broiled, coated
+Food ID: 2706266
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 245 kcal
+Protein: 22.32 g
+Carbohydrates: 7.79 g
+Fat: 13.12 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 3.607 g
+Monounsaturated fat: 4.426 g
+Polyunsaturated fat: 3.422 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 353 mg
+Potassium: 442 mg
+Calcium: 34 mg
+Iron: 1.8 mg
+Magnesium: 33 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 1.7 mg
+Vitamin D: 9.6 µg
+Vitamin E: 1.74 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.349 mg
+Vitamin B12: 4.17 µg
+Folate: 18 µg

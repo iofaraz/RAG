@@ -1,0 +1,33 @@
+Food: Elderberries, raw
+Food ID: 171727
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 73 kcal
+Protein: 0.66 g
+Carbohydrates: 18.4 g
+Fat: 0.5 g
+Fiber: 7 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.08 g
+Polyunsaturated fat: 0.247 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 280 mg
+Calcium: 38 mg
+Iron: 1.6 mg
+Magnesium: 5 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 36 mg
+Vitamin B6: 0.23 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

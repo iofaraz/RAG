@@ -1,0 +1,36 @@
+Food: Mushrooms, fresh, cooked with oil
+Food ID: 2709941
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 70 kcal
+Protein: 3.5 g
+Carbohydrates: 5 g
+Fat: 4.05 g
+Fiber: 2.1 g
+Sugar: 2.4 g
+
+Fats:
+Saturated fat: 0.546 g
+Monounsaturated fat: 1.538 g
+Polyunsaturated fat: 1.588 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 148 mg
+Potassium: 449 mg
+Calcium: 6 mg
+Iron: 0.28 mg
+Magnesium: 12 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.7 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.089 mg
+Vitamin B12: 0.05 µg
+Folate: 36 µg

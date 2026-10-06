@@ -1,0 +1,34 @@
+Food: Cabbage, common (danish, domestic, and pointed types), freshly harvest, raw
+Food ID: 169335
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 24 kcal
+Protein: 1.21 g
+Carbohydrates: 5.37 g
+Fat: 0.18 g
+Fiber: 2.3 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.087 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 246 mg
+Calcium: 47 mg
+Iron: 0.56 mg
+Magnesium: 15 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 51 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0 µg
+Folate: 57 µg

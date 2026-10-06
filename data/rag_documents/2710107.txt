@@ -1,0 +1,36 @@
+Food: Soup, cream of mushroom
+Food ID: 2710107
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 2.1 g
+Carbohydrates: 5.7 g
+Fat: 4.76 g
+Fiber: 1.2 g
+Sugar: 1.74 g
+
+Fats:
+Saturated fat: 2.499 g
+Monounsaturated fat: 1.003 g
+Polyunsaturated fat: 0.398 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 242 mg
+Potassium: 222 mg
+Calcium: 15 mg
+Iron: 0.3 mg
+Magnesium: 8 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.2 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.02 µg
+Folate: 22 µg

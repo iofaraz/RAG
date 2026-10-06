@@ -1,0 +1,28 @@
+Food: Plums, wild (Northern Plains Indians)
+Food ID: 169820
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 0.43 g
+Carbohydrates: 21.95 g
+Fat: 0.17 g
+Fiber: 6 g
+Sugar: 10.61 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 364 mg
+Calcium: 11 mg
+Iron: 0.17 mg
+Magnesium: 8 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 173 µg
+Vitamin C: 10.3 mg
+Vitamin E: 0.53 mg
+Vitamin K: 11.2 µg
+Vitamin B6: 0.093 mg
+Folate: 1 µg

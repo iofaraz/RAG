@@ -1,0 +1,36 @@
+Food: Cream substitute, liquid, light
+Food ID: 168097
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 0.8 g
+Carbohydrates: 9.1 g
+Fat: 3.5 g
+Fiber: 0 g
+Sugar: 9.1 g
+
+Fats:
+Saturated fat: 0.896 g
+Monounsaturated fat: 2.03 g
+Polyunsaturated fat: 0.42 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 177 mg
+Calcium: 1 mg
+Iron: 0.56 mg
+Magnesium: 0 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

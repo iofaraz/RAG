@@ -1,0 +1,36 @@
+Food: Beans and franks
+Food ID: 2707405
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 6.74 g
+Carbohydrates: 17.29 g
+Fat: 5.22 g
+Fiber: 3.3 g
+Sugar: 6.17 g
+
+Fats:
+Saturated fat: 2.076 g
+Monounsaturated fat: 2.326 g
+Polyunsaturated fat: 0.543 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 438 mg
+Potassium: 224 mg
+Calcium: 33 mg
+Iron: 1.36 mg
+Magnesium: 25 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0.28 µg
+Folate: 7 µg

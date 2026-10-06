@@ -1,0 +1,36 @@
+Food: Hot dog sandwich, reduced fat, on wheat bread
+Food ID: 2707075
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 233 kcal
+Protein: 12.94 g
+Carbohydrates: 19 g
+Fat: 11.63 g
+Fiber: 1.9 g
+Sugar: 1.79 g
+
+Fats:
+Saturated fat: 4.51 g
+Monounsaturated fat: 5.072 g
+Polyunsaturated fat: 1.11 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 554 mg
+Potassium: 198 mg
+Calcium: 66 mg
+Iron: 1.85 mg
+Magnesium: 26 mg
+Zinc: 1.81 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.24 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.157 mg
+Vitamin B12: 0.58 µg
+Folate: 27 µg

@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- feed with ARA and DHA
+Food ID: 171396
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1.76 g
+Carbohydrates: 6.67 g
+Fat: 3.6 g
+Fiber: 0.7 g
+Sugar: 6.66 g
+
+Fats:
+Saturated fat: 1.477 g
+Monounsaturated fat: 1.293 g
+Polyunsaturated fat: 0.685 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 29 mg
+Potassium: 71 mg
+Calcium: 69 mg
+Iron: 1.18 mg
+Magnesium: 5 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 5.9 mg
+Vitamin D: 1 µg
+Vitamin E: 0.44 mg
+Vitamin K: 7.2 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.3 µg
+Folate: 10 µg

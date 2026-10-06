@@ -1,0 +1,22 @@
+Food: Carrots, mature, raw
+Food ID: 2258586
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.94125 g
+Carbohydrates: 10.2675 g
+Fat: 0.3506 g
+Fiber: 3.095 g
+
+Minerals:
+Sodium: 86.65 mg
+Potassium: 279.6 mg
+Calcium: 30.48 mg
+Iron: 0.1504 mg
+Magnesium: 12.45 mg
+Zinc: 0.2364 mg
+
+Vitamins:
+Vitamin B6: 0.1456 mg
+Folate: 37.06 µg

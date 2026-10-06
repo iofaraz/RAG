@@ -1,0 +1,21 @@
+Food: Game meat, muskrat, raw
+Food ID: 172518
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 20.76 g
+Carbohydrates: 0 g
+Fat: 8.1 g
+Fiber: 0 g
+
+Minerals:
+Sodium: 82 mg
+Potassium: 276 mg
+Calcium: 25 mg
+Magnesium: 22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5 mg

@@ -1,0 +1,37 @@
+Food: Peppers, sweet, red, sauteed
+Food ID: 168550
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 1.04 g
+Carbohydrates: 6.57 g
+Fat: 12.75 g
+Fiber: 1.8 g
+Sugar: 4.28 g
+
+Fats:
+Saturated fat: 1.557 g
+Monounsaturated fat: 2.287 g
+Polyunsaturated fat: 5.719 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 193 mg
+Calcium: 7 mg
+Iron: 0.47 mg
+Magnesium: 12 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 138 µg
+Vitamin C: 162.8 mg
+Vitamin D: 0 µg
+Vitamin E: 3.09 mg
+Vitamin K: 16.4 µg
+Vitamin B6: 0.364 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

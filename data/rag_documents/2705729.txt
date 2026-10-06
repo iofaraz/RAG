@@ -1,0 +1,36 @@
+Food: Cheese, Parmesan, dry grated, reduced fat
+Food ID: 2705729
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 395 kcal
+Protein: 34.8 g
+Carbohydrates: 26.2 g
+Fat: 16.5 g
+Fiber: 0 g
+Sugar: 0.78 g
+
+Fats:
+Saturated fat: 9.305 g
+Monounsaturated fat: 3.923 g
+Polyunsaturated fat: 0.693 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 1450 mg
+Potassium: 392 mg
+Calcium: 842 mg
+Iron: 2.72 mg
+Magnesium: 38 mg
+Zinc: 3.66 mg
+
+Vitamins:
+Vitamin A: 134 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.28 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 1.23 µg
+Folate: 16 µg

@@ -1,0 +1,36 @@
+Food: Oysters, canned
+Food ID: 2706355
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 7.67 g
+Carbohydrates: 4.25 g
+Fat: 2.68 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.686 g
+Monounsaturated fat: 0.272 g
+Polyunsaturated fat: 0.803 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 122 mg
+Potassium: 249 mg
+Calcium: 49 mg
+Iron: 7.28 mg
+Magnesium: 59 mg
+Zinc: 98.86 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 20.79 µg
+Folate: 10 µg

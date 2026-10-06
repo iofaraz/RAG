@@ -1,0 +1,36 @@
+Food: Heart
+Food ID: 2706156
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 164 kcal
+Protein: 28.25 g
+Carbohydrates: 0.15 g
+Fat: 4.69 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.393 g
+Monounsaturated fat: 1.003 g
+Polyunsaturated fat: 0.977 g
+Cholesterol: 210 mg
+
+Minerals:
+Sodium: 366 mg
+Potassium: 217 mg
+Calcium: 5 mg
+Iron: 6.33 mg
+Magnesium: 21 mg
+Zinc: 2.85 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.243 mg
+Vitamin B12: 10.71 µg
+Folate: 5 µg

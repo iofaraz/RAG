@@ -1,0 +1,36 @@
+Food: Fast foods, croissant, with egg, cheese, and ham
+Food ID: 173270
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 261 kcal
+Protein: 12.45 g
+Carbohydrates: 18.98 g
+Fat: 14.95 g
+Fiber: 0.9 g
+Sugar: 5.42 g
+
+Fats:
+Saturated fat: 5.161 g
+Monounsaturated fat: 4.738 g
+Polyunsaturated fat: 1.485 g
+Cholesterol: 140 mg
+
+Minerals:
+Sodium: 711 mg
+Potassium: 179 mg
+Calcium: 95 mg
+Iron: 1.4 mg
+Magnesium: 17 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 146 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.76 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.66 µg
+Folate: 42 µg

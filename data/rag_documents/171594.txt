@@ -1,0 +1,36 @@
+Food: Soup, vegetable soup, condensed, low sodium, prepared with equal volume water
+Food ID: 171594
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 1.1 g
+Carbohydrates: 6.06 g
+Fat: 0.45 g
+Fiber: 1.1 g
+Sugar: 2.15 g
+
+Fats:
+Saturated fat: 0.074 g
+Monounsaturated fat: 0.102 g
+Polyunsaturated fat: 0.202 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 194 mg
+Potassium: 217 mg
+Calcium: 12 mg
+Iron: 0.33 mg
+Magnesium: 13 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

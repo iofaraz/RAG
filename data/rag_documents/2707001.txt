@@ -1,0 +1,36 @@
+Food: Chicken fillet sandwich, from school cafeteria
+Food ID: 2707001
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 14.62 g
+Carbohydrates: 29.8 g
+Fat: 8.06 g
+Fiber: 4.4 g
+Sugar: 2.73 g
+
+Fats:
+Saturated fat: 1.562 g
+Monounsaturated fat: 2.259 g
+Polyunsaturated fat: 3.777 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 446 mg
+Potassium: 262 mg
+Calcium: 107 mg
+Iron: 3.09 mg
+Magnesium: 55 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.9 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0.14 µg
+Folate: 28 µg

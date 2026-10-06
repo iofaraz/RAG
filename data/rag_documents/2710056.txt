@@ -1,0 +1,36 @@
+Food: Pea salad
+Food ID: 2710056
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 2.98 g
+Carbohydrates: 10.64 g
+Fat: 14.02 g
+Fiber: 2.7 g
+Sugar: 4.9 g
+
+Fats:
+Saturated fat: 2.201 g
+Monounsaturated fat: 3.125 g
+Polyunsaturated fat: 8.342 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 253 mg
+Potassium: 119 mg
+Calcium: 27 mg
+Iron: 0.86 mg
+Magnesium: 14 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 72 µg
+Vitamin C: 13.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.79 mg
+Vitamin K: 52 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.02 µg
+Folate: 38 µg

@@ -1,0 +1,36 @@
+Food: Breadsticks, hard, reduced sodium
+Food ID: 2707691
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 434 kcal
+Protein: 12.01 g
+Carbohydrates: 72.23 g
+Fat: 10.86 g
+Fiber: 2.5 g
+Sugar: 1.34 g
+
+Fats:
+Saturated fat: 1.443 g
+Monounsaturated fat: 4.086 g
+Polyunsaturated fat: 4.135 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 131 mg
+Calcium: 18 mg
+Iron: 5.33 mg
+Magnesium: 30 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2 mg
+Vitamin K: 9.7 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0 µg
+Folate: 109 µg

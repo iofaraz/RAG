@@ -1,0 +1,33 @@
+Food: Onions, sweet, raw
+Food ID: 170008
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 0.8 g
+Carbohydrates: 7.55 g
+Fat: 0.08 g
+Fiber: 0.9 g
+Sugar: 5.02 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 119 mg
+Calcium: 20 mg
+Iron: 0.26 mg
+Magnesium: 9 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.13 mg
+Folate: 23 µg

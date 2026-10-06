@@ -1,0 +1,36 @@
+Food: Tomato juice, 100%, low sodium
+Food ID: 2709729
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 0.86 g
+Carbohydrates: 4.32 g
+Fat: 0.29 g
+Fiber: 0.4 g
+Sugar: 2.57 g
+
+Fats:
+Saturated fat: 0.019 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.027 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 198 mg
+Calcium: 10 mg
+Iron: 0.3 mg
+Magnesium: 10 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 49.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

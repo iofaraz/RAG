@@ -1,0 +1,36 @@
+Food: Salad dressing, thousand island, commercial, regular
+Food ID: 171402
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 1.09 g
+Carbohydrates: 14.64 g
+Fat: 35.06 g
+Fiber: 0.8 g
+Sugar: 15.18 g
+
+Fats:
+Saturated fat: 5.092 g
+Monounsaturated fat: 7.881 g
+Polyunsaturated fat: 18.22 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 962 mg
+Potassium: 107 mg
+Calcium: 17 mg
+Iron: 1.18 mg
+Magnesium: 8 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4 mg
+Vitamin K: 69.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

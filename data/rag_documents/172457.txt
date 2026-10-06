@@ -1,0 +1,37 @@
+Food: Peanut spread, reduced sugar
+Food ID: 172457
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 650 kcal
+Protein: 24.8 g
+Carbohydrates: 14.23 g
+Fat: 54.89 g
+Fiber: 7.8 g
+Sugar: 6.35 g
+
+Fats:
+Saturated fat: 10.22 g
+Monounsaturated fat: 26.997 g
+Polyunsaturated fat: 16.266 g
+Trans fat: 0.16 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 292 mg
+Potassium: 818 mg
+Calcium: 72 mg
+Iron: 2.84 mg
+Magnesium: 164 mg
+Zinc: 3.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 8.06 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.471 mg
+Vitamin B12: 0 µg
+Folate: 144 µg

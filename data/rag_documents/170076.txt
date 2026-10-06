@@ -1,0 +1,31 @@
+Food: Dock, raw
+Food ID: 170076
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 2 g
+Carbohydrates: 3.2 g
+Fat: 0.7 g
+Fiber: 2.9 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 390 mg
+Calcium: 44 mg
+Iron: 2.4 mg
+Magnesium: 103 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 200 µg
+Vitamin C: 48 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

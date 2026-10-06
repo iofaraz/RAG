@@ -1,0 +1,24 @@
+Food: Pork, ground, raw
+Food ID: 2514745
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 17.8062 g
+Carbohydrates: 0 g
+Fat: 17.49 g
+
+Fats:
+Saturated fat: 6.283 g
+Monounsaturated fat: 7.777 g
+Polyunsaturated fat: 2.553 g
+Trans fat: 0.066 g
+Cholesterol: 71.16 mg
+
+Minerals:
+Sodium: 53.63 mg
+Potassium: 317.7 mg
+Calcium: 5.857 mg
+Iron: 0.7876 mg
+Magnesium: 19.03 mg
+Zinc: 2.226 mg

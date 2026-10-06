@@ -1,0 +1,13 @@
+Food: Whale, beluga, liver, raw (Alaska Native)
+Food ID: 168980
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 18.4 g
+Carbohydrates: 2 g
+Fat: 3.9 g
+
+Minerals:
+Calcium: 11 mg

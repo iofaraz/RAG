@@ -1,0 +1,36 @@
+Food: Ham, prepackaged or deli, luncheon meat, reduced sodium
+Food ID: 2706207
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 16.7 g
+Carbohydrates: 0.27 g
+Fat: 3.73 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.12 g
+Monounsaturated fat: 1.47 g
+Polyunsaturated fat: 0.544 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 660 mg
+Potassium: 425 mg
+Calcium: 5 mg
+Iron: 0.58 mg
+Magnesium: 19 mg
+Zinc: 1.52 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.394 mg
+Vitamin B12: 0.36 µg
+Folate: 0 µg

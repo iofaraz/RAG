@@ -1,0 +1,36 @@
+Food: Cereal, K's, flavored
+Food ID: 2708472
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 363 kcal
+Protein: 7.33 g
+Carbohydrates: 80.94 g
+Fat: 1.15 g
+Fiber: 8 g
+Sugar: 28.38 g
+
+Fats:
+Saturated fat: 0.189 g
+Monounsaturated fat: 0.187 g
+Polyunsaturated fat: 0.287 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 617 mg
+Potassium: 78 mg
+Calcium: 12 mg
+Iron: 26.99 mg
+Magnesium: 21 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 22.5 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.67 mg
+Vitamin B12: 0.88 µg
+Folate: 308 µg

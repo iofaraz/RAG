@@ -1,0 +1,36 @@
+Food: Lettuce, cooked
+Food ID: 2709949
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 1.06 g
+Carbohydrates: 4.21 g
+Fat: 3.11 g
+Fiber: 1.5 g
+Sugar: 1.26 g
+
+Fats:
+Saturated fat: 0.813 g
+Monounsaturated fat: 1.072 g
+Polyunsaturated fat: 0.982 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 169 mg
+Potassium: 284 mg
+Calcium: 36 mg
+Iron: 0.29 mg
+Magnesium: 12 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 340 µg
+Vitamin C: 6.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.64 mg
+Vitamin K: 86.6 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

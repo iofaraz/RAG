@@ -1,0 +1,24 @@
+Food: Prairie Turnips, boiled (Northern Plains Indians)
+Food ID: 168996
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 1.64 g
+Carbohydrates: 29.99 g
+Fat: 0.32 g
+Fiber: 7.2 g
+Sugar: 4.74 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 108 mg
+Calcium: 103 mg
+Iron: 0.95 mg
+Magnesium: 49 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin C: 2 mg
+Vitamin B6: 0.379 mg

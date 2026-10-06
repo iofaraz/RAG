@@ -1,0 +1,36 @@
+Food: Cheese, parmesan, hard
+Food ID: 170848
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 392 kcal
+Protein: 35.75 g
+Carbohydrates: 3.22 g
+Fat: 25 g
+Fiber: 0 g
+Sugar: 0.11 g
+
+Fats:
+Saturated fat: 14.85 g
+Monounsaturated fat: 7.515 g
+Polyunsaturated fat: 0.569 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 1175 mg
+Potassium: 92 mg
+Calcium: 1184 mg
+Iron: 0.82 mg
+Magnesium: 44 mg
+Zinc: 2.75 mg
+
+Vitamins:
+Vitamin A: 207 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.22 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 1.2 µg
+Folate: 7 µg

@@ -1,0 +1,36 @@
+Food: Potato chips, ruffled, sour cream and onion flavored
+Food ID: 2709429
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 487 kcal
+Protein: 6.51 g
+Carbohydrates: 55.92 g
+Fat: 31.06 g
+Fiber: 3.8 g
+Sugar: 5.47 g
+
+Fats:
+Saturated fat: 4.002 g
+Monounsaturated fat: 13.221 g
+Polyunsaturated fat: 12.207 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 545 mg
+Potassium: 1186 mg
+Calcium: 32 mg
+Iron: 1.36 mg
+Magnesium: 58 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 62.4 mg
+Vitamin D: 0 µg
+Vitamin E: 4.42 mg
+Vitamin K: 16.1 µg
+Vitamin B6: 0.375 mg
+Vitamin B12: 0 µg
+Folate: 64 µg

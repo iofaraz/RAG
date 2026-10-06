@@ -1,0 +1,36 @@
+Food: Soup, chicken with rice, canned, prepared with equal volume water
+Food ID: 172910
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 24 kcal
+Protein: 1.45 g
+Carbohydrates: 2.92 g
+Fat: 0.78 g
+Fiber: 0.3 g
+Sugar: 0.08 g
+
+Fats:
+Saturated fat: 0.185 g
+Monounsaturated fat: 0.37 g
+Polyunsaturated fat: 0.17 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 238 mg
+Potassium: 41 mg
+Calcium: 9 mg
+Iron: 0.31 mg
+Magnesium: 0 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.07 µg
+Folate: 0 µg

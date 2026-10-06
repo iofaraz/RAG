@@ -1,0 +1,23 @@
+Food: Cake, pound, Bimbo Bakeries USA, Panque Casero, home baked style
+Food ID: 167937
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 418 kcal
+Protein: 6.62 g
+Carbohydrates: 48.94 g
+Fat: 21.7 g
+Fiber: 1 g
+Sugar: 28.77 g
+
+Minerals:
+Sodium: 357 mg
+Potassium: 101 mg
+Calcium: 52 mg
+Iron: 1.51 mg
+Magnesium: 13 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin B6: 0.03 mg

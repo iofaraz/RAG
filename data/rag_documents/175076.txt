@@ -1,0 +1,29 @@
+Food: Archway Home Style Cookies, Strawberry Filled
+Food ID: 175076
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 400 kcal
+Protein: 4.35 g
+Carbohydrates: 65.92 g
+Fat: 13.26 g
+Fiber: 2.2 g
+Sugar: 31.76 g
+
+Fats:
+Saturated fat: 5.16 g
+Monounsaturated fat: 4.14 g
+Polyunsaturated fat: 1.1 g
+Trans fat: 2.85 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 377 mg
+Potassium: 118 mg
+Calcium: 20 mg
+Iron: 2.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Folate: 62 µg

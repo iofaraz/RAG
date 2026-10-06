@@ -1,0 +1,37 @@
+Food: Lettuce, red leaf, raw
+Food ID: 168431
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 13 kcal
+Protein: 1.33 g
+Carbohydrates: 2.26 g
+Fat: 0.22 g
+Fiber: 0.9 g
+Sugar: 0.48 g
+
+Fats:
+Saturated fat: 0.028 g
+Monounsaturated fat: 0.009 g
+Polyunsaturated fat: 0.115 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 187 mg
+Calcium: 33 mg
+Iron: 1.2 mg
+Magnesium: 12 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 375 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 140.3 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

@@ -1,0 +1,36 @@
+Food: Orange, raw
+Food ID: 2709171
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 0.92 g
+Carbohydrates: 11.78 g
+Fat: 0.14 g
+Fiber: 2.2 g
+Sugar: 8.96 g
+
+Fats:
+Saturated fat: 0.015 g
+Monounsaturated fat: 0.023 g
+Polyunsaturated fat: 0.025 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 174 mg
+Calcium: 42 mg
+Iron: 0.22 mg
+Magnesium: 10 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 56.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

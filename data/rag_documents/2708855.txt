@@ -1,0 +1,36 @@
+Food: Pasta with cream sauce, restaurant
+Food ID: 2708855
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 204 kcal
+Protein: 3.72 g
+Carbohydrates: 15.56 g
+Fat: 13.95 g
+Fiber: 0.9 g
+Sugar: 0.67 g
+
+Fats:
+Saturated fat: 4.786 g
+Monounsaturated fat: 4.349 g
+Polyunsaturated fat: 3.059 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 577 mg
+Potassium: 39 mg
+Calcium: 33 mg
+Iron: 0.64 mg
+Magnesium: 10 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.46 mg
+Vitamin K: 7.4 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.03 µg
+Folate: 36 µg

@@ -1,0 +1,36 @@
+Food: Spinach dip, regular
+Food ID: 2705625
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 345 kcal
+Protein: 2.35 g
+Carbohydrates: 3.44 g
+Fat: 35.83 g
+Fiber: 0.3 g
+Sugar: 2.3 g
+
+Fats:
+Saturated fat: 8.753 g
+Monounsaturated fat: 7.949 g
+Polyunsaturated fat: 17.402 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 570 mg
+Potassium: 113 mg
+Calcium: 75 mg
+Iron: 0.23 mg
+Magnesium: 12 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 119 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.67 mg
+Vitamin K: 104.1 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.15 µg
+Folate: 14 µg

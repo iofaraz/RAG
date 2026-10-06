@@ -1,0 +1,37 @@
+Food: Rye flour, light
+Food ID: 168887
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 9.82 g
+Carbohydrates: 76.68 g
+Fat: 1.33 g
+Fiber: 8 g
+Sugar: 0.93 g
+
+Fats:
+Saturated fat: 0.15 g
+Monounsaturated fat: 0.158 g
+Polyunsaturated fat: 0.584 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 224 mg
+Calcium: 13 mg
+Iron: 0.91 mg
+Magnesium: 32 mg
+Zinc: 1.33 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.83 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.234 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

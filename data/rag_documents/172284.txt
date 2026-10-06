@@ -1,0 +1,36 @@
+Food: Babyfood, vegetables, garden vegetable, strained
+Food ID: 172284
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 2.3 g
+Carbohydrates: 6.8 g
+Fat: 0.2 g
+Fiber: 1.5 g
+Sugar: 2.57 g
+
+Fats:
+Saturated fat: 0.035 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.09 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 168 mg
+Calcium: 28 mg
+Iron: 0.83 mg
+Magnesium: 21 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 303 µg
+Vitamin C: 5.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 24.5 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 40 µg

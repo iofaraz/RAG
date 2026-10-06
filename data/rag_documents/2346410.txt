@@ -1,0 +1,20 @@
+Food: Raspberries, raw
+Food ID: 2346410
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.00812 g
+Carbohydrates: 12.9044 g
+Fat: 0.1875 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 155.8 mg
+Calcium: 16.41 mg
+Iron: 0.4501 mg
+Magnesium: 19.15 mg
+Zinc: 0.2213 mg
+
+Vitamins:
+Vitamin C: 23.04 mg

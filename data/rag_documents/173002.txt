@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, RALSTON Enriched Wheat Bran flakes
+Food ID: 173002
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 10.21 g
+Carbohydrates: 79.77 g
+Fat: 3.36 g
+Fiber: 16.9 g
+Sugar: 17.17 g
+
+Fats:
+Saturated fat: 0.433 g
+Monounsaturated fat: 0.443 g
+Polyunsaturated fat: 1.383 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 586 mg
+Potassium: 630 mg
+Calcium: 45 mg
+Iron: 67.67 mg
+Magnesium: 190 mg
+Zinc: 64.33 mg
+
+Vitamins:
+Vitamin A: 531 µg
+Vitamin C: 239.7 mg
+Vitamin D: 8.6 µg
+Vitamin E: 80.46 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 6.8 mg
+Vitamin B12: 20.69 µg
+Folate: 1379 µg

@@ -1,0 +1,37 @@
+Food: Snacks, pretzels, hard, plain, salted
+Food ID: 167555
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 10.04 g
+Carbohydrates: 80.39 g
+Fat: 2.93 g
+Fiber: 3.4 g
+Sugar: 2.21 g
+
+Fats:
+Saturated fat: 0.391 g
+Monounsaturated fat: 0.727 g
+Polyunsaturated fat: 1.291 g
+Trans fat: 0.004 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1240 mg
+Potassium: 223 mg
+Calcium: 27 mg
+Iron: 4.58 mg
+Magnesium: 29 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.47 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0 µg
+Folate: 166 µg

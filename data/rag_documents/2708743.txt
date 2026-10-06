@@ -1,0 +1,36 @@
+Food: Turnover or breakfast pocket, egg
+Food ID: 2708743
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 10.01 g
+Carbohydrates: 30.9 g
+Fat: 11.29 g
+Fiber: 1.5 g
+Sugar: 3.25 g
+
+Fats:
+Saturated fat: 3.439 g
+Monounsaturated fat: 4.287 g
+Polyunsaturated fat: 2.58 g
+Cholesterol: 98 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 128 mg
+Calcium: 142 mg
+Iron: 2.4 mg
+Magnesium: 20 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.75 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0.28 µg
+Folate: 73 µg

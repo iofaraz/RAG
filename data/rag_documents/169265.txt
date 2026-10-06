@@ -1,0 +1,33 @@
+Food: Potatoes, french fried, cottage-cut, salt not added in processing, frozen, as purchased
+Food ID: 169265
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 2.42 g
+Carbohydrates: 23.98 g
+Fat: 5.78 g
+Fiber: 3 g
+
+Fats:
+Saturated fat: 2.743 g
+Monounsaturated fat: 2.345 g
+Polyunsaturated fat: 0.433 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 32 mg
+Potassium: 338 mg
+Calcium: 7 mg
+Iron: 1.05 mg
+Magnesium: 16 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 8.4 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

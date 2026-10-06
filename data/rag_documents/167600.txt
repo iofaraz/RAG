@@ -1,0 +1,29 @@
+Food: Udi's, Gluten Free, Whole Grain Dinner Rolls
+Food ID: 167600
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 329 kcal
+Protein: 11.8 g
+Carbohydrates: 44.29 g
+Fat: 11.6 g
+Fiber: 11.2 g
+Sugar: 4.2 g
+
+Fats:
+Saturated fat: 1.381 g
+Monounsaturated fat: 5.352 g
+Polyunsaturated fat: 4.944 g
+Trans fat: 0.034 g
+
+Minerals:
+Sodium: 507 mg
+Potassium: 273 mg
+Calcium: 118 mg
+Iron: 1.64 mg
+Magnesium: 96 mg
+Zinc: 1.35 mg
+
+Vitamins:
+Vitamin E: 1.39 mg

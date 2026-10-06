@@ -1,0 +1,32 @@
+Food: Chicken, broilers or fryers, giblets, cooked, fried
+Food ID: 171058
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 32.54 g
+Carbohydrates: 4.35 g
+Fat: 13.46 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.8 g
+Monounsaturated fat: 4.42 g
+Polyunsaturated fat: 3.38 g
+Cholesterol: 446 mg
+
+Minerals:
+Sodium: 113 mg
+Potassium: 330 mg
+Calcium: 18 mg
+Iron: 10.32 mg
+Magnesium: 25 mg
+Zinc: 6.27 mg
+
+Vitamins:
+Vitamin A: 3582 µg
+Vitamin C: 8.7 mg
+Vitamin B6: 0.61 mg
+Vitamin B12: 13.31 µg
+Folate: 379 µg

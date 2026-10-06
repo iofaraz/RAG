@@ -1,0 +1,32 @@
+Food: Goose, domesticated, meat only, raw
+Food ID: 172413
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 22.75 g
+Carbohydrates: 0 g
+Fat: 7.13 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.79 g
+Monounsaturated fat: 1.85 g
+Polyunsaturated fat: 0.9 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 87 mg
+Potassium: 420 mg
+Calcium: 13 mg
+Iron: 2.57 mg
+Magnesium: 24 mg
+Zinc: 2.34 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 7.2 mg
+Vitamin B6: 0.64 mg
+Vitamin B12: 0.49 µg
+Folate: 31 µg

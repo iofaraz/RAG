@@ -1,0 +1,37 @@
+Food: Snack, Mixed Berry Bar
+Food ID: 174803
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 383 kcal
+Protein: 13.16 g
+Carbohydrates: 58.84 g
+Fat: 10.53 g
+Fiber: 7.9 g
+Sugar: 26.32 g
+
+Fats:
+Saturated fat: 3.846 g
+Monounsaturated fat: 2.897 g
+Polyunsaturated fat: 2.058 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 447 mg
+Potassium: 446 mg
+Calcium: 105 mg
+Iron: 1.89 mg
+Magnesium: 91 mg
+Zinc: 2.64 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.29 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.51 µg
+Folate: 28 µg

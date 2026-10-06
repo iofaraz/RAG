@@ -1,0 +1,33 @@
+Food: Yogurt, Greek, strawberry, DANNON OIKOS
+Food ID: 171297
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 8.25 g
+Carbohydrates: 11.67 g
+Fat: 2.92 g
+Fiber: 1 g
+Sugar: 11 g
+
+Fats:
+Saturated fat: 1.832 g
+Monounsaturated fat: 0.745 g
+Polyunsaturated fat: 0.131 g
+Trans fat: 0.085 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 131 mg
+Calcium: 86 mg
+Iron: 0.07 mg
+Magnesium: 10 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin D: 0 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.56 µg

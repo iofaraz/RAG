@@ -1,0 +1,32 @@
+Food: Vitasoy USA, Vitasoy Light Vanilla Soymilk
+Food ID: 175214
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 30 kcal
+Protein: 1.6 g
+Carbohydrates: 4.1 g
+Fat: 0.82 g
+Fiber: 0.1 g
+Sugar: 2.9 g
+
+Fats:
+Saturated fat: 0.18 g
+Monounsaturated fat: 0.2 g
+Polyunsaturated fat: 0.4 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 82 mg
+Calcium: 123 mg
+Iron: 0.3 mg
+Magnesium: 10 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin D: 0.8 µg
+Vitamin B12: 0.37 µg
+Folate: 10 µg

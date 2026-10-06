@@ -1,0 +1,35 @@
+Food: Beef, bottom sirloin, tri-tip roast, separable lean and fat, trimmed to 0" fat, select, cooked, roasted
+Food ID: 168737
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 26.44 g
+Carbohydrates: 0 g
+Fat: 9.78 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.595 g
+Monounsaturated fat: 4.841 g
+Polyunsaturated fat: 0.321 g
+Cholesterol: 81 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 338 mg
+Calcium: 21 mg
+Iron: 1.62 mg
+Magnesium: 23 mg
+Zinc: 4.82 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.39 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.579 mg
+Vitamin B12: 1.37 µg
+Folate: 8 µg

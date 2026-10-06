@@ -1,0 +1,36 @@
+Food: Beef, loin, top loin, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, grilled
+Food ID: 169539
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 26.44 g
+Carbohydrates: 0 g
+Fat: 16.78 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.608 g
+Monounsaturated fat: 6.993 g
+Polyunsaturated fat: 0.621 g
+Cholesterol: 88 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 328 mg
+Calcium: 19 mg
+Iron: 1.69 mg
+Magnesium: 22 mg
+Zinc: 4.75 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.553 mg
+Vitamin B12: 1.56 µg
+Folate: 8 µg

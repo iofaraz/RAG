@@ -1,0 +1,36 @@
+Food: Ravioli, cheese and spinach-filled, no sauce
+Food ID: 2708772
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 6.62 g
+Carbohydrates: 20.83 g
+Fat: 4.51 g
+Fiber: 1 g
+Sugar: 0.26 g
+
+Fats:
+Saturated fat: 1.983 g
+Monounsaturated fat: 1.254 g
+Polyunsaturated fat: 0.529 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 528 mg
+Potassium: 185 mg
+Calcium: 75 mg
+Iron: 1.86 mg
+Magnesium: 31 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin C: 4.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.77 mg
+Vitamin K: 100 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.22 µg
+Folate: 54 µg

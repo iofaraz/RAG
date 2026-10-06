@@ -1,0 +1,36 @@
+Food: Soup, beef broth or bouillon canned, ready-to-serve
+Food ID: 171538
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 7 kcal
+Protein: 1.14 g
+Carbohydrates: 0.04 g
+Fat: 0.22 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.11 g
+Monounsaturated fat: 0.09 g
+Polyunsaturated fat: 0.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 54 mg
+Calcium: 6 mg
+Iron: 0.17 mg
+Magnesium: 2 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.07 µg
+Folate: 2 µg

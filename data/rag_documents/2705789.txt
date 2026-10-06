@@ -1,0 +1,36 @@
+Food: Topping from meat pizza
+Food ID: 2705789
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 321 kcal
+Protein: 19.19 g
+Carbohydrates: 5.65 g
+Fat: 24.52 g
+Fiber: 0.7 g
+Sugar: 3.2 g
+
+Fats:
+Saturated fat: 10.647 g
+Monounsaturated fat: 8.921 g
+Polyunsaturated fat: 2.698 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 934 mg
+Potassium: 302 mg
+Calcium: 314 mg
+Iron: 0.97 mg
+Magnesium: 27 mg
+Zinc: 2.74 mg
+
+Vitamins:
+Vitamin A: 105 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.49 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.244 mg
+Vitamin B12: 0.89 µg
+Folate: 14 µg

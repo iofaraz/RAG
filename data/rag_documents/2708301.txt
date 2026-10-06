@@ -1,0 +1,36 @@
+Food: Pancakes, chocolate, fast food / restaurant
+Food ID: 2708301
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 360 kcal
+Protein: 7.46 g
+Carbohydrates: 40.02 g
+Fat: 18.68 g
+Fiber: 2.4 g
+Sugar: 15.66 g
+
+Fats:
+Saturated fat: 6.437 g
+Monounsaturated fat: 6.216 g
+Polyunsaturated fat: 4.329 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 470 mg
+Potassium: 213 mg
+Calcium: 203 mg
+Iron: 1.63 mg
+Magnesium: 28 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 2.16 mg
+Vitamin K: 11.1 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.46 µg
+Folate: 39 µg

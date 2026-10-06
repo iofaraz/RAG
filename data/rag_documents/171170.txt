@@ -1,0 +1,32 @@
+Food: Gravy, mushroom, canned
+Food ID: 171170
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.26 g
+Carbohydrates: 5.47 g
+Fat: 2.71 g
+Fiber: 0.4 g
+
+Fats:
+Saturated fat: 0.4 g
+Monounsaturated fat: 1.17 g
+Polyunsaturated fat: 1.02 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 570 mg
+Potassium: 106 mg
+Calcium: 7 mg
+Iron: 0.66 mg
+Magnesium: 2 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

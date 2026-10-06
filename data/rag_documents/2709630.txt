@@ -1,0 +1,36 @@
+Food: Spinach and cheese casserole
+Food ID: 2709630
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 130 kcal
+Protein: 7.05 g
+Carbohydrates: 9.86 g
+Fat: 7.59 g
+Fiber: 2.8 g
+Sugar: 1.01 g
+
+Fats:
+Saturated fat: 3.859 g
+Monounsaturated fat: 1.76 g
+Polyunsaturated fat: 0.776 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 311 mg
+Potassium: 247 mg
+Calcium: 235 mg
+Iron: 1.74 mg
+Magnesium: 62 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 427 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.4 µg
+Vitamin E: 2.4 mg
+Vitamin K: 355.2 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0.18 µg
+Folate: 71 µg

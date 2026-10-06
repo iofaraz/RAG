@@ -1,0 +1,36 @@
+Food: Chicken or turkey and noodles with gravy
+Food ID: 2706530
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 140 kcal
+Protein: 6.99 g
+Carbohydrates: 15.23 g
+Fat: 5.67 g
+Fiber: 0.7 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 1.045 g
+Monounsaturated fat: 2.219 g
+Polyunsaturated fat: 1.612 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 79 mg
+Calcium: 12 mg
+Iron: 0.94 mg
+Magnesium: 16 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.7 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.11 µg
+Folate: 47 µg

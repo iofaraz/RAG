@@ -1,0 +1,36 @@
+Food: Pork, fresh, shoulder, blade, boston (roasts), separable lean only, cooked, roasted
+Food ID: 167852
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 232 kcal
+Protein: 24.21 g
+Carbohydrates: 0 g
+Fat: 14.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.19 g
+Monounsaturated fat: 6.34 g
+Polyunsaturated fat: 1.29 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 88 mg
+Potassium: 427 mg
+Calcium: 27 mg
+Iron: 1.56 mg
+Magnesium: 26 mg
+Zinc: 4.23 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1 mg
+Vitamin D: 1 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.437 mg
+Vitamin B12: 1.16 µg
+Folate: 8 µg

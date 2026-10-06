@@ -1,0 +1,20 @@
+Food: Yogurt, Greek, 2%fat, coconut blend, CHOBANI
+Food ID: 171260
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 8.11 g
+Carbohydrates: 11.04 g
+Fat: 1.71 g
+Fiber: 0.5 g
+
+Minerals:
+Sodium: 33 mg
+Calcium: 93 mg
+Iron: 0.03 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0.6 mg

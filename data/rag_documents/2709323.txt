@@ -1,0 +1,36 @@
+Food: Blueberry juice
+Food ID: 2709323
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 0.46 g
+Carbohydrates: 9.47 g
+Fat: 0.2 g
+Fiber: 1.6 g
+Sugar: 6.08 g
+
+Fats:
+Saturated fat: 0.018 g
+Monounsaturated fat: 0.031 g
+Polyunsaturated fat: 0.095 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 56 mg
+Calcium: 9 mg
+Iron: 0.22 mg
+Magnesium: 4 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 5.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.37 mg
+Vitamin K: 12.5 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

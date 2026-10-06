@@ -1,0 +1,37 @@
+Food: Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine
+Food ID: 175099
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 2 kcal
+Protein: 0.11 g
+Carbohydrates: 0.29 g
+Fat: 0.03 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 8 mg
+Calcium: 3 mg
+Iron: 0.11 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

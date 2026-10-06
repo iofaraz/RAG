@@ -1,0 +1,36 @@
+Food: Flounder with crab stuffing
+Food ID: 2706562
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 15.07 g
+Carbohydrates: 5.73 g
+Fat: 5.52 g
+Fiber: 0.3 g
+Sugar: 0.85 g
+
+Fats:
+Saturated fat: 1.209 g
+Monounsaturated fat: 2.125 g
+Polyunsaturated fat: 1.519 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 427 mg
+Potassium: 210 mg
+Calcium: 64 mg
+Iron: 0.72 mg
+Magnesium: 26 mg
+Zinc: 1.18 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 1.8 mg
+Vitamin D: 2.5 µg
+Vitamin E: 1.27 mg
+Vitamin K: 14.5 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 1.51 µg
+Folate: 26 µg

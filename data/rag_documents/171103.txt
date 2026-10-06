@@ -1,0 +1,31 @@
+Food: Turkey sticks, breaded, battered, fried
+Food ID: 171103
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 279 kcal
+Protein: 14.2 g
+Carbohydrates: 17 g
+Fat: 16.9 g
+
+Fats:
+Saturated fat: 4.38 g
+Monounsaturated fat: 6.92 g
+Polyunsaturated fat: 4.39 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 838 mg
+Potassium: 260 mg
+Calcium: 14 mg
+Iron: 2.2 mg
+Magnesium: 15 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.2 mg
+Vitamin B12: 0.23 µg
+Folate: 29 µg

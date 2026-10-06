@@ -1,0 +1,33 @@
+Food: Tempeh
+Food ID: 174272
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 20.29 g
+Carbohydrates: 7.64 g
+Fat: 10.8 g
+
+Fats:
+Saturated fat: 2.539 g
+Monounsaturated fat: 3.205 g
+Polyunsaturated fat: 4.3 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 412 mg
+Calcium: 111 mg
+Iron: 2.7 mg
+Magnesium: 81 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.215 mg
+Vitamin B12: 0.08 µg
+Folate: 24 µg

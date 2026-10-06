@@ -1,0 +1,37 @@
+Food: Pork, fresh, variety meats and by-products, chitterlings, cooked, simmered
+Food ID: 167856
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 233 kcal
+Protein: 12.49 g
+Carbohydrates: 0 g
+Fat: 20.32 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.52 g
+Monounsaturated fat: 7.073 g
+Polyunsaturated fat: 1.217 g
+Trans fat: 0 g
+Cholesterol: 277 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 14 mg
+Calcium: 25 mg
+Iron: 1.47 mg
+Magnesium: 9 mg
+Zinc: 1.85 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.42 µg
+Folate: 1 µg

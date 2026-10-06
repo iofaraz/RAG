@@ -1,0 +1,37 @@
+Food: Tomato products, canned, sauce, with onions, green peppers, and celery
+Food ID: 170462
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 0.94 g
+Carbohydrates: 8.77 g
+Fat: 0.74 g
+Fiber: 1.4 g
+Sugar: 7.36 g
+
+Fats:
+Saturated fat: 0.133 g
+Monounsaturated fat: 0.102 g
+Polyunsaturated fat: 0.337 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 368 mg
+Potassium: 398 mg
+Calcium: 13 mg
+Iron: 0.76 mg
+Magnesium: 21 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 13.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.18 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.194 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

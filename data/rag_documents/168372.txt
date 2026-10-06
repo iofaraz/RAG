@@ -1,0 +1,37 @@
+Food: Pork, ground, 84% lean / 16% fat, raw
+Food ID: 168372
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 218 kcal
+Protein: 17.99 g
+Carbohydrates: 0.44 g
+Fat: 16 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.93 g
+Monounsaturated fat: 6.68 g
+Polyunsaturated fat: 2.05 g
+Trans fat: 0.124 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 68 mg
+Potassium: 244 mg
+Calcium: 15 mg
+Iron: 0.88 mg
+Magnesium: 16 mg
+Zinc: 1.91 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.45 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.551 mg
+Vitamin B12: 0.73 µg
+Folate: 2 µg

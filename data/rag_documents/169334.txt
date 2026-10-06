@@ -1,0 +1,30 @@
+Food: Butterbur, cooked, boiled, drained, with salt
+Food ID: 169334
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 8 kcal
+Protein: 0.23 g
+Carbohydrates: 2.16 g
+Fat: 0.02 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 354 mg
+Calcium: 59 mg
+Iron: 0.1 mg
+Magnesium: 8 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 18.9 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

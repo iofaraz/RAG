@@ -1,0 +1,36 @@
+Food: French toast, NFS
+Food ID: 2708331
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 10.36 g
+Carbohydrates: 32.34 g
+Fat: 11.38 g
+Fiber: 1.2 g
+Sugar: 10.08 g
+
+Fats:
+Saturated fat: 3.252 g
+Monounsaturated fat: 3.751 g
+Polyunsaturated fat: 3.173 g
+Cholesterol: 177 mg
+
+Minerals:
+Sodium: 302 mg
+Potassium: 135 mg
+Calcium: 143 mg
+Iron: 2.39 mg
+Magnesium: 20 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 106 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 1.32 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0.41 µg
+Folate: 70 µg

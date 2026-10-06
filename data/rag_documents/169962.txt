@@ -1,0 +1,37 @@
+Food: Beans, snap, green, frozen, all styles, unprepared (Includes foods for USDA's Food Distribution Program)
+Food ID: 169962
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 1.79 g
+Carbohydrates: 7.54 g
+Fat: 0.21 g
+Fiber: 2.6 g
+Sugar: 2.21 g
+
+Fats:
+Saturated fat: 0.047 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.108 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 186 mg
+Calcium: 42 mg
+Iron: 0.85 mg
+Magnesium: 22 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 12.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 44.8 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

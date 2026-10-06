@@ -1,0 +1,36 @@
+Food: Stewed dried beef, Puerto Rican style
+Food ID: 2706397
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 17.69 g
+Carbohydrates: 3.91 g
+Fat: 19.13 g
+Fiber: 0.8 g
+Sugar: 2.54 g
+
+Fats:
+Saturated fat: 3.356 g
+Monounsaturated fat: 7.271 g
+Polyunsaturated fat: 7.334 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 1770 mg
+Potassium: 218 mg
+Calcium: 20 mg
+Iron: 1.62 mg
+Magnesium: 16 mg
+Zinc: 2.79 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 7.5 mg
+Vitamin D: 0 µg
+Vitamin E: 4.26 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.156 mg
+Vitamin B12: 0.65 µg
+Folate: 8 µg

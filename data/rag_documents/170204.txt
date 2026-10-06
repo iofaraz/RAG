@@ -1,0 +1,36 @@
+Food: Beef, cured, pastrami
+Food ID: 170204
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 21.8 g
+Carbohydrates: 0.36 g
+Fat: 5.82 g
+Fiber: 0 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 2.681 g
+Monounsaturated fat: 2.118 g
+Polyunsaturated fat: 0.145 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 1078 mg
+Potassium: 210 mg
+Calcium: 10 mg
+Iron: 2.22 mg
+Magnesium: 17 mg
+Zinc: 4.98 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.221 mg
+Vitamin B12: 1.87 µg
+Folate: 6 µg

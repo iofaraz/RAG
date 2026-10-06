@@ -1,0 +1,35 @@
+Food: DENNY'S, macaroni & cheese, from kid's menu
+Food ID: 168078
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 5.19 g
+Carbohydrates: 21.16 g
+Fat: 4.92 g
+Fiber: 1.2 g
+Sugar: 4.2 g
+
+Fats:
+Saturated fat: 1.384 g
+Monounsaturated fat: 2.046 g
+Polyunsaturated fat: 1.01 g
+Trans fat: 0.07 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 300 mg
+Potassium: 165 mg
+Calcium: 83 mg
+Iron: 0.79 mg
+Magnesium: 23 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin E: 0.53 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.19 µg
+Folate: 36 µg

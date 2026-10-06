@@ -1,0 +1,32 @@
+Food: Babyfood, dessert, fruit pudding, orange, strained
+Food ID: 171374
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 80 kcal
+Protein: 1.1 g
+Carbohydrates: 17.7 g
+Fat: 0.9 g
+Fiber: 0.6 g
+
+Fats:
+Saturated fat: 0.545 g
+Monounsaturated fat: 0.257 g
+Polyunsaturated fat: 0.038 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 86 mg
+Calcium: 32 mg
+Iron: 0.1 mg
+Magnesium: 5 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 9.1 mg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.01 µg
+Folate: 8 µg

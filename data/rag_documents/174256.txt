@@ -1,0 +1,37 @@
+Food: Mung beans, mature seeds, raw
+Food ID: 174256
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 347 kcal
+Protein: 23.86 g
+Carbohydrates: 62.62 g
+Fat: 1.15 g
+Fiber: 16.3 g
+Sugar: 6.6 g
+
+Fats:
+Saturated fat: 0.348 g
+Monounsaturated fat: 0.161 g
+Polyunsaturated fat: 0.384 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 1246 mg
+Calcium: 132 mg
+Iron: 6.74 mg
+Magnesium: 189 mg
+Zinc: 2.68 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 9 µg
+Vitamin B6: 0.382 mg
+Vitamin B12: 0 µg
+Folate: 625 µg

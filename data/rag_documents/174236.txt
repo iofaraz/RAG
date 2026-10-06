@@ -1,0 +1,32 @@
+Food: Fish, mackerel, king, cooked, dry heat
+Food ID: 174236
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 26 g
+Carbohydrates: 0 g
+Fat: 2.56 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.465 g
+Monounsaturated fat: 0.979 g
+Polyunsaturated fat: 0.589 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 203 mg
+Potassium: 558 mg
+Calcium: 40 mg
+Iron: 2.28 mg
+Magnesium: 41 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 252 µg
+Vitamin C: 1.6 mg
+Vitamin B6: 0.51 mg
+Vitamin B12: 18 µg
+Folate: 9 µg

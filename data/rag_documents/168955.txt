@@ -1,0 +1,37 @@
+Food: Pasta mix, Italian lasagna, unprepared
+Food ID: 168955
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 356 kcal
+Protein: 10.9 g
+Carbohydrates: 73.77 g
+Fat: 1.97 g
+Fiber: 2.8 g
+Sugar: 11.27 g
+
+Fats:
+Saturated fat: 0.443 g
+Monounsaturated fat: 0.423 g
+Polyunsaturated fat: 0.415 g
+Trans fat: 0.089 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 1850 mg
+Potassium: 277 mg
+Calcium: 52 mg
+Iron: 2.87 mg
+Magnesium: 37 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 12.9 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0.19 µg
+Folate: 113 µg

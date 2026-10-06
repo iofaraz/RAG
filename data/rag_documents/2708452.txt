@@ -1,0 +1,36 @@
+Food: Cereal, corn squares
+Food ID: 2708452
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 369 kcal
+Protein: 7.88 g
+Carbohydrates: 77.14 g
+Fat: 2.61 g
+Fiber: 5.4 g
+Sugar: 10.44 g
+
+Fats:
+Saturated fat: 0.264 g
+Monounsaturated fat: 0.979 g
+Polyunsaturated fat: 0.998 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 729 mg
+Potassium: 124 mg
+Calcium: 330 mg
+Iron: 28.47 mg
+Magnesium: 28 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 23.2 mg
+Vitamin D: 5 µg
+Vitamin E: 0.28 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.801 mg
+Vitamin B12: 0.91 µg
+Folate: 150 µg

@@ -1,0 +1,36 @@
+Food: Sushi roll, shrimp
+Food ID: 2708964
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 7.01 g
+Carbohydrates: 15.67 g
+Fat: 0.55 g
+Fiber: 0.7 g
+Sugar: 0.92 g
+
+Fats:
+Saturated fat: 0.154 g
+Monounsaturated fat: 0.136 g
+Polyunsaturated fat: 0.192 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 358 mg
+Potassium: 53 mg
+Calcium: 25 mg
+Iron: 0.2 mg
+Magnesium: 13 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.58 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.4 µg
+Folate: 8 µg

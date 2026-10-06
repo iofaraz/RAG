@@ -1,0 +1,22 @@
+Food: Pepperidge Farm, Goldfish, Baked Snack Crackers, Explosive Pizza
+Food ID: 168006
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 458 kcal
+Protein: 9.56 g
+Carbohydrates: 67.2 g
+Fat: 16.82 g
+Sugar: 2.4 g
+
+Minerals:
+Sodium: 868 mg
+Potassium: 296 mg
+Calcium: 47 mg
+Iron: 4.43 mg
+Magnesium: 26 mg
+Zinc: 0.81 mg
+
+Vitamins:
+Vitamin B6: 0.13 mg

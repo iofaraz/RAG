@@ -1,0 +1,32 @@
+Food: Almond milk, unsweetened, plain, shelf stable
+Food ID: 1999631
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.554688 g
+Carbohydrates: 0.337112 g
+Fat: 1.221 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.1038 g
+Monounsaturated fat: 0.7288 g
+Polyunsaturated fat: 0.2763 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 59.58 mg
+Potassium: 30.79 mg
+Calcium: 172.7 mg
+Iron: 0.2899 mg
+Magnesium: 6.785 mg
+Zinc: 0.1718 mg
+
+Vitamins:
+Vitamin A: 41.4 µg
+Vitamin D: 0.927 µg
+Vitamin E: 3.323 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0.3375 µg
+Folate: 0 µg

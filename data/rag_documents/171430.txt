@@ -1,0 +1,37 @@
+Food: Oil, PAM cooking spray, original
+Food ID: 171430
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 792 kcal
+Protein: 0.26 g
+Carbohydrates: 20.69 g
+Fat: 78.69 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.025 g
+Monounsaturated fat: 49.792 g
+Polyunsaturated fat: 22.145 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 0 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

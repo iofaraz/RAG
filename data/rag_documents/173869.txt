@@ -1,0 +1,32 @@
+Food: Liver cheese, pork
+Food ID: 173869
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 304 kcal
+Protein: 15.2 g
+Carbohydrates: 2.1 g
+Fat: 25.6 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 8.96 g
+Monounsaturated fat: 12.26 g
+Polyunsaturated fat: 3.42 g
+Cholesterol: 174 mg
+
+Minerals:
+Sodium: 1225 mg
+Potassium: 226 mg
+Calcium: 8 mg
+Iron: 10.83 mg
+Magnesium: 12 mg
+Zinc: 3.7 mg
+
+Vitamins:
+Vitamin A: 5252 µg
+Vitamin C: 3 mg
+Vitamin B6: 0.47 mg
+Vitamin B12: 24.55 µg
+Folate: 104 µg

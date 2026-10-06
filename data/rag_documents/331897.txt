@@ -1,0 +1,32 @@
+Food: Chicken, broilers or fryers, drumstick, meat only, cooked, braised
+Food ID: 331897
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 156 kcal
+Protein: 23.9 g
+Carbohydrates: 0 g
+Fat: 5.95 g
+
+Fats:
+Saturated fat: 1.6 g
+Monounsaturated fat: 2.35 g
+Polyunsaturated fat: 1.24 g
+Trans fat: 0.03 g
+Cholesterol: 127 mg
+
+Minerals:
+Sodium: 117 mg
+Potassium: 239 mg
+Calcium: 12 mg
+Iron: 0.94 mg
+Magnesium: 22.4 mg
+Zinc: 2.54 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin D: 0.1 µg
+Vitamin E: 0.17 mg
+Vitamin B6: 0.372 mg
+Vitamin B12: 0.41 µg

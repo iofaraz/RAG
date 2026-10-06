@@ -1,0 +1,34 @@
+Food: Cookies, chocolate chip, refrigerated dough
+Food ID: 174953
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 451 kcal
+Protein: 3.98 g
+Carbohydrates: 61.02 g
+Fat: 21.33 g
+Fiber: 1.5 g
+Sugar: 38.04 g
+
+Fats:
+Saturated fat: 8.39 g
+Monounsaturated fat: 10.414 g
+Polyunsaturated fat: 2.172 g
+Trans fat: 2.47 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 321 mg
+Potassium: 180 mg
+Calcium: 14 mg
+Iron: 2 mg
+Magnesium: 24 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.08 µg
+Folate: 57 µg

@@ -1,0 +1,33 @@
+Food: Puddings, banana, dry mix, regular, prepared with 2% milk
+Food ID: 167589
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 2.9 g
+Carbohydrates: 18.43 g
+Fat: 1.73 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.015 g
+Monounsaturated fat: 0.462 g
+Polyunsaturated fat: 0.088 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 164 mg
+Potassium: 137 mg
+Calcium: 109 mg
+Iron: 0.05 mg
+Magnesium: 13 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.9 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.25 µg
+Folate: 4 µg

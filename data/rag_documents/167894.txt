@@ -1,0 +1,33 @@
+Food: Pork, fresh, loin, center rib (roasts), boneless, separable lean only, cooked, roasted
+Food ID: 167894
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 28.81 g
+Carbohydrates: 0 g
+Fat: 10.13 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.54 g
+Monounsaturated fat: 4.49 g
+Polyunsaturated fat: 0.85 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 363 mg
+Calcium: 6 mg
+Iron: 1 mg
+Magnesium: 24 mg
+Zinc: 2.83 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.7 µg
+Vitamin B6: 0.4 mg
+Vitamin B12: 0.55 µg
+Folate: 9 µg

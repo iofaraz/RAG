@@ -1,0 +1,36 @@
+Food: Pupusa, cheese only
+Food ID: 2708608
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 256 kcal
+Protein: 11.72 g
+Carbohydrates: 22.39 g
+Fat: 13.25 g
+Fiber: 2.9 g
+Sugar: 1.2 g
+
+Fats:
+Saturated fat: 6.479 g
+Monounsaturated fat: 3.411 g
+Polyunsaturated fat: 1.555 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 120 mg
+Calcium: 325 mg
+Iron: 0.56 mg
+Magnesium: 36 mg
+Zinc: 1.87 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.44 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.149 mg
+Vitamin B12: 0.45 µg
+Folate: 3 µg

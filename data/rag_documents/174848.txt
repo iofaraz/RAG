@@ -1,0 +1,13 @@
+Food: Alcoholic beverage, wine, table, white, Pinot Blanc
+Food ID: 174848
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 0.07 g
+Carbohydrates: 1.94 g
+Fat: 0 g
+
+Fats:
+Trans fat: 0 g

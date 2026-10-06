@@ -1,0 +1,36 @@
+Food: Chicken, NS as to part, rotisserie, NS as to skin eaten
+Food ID: 2705935
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 164 kcal
+Protein: 26.79 g
+Carbohydrates: 0 g
+Fat: 6.36 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.579 g
+Monounsaturated fat: 2.706 g
+Polyunsaturated fat: 0.937 g
+Cholesterol: 112 mg
+
+Minerals:
+Sodium: 345 mg
+Potassium: 279 mg
+Calcium: 14 mg
+Iron: 0.73 mg
+Magnesium: 23 mg
+Zinc: 1.61 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.247 mg
+Vitamin B12: 0.36 µg
+Folate: 10 µg

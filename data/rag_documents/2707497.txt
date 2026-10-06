@@ -1,0 +1,36 @@
+Food: Cashews, unsalted
+Food ID: 2707497
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 584 kcal
+Protein: 14.85 g
+Carbohydrates: 31.71 g
+Fat: 47.96 g
+Fiber: 2.9 g
+Sugar: 4.86 g
+
+Fats:
+Saturated fat: 9.283 g
+Monounsaturated fat: 27.769 g
+Polyunsaturated fat: 8.753 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 548 mg
+Calcium: 44 mg
+Iron: 5.82 mg
+Magnesium: 252 mg
+Zinc: 5.43 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.46 mg
+Vitamin K: 36.7 µg
+Vitamin B6: 0.248 mg
+Vitamin B12: 0 µg
+Folate: 67 µg

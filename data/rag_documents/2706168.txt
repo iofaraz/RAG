@@ -1,0 +1,36 @@
+Food: Hot dog, meat and poultry
+Food ID: 2706168
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 9.72 g
+Carbohydrates: 5.02 g
+Fat: 24.18 g
+Fiber: 0 g
+Sugar: 2.75 g
+
+Fats:
+Saturated fat: 7.583 g
+Monounsaturated fat: 9.929 g
+Polyunsaturated fat: 5.386 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 828 mg
+Potassium: 341 mg
+Calcium: 106 mg
+Iron: 1.04 mg
+Magnesium: 10 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 18 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.44 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.6 µg
+Folate: 5 µg

@@ -1,0 +1,23 @@
+Food: Sweeteners, sugar substitute, granulated, brown
+Food ID: 170675
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 347 kcal
+Protein: 2.06 g
+Carbohydrates: 84.77 g
+Fat: 0 g
+Fiber: 0.6 g
+Sugar: 4.03 g
+
+Minerals:
+Sodium: 572 mg
+Potassium: 39 mg
+Calcium: 879 mg
+Iron: 0.16 mg
+Magnesium: 6 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin B6: 0.015 mg

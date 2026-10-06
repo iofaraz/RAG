@@ -1,0 +1,37 @@
+Food: Fast foods, onion rings, breaded and fried
+Food ID: 170697
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 411 kcal
+Protein: 3.86 g
+Carbohydrates: 43.58 g
+Fat: 25.23 g
+Fiber: 2.7 g
+Sugar: 5.43 g
+
+Fats:
+Saturated fat: 4.194 g
+Monounsaturated fat: 6.885 g
+Polyunsaturated fat: 12.149 g
+Trans fat: 0.164 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 776 mg
+Potassium: 167 mg
+Calcium: 115 mg
+Iron: 0.78 mg
+Magnesium: 19 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 4.92 mg
+Vitamin K: 55.8 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

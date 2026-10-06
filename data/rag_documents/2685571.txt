@@ -1,0 +1,22 @@
+Food: Squash, winter, acorn, raw
+Food ID: 2685571
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.25 g
+Carbohydrates: 10.48 g
+Fat: 0.1825 g
+Fiber: 2.635 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 332.1 mg
+Calcium: 24.82 mg
+Iron: 0.3078 mg
+Magnesium: 23.75 mg
+Zinc: 0.2935 mg
+
+Vitamins:
+Vitamin C: 7 mg
+Folate: 50 µg

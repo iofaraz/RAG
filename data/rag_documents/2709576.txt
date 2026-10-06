@@ -1,0 +1,36 @@
+Food: Collards, raw
+Food ID: 2709576
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 3.02 g
+Carbohydrates: 5.42 g
+Fat: 0.61 g
+Fiber: 4 g
+Sugar: 0.46 g
+
+Fats:
+Saturated fat: 0.055 g
+Monounsaturated fat: 0.03 g
+Polyunsaturated fat: 0.201 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 213 mg
+Calcium: 232 mg
+Iron: 0.47 mg
+Magnesium: 27 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 251 µg
+Vitamin C: 35.3 mg
+Vitamin D: 0 µg
+Vitamin E: 2.26 mg
+Vitamin K: 437.1 µg
+Vitamin B6: 0.165 mg
+Vitamin B12: 0 µg
+Folate: 129 µg

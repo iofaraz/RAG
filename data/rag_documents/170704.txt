@@ -1,0 +1,32 @@
+Food: School Lunch, pizza, TONY'S Breakfast Pizza Sausage, frozen
+Food ID: 170704
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 10.39 g
+Carbohydrates: 26.99 g
+Fat: 10.04 g
+Fiber: 2 g
+Sugar: 5.87 g
+
+Fats:
+Saturated fat: 3.47 g
+Monounsaturated fat: 2.47 g
+Polyunsaturated fat: 2.98 g
+Trans fat: 0.17 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 600 mg
+Potassium: 229 mg
+Calcium: 176 mg
+Iron: 2.1 mg
+Magnesium: 28 mg
+Zinc: 1.94 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.097 mg
+Vitamin B12: 1.03 µg

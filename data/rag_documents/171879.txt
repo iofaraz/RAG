@@ -1,0 +1,34 @@
+Food: Beverages, chocolate-flavor beverage mix, powder, prepared with whole milk
+Food ID: 171879
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 3.23 g
+Carbohydrates: 11.96 g
+Fat: 3.24 g
+Fiber: 0.4 g
+
+Fats:
+Saturated fat: 1.86 g
+Monounsaturated fat: 0.829 g
+Polyunsaturated fat: 0.186 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 172 mg
+Calcium: 95 mg
+Iron: 0.3 mg
+Magnesium: 18 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0.1 mg
+Vitamin E: 0.06 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.4 µg
+Folate: 5 µg

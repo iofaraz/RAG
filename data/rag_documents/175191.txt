@@ -1,0 +1,34 @@
+Food: Beans, great northern, mature seeds, cooked, boiled, without salt
+Food ID: 175191
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 8.33 g
+Carbohydrates: 21.09 g
+Fat: 0.45 g
+Fiber: 7 g
+
+Fats:
+Saturated fat: 0.14 g
+Monounsaturated fat: 0.021 g
+Polyunsaturated fat: 0.187 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 391 mg
+Calcium: 68 mg
+Iron: 2.13 mg
+Magnesium: 50 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0 µg
+Folate: 102 µg

@@ -1,0 +1,36 @@
+Food: Cobbler, apple
+Food ID: 2708019
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 2.05 g
+Carbohydrates: 33.56 g
+Fat: 8.66 g
+Fiber: 1.6 g
+Sugar: 16.87 g
+
+Fats:
+Saturated fat: 2.785 g
+Monounsaturated fat: 4.066 g
+Polyunsaturated fat: 1.078 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 180 mg
+Potassium: 79 mg
+Calcium: 9 mg
+Iron: 0.98 mg
+Magnesium: 7 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

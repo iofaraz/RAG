@@ -1,0 +1,36 @@
+Food: Fruit salad, excluding citrus fruits, with whipped cream
+Food ID: 2709297
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 164 kcal
+Protein: 1.99 g
+Carbohydrates: 15.25 g
+Fat: 10.62 g
+Fiber: 1.6 g
+Sugar: 11.14 g
+
+Fats:
+Saturated fat: 3 g
+Monounsaturated fat: 1.742 g
+Polyunsaturated fat: 4.632 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 206 mg
+Calcium: 22 mg
+Iron: 0.26 mg
+Magnesium: 25 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 18.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.26 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.156 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

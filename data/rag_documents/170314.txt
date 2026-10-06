@@ -1,0 +1,35 @@
+Food: SUBWAY, oven roasted chicken sub on white bread with lettuce and tomato
+Food ID: 170314
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 10.84 g
+Carbohydrates: 21.35 g
+Fat: 3.15 g
+Fiber: 1.2 g
+Sugar: 2.99 g
+
+Fats:
+Saturated fat: 0.724 g
+Monounsaturated fat: 0.932 g
+Polyunsaturated fat: 0.952 g
+Trans fat: 0.015 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 268 mg
+Potassium: 198 mg
+Calcium: 154 mg
+Iron: 1.72 mg
+Magnesium: 22 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 1.2 mg
+Vitamin E: 0.42 mg
+Vitamin B6: 0.259 mg
+Vitamin B12: 0.08 µg
+Folate: 68 µg

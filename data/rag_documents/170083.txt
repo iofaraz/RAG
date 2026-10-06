@@ -1,0 +1,37 @@
+Food: Sweet potato, canned, syrup pack, solids and liquids
+Food ID: 170083
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 0.98 g
+Carbohydrates: 20.93 g
+Fat: 0.2 g
+Fiber: 2.5 g
+Sugar: 15.4 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.084 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 29 mg
+Potassium: 185 mg
+Calcium: 15 mg
+Iron: 0.8 mg
+Magnesium: 13 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 377 µg
+Vitamin C: 10.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.94 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

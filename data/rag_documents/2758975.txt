@@ -1,0 +1,19 @@
+Food: Rhubarb, stalk, raw
+Food ID: 2758975
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 1.428 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 265.3 mg
+Calcium: 32.93 mg
+Iron: 0 mg
+Magnesium: 12.7 mg
+Zinc: 0.1767 mg
+
+Vitamins:
+Vitamin C: 6.931 mg
+Vitamin B6: 0.04488 mg

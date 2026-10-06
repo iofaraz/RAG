@@ -1,0 +1,17 @@
+Food: Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed
+Food ID: 2644291
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 4.73438 g
+Carbohydrates: 12.7076 g
+Fat: 1.153 g
+
+Minerals:
+Sodium: 207.4 mg
+Potassium: 109.2 mg
+Calcium: 28.21 mg
+Iron: 1.139 mg
+Magnesium: 21.91 mg
+Zinc: 0.712 mg

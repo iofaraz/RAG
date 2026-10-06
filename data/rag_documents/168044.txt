@@ -1,0 +1,35 @@
+Food: Stew, mutton, corn, squash (Navajo)
+Food ID: 168044
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 8.62 g
+Carbohydrates: 7.27 g
+Fat: 4.34 g
+Fiber: 1.7 g
+Sugar: 0.61 g
+
+Fats:
+Saturated fat: 1.735 g
+Monounsaturated fat: 1.748 g
+Polyunsaturated fat: 0.383 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 199 mg
+Calcium: 38 mg
+Iron: 1.21 mg
+Magnesium: 21 mg
+Zinc: 1.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.37 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 1.16 µg
+Folate: 18 µg

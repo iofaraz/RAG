@@ -1,0 +1,35 @@
+Food: Pie crust, standard-type, prepared from recipe, baked
+Food ID: 175026
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 527 kcal
+Protein: 6.4 g
+Carbohydrates: 47.5 g
+Fat: 34.6 g
+Fiber: 1.7 g
+Sugar: 0.17 g
+
+Fats:
+Saturated fat: 8.622 g
+Monounsaturated fat: 15.169 g
+Polyunsaturated fat: 9.122 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 542 mg
+Potassium: 67 mg
+Calcium: 10 mg
+Iron: 2.89 mg
+Magnesium: 14 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.31 mg
+Vitamin K: 14.8 µg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0 µg
+Folate: 67 µg

@@ -1,0 +1,36 @@
+Food: Fish, salmon, baked or broiled, coated
+Food ID: 2706288
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 22.7 g
+Carbohydrates: 7.79 g
+Fat: 16.58 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 3.869 g
+Monounsaturated fat: 4.994 g
+Polyunsaturated fat: 4.665 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 398 mg
+Calcium: 19 mg
+Iron: 0.95 mg
+Magnesium: 32 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 2.5 mg
+Vitamin D: 11.6 µg
+Vitamin E: 3.6 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.631 mg
+Vitamin B12: 3.28 µg
+Folate: 36 µg

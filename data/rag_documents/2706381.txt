@@ -1,0 +1,36 @@
+Food: Beef with cream or white sauce
+Food ID: 2706381
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 22.5 g
+Carbohydrates: 2.75 g
+Fat: 9.31 g
+Fiber: 0 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 3.773 g
+Monounsaturated fat: 3.437 g
+Polyunsaturated fat: 0.664 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 340 mg
+Potassium: 222 mg
+Calcium: 41 mg
+Iron: 1.86 mg
+Magnesium: 18 mg
+Zinc: 3.75 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.54 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.333 mg
+Vitamin B12: 1.32 µg
+Folate: 9 µg

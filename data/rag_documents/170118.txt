@@ -1,0 +1,34 @@
+Food: Potatoes, french fried, all types, salt not added in processing, frozen, oven-heated
+Food ID: 170118
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 168 kcal
+Protein: 2.66 g
+Carbohydrates: 28.71 g
+Fat: 5.22 g
+Fiber: 2.6 g
+Sugar: 0.28 g
+
+Fats:
+Saturated fat: 1.029 g
+Monounsaturated fat: 3.237 g
+Polyunsaturated fat: 0.321 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 32 mg
+Potassium: 451 mg
+Calcium: 12 mg
+Iron: 0.74 mg
+Magnesium: 26 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin C: 13.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.184 mg
+Folate: 28 µg

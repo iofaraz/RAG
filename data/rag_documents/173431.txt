@@ -1,0 +1,36 @@
+Food: Cheese, parmesan, shredded
+Food ID: 173431
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 415 kcal
+Protein: 37.86 g
+Carbohydrates: 3.41 g
+Fat: 27.34 g
+Fiber: 0 g
+Sugar: 0.9 g
+
+Fats:
+Saturated fat: 17.37 g
+Monounsaturated fat: 8.734 g
+Polyunsaturated fat: 0.661 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 1696 mg
+Potassium: 97 mg
+Calcium: 1253 mg
+Iron: 0.87 mg
+Magnesium: 51 mg
+Zinc: 3.19 mg
+
+Vitamins:
+Vitamin A: 229 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.25 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 1.4 µg
+Folate: 8 µg

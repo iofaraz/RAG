@@ -1,0 +1,36 @@
+Food: Spaghetti sauce with poultry and added vegetables
+Food ID: 2706423
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 6.39 g
+Carbohydrates: 6.05 g
+Fat: 2.39 g
+Fiber: 1.4 g
+Sugar: 4.03 g
+
+Fats:
+Saturated fat: 0.476 g
+Monounsaturated fat: 0.722 g
+Polyunsaturated fat: 0.712 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 331 mg
+Potassium: 312 mg
+Calcium: 23 mg
+Iron: 0.75 mg
+Magnesium: 19 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 9.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.63 mg
+Vitamin K: 9.4 µg
+Vitamin B6: 0.216 mg
+Vitamin B12: 0.2 µg
+Folate: 15 µg

@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, brain, cooked, pan-fried
+Food ID: 174350
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 16.97 g
+Carbohydrates: 0 g
+Fat: 22.19 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 5.67 g
+Monounsaturated fat: 4.02 g
+Polyunsaturated fat: 2.28 g
+Cholesterol: 2504 mg
+
+Minerals:
+Sodium: 157 mg
+Potassium: 358 mg
+Calcium: 21 mg
+Iron: 2.04 mg
+Magnesium: 22 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 23 mg
+Vitamin B6: 0.23 mg
+Vitamin B12: 24.1 µg
+Folate: 7 µg

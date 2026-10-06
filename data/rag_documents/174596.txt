@@ -1,0 +1,33 @@
+Food: Liverwurst spread
+Food ID: 174596
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 305 kcal
+Protein: 12.38 g
+Carbohydrates: 5.89 g
+Fat: 25.45 g
+Fiber: 2.5 g
+Sugar: 1.65 g
+
+Fats:
+Saturated fat: 9.925 g
+Monounsaturated fat: 12.286 g
+Polyunsaturated fat: 2.427 g
+Cholesterol: 118 mg
+
+Minerals:
+Sodium: 700 mg
+Potassium: 170 mg
+Calcium: 22 mg
+Iron: 8.85 mg
+Magnesium: 12 mg
+Zinc: 2.3 mg
+
+Vitamins:
+Vitamin A: 4091 µg
+Vitamin C: 3.5 mg
+Vitamin B6: 0.19 mg
+Vitamin B12: 13.46 µg
+Folate: 30 µg

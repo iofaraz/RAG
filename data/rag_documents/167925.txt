@@ -1,0 +1,35 @@
+Food: Crackers, cheese, sandwich-type with cheese filling
+Food ID: 167925
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 490 kcal
+Protein: 8.92 g
+Carbohydrates: 58.76 g
+Fat: 24.41 g
+Fiber: 1.9 g
+Sugar: 12.33 g
+
+Fats:
+Saturated fat: 4.81 g
+Monounsaturated fat: 14.307 g
+Polyunsaturated fat: 2.327 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 878 mg
+Potassium: 295 mg
+Calcium: 89 mg
+Iron: 2.13 mg
+Magnesium: 28 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 2.6 mg
+Vitamin E: 1.99 mg
+Vitamin K: 20.5 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0.8 µg
+Folate: 82 µg

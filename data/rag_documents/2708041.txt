@@ -1,0 +1,36 @@
+Food: Strudel, cherry
+Food ID: 2708041
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 2.22 g
+Carbohydrates: 40.68 g
+Fat: 14.1 g
+Fiber: 1 g
+Sugar: 24.84 g
+
+Fats:
+Saturated fat: 7.612 g
+Monounsaturated fat: 2.836 g
+Polyunsaturated fat: 0.51 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 131 mg
+Potassium: 89 mg
+Calcium: 12 mg
+Iron: 0.35 mg
+Magnesium: 9 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 129 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.1 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

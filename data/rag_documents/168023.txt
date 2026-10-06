@@ -1,0 +1,10 @@
+Food: Fish, salmon, tipnuk, fermented (Alaska Native)
+Food ID: 168023
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 15.9 g
+Carbohydrates: 0 g
+Fat: 10.6 g

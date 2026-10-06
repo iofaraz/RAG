@@ -1,0 +1,16 @@
+Food: Snacks, FARLEY CANDY, FARLEY Fruit Snacks, with vitamins A, C, and E
+Food ID: 168811
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 4.4 g
+Carbohydrates: 80.9 g
+Fat: 0 g
+
+Minerals:
+Sodium: 36 mg
+
+Vitamins:
+Vitamin C: 90.3 mg

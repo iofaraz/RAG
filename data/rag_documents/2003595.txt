@@ -1,0 +1,22 @@
+Food: Grapefruit juice, red, not fortified, not from concentrate, refrigerated
+Food ID: 2003595
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.570312 g
+Carbohydrates: 9.10219 g
+Fat: 0.2669 g
+
+Minerals:
+Sodium: 1.031 mg
+Potassium: 128.3 mg
+Calcium: 8.879 mg
+Iron: 0.01529 mg
+Magnesium: 7.748 mg
+Zinc: 0.02739 mg
+
+Vitamins:
+Vitamin C: 24.14 mg
+Vitamin B6: 0.022 mg
+Folate: 19.02 µg

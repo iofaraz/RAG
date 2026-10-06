@@ -1,0 +1,36 @@
+Food: Leavening agents, baking powder, low-sodium
+Food ID: 172805
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 0.1 g
+Carbohydrates: 46.9 g
+Fat: 0.4 g
+Fiber: 2.2 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.073 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.121 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 90 mg
+Potassium: 10100 mg
+Calcium: 4332 mg
+Iron: 8.17 mg
+Magnesium: 29 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

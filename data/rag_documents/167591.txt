@@ -1,0 +1,30 @@
+Food: Crunchmaster, Multi-Grain Crisps, Snack Crackers, Gluten-Free
+Food ID: 167591
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 456 kcal
+Protein: 10.91 g
+Carbohydrates: 67.18 g
+Fat: 15.92 g
+Fiber: 7.5 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 2.069 g
+Monounsaturated fat: 7.004 g
+Polyunsaturated fat: 5.981 g
+Trans fat: 0.018 g
+
+Minerals:
+Sodium: 370 mg
+Potassium: 339 mg
+Calcium: 246 mg
+Iron: 2.68 mg
+Magnesium: 149 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin B6: 0.37 mg
+Folate: 35 µg

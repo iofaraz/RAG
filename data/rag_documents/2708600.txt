@@ -1,0 +1,36 @@
+Food: Taquito, beef or pork
+Food ID: 2708600
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 12.17 g
+Carbohydrates: 31.61 g
+Fat: 12.46 g
+Fiber: 3.3 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 4.218 g
+Monounsaturated fat: 4.18 g
+Polyunsaturated fat: 2.581 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 490 mg
+Potassium: 180 mg
+Calcium: 130 mg
+Iron: 2.19 mg
+Magnesium: 38 mg
+Zinc: 2.27 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.73 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.192 mg
+Vitamin B12: 0.66 µg
+Folate: 36 µg

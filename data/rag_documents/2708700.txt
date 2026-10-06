@@ -1,0 +1,36 @@
+Food: Egg roll, meatless
+Food ID: 2708700
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 5.62 g
+Carbohydrates: 30.02 g
+Fat: 14.14 g
+Fiber: 2.3 g
+Sugar: 5.63 g
+
+Fats:
+Saturated fat: 2.085 g
+Monounsaturated fat: 4.914 g
+Polyunsaturated fat: 6.121 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 463 mg
+Potassium: 210 mg
+Calcium: 47 mg
+Iron: 1.86 mg
+Magnesium: 22 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 6.3 mg
+Vitamin D: 0 µg
+Vitamin E: 2.14 mg
+Vitamin K: 44.8 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0 µg
+Folate: 67 µg

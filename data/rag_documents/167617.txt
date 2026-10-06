@@ -1,0 +1,13 @@
+Food: Duck, scoter, white-winged, meat (Alaska Native)
+Food ID: 167617
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 20.2 g
+Carbohydrates: 0 g
+Fat: 0.4 g
+
+Minerals:
+Calcium: 8 mg

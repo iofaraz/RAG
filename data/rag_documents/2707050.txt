@@ -1,0 +1,36 @@
+Food: Italian sandwich on white
+Food ID: 2707050
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 15.7 g
+Carbohydrates: 18.9 g
+Fat: 18.78 g
+Fiber: 0.8 g
+Sugar: 2.34 g
+
+Fats:
+Saturated fat: 7.512 g
+Monounsaturated fat: 7.347 g
+Polyunsaturated fat: 2.494 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 1010 mg
+Potassium: 242 mg
+Calcium: 199 mg
+Iron: 1.83 mg
+Magnesium: 23 mg
+Zinc: 1.84 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.5 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.247 mg
+Vitamin B12: 0.67 µg
+Folate: 43 µg

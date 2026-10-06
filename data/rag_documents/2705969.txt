@@ -1,0 +1,36 @@
+Food: Chicken breast, grilled with sauce, skin eaten
+Food ID: 2705969
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 21.15 g
+Carbohydrates: 7.34 g
+Fat: 9.15 g
+Fiber: 0.2 g
+Sugar: 5.98 g
+
+Fats:
+Saturated fat: 2.105 g
+Monounsaturated fat: 3.463 g
+Polyunsaturated fat: 2.16 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 454 mg
+Potassium: 280 mg
+Calcium: 12 mg
+Iron: 0.55 mg
+Magnesium: 22 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.573 mg
+Vitamin B12: 0.14 µg
+Folate: 5 µg

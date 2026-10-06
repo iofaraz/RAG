@@ -1,0 +1,36 @@
+Food: Potato, mashed, ready-to-heat
+Food ID: 2709495
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 1.97 g
+Carbohydrates: 13.29 g
+Fat: 5.01 g
+Fiber: 1.9 g
+Sugar: 1.76 g
+
+Fats:
+Saturated fat: 2.632 g
+Monounsaturated fat: 1.236 g
+Polyunsaturated fat: 0.684 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 298 mg
+Potassium: 274 mg
+Calcium: 34 mg
+Iron: 0.27 mg
+Magnesium: 14 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.29 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.109 mg
+Vitamin B12: 0.22 µg
+Folate: 6 µg

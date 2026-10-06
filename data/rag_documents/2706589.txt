@@ -1,0 +1,36 @@
+Food: Corned beef, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce
+Food ID: 2706589
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 4.76 g
+Carbohydrates: 13.73 g
+Fat: 6 g
+Fiber: 1.8 g
+Sugar: 1.21 g
+
+Fats:
+Saturated fat: 1.502 g
+Monounsaturated fat: 2.696 g
+Polyunsaturated fat: 1.12 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 318 mg
+Potassium: 264 mg
+Calcium: 15 mg
+Iron: 0.66 mg
+Magnesium: 17 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 108 µg
+Vitamin C: 9.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.77 mg
+Vitamin K: 16.3 µg
+Vitamin B6: 0.23 mg
+Vitamin B12: 0.3 µg
+Folate: 15 µg

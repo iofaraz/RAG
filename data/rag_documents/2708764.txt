@@ -1,0 +1,36 @@
+Food: Ravioli, meat-filled, with tomato sauce or meat sauce
+Food ID: 2708764
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 8.74 g
+Carbohydrates: 14.46 g
+Fat: 6.25 g
+Fiber: 1 g
+Sugar: 1.73 g
+
+Fats:
+Saturated fat: 2.03 g
+Monounsaturated fat: 2.593 g
+Polyunsaturated fat: 0.801 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 593 mg
+Potassium: 217 mg
+Calcium: 27 mg
+Iron: 2.01 mg
+Magnesium: 16 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.82 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.61 µg
+Folate: 27 µg

@@ -1,0 +1,36 @@
+Food: Nuts, almond paste
+Food ID: 170160
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 458 kcal
+Protein: 9 g
+Carbohydrates: 47.81 g
+Fat: 27.74 g
+Fiber: 4.8 g
+Sugar: 36.25 g
+
+Fats:
+Saturated fat: 2.629 g
+Monounsaturated fat: 18.012 g
+Polyunsaturated fat: 5.821 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 314 mg
+Calcium: 172 mg
+Iron: 1.6 mg
+Magnesium: 130 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 13.54 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0 µg
+Folate: 73 µg

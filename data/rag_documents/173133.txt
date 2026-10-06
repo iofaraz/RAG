@@ -1,0 +1,25 @@
+Food: Snacks, M&M MARS, KUDOS Whole Grain Bars, peanut butter
+Food ID: 173133
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 463 kcal
+Protein: 5.88 g
+Carbohydrates: 64.69 g
+Fat: 20.78 g
+Fiber: 2.6 g
+Sugar: 44.29 g
+
+Fats:
+Saturated fat: 10.411 g
+Trans fat: 0.319 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 268 mg
+Calcium: 871 mg
+Iron: 0.89 mg
+
+Vitamins:
+Vitamin C: 0.3 mg

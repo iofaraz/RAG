@@ -1,0 +1,16 @@
+Food: Green onion, (scallion), bulb and greens, root removed, raw
+Food ID: 2727585
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.66875 g
+Fiber: 2.3 g
+
+Minerals:
+Sodium: 9.948 mg
+Potassium: 232 mg
+Calcium: 59.44 mg
+Iron: 1.044 mg
+Magnesium: 18.94 mg
+Zinc: 0.2484 mg

@@ -1,0 +1,36 @@
+Food: Greens, fresh, cooked, no added fat
+Food ID: 2709593
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 2.97 g
+Carbohydrates: 5.16 g
+Fat: 0.97 g
+Fiber: 4.2 g
+Sugar: 0.74 g
+
+Fats:
+Saturated fat: 0.106 g
+Monounsaturated fat: 0.069 g
+Polyunsaturated fat: 0.388 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 159 mg
+Potassium: 302 mg
+Calcium: 235 mg
+Iron: 1.14 mg
+Magnesium: 31 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 254 µg
+Vitamin C: 46.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.66 mg
+Vitamin K: 418.9 µg
+Vitamin B6: 0.163 mg
+Vitamin B12: 0 µg
+Folate: 74 µg

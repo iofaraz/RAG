@@ -1,0 +1,34 @@
+Food: Cereals ready-to-eat, QUAKER, Maple Brown Sugar LIFE Cereal
+Food ID: 174659
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 9.17 g
+Carbohydrates: 78.86 g
+Fat: 4.06 g
+Fiber: 6.3 g
+Sugar: 24.9 g
+
+Fats:
+Saturated fat: 0.765 g
+Monounsaturated fat: 1.353 g
+Polyunsaturated fat: 1.302 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 477 mg
+Potassium: 262 mg
+Calcium: 349 mg
+Iron: 28.69 mg
+Magnesium: 91 mg
+Zinc: 13.47 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.56 mg
+Vitamin B6: 1.795 mg
+Vitamin B12: 0 µg
+Folate: 1436 µg

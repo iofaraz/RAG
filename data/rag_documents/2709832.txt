@@ -1,0 +1,36 @@
+Food: Cobb salad, no dressing
+Food ID: 2709832
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 11.32 g
+Carbohydrates: 2.65 g
+Fat: 4.33 g
+Fiber: 1.2 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 1.046 g
+Monounsaturated fat: 2.118 g
+Polyunsaturated fat: 0.634 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 159 mg
+Potassium: 281 mg
+Calcium: 25 mg
+Iron: 0.45 mg
+Magnesium: 18 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.66 mg
+Vitamin K: 31.9 µg
+Vitamin B6: 0.186 mg
+Vitamin B12: 0.2 µg
+Folate: 25 µg

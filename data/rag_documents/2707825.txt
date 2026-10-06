@@ -1,0 +1,36 @@
+Food: Tortilla, whole wheat
+Food ID: 2707825
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 310 kcal
+Protein: 9.76 g
+Carbohydrates: 45.89 g
+Fat: 9.76 g
+Fiber: 9.8 g
+Sugar: 2.44 g
+
+Fats:
+Saturated fat: 4.878 g
+Monounsaturated fat: 3.062 g
+Polyunsaturated fat: 0.992 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 617 mg
+Potassium: 262 mg
+Calcium: 244 mg
+Iron: 2.63 mg
+Magnesium: 85 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.9 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.281 mg
+Vitamin B12: 0 µg
+Folate: 97 µg

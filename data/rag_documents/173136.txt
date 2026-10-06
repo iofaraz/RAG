@@ -1,0 +1,37 @@
+Food: Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Energy Bar, all flavors
+Food ID: 173136
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 21.91 g
+Carbohydrates: 50.3 g
+Fat: 10.79 g
+Fiber: 6.7 g
+Sugar: 28.71 g
+
+Fats:
+Saturated fat: 4.753 g
+Monounsaturated fat: 3.92 g
+Polyunsaturated fat: 1.917 g
+Trans fat: 0.151 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 383 mg
+Potassium: 351 mg
+Calcium: 754 mg
+Iron: 16.31 mg
+Magnesium: 317 mg
+Zinc: 11.88 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 489.9 mg
+Vitamin D: 4.5 µg
+Vitamin E: 27.53 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 4.525 mg
+Vitamin B12: 10.91 µg
+Folate: 816 µg

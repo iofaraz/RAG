@@ -1,0 +1,23 @@
+Food: Soup, chicken corn chowder, chunky, ready-to-serve, single brand
+Food ID: 171585
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 3.1 g
+Carbohydrates: 7.5 g
+Fat: 6.3 g
+Fiber: 0.9 g
+
+Fats:
+Saturated fat: 1.75 g
+Monounsaturated fat: 1.27 g
+Polyunsaturated fat: 1.9 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 299 mg
+
+Vitamins:
+Vitamin A: 58 µg

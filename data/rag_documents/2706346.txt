@@ -1,0 +1,36 @@
+Food: Crab, soft shell
+Food ID: 2706346
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 15.51 g
+Carbohydrates: 11.72 g
+Fat: 12.73 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.815 g
+Monounsaturated fat: 5.147 g
+Polyunsaturated fat: 4.82 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 643 mg
+Potassium: 221 mg
+Calcium: 84 mg
+Iron: 1.27 mg
+Magnesium: 32 mg
+Zinc: 3.04 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 3.64 mg
+Vitamin K: 12.2 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 2.18 µg
+Folate: 53 µg

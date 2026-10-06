@@ -1,0 +1,36 @@
+Food: Cheeseburger, from fast food, 1 small patty
+Food ID: 2706889
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 16.42 g
+Carbohydrates: 23.96 g
+Fat: 14.78 g
+Fiber: 0.8 g
+Sugar: 3.86 g
+
+Fats:
+Saturated fat: 6.53 g
+Monounsaturated fat: 4.838 g
+Polyunsaturated fat: 1.245 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 510 mg
+Potassium: 192 mg
+Calcium: 237 mg
+Iron: 2.51 mg
+Magnesium: 23 mg
+Zinc: 2.62 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.26 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.198 mg
+Vitamin B12: 1.31 µg
+Folate: 53 µg

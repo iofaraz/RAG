@@ -1,0 +1,35 @@
+Food: PIZZA HUT 14" Cheese Pizza, THIN 'N CRISPY Crust
+Food ID: 172051
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 306 kcal
+Protein: 13.37 g
+Carbohydrates: 34.22 g
+Fat: 12.8 g
+Fiber: 2.4 g
+Sugar: 3.13 g
+
+Fats:
+Saturated fat: 6.103 g
+Monounsaturated fat: 3.265 g
+Polyunsaturated fat: 2.327 g
+Trans fat: 0.35 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 857 mg
+Potassium: 197 mg
+Calcium: 284 mg
+Iron: 2.52 mg
+Magnesium: 24 mg
+Zinc: 1.64 mg
+
+Vitamins:
+Vitamin C: 4.2 mg
+Vitamin E: 0.68 mg
+Vitamin K: 7.7 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.51 µg
+Folate: 96 µg

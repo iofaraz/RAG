@@ -1,0 +1,37 @@
+Food: Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+Food ID: 171077
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 22.5 g
+Carbohydrates: 0 g
+Fat: 2.62 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.563 g
+Monounsaturated fat: 0.689 g
+Polyunsaturated fat: 0.424 g
+Trans fat: 0.007 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 334 mg
+Calcium: 5 mg
+Iron: 0.37 mg
+Magnesium: 28 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.56 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.811 mg
+Vitamin B12: 0.21 µg
+Folate: 9 µg

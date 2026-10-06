@@ -1,0 +1,35 @@
+Food: DENNY'S, chicken nuggets, star shaped, from kid's menu
+Food ID: 168079
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 377 kcal
+Protein: 16.27 g
+Carbohydrates: 13.59 g
+Fat: 28.57 g
+Fiber: 0.8 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.606 g
+Monounsaturated fat: 9.817 g
+Polyunsaturated fat: 10.701 g
+Trans fat: 0.213 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 644 mg
+Potassium: 244 mg
+Calcium: 16 mg
+Iron: 1.34 mg
+Magnesium: 22 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin E: 1.91 mg
+Vitamin K: 36.6 µg
+Vitamin B6: 0.382 mg
+Vitamin B12: 0.16 µg
+Folate: 29 µg

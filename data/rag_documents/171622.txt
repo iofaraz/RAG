@@ -1,0 +1,36 @@
+Food: Bratwurst, pork, beef, link
+Food ID: 171622
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 14.3 g
+Carbohydrates: 2.98 g
+Fat: 27.8 g
+Fiber: 0 g
+Sugar: 2.98 g
+
+Fats:
+Saturated fat: 9.93 g
+Monounsaturated fat: 13.34 g
+Polyunsaturated fat: 2.83 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 1112 mg
+Potassium: 281 mg
+Calcium: 48 mg
+Iron: 1.03 mg
+Magnesium: 16 mg
+Zinc: 2.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 2.05 µg
+Folate: 5 µg

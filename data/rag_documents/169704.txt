@@ -1,0 +1,37 @@
+Food: Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)
+Food ID: 169704
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 2.74 g
+Carbohydrates: 25.58 g
+Fat: 0.97 g
+Fiber: 1.6 g
+Sugar: 0.24 g
+
+Fats:
+Saturated fat: 0.26 g
+Monounsaturated fat: 0.369 g
+Polyunsaturated fat: 0.366 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 86 mg
+Calcium: 3 mg
+Iron: 0.56 mg
+Magnesium: 39 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Alcoholic beverage, whiskey sour, prepared with water, whiskey and powder mix
+Food ID: 173164
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 164 kcal
+Protein: 0.1 g
+Carbohydrates: 15.85 g
+Fat: 0.02 g
+Fiber: 0 g
+Sugar: 15.81 g
+
+Fats:
+Saturated fat: 0.003 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.006 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 4 mg
+Calcium: 46 mg
+Iron: 0.08 mg
+Magnesium: 3 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

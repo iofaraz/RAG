@@ -1,0 +1,35 @@
+Food: Chicken, capons, meat and skin, raw
+Food ID: 173645
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 18.77 g
+Carbohydrates: 0 g
+Fat: 17.07 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.95 g
+Monounsaturated fat: 7.31 g
+Polyunsaturated fat: 3.62 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 217 mg
+Calcium: 11 mg
+Iron: 1.09 mg
+Magnesium: 21 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 1.7 mg
+Vitamin E: 0.32 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.36 mg
+Vitamin B12: 0.34 µg
+Folate: 6 µg

@@ -1,0 +1,36 @@
+Food: Meatballs, Puerto Rican style
+Food ID: 2706395
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 14.33 g
+Carbohydrates: 6.9 g
+Fat: 15.31 g
+Fiber: 0.8 g
+Sugar: 1.69 g
+
+Fats:
+Saturated fat: 4.22 g
+Monounsaturated fat: 6.458 g
+Polyunsaturated fat: 2.876 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 922 mg
+Potassium: 324 mg
+Calcium: 26 mg
+Iron: 1.85 mg
+Magnesium: 20 mg
+Zinc: 2.74 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.74 mg
+Vitamin K: 7.6 µg
+Vitamin B6: 0.166 mg
+Vitamin B12: 0.92 µg
+Folate: 15 µg

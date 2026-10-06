@@ -1,0 +1,36 @@
+Food: Pretzels, soft, from school lunch
+Food ID: 2708285
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 8.55 g
+Carbohydrates: 70.73 g
+Fat: 3.16 g
+Fiber: 3.7 g
+Sugar: 0.26 g
+
+Fats:
+Saturated fat: 0.692 g
+Monounsaturated fat: 1.05 g
+Polyunsaturated fat: 1.008 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 140 mg
+Calcium: 25 mg
+Iron: 4.24 mg
+Magnesium: 49 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.58 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

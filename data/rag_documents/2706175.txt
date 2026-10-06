@@ -1,0 +1,36 @@
+Food: Bratwurst, with cheese
+Food ID: 2706175
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 334 kcal
+Protein: 14.03 g
+Carbohydrates: 3.28 g
+Fat: 28.98 g
+Fiber: 0 g
+Sugar: 0.47 g
+
+Fats:
+Saturated fat: 10.559 g
+Monounsaturated fat: 13.834 g
+Polyunsaturated fat: 2.476 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 904 mg
+Potassium: 334 mg
+Calcium: 131 mg
+Iron: 0.55 mg
+Magnesium: 22 mg
+Zinc: 3.16 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 1.6 µg
+Vitamin E: 0.32 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.303 mg
+Vitamin B12: 0.81 µg
+Folate: 4 µg

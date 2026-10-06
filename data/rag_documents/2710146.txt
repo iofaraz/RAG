@@ -1,0 +1,36 @@
+Food: Fruit and vegetable smoothie, with dairy
+Food ID: 2710146
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 1.59 g
+Carbohydrates: 12.74 g
+Fat: 0.72 g
+Fiber: 1 g
+Sugar: 9.17 g
+
+Fats:
+Saturated fat: 0.301 g
+Monounsaturated fat: 0.109 g
+Polyunsaturated fat: 0.076 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 295 mg
+Calcium: 52 mg
+Iron: 0.22 mg
+Magnesium: 31 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 16.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.42 mg
+Vitamin K: 77.6 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 0.11 µg
+Folate: 32 µg

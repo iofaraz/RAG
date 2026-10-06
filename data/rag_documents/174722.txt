@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, eye round, separable lean only, raw
+Food ID: 174722
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 20.15 g
+Carbohydrates: 1.35 g
+Fat: 3.35 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.875 g
+Monounsaturated fat: 1.009 g
+Polyunsaturated fat: 0.198 g
+Trans fat: 0.044 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 40 mg
+Potassium: 352 mg
+Calcium: 3 mg
+Iron: 1.39 mg
+Magnesium: 22 mg
+Zinc: 2.78 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.46 mg
+Vitamin B6: 0.329 mg
+Vitamin B12: 1.14 µg

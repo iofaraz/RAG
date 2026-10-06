@@ -1,0 +1,36 @@
+Food: Soup, beef broth, cubed, prepared with water
+Food ID: 172923
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 3 kcal
+Protein: 0.21 g
+Carbohydrates: 0.25 g
+Fat: 0.08 g
+Fiber: 0 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.033 g
+Polyunsaturated fat: 0.003 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 260 mg
+Potassium: 6 mg
+Calcium: 4 mg
+Iron: 0.02 mg
+Magnesium: 2 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 0.01 µg
+Folate: 0 µg

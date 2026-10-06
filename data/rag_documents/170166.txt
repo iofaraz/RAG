@@ -1,0 +1,32 @@
+Food: Nuts, chestnuts, chinese, boiled and steamed
+Food ID: 170166
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 2.88 g
+Carbohydrates: 33.64 g
+Fat: 0.76 g
+
+Fats:
+Saturated fat: 0.112 g
+Monounsaturated fat: 0.399 g
+Polyunsaturated fat: 0.197 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 306 mg
+Calcium: 12 mg
+Iron: 0.97 mg
+Magnesium: 58 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 24.7 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.281 mg
+Vitamin B12: 0 µg
+Folate: 46 µg

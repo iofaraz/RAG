@@ -1,0 +1,36 @@
+Food: Milk, evaporated, fat free (skim)
+Food ID: 2705401
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 7.55 g
+Carbohydrates: 11.35 g
+Fat: 0.2 g
+Fiber: 0 g
+Sugar: 11.35 g
+
+Fats:
+Saturated fat: 0.121 g
+Monounsaturated fat: 0.062 g
+Polyunsaturated fat: 0.006 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 115 mg
+Potassium: 332 mg
+Calcium: 290 mg
+Iron: 0.29 mg
+Magnesium: 27 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 118 µg
+Vitamin C: 1.2 mg
+Vitamin D: 2 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.24 µg
+Folate: 9 µg

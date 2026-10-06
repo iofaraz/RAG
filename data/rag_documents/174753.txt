@@ -1,0 +1,37 @@
+Food: Beef, ground, 93% lean meat /7% fat, patty, cooked, pan-broiled
+Food ID: 174753
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 182 kcal
+Protein: 25.56 g
+Carbohydrates: 0.06 g
+Fat: 8.01 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.286 g
+Monounsaturated fat: 3.273 g
+Polyunsaturated fat: 0.328 g
+Trans fat: 0.266 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 371 mg
+Calcium: 11 mg
+Iron: 2.82 mg
+Magnesium: 24 mg
+Zinc: 6.4 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.386 mg
+Vitamin B12: 2.79 µg
+Folate: 7 µg

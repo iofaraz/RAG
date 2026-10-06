@@ -1,0 +1,36 @@
+Food: Oysters, raw
+Food ID: 2706351
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 5.71 g
+Carbohydrates: 2.72 g
+Fat: 1.71 g
+Fiber: 0 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 0.474 g
+Monounsaturated fat: 0.253 g
+Polyunsaturated fat: 0.528 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 85 mg
+Potassium: 156 mg
+Calcium: 59 mg
+Iron: 4.61 mg
+Magnesium: 18 mg
+Zinc: 39.3 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.85 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 8.75 µg
+Folate: 7 µg

@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST, Shredded Wheat n' Bran, spoon-size
+Food ID: 167715
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 10.93 g
+Carbohydrates: 80.65 g
+Fat: 2.06 g
+Fiber: 14.7 g
+Sugar: 0.75 g
+
+Fats:
+Saturated fat: 0.43 g
+Monounsaturated fat: 0.33 g
+Polyunsaturated fat: 1.22 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 391 mg
+Calcium: 44 mg
+Iron: 3.87 mg
+Magnesium: 174 mg
+Zinc: 3.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.09 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

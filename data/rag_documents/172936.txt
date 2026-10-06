@@ -1,0 +1,37 @@
+Food: Salami, cooked, beef and pork
+Food ID: 172936
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 336 kcal
+Protein: 21.85 g
+Carbohydrates: 2.4 g
+Fat: 25.9 g
+Fiber: 0 g
+Sugar: 0.96 g
+
+Fats:
+Saturated fat: 9.316 g
+Monounsaturated fat: 11.127 g
+Polyunsaturated fat: 2.529 g
+Trans fat: 0.586 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 1740 mg
+Potassium: 316 mg
+Calcium: 15 mg
+Iron: 1.56 mg
+Magnesium: 19 mg
+Zinc: 2.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.22 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.459 mg
+Vitamin B12: 1.52 µg
+Folate: 3 µg

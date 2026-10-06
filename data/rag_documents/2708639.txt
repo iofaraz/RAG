@@ -1,0 +1,36 @@
+Food: Pizza with pepperoni, from restaurant or fast food, thin crust
+Food ID: 2708639
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 11.74 g
+Carbohydrates: 31.98 g
+Fat: 11.91 g
+Fiber: 2.3 g
+Sugar: 3.26 g
+
+Fats:
+Saturated fat: 5.092 g
+Monounsaturated fat: 3.853 g
+Polyunsaturated fat: 2.064 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 620 mg
+Potassium: 195 mg
+Calcium: 153 mg
+Iron: 2.52 mg
+Magnesium: 24 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 6.4 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.5 µg
+Folate: 92 µg

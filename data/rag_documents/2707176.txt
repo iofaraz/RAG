@@ -1,0 +1,36 @@
+Food: Duck egg, cooked
+Food ID: 2707176
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 224 kcal
+Protein: 11.96 g
+Carbohydrates: 1.36 g
+Fat: 18.55 g
+Fiber: 0 g
+Sugar: 0.88 g
+
+Fats:
+Saturated fat: 4.927 g
+Monounsaturated fat: 8.11 g
+Polyunsaturated fat: 2.78 g
+Cholesterol: 828 mg
+
+Minerals:
+Sodium: 264 mg
+Potassium: 208 mg
+Calcium: 60 mg
+Iron: 3.6 mg
+Magnesium: 16 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 206 µg
+Vitamin C: 0 mg
+Vitamin D: 1.6 µg
+Vitamin E: 2.1 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.258 mg
+Vitamin B12: 4.03 µg
+Folate: 56 µg

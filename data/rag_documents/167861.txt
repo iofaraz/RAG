@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, leaf fat, raw
+Food ID: 167861
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 857 kcal
+Protein: 1.76 g
+Carbohydrates: 0 g
+Fat: 94.16 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 45.23 g
+Monounsaturated fat: 37.22 g
+Polyunsaturated fat: 7.28 g
+Cholesterol: 110 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 31 mg
+Calcium: 1 mg
+Iron: 0.09 mg
+Magnesium: 1 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.23 µg
+Folate: 0 µg

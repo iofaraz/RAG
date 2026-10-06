@@ -1,0 +1,31 @@
+Food: McDONALD'S, Hotcakes and Sausage
+Food ID: 173310
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 294 kcal
+Protein: 7.81 g
+Carbohydrates: 37.55 g
+Fat: 12.5 g
+Fiber: 1.6 g
+Sugar: 7.29 g
+
+Fats:
+Saturated fat: 3.646 g
+Trans fat: 0.082 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 484 mg
+Potassium: 148 mg
+Calcium: 78 mg
+Iron: 1.41 mg
+Magnesium: 14 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.14 µg
+Folate: 54 µg

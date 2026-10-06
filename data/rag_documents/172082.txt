@@ -1,0 +1,36 @@
+Food: Fast foods, cheeseburger; single, large patty; with condiments
+Food ID: 172082
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 15.21 g
+Carbohydrates: 19.72 g
+Fat: 14.4 g
+Fiber: 1.2 g
+Sugar: 3.6 g
+
+Fats:
+Saturated fat: 7.033 g
+Monounsaturated fat: 5.959 g
+Polyunsaturated fat: 1.264 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 591 mg
+Potassium: 223 mg
+Calcium: 179 mg
+Iron: 1.02 mg
+Magnesium: 26 mg
+Zinc: 2.83 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.2 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 1.75 µg
+Folate: 16 µg

@@ -1,0 +1,36 @@
+Food: Potato skins, NFS
+Food ID: 2709491
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 199 kcal
+Protein: 6.07 g
+Carbohydrates: 16.34 g
+Fat: 12.4 g
+Fiber: 1.5 g
+Sugar: 1.08 g
+
+Fats:
+Saturated fat: 4.403 g
+Monounsaturated fat: 3.92 g
+Polyunsaturated fat: 2.552 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 417 mg
+Potassium: 376 mg
+Calcium: 141 mg
+Iron: 0.66 mg
+Magnesium: 25 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.3 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.239 mg
+Vitamin B12: 0.11 µg
+Folate: 19 µg

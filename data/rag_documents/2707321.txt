@@ -1,0 +1,36 @@
+Food: Egg sandwich on croissant, with bacon
+Food ID: 2707321
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 326 kcal
+Protein: 13.81 g
+Carbohydrates: 19.28 g
+Fat: 21.34 g
+Fiber: 1 g
+Sugar: 4.9 g
+
+Fats:
+Saturated fat: 9.741 g
+Monounsaturated fat: 6.658 g
+Polyunsaturated fat: 2.428 g
+Cholesterol: 189 mg
+
+Minerals:
+Sodium: 525 mg
+Potassium: 165 mg
+Calcium: 157 mg
+Iron: 1.53 mg
+Magnesium: 17 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 190 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.4 µg
+Vitamin E: 1.14 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 0.65 µg
+Folate: 55 µg

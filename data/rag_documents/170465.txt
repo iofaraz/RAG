@@ -1,0 +1,37 @@
+Food: Turnips, raw
+Food ID: 170465
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 28 kcal
+Protein: 0.9 g
+Carbohydrates: 6.43 g
+Fat: 0.1 g
+Fiber: 1.8 g
+Sugar: 3.8 g
+
+Fats:
+Saturated fat: 0.011 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.053 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 191 mg
+Calcium: 30 mg
+Iron: 0.3 mg
+Magnesium: 11 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

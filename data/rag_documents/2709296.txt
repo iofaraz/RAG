@@ -1,0 +1,36 @@
+Food: Fruit salad, excluding citrus fruits, with salad dressing or mayonnaise
+Food ID: 2709296
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 247 kcal
+Protein: 1.78 g
+Carbohydrates: 13.57 g
+Fat: 20.68 g
+Fiber: 1.5 g
+Sugar: 9.93 g
+
+Fats:
+Saturated fat: 2.851 g
+Monounsaturated fat: 4.137 g
+Polyunsaturated fat: 12.916 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 127 mg
+Potassium: 181 mg
+Calcium: 15 mg
+Iron: 0.28 mg
+Magnesium: 22 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 16.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.79 mg
+Vitamin K: 34.9 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.02 µg
+Folate: 17 µg

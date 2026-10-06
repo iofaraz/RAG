@@ -1,0 +1,36 @@
+Food: Ravioli, NS as to filling, with tomato sauce
+Food ID: 2708761
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 6.92 g
+Carbohydrates: 14.61 g
+Fat: 5.9 g
+Fiber: 0.9 g
+Sugar: 1.46 g
+
+Fats:
+Saturated fat: 2.146 g
+Monounsaturated fat: 2.202 g
+Polyunsaturated fat: 0.817 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 393 mg
+Potassium: 176 mg
+Calcium: 46 mg
+Iron: 1.6 mg
+Magnesium: 14 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.76 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.41 µg
+Folate: 27 µg

@@ -1,0 +1,36 @@
+Food: Chili with chicken and beans
+Food ID: 2706425
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 10.2 g
+Carbohydrates: 10.25 g
+Fat: 2.08 g
+Fiber: 3 g
+Sugar: 1.48 g
+
+Fats:
+Saturated fat: 0.563 g
+Monounsaturated fat: 0.778 g
+Polyunsaturated fat: 0.528 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 341 mg
+Potassium: 282 mg
+Calcium: 18 mg
+Iron: 1.49 mg
+Magnesium: 26 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 6.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.48 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.249 mg
+Vitamin B12: 0.08 µg
+Folate: 49 µg

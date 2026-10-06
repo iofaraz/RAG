@@ -1,0 +1,30 @@
+Food: Beverages, Meal supplement drink, canned, peanut flavor
+Food ID: 171939
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 3.5 g
+Carbohydrates: 14.74 g
+Fat: 3.07 g
+
+Fats:
+Saturated fat: 0.571 g
+Monounsaturated fat: 1.922 g
+Polyunsaturated fat: 0.178 g
+Trans fat: 0.411 g
+
+Minerals:
+Sodium: 54 mg
+Potassium: 160 mg
+Calcium: 110 mg
+Iron: 2.2 mg
+Magnesium: 16 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin C: 0.7 mg
+Vitamin E: 0.09 mg
+Vitamin B6: 0.54 mg
+Vitamin B12: 0.53 µg

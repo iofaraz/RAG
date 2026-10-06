@@ -1,0 +1,36 @@
+Food: Fast foods, biscuit, with egg and bacon
+Food ID: 173266
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 305 kcal
+Protein: 11.33 g
+Carbohydrates: 19.06 g
+Fat: 20.73 g
+Fiber: 0.5 g
+Sugar: 2.19 g
+
+Fats:
+Saturated fat: 5.3 g
+Monounsaturated fat: 8.96 g
+Polyunsaturated fat: 4.98 g
+Cholesterol: 235 mg
+
+Minerals:
+Sodium: 844 mg
+Potassium: 167 mg
+Calcium: 126 mg
+Iron: 2.49 mg
+Magnesium: 16 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0.6 µg
+Vitamin E: 1.34 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.69 µg
+Folate: 40 µg

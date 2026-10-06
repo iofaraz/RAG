@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, spaghetti and tomato and meat, junior
+Food ID: 173492
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 2.57 g
+Carbohydrates: 11.42 g
+Fat: 1.37 g
+Fiber: 1.1 g
+Sugar: 2.72 g
+
+Fats:
+Saturated fat: 0.543 g
+Monounsaturated fat: 0.497 g
+Polyunsaturated fat: 0.185 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 122 mg
+Calcium: 15 mg
+Iron: 0.53 mg
+Magnesium: 11 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.03 µg
+Folate: 27 µg

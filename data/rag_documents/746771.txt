@@ -1,0 +1,25 @@
+Food: Oranges, raw, navels
+Food ID: 746771
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.91 g
+Carbohydrates: 11.8 g
+Fat: 0.15 g
+Fiber: 2 g
+
+Minerals:
+Sodium: 9 mg
+Potassium: 166 mg
+Calcium: 43 mg
+Iron: 0.33 mg
+Magnesium: 10.7 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin C: 59.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.079 mg
+Folate: 25 µg

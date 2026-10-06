@@ -1,0 +1,37 @@
+Food: Fast foods, submarine sandwich, sweet onion chicken teriyaki on white bread with lettuce, tomato and sweet onion sauce
+Food ID: 170306
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 10.91 g
+Carbohydrates: 22.54 g
+Fat: 2.37 g
+Fiber: 1.2 g
+Sugar: 6.06 g
+
+Fats:
+Saturated fat: 0.505 g
+Monounsaturated fat: 0.642 g
+Polyunsaturated fat: 0.831 g
+Trans fat: 0.012 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 305 mg
+Potassium: 285 mg
+Calcium: 142 mg
+Iron: 1.52 mg
+Magnesium: 23 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.282 mg
+Vitamin B12: 0.11 µg
+Folate: 58 µg

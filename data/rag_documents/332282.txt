@@ -1,0 +1,28 @@
+Food: Sauce, pasta, spaghetti/marinara, ready-to-serve
+Food ID: 332282
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 1.41 g
+Carbohydrates: 8.05 g
+Fat: 1.48 g
+Fiber: 1.8 g
+
+Fats:
+Saturated fat: 0.17 g
+Monounsaturated fat: 0.376 g
+Polyunsaturated fat: 0.504 g
+Trans fat: 0.005 g
+
+Minerals:
+Sodium: 419 mg
+Potassium: 319 mg
+Calcium: 27 mg
+Iron: 0.78 mg
+Magnesium: 18.5 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 32 µg

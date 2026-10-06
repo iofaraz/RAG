@@ -1,0 +1,36 @@
+Food: Pastry, made with bean paste and salted egg yolk filling, baked
+Food ID: 2708049
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 8.59 g
+Carbohydrates: 56.98 g
+Fat: 8.61 g
+Fiber: 2.2 g
+Sugar: 30.54 g
+
+Fats:
+Saturated fat: 2.327 g
+Monounsaturated fat: 2.861 g
+Polyunsaturated fat: 2.256 g
+Cholesterol: 226 mg
+
+Minerals:
+Sodium: 545 mg
+Potassium: 123 mg
+Calcium: 39 mg
+Iron: 2.6 mg
+Magnesium: 19 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 0.2 mg
+Vitamin D: 1.2 µg
+Vitamin E: 1.37 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0.35 µg
+Folate: 87 µg

@@ -1,0 +1,33 @@
+Food: Winged bean tuber, raw
+Food ID: 170070
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 11.6 g
+Carbohydrates: 28.1 g
+Fat: 0.9 g
+
+Fats:
+Saturated fat: 0.222 g
+Monounsaturated fat: 0.234 g
+Polyunsaturated fat: 0.174 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 586 mg
+Calcium: 30 mg
+Iron: 2 mg
+Magnesium: 24 mg
+Zinc: 1.39 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

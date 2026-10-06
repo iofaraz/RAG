@@ -1,0 +1,13 @@
+Food: Alcoholic Beverage, wine, table, red, Burgundy
+Food ID: 173208
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 0.07 g
+Carbohydrates: 3.69 g
+Fat: 0 g
+
+Fats:
+Trans fat: 0 g

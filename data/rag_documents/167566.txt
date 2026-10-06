@@ -1,0 +1,37 @@
+Food: Candies, caramels, chocolate-flavor roll
+Food ID: 167566
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 1.59 g
+Carbohydrates: 87.73 g
+Fat: 3.31 g
+Fiber: 0.1 g
+Sugar: 56.32 g
+
+Fats:
+Saturated fat: 0.967 g
+Monounsaturated fat: 1.929 g
+Polyunsaturated fat: 0.266 g
+Trans fat: 0.963 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 44 mg
+Potassium: 116 mg
+Calcium: 36 mg
+Iron: 0.8 mg
+Magnesium: 22 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin K: 9.6 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

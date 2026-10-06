@@ -1,0 +1,36 @@
+Food: Cheese, goat
+Food ID: 2705716
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 21.58 g
+Carbohydrates: 0.12 g
+Fat: 29.84 g
+Fiber: 0 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 20.639 g
+Monounsaturated fat: 6.808 g
+Polyunsaturated fat: 0.709 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 415 mg
+Potassium: 158 mg
+Calcium: 298 mg
+Iron: 1.62 mg
+Magnesium: 29 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 407 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.26 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.22 µg
+Folate: 2 µg

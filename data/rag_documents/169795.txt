@@ -1,0 +1,35 @@
+Food: Whale, beluga, meat, dried (Alaska Native)
+Food ID: 169795
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 327 kcal
+Protein: 69.86 g
+Carbohydrates: 0 g
+Fat: 5.34 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.204 g
+Monounsaturated fat: 3.345 g
+Polyunsaturated fat: 0.319 g
+Cholesterol: 122 mg
+
+Minerals:
+Sodium: 220 mg
+Potassium: 800 mg
+Calcium: 22 mg
+Iron: 72.35 mg
+Magnesium: 63 mg
+Zinc: 7.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.131 mg
+Vitamin B12: 7.31 µg
+Folate: 10 µg

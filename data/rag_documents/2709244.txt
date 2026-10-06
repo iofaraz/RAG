@@ -1,0 +1,36 @@
+Food: Mango, frozen
+Food ID: 2709244
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 0.82 g
+Carbohydrates: 14.98 g
+Fat: 0.38 g
+Fiber: 1.6 g
+Sugar: 13.66 g
+
+Fats:
+Saturated fat: 0.092 g
+Monounsaturated fat: 0.14 g
+Polyunsaturated fat: 0.071 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 168 mg
+Calcium: 11 mg
+Iron: 0.16 mg
+Magnesium: 10 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 36.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.9 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 0 µg
+Folate: 43 µg

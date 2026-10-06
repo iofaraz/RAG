@@ -1,0 +1,36 @@
+Food: Rice, white, with carrots, no added fat
+Food ID: 2709003
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 2.2 g
+Carbohydrates: 23.14 g
+Fat: 0.25 g
+Fiber: 1 g
+Sugar: 0.88 g
+
+Fats:
+Saturated fat: 0.065 g
+Monounsaturated fat: 0.067 g
+Polyunsaturated fat: 0.079 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 199 mg
+Potassium: 84 mg
+Calcium: 15 mg
+Iron: 0.98 mg
+Magnesium: 11 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 209 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0 µg
+Folate: 47 µg

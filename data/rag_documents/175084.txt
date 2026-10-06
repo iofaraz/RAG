@@ -1,0 +1,30 @@
+Food: Nabisco, Nabisco Oreo Crunchies, Cookie Crumb Topping
+Food ID: 175084
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 476 kcal
+Protein: 4.78 g
+Carbohydrates: 70.23 g
+Fat: 21.5 g
+Fiber: 3.2 g
+Sugar: 36 g
+
+Fats:
+Saturated fat: 4.14 g
+Monounsaturated fat: 3.17 g
+Polyunsaturated fat: 0.82 g
+
+Minerals:
+Sodium: 528 mg
+Potassium: 194 mg
+Calcium: 24 mg
+Iron: 4.9 mg
+Magnesium: 48 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin B6: 0.032 mg
+Vitamin B12: 0.02 µg
+Folate: 30 µg

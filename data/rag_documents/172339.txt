@@ -1,0 +1,37 @@
+Food: Margarine-like, margarine-butter blend, soybean oil and butter
+Food ID: 172339
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 727 kcal
+Protein: 0.31 g
+Carbohydrates: 0.77 g
+Fat: 80.32 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 14.198 g
+Monounsaturated fat: 30.292 g
+Polyunsaturated fat: 24.17 g
+Trans fat: 14.95 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 719 mg
+Potassium: 22 mg
+Calcium: 10 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 819 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 3.88 mg
+Vitamin K: 86.5 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

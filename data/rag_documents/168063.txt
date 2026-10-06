@@ -1,0 +1,32 @@
+Food: Restaurant, Latino, arroz con leche (rice pudding)
+Food ID: 168063
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 3.2 g
+Carbohydrates: 24.92 g
+Fat: 3.69 g
+Fiber: 0.5 g
+Sugar: 15.26 g
+
+Fats:
+Saturated fat: 1.899 g
+Monounsaturated fat: 1.018 g
+Polyunsaturated fat: 0.443 g
+Trans fat: 0.145 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 106 mg
+Potassium: 142 mg
+Calcium: 90 mg
+Iron: 0.23 mg
+Magnesium: 11 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin E: 0.21 mg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0.08 µg

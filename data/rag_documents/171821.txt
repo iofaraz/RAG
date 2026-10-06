@@ -1,0 +1,37 @@
+Food: Soup, wonton, Chinese restaurant
+Food ID: 171821
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 2.08 g
+Carbohydrates: 5.25 g
+Fat: 0.26 g
+Fiber: 0.2 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 0.062 g
+Monounsaturated fat: 0.077 g
+Polyunsaturated fat: 0.071 g
+Trans fat: 0.001 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 406 mg
+Potassium: 32 mg
+Calcium: 5 mg
+Iron: 0.21 mg
+Magnesium: 3 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.09 µg
+Folate: 13 µg

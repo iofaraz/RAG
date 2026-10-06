@@ -1,0 +1,37 @@
+Food: Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0" fat, select, raw
+Food ID: 171776
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 22.03 g
+Carbohydrates: 0 g
+Fat: 4.99 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.973 g
+Monounsaturated fat: 2.644 g
+Polyunsaturated fat: 0.337 g
+Trans fat: 0.228 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 330 mg
+Calcium: 12 mg
+Iron: 2.14 mg
+Magnesium: 19 mg
+Zinc: 5.08 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.17 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.552 mg
+Vitamin B12: 2.33 µg
+Folate: 5 µg

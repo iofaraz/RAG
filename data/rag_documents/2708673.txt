@@ -1,0 +1,36 @@
+Food: Pizza with beans and vegetables, thick crust
+Food ID: 2708673
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 9.46 g
+Carbohydrates: 28.64 g
+Fat: 8.18 g
+Fiber: 2.8 g
+Sugar: 2.97 g
+
+Fats:
+Saturated fat: 3.265 g
+Monounsaturated fat: 1.995 g
+Polyunsaturated fat: 2.147 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 441 mg
+Potassium: 204 mg
+Calcium: 143 mg
+Iron: 2.2 mg
+Magnesium: 28 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.75 mg
+Vitamin K: 8.6 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.27 µg
+Folate: 99 µg

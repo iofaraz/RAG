@@ -1,0 +1,33 @@
+Food: Lamb, foreshank, separable lean and fat, trimmed to 1/4" fat, choice, raw
+Food ID: 172481
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 18.91 g
+Carbohydrates: 0 g
+Fat: 13.38 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 5.83 g
+Monounsaturated fat: 5.49 g
+Polyunsaturated fat: 1.06 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 214 mg
+Calcium: 11 mg
+Iron: 1.67 mg
+Magnesium: 22 mg
+Zinc: 5.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.25 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 2.34 µg
+Folate: 19 µg

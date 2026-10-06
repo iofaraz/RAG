@@ -1,0 +1,33 @@
+Food: Wheat germ, crude
+Food ID: 168892
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 360 kcal
+Protein: 23.15 g
+Carbohydrates: 51.8 g
+Fat: 9.72 g
+Fiber: 13.2 g
+
+Fats:
+Saturated fat: 1.665 g
+Monounsaturated fat: 1.365 g
+Polyunsaturated fat: 6.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 892 mg
+Calcium: 39 mg
+Iron: 6.26 mg
+Magnesium: 239 mg
+Zinc: 12.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 1.3 mg
+Vitamin B12: 0 µg
+Folate: 281 µg

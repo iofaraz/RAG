@@ -1,0 +1,36 @@
+Food: Pastry, puff
+Food ID: 2708053
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 558 kcal
+Protein: 7.4 g
+Carbohydrates: 45.7 g
+Fat: 38.5 g
+Fiber: 1.5 g
+Sugar: 0.75 g
+
+Fats:
+Saturated fat: 5.502 g
+Monounsaturated fat: 8.828 g
+Polyunsaturated fat: 22.228 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 253 mg
+Potassium: 62 mg
+Calcium: 10 mg
+Iron: 2.6 mg
+Magnesium: 16 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 16.3 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0 µg
+Folate: 55 µg

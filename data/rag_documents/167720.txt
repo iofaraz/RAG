@@ -1,0 +1,36 @@
+Food: Babyfood, meat, beef with vegetables, toddler
+Food ID: 167720
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 3.5 g
+Carbohydrates: 8.72 g
+Fat: 2.1 g
+Fiber: 1.8 g
+Sugar: 1.18 g
+
+Fats:
+Saturated fat: 0.847 g
+Monounsaturated fat: 0.92 g
+Polyunsaturated fat: 0.108 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 168 mg
+Calcium: 11 mg
+Iron: 0.5 mg
+Magnesium: 11 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.37 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.51 µg
+Folate: 6 µg

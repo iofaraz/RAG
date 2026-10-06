@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, GOLDEN PUFFS
+Food ID: 174643
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 370 kcal
+Protein: 5.77 g
+Carbohydrates: 89.72 g
+Fat: 0.89 g
+Fiber: 2.6 g
+Sugar: 51.34 g
+
+Fats:
+Saturated fat: 0.161 g
+Monounsaturated fat: 0.22 g
+Polyunsaturated fat: 0.349 g
+Trans fat: 0.028 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 204 mg
+Potassium: 204 mg
+Calcium: 11 mg
+Iron: 7.92 mg
+Magnesium: 46 mg
+Zinc: 7.3 mg
+
+Vitamins:
+Vitamin A: 555 µg
+Vitamin C: 27.6 mg
+Vitamin D: 3.8 µg
+Vitamin E: 0.43 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 2.067 mg
+Vitamin B12: 6.67 µg
+Folate: 741 µg

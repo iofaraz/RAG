@@ -1,0 +1,29 @@
+Food: Archway Home Style Cookies, Coconut Macaroon
+Food ID: 173245
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 460 kcal
+Protein: 3.02 g
+Carbohydrates: 61.23 g
+Fat: 22.55 g
+Fiber: 5.1 g
+Sugar: 45.16 g
+
+Fats:
+Saturated fat: 20.1 g
+Monounsaturated fat: 1.61 g
+Polyunsaturated fat: 0.81 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 123 mg
+Calcium: 5 mg
+Iron: 0.82 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Folate: 5 µg

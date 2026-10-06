@@ -1,0 +1,36 @@
+Food: Fish, tofu, and vegetables, tempura
+Food ID: 2706844
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 177 kcal
+Protein: 4.01 g
+Carbohydrates: 4.53 g
+Fat: 16 g
+Fiber: 1.1 g
+Sugar: 1.56 g
+
+Fats:
+Saturated fat: 2.389 g
+Monounsaturated fat: 6.623 g
+Polyunsaturated fat: 5.928 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 22 mg
+Potassium: 180 mg
+Calcium: 35 mg
+Iron: 0.47 mg
+Magnesium: 15 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 17 mg
+Vitamin D: 0.2 µg
+Vitamin E: 3.22 mg
+Vitamin K: 27.1 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0.18 µg
+Folate: 21 µg

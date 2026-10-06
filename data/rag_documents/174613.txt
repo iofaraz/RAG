@@ -1,0 +1,34 @@
+Food: Turkey, white, rotisserie, deli cut
+Food ID: 174613
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 13.5 g
+Carbohydrates: 7.7 g
+Fat: 3 g
+Fiber: 0.4 g
+Sugar: 4 g
+
+Fats:
+Saturated fat: 0.118 g
+Monounsaturated fat: 0.591 g
+Polyunsaturated fat: 0.37 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 1200 mg
+Potassium: 349 mg
+Calcium: 16 mg
+Iron: 2.2 mg
+Magnesium: 20 mg
+Zinc: 2.1 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 10 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.294 mg
+Vitamin B12: 0.22 µg
+Folate: 4 µg

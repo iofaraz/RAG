@@ -1,0 +1,33 @@
+Food: Wocas, tuber, cooked, Oregon, yellow pond lily (Klamath)
+Food ID: 169005
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 0.69 g
+Carbohydrates: 7.06 g
+Fat: 0.35 g
+Fiber: 2.3 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0.016 g
+Polyunsaturated fat: 0.049 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 187 mg
+Calcium: 23 mg
+Iron: 1.21 mg
+Magnesium: 3 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin E: 0.42 mg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

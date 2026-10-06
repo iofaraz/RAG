@@ -1,0 +1,36 @@
+Food: Bagels, cinnamon-raisin
+Food ID: 172664
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 9.8 g
+Carbohydrates: 55.2 g
+Fat: 1.7 g
+Fiber: 2.3 g
+Sugar: 5.98 g
+
+Fats:
+Saturated fat: 0.274 g
+Monounsaturated fat: 0.175 g
+Polyunsaturated fat: 0.671 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 407 mg
+Potassium: 148 mg
+Calcium: 19 mg
+Iron: 3.8 mg
+Magnesium: 28 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0 µg
+Folate: 111 µg

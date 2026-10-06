@@ -1,0 +1,32 @@
+Food: Veal, variety meats and by-products, spleen, raw
+Food ID: 172540
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 98 kcal
+Protein: 18.3 g
+Carbohydrates: 0 g
+Fat: 2.2 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.73 g
+Monounsaturated fat: 0.59 g
+Polyunsaturated fat: 0.16 g
+Cholesterol: 340 mg
+
+Minerals:
+Sodium: 97 mg
+Potassium: 362 mg
+Calcium: 6 mg
+Iron: 9.32 mg
+Magnesium: 17 mg
+Zinc: 1.61 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 41 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 5.34 µg
+Folate: 4 µg

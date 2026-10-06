@@ -1,0 +1,27 @@
+Food: Buttermilk, low fat
+Food ID: 2259792
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 3.46498 g
+Carbohydrates: 4.81152 g
+Fat: 1.081 g
+
+Fats:
+Saturated fat: 0.5525 g
+Monounsaturated fat: 0.1988 g
+Cholesterol: 4.793 mg
+
+Minerals:
+Sodium: 92.49 mg
+Potassium: 158 mg
+Calcium: 120.1 mg
+Iron: 0.01325 mg
+Magnesium: 11.03 mg
+Zinc: 0.4263 mg
+
+Vitamins:
+Vitamin D: 0.543 µg
+Vitamin K: 0 µg
+Vitamin B6: 0.03931 mg

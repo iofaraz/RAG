@@ -1,0 +1,36 @@
+Food: Soup, minestrone, canned, condensed
+Food ID: 171153
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 3.48 g
+Carbohydrates: 9.17 g
+Fat: 2.05 g
+Fiber: 0.8 g
+Sugar: 1.5 g
+
+Fats:
+Saturated fat: 0.44 g
+Monounsaturated fat: 0.56 g
+Polyunsaturated fat: 0.91 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 516 mg
+Potassium: 255 mg
+Calcium: 28 mg
+Iron: 0.75 mg
+Magnesium: 6 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 85 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

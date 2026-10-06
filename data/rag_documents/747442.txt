@@ -1,0 +1,16 @@
+Food: Beans, Dry, Small White (0% moisture)
+Food ID: 747442
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 24.5 g
+Fat: 1.32 g
+Fiber: 4.3 g
+
+Minerals:
+Potassium: 1540 mg
+Calcium: 236 mg
+Iron: 4.93 mg
+Magnesium: 182 mg
+Zinc: 3.54 mg

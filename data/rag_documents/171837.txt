@@ -1,0 +1,37 @@
+Food: Cookies, animal, with frosting or icing
+Food ID: 171837
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 509 kcal
+Protein: 3 g
+Carbohydrates: 70.09 g
+Fat: 24.1 g
+Fiber: 0.9 g
+Sugar: 41.1 g
+
+Fats:
+Saturated fat: 16.2 g
+Monounsaturated fat: 2.4 g
+Polyunsaturated fat: 4.5 g
+Trans fat: 0.515 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 257 mg
+Potassium: 96 mg
+Calcium: 6 mg
+Iron: 1.57 mg
+Magnesium: 7 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.93 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.014 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

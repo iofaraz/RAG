@@ -1,0 +1,33 @@
+Food: Salami, Italian, pork
+Food ID: 174603
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 425 kcal
+Protein: 21.7 g
+Carbohydrates: 1.2 g
+Fat: 37 g
+Fiber: 0 g
+Sugar: 1.2 g
+
+Fats:
+Saturated fat: 13.1 g
+Monounsaturated fat: 18.2 g
+Polyunsaturated fat: 3.6 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 1890 mg
+Potassium: 340 mg
+Calcium: 10 mg
+Iron: 1.52 mg
+Magnesium: 22 mg
+Zinc: 4.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.55 mg
+Vitamin B12: 2.8 µg
+Folate: 2 µg

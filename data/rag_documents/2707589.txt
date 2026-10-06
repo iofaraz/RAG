@@ -1,0 +1,36 @@
+Food: Mixed seeds
+Food ID: 2707589
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 580 kcal
+Protein: 21.96 g
+Carbohydrates: 21.73 g
+Fat: 49.61 g
+Fiber: 10 g
+Sugar: 2.37 g
+
+Fats:
+Saturated fat: 6.05 g
+Monounsaturated fat: 11.062 g
+Polyunsaturated fat: 29.627 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 834 mg
+Calcium: 66 mg
+Iron: 4.87 mg
+Magnesium: 234 mg
+Zinc: 5.88 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 19.72 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.628 mg
+Vitamin B12: 0 µg
+Folate: 192 µg

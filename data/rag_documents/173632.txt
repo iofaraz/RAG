@@ -1,0 +1,37 @@
+Food: Chicken, broilers or fryers, wing, meat only, raw
+Food ID: 173632
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 21.97 g
+Carbohydrates: 0 g
+Fat: 3.54 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.94 g
+Monounsaturated fat: 0.85 g
+Polyunsaturated fat: 0.8 g
+Trans fat: 0.07 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 194 mg
+Calcium: 13 mg
+Iron: 0.88 mg
+Magnesium: 22 mg
+Zinc: 1.63 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.53 mg
+Vitamin B12: 0.38 µg
+Folate: 4 µg

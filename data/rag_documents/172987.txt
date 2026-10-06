@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, QUAKER, Shredded Wheat, bagged cereal
+Food ID: 172987
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 348 kcal
+Protein: 11.24 g
+Carbohydrates: 81.01 g
+Fat: 2.01 g
+Fiber: 11.8 g
+Sugar: 0.81 g
+
+Fats:
+Saturated fat: 0.405 g
+Monounsaturated fat: 0.304 g
+Polyunsaturated fat: 1.216 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 358 mg
+Calcium: 45 mg
+Iron: 3.33 mg
+Magnesium: 172 mg
+Zinc: 2.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin B6: 0.256 mg
+Vitamin B12: 0 µg
+Folate: 51 µg

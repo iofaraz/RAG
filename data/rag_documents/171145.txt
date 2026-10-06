@@ -1,0 +1,36 @@
+Food: Soup, chicken, canned, chunky, ready-to-serve
+Food ID: 171145
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 5.06 g
+Carbohydrates: 6.88 g
+Fat: 2.64 g
+Fiber: 0.6 g
+Sugar: 0.87 g
+
+Fats:
+Saturated fat: 0.79 g
+Monounsaturated fat: 1.18 g
+Polyunsaturated fat: 0.55 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 354 mg
+Potassium: 70 mg
+Calcium: 10 mg
+Iron: 0.69 mg
+Magnesium: 3 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.1 µg
+Folate: 2 µg

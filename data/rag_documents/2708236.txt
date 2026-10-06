@@ -1,0 +1,36 @@
+Food: Popcorn, ready-to-eat, cheese flavored
+Food ID: 2708236
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 526 kcal
+Protein: 9.3 g
+Carbohydrates: 51.6 g
+Fat: 33.2 g
+Fiber: 9.9 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 6.41 g
+Monounsaturated fat: 9.7 g
+Polyunsaturated fat: 15.37 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 889 mg
+Potassium: 261 mg
+Calcium: 113 mg
+Iron: 2.24 mg
+Magnesium: 91 mg
+Zinc: 2.01 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 3.82 mg
+Vitamin K: 8.2 µg
+Vitamin B6: 0.235 mg
+Vitamin B12: 0.53 µg
+Folate: 11 µg

@@ -1,0 +1,24 @@
+Food: Candies, TWIZZLERS Strawberry Twists Candy
+Food ID: 167583
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 348 kcal
+Protein: 2.56 g
+Carbohydrates: 79.16 g
+Fat: 2.32 g
+Fiber: 0 g
+Sugar: 39.64 g
+
+Fats:
+Saturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 287 mg
+Calcium: 0 mg
+Iron: 0.51 mg
+
+Vitamins:
+Vitamin C: 0 mg

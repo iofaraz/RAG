@@ -1,0 +1,33 @@
+Food: Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D
+Food ID: 746778
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 3.36 g
+Carbohydrates: 4.9 g
+Fat: 1.9 g
+
+Fats:
+Saturated fat: 1.11 g
+Monounsaturated fat: 0.4 g
+Polyunsaturated fat: 0.058 g
+Trans fat: 0.07 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 159 mg
+Calcium: 126 mg
+Iron: 0 mg
+Magnesium: 12 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin D: 1.13 µg
+Vitamin E: 0.03 mg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.55 µg
+Folate: 2 µg

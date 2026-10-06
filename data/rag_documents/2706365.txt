@@ -1,0 +1,36 @@
+Food: Shrimp, baked or broiled, coated
+Food ID: 2706365
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 15.55 g
+Carbohydrates: 8.74 g
+Fat: 5.91 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 1.526 g
+Monounsaturated fat: 1.861 g
+Polyunsaturated fat: 1.698 g
+Cholesterol: 140 mg
+
+Minerals:
+Sodium: 388 mg
+Potassium: 135 mg
+Calcium: 67 mg
+Iron: 0.81 mg
+Magnesium: 26 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.08 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.189 mg
+Vitamin B12: 1 µg
+Folate: 31 µg

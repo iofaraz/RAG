@@ -1,0 +1,37 @@
+Food: Bread, multi-grain, toasted (includes whole-grain)
+Food ID: 174914
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 288 kcal
+Protein: 14.52 g
+Carbohydrates: 47.11 g
+Fat: 4.6 g
+Fiber: 8.1 g
+Sugar: 6.94 g
+
+Fats:
+Saturated fat: 0.948 g
+Monounsaturated fat: 0.826 g
+Polyunsaturated fat: 2.035 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 250 mg
+Calcium: 111 mg
+Iron: 2.72 mg
+Magnesium: 85 mg
+Zinc: 1.85 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.286 mg
+Vitamin B12: 0 µg
+Folate: 70 µg

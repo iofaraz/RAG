@@ -1,0 +1,37 @@
+Food: Turnover, filled with egg, meat and cheese, frozen
+Food ID: 168963
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 7.87 g
+Carbohydrates: 20.67 g
+Fat: 12.6 g
+Fiber: 0.8 g
+Sugar: 7.87 g
+
+Fats:
+Saturated fat: 5.512 g
+Monounsaturated fat: 4.298 g
+Polyunsaturated fat: 2.019 g
+Trans fat: 0 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 378 mg
+Potassium: 177 mg
+Calcium: 79 mg
+Iron: 2.13 mg
+Magnesium: 16 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.65 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.33 µg
+Folate: 46 µg

@@ -1,0 +1,37 @@
+Food: Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, with salt
+Food ID: 169349
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 3.11 g
+Carbohydrates: 22.33 g
+Fat: 0.74 g
+Fiber: 2.8 g
+Sugar: 3.59 g
+
+Fats:
+Saturated fat: 0.114 g
+Monounsaturated fat: 0.216 g
+Polyunsaturated fat: 0.348 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 251 mg
+Calcium: 3 mg
+Iron: 0.61 mg
+Magnesium: 29 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.224 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

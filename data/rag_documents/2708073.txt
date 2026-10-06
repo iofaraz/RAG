@@ -1,0 +1,36 @@
+Food: Doughnut, yeast type, with chocolate icing
+Food ID: 2708073
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 416 kcal
+Protein: 5.13 g
+Carbohydrates: 50.98 g
+Fat: 21.68 g
+Fiber: 1.9 g
+Sugar: 29.74 g
+
+Fats:
+Saturated fat: 8.668 g
+Monounsaturated fat: 7.602 g
+Polyunsaturated fat: 3.316 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 289 mg
+Potassium: 121 mg
+Calcium: 82 mg
+Iron: 2.19 mg
+Magnesium: 18 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.46 mg
+Vitamin K: 9.2 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.09 µg
+Folate: 87 µg

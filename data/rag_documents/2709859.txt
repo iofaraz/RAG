@@ -1,0 +1,36 @@
+Food: Green beans, fresh, cooked with oil
+Food ID: 2709859
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 1.99 g
+Carbohydrates: 7.47 g
+Fat: 3.31 g
+Fiber: 3 g
+Sugar: 2.35 g
+
+Fats:
+Saturated fat: 0.455 g
+Monounsaturated fat: 1.292 g
+Polyunsaturated fat: 1.276 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 117 mg
+Potassium: 292 mg
+Calcium: 40 mg
+Iron: 0.66 mg
+Magnesium: 28 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 10.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.99 mg
+Vitamin K: 47.3 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

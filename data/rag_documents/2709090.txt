@@ -1,0 +1,36 @@
+Food: Rice with raisins
+Food ID: 2709090
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 2.65 g
+Carbohydrates: 32.13 g
+Fat: 2.58 g
+Fiber: 0.8 g
+Sugar: 6.49 g
+
+Fats:
+Saturated fat: 0.51 g
+Monounsaturated fat: 1.191 g
+Polyunsaturated fat: 0.766 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 447 mg
+Potassium: 104 mg
+Calcium: 15 mg
+Iron: 1.21 mg
+Magnesium: 14 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0 µg
+Folate: 50 µg

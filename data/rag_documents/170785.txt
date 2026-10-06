@@ -1,0 +1,37 @@
+Food: Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce
+Food ID: 170785
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 275 kcal
+Protein: 11.48 g
+Carbohydrates: 23.22 g
+Fat: 15.1 g
+Fiber: 1.3 g
+Sugar: 2.48 g
+
+Fats:
+Saturated fat: 3.837 g
+Monounsaturated fat: 4.407 g
+Polyunsaturated fat: 4.926 g
+Trans fat: 0.144 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 607 mg
+Potassium: 173 mg
+Calcium: 88 mg
+Iron: 1.47 mg
+Magnesium: 19 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.21 mg
+Vitamin K: 23.6 µg
+Vitamin B6: 0.166 mg
+Vitamin B12: 0.11 µg
+Folate: 36 µg

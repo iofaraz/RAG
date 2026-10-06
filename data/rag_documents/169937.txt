@@ -1,0 +1,34 @@
+Food: Pears, canned, extra light syrup pack, solids and liquids (Includes foods for USDA's Food Distribution Program)
+Food ID: 169937
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.3 g
+Carbohydrates: 12.2 g
+Fat: 0.1 g
+Fiber: 1.6 g
+
+Fats:
+Saturated fat: 0.006 g
+Monounsaturated fat: 0.021 g
+Polyunsaturated fat: 0.023 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 45 mg
+Calcium: 7 mg
+Iron: 0.2 mg
+Magnesium: 5 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.014 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

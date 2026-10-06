@@ -1,0 +1,36 @@
+Food: Egg burrito
+Food ID: 2707343
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 10.91 g
+Carbohydrates: 20.06 g
+Fat: 13.71 g
+Fiber: 1.4 g
+Sugar: 1.75 g
+
+Fats:
+Saturated fat: 4.429 g
+Monounsaturated fat: 4.457 g
+Polyunsaturated fat: 3.223 g
+Cholesterol: 212 mg
+
+Minerals:
+Sodium: 470 mg
+Potassium: 126 mg
+Calcium: 148 mg
+Iron: 2.28 mg
+Magnesium: 16 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 110 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 1.24 mg
+Vitamin K: 6.7 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.52 µg
+Folate: 64 µg

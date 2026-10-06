@@ -1,0 +1,36 @@
+Food: Onions, raw
+Food ID: 2709795
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 38 kcal
+Protein: 0.86 g
+Carbohydrates: 8.46 g
+Fat: 0.08 g
+Fiber: 1.7 g
+Sugar: 5.8 g
+
+Fats:
+Saturated fat: 0.042 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.017 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 171 mg
+Calcium: 17 mg
+Iron: 0.24 mg
+Magnesium: 9 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 8.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

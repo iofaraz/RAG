@@ -1,0 +1,19 @@
+Food: Grapefruit, raw
+Food ID: 2758977
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 0.6525 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 155.9 mg
+Calcium: 21.36 mg
+Iron: 0 mg
+Magnesium: 9.58 mg
+Zinc: 0.0292 mg
+
+Vitamins:
+Vitamin C: 38 mg
+Vitamin B6: 0.06013 mg

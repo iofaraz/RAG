@@ -1,0 +1,36 @@
+Food: Chow mein or chop suey, various types of meat, with noodles
+Food ID: 2706724
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 10.36 g
+Carbohydrates: 11.16 g
+Fat: 5.57 g
+Fiber: 1.5 g
+Sugar: 1.54 g
+
+Fats:
+Saturated fat: 1.65 g
+Monounsaturated fat: 2.199 g
+Polyunsaturated fat: 1.172 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 354 mg
+Potassium: 198 mg
+Calcium: 19 mg
+Iron: 1.49 mg
+Magnesium: 14 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.48 mg
+Vitamin K: 11.9 µg
+Vitamin B6: 0.208 mg
+Vitamin B12: 0.3 µg
+Folate: 40 µg

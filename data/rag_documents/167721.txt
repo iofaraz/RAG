@@ -1,0 +1,36 @@
+Food: Frozen novelties, juice type, juice with cream
+Food ID: 167721
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 1.41 g
+Carbohydrates: 24.11 g
+Fat: 1.41 g
+Fiber: 0.1 g
+Sugar: 20.61 g
+
+Fats:
+Saturated fat: 0.705 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 42 mg
+Potassium: 120 mg
+Calcium: 141 mg
+Iron: 0.28 mg
+Magnesium: 9 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 21.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.14 µg
+Folate: 11 µg

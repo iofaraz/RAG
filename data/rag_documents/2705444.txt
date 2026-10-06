@@ -1,0 +1,36 @@
+Food: Chipotle dip, yogurt based
+Food ID: 2705444
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 7.93 g
+Carbohydrates: 3.33 g
+Fat: 15.99 g
+Fiber: 0 g
+Sugar: 2.97 g
+
+Fats:
+Saturated fat: 3.219 g
+Monounsaturated fat: 3.638 g
+Polyunsaturated fat: 8.716 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 636 mg
+Potassium: 119 mg
+Calcium: 92 mg
+Iron: 0.09 mg
+Magnesium: 9 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 74 µg
+Vitamin C: 3.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 32 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.43 µg
+Folate: 11 µg

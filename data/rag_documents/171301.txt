@@ -1,0 +1,37 @@
+Food: Kefir, lowfat, strawberry, LIFEWAY
+Food ID: 171301
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 3.39 g
+Carbohydrates: 10.2 g
+Fat: 0.9 g
+Fiber: 0 g
+Sugar: 9.21 g
+
+Fats:
+Saturated fat: 0.533 g
+Monounsaturated fat: 0.262 g
+Polyunsaturated fat: 0.041 g
+Trans fat: 0.03 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 37 mg
+Potassium: 154 mg
+Calcium: 119 mg
+Iron: 0.04 mg
+Magnesium: 11 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 178 µg
+Vitamin C: 1.5 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.06 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.31 µg
+Folate: 22 µg

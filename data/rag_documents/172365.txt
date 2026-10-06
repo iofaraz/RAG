@@ -1,0 +1,37 @@
+Food: Oil, industrial, coconut, confection fat, typical basis for ice cream coatings
+Food ID: 172365
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 884 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 86.503 g
+Monounsaturated fat: 5.681 g
+Polyunsaturated fat: 1.45 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 2 mg
+Calcium: 2 mg
+Iron: 0.15 mg
+Magnesium: 0 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

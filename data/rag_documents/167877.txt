@@ -1,0 +1,36 @@
+Food: Pork, cured, separable fat (from ham and arm picnic), unheated
+Food ID: 167877
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 579 kcal
+Protein: 5.68 g
+Carbohydrates: 0.09 g
+Fat: 61.41 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 22.52 g
+Monounsaturated fat: 29.47 g
+Polyunsaturated fat: 6.53 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 505 mg
+Potassium: 105 mg
+Calcium: 5 mg
+Iron: 0.39 mg
+Magnesium: 6 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.33 µg
+Folate: 1 µg

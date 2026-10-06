@@ -1,0 +1,37 @@
+Food: Egg, whole, raw, fresh
+Food ID: 171287
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 12.56 g
+Carbohydrates: 0.72 g
+Fat: 9.51 g
+Fiber: 0 g
+Sugar: 0.37 g
+
+Fats:
+Saturated fat: 3.126 g
+Monounsaturated fat: 3.658 g
+Polyunsaturated fat: 1.911 g
+Trans fat: 0.038 g
+Cholesterol: 372 mg
+
+Minerals:
+Sodium: 142 mg
+Potassium: 138 mg
+Calcium: 56 mg
+Iron: 1.75 mg
+Magnesium: 12 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 160 µg
+Vitamin C: 0 mg
+Vitamin D: 2 µg
+Vitamin E: 1.05 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0.89 µg
+Folate: 47 µg

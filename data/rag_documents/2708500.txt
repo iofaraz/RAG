@@ -1,0 +1,36 @@
+Food: Baby Toddler cereal, oatmeal, ready-to-eat
+Food ID: 2708500
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 2.54 g
+Carbohydrates: 13.77 g
+Fat: 1.3 g
+Fiber: 1.9 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 0.211 g
+Monounsaturated fat: 0.379 g
+Polyunsaturated fat: 0.438 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 80 mg
+Calcium: 55 mg
+Iron: 3.24 mg
+Magnesium: 26 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.56 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.03 µg
+Folate: 15 µg

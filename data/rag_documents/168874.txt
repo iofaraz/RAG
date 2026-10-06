@@ -1,0 +1,34 @@
+Food: Quinoa, uncooked
+Food ID: 168874
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 14.12 g
+Carbohydrates: 64.16 g
+Fat: 6.07 g
+Fiber: 7 g
+
+Fats:
+Saturated fat: 0.706 g
+Monounsaturated fat: 1.613 g
+Polyunsaturated fat: 3.292 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 563 mg
+Calcium: 47 mg
+Iron: 4.57 mg
+Magnesium: 197 mg
+Zinc: 3.1 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin D: 0 µg
+Vitamin E: 2.44 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.487 mg
+Vitamin B12: 0 µg
+Folate: 184 µg

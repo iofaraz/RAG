@@ -1,0 +1,36 @@
+Food: Chocolate candy, fudge
+Food ID: 2710340
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 396 kcal
+Protein: 1.72 g
+Carbohydrates: 79.42 g
+Fat: 7.93 g
+Fiber: 0.8 g
+Sugar: 76.44 g
+
+Fats:
+Saturated fat: 4.915 g
+Monounsaturated fat: 2.171 g
+Polyunsaturated fat: 0.3 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 46 mg
+Potassium: 92 mg
+Calcium: 44 mg
+Iron: 0.9 mg
+Magnesium: 20 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.08 µg
+Folate: 2 µg

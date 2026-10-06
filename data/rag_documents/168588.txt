@@ -1,0 +1,36 @@
+Food: Nuts, almond butter, plain, without salt added
+Food ID: 168588
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 614 kcal
+Protein: 20.96 g
+Carbohydrates: 18.82 g
+Fat: 55.5 g
+Fiber: 10.3 g
+Sugar: 4.43 g
+
+Fats:
+Saturated fat: 4.152 g
+Monounsaturated fat: 32.445 g
+Polyunsaturated fat: 13.613 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 748 mg
+Calcium: 347 mg
+Iron: 3.49 mg
+Magnesium: 279 mg
+Zinc: 3.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 24.21 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0 µg
+Folate: 53 µg

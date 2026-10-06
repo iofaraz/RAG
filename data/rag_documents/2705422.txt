@@ -1,0 +1,36 @@
+Food: Yogurt, Greek, whole milk, plain
+Food ID: 2705422
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 8.78 g
+Carbohydrates: 4.75 g
+Fat: 4.39 g
+Fiber: 0 g
+Sugar: 3.25 g
+
+Fats:
+Saturated fat: 2.39 g
+Monounsaturated fat: 0.958 g
+Polyunsaturated fat: 0.469 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 147 mg
+Calcium: 111 mg
+Iron: 0 mg
+Magnesium: 11 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.75 µg
+Folate: 5 µg

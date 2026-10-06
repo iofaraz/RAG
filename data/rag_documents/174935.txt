@@ -1,0 +1,36 @@
+Food: Cake, pudding-type, chocolate, dry mix
+Food ID: 174935
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 391 kcal
+Protein: 4.6 g
+Carbohydrates: 80.16 g
+Fat: 8.14 g
+Fiber: 2.3 g
+Sugar: 39.53 g
+
+Fats:
+Saturated fat: 3.5 g
+Monounsaturated fat: 3.688 g
+Polyunsaturated fat: 2.985 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 866 mg
+Potassium: 337 mg
+Calcium: 133 mg
+Iron: 2.92 mg
+Magnesium: 41 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.5 µg
+Folate: 54 µg

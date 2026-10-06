@@ -1,0 +1,36 @@
+Food: Peppers, banana, raw
+Food ID: 2709802
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 1.66 g
+Carbohydrates: 5.35 g
+Fat: 0.45 g
+Fiber: 3.4 g
+Sugar: 1.95 g
+
+Fats:
+Saturated fat: 0.048 g
+Monounsaturated fat: 0.027 g
+Polyunsaturated fat: 0.243 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 256 mg
+Calcium: 14 mg
+Iron: 0.46 mg
+Magnesium: 17 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 82.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.69 mg
+Vitamin K: 9.5 µg
+Vitamin B6: 0.357 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

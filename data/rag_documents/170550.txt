@@ -1,0 +1,33 @@
+Food: Winged bean, immature seeds, cooked, boiled, drained, with salt
+Food ID: 170550
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 5.31 g
+Carbohydrates: 3.21 g
+Fat: 0.66 g
+
+Fats:
+Saturated fat: 0.101 g
+Monounsaturated fat: 0.237 g
+Polyunsaturated fat: 0.177 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 274 mg
+Calcium: 61 mg
+Iron: 1.09 mg
+Magnesium: 30 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 9.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

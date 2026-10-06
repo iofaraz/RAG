@@ -1,0 +1,32 @@
+Food: Fish, carp, cooked, dry heat
+Food ID: 174185
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 22.86 g
+Carbohydrates: 0 g
+Fat: 7.17 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.388 g
+Monounsaturated fat: 2.985 g
+Polyunsaturated fat: 1.835 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 427 mg
+Calcium: 52 mg
+Iron: 1.59 mg
+Magnesium: 38 mg
+Zinc: 1.9 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 1.6 mg
+Vitamin B6: 0.219 mg
+Vitamin B12: 1.47 µg
+Folate: 17 µg

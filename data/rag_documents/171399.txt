@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, powder, with ARA and DHA
+Food ID: 171399
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 514 kcal
+Protein: 11 g
+Carbohydrates: 55 g
+Fat: 27.75 g
+Fiber: 0 g
+Sugar: 55 g
+
+Fats:
+Saturated fat: 18.025 g
+Monounsaturated fat: 2.849 g
+Polyunsaturated fat: 6.218 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 154 mg
+Potassium: 550 mg
+Calcium: 432 mg
+Iron: 9.3 mg
+Magnesium: 31 mg
+Zinc: 3.83 mg
+
+Vitamins:
+Vitamin A: 467 µg
+Vitamin C: 46 mg
+Vitamin D: 7.7 µg
+Vitamin E: 6.93 mg
+Vitamin K: 41 µg
+Vitamin B6: 0.308 mg
+Vitamin B12: 1.28 µg
+Folate: 77 µg

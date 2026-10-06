@@ -1,0 +1,30 @@
+Food: Gelatin desserts, dry mix, with added ascorbic acid, sodium-citrate and salt
+Food ID: 169691
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 7.8 g
+Carbohydrates: 90.5 g
+Fat: 0 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 491 mg
+Potassium: 7 mg
+Calcium: 3 mg
+Iron: 0.15 mg
+Magnesium: 2 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 62.8 mg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

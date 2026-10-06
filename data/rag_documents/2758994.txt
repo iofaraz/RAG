@@ -1,0 +1,15 @@
+Food: Bread, 100% whole wheat, commercial
+Food ID: 2758994
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Minerals:
+Sodium: 408.2 mg
+Potassium: 203.4 mg
+Calcium: 132.3 mg
+Iron: 2.781 mg
+Magnesium: 72.94 mg
+Zinc: 1.725 mg
+
+Vitamins:
+Folate: 58.24 µg

@@ -1,0 +1,37 @@
+Food: Potatoes, white, flesh and skin, baked
+Food ID: 170434
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 2.1 g
+Carbohydrates: 21.08 g
+Fat: 0.15 g
+Fiber: 2.1 g
+Sugar: 1.53 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.003 g
+Polyunsaturated fat: 0.066 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 544 mg
+Calcium: 10 mg
+Iron: 0.64 mg
+Magnesium: 27 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 12.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.211 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

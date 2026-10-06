@@ -1,0 +1,33 @@
+Food: Fast foods, hamburger; single, regular patty; double decker bun with condiments and special sauce
+Food ID: 173318
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 259 kcal
+Protein: 12.17 g
+Carbohydrates: 22.69 g
+Fat: 13.3 g
+Fiber: 1.4 g
+
+Fats:
+Saturated fat: 4.24 g
+Monounsaturated fat: 4.78 g
+Polyunsaturated fat: 4.1 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 386 mg
+Potassium: 194 mg
+Calcium: 103 mg
+Iron: 2.07 mg
+Magnesium: 24 mg
+Zinc: 2.38 mg
+
+Vitamins:
+Vitamin C: 0.3 mg
+Vitamin E: 0.09 mg
+Vitamin K: 23.4 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 1.23 µg
+Folate: 22 µg

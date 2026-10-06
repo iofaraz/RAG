@@ -1,0 +1,37 @@
+Food: Onions, cooked, boiled, drained, without salt
+Food ID: 170001
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 1.36 g
+Carbohydrates: 10.15 g
+Fat: 0.19 g
+Fiber: 1.4 g
+Sugar: 4.73 g
+
+Fats:
+Saturated fat: 0.031 g
+Monounsaturated fat: 0.027 g
+Polyunsaturated fat: 0.073 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 166 mg
+Calcium: 22 mg
+Iron: 0.24 mg
+Magnesium: 11 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.129 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

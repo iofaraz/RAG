@@ -1,0 +1,36 @@
+Food: Bread, wheat or cracked wheat, with raisins, toasted
+Food ID: 2707725
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 321 kcal
+Protein: 9.51 g
+Carbohydrates: 63.44 g
+Fat: 4.08 g
+Fiber: 4.3 g
+Sugar: 20.55 g
+
+Fats:
+Saturated fat: 1.512 g
+Monounsaturated fat: 0.921 g
+Polyunsaturated fat: 0.79 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 507 mg
+Potassium: 263 mg
+Calcium: 57 mg
+Iron: 3.17 mg
+Magnesium: 46 mg
+Zinc: 1.18 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.38 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 0.05 µg
+Folate: 57 µg

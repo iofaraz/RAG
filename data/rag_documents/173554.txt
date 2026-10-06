@@ -1,0 +1,36 @@
+Food: Infant formula, PBM PRODUCTS, store brand, powder
+Food ID: 173554
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 524 kcal
+Protein: 12 g
+Carbohydrates: 56 g
+Fat: 28 g
+Fiber: 0 g
+Sugar: 56 g
+
+Fats:
+Saturated fat: 12.761 g
+Monounsaturated fat: 11.131 g
+Polyunsaturated fat: 3.951 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 118 mg
+Potassium: 441 mg
+Calcium: 331 mg
+Iron: 9.5 mg
+Magnesium: 36 mg
+Zinc: 3.9 mg
+
+Vitamins:
+Vitamin A: 473 µg
+Vitamin C: 43.3 mg
+Vitamin D: 7.6 µg
+Vitamin E: 3.38 mg
+Vitamin K: 43 µg
+Vitamin B6: 0.33 mg
+Vitamin B12: 1.02 µg
+Folate: 39 µg

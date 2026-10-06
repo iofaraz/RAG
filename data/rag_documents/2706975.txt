@@ -1,0 +1,36 @@
+Food: Barbecue pork sandwich, on white bun
+Food ID: 2706975
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 14.97 g
+Carbohydrates: 24.86 g
+Fat: 8.83 g
+Fiber: 0.8 g
+Sugar: 9.07 g
+
+Fats:
+Saturated fat: 2.935 g
+Monounsaturated fat: 3.541 g
+Polyunsaturated fat: 1.737 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 567 mg
+Potassium: 240 mg
+Calcium: 65 mg
+Iron: 1.89 mg
+Magnesium: 21 mg
+Zinc: 2.11 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.34 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.22 mg
+Vitamin B12: 0.45 µg
+Folate: 33 µg

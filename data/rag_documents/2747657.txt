@@ -1,0 +1,20 @@
+Food: Lobster, tail only, frozen, wild caught
+Food ID: 2747657
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 12.9938 g
+Carbohydrates: 0.88555 g
+Fat: 0.3667 g
+
+Minerals:
+Sodium: 508.8 mg
+Potassium: 212.6 mg
+Calcium: 71.64 mg
+Iron: 0.1728 mg
+Magnesium: 39.04 mg
+Zinc: 1.536 mg
+
+Vitamins:
+Vitamin B12: 0.995 µg

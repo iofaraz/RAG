@@ -1,0 +1,37 @@
+Food: Broccoli, frozen, chopped, unprepared
+Food ID: 169968
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 26 kcal
+Protein: 2.81 g
+Carbohydrates: 4.78 g
+Fat: 0.29 g
+Fiber: 3 g
+Sugar: 1.35 g
+
+Fats:
+Saturated fat: 0.044 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.136 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 212 mg
+Calcium: 56 mg
+Iron: 0.81 mg
+Magnesium: 18 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 56.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.22 mg
+Vitamin K: 81.1 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0 µg
+Folate: 67 µg

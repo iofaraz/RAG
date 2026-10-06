@@ -1,0 +1,36 @@
+Food: Pie, apple, commercially prepared, enriched flour
+Food ID: 175011
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 1.9 g
+Carbohydrates: 34 g
+Fat: 11 g
+Fiber: 1.6 g
+Sugar: 15.65 g
+
+Fats:
+Saturated fat: 3.797 g
+Monounsaturated fat: 4.388 g
+Polyunsaturated fat: 2.198 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 201 mg
+Potassium: 65 mg
+Calcium: 11 mg
+Iron: 0.45 mg
+Magnesium: 7 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.52 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.01 µg
+Folate: 27 µg

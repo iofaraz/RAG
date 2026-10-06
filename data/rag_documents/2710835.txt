@@ -1,0 +1,21 @@
+Food: Corn flour, masa harina, white or yellow, dry, raw
+Food ID: 2710835
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 7.5625 g
+Carbohydrates: 76.6895 g
+Fat: 4.34 g
+Fiber: 7.038 g
+
+Minerals:
+Sodium: 2.733 mg
+Potassium: 276.6 mg
+Calcium: 111.6 mg
+Iron: 1.698 mg
+Magnesium: 93.3 mg
+Zinc: 1.617 mg
+
+Vitamins:
+Vitamin B6: 0.229 mg

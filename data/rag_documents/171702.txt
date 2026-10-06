@@ -1,0 +1,32 @@
+Food: Apricots, dehydrated (low-moisture), sulfured, uncooked
+Food ID: 171702
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 320 kcal
+Protein: 4.9 g
+Carbohydrates: 82.89 g
+Fat: 0.62 g
+
+Fats:
+Saturated fat: 0.043 g
+Monounsaturated fat: 0.268 g
+Polyunsaturated fat: 0.121 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 1850 mg
+Calcium: 61 mg
+Iron: 6.31 mg
+Magnesium: 63 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 633 µg
+Vitamin C: 9.5 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.52 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

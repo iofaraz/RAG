@@ -1,0 +1,20 @@
+Food: Udi's, Gluten Free, Classic French Dinner Rolls
+Food ID: 168010
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 310 kcal
+Protein: 7.99 g
+Carbohydrates: 55.1 g
+Fat: 6.4 g
+Fiber: 3.6 g
+Sugar: 9.53 g
+
+Minerals:
+Sodium: 707 mg
+Potassium: 161 mg
+Calcium: 82 mg
+Iron: 0.78 mg
+Magnesium: 44 mg
+Zinc: 0.7 mg

@@ -1,0 +1,36 @@
+Food: Cheese, pasteurized process, pimento
+Food ID: 170854
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 375 kcal
+Protein: 22.13 g
+Carbohydrates: 1.73 g
+Fat: 31.2 g
+Fiber: 0.1 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 19.663 g
+Monounsaturated fat: 8.937 g
+Polyunsaturated fat: 0.988 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 915 mg
+Potassium: 162 mg
+Calcium: 614 mg
+Iron: 0.42 mg
+Magnesium: 22 mg
+Zinc: 2.98 mg
+
+Vitamins:
+Vitamin A: 244 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.29 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.071 mg
+Vitamin B12: 0.7 µg
+Folate: 8 µg

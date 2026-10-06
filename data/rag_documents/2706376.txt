@@ -1,0 +1,36 @@
+Food: Chili with meat, canned
+Food ID: 2706376
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 8.5 g
+Carbohydrates: 10.82 g
+Fat: 3.38 g
+Fiber: 3.2 g
+Sugar: 1.43 g
+
+Fats:
+Saturated fat: 1.244 g
+Monounsaturated fat: 1.41 g
+Polyunsaturated fat: 0.256 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 275 mg
+Calcium: 20 mg
+Iron: 1.84 mg
+Magnesium: 25 mg
+Zinc: 1.64 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.162 mg
+Vitamin B12: 0.48 µg
+Folate: 53 µg

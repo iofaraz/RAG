@@ -1,0 +1,19 @@
+Food: Juice, pomegranate, from concentrate, shelf-stable
+Food ID: 2727588
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0 g
+
+Minerals:
+Sodium: 4.038 mg
+Potassium: 165.6 mg
+Calcium: 11.03 mg
+Iron: 0.03088 mg
+Magnesium: 6.863 mg
+Zinc: 0.08176 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Folate: 5.871 µg

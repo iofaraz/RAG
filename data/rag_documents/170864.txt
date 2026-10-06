@@ -1,0 +1,27 @@
+Food: Yogurt, Greek, 2% fat, apricot, CHOBANI
+Food ID: 170864
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 7.22 g
+Carbohydrates: 12.15 g
+Fat: 1.71 g
+Fiber: 0.6 g
+
+Fats:
+Saturated fat: 1.03 g
+Monounsaturated fat: 0.39 g
+Polyunsaturated fat: 0.06 g
+Trans fat: 0.07 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 40 mg
+Calcium: 87 mg
+Iron: 0.03 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg

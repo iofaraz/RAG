@@ -1,0 +1,36 @@
+Food: Papad
+Food ID: 168106
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 25.56 g
+Carbohydrates: 59.87 g
+Fat: 3.25 g
+Fiber: 18.6 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.084 g
+Monounsaturated fat: 0.532 g
+Polyunsaturated fat: 1.148 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 1745 mg
+Potassium: 1000 mg
+Calcium: 143 mg
+Iron: 7.8 mg
+Magnesium: 271 mg
+Zinc: 3.4 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.285 mg
+Vitamin B12: 0 µg
+Folate: 219 µg

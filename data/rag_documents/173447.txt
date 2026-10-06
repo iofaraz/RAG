@@ -1,0 +1,26 @@
+Food: KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product
+Food ID: 173447
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 22.7 g
+Carbohydrates: 11.7 g
+Fat: 1 g
+Fiber: 0.2 g
+Sugar: 6.7 g
+
+Fats:
+Saturated fat: 0.7 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 1298 mg
+Potassium: 236 mg
+Calcium: 712 mg
+Iron: 0.05 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin C: 0.2 mg

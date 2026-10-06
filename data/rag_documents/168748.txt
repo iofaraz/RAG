@@ -1,0 +1,23 @@
+Food: Alcoholic beverage, beer, light, BUDWEISER SELECT
+Food ID: 168748
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 28 kcal
+Protein: 0.2 g
+Carbohydrates: 0.87 g
+Fat: 0 g
+Fiber: 0 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 26 mg
+Calcium: 4 mg
+Iron: 0 mg
+Magnesium: 6 mg
+Zinc: 0.01 mg

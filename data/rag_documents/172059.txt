@@ -1,0 +1,33 @@
+Food: McDONALD'S, Sausage McGRIDDLES
+Food ID: 172059
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 312 kcal
+Protein: 8.41 g
+Carbohydrates: 31.25 g
+Fat: 17.76 g
+Fiber: 1 g
+Sugar: 11.23 g
+
+Fats:
+Saturated fat: 5.435 g
+Monounsaturated fat: 7.532 g
+Polyunsaturated fat: 2.591 g
+Trans fat: 0.956 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 737 mg
+Potassium: 145 mg
+Calcium: 63 mg
+Iron: 1.42 mg
+Magnesium: 14 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0.27 µg
+Folate: 37 µg

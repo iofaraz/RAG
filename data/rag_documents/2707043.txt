@@ -1,0 +1,36 @@
+Food: Bologna sandwich on wheat, with cheese
+Food ID: 2707043
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 285 kcal
+Protein: 12.34 g
+Carbohydrates: 23.24 g
+Fat: 15.82 g
+Fiber: 2.4 g
+Sugar: 3.51 g
+
+Fats:
+Saturated fat: 5.841 g
+Monounsaturated fat: 5.464 g
+Polyunsaturated fat: 2.724 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 797 mg
+Potassium: 237 mg
+Calcium: 260 mg
+Iron: 1.96 mg
+Magnesium: 35 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.5 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.161 mg
+Vitamin B12: 0.43 µg
+Folate: 37 µg

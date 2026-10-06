@@ -1,0 +1,36 @@
+Food: Hard seltzer
+Food ID: 2710622
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 24 kcal
+Protein: 0.07 g
+Carbohydrates: 0.55 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 6 mg
+Calcium: 4 mg
+Iron: 0.01 mg
+Magnesium: 2 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.007 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

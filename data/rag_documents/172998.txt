@@ -1,0 +1,34 @@
+Food: Cereals, MALT-O-MEAL, Farina Hot Wheat Cereal, dry
+Food ID: 172998
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 365 kcal
+Protein: 10.48 g
+Carbohydrates: 77.2 g
+Fat: 0.49 g
+Fiber: 2.9 g
+Sugar: 0.7 g
+
+Fats:
+Saturated fat: 0.07 g
+Monounsaturated fat: 0.05 g
+Polyunsaturated fat: 0.21 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 93 mg
+Calcium: 377 mg
+Iron: 40.93 mg
+Magnesium: 13 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 2 mg
+Vitamin B12: 0 µg

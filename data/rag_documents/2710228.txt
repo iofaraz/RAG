@@ -1,0 +1,36 @@
+Food: Korean dressing or marinade
+Food ID: 2710228
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 348 kcal
+Protein: 3.17 g
+Carbohydrates: 12.66 g
+Fat: 31.41 g
+Fiber: 0.5 g
+Sugar: 10.2 g
+
+Fats:
+Saturated fat: 4.172 g
+Monounsaturated fat: 13.289 g
+Polyunsaturated fat: 12.062 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1850 mg
+Potassium: 182 mg
+Calcium: 17 mg
+Iron: 0.74 mg
+Magnesium: 31 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 5.69 mg
+Vitamin K: 29.9 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

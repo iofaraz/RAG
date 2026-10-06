@@ -1,0 +1,36 @@
+Food: Corn chips, plain (Fritos)
+Food ID: 2708198
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 539 kcal
+Protein: 6.17 g
+Carbohydrates: 57.27 g
+Fat: 33.36 g
+Fiber: 4 g
+Sugar: 0.27 g
+
+Fats:
+Saturated fat: 4.331 g
+Monounsaturated fat: 9.134 g
+Polyunsaturated fat: 16.438 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 514 mg
+Potassium: 144 mg
+Calcium: 138 mg
+Iron: 1.2 mg
+Magnesium: 72 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 7.23 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

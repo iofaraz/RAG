@@ -1,0 +1,36 @@
+Food: Soup, chicken broth, canned, condensed
+Food ID: 171542
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 4.42 g
+Carbohydrates: 0.75 g
+Fat: 1.04 g
+Fiber: 0 g
+Sugar: 0.35 g
+
+Fats:
+Saturated fat: 0.31 g
+Monounsaturated fat: 0.47 g
+Polyunsaturated fat: 0.22 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 621 mg
+Potassium: 170 mg
+Calcium: 6 mg
+Iron: 0.41 mg
+Magnesium: 2 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.2 µg
+Folate: 4 µg

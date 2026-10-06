@@ -1,0 +1,33 @@
+Food: Babyfood, juice, orange and apricot
+Food ID: 170961
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 0.8 g
+Carbohydrates: 10.9 g
+Fat: 0.1 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 0.011 g
+Monounsaturated fat: 0.022 g
+Polyunsaturated fat: 0.02 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 199 mg
+Calcium: 6 mg
+Iron: 0.38 mg
+Magnesium: 7 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 85.9 mg
+Vitamin E: 0.6 mg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

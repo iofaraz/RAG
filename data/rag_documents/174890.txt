@@ -1,0 +1,35 @@
+Food: Lamb, Australian, imported, fresh, rack, roast, frenched, bone-in, separable lean only, trimmed to 1/8" fat, cooked, roasted
+Food ID: 174890
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 28.01 g
+Carbohydrates: 0 g
+Fat: 14.64 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.802 g
+Monounsaturated fat: 6.124 g
+Polyunsaturated fat: 1.024 g
+Trans fat: 0.899 g
+Cholesterol: 96 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 237 mg
+Calcium: 6 mg
+Iron: 2.63 mg
+Magnesium: 22 mg
+Zinc: 2.98 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin B6: 0.556 mg
+Vitamin B12: 1.5 µg

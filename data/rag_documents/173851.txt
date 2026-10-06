@@ -1,0 +1,29 @@
+Food: Game meat, bison, separable lean only, raw
+Food ID: 173851
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 21.62 g
+Carbohydrates: 0 g
+Fat: 1.84 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.69 g
+Monounsaturated fat: 0.72 g
+Polyunsaturated fat: 0.19 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 343 mg
+Calcium: 6 mg
+Iron: 2.6 mg
+Magnesium: 25 mg
+Zinc: 2.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

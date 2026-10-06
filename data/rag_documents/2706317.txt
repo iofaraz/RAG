@@ -1,0 +1,36 @@
+Food: Fish, whiting, steamed
+Food ID: 2706317
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 23.13 g
+Carbohydrates: 0 g
+Fat: 1.66 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.312 g
+Monounsaturated fat: 0.352 g
+Polyunsaturated fat: 0.533 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 189 mg
+Potassium: 315 mg
+Calcium: 61 mg
+Iron: 0.43 mg
+Magnesium: 27 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0 mg
+Vitamin D: 1.8 µg
+Vitamin E: 0.38 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.177 mg
+Vitamin B12: 2.62 µg
+Folate: 15 µg

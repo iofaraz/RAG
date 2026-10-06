@@ -1,0 +1,36 @@
+Food: Pizza, with meat, whole wheat thin crust
+Food ID: 2708689
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 289 kcal
+Protein: 13.05 g
+Carbohydrates: 23.58 g
+Fat: 16.35 g
+Fiber: 2.9 g
+Sugar: 3.09 g
+
+Fats:
+Saturated fat: 5.727 g
+Monounsaturated fat: 6.991 g
+Polyunsaturated fat: 2.126 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 641 mg
+Potassium: 220 mg
+Calcium: 198 mg
+Iron: 2.19 mg
+Magnesium: 48 mg
+Zinc: 1.87 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.65 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.195 mg
+Vitamin B12: 0.4 µg
+Folate: 44 µg

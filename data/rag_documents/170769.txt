@@ -1,0 +1,32 @@
+Food: PIZZA HUT 14" Sausage Pizza, Hand-Tossed Crust
+Food ID: 170769
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 11.92 g
+Carbohydrates: 29.39 g
+Fat: 13.5 g
+Fiber: 2.3 g
+Sugar: 2.72 g
+
+Fats:
+Saturated fat: 5.459 g
+Monounsaturated fat: 4.732 g
+Polyunsaturated fat: 2.318 g
+Trans fat: 0.22 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 671 mg
+Potassium: 211 mg
+Calcium: 150 mg
+Iron: 2.45 mg
+Magnesium: 23 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin C: 2.8 mg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.49 µg

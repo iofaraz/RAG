@@ -1,0 +1,36 @@
+Food: Liver, beef
+Food ID: 2706153
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 26.31 g
+Carbohydrates: 5.12 g
+Fat: 4.64 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.51 g
+Monounsaturated fat: 1.097 g
+Polyunsaturated fat: 1.013 g
+Cholesterol: 378 mg
+
+Minerals:
+Sodium: 384 mg
+Potassium: 348 mg
+Calcium: 6 mg
+Iron: 6.12 mg
+Magnesium: 22 mg
+Zinc: 5.19 mg
+
+Vitamins:
+Vitamin A: 7683 µg
+Vitamin C: 0.7 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.46 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 1.019 mg
+Vitamin B12: 82.47 µg
+Folate: 258 µg

@@ -1,0 +1,37 @@
+Food: Asparagus, cooked, boiled, drained
+Food ID: 168390
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 2.4 g
+Carbohydrates: 4.11 g
+Fat: 0.22 g
+Fiber: 2 g
+Sugar: 1.3 g
+
+Fats:
+Saturated fat: 0.048 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.105 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 224 mg
+Calcium: 23 mg
+Iron: 0.91 mg
+Magnesium: 14 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 7.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.5 mg
+Vitamin K: 50.6 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0 µg
+Folate: 149 µg

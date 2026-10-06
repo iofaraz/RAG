@@ -1,0 +1,35 @@
+Food: CARRABBA'S ITALIAN GRILL, spaghetti with pomodoro sauce
+Food ID: 169853
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 3.42 g
+Carbohydrates: 18.63 g
+Fat: 1.75 g
+Fiber: 1.7 g
+Sugar: 1.87 g
+
+Fats:
+Saturated fat: 0.36 g
+Monounsaturated fat: 0.927 g
+Polyunsaturated fat: 0.375 g
+Trans fat: 0.009 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 218 mg
+Potassium: 143 mg
+Calcium: 17 mg
+Iron: 0.74 mg
+Magnesium: 14 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 1 mg
+Vitamin E: 0.84 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.086 mg
+Folate: 32 µg

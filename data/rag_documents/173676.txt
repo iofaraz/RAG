@@ -1,0 +1,32 @@
+Food: Fish, monkfish, raw
+Food ID: 173676
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 14.48 g
+Carbohydrates: 0 g
+Fat: 1.52 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.34 g
+Monounsaturated fat: 0.24 g
+Polyunsaturated fat: 0.61 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 400 mg
+Calcium: 8 mg
+Iron: 0.32 mg
+Magnesium: 21 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 1 mg
+Vitamin B6: 0.24 mg
+Vitamin B12: 0.9 µg
+Folate: 7 µg

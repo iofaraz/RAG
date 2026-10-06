@@ -1,0 +1,36 @@
+Food: Beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted
+Food ID: 169897
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 35.8 g
+Carbohydrates: 41 g
+Fat: 5.1 g
+Fiber: 2 g
+Sugar: 39 g
+
+Fats:
+Saturated fat: 2.162 g
+Monounsaturated fat: 1.189 g
+Polyunsaturated fat: 1.027 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 717 mg
+Potassium: 1705 mg
+Calcium: 500 mg
+Iron: 2.3 mg
+Magnesium: 410 mg
+Zinc: 15.4 mg
+
+Vitamins:
+Vitamin A: 2686 µg
+Vitamin C: 138 mg
+Vitamin D: 0 µg
+Vitamin E: 16.88 mg
+Vitamin K: 120 µg
+Vitamin B6: 2 mg
+Vitamin B12: 3.1 µg
+Folate: 500 µg

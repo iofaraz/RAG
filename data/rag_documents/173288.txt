@@ -1,0 +1,33 @@
+Food: LITTLE CAESARS 14" Pepperoni Pizza, Large Deep Dish Crust
+Food ID: 173288
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 12.93 g
+Carbohydrates: 29.03 g
+Fat: 10.81 g
+Fiber: 1.5 g
+Sugar: 3.39 g
+
+Fats:
+Saturated fat: 4.314 g
+Monounsaturated fat: 3.151 g
+Polyunsaturated fat: 1.756 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 492 mg
+Potassium: 173 mg
+Calcium: 201 mg
+Iron: 2.3 mg
+Magnesium: 27 mg
+Zinc: 1.57 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 0 mg
+Vitamin E: 0.81 mg
+Vitamin K: 7.1 µg
+Vitamin B12: 0.46 µg

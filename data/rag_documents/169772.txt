@@ -1,0 +1,37 @@
+Food: Taquitos, frozen, beef and cheese, oven-heated
+Food ID: 169772
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 9.4 g
+Carbohydrates: 33.46 g
+Fat: 12.79 g
+Fiber: 2.8 g
+Sugar: 1.66 g
+
+Fats:
+Saturated fat: 2.621 g
+Monounsaturated fat: 5.127 g
+Polyunsaturated fat: 4.187 g
+Trans fat: 0.147 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 456 mg
+Potassium: 174 mg
+Calcium: 97 mg
+Iron: 2.67 mg
+Magnesium: 24 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.25 mg
+Vitamin K: 22 µg
+Vitamin B6: 0.179 mg
+Vitamin B12: 0.28 µg
+Folate: 68 µg

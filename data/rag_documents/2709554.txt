@@ -1,0 +1,36 @@
+Food: Stewed potatoes
+Food ID: 2709554
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 1.99 g
+Carbohydrates: 16.26 g
+Fat: 3.39 g
+Fiber: 2.1 g
+Sugar: 0.96 g
+
+Fats:
+Saturated fat: 0.443 g
+Monounsaturated fat: 1.322 g
+Polyunsaturated fat: 1.236 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 147 mg
+Potassium: 435 mg
+Calcium: 8 mg
+Iron: 0.38 mg
+Magnesium: 23 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 15.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

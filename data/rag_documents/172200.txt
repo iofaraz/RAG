@@ -1,0 +1,36 @@
+Food: Cheese sauce, prepared from recipe
+Food ID: 172200
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 197 kcal
+Protein: 10.33 g
+Carbohydrates: 5.48 g
+Fat: 14.92 g
+Fiber: 0.1 g
+Sugar: 0.19 g
+
+Fats:
+Saturated fat: 8.034 g
+Monounsaturated fat: 4.735 g
+Polyunsaturated fat: 1.397 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 493 mg
+Potassium: 142 mg
+Calcium: 311 mg
+Iron: 0.35 mg
+Magnesium: 19 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.35 µg
+Folate: 10 µg

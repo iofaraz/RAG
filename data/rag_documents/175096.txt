@@ -1,0 +1,22 @@
+Food: Beverages, water, tap, well
+Food ID: 175096
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 0 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 0 g
+Fiber: 0 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 0 mg
+Calcium: 3 mg
+Iron: 0 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg

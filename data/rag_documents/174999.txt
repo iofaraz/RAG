@@ -1,0 +1,36 @@
+Food: Hush puppies, prepared from recipe
+Food ID: 174999
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 337 kcal
+Protein: 7.7 g
+Carbohydrates: 46 g
+Fat: 13.5 g
+Fiber: 2.8 g
+Sugar: 2.03 g
+
+Fats:
+Saturated fat: 2.108 g
+Monounsaturated fat: 3.263 g
+Polyunsaturated fat: 7.219 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 668 mg
+Potassium: 144 mg
+Calcium: 278 mg
+Iron: 3.04 mg
+Magnesium: 24 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.26 mg
+Vitamin K: 23.6 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.19 µg
+Folate: 89 µg

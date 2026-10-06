@@ -1,0 +1,37 @@
+Food: Fast foods, submarine sandwich, roast beef on white bread with lettuce and tomato
+Food ID: 170298
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 156 kcal
+Protein: 12.17 g
+Carbohydrates: 20.34 g
+Fat: 2.73 g
+Fiber: 0.7 g
+Sugar: 3 g
+
+Fats:
+Saturated fat: 0.972 g
+Monounsaturated fat: 0.789 g
+Polyunsaturated fat: 0.718 g
+Trans fat: 0.052 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 188 mg
+Calcium: 164 mg
+Iron: 2.09 mg
+Magnesium: 20 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.275 mg
+Vitamin B12: 0.44 µg
+Folate: 67 µg

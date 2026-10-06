@@ -1,0 +1,21 @@
+Food: Apricot, with skin, raw
+Food ID: 2710815
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.96125 g
+Carbohydrates: 10.2387 g
+Fat: 0.405 g
+Fiber: 1.51 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 231.4 mg
+Calcium: 11.59 mg
+Iron: 0.1634 mg
+Magnesium: 8.883 mg
+Zinc: 0.1483 mg
+
+Vitamins:
+Vitamin C: 3.071 mg

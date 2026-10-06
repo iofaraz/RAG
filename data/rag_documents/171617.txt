@@ -1,0 +1,35 @@
+Food: Sausage, Berliner, pork, beef
+Food ID: 171617
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 15.27 g
+Carbohydrates: 2.59 g
+Fat: 17.2 g
+Fiber: 0 g
+Sugar: 2.35 g
+
+Fats:
+Saturated fat: 6.08 g
+Monounsaturated fat: 8 g
+Polyunsaturated fat: 1.58 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 1297 mg
+Potassium: 283 mg
+Calcium: 12 mg
+Iron: 1.15 mg
+Magnesium: 15 mg
+Zinc: 2.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.2 mg
+Vitamin B12: 2.67 µg
+Folate: 5 µg

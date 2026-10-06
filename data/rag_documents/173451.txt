@@ -1,0 +1,36 @@
+Food: Yogurt, fruit, lowfat, with low calorie sweetener
+Food ID: 173451
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 4.86 g
+Carbohydrates: 18.6 g
+Fat: 1.41 g
+Fiber: 0 g
+Sugar: 2.9 g
+
+Fats:
+Saturated fat: 0.909 g
+Monounsaturated fat: 0.387 g
+Polyunsaturated fat: 0.04 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 194 mg
+Calcium: 152 mg
+Iron: 0.07 mg
+Magnesium: 16 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 131 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.52 µg
+Folate: 10 µg

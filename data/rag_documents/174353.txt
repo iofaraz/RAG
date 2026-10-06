@@ -1,0 +1,32 @@
+Food: Veal, variety meats and by-products, brain, cooked, pan-fried
+Food ID: 174353
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 14.48 g
+Carbohydrates: 0 g
+Fat: 16.75 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.96 g
+Monounsaturated fat: 4.21 g
+Polyunsaturated fat: 2.44 g
+Cholesterol: 2120 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 472 mg
+Calcium: 10 mg
+Iron: 1.07 mg
+Magnesium: 18 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 15 mg
+Vitamin B6: 0.33 mg
+Vitamin B12: 21.3 µg
+Folate: 6 µg

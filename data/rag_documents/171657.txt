@@ -1,0 +1,36 @@
+Food: Cereals, CREAM OF WHEAT, regular (10 minute), cooked with water, without salt
+Food ID: 171657
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.44 g
+Carbohydrates: 10.52 g
+Fat: 0.21 g
+Fiber: 0.5 g
+Sugar: 0.03 g
+
+Fats:
+Saturated fat: 0.033 g
+Monounsaturated fat: 0.028 g
+Polyunsaturated fat: 0.114 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 16 mg
+Calcium: 87 mg
+Iron: 3.74 mg
+Magnesium: 5 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.013 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

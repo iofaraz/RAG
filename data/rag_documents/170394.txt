@@ -1,0 +1,37 @@
+Food: Carrots, cooked, boiled, drained, without salt
+Food ID: 170394
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 0.76 g
+Carbohydrates: 8.22 g
+Fat: 0.18 g
+Fiber: 3 g
+Sugar: 3.45 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.089 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 235 mg
+Calcium: 30 mg
+Iron: 0.34 mg
+Magnesium: 10 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 852 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.03 mg
+Vitamin K: 13.7 µg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

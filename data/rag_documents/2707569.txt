@@ -1,0 +1,36 @@
+Food: Yogurt, coconut milk
+Food ID: 2707569
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 2.37 g
+Carbohydrates: 12.91 g
+Fat: 5.61 g
+Fiber: 1.2 g
+Sugar: 8.88 g
+
+Fats:
+Saturated fat: 5.094 g
+Monounsaturated fat: 0.189 g
+Polyunsaturated fat: 0.077 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 68 mg
+Calcium: 145 mg
+Iron: 0.86 mg
+Magnesium: 5 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 1.5 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0.46 µg
+Folate: 8 µg

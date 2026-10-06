@@ -1,0 +1,36 @@
+Food: Pork with chili and tomatoes
+Food ID: 2706411
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 11.64 g
+Carbohydrates: 2.68 g
+Fat: 3.99 g
+Fiber: 0.9 g
+Sugar: 1.63 g
+
+Fats:
+Saturated fat: 1.4 g
+Monounsaturated fat: 1.763 g
+Polyunsaturated fat: 0.464 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 118 mg
+Potassium: 323 mg
+Calcium: 15 mg
+Iron: 0.58 mg
+Magnesium: 18 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 16.7 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.7 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.255 mg
+Vitamin B12: 0.25 µg
+Folate: 9 µg

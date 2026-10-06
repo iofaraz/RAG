@@ -1,0 +1,35 @@
+Food: Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8" fat, select, raw
+Food ID: 169551
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 20.68 g
+Carbohydrates: 0 g
+Fat: 11.13 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.491 g
+Monounsaturated fat: 4.765 g
+Polyunsaturated fat: 0.423 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 321 mg
+Calcium: 24 mg
+Iron: 1.51 mg
+Magnesium: 21 mg
+Zinc: 3.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.35 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.571 mg
+Vitamin B12: 0.98 µg
+Folate: 11 µg

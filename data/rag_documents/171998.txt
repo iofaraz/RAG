@@ -1,0 +1,32 @@
+Food: Fish, salmon, Atlantic, wild, cooked, dry heat
+Food ID: 171998
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 182 kcal
+Protein: 25.44 g
+Carbohydrates: 0 g
+Fat: 8.13 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.257 g
+Monounsaturated fat: 2.697 g
+Polyunsaturated fat: 3.256 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 628 mg
+Calcium: 15 mg
+Iron: 1.03 mg
+Magnesium: 37 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.944 mg
+Vitamin B12: 3.05 µg
+Folate: 29 µg

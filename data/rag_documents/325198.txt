@@ -1,0 +1,33 @@
+Food: Cheese, pasteurized process, American, vitamin D fortified
+Food ID: 325198
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 18 g
+Carbohydrates: 5.27 g
+Fat: 30.6 g
+
+Fats:
+Saturated fat: 18.1 g
+Monounsaturated fat: 7.3 g
+Polyunsaturated fat: 1.09 g
+Trans fat: 1.15 g
+Cholesterol: 98 mg
+
+Minerals:
+Sodium: 1660 mg
+Potassium: 149 mg
+Calcium: 866 mg
+Iron: 0.48 mg
+Magnesium: 25.1 mg
+Zinc: 2.42 mg
+
+Vitamins:
+Vitamin A: 300 µg
+Vitamin D: 7.5 µg
+Vitamin E: 0.79 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 1.45 µg

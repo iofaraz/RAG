@@ -1,0 +1,36 @@
+Food: Egg sandwich on English muffin, with sausage
+Food ID: 2707316
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 12.89 g
+Carbohydrates: 16.04 g
+Fat: 16.52 g
+Fiber: 1.2 g
+Sugar: 1.8 g
+
+Fats:
+Saturated fat: 6.233 g
+Monounsaturated fat: 5.966 g
+Polyunsaturated fat: 2.783 g
+Cholesterol: 150 mg
+
+Minerals:
+Sodium: 501 mg
+Potassium: 165 mg
+Calcium: 178 mg
+Iron: 2.14 mg
+Magnesium: 18 mg
+Zinc: 1.59 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.93 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.63 µg
+Folate: 49 µg

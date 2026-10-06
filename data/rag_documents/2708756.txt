@@ -1,0 +1,36 @@
+Food: Lasagna with chicken or turkey
+Food ID: 2708756
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 205 kcal
+Protein: 13.74 g
+Carbohydrates: 14.01 g
+Fat: 10.37 g
+Fiber: 1 g
+Sugar: 2.2 g
+
+Fats:
+Saturated fat: 5.177 g
+Monounsaturated fat: 2.571 g
+Polyunsaturated fat: 1.01 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 387 mg
+Potassium: 198 mg
+Calcium: 266 mg
+Iron: 0.85 mg
+Magnesium: 25 mg
+Zinc: 1.78 mg
+
+Vitamins:
+Vitamin A: 94 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.9 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.156 mg
+Vitamin B12: 0.48 µg
+Folate: 26 µg

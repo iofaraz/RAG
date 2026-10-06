@@ -1,0 +1,31 @@
+Food: Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8" fat, all grades, raw
+Food ID: 169498
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 306 kcal
+Protein: 16.53 g
+Carbohydrates: 0 g
+Fat: 26.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 10.76 g
+Monounsaturated fat: 11.24 g
+Polyunsaturated fat: 0.94 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 55 mg
+Potassium: 272 mg
+Calcium: 9 mg
+Iron: 1.74 mg
+Magnesium: 16 mg
+Zinc: 3.73 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.31 mg
+Vitamin B12: 2.82 µg
+Folate: 5 µg

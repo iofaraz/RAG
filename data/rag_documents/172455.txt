@@ -1,0 +1,33 @@
+Food: Falafel, home-prepared
+Food ID: 172455
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 13.31 g
+Carbohydrates: 31.84 g
+Fat: 17.8 g
+
+Fats:
+Saturated fat: 2.383 g
+Monounsaturated fat: 10.171 g
+Polyunsaturated fat: 4.16 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 294 mg
+Potassium: 585 mg
+Calcium: 54 mg
+Iron: 3.42 mg
+Magnesium: 82 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0 µg
+Folate: 93 µg

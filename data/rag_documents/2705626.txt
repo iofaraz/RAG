@@ -1,0 +1,36 @@
+Food: Spinach dip, light
+Food ID: 2705626
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 2.2 g
+Carbohydrates: 11.42 g
+Fat: 12.41 g
+Fiber: 0.3 g
+Sugar: 6.52 g
+
+Fats:
+Saturated fat: 3.874 g
+Monounsaturated fat: 3.038 g
+Polyunsaturated fat: 4.943 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 488 mg
+Potassium: 134 mg
+Calcium: 84 mg
+Iron: 0.22 mg
+Magnesium: 12 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.18 mg
+Vitamin K: 59.5 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.24 µg
+Folate: 15 µg

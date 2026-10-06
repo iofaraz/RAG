@@ -1,0 +1,31 @@
+Food: Pie, pecan, prepared from recipe
+Food ID: 172786
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 412 kcal
+Protein: 4.9 g
+Carbohydrates: 52.2 g
+Fat: 22.2 g
+
+Fats:
+Saturated fat: 3.989 g
+Monounsaturated fat: 11.181 g
+Polyunsaturated fat: 5.71 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 262 mg
+Potassium: 133 mg
+Calcium: 32 mg
+Iron: 1.48 mg
+Magnesium: 26 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.17 µg
+Folate: 26 µg

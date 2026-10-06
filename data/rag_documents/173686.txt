@@ -1,0 +1,32 @@
+Food: Fish, salmon, Atlantic, wild, raw
+Food ID: 173686
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 19.84 g
+Carbohydrates: 0 g
+Fat: 6.34 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.981 g
+Monounsaturated fat: 2.103 g
+Polyunsaturated fat: 2.539 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 44 mg
+Potassium: 490 mg
+Calcium: 12 mg
+Iron: 0.8 mg
+Magnesium: 29 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.818 mg
+Vitamin B12: 3.18 µg
+Folate: 25 µg

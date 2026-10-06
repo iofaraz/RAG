@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, leg chop/steak, bone-in, separable lean and fat, cooked, fast fried
+Food ID: 174460
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 24.26 g
+Carbohydrates: 0.04 g
+Fat: 12.76 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.743 g
+Monounsaturated fat: 3.433 g
+Polyunsaturated fat: 0.591 g
+Trans fat: 0.59 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 353 mg
+Calcium: 10 mg
+Iron: 1.93 mg
+Magnesium: 25 mg
+Zinc: 3.66 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin B6: 0.155 mg
+Vitamin B12: 2.09 µg

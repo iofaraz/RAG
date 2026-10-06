@@ -1,0 +1,33 @@
+Food: Veal, rib, separable lean only, cooked, roasted
+Food ID: 173830
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 177 kcal
+Protein: 25.76 g
+Carbohydrates: 0 g
+Fat: 7.44 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.08 g
+Monounsaturated fat: 2.66 g
+Polyunsaturated fat: 0.67 g
+Cholesterol: 115 mg
+
+Minerals:
+Sodium: 97 mg
+Potassium: 311 mg
+Calcium: 12 mg
+Iron: 0.96 mg
+Magnesium: 24 mg
+Zinc: 4.49 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.36 mg
+Vitamin B6: 0.27 mg
+Vitamin B12: 1.58 µg
+Folate: 14 µg

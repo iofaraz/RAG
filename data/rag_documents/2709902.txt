@@ -1,0 +1,36 @@
+Food: Cauliflower, fresh, cooked with oil
+Food ID: 2709902
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 1.94 g
+Carbohydrates: 5.01 g
+Fat: 3.31 g
+Fiber: 2 g
+Sugar: 1.93 g
+
+Fats:
+Saturated fat: 0.535 g
+Monounsaturated fat: 1.316 g
+Polyunsaturated fat: 1.193 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 147 mg
+Potassium: 302 mg
+Calcium: 22 mg
+Iron: 0.43 mg
+Magnesium: 15 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 41.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.66 mg
+Vitamin K: 18.7 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

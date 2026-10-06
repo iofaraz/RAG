@@ -1,0 +1,37 @@
+Food: Beans, great northern, mature seeds, raw (Includes foods for USDA's Food Distribution Program)
+Food ID: 175190
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 21.86 g
+Carbohydrates: 62.37 g
+Fat: 1.14 g
+Fiber: 20.2 g
+Sugar: 2.26 g
+
+Fats:
+Saturated fat: 0.356 g
+Monounsaturated fat: 0.053 g
+Polyunsaturated fat: 0.477 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 1387 mg
+Calcium: 175 mg
+Iron: 5.47 mg
+Magnesium: 189 mg
+Zinc: 2.31 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.447 mg
+Vitamin B12: 0 µg
+Folate: 482 µg

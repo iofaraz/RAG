@@ -1,0 +1,36 @@
+Food: Chicken patty, frozen, cooked
+Food ID: 171513
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 14.85 g
+Carbohydrates: 12.84 g
+Fat: 19.58 g
+Fiber: 0.3 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.662 g
+Monounsaturated fat: 8.337 g
+Polyunsaturated fat: 4.805 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 532 mg
+Potassium: 261 mg
+Calcium: 19 mg
+Iron: 0.95 mg
+Magnesium: 24 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.28 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.183 mg
+Vitamin B12: 0.29 µg
+Folate: 7 µg

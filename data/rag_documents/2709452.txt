@@ -1,0 +1,36 @@
+Food: Potato, scalloped, from dry mix
+Food ID: 2709452
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 169 kcal
+Protein: 6.91 g
+Carbohydrates: 13.54 g
+Fat: 9.79 g
+Fiber: 0.8 g
+Sugar: 2.21 g
+
+Fats:
+Saturated fat: 5.232 g
+Monounsaturated fat: 2.217 g
+Polyunsaturated fat: 0.621 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 243 mg
+Calcium: 185 mg
+Iron: 0.32 mg
+Magnesium: 21 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 103 µg
+Vitamin C: 5.9 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.38 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.194 mg
+Vitamin B12: 0.21 µg
+Folate: 11 µg

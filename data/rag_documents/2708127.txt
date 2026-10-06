@@ -1,0 +1,36 @@
+Food: Nutrition bar or meal replacement bar, NFS
+Food ID: 2708127
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 22.36 g
+Carbohydrates: 55.22 g
+Fat: 9.94 g
+Fiber: 4.7 g
+Sugar: 29.31 g
+
+Fats:
+Saturated fat: 2.985 g
+Monounsaturated fat: 2.46 g
+Polyunsaturated fat: 3.493 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 320 mg
+Potassium: 331 mg
+Calcium: 284 mg
+Iron: 5.11 mg
+Magnesium: 114 mg
+Zinc: 5.96 mg
+
+Vitamins:
+Vitamin A: 526 µg
+Vitamin C: 104.1 mg
+Vitamin D: 0 µg
+Vitamin E: 12.12 mg
+Vitamin K: 19.2 µg
+Vitamin B6: 1.294 mg
+Vitamin B12: 2.76 µg
+Folate: 139 µg

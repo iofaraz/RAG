@@ -1,0 +1,36 @@
+Food: Cheese, Colby
+Food ID: 2705712
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 394 kcal
+Protein: 23.76 g
+Carbohydrates: 2.57 g
+Fat: 32.11 g
+Fiber: 0 g
+Sugar: 0.52 g
+
+Fats:
+Saturated fat: 20.218 g
+Monounsaturated fat: 9.28 g
+Polyunsaturated fat: 0.953 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 604 mg
+Potassium: 127 mg
+Calcium: 685 mg
+Iron: 0.76 mg
+Magnesium: 26 mg
+Zinc: 3.07 mg
+
+Vitamins:
+Vitamin A: 264 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.28 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.83 µg
+Folate: 18 µg

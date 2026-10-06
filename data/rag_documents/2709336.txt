@@ -1,0 +1,36 @@
+Food: Fruit smoothie, with whole fruit, non-dairy
+Food ID: 2709336
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 1.45 g
+Carbohydrates: 11.56 g
+Fat: 1.06 g
+Fiber: 1.1 g
+Sugar: 5.17 g
+
+Fats:
+Saturated fat: 0.135 g
+Monounsaturated fat: 0.339 g
+Polyunsaturated fat: 0.465 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 104 mg
+Calcium: 77 mg
+Iron: 0.52 mg
+Magnesium: 19 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 9.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.79 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.1 µg
+Folate: 9 µg

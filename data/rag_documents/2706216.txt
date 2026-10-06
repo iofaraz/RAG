@@ -1,0 +1,36 @@
+Food: Turkey, prepackaged or deli, luncheon meat, reduced sodium
+Food ID: 2706216
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 14.81 g
+Carbohydrates: 2.2 g
+Fat: 3.77 g
+Fiber: 0 g
+Sugar: 0.91 g
+
+Fats:
+Saturated fat: 0.906 g
+Monounsaturated fat: 1.145 g
+Polyunsaturated fat: 1.024 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 610 mg
+Potassium: 371 mg
+Calcium: 14 mg
+Iron: 0.42 mg
+Magnesium: 19 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.41 mg
+Vitamin B12: 0.37 µg
+Folate: 4 µg

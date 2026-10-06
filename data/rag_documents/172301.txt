@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, with iron, powder
+Food ID: 172301
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 520 kcal
+Protein: 10.8 g
+Carbohydrates: 56.2 g
+Fat: 27 g
+Fiber: 0 g
+Sugar: 56 g
+
+Fats:
+Saturated fat: 11.5 g
+Monounsaturated fat: 10.3 g
+Polyunsaturated fat: 5.2 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 139 mg
+Potassium: 560 mg
+Calcium: 400 mg
+Iron: 9.3 mg
+Magnesium: 41 mg
+Zinc: 5.2 mg
+
+Vitamins:
+Vitamin A: 470 µg
+Vitamin C: 62 mg
+Vitamin D: 7.8 µg
+Vitamin E: 6.9 mg
+Vitamin K: 41 µg
+Vitamin B6: 0.31 mg
+Vitamin B12: 1.55 µg
+Folate: 83 µg

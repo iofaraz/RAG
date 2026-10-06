@@ -1,0 +1,33 @@
+Food: Fast foods, sundae, caramel
+Food ID: 173275
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 196 kcal
+Protein: 4.71 g
+Carbohydrates: 31.81 g
+Fat: 5.98 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.91 g
+Monounsaturated fat: 1.957 g
+Polyunsaturated fat: 0.653 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 126 mg
+Potassium: 205 mg
+Calcium: 122 mg
+Iron: 0.14 mg
+Magnesium: 18 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 2.2 mg
+Vitamin E: 0.58 mg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.39 µg
+Folate: 8 µg

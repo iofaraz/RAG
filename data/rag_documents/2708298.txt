@@ -1,0 +1,36 @@
+Food: Pancakes, whole grain, frozen
+Food ID: 2708298
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 232 kcal
+Protein: 5.54 g
+Carbohydrates: 38.55 g
+Fat: 6.75 g
+Fiber: 2.3 g
+Sugar: 8.08 g
+
+Fats:
+Saturated fat: 1.146 g
+Monounsaturated fat: 1.526 g
+Polyunsaturated fat: 3.782 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 447 mg
+Potassium: 123 mg
+Calcium: 78 mg
+Iron: 5.82 mg
+Magnesium: 32 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 417 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin K: 6.4 µg
+Vitamin B6: 0.543 mg
+Vitamin B12: 1.57 µg
+Folate: 61 µg

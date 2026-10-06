@@ -1,0 +1,27 @@
+Food: Horned melon (Kiwano)
+Food ID: 167791
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 1.78 g
+Carbohydrates: 7.56 g
+Fat: 1.26 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 123 mg
+Calcium: 13 mg
+Iron: 1.13 mg
+Magnesium: 40 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 5.3 mg
+Vitamin B6: 0.063 mg
+Folate: 3 µg

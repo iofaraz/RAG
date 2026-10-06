@@ -1,0 +1,21 @@
+Food: Flour, rye
+Food ID: 2512375
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 8.3952 g
+Carbohydrates: 77.1618 g
+Fat: 1.908 g
+Fiber: 13.68 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 434 mg
+Calcium: 32.24 mg
+Iron: 2.536 mg
+Magnesium: 95.39 mg
+Zinc: 2.328 mg
+
+Vitamins:
+Vitamin B6: 0.1638 mg

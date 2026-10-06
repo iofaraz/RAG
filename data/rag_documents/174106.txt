@@ -1,0 +1,37 @@
+Food: Pancakes, gluten-free, frozen, ready-to-heat
+Food ID: 174106
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 3.31 g
+Carbohydrates: 40.32 g
+Fat: 4.55 g
+Fiber: 1.5 g
+Sugar: 4.06 g
+
+Fats:
+Saturated fat: 0.48 g
+Monounsaturated fat: 2.376 g
+Polyunsaturated fat: 1.241 g
+Trans fat: 0.013 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 331 mg
+Potassium: 127 mg
+Calcium: 39 mg
+Iron: 0.7 mg
+Magnesium: 34 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 2.83 µg
+Folate: 9 µg

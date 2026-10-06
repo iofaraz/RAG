@@ -1,0 +1,36 @@
+Food: Chili with meat
+Food ID: 2706377
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 13.32 g
+Carbohydrates: 2.41 g
+Fat: 8.22 g
+Fiber: 0.5 g
+Sugar: 1.37 g
+
+Fats:
+Saturated fat: 3.164 g
+Monounsaturated fat: 3.634 g
+Polyunsaturated fat: 0.323 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 222 mg
+Calcium: 16 mg
+Iron: 1.51 mg
+Magnesium: 14 mg
+Zinc: 3.14 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 5.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.49 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.246 mg
+Vitamin B12: 1.26 µg
+Folate: 7 µg

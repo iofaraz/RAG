@@ -1,0 +1,36 @@
+Food: Orange, canned, NFS
+Food ID: 2709172
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 0.6 g
+Carbohydrates: 11.82 g
+Fat: 0.04 g
+Fiber: 0.7 g
+Sugar: 11.14 g
+
+Fats:
+Saturated fat: 0.003 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.005 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 130 mg
+Calcium: 11 mg
+Iron: 0.26 mg
+Magnesium: 11 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 33.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

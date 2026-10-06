@@ -1,0 +1,36 @@
+Food: Tomatoes, fresh, cooked
+Food ID: 2709721
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.08 g
+Carbohydrates: 4.71 g
+Fat: 3.42 g
+Fiber: 1.5 g
+Sugar: 3.19 g
+
+Fats:
+Saturated fat: 0.867 g
+Monounsaturated fat: 1.167 g
+Polyunsaturated fat: 1.013 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 157 mg
+Potassium: 287 mg
+Calcium: 13 mg
+Iron: 0.33 mg
+Magnesium: 13 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 15.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.13 mg
+Vitamin K: 12.2 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

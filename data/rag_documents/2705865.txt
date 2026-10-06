@@ -1,0 +1,36 @@
+Food: Pork jerky
+Food ID: 2705865
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 412 kcal
+Protein: 35 g
+Carbohydrates: 9.73 g
+Fat: 24.73 g
+Fiber: 0 g
+Sugar: 9.75 g
+
+Fats:
+Saturated fat: 9.192 g
+Monounsaturated fat: 11.15 g
+Polyunsaturated fat: 2.893 g
+Cholesterol: 137 mg
+
+Minerals:
+Sodium: 1810 mg
+Potassium: 426 mg
+Calcium: 39 mg
+Iron: 2.45 mg
+Magnesium: 32 mg
+Zinc: 6.76 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.625 mg
+Vitamin B12: 1.3 µg
+Folate: 0 µg

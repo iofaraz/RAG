@@ -1,0 +1,37 @@
+Food: Beverages, OCEAN SPRAY, Diet Cranberry Juice
+Food ID: 171896
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 4 kcal
+Protein: 0.07 g
+Carbohydrates: 0.8 g
+Fat: 0 g
+Fiber: 0.6 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 0.001 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.001 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 8 mg
+Calcium: 3 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 39.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

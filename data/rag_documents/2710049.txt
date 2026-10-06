@@ -1,0 +1,36 @@
+Food: Eggplant dip
+Food ID: 2710049
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 183 kcal
+Protein: 4.8 g
+Carbohydrates: 8.15 g
+Fat: 14.98 g
+Fiber: 3.9 g
+Sugar: 2.81 g
+
+Fats:
+Saturated fat: 2.188 g
+Monounsaturated fat: 6.131 g
+Polyunsaturated fat: 5.561 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 209 mg
+Potassium: 264 mg
+Calcium: 35 mg
+Iron: 1.69 mg
+Magnesium: 83 mg
+Zinc: 1.36 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 7.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 24.3 µg
+Vitamin B6: 0.195 mg
+Vitamin B12: 0 µg
+Folate: 39 µg

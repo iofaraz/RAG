@@ -1,0 +1,36 @@
+Food: Sauce, homemade, white, thick
+Food ID: 174526
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 186 kcal
+Protein: 3.99 g
+Carbohydrates: 11.61 g
+Fat: 13.83 g
+Fiber: 0.3 g
+Sugar: 3.98 g
+
+Fats:
+Saturated fat: 3.416 g
+Monounsaturated fat: 5.851 g
+Polyunsaturated fat: 3.914 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 373 mg
+Potassium: 149 mg
+Calcium: 111 mg
+Iron: 0.5 mg
+Magnesium: 14 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 130 µg
+Vitamin C: 0.7 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.38 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.26 µg
+Folate: 11 µg

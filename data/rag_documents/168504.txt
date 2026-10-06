@@ -1,0 +1,37 @@
+Food: Beans, snap, yellow, canned, no salt added, solids and liquids
+Food ID: 168504
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 15 kcal
+Protein: 0.8 g
+Carbohydrates: 3.5 g
+Fat: 0.1 g
+Fiber: 1.5 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.052 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 98 mg
+Calcium: 24 mg
+Iron: 0.9 mg
+Magnesium: 13 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 31.2 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

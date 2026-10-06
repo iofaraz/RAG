@@ -1,0 +1,37 @@
+Food: Peas, green, frozen, cooked, boiled, drained, with salt
+Food ID: 170105
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 5.15 g
+Carbohydrates: 14.26 g
+Fat: 0.27 g
+Fiber: 4.5 g
+Sugar: 4.4 g
+
+Fats:
+Saturated fat: 0.049 g
+Monounsaturated fat: 0.024 g
+Polyunsaturated fat: 0.129 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 323 mg
+Potassium: 110 mg
+Calcium: 24 mg
+Iron: 1.52 mg
+Magnesium: 22 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 105 µg
+Vitamin C: 9.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 24 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

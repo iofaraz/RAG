@@ -1,0 +1,36 @@
+Food: Refried beans with meat
+Food ID: 2707398
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 7.81 g
+Carbohydrates: 11.76 g
+Fat: 2.51 g
+Fiber: 3.2 g
+Sugar: 0.57 g
+
+Fats:
+Saturated fat: 0.838 g
+Monounsaturated fat: 0.901 g
+Polyunsaturated fat: 0.536 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 406 mg
+Potassium: 319 mg
+Calcium: 27 mg
+Iron: 1.5 mg
+Magnesium: 33 mg
+Zinc: 1.21 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 4.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.1 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0.22 µg
+Folate: 10 µg

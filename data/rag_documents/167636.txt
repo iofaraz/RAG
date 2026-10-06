@@ -1,0 +1,34 @@
+Food: Tamales (Navajo)
+Food ID: 167636
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 6.28 g
+Carbohydrates: 18.12 g
+Fat: 6.12 g
+Fiber: 3.1 g
+Sugar: 0.99 g
+
+Fats:
+Saturated fat: 2.396 g
+Monounsaturated fat: 2.739 g
+Polyunsaturated fat: 0.688 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 427 mg
+Potassium: 131 mg
+Calcium: 29 mg
+Iron: 1.22 mg
+Magnesium: 22 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.7 mg
+Vitamin E: 0 mg
+Vitamin B6: 0.143 mg
+Vitamin B12: 0.54 µg
+Folate: 15 µg

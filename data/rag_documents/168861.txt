@@ -1,0 +1,36 @@
+Food: Snacks, granola bar, fruit-filled, nonfat
+Food ID: 168861
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 342 kcal
+Protein: 5.9 g
+Carbohydrates: 77.6 g
+Fat: 0.9 g
+Fiber: 7.4 g
+Sugar: 45.24 g
+
+Fats:
+Saturated fat: 0.2 g
+Monounsaturated fat: 0.24 g
+Polyunsaturated fat: 0.35 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 220 mg
+Calcium: 3 mg
+Iron: 4 mg
+Magnesium: 50 mg
+Zinc: 1.42 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 1.59 mg
+Vitamin B12: 0.18 µg
+Folate: 316 µg

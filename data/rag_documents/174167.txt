@@ -1,0 +1,22 @@
+Food: Beverages, V8 SPLASH Juice Drinks, Orchard Blend
+Food ID: 174167
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 0 g
+Carbohydrates: 7.82 g
+Fat: 0 g
+Sugar: 7.82 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 21 mg
+Potassium: 10 mg
+
+Vitamins:
+Vitamin C: 24.7 mg
+Vitamin E: 1.11 mg

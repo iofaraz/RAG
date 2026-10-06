@@ -1,0 +1,36 @@
+Food: Beer, light
+Food ID: 2710617
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 0.24 g
+Carbohydrates: 1.64 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0.09 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 21 mg
+Calcium: 4 mg
+Iron: 0.03 mg
+Magnesium: 5 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.02 µg
+Folate: 6 µg

@@ -1,0 +1,32 @@
+Food: Chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, flour
+Food ID: 173611
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 245 kcal
+Protein: 26.96 g
+Carbohydrates: 1.63 g
+Fat: 13.72 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 3.66 g
+Monounsaturated fat: 5.42 g
+Polyunsaturated fat: 3.23 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 89 mg
+Potassium: 229 mg
+Calcium: 12 mg
+Iron: 1.34 mg
+Magnesium: 23 mg
+Zinc: 2.89 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.35 mg
+Vitamin B12: 0.32 µg
+Folate: 10 µg

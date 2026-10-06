@@ -1,0 +1,36 @@
+Food: Sweet potato, squash, pumpkin, chrysanthemum, or bean leaves, cooked
+Food ID: 2709642
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 2.12 g
+Carbohydrates: 7.15 g
+Fat: 2.88 g
+Fiber: 1.8 g
+Sugar: 5.31 g
+
+Fats:
+Saturated fat: 0.729 g
+Monounsaturated fat: 0.915 g
+Polyunsaturated fat: 0.86 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 128 mg
+Potassium: 302 mg
+Calcium: 32 mg
+Iron: 0.61 mg
+Magnesium: 46 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 154 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.31 mg
+Vitamin K: 107.2 µg
+Vitamin B6: 0.171 mg
+Vitamin B12: 0 µg
+Folate: 47 µg

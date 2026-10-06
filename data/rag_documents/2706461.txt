@@ -1,0 +1,36 @@
+Food: Fish curry with rice
+Food ID: 2706461
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 107 kcal
+Protein: 4.03 g
+Carbohydrates: 15.19 g
+Fat: 3.36 g
+Fiber: 1 g
+Sugar: 1.56 g
+
+Fats:
+Saturated fat: 0.806 g
+Monounsaturated fat: 1.189 g
+Polyunsaturated fat: 1.098 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 309 mg
+Potassium: 179 mg
+Calcium: 19 mg
+Iron: 0.85 mg
+Magnesium: 16 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.97 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0.2 µg
+Folate: 33 µg

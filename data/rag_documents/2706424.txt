@@ -1,0 +1,36 @@
+Food: Stewed chicken with tomato-based sauce, Mexican style
+Food ID: 2706424
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 11.98 g
+Carbohydrates: 2.48 g
+Fat: 7.06 g
+Fiber: 0.4 g
+Sugar: 0.97 g
+
+Fats:
+Saturated fat: 1.522 g
+Monounsaturated fat: 2.654 g
+Polyunsaturated fat: 2.123 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 397 mg
+Potassium: 189 mg
+Calcium: 12 mg
+Iron: 0.57 mg
+Magnesium: 14 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 3.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.04 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.138 mg
+Vitamin B12: 0.16 µg
+Folate: 8 µg

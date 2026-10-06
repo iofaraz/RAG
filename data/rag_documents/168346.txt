@@ -1,0 +1,36 @@
+Food: Pork, cured, ham -- water added, slice, bone-in, separable lean and fat, unheated
+Food ID: 168346
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 164 kcal
+Protein: 15.73 g
+Carbohydrates: 1.1 g
+Fat: 10.77 g
+Fiber: 0 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 3.554 g
+Monounsaturated fat: 4.88 g
+Polyunsaturated fat: 1.459 g
+Trans fat: 0.084 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 1011 mg
+Potassium: 213 mg
+Calcium: 8 mg
+Iron: 0.98 mg
+Magnesium: 16 mg
+Zinc: 1.74 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin E: 0.29 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.277 mg
+Vitamin B12: 0.38 µg
+Folate: 1 µg

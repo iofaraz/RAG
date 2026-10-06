@@ -1,0 +1,24 @@
+Food: Duck, young duckling, domesticated, White Pekin, leg, meat only, bone in, cooked without skin, braised
+Food ID: 171113
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 29.1 g
+Carbohydrates: 0 g
+Fat: 5.96 g
+
+Fats:
+Saturated fat: 1.339 g
+Monounsaturated fat: 2.637 g
+Polyunsaturated fat: 0.909 g
+Cholesterol: 105 mg
+
+Minerals:
+Sodium: 108 mg
+Calcium: 10 mg
+Iron: 2.33 mg
+
+Vitamins:
+Vitamin C: 2.3 mg

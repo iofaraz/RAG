@@ -1,0 +1,36 @@
+Food: Atole
+Food ID: 2710607
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 1.69 g
+Carbohydrates: 16.28 g
+Fat: 1.54 g
+Fiber: 0.2 g
+Sugar: 13.87 g
+
+Fats:
+Saturated fat: 0.819 g
+Monounsaturated fat: 0.33 g
+Polyunsaturated fat: 0.104 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 74 mg
+Calcium: 59 mg
+Iron: 0.17 mg
+Magnesium: 9 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.22 µg
+Folate: 2 µg

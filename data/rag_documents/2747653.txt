@@ -1,0 +1,23 @@
+Food: Beet greens, raw
+Food ID: 2747653
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.60938 g
+Carbohydrates: 4.65883 g
+Fat: 0.1438 g
+Fiber: 2.578 g
+
+Minerals:
+Sodium: 280.5 mg
+Potassium: 368.7 mg
+Calcium: 72.8 mg
+Iron: 3.163 mg
+Magnesium: 74.36 mg
+Zinc: 0.3154 mg
+
+Vitamins:
+Vitamin C: 8.583 mg
+Vitamin B6: 0.1148 mg
+Folate: 151.8 µg

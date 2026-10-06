@@ -1,0 +1,36 @@
+Food: Potato, roasted, from fresh, peel eaten, made with margarine
+Food ID: 2709408
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 2.38 g
+Carbohydrates: 20.1 g
+Fat: 3.21 g
+Fiber: 2.1 g
+Sugar: 1.12 g
+
+Fats:
+Saturated fat: 0.642 g
+Monounsaturated fat: 1.152 g
+Polyunsaturated fat: 1.284 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 189 mg
+Potassium: 509 mg
+Calcium: 15 mg
+Iron: 1.02 mg
+Magnesium: 27 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 9.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.9 mg
+Vitamin K: 6.6 µg
+Vitamin B6: 0.429 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

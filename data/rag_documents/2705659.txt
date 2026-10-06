@@ -1,0 +1,36 @@
+Food: Ice cream sundae, fruit topping
+Food ID: 2705659
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 2.72 g
+Carbohydrates: 32.7 g
+Fat: 9.2 g
+Fiber: 0.7 g
+Sugar: 22.24 g
+
+Fats:
+Saturated fat: 5.627 g
+Monounsaturated fat: 2.422 g
+Polyunsaturated fat: 0.391 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 163 mg
+Calcium: 99 mg
+Iron: 0.13 mg
+Magnesium: 12 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 97 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.29 µg
+Folate: 5 µg

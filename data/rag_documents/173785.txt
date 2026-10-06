@@ -1,0 +1,29 @@
+Food: Vitasoy USA Organic Nasoya, Tofu Plus Extra Firm
+Food ID: 173785
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 10.18 g
+Carbohydrates: 1.82 g
+Fat: 4.9 g
+Fiber: 1 g
+Sugar: 0.4 g
+
+Fats:
+Saturated fat: 0.6 g
+Monounsaturated fat: 1.3 g
+Polyunsaturated fat: 3 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Calcium: 246 mg
+Iron: 1.6 mg
+
+Vitamins:
+Vitamin D: 2.5 µg
+Vitamin B6: 0.5 mg
+Vitamin B12: 1.45 µg

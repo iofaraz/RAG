@@ -1,0 +1,36 @@
+Food: Snowpeas, raw
+Food ID: 2709806
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 2.8 g
+Carbohydrates: 7.55 g
+Fat: 0.2 g
+Fiber: 2.6 g
+Sugar: 4 g
+
+Fats:
+Saturated fat: 0.039 g
+Monounsaturated fat: 0.021 g
+Polyunsaturated fat: 0.089 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 200 mg
+Calcium: 43 mg
+Iron: 2.08 mg
+Magnesium: 24 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 60 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin K: 25 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

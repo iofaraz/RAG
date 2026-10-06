@@ -1,0 +1,36 @@
+Food: Chicken or turkey chow mein or chop suey with noodles
+Food ID: 2706687
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 9.91 g
+Carbohydrates: 11.15 g
+Fat: 5.43 g
+Fiber: 1.5 g
+Sugar: 1.54 g
+
+Fats:
+Saturated fat: 1.455 g
+Monounsaturated fat: 2.12 g
+Polyunsaturated fat: 1.25 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 408 mg
+Potassium: 174 mg
+Calcium: 19 mg
+Iron: 1.25 mg
+Magnesium: 14 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 11.7 µg
+Vitamin B6: 0.128 mg
+Vitamin B12: 0.11 µg
+Folate: 42 µg

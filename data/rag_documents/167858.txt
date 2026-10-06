@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, ears, frozen, cooked, simmered
+Food ID: 167858
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 15.95 g
+Carbohydrates: 0.2 g
+Fat: 10.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.86 g
+Monounsaturated fat: 4.91 g
+Polyunsaturated fat: 1.15 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 40 mg
+Calcium: 18 mg
+Iron: 1.5 mg
+Magnesium: 7 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.04 µg
+Folate: 0 µg

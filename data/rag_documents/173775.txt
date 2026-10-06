@@ -1,0 +1,31 @@
+Food: SILK Nog, soymilk
+Food ID: 173775
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 2.46 g
+Carbohydrates: 12.3 g
+Fat: 1.64 g
+Fiber: 0 g
+Sugar: 9.84 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 123 mg
+Calcium: 16 mg
+Iron: 0.3 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B12: 0 µg
+Folate: 0 µg

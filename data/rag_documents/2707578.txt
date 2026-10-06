@@ -1,0 +1,36 @@
+Food: Trail mix with pretzels, cereal, or granola
+Food ID: 2707578
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 476 kcal
+Protein: 13.09 g
+Carbohydrates: 50.59 g
+Fat: 27.66 g
+Fiber: 6 g
+Sugar: 19.32 g
+
+Fats:
+Saturated fat: 3.799 g
+Monounsaturated fat: 12.779 g
+Polyunsaturated fat: 8.824 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 479 mg
+Calcium: 60 mg
+Iron: 3.03 mg
+Magnesium: 115 mg
+Zinc: 2.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 5.51 mg
+Vitamin K: 6.7 µg
+Vitamin B6: 0.258 mg
+Vitamin B12: 0 µg
+Folate: 94 µg

@@ -1,0 +1,36 @@
+Food: Lentil curry with rice
+Food ID: 2707432
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 3.28 g
+Carbohydrates: 18.6 g
+Fat: 3.5 g
+Fiber: 2.2 g
+Sugar: 1.95 g
+
+Fats:
+Saturated fat: 0.804 g
+Monounsaturated fat: 1.225 g
+Polyunsaturated fat: 1.175 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 328 mg
+Potassium: 189 mg
+Calcium: 19 mg
+Iron: 1.33 mg
+Magnesium: 19 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 4.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.01 µg
+Folate: 61 µg

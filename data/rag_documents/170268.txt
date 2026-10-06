@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, All Natural Light French Chocolate
+Food ID: 170268
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 5.3 g
+Carbohydrates: 29.68 g
+Fat: 7.28 g
+Fiber: 1 g
+Sugar: 24.04 g
+
+Fats:
+Saturated fat: 4.28 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 75 mg
+Calcium: 158 mg
+Iron: 0.85 mg
+
+Vitamins:
+Vitamin C: 1 mg

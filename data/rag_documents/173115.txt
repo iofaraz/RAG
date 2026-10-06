@@ -1,0 +1,36 @@
+Food: Beef, round, bottom round, steak, separable lean only, trimmed to 1/8" fat, choice, cooked, braised
+Food ID: 173115
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 34.22 g
+Carbohydrates: 0 g
+Fat: 9.02 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.109 g
+Monounsaturated fat: 3.771 g
+Polyunsaturated fat: 0.383 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 278 mg
+Calcium: 7 mg
+Iron: 3.01 mg
+Magnesium: 23 mg
+Zinc: 5.95 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.478 mg
+Vitamin B12: 2.02 µg
+Folate: 11 µg

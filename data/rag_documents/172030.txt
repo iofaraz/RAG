@@ -1,0 +1,36 @@
+Food: Fast foods, biscuit, with ham
+Food ID: 172030
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 342 kcal
+Protein: 11.85 g
+Carbohydrates: 38.75 g
+Fat: 16.3 g
+Fiber: 0.7 g
+Sugar: 1.97 g
+
+Fats:
+Saturated fat: 10.096 g
+Monounsaturated fat: 4.277 g
+Polyunsaturated fat: 0.918 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 974 mg
+Potassium: 174 mg
+Calcium: 142 mg
+Iron: 2.41 mg
+Magnesium: 20 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.23 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.03 µg
+Folate: 34 µg

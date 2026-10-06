@@ -1,0 +1,36 @@
+Food: Reddi Wip Fat Free Whipped Topping
+Food ID: 172213
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 3 g
+Carbohydrates: 25 g
+Fat: 5 g
+Fiber: 0.4 g
+Sugar: 16 g
+
+Fats:
+Saturated fat: 2.869 g
+Monounsaturated fat: 1.25 g
+Polyunsaturated fat: 0.299 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 108 mg
+Calcium: 108 mg
+Iron: 0.03 mg
+Magnesium: 8 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 1.48 µg
+Folate: 17 µg

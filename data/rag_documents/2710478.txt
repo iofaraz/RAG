@@ -1,0 +1,36 @@
+Food: Coffee, bottled/canned
+Food ID: 2710478
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 1.98 g
+Carbohydrates: 12.6 g
+Fat: 1.38 g
+Fiber: 0 g
+Sugar: 10.67 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.293 g
+Polyunsaturated fat: 0.038 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 175 mg
+Calcium: 74 mg
+Iron: 0.04 mg
+Magnesium: 9 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.51 µg
+Folate: 0 µg

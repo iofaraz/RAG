@@ -1,0 +1,36 @@
+Food: Rice, brown, with dark green vegetables and tomatoes and/or tomato-based sauce, NS as to fat
+Food ID: 2709058
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 2.38 g
+Carbohydrates: 19.91 g
+Fat: 2.54 g
+Fiber: 1.7 g
+Sugar: 0.7 g
+
+Fats:
+Saturated fat: 0.434 g
+Monounsaturated fat: 1.022 g
+Polyunsaturated fat: 0.96 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 170 mg
+Potassium: 122 mg
+Calcium: 12 mg
+Iron: 0.57 mg
+Magnesium: 32 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 9.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.56 mg
+Vitamin K: 12.3 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

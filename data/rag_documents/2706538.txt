@@ -1,0 +1,36 @@
+Food: Biryani with chicken
+Food ID: 2706538
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 7.15 g
+Carbohydrates: 13.55 g
+Fat: 2.38 g
+Fiber: 1.1 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 0.907 g
+Monounsaturated fat: 0.773 g
+Polyunsaturated fat: 0.254 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 161 mg
+Potassium: 256 mg
+Calcium: 34 mg
+Iron: 0.84 mg
+Magnesium: 19 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 6.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.177 mg
+Vitamin B12: 0.12 µg
+Folate: 23 µg

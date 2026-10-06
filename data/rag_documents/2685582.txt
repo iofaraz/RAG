@@ -1,0 +1,21 @@
+Food: Tomato, puree, canned
+Food ID: 2685582
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.57812 g
+Carbohydrates: 8.03688 g
+Fat: 0.265 g
+Fiber: 1.971 g
+
+Minerals:
+Sodium: 29.36 mg
+Potassium: 416.4 mg
+Calcium: 17.64 mg
+Iron: 1.237 mg
+Magnesium: 19.33 mg
+Zinc: 0.2084 mg
+
+Vitamins:
+Vitamin C: 10.4 mg

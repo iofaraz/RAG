@@ -1,0 +1,36 @@
+Food: Potato, french fries, with cheese, school
+Food ID: 2709466
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 181 kcal
+Protein: 4.55 g
+Carbohydrates: 17.67 g
+Fat: 10.29 g
+Fiber: 1.5 g
+Sugar: 1.2 g
+
+Fats:
+Saturated fat: 2.374 g
+Monounsaturated fat: 3.987 g
+Polyunsaturated fat: 3.261 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 195 mg
+Potassium: 384 mg
+Calcium: 84 mg
+Iron: 0.61 mg
+Magnesium: 24 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 9.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.63 mg
+Vitamin K: 9.3 µg
+Vitamin B6: 0.258 mg
+Vitamin B12: 0.14 µg
+Folate: 17 µg

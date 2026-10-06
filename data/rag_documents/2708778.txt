@@ -1,0 +1,36 @@
+Food: Manicotti, vegetable- and cheese-filled, with tomato sauce, meatless
+Food ID: 2708778
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 135 kcal
+Protein: 6.43 g
+Carbohydrates: 15.89 g
+Fat: 5.18 g
+Fiber: 1 g
+Sugar: 1.62 g
+
+Fats:
+Saturated fat: 2.665 g
+Monounsaturated fat: 1.266 g
+Polyunsaturated fat: 0.453 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 394 mg
+Potassium: 223 mg
+Calcium: 110 mg
+Iron: 1.42 mg
+Magnesium: 25 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 92 µg
+Vitamin C: 4 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.79 mg
+Vitamin K: 49 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.31 µg
+Folate: 33 µg

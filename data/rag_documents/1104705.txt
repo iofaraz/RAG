@@ -1,0 +1,21 @@
+Food: Flour, soy, defatted
+Food ID: 1104705
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 51.1 g
+Carbohydrates: 32.9 g
+Fat: 3.33 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 2480 mg
+Calcium: 338 mg
+Iron: 7.34 mg
+Magnesium: 313 mg
+Zinc: 4.44 mg
+
+Vitamins:
+Vitamin B6: 0.618 mg

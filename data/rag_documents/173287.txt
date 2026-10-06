@@ -1,0 +1,33 @@
+Food: PAPA JOHN'S 14" Cheese Pizza, Thin Crust
+Food ID: 173287
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 295 kcal
+Protein: 12.29 g
+Carbohydrates: 26.26 g
+Fat: 15.66 g
+Fiber: 2.3 g
+Sugar: 3.85 g
+
+Fats:
+Saturated fat: 6.202 g
+Monounsaturated fat: 6.002 g
+Polyunsaturated fat: 1.663 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 528 mg
+Potassium: 160 mg
+Calcium: 238 mg
+Iron: 0.51 mg
+Magnesium: 22 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 0 mg
+Vitamin E: 1.78 mg
+Vitamin K: 5.6 µg
+Vitamin B12: 0.83 µg

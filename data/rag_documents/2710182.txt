@@ -1,0 +1,36 @@
+Food: Coconut oil
+Food ID: 2710182
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 895 kcal
+Protein: 0 g
+Carbohydrates: 0.84 g
+Fat: 99.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 82.5 g
+Monounsaturated fat: 6.31 g
+Polyunsaturated fat: 1.7 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 1 mg
+Iron: 0.05 mg
+Magnesium: 0 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,28 @@
+Food: Chokecherries, raw, pitted (Northern Plains Indians)
+Food ID: 168999
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 3.04 g
+Carbohydrates: 33.62 g
+Fat: 1.69 g
+Fiber: 20 g
+Sugar: 9.37 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 379 mg
+Calcium: 60 mg
+Iron: 0.69 mg
+Magnesium: 27 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 5.5 mg
+Vitamin E: 0.35 mg
+Vitamin K: 21.1 µg
+Vitamin B6: 0.198 mg
+Folate: 2 µg

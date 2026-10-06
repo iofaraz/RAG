@@ -1,0 +1,36 @@
+Food: Cheese quiche, meatless
+Food ID: 2708733
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 365 kcal
+Protein: 11.91 g
+Carbohydrates: 13.74 g
+Fat: 29.23 g
+Fiber: 0.8 g
+Sugar: 2.21 g
+
+Fats:
+Saturated fat: 14.873 g
+Monounsaturated fat: 8.139 g
+Polyunsaturated fat: 2.015 g
+Cholesterol: 159 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 117 mg
+Calcium: 267 mg
+Iron: 1 mg
+Magnesium: 17 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 239 µg
+Vitamin C: 0.5 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.85 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.62 µg
+Folate: 30 µg

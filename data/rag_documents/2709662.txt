@@ -1,0 +1,36 @@
+Food: Carrots, raw, salad with apples
+Food ID: 2709662
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 181 kcal
+Protein: 0.85 g
+Carbohydrates: 8.59 g
+Fat: 16.02 g
+Fiber: 2.3 g
+Sugar: 4.47 g
+
+Fats:
+Saturated fat: 2.491 g
+Monounsaturated fat: 3.558 g
+Polyunsaturated fat: 9.489 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 189 mg
+Potassium: 198 mg
+Calcium: 23 mg
+Iron: 0.16 mg
+Magnesium: 9 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 532 µg
+Vitamin C: 6.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.14 mg
+Vitamin K: 43 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.02 µg
+Folate: 25 µg

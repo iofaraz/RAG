@@ -1,0 +1,30 @@
+Food: Fast foods, burrito, with beans
+Food ID: 172038
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 6.48 g
+Carbohydrates: 32.92 g
+Fat: 6.22 g
+
+Fats:
+Saturated fat: 3.174 g
+Monounsaturated fat: 2.184 g
+Polyunsaturated fat: 0.551 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 454 mg
+Potassium: 301 mg
+Calcium: 52 mg
+Iron: 2.08 mg
+Magnesium: 40 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin C: 0.9 mg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.5 µg
+Folate: 40 µg

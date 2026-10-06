@@ -1,0 +1,36 @@
+Food: Egg omelet or scrambled egg, with tomatoes, no added fat
+Food ID: 2707230
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 10.9 g
+Carbohydrates: 1.55 g
+Fat: 8.67 g
+Fiber: 0.2 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 2.78 g
+Monounsaturated fat: 3.153 g
+Polyunsaturated fat: 1.591 g
+Cholesterol: 356 mg
+
+Minerals:
+Sodium: 213 mg
+Potassium: 151 mg
+Calcium: 44 mg
+Iron: 1.49 mg
+Magnesium: 11 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 162 µg
+Vitamin C: 2.5 mg
+Vitamin D: 2.2 µg
+Vitamin E: 0.99 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0.71 µg
+Folate: 48 µg

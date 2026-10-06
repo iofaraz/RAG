@@ -1,0 +1,37 @@
+Food: Squash, winter, all varieties, cooked, baked, with salt
+Food ID: 170127
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 0.89 g
+Carbohydrates: 8.85 g
+Fat: 0.35 g
+Fiber: 2.8 g
+Sugar: 3.3 g
+
+Fats:
+Saturated fat: 0.072 g
+Monounsaturated fat: 0.026 g
+Polyunsaturated fat: 0.147 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 237 mg
+Potassium: 241 mg
+Calcium: 22 mg
+Iron: 0.44 mg
+Magnesium: 13 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 261 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.161 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

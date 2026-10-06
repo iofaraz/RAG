@@ -1,0 +1,36 @@
+Food: Meatballs, with breading, NS as to type of meat, with gravy
+Food ID: 2706580
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 12.22 g
+Carbohydrates: 6.28 g
+Fat: 7.51 g
+Fiber: 0.4 g
+Sugar: 1.22 g
+
+Fats:
+Saturated fat: 2.882 g
+Monounsaturated fat: 3.184 g
+Polyunsaturated fat: 0.403 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 499 mg
+Potassium: 199 mg
+Calcium: 42 mg
+Iron: 1.53 mg
+Magnesium: 13 mg
+Zinc: 2.74 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 1.06 µg
+Folate: 13 µg

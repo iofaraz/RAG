@@ -1,0 +1,37 @@
+Food: Candies, fudge, vanilla, prepared-from-recipe
+Food ID: 167579
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 383 kcal
+Protein: 1.05 g
+Carbohydrates: 82.15 g
+Fat: 5.45 g
+Fiber: 0 g
+Sugar: 79.77 g
+
+Fats:
+Saturated fat: 3.382 g
+Monounsaturated fat: 1.399 g
+Polyunsaturated fat: 0.227 g
+Trans fat: 0.179 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 49 mg
+Calcium: 38 mg
+Iron: 0.02 mg
+Magnesium: 3 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0.08 µg
+Folate: 1 µg

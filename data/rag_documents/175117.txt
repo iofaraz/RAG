@@ -1,0 +1,36 @@
+Food: Fish, herring, Atlantic, cooked, dry heat
+Food ID: 175117
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 23.03 g
+Carbohydrates: 0 g
+Fat: 11.59 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.615 g
+Monounsaturated fat: 4.79 g
+Polyunsaturated fat: 2.735 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 115 mg
+Potassium: 419 mg
+Calcium: 74 mg
+Iron: 1.41 mg
+Magnesium: 41 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0.7 mg
+Vitamin D: 5.4 µg
+Vitamin E: 1.37 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.348 mg
+Vitamin B12: 13.14 µg
+Folate: 12 µg

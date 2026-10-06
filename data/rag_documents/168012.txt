@@ -1,0 +1,18 @@
+Food: Van's, The Perfect 10, Crispy Six Whole Grain + Four Seed Baked Crackers, Gluten Free
+Food ID: 168012
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 471 kcal
+Protein: 7.63 g
+Carbohydrates: 67.57 g
+Fat: 18.93 g
+
+Minerals:
+Sodium: 730 mg
+Potassium: 255 mg
+Calcium: 57 mg
+Iron: 1.94 mg
+Magnesium: 94 mg
+Zinc: 1.72 mg

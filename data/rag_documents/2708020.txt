@@ -1,0 +1,36 @@
+Food: Cobbler, berry
+Food ID: 2708020
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 231 kcal
+Protein: 2.66 g
+Carbohydrates: 36.2 g
+Fat: 8.86 g
+Fiber: 4 g
+Sugar: 17.63 g
+
+Fats:
+Saturated fat: 2.789 g
+Monounsaturated fat: 4.089 g
+Polyunsaturated fat: 1.216 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 179 mg
+Potassium: 118 mg
+Calcium: 24 mg
+Iron: 1.32 mg
+Magnesium: 18 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 14.2 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 41 µg

@@ -1,0 +1,36 @@
+Food: Bread, vegetable
+Food ID: 2707650
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 259 kcal
+Protein: 9.67 g
+Carbohydrates: 47.98 g
+Fat: 3.26 g
+Fiber: 1.8 g
+Sugar: 3.54 g
+
+Fats:
+Saturated fat: 1.089 g
+Monounsaturated fat: 0.756 g
+Polyunsaturated fat: 0.762 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 532 mg
+Potassium: 161 mg
+Calcium: 38 mg
+Iron: 3.48 mg
+Magnesium: 27 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 3.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.38 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.06 µg
+Folate: 77 µg

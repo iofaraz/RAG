@@ -1,0 +1,28 @@
+Food: Tostada shells, corn
+Food ID: 167525
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 474 kcal
+Protein: 6.15 g
+Carbohydrates: 64.43 g
+Fat: 23.38 g
+Fiber: 5.8 g
+
+Fats:
+Saturated fat: 7.011 g
+Monounsaturated fat: 7.217 g
+Polyunsaturated fat: 8.285 g
+Trans fat: 0.163 g
+
+Minerals:
+Sodium: 657 mg
+Potassium: 237 mg
+Calcium: 76 mg
+Iron: 1.53 mg
+Magnesium: 76 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin B6: 0.363 mg

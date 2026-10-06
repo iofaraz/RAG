@@ -1,0 +1,29 @@
+Food: Crabapples, raw
+Food ID: 171721
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 0.4 g
+Carbohydrates: 19.95 g
+Fat: 0.3 g
+
+Fats:
+Saturated fat: 0.048 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.088 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 194 mg
+Calcium: 18 mg
+Iron: 0.36 mg
+Magnesium: 7 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 8 mg
+Vitamin B12: 0 µg

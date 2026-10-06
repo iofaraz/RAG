@@ -1,0 +1,37 @@
+Food: Fish, fish sticks, frozen, prepared
+Food ID: 174195
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 11.01 g
+Carbohydrates: 21.66 g
+Fat: 16.23 g
+Fiber: 1.5 g
+Sugar: 1.65 g
+
+Fats:
+Saturated fat: 3.733 g
+Monounsaturated fat: 3.193 g
+Polyunsaturated fat: 7.824 g
+Trans fat: 0.124 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 402 mg
+Potassium: 185 mg
+Calcium: 16 mg
+Iron: 0.84 mg
+Magnesium: 25 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 6.88 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.96 µg
+Folate: 24 µg

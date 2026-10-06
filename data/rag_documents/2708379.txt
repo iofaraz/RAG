@@ -1,0 +1,36 @@
+Food: Oatmeal, fast food, flavored
+Food ID: 2708379
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 2.4 g
+Carbohydrates: 20.34 g
+Fat: 2.33 g
+Fiber: 1.6 g
+Sugar: 9.95 g
+
+Fats:
+Saturated fat: 0.982 g
+Monounsaturated fat: 0.687 g
+Polyunsaturated fat: 0.418 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 163 mg
+Potassium: 81 mg
+Calcium: 31 mg
+Iron: 0.7 mg
+Magnesium: 24 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0.02 µg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Pork, fresh, loin, whole, separable lean and fat, cooked, roasted
+Food ID: 167821
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 248 kcal
+Protein: 27.09 g
+Carbohydrates: 0 g
+Fat: 14.65 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.37 g
+Monounsaturated fat: 6.51 g
+Polyunsaturated fat: 1.21 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 408 mg
+Calcium: 19 mg
+Iron: 0.99 mg
+Magnesium: 26 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.516 mg
+Vitamin B12: 0.71 µg
+Folate: 6 µg

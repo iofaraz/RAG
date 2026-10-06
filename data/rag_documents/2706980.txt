@@ -1,0 +1,36 @@
+Food: Bacon, lettuce, tomato sandwich on wheat
+Food ID: 2706980
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 229 kcal
+Protein: 12.02 g
+Carbohydrates: 27.53 g
+Fat: 7.76 g
+Fiber: 3.4 g
+Sugar: 3.59 g
+
+Fats:
+Saturated fat: 2.263 g
+Monounsaturated fat: 2.772 g
+Polyunsaturated fat: 1.868 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 515 mg
+Potassium: 248 mg
+Calcium: 99 mg
+Iron: 2.03 mg
+Magnesium: 40 mg
+Zinc: 1.3 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.39 mg
+Vitamin K: 10.3 µg
+Vitamin B6: 0.194 mg
+Vitamin B12: 0.17 µg
+Folate: 47 µg

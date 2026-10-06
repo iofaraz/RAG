@@ -1,0 +1,36 @@
+Food: Vermicelli, made from soybeans
+Food ID: 2707450
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 0.04 g
+Carbohydrates: 31.42 g
+Fat: 0.04 g
+Fiber: 1.5 g
+Sugar: 6.66 g
+
+Fats:
+Saturated fat: 0.005 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.016 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 0 mg
+Calcium: 22 mg
+Iron: 0.52 mg
+Magnesium: 1 mg
+Zinc: 1.62 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

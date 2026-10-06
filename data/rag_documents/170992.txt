@@ -1,0 +1,36 @@
+Food: Toddler formula, MEAD JOHNSON, ENFAGROW, Toddler Transitions, with ARA and DHA, powder
+Food ID: 170992
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 505 kcal
+Protein: 12.9 g
+Carbohydrates: 52.8 g
+Fat: 26.9 g
+Fiber: 0 g
+Sugar: 33 g
+
+Fats:
+Saturated fat: 10.9 g
+Monounsaturated fat: 8.9 g
+Polyunsaturated fat: 4.9 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 179 mg
+Potassium: 650 mg
+Calcium: 970 mg
+Iron: 7.4 mg
+Magnesium: 40 mg
+Zinc: 5 mg
+
+Vitamins:
+Vitamin A: 450 µg
+Vitamin C: 60 mg
+Vitamin D: 7.5 µg
+Vitamin E: 4.5 mg
+Vitamin K: 45 µg
+Vitamin B6: 0.3 mg
+Vitamin B12: 1.49 µg
+Folate: 79 µg

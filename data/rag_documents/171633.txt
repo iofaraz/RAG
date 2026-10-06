@@ -1,0 +1,37 @@
+Food: Frankfurter, meat and poultry, cooked, boiled
+Food ID: 171633
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 298 kcal
+Protein: 10.31 g
+Carbohydrates: 4.96 g
+Fat: 26.28 g
+Fiber: 0 g
+Sugar: 2.7 g
+
+Fats:
+Saturated fat: 8.216 g
+Monounsaturated fat: 10.759 g
+Polyunsaturated fat: 5.713 g
+Trans fat: 0.237 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 914 mg
+Potassium: 323 mg
+Calcium: 107 mg
+Iron: 1.12 mg
+Magnesium: 11 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 19.4 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.45 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.69 µg
+Folate: 6 µg

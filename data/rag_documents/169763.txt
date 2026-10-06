@@ -1,0 +1,26 @@
+Food: Potatoes, yellow fleshed, roasted, salt added in processing, frozen, unprepared
+Food ID: 169763
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 1.99 g
+Carbohydrates: 23.44 g
+Fat: 1.85 g
+Fiber: 2.6 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 0.153 g
+Trans fat: 0.023 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 338 mg
+Potassium: 444 mg
+Calcium: 11 mg
+Iron: 0.45 mg
+
+Vitamins:
+Vitamin C: 6 mg

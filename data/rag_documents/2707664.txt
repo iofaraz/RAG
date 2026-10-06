@@ -1,0 +1,36 @@
+Food: Roll, Mexican, bolillo
+Food ID: 2707664
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 318 kcal
+Protein: 10.65 g
+Carbohydrates: 55.77 g
+Fat: 5.8 g
+Fiber: 2.2 g
+Sugar: 3.55 g
+
+Fats:
+Saturated fat: 1.401 g
+Monounsaturated fat: 2.658 g
+Polyunsaturated fat: 1.022 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 506 mg
+Potassium: 131 mg
+Calcium: 41 mg
+Iron: 3.9 mg
+Magnesium: 30 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 10.9 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 0.13 µg
+Folate: 127 µg

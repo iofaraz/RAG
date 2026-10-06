@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, GENTLEASE, Toddler transitions, with ARA and DHA, powder
+Food ID: 168970
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 500 kcal
+Protein: 12.9 g
+Carbohydrates: 53.5 g
+Fat: 26 g
+Fiber: 0 g
+Sugar: 12.6 g
+
+Fats:
+Saturated fat: 10.8 g
+Monounsaturated fat: 8.957 g
+Polyunsaturated fat: 4.9 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 650 mg
+Calcium: 990 mg
+Iron: 7.5 mg
+Magnesium: 40 mg
+Zinc: 5 mg
+
+Vitamins:
+Vitamin A: 450 µg
+Vitamin C: 60 mg
+Vitamin D: 7.5 µg
+Vitamin E: 4.46 mg
+Vitamin K: 45 µg
+Vitamin B6: 0.3 mg
+Vitamin B12: 1.49 µg
+Folate: 80 µg

@@ -1,0 +1,36 @@
+Food: Pork, bacon, rendered fat, cooked
+Food ID: 168324
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 898 kcal
+Protein: 0.07 g
+Carbohydrates: 0 g
+Fat: 99.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 31.991 g
+Monounsaturated fat: 41.435 g
+Polyunsaturated fat: 10.535 g
+Trans fat: 0 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 15 mg
+Calcium: 1 mg
+Iron: 0.13 mg
+Magnesium: 0 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.005 mg
+Vitamin B12: 0.09 µg
+Folate: 0 µg

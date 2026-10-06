@@ -1,0 +1,37 @@
+Food: Formulated Bar, SOUTH BEACH protein bar
+Food ID: 173158
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 412 kcal
+Protein: 30.34 g
+Carbohydrates: 38.4 g
+Fat: 15.17 g
+Fiber: 7.3 g
+Sugar: 15.17 g
+
+Fats:
+Saturated fat: 3.384 g
+Monounsaturated fat: 4.29 g
+Polyunsaturated fat: 5.326 g
+Trans fat: 0.091 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 436 mg
+Potassium: 793 mg
+Calcium: 322 mg
+Iron: 5.4 mg
+Magnesium: 71 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin A: 391 µg
+Vitamin C: 27.9 mg
+Vitamin D: 0 µg
+Vitamin E: 4.61 mg
+Vitamin K: 350.6 µg
+Vitamin B6: 0.226 mg
+Vitamin B12: 0.61 µg
+Folate: 184 µg

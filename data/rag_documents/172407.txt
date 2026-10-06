@@ -1,0 +1,32 @@
+Food: Chicken, capons, meat and skin and giblets and neck, cooked, roasted
+Food ID: 172407
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 28.35 g
+Carbohydrates: 0.04 g
+Fat: 11.67 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.28 g
+Monounsaturated fat: 4.71 g
+Polyunsaturated fat: 2.52 g
+Cholesterol: 103 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 243 mg
+Calcium: 15 mg
+Iron: 1.79 mg
+Magnesium: 23 mg
+Zinc: 1.94 mg
+
+Vitamins:
+Vitamin A: 220 µg
+Vitamin C: 0.4 mg
+Vitamin B6: 0.41 mg
+Vitamin B12: 0.36 µg
+Folate: 26 µg

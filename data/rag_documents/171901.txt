@@ -1,0 +1,37 @@
+Food: Beverages, OCEAN SPRAY, Diet Cran Cherry
+Food ID: 171901
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 4 kcal
+Protein: 0.21 g
+Carbohydrates: 0.7 g
+Fat: 0 g
+Fiber: 0.6 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 0.001 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.001 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 12 mg
+Calcium: 1 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 32.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

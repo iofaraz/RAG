@@ -1,0 +1,36 @@
+Food: Spinach quiche, meatless
+Food ID: 2708732
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 10.29 g
+Carbohydrates: 11.68 g
+Fat: 23.51 g
+Fiber: 1 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 11.898 g
+Monounsaturated fat: 6.505 g
+Polyunsaturated fat: 1.654 g
+Cholesterol: 127 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 216 mg
+Calcium: 231 mg
+Iron: 1.08 mg
+Magnesium: 39 mg
+Zinc: 1.39 mg
+
+Vitamins:
+Vitamin A: 264 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0.9 µg
+Vitamin E: 1.22 mg
+Vitamin K: 131.1 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0.49 µg
+Folate: 41 µg

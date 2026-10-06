@@ -1,0 +1,36 @@
+Food: Buttermilk
+Food ID: 2705393
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 3.46 g
+Carbohydrates: 4.81 g
+Fat: 1.08 g
+Fiber: 0 g
+Sugar: 5.36 g
+
+Fats:
+Saturated fat: 0.552 g
+Monounsaturated fat: 0.199 g
+Polyunsaturated fat: 0.033 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 158 mg
+Calcium: 120 mg
+Iron: 0.01 mg
+Magnesium: 11 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.22 µg
+Folate: 5 µg

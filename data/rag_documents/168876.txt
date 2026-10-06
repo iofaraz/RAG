@@ -1,0 +1,37 @@
+Food: Rice, brown, parboiled, dry, UNCLE BEN'S
+Food ID: 168876
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 370 kcal
+Protein: 7.6 g
+Carbohydrates: 78.68 g
+Fat: 2.75 g
+Fiber: 3.5 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 0.481 g
+Monounsaturated fat: 1.024 g
+Polyunsaturated fat: 0.841 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 219 mg
+Calcium: 8 mg
+Iron: 1.16 mg
+Magnesium: 98 mg
+Zinc: 1.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.407 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

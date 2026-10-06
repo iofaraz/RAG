@@ -1,0 +1,36 @@
+Food: Egg, quail, whole, fresh, raw
+Food ID: 172191
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 13.05 g
+Carbohydrates: 0.41 g
+Fat: 11.09 g
+Fiber: 0 g
+Sugar: 0.4 g
+
+Fats:
+Saturated fat: 3.557 g
+Monounsaturated fat: 4.324 g
+Polyunsaturated fat: 1.324 g
+Cholesterol: 844 mg
+
+Minerals:
+Sodium: 141 mg
+Potassium: 132 mg
+Calcium: 64 mg
+Iron: 3.65 mg
+Magnesium: 13 mg
+Zinc: 1.47 mg
+
+Vitamins:
+Vitamin A: 156 µg
+Vitamin C: 0 mg
+Vitamin D: 1.4 µg
+Vitamin E: 1.08 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 1.58 µg
+Folate: 66 µg

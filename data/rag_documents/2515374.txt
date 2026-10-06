@@ -1,0 +1,18 @@
+Food: Nuts, cashew nuts, raw
+Food ID: 2515374
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 17.4423 g
+Carbohydrates: 36.2887 g
+Fat: 38.86 g
+Fiber: 4.104 g
+
+Minerals:
+Sodium: 4.759 mg
+Potassium: 638.3 mg
+Calcium: 41.95 mg
+Iron: 5.988 mg
+Magnesium: 250.6 mg
+Zinc: 5.071 mg

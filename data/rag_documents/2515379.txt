@@ -1,0 +1,18 @@
+Food: Nuts, pistachio nuts, raw
+Food ID: 2515379
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 20.5057 g
+Carbohydrates: 27.6943 g
+Fat: 45.02 g
+Fiber: 6.969 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 947 mg
+Calcium: 117.4 mg
+Iron: 3.456 mg
+Magnesium: 109.7 mg
+Zinc: 2.176 mg

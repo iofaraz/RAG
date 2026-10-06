@@ -1,0 +1,26 @@
+Food: Fish, salmon, sockeye, wild caught, raw
+Food ID: 2684440
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 22.3 g
+Carbohydrates: 0 g
+Fat: 4.936 g
+
+Fats:
+Saturated fat: 0.722 g
+Monounsaturated fat: 1.137 g
+Polyunsaturated fat: 0.71 g
+Cholesterol: 59.3 mg
+
+Minerals:
+Sodium: 53.3 mg
+Potassium: 329.7 mg
+Calcium: 14.84 mg
+Iron: 0.4024 mg
+Magnesium: 26.15 mg
+Zinc: 0.4246 mg
+
+Vitamins:
+Vitamin B12: 5.16 µg

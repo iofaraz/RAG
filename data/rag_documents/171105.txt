@@ -1,0 +1,32 @@
+Food: Poultry, mechanically deboned, from backs and necks without skin, raw
+Food ID: 171105
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 199 kcal
+Protein: 13.79 g
+Carbohydrates: 0 g
+Fat: 15.48 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.71 g
+Monounsaturated fat: 7.41 g
+Polyunsaturated fat: 2.28 g
+Cholesterol: 104 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 128 mg
+Calcium: 123 mg
+Iron: 1.73 mg
+Magnesium: 13 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 3 mg
+Vitamin B6: 0.32 mg
+Vitamin B12: 0.35 µg
+Folate: 9 µg

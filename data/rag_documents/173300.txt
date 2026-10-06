@@ -1,0 +1,27 @@
+Food: McDONALD'S, Bacon, Egg & Cheese McGRIDDLES
+Food ID: 173300
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 12.03 g
+Carbohydrates: 26.19 g
+Fat: 13.19 g
+Fiber: 0.8 g
+Sugar: 9.56 g
+
+Fats:
+Saturated fat: 4.201 g
+Monounsaturated fat: 4.686 g
+Polyunsaturated fat: 1.775 g
+Trans fat: 0.903 g
+Cholesterol: 147 mg
+
+Minerals:
+Sodium: 673 mg
+Calcium: 109 mg
+Iron: 1.65 mg
+
+Vitamins:
+Vitamin C: 1.8 mg

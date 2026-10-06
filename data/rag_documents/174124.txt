@@ -1,0 +1,25 @@
+Food: Beverages, Cocoa mix, NESTLE, Hot Cocoa Mix Rich Chocolate With Marshmallows
+Food ID: 174124
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 400 kcal
+Protein: 2.8 g
+Carbohydrates: 75 g
+Fat: 15 g
+Fiber: 3.7 g
+Sugar: 65 g
+
+Fats:
+Saturated fat: 15 g
+Trans fat: 0.23 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 800 mg
+Calcium: 80 mg
+Iron: 1.8 mg
+
+Vitamins:
+Vitamin C: 0 mg

@@ -1,0 +1,32 @@
+Food: Crackers, rye, wafers, seasoned
+Food ID: 172745
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 9 g
+Carbohydrates: 73.8 g
+Fat: 9.2 g
+Fiber: 20.9 g
+
+Fats:
+Saturated fat: 1.287 g
+Monounsaturated fat: 3.27 g
+Polyunsaturated fat: 3.608 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 887 mg
+Potassium: 454 mg
+Calcium: 44 mg
+Iron: 3.04 mg
+Magnesium: 106 mg
+Zinc: 2.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0 µg
+Folate: 52 µg

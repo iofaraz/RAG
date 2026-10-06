@@ -1,0 +1,36 @@
+Food: Vienna sausages stewed with potatoes, Puerto Rican style
+Food ID: 2706585
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 5.08 g
+Carbohydrates: 13.06 g
+Fat: 16.36 g
+Fiber: 1.7 g
+Sugar: 1.31 g
+
+Fats:
+Saturated fat: 3.819 g
+Monounsaturated fat: 7.845 g
+Polyunsaturated fat: 3.64 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 466 mg
+Potassium: 359 mg
+Calcium: 16 mg
+Iron: 0.99 mg
+Magnesium: 20 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 16.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.14 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.254 mg
+Vitamin B12: 0.31 µg
+Folate: 13 µg

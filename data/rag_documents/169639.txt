@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, SNICKERS MUNCH bar
+Food ID: 169639
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 536 kcal
+Protein: 15.25 g
+Carbohydrates: 43.64 g
+Fat: 36.22 g
+Fiber: 4.7 g
+Sugar: 30.87 g
+
+Fats:
+Saturated fat: 8.819 g
+Trans fat: 0.272 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 358 mg
+Calcium: 54 mg
+Iron: 1.02 mg
+
+Vitamins:
+Vitamin C: 0 mg

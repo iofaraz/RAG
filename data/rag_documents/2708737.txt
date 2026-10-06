@@ -1,0 +1,36 @@
+Food: Turnover or hot pocket, ham
+Food ID: 2708737
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 256 kcal
+Protein: 9.32 g
+Carbohydrates: 27.85 g
+Fat: 11.82 g
+Fiber: 1.5 g
+Sugar: 3.01 g
+
+Fats:
+Saturated fat: 3.545 g
+Monounsaturated fat: 4.836 g
+Polyunsaturated fat: 2.683 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 562 mg
+Potassium: 160 mg
+Calcium: 98 mg
+Iron: 1.87 mg
+Magnesium: 19 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.65 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 0.15 µg
+Folate: 55 µg

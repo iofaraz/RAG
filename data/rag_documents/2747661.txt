@@ -1,0 +1,23 @@
+Food: Peppers, jalapeno, seeded, raw
+Food ID: 2747661
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.621125 g
+Carbohydrates: 5.07568 g
+Fat: 0.1488 g
+Fiber: 1.725 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 166.9 mg
+Calcium: 10.1 mg
+Iron: 0.03763 mg
+Magnesium: 8.946 mg
+Zinc: 0.09438 mg
+
+Vitamins:
+Vitamin C: 89.94 mg
+Vitamin B6: 0.2671 mg
+Folate: 27.43 µg

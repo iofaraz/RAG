@@ -1,0 +1,36 @@
+Food: Baby Toddler pudding
+Food ID: 2709380
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 1.76 g
+Carbohydrates: 17.58 g
+Fat: 0.98 g
+Fiber: 0.2 g
+Sugar: 12.2 g
+
+Fats:
+Saturated fat: 0.325 g
+Monounsaturated fat: 0.364 g
+Polyunsaturated fat: 0.128 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 68 mg
+Calcium: 54 mg
+Iron: 0.22 mg
+Magnesium: 5 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.23 µg
+Folate: 6 µg

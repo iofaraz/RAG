@@ -1,0 +1,27 @@
+Food: Margarine-like spread, SMART BEAT Super Light without saturated fat
+Food ID: 173608
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 17.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.22 g
+Monounsaturated fat: 7.6 g
+Polyunsaturated fat: 3.98 g
+Trans fat: 2.45 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 755 mg
+Potassium: 12 mg
+
+Vitamins:
+Vitamin E: 1.7 mg
+Vitamin K: 12.3 µg

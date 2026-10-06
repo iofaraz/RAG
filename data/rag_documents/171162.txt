@@ -1,0 +1,36 @@
+Food: Soup, chunky beef, canned, ready-to-serve
+Food ID: 171162
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 3.97 g
+Carbohydrates: 10.08 g
+Fat: 1.11 g
+Fiber: 0.6 g
+Sugar: 0.67 g
+
+Fats:
+Saturated fat: 0.554 g
+Monounsaturated fat: 0.465 g
+Polyunsaturated fat: 0.047 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 338 mg
+Potassium: 140 mg
+Calcium: 13 mg
+Iron: 0.97 mg
+Magnesium: 2 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.26 µg
+Folate: 6 µg

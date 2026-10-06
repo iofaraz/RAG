@@ -1,0 +1,37 @@
+Food: Fruit cocktail, canned, heavy syrup, drained
+Food ID: 168178
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 70 kcal
+Protein: 0.47 g
+Carbohydrates: 18.8 g
+Fat: 0.1 g
+Fiber: 1.7 g
+Sugar: 17.14 g
+
+Fats:
+Saturated fat: 0.014 g
+Monounsaturated fat: 0.018 g
+Polyunsaturated fat: 0.042 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 90 mg
+Calcium: 7 mg
+Iron: 0.29 mg
+Magnesium: 5 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

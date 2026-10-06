@@ -1,0 +1,32 @@
+Food: Sausage, smoked link sausage, pork and beef (nonfat dry milk added)
+Food ID: 172939
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 313 kcal
+Protein: 13.28 g
+Carbohydrates: 1.92 g
+Fat: 27.61 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 9.72 g
+Monounsaturated fat: 12.64 g
+Polyunsaturated fat: 3.02 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 1173 mg
+Potassium: 286 mg
+Calcium: 41 mg
+Iron: 1.47 mg
+Magnesium: 16 mg
+Zinc: 1.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.18 mg
+Vitamin B12: 1.57 µg
+Folate: 2 µg

@@ -1,0 +1,36 @@
+Food: Fish, NFS
+Food ID: 2706224
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 19.32 g
+Carbohydrates: 6.64 g
+Fat: 14.52 g
+Fiber: 0.3 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 2.838 g
+Monounsaturated fat: 5.276 g
+Polyunsaturated fat: 4.531 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 329 mg
+Calcium: 17 mg
+Iron: 0.86 mg
+Magnesium: 27 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 0.9 mg
+Vitamin D: 5.3 µg
+Vitamin E: 2.88 mg
+Vitamin K: 8.7 µg
+Vitamin B6: 0.325 mg
+Vitamin B12: 2.4 µg
+Folate: 29 µg

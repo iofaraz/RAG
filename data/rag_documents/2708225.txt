@@ -1,0 +1,36 @@
+Food: Popcorn, microwave, plain, light
+Food ID: 2708225
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 409 kcal
+Protein: 11.92 g
+Carbohydrates: 71.68 g
+Fat: 10.07 g
+Fiber: 13.4 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 2.509 g
+Monounsaturated fat: 2.705 g
+Polyunsaturated fat: 4.007 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 766 mg
+Potassium: 303 mg
+Calcium: 7 mg
+Iron: 2.94 mg
+Magnesium: 133 mg
+Zinc: 2.84 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.88 mg
+Vitamin K: 10.3 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

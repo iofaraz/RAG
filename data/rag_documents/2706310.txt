@@ -1,0 +1,36 @@
+Food: Fish, tuna, cooked
+Food ID: 2706310
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 176 kcal
+Protein: 30.31 g
+Carbohydrates: 0.01 g
+Fat: 5.14 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.4 g
+Monounsaturated fat: 1.754 g
+Polyunsaturated fat: 1.484 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 271 mg
+Potassium: 548 mg
+Calcium: 6 mg
+Iron: 0.96 mg
+Magnesium: 44 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0 mg
+Vitamin D: 2.2 µg
+Vitamin E: 0.98 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 1.072 mg
+Vitamin B12: 2.33 µg
+Folate: 2 µg

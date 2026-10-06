@@ -1,0 +1,32 @@
+Food: Cereals, QUAKER, corn grits, instant, plain, prepared (microwaved or boiling water added), without salt
+Food ID: 173897
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 1.58 g
+Carbohydrates: 15.95 g
+Fat: 0.49 g
+Fiber: 1.1 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 0.076 g
+Monounsaturated fat: 0.081 g
+Polyunsaturated fat: 0.191 g
+
+Minerals:
+Sodium: 227 mg
+Potassium: 27 mg
+Calcium: 64 mg
+Iron: 6.71 mg
+Magnesium: 6 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.028 mg
+Folate: 27 µg

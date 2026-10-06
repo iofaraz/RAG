@@ -1,0 +1,36 @@
+Food: Peas and carrots, frozen, cooked, fat added
+Food ID: 2709689
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 80 kcal
+Protein: 2.89 g
+Carbohydrates: 10.74 g
+Fat: 2.9 g
+Fiber: 3.7 g
+Sugar: 4.17 g
+
+Fats:
+Saturated fat: 0.69 g
+Monounsaturated fat: 0.915 g
+Polyunsaturated fat: 0.872 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 188 mg
+Potassium: 155 mg
+Calcium: 28 mg
+Iron: 0.95 mg
+Magnesium: 16 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 472 µg
+Vitamin C: 5.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.73 mg
+Vitamin K: 21 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

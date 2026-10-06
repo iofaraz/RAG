@@ -1,0 +1,25 @@
+Food: Salad dressing, KRAFT MIRACLE WHIP FREE Nonfat Dressing
+Food ID: 171004
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 0.2 g
+Carbohydrates: 15.5 g
+Fat: 2.7 g
+Fiber: 1.9 g
+Sugar: 10.3 g
+
+Fats:
+Saturated fat: 0.6 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 788 mg
+Potassium: 49 mg
+Calcium: 6 mg
+Iron: 0.12 mg
+
+Vitamins:
+Vitamin C: 0 mg

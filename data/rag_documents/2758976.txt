@@ -1,0 +1,19 @@
+Food: Cranberries, dried, sweetened
+Food ID: 2758976
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 4.36 g
+
+Minerals:
+Sodium: 4.66 mg
+Potassium: 64.24 mg
+Calcium: 9.065 mg
+Iron: 0.1468 mg
+Magnesium: 4.496 mg
+Zinc: 0.06075 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.01175 mg

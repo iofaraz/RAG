@@ -1,0 +1,37 @@
+Food: Turkey, retail parts, thigh, meat only, cooked, roasted
+Food ID: 172877
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 25.14 g
+Carbohydrates: 0.46 g
+Fat: 6.25 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.02 g
+Monounsaturated fat: 2.31 g
+Polyunsaturated fat: 1.92 g
+Trans fat: 0.089 g
+Cholesterol: 116 mg
+
+Minerals:
+Sodium: 104 mg
+Potassium: 296 mg
+Calcium: 4 mg
+Iron: 1.59 mg
+Magnesium: 23 mg
+Zinc: 3.26 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.484 mg
+Vitamin B12: 1.63 µg
+Folate: 8 µg

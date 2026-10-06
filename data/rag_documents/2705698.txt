@@ -1,0 +1,36 @@
+Food: Mousse
+Food ID: 2705698
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 4.2 g
+Carbohydrates: 16.23 g
+Fat: 15.12 g
+Fiber: 0.6 g
+Sugar: 15.1 g
+
+Fats:
+Saturated fat: 8.143 g
+Monounsaturated fat: 4.044 g
+Polyunsaturated fat: 0.842 g
+Cholesterol: 118 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 154 mg
+Calcium: 102 mg
+Iron: 0.52 mg
+Magnesium: 21 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 138 µg
+Vitamin C: 0.2 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.72 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0.34 µg
+Folate: 13 µg

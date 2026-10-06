@@ -1,0 +1,36 @@
+Food: Beef stew, canned entree
+Food ID: 173330
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 4.41 g
+Carbohydrates: 7.85 g
+Fat: 5.53 g
+Fiber: 0.9 g
+Sugar: 1.76 g
+
+Fats:
+Saturated fat: 2.185 g
+Monounsaturated fat: 2.543 g
+Polyunsaturated fat: 0.251 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 388 mg
+Potassium: 163 mg
+Calcium: 12 mg
+Iron: 2.48 mg
+Magnesium: 8 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.5 µg
+Folate: 14 µg

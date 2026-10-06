@@ -1,0 +1,36 @@
+Food: Pancakes, pumpkin
+Food ID: 2708307
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 6.37 g
+Carbohydrates: 30.95 g
+Fat: 10.08 g
+Fiber: 2.3 g
+Sugar: 6.51 g
+
+Fats:
+Saturated fat: 2.527 g
+Monounsaturated fat: 3.581 g
+Polyunsaturated fat: 2.923 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 423 mg
+Potassium: 186 mg
+Calcium: 176 mg
+Iron: 1.48 mg
+Magnesium: 21 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 219 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1.71 mg
+Vitamin K: 10.2 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 0.32 µg
+Folate: 40 µg

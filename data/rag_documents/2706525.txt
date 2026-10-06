@@ -1,0 +1,36 @@
+Food: Meat loaf made with venison/deer
+Food ID: 2706525
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 19.02 g
+Carbohydrates: 6.31 g
+Fat: 6.73 g
+Fiber: 0.4 g
+Sugar: 1.58 g
+
+Fats:
+Saturated fat: 3.038 g
+Monounsaturated fat: 1.379 g
+Polyunsaturated fat: 0.599 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 378 mg
+Potassium: 310 mg
+Calcium: 51 mg
+Iron: 2.7 mg
+Magnesium: 22 mg
+Zinc: 3.48 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.44 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.208 mg
+Vitamin B12: 1.18 µg
+Folate: 14 µg

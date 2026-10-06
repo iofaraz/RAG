@@ -1,0 +1,36 @@
+Food: Fish, mackerel, NFS
+Food ID: 2706263
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 24.94 g
+Carbohydrates: 0.01 g
+Fat: 14.33 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 3.977 g
+Monounsaturated fat: 4.874 g
+Polyunsaturated fat: 3.71 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 322 mg
+Potassium: 505 mg
+Calcium: 29 mg
+Iron: 1.45 mg
+Magnesium: 35 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 2 mg
+Vitamin D: 11.3 µg
+Vitamin E: 1.92 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.398 mg
+Vitamin B12: 4.92 µg
+Folate: 2 µg

@@ -1,0 +1,36 @@
+Food: Cookies, chocolate sandwich, with extra creme filling
+Food ID: 172720
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 497 kcal
+Protein: 4.33 g
+Carbohydrates: 68.2 g
+Fat: 24.52 g
+Fiber: 2.7 g
+Sugar: 46 g
+
+Fats:
+Saturated fat: 5.454 g
+Monounsaturated fat: 16.076 g
+Polyunsaturated fat: 2.471 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 351 mg
+Potassium: 137 mg
+Calcium: 16 mg
+Iron: 7.8 mg
+Magnesium: 36 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.89 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.02 µg
+Folate: 46 µg

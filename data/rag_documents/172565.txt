@@ -1,0 +1,31 @@
+Food: Game meat, bison, ribeye, separable lean only, trimmed to 0" fat, raw
+Food ID: 172565
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 22.1 g
+Carbohydrates: 0 g
+Fat: 2.4 g
+
+Fats:
+Saturated fat: 0.898 g
+Monounsaturated fat: 0.996 g
+Polyunsaturated fat: 0.192 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 344 mg
+Calcium: 6 mg
+Iron: 2.8 mg
+Magnesium: 24 mg
+Zinc: 3.2 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin E: 0.04 mg
+Vitamin B6: 0.252 mg
+Vitamin B12: 2.2 µg

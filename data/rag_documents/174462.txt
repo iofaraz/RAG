@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, loin saddle, separable lean and fat, cooked, fast roasted
+Food ID: 174462
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 21.13 g
+Carbohydrates: 0.1 g
+Fat: 20.98 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.762 g
+Monounsaturated fat: 5.721 g
+Polyunsaturated fat: 0.805 g
+Trans fat: 1.146 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 306 mg
+Calcium: 7 mg
+Iron: 1.44 mg
+Magnesium: 21 mg
+Zinc: 2.61 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.44 mg
+Vitamin B6: 0.173 mg
+Vitamin B12: 1.42 µg

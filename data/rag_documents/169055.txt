@@ -1,0 +1,36 @@
+Food: Salad dressing, caesar dressing, regular
+Food ID: 169055
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 542 kcal
+Protein: 2.17 g
+Carbohydrates: 3.3 g
+Fat: 57.85 g
+Fiber: 0.5 g
+Sugar: 2.81 g
+
+Fats:
+Saturated fat: 8.789 g
+Monounsaturated fat: 13.504 g
+Polyunsaturated fat: 32.857 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 1209 mg
+Potassium: 29 mg
+Calcium: 48 mg
+Iron: 1.08 mg
+Magnesium: 2 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 4.74 mg
+Vitamin K: 104.8 µg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0.03 µg
+Folate: 2 µg

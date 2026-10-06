@@ -1,0 +1,36 @@
+Food: Bread, gluten free
+Food ID: 2707797
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 248 kcal
+Protein: 4.31 g
+Carbohydrates: 45.78 g
+Fat: 5.24 g
+Fiber: 4.3 g
+Sugar: 3.53 g
+
+Fats:
+Saturated fat: 0.977 g
+Monounsaturated fat: 2.009 g
+Polyunsaturated fat: 0.516 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 447 mg
+Potassium: 75 mg
+Calcium: 138 mg
+Iron: 2.63 mg
+Magnesium: 12 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

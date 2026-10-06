@@ -1,0 +1,36 @@
+Food: Chicken fillet wrap sandwich, fried, from fast food
+Food ID: 2707016
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 12.68 g
+Carbohydrates: 24.42 g
+Fat: 16.68 g
+Fiber: 2 g
+Sugar: 1.86 g
+
+Fats:
+Saturated fat: 5.423 g
+Monounsaturated fat: 4.568 g
+Polyunsaturated fat: 5.194 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 694 mg
+Potassium: 203 mg
+Calcium: 181 mg
+Iron: 1.68 mg
+Magnesium: 26 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.59 mg
+Vitamin K: 17.3 µg
+Vitamin B6: 0.201 mg
+Vitamin B12: 0.28 µg
+Folate: 47 µg

@@ -1,0 +1,36 @@
+Food: Soupy rice mixture with chicken and potatoes, Puerto Rican style
+Food ID: 2708975
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 6.34 g
+Carbohydrates: 12.07 g
+Fat: 4.26 g
+Fiber: 0.9 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 1.228 g
+Monounsaturated fat: 1.848 g
+Polyunsaturated fat: 0.571 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 290 mg
+Potassium: 218 mg
+Calcium: 12 mg
+Iron: 0.74 mg
+Magnesium: 16 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 9.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.164 mg
+Vitamin B12: 0.1 µg
+Folate: 20 µg

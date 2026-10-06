@@ -1,0 +1,36 @@
+Food: Scallops, baked or broiled
+Food ID: 2706356
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 14.99 g
+Carbohydrates: 3.96 g
+Fat: 5.14 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.346 g
+Monounsaturated fat: 1.669 g
+Polyunsaturated fat: 1.463 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 415 mg
+Potassium: 255 mg
+Calcium: 8 mg
+Iron: 0.48 mg
+Magnesium: 27 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.111 mg
+Vitamin B12: 1.49 µg
+Folate: 15 µg

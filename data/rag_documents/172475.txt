@@ -1,0 +1,33 @@
+Food: Tofu, raw, firm, prepared with calcium sulfate
+Food ID: 172475
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 17.27 g
+Carbohydrates: 2.78 g
+Fat: 8.72 g
+Fiber: 2.3 g
+
+Fats:
+Saturated fat: 1.261 g
+Monounsaturated fat: 1.925 g
+Polyunsaturated fat: 4.921 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 237 mg
+Calcium: 683 mg
+Iron: 2.66 mg
+Magnesium: 58 mg
+Zinc: 1.57 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

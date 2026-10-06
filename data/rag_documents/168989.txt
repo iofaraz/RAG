@@ -1,0 +1,15 @@
+Food: Fish, herring eggs on giant kelp, Pacific (Alaska Native)
+Food ID: 168989
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 11.3 g
+Carbohydrates: 2.6 g
+Fat: 0.8 g
+
+Minerals:
+Sodium: 61 mg
+Calcium: 161 mg
+Iron: 3.4 mg

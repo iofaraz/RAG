@@ -1,0 +1,36 @@
+Food: Pig in a blanket
+Food ID: 2707045
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 310 kcal
+Protein: 11.42 g
+Carbohydrates: 19.22 g
+Fat: 20.85 g
+Fiber: 0.7 g
+Sugar: 2.68 g
+
+Fats:
+Saturated fat: 8.07 g
+Monounsaturated fat: 8.706 g
+Polyunsaturated fat: 1.471 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 708 mg
+Potassium: 264 mg
+Calcium: 69 mg
+Iron: 2 mg
+Magnesium: 16 mg
+Zinc: 1.7 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.43 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.59 µg
+Folate: 30 µg

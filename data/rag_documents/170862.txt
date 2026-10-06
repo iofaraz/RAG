@@ -1,0 +1,36 @@
+Food: Milk, filled, fluid, with lauric acid oil
+Food ID: 170862
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 3.33 g
+Carbohydrates: 4.74 g
+Fat: 3.4 g
+Fiber: 0 g
+Sugar: 4.74 g
+
+Fats:
+Saturated fat: 3.101 g
+Monounsaturated fat: 0.1 g
+Polyunsaturated fat: 0.01 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 139 mg
+Calcium: 128 mg
+Iron: 0.05 mg
+Magnesium: 13 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.34 µg
+Folate: 5 µg

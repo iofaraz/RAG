@@ -1,0 +1,26 @@
+Food: KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce
+Food ID: 172209
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 12 g
+Carbohydrates: 9.2 g
+Fat: 21 g
+Fiber: 0.3 g
+Sugar: 6.7 g
+
+Fats:
+Saturated fat: 13.1 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 1638 mg
+Potassium: 240 mg
+Calcium: 359 mg
+Iron: 0.19 mg
+Zinc: 1.64 mg
+
+Vitamins:
+Vitamin C: 0.4 mg

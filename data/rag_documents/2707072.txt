@@ -1,0 +1,36 @@
+Food: Hot dog sandwich, reduced fat, on white bun
+Food ID: 2707072
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 11.99 g
+Carbohydrates: 24.96 g
+Fat: 10.47 g
+Fiber: 0.8 g
+Sugar: 3.21 g
+
+Fats:
+Saturated fat: 4.006 g
+Monounsaturated fat: 4.464 g
+Polyunsaturated fat: 1.271 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 561 mg
+Potassium: 167 mg
+Calcium: 72 mg
+Iron: 2.17 mg
+Magnesium: 16 mg
+Zinc: 1.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.22 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.58 µg
+Folate: 43 µg

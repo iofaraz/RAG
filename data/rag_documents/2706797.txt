@@ -1,0 +1,36 @@
+Food: Almond chicken
+Food ID: 2706797
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 15.66 g
+Carbohydrates: 4.46 g
+Fat: 13.16 g
+Fiber: 1.2 g
+Sugar: 1.42 g
+
+Fats:
+Saturated fat: 1.919 g
+Monounsaturated fat: 6.369 g
+Polyunsaturated fat: 3.781 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 330 mg
+Potassium: 243 mg
+Calcium: 36 mg
+Iron: 0.82 mg
+Magnesium: 37 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 11.8 mg
+Vitamin D: 0 µg
+Vitamin E: 3.15 mg
+Vitamin K: 13.7 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0.19 µg
+Folate: 16 µg

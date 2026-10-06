@@ -1,0 +1,36 @@
+Food: Nutritional powder mix, NFS
+Food ID: 2710740
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 19.9 g
+Carbohydrates: 66.2 g
+Fat: 1.4 g
+Fiber: 0.4 g
+Sugar: 65.8 g
+
+Fats:
+Saturated fat: 0.56 g
+Monounsaturated fat: 0.314 g
+Polyunsaturated fat: 0.278 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 385 mg
+Potassium: 947 mg
+Calcium: 285 mg
+Iron: 12.82 mg
+Magnesium: 228 mg
+Zinc: 8.55 mg
+
+Vitamins:
+Vitamin A: 625 µg
+Vitamin C: 76.9 mg
+Vitamin D: 0 µg
+Vitamin E: 9.37 mg
+Vitamin K: 90 µg
+Vitamin B6: 1.14 mg
+Vitamin B12: 1.71 µg
+Folate: 285 µg

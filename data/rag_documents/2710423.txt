@@ -1,0 +1,36 @@
+Food: Frozen mocha coffee drink, decaffeinated, nonfat
+Food ID: 2710423
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 1.54 g
+Carbohydrates: 13.14 g
+Fat: 0.08 g
+Fiber: 0 g
+Sugar: 12.3 g
+
+Fats:
+Saturated fat: 0.035 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.016 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 103 mg
+Calcium: 60 mg
+Iron: 0.02 mg
+Magnesium: 21 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.26 µg
+Folate: 1 µg

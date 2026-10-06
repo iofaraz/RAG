@@ -1,0 +1,36 @@
+Food: Chicken, broilers or fryers, rotisserie, original seasoning, thigh, meat and skin, cooked
+Food ID: 171522
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 233 kcal
+Protein: 22.93 g
+Carbohydrates: 0.02 g
+Fat: 15.7 g
+Fiber: 0 g
+Sugar: 0.02 g
+
+Fats:
+Saturated fat: 4.123 g
+Monounsaturated fat: 6.979 g
+Polyunsaturated fat: 2.334 g
+Trans fat: 0.188 g
+Cholesterol: 132 mg
+
+Minerals:
+Sodium: 345 mg
+Potassium: 260 mg
+Calcium: 15 mg
+Iron: 0.97 mg
+Magnesium: 22 mg
+Zinc: 1.84 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin E: 0.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.169 mg
+Vitamin B12: 0.47 µg
+Folate: 12 µg

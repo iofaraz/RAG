@@ -1,0 +1,35 @@
+Food: SUBWAY, meatball marinara sub on white bread (no toppings)
+Food ID: 170708
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 9.77 g
+Carbohydrates: 26.01 g
+Fat: 8.45 g
+Fiber: 2.1 g
+Sugar: 4.98 g
+
+Fats:
+Saturated fat: 3.124 g
+Monounsaturated fat: 3.573 g
+Polyunsaturated fat: 1.125 g
+Trans fat: 0.421 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 437 mg
+Potassium: 275 mg
+Calcium: 176 mg
+Iron: 2.32 mg
+Magnesium: 29 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.4 mg
+Vitamin E: 0.79 mg
+Vitamin B6: 0.132 mg
+Vitamin B12: 0.55 µg
+Folate: 79 µg

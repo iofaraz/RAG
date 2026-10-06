@@ -1,0 +1,36 @@
+Food: Breadsticks, hard, NFS
+Food ID: 2707690
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 412 kcal
+Protein: 12 g
+Carbohydrates: 68.4 g
+Fat: 9.5 g
+Fiber: 3 g
+Sugar: 1.26 g
+
+Fats:
+Saturated fat: 1.41 g
+Monounsaturated fat: 3.568 g
+Polyunsaturated fat: 3.628 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 713 mg
+Potassium: 124 mg
+Calcium: 22 mg
+Iron: 4.28 mg
+Magnesium: 32 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.01 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0 µg
+Folate: 162 µg

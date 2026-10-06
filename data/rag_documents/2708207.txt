@@ -1,0 +1,36 @@
+Food: Tortilla chips, cool ranch flavor (Doritos)
+Food ID: 2708207
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 470 kcal
+Protein: 7.06 g
+Carbohydrates: 67.44 g
+Fat: 20.58 g
+Fiber: 5.4 g
+Sugar: 0.78 g
+
+Fats:
+Saturated fat: 2.797 g
+Monounsaturated fat: 5.636 g
+Polyunsaturated fat: 10.715 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 519 mg
+Potassium: 181 mg
+Calcium: 106 mg
+Iron: 1.51 mg
+Magnesium: 84 mg
+Zinc: 1.37 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.51 mg
+Vitamin K: 20.8 µg
+Vitamin B6: 0.178 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

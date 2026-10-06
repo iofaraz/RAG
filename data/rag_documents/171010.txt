@@ -1,0 +1,35 @@
+Food: Salad dressing, mayonnaise, soybean and safflower oil, with salt
+Food ID: 171010
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 717 kcal
+Protein: 1.1 g
+Carbohydrates: 2.7 g
+Fat: 79.4 g
+Fiber: 0 g
+Sugar: 0.48 g
+
+Fats:
+Saturated fat: 8.6 g
+Monounsaturated fat: 13 g
+Polyunsaturated fat: 55 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 568 mg
+Potassium: 34 mg
+Calcium: 18 mg
+Iron: 0.5 mg
+Magnesium: 1 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 0 mg
+Vitamin E: 22 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0.577 mg
+Vitamin B12: 0.26 µg
+Folate: 8 µg

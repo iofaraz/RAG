@@ -1,0 +1,36 @@
+Food: Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce
+Food ID: 2706792
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 7.23 g
+Carbohydrates: 4.42 g
+Fat: 7.8 g
+Fiber: 1.6 g
+Sugar: 2.47 g
+
+Fats:
+Saturated fat: 1.215 g
+Monounsaturated fat: 3.227 g
+Polyunsaturated fat: 2.669 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 365 mg
+Potassium: 250 mg
+Calcium: 20 mg
+Iron: 0.79 mg
+Magnesium: 16 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 149 µg
+Vitamin C: 9.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.26 mg
+Vitamin K: 22.9 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.08 µg
+Folate: 17 µg

@@ -1,0 +1,36 @@
+Food: Gravy, vegetarian
+Food ID: 2707548
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 3.84 g
+Carbohydrates: 9.21 g
+Fat: 10.2 g
+Fiber: 0.2 g
+Sugar: 4.63 g
+
+Fats:
+Saturated fat: 4.678 g
+Monounsaturated fat: 2.569 g
+Polyunsaturated fat: 1.369 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 323 mg
+Potassium: 157 mg
+Calcium: 121 mg
+Iron: 0.34 mg
+Magnesium: 13 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 138 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.81 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 0.42 µg
+Folate: 8 µg

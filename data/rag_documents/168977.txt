@@ -1,0 +1,30 @@
+Food: Agutuk, meat-caribou (Alaskan ice cream) (Alaska Native)
+Food ID: 168977
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 21.7 g
+Carbohydrates: 0.9 g
+Fat: 18.6 g
+
+Fats:
+Saturated fat: 5.1 g
+Monounsaturated fat: 8.7 g
+Polyunsaturated fat: 3.6 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 95 mg
+Potassium: 228 mg
+Calcium: 16 mg
+Iron: 4.55 mg
+Magnesium: 20 mg
+Zinc: 3.83 mg
+
+Vitamins:
+Vitamin C: 2.2 mg
+Vitamin B6: 0.23 mg
+Vitamin B12: 4.83 µg
+Folate: 4 µg

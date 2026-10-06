@@ -1,0 +1,21 @@
+Food: Rice, black, unenriched, raw
+Food ID: 2710825
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 7.56875 g
+Carbohydrates: 77.1882 g
+Fat: 3.438 g
+Fiber: 4.179 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 255.6 mg
+Calcium: 14.4 mg
+Iron: 1.116 mg
+Magnesium: 113.4 mg
+Zinc: 1.716 mg
+
+Vitamins:
+Vitamin B6: 0.2024 mg

@@ -1,0 +1,24 @@
+Food: Vitasoy USA Organic Nasoya, Soft Tofu
+Food ID: 173783
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 70 kcal
+Protein: 8.76 g
+Carbohydrates: 0.74 g
+Fat: 3.5 g
+Fiber: 0.6 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 0.5 g
+Monounsaturated fat: 0.7 g
+Polyunsaturated fat: 2.3 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Calcium: 130 mg
+Iron: 1.1 mg

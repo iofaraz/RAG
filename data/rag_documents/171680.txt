@@ -1,0 +1,35 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, OAT BLENDERS with honey & almonds
+Food ID: 171680
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 7.8 g
+Carbohydrates: 77.26 g
+Fat: 4.88 g
+Fiber: 6.1 g
+Sugar: 20.26 g
+
+Fats:
+Saturated fat: 0.62 g
+Monounsaturated fat: 2.25 g
+Polyunsaturated fat: 1.35 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 453 mg
+Potassium: 240 mg
+Calcium: 33 mg
+Iron: 41.38 mg
+Magnesium: 61 mg
+Zinc: 17.87 mg
+
+Vitamins:
+Vitamin C: 29.6 mg
+Vitamin D: 3.6 µg
+Vitamin E: 1.37 mg
+Vitamin K: 0 µg
+Vitamin B6: 2.69 mg
+Vitamin B12: 7.55 µg
+Folate: 667 µg

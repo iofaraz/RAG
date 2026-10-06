@@ -1,0 +1,36 @@
+Food: Milk, fluid, nonfat, calcium fortified (fat free or skim)
+Food ID: 169868
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 3.4 g
+Carbohydrates: 4.85 g
+Fat: 0.18 g
+Fiber: 0 g
+Sugar: 4.85 g
+
+Fats:
+Saturated fat: 0.117 g
+Monounsaturated fat: 0.047 g
+Polyunsaturated fat: 0.007 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 166 mg
+Calcium: 204 mg
+Iron: 0.04 mg
+Magnesium: 11 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 137 µg
+Vitamin C: 1 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.38 µg
+Folate: 5 µg

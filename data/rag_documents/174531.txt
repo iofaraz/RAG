@@ -1,0 +1,36 @@
+Food: Sauce, fish, ready-to-serve
+Food ID: 174531
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 5.06 g
+Carbohydrates: 3.64 g
+Fat: 0.01 g
+Fiber: 0 g
+Sugar: 3.64 g
+
+Fats:
+Saturated fat: 0.003 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.003 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7851 mg
+Potassium: 288 mg
+Calcium: 43 mg
+Iron: 0.78 mg
+Magnesium: 175 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.396 mg
+Vitamin B12: 0.48 µg
+Folate: 51 µg

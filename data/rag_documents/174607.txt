@@ -1,0 +1,26 @@
+Food: Kielbasa, Polish, turkey and beef, smoked
+Food ID: 174607
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 13.1 g
+Carbohydrates: 3.9 g
+Fat: 17.6 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.23 g
+Monounsaturated fat: 8.27 g
+Polyunsaturated fat: 2.33 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 1200 mg
+Iron: 1.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 14.8 mg

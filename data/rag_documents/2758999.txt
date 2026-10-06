@@ -1,0 +1,4 @@
+Food: Pasta, dry, whole grain, spaghetti
+Food ID: 2758999
+Food Type: foundation_food
+Source: USDA FoodData Central

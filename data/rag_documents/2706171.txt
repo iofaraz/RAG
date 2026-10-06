@@ -1,0 +1,36 @@
+Food: Beef sausage
+Food ID: 2706171
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 13.3 g
+Carbohydrates: 3.37 g
+Fat: 28.7 g
+Fiber: 0 g
+Sugar: 1 g
+
+Fats:
+Saturated fat: 11.3 g
+Monounsaturated fat: 12.7 g
+Polyunsaturated fat: 1.91 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 866 mg
+Potassium: 263 mg
+Calcium: 35 mg
+Iron: 1.55 mg
+Magnesium: 20 mg
+Zinc: 2.14 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 19.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.33 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 1.13 µg
+Folate: 7 µg

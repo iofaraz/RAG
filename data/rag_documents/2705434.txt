@@ -1,0 +1,36 @@
+Food: Yogurt, whole milk, flavors other than fruit
+Food ID: 2705434
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 3.28 g
+Carbohydrates: 11.76 g
+Fat: 3.88 g
+Fiber: 0 g
+Sugar: 10.5 g
+
+Fats:
+Saturated fat: 1.995 g
+Monounsaturated fat: 0.752 g
+Polyunsaturated fat: 0.079 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 141 mg
+Calcium: 109 mg
+Iron: 0 mg
+Magnesium: 10 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.4 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.32 µg
+Folate: 6 µg

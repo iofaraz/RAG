@@ -1,0 +1,32 @@
+Food: Gravy, onion, dry, mix
+Food ID: 171172
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 322 kcal
+Protein: 9 g
+Carbohydrates: 67.64 g
+Fat: 3 g
+Fiber: 6 g
+
+Fats:
+Saturated fat: 1.86 g
+Monounsaturated fat: 0.9 g
+Polyunsaturated fat: 0.14 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 4186 mg
+Potassium: 262 mg
+Calcium: 280 mg
+Iron: 1 mg
+Magnesium: 34 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7 mg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.7 µg
+Folate: 31 µg

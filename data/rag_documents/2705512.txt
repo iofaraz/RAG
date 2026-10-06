@@ -1,0 +1,36 @@
+Food: Licuado or Batido
+Food ID: 2705512
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 75 kcal
+Protein: 2.33 g
+Carbohydrates: 13.15 g
+Fat: 1.45 g
+Fiber: 0.6 g
+Sugar: 11.48 g
+
+Fats:
+Saturated fat: 0.81 g
+Monounsaturated fat: 0.295 g
+Polyunsaturated fat: 0.057 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 179 mg
+Calcium: 83 mg
+Iron: 0.04 mg
+Magnesium: 14 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 10.7 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.35 µg
+Folate: 4 µg

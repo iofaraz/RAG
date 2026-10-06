@@ -1,0 +1,20 @@
+Food: Mission Foods, Mission Flour Tortillas, Soft Taco, 8 inch
+Food ID: 175082
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 8.7 g
+Carbohydrates: 49.6 g
+Fat: 6 g
+
+Fats:
+Saturated fat: 0.695 g
+Monounsaturated fat: 2.771 g
+Polyunsaturated fat: 0.924 g
+
+Minerals:
+Sodium: 898 mg
+Calcium: 191 mg
+Iron: 1.99 mg

@@ -1,0 +1,36 @@
+Food: Bologna, chicken, turkey, pork
+Food ID: 172970
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 298 kcal
+Protein: 9.88 g
+Carbohydrates: 5.65 g
+Fat: 26.18 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.99 g
+Monounsaturated fat: 10.555 g
+Polyunsaturated fat: 4.672 g
+Trans fat: 0.43 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 922 mg
+Potassium: 152 mg
+Calcium: 82 mg
+Iron: 1.16 mg
+Magnesium: 15 mg
+Zinc: 1.28 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 19.7 mg
+Vitamin E: 0.41 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0.79 µg
+Folate: 9 µg

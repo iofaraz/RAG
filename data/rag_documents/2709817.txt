@@ -1,0 +1,36 @@
+Food: Coleslaw, with fruit
+Food ID: 2709817
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 0.91 g
+Carbohydrates: 13.65 g
+Fat: 6.34 g
+Fiber: 2.1 g
+Sugar: 10.15 g
+
+Fats:
+Saturated fat: 0.982 g
+Monounsaturated fat: 1.332 g
+Polyunsaturated fat: 3.478 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 222 mg
+Potassium: 182 mg
+Calcium: 29 mg
+Iron: 0.2 mg
+Magnesium: 11 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 22.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.71 mg
+Vitamin K: 43.4 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.02 µg
+Folate: 26 µg

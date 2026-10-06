@@ -1,0 +1,36 @@
+Food: Custard
+Food ID: 2705682
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 5.08 g
+Carbohydrates: 10.97 g
+Fat: 3.64 g
+Fiber: 0 g
+Sugar: 10.89 g
+
+Fats:
+Saturated fat: 1.647 g
+Monounsaturated fat: 1.039 g
+Polyunsaturated fat: 0.383 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 84 mg
+Potassium: 158 mg
+Calcium: 117 mg
+Iron: 0.3 mg
+Magnesium: 12 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 0 mg
+Vitamin D: 1.4 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.41 µg
+Folate: 10 µg

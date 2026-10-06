@@ -1,0 +1,36 @@
+Food: Babyfood, vegetables, corn, creamed, strained
+Food ID: 172280
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 1.4 g
+Carbohydrates: 14.1 g
+Fat: 0.4 g
+Fiber: 2.1 g
+Sugar: 1.23 g
+
+Fats:
+Saturated fat: 0.076 g
+Monounsaturated fat: 0.116 g
+Polyunsaturated fat: 0.176 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 90 mg
+Calcium: 20 mg
+Iron: 0.28 mg
+Magnesium: 8 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.02 µg
+Folate: 17 µg

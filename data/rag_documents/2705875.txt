@@ -1,0 +1,36 @@
+Food: Pork, steak, lean only eaten
+Food ID: 2705875
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 26.71 g
+Carbohydrates: 0 g
+Fat: 12.8 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.873 g
+Monounsaturated fat: 6.014 g
+Polyunsaturated fat: 1.36 g
+Cholesterol: 99 mg
+
+Minerals:
+Sodium: 318 mg
+Potassium: 337 mg
+Calcium: 25 mg
+Iron: 1.83 mg
+Magnesium: 23 mg
+Zinc: 5.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.473 mg
+Vitamin B12: 0.91 µg
+Folate: 0 µg

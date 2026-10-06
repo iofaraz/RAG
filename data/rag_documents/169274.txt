@@ -1,0 +1,29 @@
+Food: Purslane, raw
+Food ID: 169274
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 20 kcal
+Protein: 2.03 g
+Carbohydrates: 3.39 g
+Fat: 0.36 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 494 mg
+Calcium: 65 mg
+Iron: 1.99 mg
+Magnesium: 68 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

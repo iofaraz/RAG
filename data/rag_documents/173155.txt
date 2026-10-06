@@ -1,0 +1,37 @@
+Food: Snacks, brown rice chips
+Food ID: 173155
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 8.2 g
+Carbohydrates: 81.5 g
+Fat: 2.8 g
+Fiber: 4.2 g
+Sugar: 0.6 g
+
+Fats:
+Saturated fat: 0.642 g
+Monounsaturated fat: 1.03 g
+Polyunsaturated fat: 0.98 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 326 mg
+Potassium: 290 mg
+Calcium: 11 mg
+Iron: 1.49 mg
+Magnesium: 131 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 6.54 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

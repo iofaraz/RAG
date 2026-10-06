@@ -1,0 +1,36 @@
+Food: Cream puff, eclair, custard or cream filled, not iced
+Food ID: 2708030
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 4.76 g
+Carbohydrates: 12.92 g
+Fat: 21.52 g
+Fiber: 0.4 g
+Sugar: 2.24 g
+
+Fats:
+Saturated fat: 11.517 g
+Monounsaturated fat: 4.741 g
+Polyunsaturated fat: 1.158 g
+Cholesterol: 144 mg
+
+Minerals:
+Sodium: 160 mg
+Potassium: 74 mg
+Calcium: 32 mg
+Iron: 1.12 mg
+Magnesium: 8 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 215 µg
+Vitamin C: 0.2 mg
+Vitamin D: 1 µg
+Vitamin E: 0.47 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.18 µg
+Folate: 35 µg

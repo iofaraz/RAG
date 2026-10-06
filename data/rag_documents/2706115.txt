@@ -1,0 +1,36 @@
+Food: Turkey, light or dark meat, fried, coated, skin not eaten
+Food ID: 2706115
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 27.22 g
+Carbohydrates: 1.42 g
+Fat: 5.06 g
+Fiber: 0 g
+Sugar: 0.11 g
+
+Fats:
+Saturated fat: 1.432 g
+Monounsaturated fat: 1.774 g
+Polyunsaturated fat: 1.369 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 274 mg
+Potassium: 235 mg
+Calcium: 16 mg
+Iron: 1.01 mg
+Magnesium: 28 mg
+Zinc: 2.35 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.596 mg
+Vitamin B12: 1.15 µg
+Folate: 11 µg

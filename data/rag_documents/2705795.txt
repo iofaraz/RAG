@@ -1,0 +1,36 @@
+Food: Cheese sandwich, American cheese, on white bread
+Food ID: 2705795
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 297 kcal
+Protein: 12.46 g
+Carbohydrates: 31.89 g
+Fat: 13.29 g
+Fiber: 1.4 g
+Sugar: 5.08 g
+
+Fats:
+Saturated fat: 6.91 g
+Monounsaturated fat: 2.94 g
+Polyunsaturated fat: 1.543 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 853 mg
+Potassium: 154 mg
+Calcium: 561 mg
+Iron: 2.28 mg
+Magnesium: 28 mg
+Zinc: 1.49 mg
+
+Vitamins:
+Vitamin A: 108 µg
+Vitamin C: 0 mg
+Vitamin D: 2.7 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 0.61 µg
+Folate: 71 µg

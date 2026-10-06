@@ -1,0 +1,37 @@
+Food: Soup, ramen noodle, any flavor, dry
+Food ID: 171177
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 440 kcal
+Protein: 10.17 g
+Carbohydrates: 60.26 g
+Fat: 17.59 g
+Fiber: 2.9 g
+Sugar: 1.98 g
+
+Fats:
+Saturated fat: 8.117 g
+Monounsaturated fat: 6.156 g
+Polyunsaturated fat: 2.198 g
+Trans fat: 0.065 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1855 mg
+Potassium: 181 mg
+Calcium: 21 mg
+Iron: 4.11 mg
+Magnesium: 25 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 2.44 mg
+Vitamin K: 8.9 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.25 µg
+Folate: 116 µg

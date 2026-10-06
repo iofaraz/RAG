@@ -1,0 +1,37 @@
+Food: Grapefruit, sections, canned, juice pack, solids and liquids
+Food ID: 173036
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 0.7 g
+Carbohydrates: 9.21 g
+Fat: 0.09 g
+Fiber: 0.4 g
+Sugar: 8.8 g
+
+Fats:
+Saturated fat: 0.012 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.021 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 169 mg
+Calcium: 15 mg
+Iron: 0.21 mg
+Magnesium: 11 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 33.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

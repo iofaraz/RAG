@@ -1,0 +1,25 @@
+Food: Babyfood, juice, orange and banana
+Food ID: 170962
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 0.7 g
+Carbohydrates: 11.9 g
+Fat: 0.1 g
+
+Minerals:
+Sodium: 3 mg
+Potassium: 200 mg
+Calcium: 17 mg
+Iron: 0.11 mg
+Magnesium: 14 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 34 mg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

@@ -1,0 +1,27 @@
+Food: McDONALD'S, Bacon Ranch Salad with Grilled Chicken
+Food ID: 173312
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 10.28 g
+Carbohydrates: 3.64 g
+Fat: 3.14 g
+Fiber: 1 g
+Sugar: 1.73 g
+
+Fats:
+Saturated fat: 1.235 g
+Monounsaturated fat: 1.014 g
+Polyunsaturated fat: 0.431 g
+Trans fat: 0.091 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 230 mg
+Calcium: 48 mg
+Iron: 0.65 mg
+
+Vitamins:
+Vitamin C: 10.2 mg

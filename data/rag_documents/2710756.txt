@@ -1,0 +1,36 @@
+Food: Energy Drink
+Food ID: 2710756
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 0.46 g
+Carbohydrates: 10.23 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 10.22 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 3 mg
+Calcium: 6 mg
+Iron: 0.06 mg
+Magnesium: 19 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 2.167 mg
+Vitamin B12: 1.97 µg
+Folate: 0 µg

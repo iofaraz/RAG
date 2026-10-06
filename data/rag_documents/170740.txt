@@ -1,0 +1,29 @@
+Food: KFC, Fried Chicken, ORIGINAL RECIPE, Drumstick, meat only, skin and breading removed
+Food ID: 170740
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 175 kcal
+Protein: 26.3 g
+Carbohydrates: 0.11 g
+Fat: 7.66 g
+
+Fats:
+Saturated fat: 1.838 g
+Monounsaturated fat: 2.816 g
+Polyunsaturated fat: 1.963 g
+Trans fat: 0.044 g
+Cholesterol: 137 mg
+
+Minerals:
+Sodium: 524 mg
+Potassium: 273 mg
+Calcium: 16 mg
+Iron: 1.04 mg
+Magnesium: 23 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin B6: 0.248 mg
+Vitamin B12: 0.64 µg

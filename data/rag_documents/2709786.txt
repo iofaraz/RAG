@@ -1,0 +1,36 @@
+Food: Garlic, raw
+Food ID: 2709786
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 6.62 g
+Carbohydrates: 28.2 g
+Fat: 0.38 g
+Fiber: 2.7 g
+Sugar: 1 g
+
+Fats:
+Saturated fat: 0.089 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.249 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 401 mg
+Calcium: 181 mg
+Iron: 1.7 mg
+Magnesium: 25 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 10 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 1.235 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

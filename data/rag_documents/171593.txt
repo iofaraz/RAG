@@ -1,0 +1,37 @@
+Food: Soup, chicken noodle, low sodium, canned, prepared with equal volume water
+Food ID: 171593
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 25 kcal
+Protein: 1.27 g
+Carbohydrates: 2.95 g
+Fat: 0.95 g
+Fiber: 0.2 g
+Sugar: 0.27 g
+
+Fats:
+Saturated fat: 0.262 g
+Monounsaturated fat: 0.418 g
+Polyunsaturated fat: 0.264 g
+Trans fat: 0.003 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 173 mg
+Potassium: 22 mg
+Calcium: 6 mg
+Iron: 0.66 mg
+Magnesium: 4 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.02 µg
+Folate: 8 µg

@@ -1,0 +1,32 @@
+Food: Nuts, chestnuts, european, boiled and steamed
+Food ID: 170168
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 2 g
+Carbohydrates: 27.76 g
+Fat: 1.38 g
+
+Fats:
+Saturated fat: 0.26 g
+Monounsaturated fat: 0.476 g
+Polyunsaturated fat: 0.545 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 715 mg
+Calcium: 46 mg
+Iron: 1.73 mg
+Magnesium: 54 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 26.7 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.233 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

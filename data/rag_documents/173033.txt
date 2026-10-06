@@ -1,0 +1,37 @@
+Food: Grapefruit, raw, pink and red and white, all areas
+Food ID: 173033
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 0.63 g
+Carbohydrates: 8.08 g
+Fat: 0.1 g
+Fiber: 1.1 g
+Sugar: 6.98 g
+
+Fats:
+Saturated fat: 0.014 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.024 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 139 mg
+Calcium: 12 mg
+Iron: 0.09 mg
+Magnesium: 8 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 34.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

@@ -1,0 +1,33 @@
+Food: Rice, white, glutinous, unenriched, uncooked
+Food ID: 168883
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 370 kcal
+Protein: 6.81 g
+Carbohydrates: 81.68 g
+Fat: 0.55 g
+Fiber: 2.8 g
+
+Fats:
+Saturated fat: 0.111 g
+Monounsaturated fat: 0.2 g
+Polyunsaturated fat: 0.198 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 77 mg
+Calcium: 11 mg
+Iron: 1.6 mg
+Magnesium: 23 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

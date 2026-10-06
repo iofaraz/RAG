@@ -1,0 +1,22 @@
+Food: Flour, almond
+Food ID: 2261420
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 26.2437 g
+Carbohydrates: 16.2492 g
+Fat: 50.23 g
+Fiber: 9.266 g
+
+Minerals:
+Sodium: 0.8944 mg
+Potassium: 666.8 mg
+Calcium: 232.3 mg
+Iron: 3.225 mg
+Magnesium: 251.1 mg
+Zinc: 2.795 mg
+
+Vitamins:
+Vitamin B6: 0.09988 mg
+Folate: 37.83 µg

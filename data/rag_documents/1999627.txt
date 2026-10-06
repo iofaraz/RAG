@@ -1,0 +1,23 @@
+Food: Mushroom, oyster
+Food ID: 1999627
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.89875 g
+Carbohydrates: 6.94125 g
+Fat: 0.1875 g
+Fiber: 2.85 g
+
+Minerals:
+Sodium: 1.128 mg
+Potassium: 281.6 mg
+Calcium: 0 mg
+Iron: 0.6981 mg
+Magnesium: 13.91 mg
+Zinc: 0.6843 mg
+
+Vitamins:
+Vitamin D: 0.0406 µg
+Vitamin B6: 0.09888 mg
+Folate: 63.14 µg

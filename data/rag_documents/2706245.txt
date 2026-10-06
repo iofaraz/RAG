@@ -1,0 +1,36 @@
+Food: Fish, cod, steamed
+Food ID: 2706245
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 87 kcal
+Protein: 19.29 g
+Carbohydrates: 0 g
+Fat: 0.52 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.107 g
+Monounsaturated fat: 0.092 g
+Polyunsaturated fat: 0.207 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 235 mg
+Potassium: 297 mg
+Calcium: 10 mg
+Iron: 0.2 mg
+Magnesium: 25 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.68 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 2.25 µg
+Folate: 8 µg

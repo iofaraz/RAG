@@ -1,0 +1,26 @@
+Food: Pillsbury, Chocolate Chip Cookies, refrigerated dough
+Food ID: 173260
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 450 kcal
+Protein: 3.82 g
+Carbohydrates: 60.75 g
+Fat: 21.26 g
+Fiber: 1.7 g
+Sugar: 37.67 g
+
+Fats:
+Saturated fat: 8.73 g
+Trans fat: 0.51 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 326 mg
+Calcium: 14 mg
+Iron: 2.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

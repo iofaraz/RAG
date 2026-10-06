@@ -1,0 +1,37 @@
+Food: Sweet potato, cooked, candied, home-prepared
+Food ID: 170088
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 164 kcal
+Protein: 0.89 g
+Carbohydrates: 32.12 g
+Fat: 3.54 g
+Fiber: 2.1 g
+Sugar: 27.25 g
+
+Fats:
+Saturated fat: 2.171 g
+Monounsaturated fat: 0.881 g
+Polyunsaturated fat: 0.198 g
+Trans fat: 0.136 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 119 mg
+Potassium: 178 mg
+Calcium: 26 mg
+Iron: 0.79 mg
+Magnesium: 13 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 349 µg
+Vitamin C: 9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.9 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.01 µg
+Folate: 6 µg

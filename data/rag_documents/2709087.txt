@@ -1,0 +1,36 @@
+Food: Spanish rice, NS as to fat
+Food ID: 2709087
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 2.87 g
+Carbohydrates: 19.64 g
+Fat: 2.6 g
+Fiber: 1.1 g
+Sugar: 1.55 g
+
+Fats:
+Saturated fat: 0.501 g
+Monounsaturated fat: 1.036 g
+Polyunsaturated fat: 0.818 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 310 mg
+Potassium: 123 mg
+Calcium: 21 mg
+Iron: 1.1 mg
+Magnesium: 11 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 11.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.59 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0.03 µg
+Folate: 34 µg

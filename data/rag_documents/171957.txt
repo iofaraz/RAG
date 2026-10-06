@@ -1,0 +1,32 @@
+Food: Fish, croaker, Atlantic, cooked, breaded and fried
+Food ID: 171957
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 18.2 g
+Carbohydrates: 7.54 g
+Fat: 12.67 g
+Fiber: 0.4 g
+
+Fats:
+Saturated fat: 3.476 g
+Monounsaturated fat: 5.32 g
+Polyunsaturated fat: 2.917 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 348 mg
+Potassium: 340 mg
+Calcium: 32 mg
+Iron: 0.86 mg
+Magnesium: 42 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.26 mg
+Vitamin B12: 2.1 µg
+Folate: 34 µg

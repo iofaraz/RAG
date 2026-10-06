@@ -1,0 +1,36 @@
+Food: Bean dip, made with refried beans
+Food ID: 2707400
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 5.44 g
+Carbohydrates: 15.89 g
+Fat: 3.7 g
+Fiber: 4.9 g
+Sugar: 0.99 g
+
+Fats:
+Saturated fat: 0.529 g
+Monounsaturated fat: 0.859 g
+Polyunsaturated fat: 1.957 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 443 mg
+Potassium: 368 mg
+Calcium: 26 mg
+Iron: 1.6 mg
+Magnesium: 40 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.91 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

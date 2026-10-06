@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, DOVE Dark Chocolate
+Food ID: 168805
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 520 kcal
+Protein: 5.19 g
+Carbohydrates: 59.4 g
+Fat: 32.45 g
+Fiber: 7.6 g
+Sugar: 46.27 g
+
+Fats:
+Saturated fat: 19.209 g
+Trans fat: 0.093 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 4 mg
+Calcium: 37 mg
+Iron: 3.18 mg
+
+Vitamins:
+Vitamin C: 0 mg

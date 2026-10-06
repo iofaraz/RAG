@@ -1,0 +1,21 @@
+Food: Bulgur, dry, raw
+Food ID: 2710820
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 11.7562 g
+Carbohydrates: 75.8817 g
+Fat: 2.421 g
+Fiber: 11.72 g
+
+Minerals:
+Sodium: 2.18 mg
+Potassium: 358.3 mg
+Calcium: 34.11 mg
+Iron: 2.625 mg
+Magnesium: 118.9 mg
+Zinc: 2.149 mg
+
+Vitamins:
+Vitamin B6: 0.2228 mg

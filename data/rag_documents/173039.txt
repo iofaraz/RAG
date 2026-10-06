@@ -1,0 +1,37 @@
+Food: Grapefruit juice, white, raw
+Food ID: 173039
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 39 kcal
+Protein: 0.5 g
+Carbohydrates: 9.2 g
+Fat: 0.1 g
+Fiber: 0.1 g
+Sugar: 9.1 g
+
+Fats:
+Saturated fat: 0.014 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.024 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 162 mg
+Calcium: 9 mg
+Iron: 0.2 mg
+Magnesium: 12 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 38 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

@@ -1,0 +1,32 @@
+Food: Snacks, rice cakes, brown rice, multigrain
+Food ID: 169680
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 8.5 g
+Carbohydrates: 80.1 g
+Fat: 3.5 g
+Fiber: 3 g
+
+Fats:
+Saturated fat: 0.56 g
+Monounsaturated fat: 1.16 g
+Polyunsaturated fat: 1.44 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 252 mg
+Potassium: 294 mg
+Calcium: 21 mg
+Iron: 1.96 mg
+Magnesium: 137 mg
+Zinc: 2.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.137 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

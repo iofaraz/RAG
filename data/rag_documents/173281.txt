@@ -1,0 +1,34 @@
+Food: PIZZA HUT 12" Super Supreme Pizza, Hand-Tossed Crust
+Food ID: 173281
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 10.9 g
+Carbohydrates: 25.62 g
+Fat: 10.72 g
+Fiber: 2 g
+Sugar: 3.71 g
+
+Fats:
+Saturated fat: 4.554 g
+Monounsaturated fat: 3.953 g
+Polyunsaturated fat: 1.729 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 689 mg
+Potassium: 233 mg
+Calcium: 129 mg
+Iron: 2 mg
+Magnesium: 23 mg
+Zinc: 1.45 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin E: 0.77 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.146 mg
+Vitamin B12: 0.62 µg

@@ -1,0 +1,32 @@
+Food: Fish, mahimahi, raw
+Food ID: 171959
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 18.5 g
+Carbohydrates: 0 g
+Fat: 0.7 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.188 g
+Monounsaturated fat: 0.121 g
+Polyunsaturated fat: 0.165 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 88 mg
+Potassium: 416 mg
+Calcium: 15 mg
+Iron: 1.13 mg
+Magnesium: 30 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.4 mg
+Vitamin B12: 0.6 µg
+Folate: 5 µg

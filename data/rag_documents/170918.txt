@@ -1,0 +1,36 @@
+Food: Spices, caraway seed
+Food ID: 170918
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 19.77 g
+Carbohydrates: 49.9 g
+Fat: 14.59 g
+Fiber: 38 g
+Sugar: 0.64 g
+
+Fats:
+Saturated fat: 0.62 g
+Monounsaturated fat: 7.125 g
+Polyunsaturated fat: 3.272 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 1351 mg
+Calcium: 689 mg
+Iron: 16.23 mg
+Magnesium: 258 mg
+Zinc: 5.5 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin E: 2.5 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.36 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

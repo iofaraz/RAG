@@ -1,0 +1,32 @@
+Food: Crackers, flavored, fish-shaped
+Food ID: 174098
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 463 kcal
+Protein: 10.16 g
+Carbohydrates: 65.67 g
+Fat: 17.71 g
+Fiber: 3.1 g
+Sugar: 1.18 g
+
+Fats:
+Saturated fat: 2.059 g
+Monounsaturated fat: 10.342 g
+Polyunsaturated fat: 3.917 g
+Trans fat: 0.059 g
+
+Minerals:
+Sodium: 970 mg
+Potassium: 224 mg
+Calcium: 83 mg
+Iron: 4.58 mg
+Magnesium: 25 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin E: 3.68 mg
+Vitamin K: 27.7 µg
+Vitamin B6: 0.085 mg
+Folate: 153 µg

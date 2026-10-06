@@ -1,0 +1,34 @@
+Food: Thyme, fresh
+Food ID: 173470
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 5.56 g
+Carbohydrates: 24.45 g
+Fat: 1.68 g
+Fiber: 14 g
+
+Fats:
+Saturated fat: 0.467 g
+Monounsaturated fat: 0.081 g
+Polyunsaturated fat: 0.532 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 609 mg
+Calcium: 405 mg
+Iron: 17.45 mg
+Magnesium: 160 mg
+Zinc: 1.81 mg
+
+Vitamins:
+Vitamin A: 238 µg
+Vitamin C: 160.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.348 mg
+Vitamin B12: 0 µg
+Folate: 45 µg

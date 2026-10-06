@@ -1,0 +1,31 @@
+Food: Game meat, bison, shoulder clod, separable lean only, trimmed to 0" fat, raw
+Food ID: 172566
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 21.1 g
+Carbohydrates: 0 g
+Fat: 2.1 g
+
+Fats:
+Saturated fat: 0.749 g
+Monounsaturated fat: 0.861 g
+Polyunsaturated fat: 0.217 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 322 mg
+Calcium: 4 mg
+Iron: 3 mg
+Magnesium: 24 mg
+Zinc: 5 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin E: 0.05 mg
+Vitamin B6: 0.221 mg
+Vitamin B12: 2.2 µg

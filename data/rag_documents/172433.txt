@@ -1,0 +1,33 @@
+Food: Peanuts, valencia, oil-roasted, with salt
+Food ID: 172433
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 589 kcal
+Protein: 27.04 g
+Carbohydrates: 16.3 g
+Fat: 51.24 g
+Fiber: 8.9 g
+
+Fats:
+Saturated fat: 7.894 g
+Monounsaturated fat: 23.065 g
+Polyunsaturated fat: 17.772 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 772 mg
+Potassium: 612 mg
+Calcium: 54 mg
+Iron: 1.65 mg
+Magnesium: 160 mg
+Zinc: 3.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.243 mg
+Vitamin B12: 0 µg
+Folate: 126 µg

@@ -1,0 +1,36 @@
+Food: Coffee creamer, powder, fat free
+Food ID: 2705608
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 431 kcal
+Protein: 1.9 g
+Carbohydrates: 73.4 g
+Fat: 15.7 g
+Fiber: 0 g
+Sugar: 73.4 g
+
+Fats:
+Saturated fat: 3.8 g
+Monounsaturated fat: 11.5 g
+Polyunsaturated fat: 0.198 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 229 mg
+Potassium: 902 mg
+Calcium: 1 mg
+Iron: 0.03 mg
+Magnesium: 0 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

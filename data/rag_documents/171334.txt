@@ -1,0 +1,36 @@
+Food: Babyfood, vegetables, corn, creamed, junior
+Food ID: 171334
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 1.4 g
+Carbohydrates: 16.25 g
+Fat: 0.4 g
+Fiber: 2.1 g
+Sugar: 1.48 g
+
+Fats:
+Saturated fat: 0.074 g
+Monounsaturated fat: 0.116 g
+Polyunsaturated fat: 0.178 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 81 mg
+Calcium: 4 mg
+Iron: 0.27 mg
+Magnesium: 8 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 2.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.02 µg
+Folate: 20 µg

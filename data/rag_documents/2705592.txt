@@ -1,0 +1,36 @@
+Food: Cream, NS as to light, heavy, or half and half
+Food ID: 2705592
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 3.13 g
+Carbohydrates: 4.3 g
+Fat: 11.5 g
+Fiber: 0 g
+Sugar: 4.13 g
+
+Fats:
+Saturated fat: 7.032 g
+Monounsaturated fat: 3.32 g
+Polyunsaturated fat: 0.554 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 132 mg
+Calcium: 107 mg
+Iron: 0.05 mg
+Magnesium: 10 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 97 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.19 µg
+Folate: 3 µg

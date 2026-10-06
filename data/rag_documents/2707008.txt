@@ -1,0 +1,36 @@
+Food: Chicken fillet sandwich, fried, on white bun
+Food ID: 2707008
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 12.45 g
+Carbohydrates: 28.11 g
+Fat: 11.67 g
+Fiber: 1.7 g
+Sugar: 3.14 g
+
+Fats:
+Saturated fat: 2.458 g
+Monounsaturated fat: 3.366 g
+Polyunsaturated fat: 5.058 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 503 mg
+Potassium: 214 mg
+Calcium: 79 mg
+Iron: 1.82 mg
+Magnesium: 26 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.64 mg
+Vitamin K: 15.6 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 0.18 µg
+Folate: 53 µg

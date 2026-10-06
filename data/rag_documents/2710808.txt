@@ -1,0 +1,36 @@
+Food: Other vegetables as ingredient in omelet
+Food ID: 2710808
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 39 kcal
+Protein: 3.24 g
+Carbohydrates: 5.74 g
+Fat: 0.39 g
+Fiber: 2.1 g
+Sugar: 2.73 g
+
+Fats:
+Saturated fat: 0.061 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.175 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 420 mg
+Calcium: 8 mg
+Iron: 0.28 mg
+Magnesium: 12 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 7.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.04 µg
+Folate: 35 µg

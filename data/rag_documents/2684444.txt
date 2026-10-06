@@ -1,0 +1,26 @@
+Food: Fish, cod, Atlantic, wild caught, raw
+Food ID: 2684444
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 16.0688 g
+Carbohydrates: 0 g
+Fat: 0.6675 g
+
+Fats:
+Saturated fat: 0.044 g
+Monounsaturated fat: 0.026 g
+Polyunsaturated fat: 0.081 g
+Cholesterol: 47.44 mg
+
+Minerals:
+Sodium: 298.8 mg
+Potassium: 245.1 mg
+Calcium: 6.59 mg
+Iron: 0.065 mg
+Magnesium: 17.98 mg
+Zinc: 0.3051 mg
+
+Vitamins:
+Vitamin B12: 1.248 µg

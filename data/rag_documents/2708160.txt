@@ -1,0 +1,36 @@
+Food: Crackers, oyster
+Food ID: 2708160
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 418 kcal
+Protein: 9.46 g
+Carbohydrates: 74.05 g
+Fat: 8.64 g
+Fiber: 2.8 g
+Sugar: 1.29 g
+
+Fats:
+Saturated fat: 1.653 g
+Monounsaturated fat: 1.986 g
+Polyunsaturated fat: 4.835 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 941 mg
+Potassium: 152 mg
+Calcium: 19 mg
+Iron: 5.57 mg
+Magnesium: 23 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.15 mg
+Vitamin K: 25.4 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0.09 µg
+Folate: 134 µg

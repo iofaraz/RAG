@@ -1,0 +1,10 @@
+Food: Fish, herring, Pacific, flesh, air-dried, packed in oil (Alaska Native)
+Food ID: 169807
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 489 kcal
+Protein: 44.5 g
+Carbohydrates: 0 g
+Fat: 34.6 g

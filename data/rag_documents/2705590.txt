@@ -1,0 +1,36 @@
+Food: Milk, malted, dry mix, not reconstituted
+Food ID: 2705590
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 0 g
+Carbohydrates: 92.96 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 72.73 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 530 mg
+Potassium: 0 mg
+Calcium: 909 mg
+Iron: 16.36 mg
+Magnesium: 218 mg
+Zinc: 13.64 mg
+
+Vitamins:
+Vitamin A: 1365 µg
+Vitamin C: 54.5 mg
+Vitamin D: 9.1 µg
+Vitamin E: 12.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.818 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

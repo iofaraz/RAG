@@ -1,0 +1,21 @@
+Food: Oats, whole grain, rolled, old fashioned
+Food ID: 2346396
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 13.4964 g
+Carbohydrates: 68.6576 g
+Fat: 5.89 g
+
+Minerals:
+Sodium: 0.6675 mg
+Potassium: 350.1 mg
+Calcium: 45.53 mg
+Iron: 4.339 mg
+Magnesium: 126.3 mg
+Zinc: 2.744 mg
+
+Vitamins:
+Vitamin B6: 0.1346 mg
+Folate: 32.03 µg

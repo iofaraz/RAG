@@ -1,0 +1,36 @@
+Food: Eggnog, alcoholic
+Food ID: 2710684
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 3.74 g
+Carbohydrates: 6.62 g
+Fat: 3.45 g
+Fiber: 0 g
+Sugar: 6.62 g
+
+Fats:
+Saturated fat: 2.132 g
+Monounsaturated fat: 1.071 g
+Polyunsaturated fat: 0.163 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 136 mg
+Calcium: 107 mg
+Iron: 0.17 mg
+Magnesium: 16 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 1.2 mg
+Vitamin D: 1 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.37 µg
+Folate: 1 µg

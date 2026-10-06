@@ -1,0 +1,36 @@
+Food: Fish, flounder, fried
+Food ID: 2706252
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 11.35 g
+Carbohydrates: 11.72 g
+Fat: 13.64 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.998 g
+Monounsaturated fat: 5.456 g
+Polyunsaturated fat: 4.909 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 405 mg
+Potassium: 146 mg
+Calcium: 31 mg
+Iron: 1.03 mg
+Magnesium: 19 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 2.2 µg
+Vitamin E: 2.72 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.8 µg
+Folate: 28 µg

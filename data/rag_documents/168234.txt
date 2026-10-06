@@ -1,0 +1,37 @@
+Food: Pork, fresh, loin, blade (chops or roasts), bone-in, separable lean only, raw
+Food ID: 168234
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 21.22 g
+Carbohydrates: 0 g
+Fat: 5.84 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.974 g
+Monounsaturated fat: 2.301 g
+Polyunsaturated fat: 0.805 g
+Trans fat: 0.02 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 313 mg
+Calcium: 30 mg
+Iron: 0.71 mg
+Magnesium: 18 mg
+Zinc: 2.74 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.466 mg
+Vitamin B12: 0.53 µg
+Folate: 0 µg

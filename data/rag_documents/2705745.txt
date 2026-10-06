@@ -1,0 +1,36 @@
+Food: Queso Fresco
+Food ID: 2705745
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 298 kcal
+Protein: 18.88 g
+Carbohydrates: 2.96 g
+Fat: 23.36 g
+Fiber: 0 g
+Sugar: 2.32 g
+
+Fats:
+Saturated fat: 14 g
+Monounsaturated fat: 4.96 g
+Polyunsaturated fat: 1.106 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 626 mg
+Potassium: 126 mg
+Calcium: 602 mg
+Iron: 0 mg
+Magnesium: 28 mg
+Zinc: 2.91 mg
+
+Vitamins:
+Vitamin A: 152 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.37 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 1.68 µg
+Folate: 7 µg

@@ -1,0 +1,29 @@
+Food: Game meat, elk, raw
+Food ID: 175301
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 22.95 g
+Carbohydrates: 0 g
+Fat: 1.45 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.53 g
+Monounsaturated fat: 0.36 g
+Polyunsaturated fat: 0.3 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 312 mg
+Calcium: 4 mg
+Iron: 2.76 mg
+Magnesium: 23 mg
+Zinc: 2.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

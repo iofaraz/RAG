@@ -1,0 +1,26 @@
+Food: Babyfood, dinner, vegetables, noodles and chicken, junior
+Food ID: 172265
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 1.7 g
+Carbohydrates: 9.1 g
+Fat: 2.2 g
+Fiber: 1.1 g
+
+Minerals:
+Sodium: 26 mg
+Potassium: 59 mg
+Calcium: 26 mg
+Iron: 0.49 mg
+Magnesium: 11 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 0.8 mg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0.09 µg
+Folate: 3 µg

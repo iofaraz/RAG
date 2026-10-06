@@ -1,0 +1,33 @@
+Food: Squash, summer, zucchini, italian style, canned
+Food ID: 168471
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 1.03 g
+Carbohydrates: 6.85 g
+Fat: 0.11 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.047 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 374 mg
+Potassium: 274 mg
+Calcium: 17 mg
+Iron: 0.68 mg
+Magnesium: 14 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.152 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

@@ -1,0 +1,37 @@
+Food: Candies, NESTLE, BUTTERFINGER Crisp
+Food ID: 170278
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 465 kcal
+Protein: 6.67 g
+Carbohydrates: 68.45 g
+Fat: 18.33 g
+Fiber: 1.7 g
+Sugar: 48.33 g
+
+Fats:
+Saturated fat: 10.592 g
+Monounsaturated fat: 4.465 g
+Polyunsaturated fat: 2.17 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 429 mg
+Calcium: 33 mg
+Iron: 0.6 mg
+Magnesium: 89 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.31 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.146 mg
+Vitamin B12: 0.05 µg
+Folate: 25 µg

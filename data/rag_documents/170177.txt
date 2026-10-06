@@ -1,0 +1,33 @@
+Food: Nuts, hickorynuts, dried
+Food ID: 170177
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 657 kcal
+Protein: 12.72 g
+Carbohydrates: 18.25 g
+Fat: 64.37 g
+Fiber: 6.4 g
+
+Fats:
+Saturated fat: 7.038 g
+Monounsaturated fat: 32.611 g
+Polyunsaturated fat: 21.886 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 436 mg
+Calcium: 61 mg
+Iron: 2.12 mg
+Magnesium: 173 mg
+Zinc: 4.31 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.192 mg
+Vitamin B12: 0 µg
+Folate: 40 µg

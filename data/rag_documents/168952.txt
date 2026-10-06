@@ -1,0 +1,31 @@
+Food: Rice and vermicelli mix, rice pilaf flavor, prepared with 80% margarine
+Food ID: 168952
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 2.94 g
+Carbohydrates: 25.67 g
+Fat: 3.7 g
+Fiber: 0.6 g
+Sugar: 0.26 g
+
+Fats:
+Saturated fat: 0.744 g
+Monounsaturated fat: 1.539 g
+Polyunsaturated fat: 1.268 g
+Trans fat: 0.521 g
+
+Minerals:
+Sodium: 430 mg
+Potassium: 69 mg
+Calcium: 29 mg
+Iron: 0.85 mg
+Magnesium: 11 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin E: 0.26 mg
+Vitamin B6: 0.133 mg

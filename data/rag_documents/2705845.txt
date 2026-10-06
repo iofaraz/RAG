@@ -1,0 +1,36 @@
+Food: Beef, shortribs
+Food ID: 2705845
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 253 kcal
+Protein: 18.2 g
+Carbohydrates: 12.13 g
+Fat: 14.1 g
+Fiber: 0.3 g
+Sugar: 9.89 g
+
+Fats:
+Saturated fat: 5.495 g
+Monounsaturated fat: 5.826 g
+Polyunsaturated fat: 0.559 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 650 mg
+Potassium: 293 mg
+Calcium: 23 mg
+Iron: 1.34 mg
+Magnesium: 19 mg
+Zinc: 3.29 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.58 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.398 mg
+Vitamin B12: 1.06 µg
+Folate: 6 µg

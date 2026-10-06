@@ -1,0 +1,19 @@
+Food: Leeks, bulb and greens, root removed, raw
+Food ID: 2727584
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.4675 g
+Fiber: 3 g
+
+Minerals:
+Sodium: 17.66 mg
+Potassium: 319 mg
+Calcium: 51.41 mg
+Iron: 0.761 mg
+Magnesium: 15.68 mg
+Zinc: 0.293 mg
+
+Vitamins:
+Vitamin B6: 0.2083 mg

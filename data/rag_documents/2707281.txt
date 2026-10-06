@@ -1,0 +1,36 @@
+Food: Egg salad sandwich on wheat
+Food ID: 2707281
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 259 kcal
+Protein: 10.64 g
+Carbohydrates: 15.81 g
+Fat: 16.75 g
+Fiber: 1.8 g
+Sugar: 2.41 g
+
+Fats:
+Saturated fat: 3.509 g
+Monounsaturated fat: 4.589 g
+Polyunsaturated fat: 7.105 g
+Cholesterol: 205 mg
+
+Minerals:
+Sodium: 399 mg
+Potassium: 133 mg
+Calcium: 82 mg
+Iron: 1.71 mg
+Magnesium: 24 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 1.09 mg
+Vitamin K: 23.3 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 0.61 µg
+Folate: 48 µg

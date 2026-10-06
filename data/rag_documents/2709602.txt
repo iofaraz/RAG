@@ -1,0 +1,36 @@
+Food: Kale, NS as to form, cooked
+Food ID: 2709602
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 3.05 g
+Carbohydrates: 4.61 g
+Fat: 4.29 g
+Fiber: 4.3 g
+Sugar: 0.84 g
+
+Fats:
+Saturated fat: 0.902 g
+Monounsaturated fat: 1.08 g
+Polyunsaturated fat: 1.486 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 185 mg
+Potassium: 363 mg
+Calcium: 265 mg
+Iron: 1.67 mg
+Magnesium: 34 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 251 µg
+Vitamin C: 68.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.1 mg
+Vitamin K: 408.2 µg
+Vitamin B6: 0.163 mg
+Vitamin B12: 0 µg
+Folate: 48 µg

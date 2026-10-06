@@ -1,0 +1,37 @@
+Food: Pigeonpeas, immature seeds, cooked, boiled, drained, with salt
+Food ID: 170517
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 5.96 g
+Carbohydrates: 19.49 g
+Fat: 1.36 g
+Fiber: 4.2 g
+Sugar: 2.48 g
+
+Fats:
+Saturated fat: 0.365 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.899 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 456 mg
+Calcium: 41 mg
+Iron: 1.57 mg
+Magnesium: 40 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 28.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 19.8 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0 µg
+Folate: 100 µg

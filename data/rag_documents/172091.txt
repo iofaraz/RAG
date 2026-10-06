@@ -1,0 +1,36 @@
+Food: Pasta with Sliced Franks in Tomato Sauce, canned entree
+Food ID: 172091
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 4.37 g
+Carbohydrates: 12.7 g
+Fat: 2.38 g
+Fiber: 1.6 g
+Sugar: 3.17 g
+
+Fats:
+Saturated fat: 0.791 g
+Monounsaturated fat: 1.024 g
+Polyunsaturated fat: 0.328 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 287 mg
+Potassium: 191 mg
+Calcium: 60 mg
+Iron: 0.91 mg
+Magnesium: 14 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.74 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.19 µg
+Folate: 40 µg

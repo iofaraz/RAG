@@ -1,0 +1,36 @@
+Food: Fry sauce
+Food ID: 2710176
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 535 kcal
+Protein: 0.98 g
+Carbohydrates: 7.28 g
+Fat: 56.16 g
+Fiber: 0.1 g
+Sugar: 5.74 g
+
+Fats:
+Saturated fat: 8.781 g
+Monounsaturated fat: 12.636 g
+Polyunsaturated fat: 33.528 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 481 mg
+Potassium: 85 mg
+Calcium: 10 mg
+Iron: 0.24 mg
+Magnesium: 4 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.82 mg
+Vitamin K: 123 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.09 µg
+Folate: 6 µg

@@ -1,0 +1,36 @@
+Food: Seafood salad
+Food ID: 2706838
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 10.12 g
+Carbohydrates: 1.25 g
+Fat: 15.82 g
+Fiber: 0.4 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 2.501 g
+Monounsaturated fat: 3.529 g
+Polyunsaturated fat: 9.354 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 585 mg
+Potassium: 167 mg
+Calcium: 69 mg
+Iron: 0.54 mg
+Magnesium: 22 mg
+Zinc: 1.74 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.41 mg
+Vitamin K: 39.8 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0.96 µg
+Folate: 22 µg

@@ -1,0 +1,37 @@
+Food: Noodles, chinese, cellophane or long rice (mung beans), dehydrated
+Food ID: 174258
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 351 kcal
+Protein: 0.16 g
+Carbohydrates: 86.09 g
+Fat: 0.06 g
+Fiber: 0.5 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.017 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.018 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 10 mg
+Calcium: 25 mg
+Iron: 2.17 mg
+Magnesium: 3 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

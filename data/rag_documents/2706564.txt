@@ -1,0 +1,36 @@
+Food: Clams Casino
+Food ID: 2706564
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 11.8 g
+Carbohydrates: 10.3 g
+Fat: 7.9 g
+Fiber: 1 g
+Sugar: 1.8 g
+
+Fats:
+Saturated fat: 2.22 g
+Monounsaturated fat: 3.347 g
+Polyunsaturated fat: 1.801 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 454 mg
+Potassium: 185 mg
+Calcium: 43 mg
+Iron: 1.24 mg
+Magnesium: 20 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 15.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.71 mg
+Vitamin K: 8.3 µg
+Vitamin B6: 0.146 mg
+Vitamin B12: 4.04 µg
+Folate: 19 µg

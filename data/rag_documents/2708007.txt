@@ -1,0 +1,36 @@
+Food: Pie, custard
+Food ID: 2708007
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 210 kcal
+Protein: 5.5 g
+Carbohydrates: 20.8 g
+Fat: 11.6 g
+Fiber: 1.6 g
+Sugar: 11.58 g
+
+Fats:
+Saturated fat: 2.349 g
+Monounsaturated fat: 4.797 g
+Polyunsaturated fat: 3.723 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 275 mg
+Potassium: 106 mg
+Calcium: 80 mg
+Iron: 0.58 mg
+Magnesium: 11 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.94 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.43 µg
+Folate: 20 µg

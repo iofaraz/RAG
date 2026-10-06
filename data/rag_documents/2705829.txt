@@ -1,0 +1,36 @@
+Food: Beef, steak, ribeye, lean and fat eaten
+Food ID: 2705829
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 289 kcal
+Protein: 23.5 g
+Carbohydrates: 0 g
+Fat: 21.64 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.607 g
+Monounsaturated fat: 10.436 g
+Polyunsaturated fat: 1.019 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 258 mg
+Calcium: 11 mg
+Iron: 2.22 mg
+Magnesium: 22 mg
+Zinc: 5.86 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.1 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.473 mg
+Vitamin B12: 2.08 µg
+Folate: 6 µg

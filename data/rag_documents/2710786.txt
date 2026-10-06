@@ -1,0 +1,36 @@
+Food: Wheat bread as ingredient in sandwiches
+Food ID: 2710786
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 11.4 g
+Carbohydrates: 45.42 g
+Fat: 3.98 g
+Fiber: 5.4 g
+Sugar: 5.2 g
+
+Fats:
+Saturated fat: 0.72 g
+Monounsaturated fat: 0.652 g
+Polyunsaturated fat: 1.566 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 440 mg
+Potassium: 189 mg
+Calcium: 161 mg
+Iron: 3.15 mg
+Magnesium: 56 mg
+Zinc: 1.36 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.35 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0 µg
+Folate: 72 µg

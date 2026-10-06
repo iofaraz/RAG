@@ -1,0 +1,37 @@
+Food: Fast foods, submarine sandwich, tuna on white bread with lettuce and tomato
+Food ID: 170299
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 218 kcal
+Protein: 12.33 g
+Carbohydrates: 15.95 g
+Fat: 12.04 g
+Fiber: 0.7 g
+Sugar: 1.93 g
+
+Fats:
+Saturated fat: 2.059 g
+Monounsaturated fat: 2.663 g
+Polyunsaturated fat: 6.479 g
+Trans fat: 0.043 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 177 mg
+Calcium: 136 mg
+Iron: 1.57 mg
+Magnesium: 22 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.57 mg
+Vitamin K: 22.4 µg
+Vitamin B6: 0.271 mg
+Vitamin B12: 1.06 µg
+Folate: 51 µg

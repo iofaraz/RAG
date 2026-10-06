@@ -1,0 +1,36 @@
+Food: Mustard greens, raw
+Food ID: 2709606
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 2.86 g
+Carbohydrates: 4.67 g
+Fat: 0.42 g
+Fiber: 3.2 g
+Sugar: 1.32 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.092 g
+Polyunsaturated fat: 0.038 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 384 mg
+Calcium: 115 mg
+Iron: 1.64 mg
+Magnesium: 32 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 151 µg
+Vitamin C: 70 mg
+Vitamin D: 0 µg
+Vitamin E: 2.01 mg
+Vitamin K: 257.5 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

@@ -1,0 +1,20 @@
+Food: Snow crab, legs only, frozen  
+Food ID: 2747670
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 15.5375 g
+Carbohydrates: 1.1063 g
+Fat: 0.2942 g
+
+Minerals:
+Sodium: 728.5 mg
+Potassium: 192.9 mg
+Calcium: 97.8 mg
+Iron: 0.2756 mg
+Magnesium: 58.37 mg
+Zinc: 3.369 mg
+
+Vitamins:
+Vitamin B12: 2.22 µg

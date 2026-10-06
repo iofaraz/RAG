@@ -1,0 +1,33 @@
+Food: Yogurt, Greek, plain, nonfat
+Food ID: 330137
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 10.3 g
+Carbohydrates: 3.64 g
+Fat: 0.37 g
+
+Fats:
+Saturated fat: 0.108 g
+Monounsaturated fat: 0.043 g
+Polyunsaturated fat: 0.011 g
+Trans fat: 0.005 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 141 mg
+Calcium: 111 mg
+Iron: 0.07 mg
+Magnesium: 10.7 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.7 µg

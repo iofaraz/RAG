@@ -1,0 +1,36 @@
+Food: Roll with meat and/or shrimp, vegetables and rice paper, not fried
+Food ID: 2708704
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 5.65 g
+Carbohydrates: 17.23 g
+Fat: 2.65 g
+Fiber: 1.9 g
+Sugar: 3.91 g
+
+Fats:
+Saturated fat: 0.458 g
+Monounsaturated fat: 1.238 g
+Polyunsaturated fat: 0.58 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 395 mg
+Potassium: 208 mg
+Calcium: 34 mg
+Iron: 0.58 mg
+Magnesium: 32 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 234 µg
+Vitamin C: 7.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 28.7 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 0.19 µg
+Folate: 41 µg

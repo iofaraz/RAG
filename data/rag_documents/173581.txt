@@ -1,0 +1,36 @@
+Food: Butter, light, stick, with salt
+Food ID: 173581
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 499 kcal
+Protein: 3.3 g
+Carbohydrates: 0 g
+Fat: 55.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 34.321 g
+Monounsaturated fat: 15.927 g
+Polyunsaturated fat: 2.046 g
+Cholesterol: 106 mg
+
+Minerals:
+Sodium: 450 mg
+Potassium: 71 mg
+Calcium: 48 mg
+Iron: 1.09 mg
+Magnesium: 5 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 465 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.58 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.13 µg
+Folate: 1 µg

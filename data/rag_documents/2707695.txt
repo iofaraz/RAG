@@ -1,0 +1,36 @@
+Food: Breadsticks, soft, with parmesan cheese, fast food / restaurant
+Food ID: 2707695
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 344 kcal
+Protein: 12.52 g
+Carbohydrates: 43.76 g
+Fat: 13.15 g
+Fiber: 2.3 g
+Sugar: 1.09 g
+
+Fats:
+Saturated fat: 3.205 g
+Monounsaturated fat: 2.843 g
+Polyunsaturated fat: 6.051 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 637 mg
+Potassium: 133 mg
+Calcium: 103 mg
+Iron: 4.56 mg
+Magnesium: 22 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 20.7 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.15 µg
+Folate: 144 µg

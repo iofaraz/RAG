@@ -1,0 +1,36 @@
+Food: Milk shake, fast food, chocolate
+Food ID: 2705508
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 3.7 g
+Carbohydrates: 20.36 g
+Fat: 6.66 g
+Fiber: 1.6 g
+Sugar: 13.39 g
+
+Fats:
+Saturated fat: 4.044 g
+Monounsaturated fat: 1.841 g
+Polyunsaturated fat: 0.318 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 193 mg
+Calcium: 115 mg
+Iron: 0.73 mg
+Magnesium: 23 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.22 µg
+Folate: 1 µg

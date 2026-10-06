@@ -1,0 +1,36 @@
+Food: Chicken skin
+Food ID: 2706084
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 450 kcal
+Protein: 20.19 g
+Carbohydrates: 0 g
+Fat: 40.34 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 11.325 g
+Monounsaturated fat: 16.888 g
+Polyunsaturated fat: 8.499 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 387 mg
+Potassium: 135 mg
+Calcium: 14 mg
+Iron: 1.5 mg
+Magnesium: 15 mg
+Zinc: 1.22 mg
+
+Vitamins:
+Vitamin A: 77 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.4 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.2 µg
+Folate: 2 µg

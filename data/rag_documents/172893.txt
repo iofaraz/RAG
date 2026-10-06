@@ -1,0 +1,31 @@
+Food: Soup, cream of celery, canned, prepared with equal volume milk
+Food ID: 172893
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 2.29 g
+Carbohydrates: 5.86 g
+Fat: 3.91 g
+Fiber: 0.3 g
+
+Fats:
+Saturated fat: 1.59 g
+Monounsaturated fat: 0.99 g
+Polyunsaturated fat: 1.07 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 272 mg
+Potassium: 125 mg
+Calcium: 75 mg
+Iron: 0.28 mg
+Magnesium: 9 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin C: 0.6 mg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0.2 µg
+Folate: 3 µg

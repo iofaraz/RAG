@@ -1,0 +1,37 @@
+Food: Mushrooms, white, microwaved
+Food ID: 169402
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 3.91 g
+Carbohydrates: 6.04 g
+Fat: 0.46 g
+Fiber: 2.5 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.06 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.28 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 488 mg
+Calcium: 6 mg
+Iron: 0.33 mg
+Magnesium: 14 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

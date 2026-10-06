@@ -1,0 +1,25 @@
+Food: Cheese, provolone, sliced
+Food ID: 2647440
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 23.4529 g
+Carbohydrates: 2.45312 g
+Fat: 28.13 g
+
+Fats:
+Saturated fat: 16.24 g
+Monounsaturated fat: 5.738 g
+Cholesterol: 85.43 mg
+
+Minerals:
+Sodium: 600.9 mg
+Potassium: 94.84 mg
+Calcium: 748.8 mg
+Iron: 0 mg
+Magnesium: 29.5 mg
+Zinc: 3.89 mg
+
+Vitamins:
+Vitamin D: 0 µg

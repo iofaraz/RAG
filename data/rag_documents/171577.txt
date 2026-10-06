@@ -1,0 +1,25 @@
+Food: SMART SOUP, French Lentil
+Food ID: 171577
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 2.9 g
+Carbohydrates: 9.5 g
+Fat: 1.06 g
+Fiber: 2.9 g
+Sugar: 2.6 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0.177 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 131 mg
+Calcium: 23 mg
+Iron: 1 mg
+
+Vitamins:
+Vitamin C: 0 mg

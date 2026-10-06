@@ -1,0 +1,32 @@
+Food: Crustaceans, crab, blue, raw
+Food ID: 174204
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 87 kcal
+Protein: 18.06 g
+Carbohydrates: 0.04 g
+Fat: 1.08 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.222 g
+Monounsaturated fat: 0.192 g
+Polyunsaturated fat: 0.387 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 293 mg
+Potassium: 329 mg
+Calcium: 89 mg
+Iron: 0.74 mg
+Magnesium: 34 mg
+Zinc: 3.54 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 3 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 9 µg
+Folate: 44 µg

@@ -1,0 +1,36 @@
+Food: Ice cream cake
+Food ID: 2707877
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 283 kcal
+Protein: 2.95 g
+Carbohydrates: 39.28 g
+Fat: 12.67 g
+Fiber: 0.5 g
+Sugar: 31.24 g
+
+Fats:
+Saturated fat: 4.803 g
+Monounsaturated fat: 3.919 g
+Polyunsaturated fat: 3.094 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 196 mg
+Potassium: 121 mg
+Calcium: 99 mg
+Iron: 0.48 mg
+Magnesium: 9 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.16 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.25 µg
+Folate: 14 µg

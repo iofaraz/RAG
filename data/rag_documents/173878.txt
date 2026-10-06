@@ -1,0 +1,37 @@
+Food: Kielbasa, fully cooked, pan-fried
+Food ID: 173878
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 12.36 g
+Carbohydrates: 4.78 g
+Fat: 29.43 g
+Fiber: 0 g
+Sugar: 2.38 g
+
+Fats:
+Saturated fat: 9.487 g
+Monounsaturated fat: 11.79 g
+Polyunsaturated fat: 5.458 g
+Trans fat: 0.297 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 1046 mg
+Potassium: 304 mg
+Calcium: 40 mg
+Iron: 0.93 mg
+Magnesium: 15 mg
+Zinc: 1.55 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 16.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.39 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0.72 µg
+Folate: 0 µg

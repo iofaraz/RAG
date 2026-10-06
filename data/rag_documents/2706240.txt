@@ -1,0 +1,36 @@
+Food: Fish, cod, NFS
+Food ID: 2706240
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 13.52 g
+Carbohydrates: 11.72 g
+Fat: 12.48 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.727 g
+Monounsaturated fat: 5.104 g
+Polyunsaturated fat: 4.749 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 426 mg
+Potassium: 203 mg
+Calcium: 21 mg
+Iron: 1.02 mg
+Magnesium: 20 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 2.66 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 1.38 µg
+Folate: 29 µg

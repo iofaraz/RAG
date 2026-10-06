@@ -1,0 +1,21 @@
+Food: Millet, whole grain
+Food ID: 2512379
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 10.0218 g
+Carbohydrates: 74.4462 g
+Fat: 4.194 g
+Fiber: 2.619 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 214.1 mg
+Calcium: 9.105 mg
+Iron: 2.534 mg
+Magnesium: 105.5 mg
+Zinc: 2.258 mg
+
+Vitamins:
+Vitamin B6: 0.1918 mg

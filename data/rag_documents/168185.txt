@@ -1,0 +1,36 @@
+Food: Peach nectar, canned, with added ascorbic acid
+Food ID: 168185
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 0.21 g
+Carbohydrates: 11.93 g
+Fat: 0.51 g
+Fiber: 0.1 g
+Sugar: 11.16 g
+
+Fats:
+Saturated fat: 0.224 g
+Monounsaturated fat: 0.063 g
+Polyunsaturated fat: 0.204 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 50 mg
+Calcium: 6 mg
+Iron: 0.07 mg
+Magnesium: 5 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 30.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.61 mg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

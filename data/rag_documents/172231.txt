@@ -1,0 +1,37 @@
+Food: Spices, turmeric, ground
+Food ID: 172231
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 312 kcal
+Protein: 9.68 g
+Carbohydrates: 67.14 g
+Fat: 3.25 g
+Fiber: 22.7 g
+Sugar: 3.21 g
+
+Fats:
+Saturated fat: 1.838 g
+Monounsaturated fat: 0.449 g
+Polyunsaturated fat: 0.756 g
+Trans fat: 0.056 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 2080 mg
+Calcium: 168 mg
+Iron: 55 mg
+Magnesium: 208 mg
+Zinc: 4.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 4.43 mg
+Vitamin K: 13.4 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

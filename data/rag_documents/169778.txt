@@ -1,0 +1,37 @@
+Food: Rice mix, cheese flavor, dry mix, unprepared
+Food ID: 169778
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 362 kcal
+Protein: 8.77 g
+Carbohydrates: 73.88 g
+Fat: 3.51 g
+Fiber: 1.8 g
+Sugar: 5.26 g
+
+Fats:
+Saturated fat: 1.754 g
+Monounsaturated fat: 0.75 g
+Polyunsaturated fat: 0.667 g
+Trans fat: 0 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 1193 mg
+Potassium: 351 mg
+Calcium: 140 mg
+Iron: 4.74 mg
+Magnesium: 88 mg
+Zinc: 1.45 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 20.5 µg
+Vitamin B6: 0.397 mg
+Vitamin B12: 0.56 µg
+Folate: 175 µg

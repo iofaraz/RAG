@@ -1,0 +1,36 @@
+Food: Quiche with meat, poultry or fish
+Food ID: 2708731
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 15.5 g
+Carbohydrates: 12.12 g
+Fat: 30.63 g
+Fiber: 0.7 g
+Sugar: 1.91 g
+
+Fats:
+Saturated fat: 14.677 g
+Monounsaturated fat: 9.414 g
+Polyunsaturated fat: 2.68 g
+Cholesterol: 153 mg
+
+Minerals:
+Sodium: 570 mg
+Potassium: 178 mg
+Calcium: 232 mg
+Iron: 1.01 mg
+Magnesium: 20 mg
+Zinc: 1.85 mg
+
+Vitamins:
+Vitamin A: 208 µg
+Vitamin C: 0.4 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.8 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0.7 µg
+Folate: 26 µg

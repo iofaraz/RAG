@@ -1,0 +1,31 @@
+Food: Cookies, oatmeal, prepared from recipe, without raisins
+Food ID: 172807
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 447 kcal
+Protein: 6.8 g
+Carbohydrates: 66.4 g
+Fat: 17.9 g
+
+Fats:
+Saturated fat: 3.581 g
+Monounsaturated fat: 7.669 g
+Polyunsaturated fat: 5.589 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 598 mg
+Potassium: 182 mg
+Calcium: 105 mg
+Iron: 2.7 mg
+Magnesium: 43 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 160 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.09 µg
+Folate: 33 µg

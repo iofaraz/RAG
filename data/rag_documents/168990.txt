@@ -1,0 +1,13 @@
+Food: Fish, herring eggs, Pacific, dry (Alaska Native)
+Food ID: 168990
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 312 kcal
+Protein: 60.4 g
+Carbohydrates: 2.8 g
+Fat: 6.6 g
+
+Minerals:
+Calcium: 29 mg

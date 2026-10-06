@@ -1,0 +1,36 @@
+Food: Taco shell, flour
+Food ID: 2707827
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 511 kcal
+Protein: 8.83 g
+Carbohydrates: 53.2 g
+Fat: 29.07 g
+Fiber: 3.8 g
+Sugar: 4 g
+
+Fats:
+Saturated fat: 8.264 g
+Monounsaturated fat: 10.317 g
+Polyunsaturated fat: 8.219 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 755 mg
+Potassium: 135 mg
+Calcium: 157 mg
+Iron: 3.92 mg
+Magnesium: 24 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.25 mg
+Vitamin K: 18.6 µg
+Vitamin B6: 0.057 mg
+Vitamin B12: 0 µg
+Folate: 66 µg

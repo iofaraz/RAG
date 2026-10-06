@@ -1,0 +1,36 @@
+Food: Fudgesicle, light
+Food ID: 2705678
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 3.67 g
+Carbohydrates: 23.11 g
+Fat: 1.87 g
+Fiber: 1.5 g
+Sugar: 5.1 g
+
+Fats:
+Saturated fat: 0.984 g
+Monounsaturated fat: 0.649 g
+Polyunsaturated fat: 0.149 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 96 mg
+Potassium: 253 mg
+Calcium: 231 mg
+Iron: 1.58 mg
+Magnesium: 27 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.07 µg
+Folate: 6 µg

@@ -1,0 +1,36 @@
+Food: Chorizo
+Food ID: 2706179
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 19.3 g
+Carbohydrates: 2.63 g
+Fat: 28.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.45 g
+Monounsaturated fat: 11.7 g
+Polyunsaturated fat: 4.74 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 983 mg
+Potassium: 435 mg
+Calcium: 37 mg
+Iron: 2.34 mg
+Magnesium: 30 mg
+Zinc: 2.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 1.5 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.554 mg
+Vitamin B12: 1.21 µg
+Folate: 10 µg

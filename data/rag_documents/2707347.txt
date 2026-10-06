@@ -1,0 +1,36 @@
+Food: Beans, NFS
+Food ID: 2707347
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 8.34 g
+Carbohydrates: 23.78 g
+Fat: 7.08 g
+Fiber: 8.3 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 0.997 g
+Monounsaturated fat: 2.861 g
+Polyunsaturated fat: 2.716 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 217 mg
+Potassium: 386 mg
+Calcium: 39 mg
+Iron: 1.96 mg
+Magnesium: 51 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 2.09 mg
+Vitamin K: 9.7 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 0 µg
+Folate: 147 µg

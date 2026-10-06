@@ -1,0 +1,22 @@
+Food: Pineapple, raw
+Food ID: 2346398
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.460938 g
+Carbohydrates: 14.0915 g
+Fat: 0.2113 g
+Fiber: 0.9346 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 137.1 mg
+Calcium: 12.5 mg
+Iron: 0.054 mg
+Magnesium: 13.38 mg
+Zinc: 0.1067 mg
+
+Vitamins:
+Vitamin C: 58.61 mg
+Vitamin B6: 0.1101 mg

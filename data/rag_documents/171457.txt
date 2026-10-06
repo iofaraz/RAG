@@ -1,0 +1,37 @@
+Food: Chicken, gizzard, all classes, cooked, simmered
+Food ID: 171457
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 30.39 g
+Carbohydrates: 0 g
+Fat: 2.68 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.67 g
+Monounsaturated fat: 0.528 g
+Polyunsaturated fat: 0.353 g
+Trans fat: 0.13 g
+Cholesterol: 370 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 179 mg
+Calcium: 17 mg
+Iron: 3.19 mg
+Magnesium: 3 mg
+Zinc: 4.42 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.071 mg
+Vitamin B12: 1.04 µg
+Folate: 5 µg

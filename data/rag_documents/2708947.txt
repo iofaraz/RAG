@@ -1,0 +1,36 @@
+Food: Macaroni or pasta salad with cheese
+Food ID: 2708947
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 246 kcal
+Protein: 6.89 g
+Carbohydrates: 21.78 g
+Fat: 14.43 g
+Fiber: 1.3 g
+Sugar: 1.66 g
+
+Fats:
+Saturated fat: 4.069 g
+Monounsaturated fat: 3.171 g
+Polyunsaturated fat: 5.987 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 262 mg
+Potassium: 53 mg
+Calcium: 98 mg
+Iron: 0.9 mg
+Magnesium: 16 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.58 mg
+Vitamin K: 24.4 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.15 µg
+Folate: 52 µg

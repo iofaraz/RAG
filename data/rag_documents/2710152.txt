@@ -1,0 +1,36 @@
+Food: Vegetable smoothie
+Food ID: 2710152
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 2.75 g
+Carbohydrates: 5.84 g
+Fat: 6.63 g
+Fiber: 2.8 g
+Sugar: 2.57 g
+
+Fats:
+Saturated fat: 1.391 g
+Monounsaturated fat: 3.919 g
+Polyunsaturated fat: 0.746 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 349 mg
+Calcium: 73 mg
+Iron: 0.41 mg
+Magnesium: 31 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 8.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.12 mg
+Vitamin K: 85.4 µg
+Vitamin B6: 0.157 mg
+Vitamin B12: 0.26 µg
+Folate: 50 µg

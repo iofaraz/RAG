@@ -1,0 +1,36 @@
+Food: Beef, ground, patty
+Food ID: 2705855
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 25.45 g
+Carbohydrates: 0 g
+Fat: 18.18 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.95 g
+Monounsaturated fat: 8.194 g
+Polyunsaturated fat: 0.514 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 383 mg
+Potassium: 294 mg
+Calcium: 27 mg
+Iron: 2.41 mg
+Magnesium: 20 mg
+Zinc: 6.17 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.356 mg
+Vitamin B12: 2.75 µg
+Folate: 10 µg

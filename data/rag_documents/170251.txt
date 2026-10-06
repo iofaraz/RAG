@@ -1,0 +1,31 @@
+Food: Snacks, rice cakes, brown rice, buckwheat, unsalted
+Food ID: 170251
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 380 kcal
+Protein: 9 g
+Carbohydrates: 80.1 g
+Fat: 3.5 g
+
+Fats:
+Saturated fat: 0.64 g
+Monounsaturated fat: 1.11 g
+Polyunsaturated fat: 1.11 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 299 mg
+Calcium: 11 mg
+Iron: 1.14 mg
+Magnesium: 151 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

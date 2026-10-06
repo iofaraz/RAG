@@ -1,0 +1,37 @@
+Food: Beverages, Fruit flavored drink, reduced sugar, greater than 3% fruit juice, high vitamin C, added calcium
+Food ID: 171944
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 0 g
+Carbohydrates: 6.67 g
+Fat: 0.37 g
+Fiber: 0 g
+Sugar: 5 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 31 mg
+Calcium: 42 mg
+Iron: 0 mg
+Magnesium: 1 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 25 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

@@ -1,0 +1,36 @@
+Food: Codfish salad, Puerto Rican style, Serenata
+Food ID: 2706871
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 183 kcal
+Protein: 6.61 g
+Carbohydrates: 2.81 g
+Fat: 15.94 g
+Fiber: 0.7 g
+Sugar: 1.51 g
+
+Fats:
+Saturated fat: 2.478 g
+Monounsaturated fat: 10.759 g
+Polyunsaturated fat: 1.583 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 415 mg
+Potassium: 245 mg
+Calcium: 15 mg
+Iron: 0.36 mg
+Magnesium: 17 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 5.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 3.67 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.28 µg
+Folate: 10 µg

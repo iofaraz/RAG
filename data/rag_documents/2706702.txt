@@ -1,0 +1,36 @@
+Food: Chicken or turkey, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce
+Food ID: 2706702
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 5.35 g
+Carbohydrates: 15.94 g
+Fat: 5.48 g
+Fiber: 1 g
+Sugar: 1.39 g
+
+Fats:
+Saturated fat: 0.848 g
+Monounsaturated fat: 2.274 g
+Polyunsaturated fat: 1.9 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 339 mg
+Potassium: 164 mg
+Calcium: 14 mg
+Iron: 0.98 mg
+Magnesium: 16 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.29 mg
+Vitamin K: 8.5 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0.05 µg
+Folate: 34 µg

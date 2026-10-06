@@ -1,0 +1,36 @@
+Food: Chicken or turkey and noodles with cheese sauce
+Food ID: 2706533
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 8.95 g
+Carbohydrates: 13.56 g
+Fat: 6.16 g
+Fiber: 0.6 g
+Sugar: 0.24 g
+
+Fats:
+Saturated fat: 2.724 g
+Monounsaturated fat: 2.018 g
+Polyunsaturated fat: 0.797 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 341 mg
+Potassium: 99 mg
+Calcium: 97 mg
+Iron: 0.9 mg
+Magnesium: 19 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.2 µg
+Folate: 44 µg

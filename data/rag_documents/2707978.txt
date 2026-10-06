@@ -1,0 +1,36 @@
+Food: Cookie, butter or sugar, with chocolate icing or filling
+Food ID: 2707978
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 503 kcal
+Protein: 4.1 g
+Carbohydrates: 68.83 g
+Fat: 23.5 g
+Fiber: 1.9 g
+Sugar: 33.8 g
+
+Fats:
+Saturated fat: 14.8 g
+Monounsaturated fat: 2.7 g
+Polyunsaturated fat: 5.1 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 301 mg
+Potassium: 234 mg
+Calcium: 19 mg
+Iron: 2.44 mg
+Magnesium: 13 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.81 mg
+Vitamin K: 6.6 µg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0.03 µg
+Folate: 71 µg

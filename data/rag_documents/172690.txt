@@ -1,0 +1,36 @@
+Food: Bread, whole-wheat, prepared from recipe
+Food ID: 172690
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 8.4 g
+Carbohydrates: 51.4 g
+Fat: 5.4 g
+Fiber: 6 g
+Sugar: 3.84 g
+
+Fats:
+Saturated fat: 0.796 g
+Monounsaturated fat: 1.158 g
+Polyunsaturated fat: 2.939 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 346 mg
+Potassium: 314 mg
+Calcium: 33 mg
+Iron: 3.1 mg
+Magnesium: 81 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.76 mg
+Vitamin K: 9.4 µg
+Vitamin B6: 0.199 mg
+Vitamin B12: 0 µg
+Folate: 65 µg

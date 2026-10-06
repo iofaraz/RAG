@@ -1,0 +1,37 @@
+Food: Carob flour
+Food ID: 173755
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 222 kcal
+Protein: 4.62 g
+Carbohydrates: 88.88 g
+Fat: 0.65 g
+Fiber: 39.8 g
+Sugar: 49.08 g
+
+Fats:
+Saturated fat: 0.09 g
+Monounsaturated fat: 0.197 g
+Polyunsaturated fat: 0.216 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 827 mg
+Calcium: 348 mg
+Iron: 2.94 mg
+Magnesium: 54 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.63 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.366 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

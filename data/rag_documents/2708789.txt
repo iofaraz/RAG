@@ -1,0 +1,36 @@
+Food: Tortellini, cheese-filled, meatless, with vinaigrette dressing
+Food ID: 2708789
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 193 kcal
+Protein: 6.23 g
+Carbohydrates: 18.75 g
+Fat: 10.45 g
+Fiber: 0.6 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 3.579 g
+Monounsaturated fat: 2.956 g
+Polyunsaturated fat: 2.98 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 639 mg
+Potassium: 113 mg
+Calcium: 84 mg
+Iron: 1.42 mg
+Magnesium: 13 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.82 mg
+Vitamin K: 10.6 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.24 µg
+Folate: 32 µg

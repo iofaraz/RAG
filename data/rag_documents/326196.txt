@@ -1,0 +1,26 @@
+Food: Kale, frozen, cooked, boiled, drained, without salt
+Food ID: 326196
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 2.94 g
+Carbohydrates: 5.3 g
+Fat: 1.21 g
+
+Minerals:
+Sodium: 16 mg
+Potassium: 144 mg
+Calcium: 150 mg
+Iron: 0.84 mg
+Magnesium: 25 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 146 µg
+Vitamin C: 17.8 mg
+Vitamin E: 1.61 mg
+Vitamin K: 418 µg
+Vitamin B6: 0.063 mg
+Folate: 65 µg

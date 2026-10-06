@@ -1,0 +1,22 @@
+Food: Mushroom, enoki
+Food ID: 2003600
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.41688 g
+Carbohydrates: 8.14142 g
+Fat: 0.245 g
+Fiber: 2.945 g
+
+Minerals:
+Sodium: 0.4167 mg
+Potassium: 402.3 mg
+Calcium: 1.432 mg
+Iron: 1.275 mg
+Magnesium: 12.84 mg
+Zinc: 0.4815 mg
+
+Vitamins:
+Vitamin D: 0 µg
+Vitamin B6: 0.1188 mg

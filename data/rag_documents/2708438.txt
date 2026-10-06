@@ -1,0 +1,36 @@
+Food: Bulgur, no added fat
+Food ID: 2708438
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 3.06 g
+Carbohydrates: 18.48 g
+Fat: 0.24 g
+Fiber: 4.5 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 0.042 g
+Monounsaturated fat: 0.031 g
+Polyunsaturated fat: 0.097 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 219 mg
+Potassium: 68 mg
+Calcium: 10 mg
+Iron: 0.96 mg
+Magnesium: 32 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

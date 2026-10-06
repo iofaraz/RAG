@@ -1,0 +1,37 @@
+Food: Cheese, American, nonfat or fat free
+Food ID: 170863
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 21.05 g
+Carbohydrates: 10.53 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 5.26 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 1316 mg
+Potassium: 393 mg
+Calcium: 789 mg
+Iron: 0 mg
+Magnesium: 115 mg
+Zinc: 4.11 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.567 mg
+Vitamin B12: 1.85 µg
+Folate: 9 µg

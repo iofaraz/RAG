@@ -1,0 +1,36 @@
+Food: Sushi roll, vegetable
+Food ID: 2708966
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 1.8 g
+Carbohydrates: 17.65 g
+Fat: 1.47 g
+Fiber: 1.4 g
+Sugar: 1.21 g
+
+Fats:
+Saturated fat: 0.223 g
+Monounsaturated fat: 0.927 g
+Polyunsaturated fat: 0.217 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 71 mg
+Calcium: 6 mg
+Iron: 0.18 mg
+Magnesium: 7 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

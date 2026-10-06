@@ -1,0 +1,36 @@
+Food: Lasagna, meatless, with vegetables
+Food ID: 2708759
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 188 kcal
+Protein: 11.2 g
+Carbohydrates: 14.52 g
+Fat: 9.38 g
+Fiber: 1.2 g
+Sugar: 2.43 g
+
+Fats:
+Saturated fat: 4.928 g
+Monounsaturated fat: 2.224 g
+Polyunsaturated fat: 0.728 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 384 mg
+Potassium: 206 mg
+Calcium: 268 mg
+Iron: 0.76 mg
+Magnesium: 26 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 102 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.97 mg
+Vitamin K: 20.2 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0.35 µg
+Folate: 30 µg

@@ -1,0 +1,26 @@
+Food: Bread, gluten-free, white, made with potato extract, rice starch, and rice flour
+Food ID: 174099
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 320 kcal
+Protein: 3.13 g
+Carbohydrates: 52.83 g
+Fat: 10.7 g
+Fiber: 3.5 g
+Sugar: 8.36 g
+
+Fats:
+Saturated fat: 0.339 g
+Monounsaturated fat: 7.363 g
+Polyunsaturated fat: 2.218 g
+Trans fat: 0.019 g
+
+Minerals:
+Sodium: 528 mg
+Potassium: 92 mg
+Calcium: 24 mg
+Iron: 0.76 mg
+Magnesium: 11 mg
+Zinc: 0.26 mg

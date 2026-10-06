@@ -1,0 +1,33 @@
+Food: Mustard, prepared, yellow
+Food ID: 326698
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 4.25 g
+Carbohydrates: 5.3 g
+Fat: 3.38 g
+Fiber: 4.3 g
+
+Fats:
+Saturated fat: 0.252 g
+Monounsaturated fat: 2.59 g
+Polyunsaturated fat: 0.903 g
+Trans fat: 0.01 g
+
+Minerals:
+Sodium: 1100 mg
+Potassium: 150 mg
+Calcium: 63 mg
+Iron: 1.59 mg
+Magnesium: 47.7 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.4 mg
+Vitamin E: 0.35 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.069 mg
+Folate: 7 µg

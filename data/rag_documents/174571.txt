@@ -1,0 +1,36 @@
+Food: Luncheon meat, pork, canned
+Food ID: 174571
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 334 kcal
+Protein: 12.5 g
+Carbohydrates: 2.1 g
+Fat: 30.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 10.79 g
+Monounsaturated fat: 14.29 g
+Polyunsaturated fat: 3.56 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 1289 mg
+Potassium: 215 mg
+Calcium: 6 mg
+Iron: 0.72 mg
+Magnesium: 10 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.26 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0.9 µg
+Folate: 6 µg

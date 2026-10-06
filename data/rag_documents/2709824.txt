@@ -1,0 +1,36 @@
+Food: Lettuce, salad with avocado, tomato, and/or carrots, with or without other vegetables, no dressing
+Food ID: 2709824
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 1.29 g
+Carbohydrates: 5.5 g
+Fat: 3.39 g
+Fiber: 2.7 g
+Sugar: 1.64 g
+
+Fats:
+Saturated fat: 0.496 g
+Monounsaturated fat: 2.174 g
+Polyunsaturated fat: 0.476 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 322 mg
+Calcium: 28 mg
+Iron: 0.37 mg
+Magnesium: 22 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 195 µg
+Vitamin C: 9.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.82 mg
+Vitamin K: 75.3 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

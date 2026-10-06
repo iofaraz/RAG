@@ -1,0 +1,36 @@
+Food: Beef with soy-based sauce
+Food ID: 2706386
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 15.86 g
+Carbohydrates: 3.35 g
+Fat: 12.38 g
+Fiber: 0.5 g
+Sugar: 1.05 g
+
+Fats:
+Saturated fat: 2.736 g
+Monounsaturated fat: 5.232 g
+Polyunsaturated fat: 3.259 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 333 mg
+Potassium: 211 mg
+Calcium: 19 mg
+Iron: 1.51 mg
+Magnesium: 18 mg
+Zinc: 2.64 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.76 mg
+Vitamin K: 22.9 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 0.84 µg
+Folate: 12 µg

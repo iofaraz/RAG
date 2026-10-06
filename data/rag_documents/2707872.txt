@@ -1,0 +1,36 @@
+Food: Cake, cream
+Food ID: 2707872
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 286 kcal
+Protein: 3.84 g
+Carbohydrates: 30.02 g
+Fat: 17.03 g
+Fiber: 0.4 g
+Sugar: 16.46 g
+
+Fats:
+Saturated fat: 7.701 g
+Monounsaturated fat: 5.57 g
+Polyunsaturated fat: 2.53 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 234 mg
+Potassium: 94 mg
+Calcium: 114 mg
+Iron: 0.82 mg
+Magnesium: 9 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 104 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.61 mg
+Vitamin K: 6.7 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.25 µg
+Folate: 21 µg

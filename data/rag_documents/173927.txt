@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, MOM'S BEST, Sweetened WHEAT-FULS
+Food ID: 173927
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 8.18 g
+Carbohydrates: 80.91 g
+Fat: 1.83 g
+Fiber: 10 g
+Sugar: 20.29 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 1.12 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 336 mg
+Calcium: 36 mg
+Iron: 3.26 mg
+Magnesium: 73 mg
+Zinc: 2.77 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.28 mg
+Vitamin B12: 0.21 µg
+Folate: 30 µg

@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, NATURE'S PATH, Organic FLAX PLUS, Pumpkin Granola
+Food ID: 174654
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 467 kcal
+Protein: 11.23 g
+Carbohydrates: 66.1 g
+Fat: 18.33 g
+Fiber: 8.4 g
+Sugar: 18.17 g
+
+Fats:
+Saturated fat: 2.8 g
+Monounsaturated fat: 4.02 g
+Polyunsaturated fat: 8.55 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 74 mg
+Potassium: 291 mg
+Calcium: 51 mg
+Iron: 4.04 mg
+Magnesium: 40 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.89 mg
+Vitamin K: 26.2 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

@@ -1,0 +1,36 @@
+Food: Chicken or turkey and rice with tomato-based sauce
+Food ID: 2706541
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 5.72 g
+Carbohydrates: 15.66 g
+Fat: 6.18 g
+Fiber: 0.6 g
+Sugar: 1.09 g
+
+Fats:
+Saturated fat: 0.955 g
+Monounsaturated fat: 2.579 g
+Polyunsaturated fat: 2.132 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 349 mg
+Potassium: 148 mg
+Calcium: 12 mg
+Iron: 1 mg
+Magnesium: 14 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.46 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0.06 µg
+Folate: 33 µg

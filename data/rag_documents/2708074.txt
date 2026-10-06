@@ -1,0 +1,36 @@
+Food: Doughnut, jelly
+Food ID: 2708074
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 4.94 g
+Carbohydrates: 52.33 g
+Fat: 18.16 g
+Fiber: 1.9 g
+Sugar: 28.44 g
+
+Fats:
+Saturated fat: 7.563 g
+Monounsaturated fat: 5.799 g
+Polyunsaturated fat: 2.871 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 259 mg
+Potassium: 92 mg
+Calcium: 82 mg
+Iron: 1.94 mg
+Magnesium: 15 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.14 mg
+Vitamin K: 9.3 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.09 µg
+Folate: 87 µg

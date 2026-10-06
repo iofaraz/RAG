@@ -1,0 +1,36 @@
+Food: Stewed chitterlings, Puerto Rican style
+Food ID: 2706877
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 8.38 g
+Carbohydrates: 3.83 g
+Fat: 18.5 g
+Fiber: 0.9 g
+Sugar: 2.04 g
+
+Fats:
+Saturated fat: 6.838 g
+Monounsaturated fat: 8.345 g
+Polyunsaturated fat: 1.346 g
+Cholesterol: 172 mg
+
+Minerals:
+Sodium: 55 mg
+Potassium: 140 mg
+Calcium: 25 mg
+Iron: 1.16 mg
+Magnesium: 13 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 23.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.85 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.26 µg
+Folate: 10 µg

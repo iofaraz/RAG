@@ -1,0 +1,37 @@
+Food: Fast Foods, Fried Chicken, Drumstick, meat and skin with breading
+Food ID: 170757
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 267 kcal
+Protein: 21.13 g
+Carbohydrates: 7.59 g
+Fat: 16.92 g
+Fiber: 0.5 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.458 g
+Monounsaturated fat: 6.446 g
+Polyunsaturated fat: 4.408 g
+Trans fat: 0.225 g
+Cholesterol: 111 mg
+
+Minerals:
+Sodium: 591 mg
+Potassium: 253 mg
+Calcium: 24 mg
+Iron: 0.99 mg
+Magnesium: 22 mg
+Zinc: 1.83 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.33 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.227 mg
+Vitamin B12: 0.59 µg
+Folate: 21 µg

@@ -1,0 +1,36 @@
+Food: Egg, whole, fried with cooking spray
+Food ID: 2707161
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 12.24 g
+Carbohydrates: 1.15 g
+Fat: 10.61 g
+Fiber: 0 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 3.209 g
+Monounsaturated fat: 4.075 g
+Polyunsaturated fat: 2.015 g
+Cholesterol: 406 mg
+
+Minerals:
+Sodium: 243 mg
+Potassium: 130 mg
+Calcium: 48 mg
+Iron: 1.65 mg
+Magnesium: 11 mg
+Zinc: 1.22 mg
+
+Vitamins:
+Vitamin A: 178 µg
+Vitamin C: 0 mg
+Vitamin D: 2.5 µg
+Vitamin E: 1.04 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0.81 µg
+Folate: 53 µg

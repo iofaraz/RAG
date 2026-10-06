@@ -1,0 +1,36 @@
+Food: Ice cream sundae, caramel topping
+Food ID: 2705662
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 2.95 g
+Carbohydrates: 30.63 g
+Fat: 9.18 g
+Fiber: 0.5 g
+Sugar: 28.82 g
+
+Fats:
+Saturated fat: 5.626 g
+Monounsaturated fat: 2.419 g
+Polyunsaturated fat: 0.38 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 136 mg
+Potassium: 166 mg
+Calcium: 108 mg
+Iron: 0.07 mg
+Magnesium: 12 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 101 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.26 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.33 µg
+Folate: 4 µg

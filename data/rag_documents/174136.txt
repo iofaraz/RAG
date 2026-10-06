@@ -1,0 +1,36 @@
+Food: Beverages, OCEAN SPRAY, Light Cranberry and Raspberry Flavored Juice
+Food ID: 174136
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 26 kcal
+Protein: 0.73 g
+Carbohydrates: 5.77 g
+Fat: 0 g
+Fiber: 0.7 g
+Sugar: 5.02 g
+
+Fats:
+Saturated fat: 0.001 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.001 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 47 mg
+Calcium: 4 mg
+Iron: 0.04 mg
+Magnesium: 3 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 32.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg

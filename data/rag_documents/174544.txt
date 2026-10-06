@@ -1,0 +1,32 @@
+Food: Sauce, barbecue, KRAFT, original
+Food ID: 174544
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 0.74 g
+Carbohydrates: 40.77 g
+Fat: 0.62 g
+Fiber: 0.4 g
+Sugar: 32.26 g
+
+Fats:
+Saturated fat: 0.038 g
+Monounsaturated fat: 0.092 g
+Polyunsaturated fat: 0.082 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1242 mg
+Potassium: 247 mg
+Calcium: 47 mg
+Iron: 0.79 mg
+Magnesium: 15 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.2 mg
+Vitamin E: 0.66 mg
+Vitamin B6: 0.083 mg

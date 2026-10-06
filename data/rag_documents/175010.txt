@@ -1,0 +1,32 @@
+Food: Pancakes, whole-wheat, dry mix, incomplete, prepared
+Food ID: 175010
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 8.5 g
+Carbohydrates: 29.4 g
+Fat: 6.5 g
+Fiber: 2.8 g
+
+Fats:
+Saturated fat: 1.749 g
+Monounsaturated fat: 1.742 g
+Polyunsaturated fat: 2.406 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 572 mg
+Potassium: 279 mg
+Calcium: 250 mg
+Iron: 3.11 mg
+Magnesium: 46 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 0.5 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.29 µg
+Folate: 29 µg

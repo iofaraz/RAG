@@ -1,0 +1,36 @@
+Food: Enchilada, pork
+Food ID: 2708567
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 9.54 g
+Carbohydrates: 14.64 g
+Fat: 10.74 g
+Fiber: 2.3 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 3.962 g
+Monounsaturated fat: 3.574 g
+Polyunsaturated fat: 2.002 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 456 mg
+Potassium: 191 mg
+Calcium: 119 mg
+Iron: 1.01 mg
+Magnesium: 33 mg
+Zinc: 1.71 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.81 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 0.3 µg
+Folate: 9 µg

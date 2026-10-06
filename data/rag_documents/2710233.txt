@@ -1,0 +1,36 @@
+Food: Honey mustard dressing, fat free
+Food ID: 2710233
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 169 kcal
+Protein: 1.07 g
+Carbohydrates: 38.43 g
+Fat: 1.47 g
+Fiber: 1.2 g
+Sugar: 17.75 g
+
+Fats:
+Saturated fat: 0.349 g
+Monounsaturated fat: 0.708 g
+Polyunsaturated fat: 0.287 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 1004 mg
+Potassium: 69 mg
+Calcium: 24 mg
+Iron: 0.36 mg
+Magnesium: 13 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.8 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.02 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Crustaceans, crayfish, mixed species, wild, cooked, moist heat
+Food ID: 174207
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 16.77 g
+Carbohydrates: 0 g
+Fat: 1.2 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.181 g
+Monounsaturated fat: 0.244 g
+Polyunsaturated fat: 0.367 g
+Cholesterol: 133 mg
+
+Minerals:
+Sodium: 94 mg
+Potassium: 296 mg
+Calcium: 60 mg
+Iron: 0.83 mg
+Magnesium: 33 mg
+Zinc: 1.76 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.5 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 2.15 µg
+Folate: 44 µg

@@ -1,0 +1,32 @@
+Food: Sausage, beef, cured, cooked, smoked
+Food ID: 170606
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 312 kcal
+Protein: 14.11 g
+Carbohydrates: 2.42 g
+Fat: 26.91 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.44 g
+Monounsaturated fat: 12.97 g
+Polyunsaturated fat: 1.05 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 1131 mg
+Potassium: 176 mg
+Calcium: 7 mg
+Iron: 1.76 mg
+Magnesium: 13 mg
+Zinc: 2.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 1.86 µg
+Folate: 4 µg

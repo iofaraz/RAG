@@ -1,0 +1,37 @@
+Food: Soymilk, original and vanilla, light, with added calcium, vitamins A and D
+Food ID: 173766
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 30 kcal
+Protein: 2.38 g
+Carbohydrates: 3.51 g
+Fat: 0.77 g
+Fiber: 0.3 g
+Sugar: 2.61 g
+
+Fats:
+Saturated fat: 0.005 g
+Monounsaturated fat: 0.202 g
+Polyunsaturated fat: 0.426 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 117 mg
+Calcium: 123 mg
+Iron: 0.43 mg
+Magnesium: 15 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.06 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 1 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, BERRY COLOSSAL CRUNCH
+Food ID: 172982
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 396 kcal
+Protein: 4.19 g
+Carbohydrates: 86.55 g
+Fat: 4.17 g
+Fiber: 1.8 g
+Sugar: 41.66 g
+
+Fats:
+Saturated fat: 1.214 g
+Monounsaturated fat: 1.274 g
+Polyunsaturated fat: 0.996 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 633 mg
+Potassium: 109 mg
+Calcium: 33 mg
+Iron: 30 mg
+Magnesium: 11 mg
+Zinc: 12.5 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 20 mg
+Vitamin D: 3.3 µg
+Vitamin E: 0.5 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.66 mg
+Vitamin B12: 5 µg
+Folate: 667 µg

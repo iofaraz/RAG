@@ -1,0 +1,37 @@
+Food: Rhubarb, raw
+Food ID: 167758
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 0.9 g
+Carbohydrates: 4.54 g
+Fat: 0.2 g
+Fiber: 1.8 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 0.053 g
+Monounsaturated fat: 0.039 g
+Polyunsaturated fat: 0.099 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 288 mg
+Calcium: 86 mg
+Iron: 0.22 mg
+Magnesium: 12 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 29.3 µg
+Vitamin B6: 0.024 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

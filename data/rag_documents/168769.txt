@@ -1,0 +1,37 @@
+Food: Candies, MARS SNACKFOOD US, TWIX Peanut Butter Cookie Bars
+Food ID: 168769
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 547 kcal
+Protein: 9.18 g
+Carbohydrates: 54.14 g
+Fat: 32.67 g
+Fiber: 3.1 g
+Sugar: 36.13 g
+
+Fats:
+Saturated fat: 15.758 g
+Monounsaturated fat: 12.317 g
+Polyunsaturated fat: 3.407 g
+Trans fat: 0.505 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 226 mg
+Potassium: 264 mg
+Calcium: 75 mg
+Iron: 1.32 mg
+Magnesium: 61 mg
+Zinc: 1.61 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 3.42 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0.26 µg
+Folate: 15 µg

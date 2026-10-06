@@ -1,0 +1,36 @@
+Food: Sushi, topped with salmon
+Food ID: 2708969
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 107 kcal
+Protein: 8.92 g
+Carbohydrates: 13.39 g
+Fat: 1.74 g
+Fiber: 0.6 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 0.305 g
+Monounsaturated fat: 0.517 g
+Polyunsaturated fat: 0.428 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 133 mg
+Calcium: 5 mg
+Iron: 0.23 mg
+Magnesium: 13 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.31 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.269 mg
+Vitamin B12: 1.62 µg
+Folate: 3 µg

@@ -1,0 +1,22 @@
+Food: Parsnips, raw
+Food ID: 2747659
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.26562 g
+Carbohydrates: 19.2923 g
+Fat: 0.5381 g
+Fiber: 5.351 g
+
+Minerals:
+Sodium: 0.4913 mg
+Potassium: 492.6 mg
+Calcium: 44.16 mg
+Iron: 0.5053 mg
+Magnesium: 22 mg
+Zinc: 0.328 mg
+
+Vitamins:
+Vitamin C: 11.85 mg
+Folate: 83.42 µg

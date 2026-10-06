@@ -1,0 +1,36 @@
+Food: Beef with sweet and sour sauce
+Food ID: 2706392
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 9.29 g
+Carbohydrates: 14.22 g
+Fat: 12.81 g
+Fiber: 0.6 g
+Sugar: 8.42 g
+
+Fats:
+Saturated fat: 3.075 g
+Monounsaturated fat: 5.323 g
+Polyunsaturated fat: 3.084 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 346 mg
+Potassium: 197 mg
+Calcium: 19 mg
+Iron: 1.06 mg
+Magnesium: 15 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 12 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.64 mg
+Vitamin K: 8.9 µg
+Vitamin B6: 0.24 mg
+Vitamin B12: 0.49 µg
+Folate: 16 µg

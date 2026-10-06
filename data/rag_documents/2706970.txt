@@ -1,0 +1,36 @@
+Food: Ham sandwich wrap
+Food ID: 2706970
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 13.54 g
+Carbohydrates: 22.51 g
+Fat: 9.38 g
+Fiber: 1.5 g
+Sugar: 2.05 g
+
+Fats:
+Saturated fat: 4.244 g
+Monounsaturated fat: 2.349 g
+Polyunsaturated fat: 1.387 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 825 mg
+Potassium: 252 mg
+Calcium: 204 mg
+Iron: 1.9 mg
+Magnesium: 22 mg
+Zinc: 1.33 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.23 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.199 mg
+Vitamin B12: 0.38 µg
+Folate: 44 µg

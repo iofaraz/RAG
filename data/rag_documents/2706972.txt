@@ -1,0 +1,36 @@
+Food: Ham salad sandwich on wheat
+Food ID: 2706972
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 12.64 g
+Carbohydrates: 17.03 g
+Fat: 13.38 g
+Fiber: 2.1 g
+Sugar: 3.11 g
+
+Fats:
+Saturated fat: 2.465 g
+Monounsaturated fat: 3.379 g
+Polyunsaturated fat: 6.801 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 806 mg
+Potassium: 214 mg
+Calcium: 64 mg
+Iron: 1.44 mg
+Magnesium: 28 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.71 mg
+Vitamin K: 31.4 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 0.26 µg
+Folate: 32 µg

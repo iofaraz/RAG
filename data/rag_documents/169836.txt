@@ -1,0 +1,35 @@
+Food: Restaurant, family style, french fries
+Food ID: 169836
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 289 kcal
+Protein: 3.49 g
+Carbohydrates: 37.2 g
+Fat: 14.04 g
+Fiber: 3.9 g
+Sugar: 0.28 g
+
+Fats:
+Saturated fat: 2.489 g
+Monounsaturated fat: 3.358 g
+Polyunsaturated fat: 6.608 g
+Trans fat: 0.104 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 545 mg
+Calcium: 17 mg
+Iron: 0.91 mg
+Magnesium: 29 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin E: 1 mg
+Vitamin K: 35.9 µg
+Vitamin B6: 0.236 mg
+Folate: 15 µg

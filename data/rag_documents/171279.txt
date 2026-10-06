@@ -1,0 +1,36 @@
+Food: Milk, human, mature, fluid (For Reference Only)
+Food ID: 171279
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 70 kcal
+Protein: 1.03 g
+Carbohydrates: 6.89 g
+Fat: 4.38 g
+Fiber: 0 g
+Sugar: 6.89 g
+
+Fats:
+Saturated fat: 2.009 g
+Monounsaturated fat: 1.658 g
+Polyunsaturated fat: 0.497 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 51 mg
+Calcium: 32 mg
+Iron: 0.03 mg
+Magnesium: 3 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0.05 µg
+Folate: 5 µg

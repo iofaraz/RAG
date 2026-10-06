@@ -1,0 +1,36 @@
+Food: Taro leaves, cooked
+Food ID: 2709633
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 5.19 g
+Carbohydrates: 6.98 g
+Fat: 3.51 g
+Fiber: 3.9 g
+Sugar: 3.14 g
+
+Fats:
+Saturated fat: 0.873 g
+Monounsaturated fat: 1.034 g
+Polyunsaturated fat: 1.105 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 133 mg
+Potassium: 675 mg
+Calcium: 112 mg
+Iron: 2.35 mg
+Magnesium: 47 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 251 µg
+Vitamin C: 37.9 mg
+Vitamin D: 0 µg
+Vitamin E: 2.51 mg
+Vitamin K: 115.3 µg
+Vitamin B6: 0.162 mg
+Vitamin B12: 0 µg
+Folate: 98 µg

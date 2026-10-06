@@ -1,0 +1,31 @@
+Food: Cookies, brownies, prepared from recipe
+Food ID: 174949
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 466 kcal
+Protein: 6.2 g
+Carbohydrates: 50.2 g
+Fat: 29.1 g
+
+Fats:
+Saturated fat: 7.319 g
+Monounsaturated fat: 10.839 g
+Polyunsaturated fat: 9.412 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 343 mg
+Potassium: 176 mg
+Calcium: 57 mg
+Iron: 1.84 mg
+Magnesium: 53 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 176 µg
+Vitamin C: 0.3 mg
+Vitamin B6: 0.094 mg
+Vitamin B12: 0.16 µg
+Folate: 29 µg

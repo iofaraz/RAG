@@ -1,0 +1,36 @@
+Food: Carrots, fresh, cooked with butter or margarine
+Food ID: 2709668
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 0.96 g
+Carbohydrates: 10.37 g
+Fat: 2.63 g
+Fiber: 3.1 g
+Sugar: 4.79 g
+
+Fats:
+Saturated fat: 1.016 g
+Monounsaturated fat: 0.612 g
+Polyunsaturated fat: 0.462 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 223 mg
+Potassium: 283 mg
+Calcium: 31 mg
+Iron: 0.15 mg
+Magnesium: 12 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 824 µg
+Vitamin C: 5.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.88 mg
+Vitamin K: 14.6 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

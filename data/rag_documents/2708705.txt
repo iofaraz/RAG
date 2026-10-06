@@ -1,0 +1,36 @@
+Food: Wonton, dumpling or pot sticker, fried
+Food ID: 2708705
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 8.76 g
+Carbohydrates: 14.05 g
+Fat: 11.13 g
+Fiber: 1.5 g
+Sugar: 2.92 g
+
+Fats:
+Saturated fat: 2.532 g
+Monounsaturated fat: 4.908 g
+Polyunsaturated fat: 2.86 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 467 mg
+Potassium: 301 mg
+Calcium: 30 mg
+Iron: 0.79 mg
+Magnesium: 22 mg
+Zinc: 1.77 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 8.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.27 mg
+Vitamin K: 63.5 µg
+Vitamin B6: 0.262 mg
+Vitamin B12: 0.28 µg
+Folate: 19 µg

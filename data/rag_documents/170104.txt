@@ -1,0 +1,37 @@
+Food: Peas, green, canned, no salt added, drained solids
+Food ID: 170104
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 4.42 g
+Carbohydrates: 12.58 g
+Fat: 0.35 g
+Fiber: 4.1 g
+Sugar: 4.16 g
+
+Fats:
+Saturated fat: 0.062 g
+Monounsaturated fat: 0.031 g
+Polyunsaturated fat: 0.163 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 173 mg
+Calcium: 20 mg
+Iron: 0.95 mg
+Magnesium: 17 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 9.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 21.4 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0 µg
+Folate: 44 µg

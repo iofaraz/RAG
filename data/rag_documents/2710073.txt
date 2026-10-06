@@ -1,0 +1,36 @@
+Food: Relish, corn
+Food ID: 2710073
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 1.7 g
+Carbohydrates: 25.7 g
+Fat: 0.91 g
+Fiber: 1.5 g
+Sugar: 18.43 g
+
+Fats:
+Saturated fat: 0.176 g
+Monounsaturated fat: 0.261 g
+Polyunsaturated fat: 0.37 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 336 mg
+Potassium: 114 mg
+Calcium: 4 mg
+Iron: 0.23 mg
+Magnesium: 10 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 8.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

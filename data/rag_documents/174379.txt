@@ -1,0 +1,32 @@
+Food: Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+Food ID: 174379
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 22.7 g
+Carbohydrates: 0 g
+Fat: 19.08 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.98 g
+Monounsaturated fat: 7.79 g
+Polyunsaturated fat: 1.56 g
+Cholesterol: 91 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 251 mg
+Calcium: 20 mg
+Iron: 1.97 mg
+Magnesium: 23 mg
+Zinc: 5.44 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 2.65 µg
+Folate: 21 µg

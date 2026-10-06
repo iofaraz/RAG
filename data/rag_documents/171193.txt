@@ -1,0 +1,37 @@
+Food: Beef, chuck, short ribs, boneless, separable lean only, trimmed to 0" fat, select, raw
+Food ID: 171193
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 20.14 g
+Carbohydrates: 0 g
+Fat: 8.99 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.94 g
+Monounsaturated fat: 4.59 g
+Polyunsaturated fat: 0.41 g
+Trans fat: 0.721 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 93 mg
+Potassium: 303 mg
+Calcium: 12 mg
+Iron: 2.34 mg
+Magnesium: 20 mg
+Zinc: 8.14 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.323 mg
+Vitamin B12: 3.56 µg
+Folate: 3 µg

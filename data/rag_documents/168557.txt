@@ -1,0 +1,36 @@
+Food: Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw
+Food ID: 168557
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 2.5 g
+Carbohydrates: 4.3 g
+Fat: 0.1 g
+Fiber: 0.6 g
+Sugar: 1.72 g
+
+Fats:
+Saturated fat: 0.014 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.042 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 448 mg
+Calcium: 18 mg
+Iron: 0.4 mg
+Magnesium: 9 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 31.9 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.1 µg
+Folate: 28 µg

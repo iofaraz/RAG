@@ -1,0 +1,32 @@
+Food: Seeds, sesame flour, high-fat
+Food ID: 170192
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 526 kcal
+Protein: 30.78 g
+Carbohydrates: 26.62 g
+Fat: 37.1 g
+
+Fats:
+Saturated fat: 5.196 g
+Monounsaturated fat: 14.01 g
+Polyunsaturated fat: 16.261 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 423 mg
+Calcium: 159 mg
+Iron: 15.17 mg
+Magnesium: 361 mg
+Zinc: 10.67 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.152 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

@@ -1,0 +1,37 @@
+Food: Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed
+Food ID: 172399
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 24.88 g
+Carbohydrates: 0 g
+Fat: 11.91 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.324 g
+Monounsaturated fat: 4.609 g
+Polyunsaturated fat: 2.584 g
+Trans fat: 0.008 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 171 mg
+Calcium: 13 mg
+Iron: 1.64 mg
+Magnesium: 19 mg
+Zinc: 1.96 mg
+
+Vitamins:
+Vitamin A: 182 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.234 mg
+Vitamin B12: 0.95 µg
+Folate: 25 µg

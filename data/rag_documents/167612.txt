@@ -1,0 +1,14 @@
+Food: Oopah (tunicate), whole animal (Alaska Native)
+Food ID: 167612
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 11.7 g
+Carbohydrates: 0 g
+Fat: 2.2 g
+
+Minerals:
+Calcium: 53 mg
+Iron: 20.7 mg

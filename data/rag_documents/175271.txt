@@ -1,0 +1,36 @@
+Food: Veal, leg (top round), separable lean only, cooked, pan-fried, breaded
+Food ID: 175271
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 28.41 g
+Carbohydrates: 9.84 g
+Fat: 6.27 g
+Fiber: 0.2 g
+Sugar: 0.57 g
+
+Fats:
+Saturated fat: 1.6 g
+Monounsaturated fat: 2.16 g
+Polyunsaturated fat: 1.35 g
+Cholesterol: 113 mg
+
+Minerals:
+Sodium: 455 mg
+Potassium: 383 mg
+Calcium: 39 mg
+Iron: 1.64 mg
+Magnesium: 32 mg
+Zinc: 2.87 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.42 mg
+Vitamin B12: 1.28 µg
+Folate: 28 µg

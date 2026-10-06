@@ -1,0 +1,36 @@
+Food: Beef, chuck, blade roast, separable lean and fat, trimmed to 0" fat, all grades, cooked, braised
+Food ID: 170617
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 334 kcal
+Protein: 27.18 g
+Carbohydrates: 0 g
+Fat: 24.14 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.59 g
+Monounsaturated fat: 10.43 g
+Polyunsaturated fat: 0.86 g
+Cholesterol: 104 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 236 mg
+Calcium: 13 mg
+Iron: 3.18 mg
+Magnesium: 20 mg
+Zinc: 8.58 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.2 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 2.31 µg
+Folate: 5 µg

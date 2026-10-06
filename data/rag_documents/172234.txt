@@ -1,0 +1,37 @@
+Food: Mustard, prepared, yellow
+Food ID: 172234
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 3.74 g
+Carbohydrates: 5.83 g
+Fat: 3.34 g
+Fiber: 4 g
+Sugar: 0.92 g
+
+Fats:
+Saturated fat: 0.214 g
+Monounsaturated fat: 2.182 g
+Polyunsaturated fat: 0.774 g
+Trans fat: 0.009 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1104 mg
+Potassium: 152 mg
+Calcium: 63 mg
+Iron: 1.61 mg
+Magnesium: 48 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

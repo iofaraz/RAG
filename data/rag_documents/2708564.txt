@@ -1,0 +1,36 @@
+Food: Burrito bowl, with beans
+Food ID: 2708564
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 8.04 g
+Carbohydrates: 17.3 g
+Fat: 3.42 g
+Fiber: 5.7 g
+Sugar: 0.46 g
+
+Fats:
+Saturated fat: 1.659 g
+Monounsaturated fat: 0.776 g
+Polyunsaturated fat: 0.435 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 296 mg
+Potassium: 317 mg
+Calcium: 77 mg
+Iron: 1.63 mg
+Magnesium: 50 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.48 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.09 µg
+Folate: 82 µg

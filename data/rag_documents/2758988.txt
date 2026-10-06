@@ -1,0 +1,13 @@
+Food: Dressing, Ranch
+Food ID: 2758988
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 7.059 g
+Monounsaturated fat: 11.01 g
+Polyunsaturated fat: 25.93 g
+Trans fat: 0.1719 g
+
+Vitamins:
+Vitamin B6: 0.01275 mg

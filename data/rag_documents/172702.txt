@@ -1,0 +1,31 @@
+Food: Cake, gingerbread, prepared from recipe
+Food ID: 172702
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 356 kcal
+Protein: 3.9 g
+Carbohydrates: 49.2 g
+Fat: 16.4 g
+
+Fats:
+Saturated fat: 4.122 g
+Monounsaturated fat: 7.124 g
+Polyunsaturated fat: 4.216 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 327 mg
+Potassium: 439 mg
+Calcium: 71 mg
+Iron: 2.88 mg
+Magnesium: 70 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0.06 µg
+Folate: 33 µg

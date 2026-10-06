@@ -1,0 +1,32 @@
+Food: McDONALD'S, Hotcakes (plain)
+Food ID: 173299
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 6 g
+Carbohydrates: 38.27 g
+Fat: 5.84 g
+Fiber: 1.4 g
+Sugar: 8.84 g
+
+Fats:
+Saturated fat: 1.158 g
+Monounsaturated fat: 1.236 g
+Polyunsaturated fat: 2.978 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 358 mg
+Potassium: 173 mg
+Calcium: 84 mg
+Iron: 1.83 mg
+Magnesium: 19 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin E: 0.7 mg
+Vitamin B6: 0.077 mg
+Folate: 96 µg

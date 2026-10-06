@@ -1,0 +1,33 @@
+Food: POPEYES, Coleslaw
+Food ID: 172087
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 0.98 g
+Carbohydrates: 14.12 g
+Fat: 11.18 g
+Fiber: 1.7 g
+Sugar: 10.83 g
+
+Fats:
+Saturated fat: 1.887 g
+Monounsaturated fat: 3.339 g
+Polyunsaturated fat: 5.852 g
+Trans fat: 0.044 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 218 mg
+Potassium: 118 mg
+Calcium: 31 mg
+Iron: 0.23 mg
+Magnesium: 7 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 14.7 mg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0 µg

@@ -1,0 +1,36 @@
+Food: Sushi, NFS
+Food ID: 2708959
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 2.92 g
+Carbohydrates: 18.39 g
+Fat: 0.67 g
+Fiber: 1 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 0.133 g
+Monounsaturated fat: 0.397 g
+Polyunsaturated fat: 0.131 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 428 mg
+Potassium: 48 mg
+Calcium: 6 mg
+Iron: 0.21 mg
+Magnesium: 13 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.1 µg
+Folate: 5 µg

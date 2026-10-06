@@ -1,0 +1,37 @@
+Food: Sweet potato, cooked, boiled, without skin
+Food ID: 168484
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 1.37 g
+Carbohydrates: 17.72 g
+Fat: 0.14 g
+Fiber: 2.5 g
+Sugar: 5.74 g
+
+Fats:
+Saturated fat: 0.031 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.061 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 230 mg
+Calcium: 27 mg
+Iron: 0.72 mg
+Magnesium: 18 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 787 µg
+Vitamin C: 12.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.94 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.165 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

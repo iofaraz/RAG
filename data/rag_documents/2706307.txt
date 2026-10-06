@@ -1,0 +1,36 @@
+Food: Fish, trout, steamed
+Food ID: 2706307
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 25.19 g
+Carbohydrates: 0 g
+Fat: 7.81 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.747 g
+Monounsaturated fat: 2.5 g
+Polyunsaturated fat: 1.904 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 162 mg
+Potassium: 476 mg
+Calcium: 32 mg
+Iron: 0.39 mg
+Magnesium: 32 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 2.9 mg
+Vitamin D: 20.1 µg
+Vitamin E: 2.96 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.387 mg
+Vitamin B12: 4.89 µg
+Folate: 13 µg

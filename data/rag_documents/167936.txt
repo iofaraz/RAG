@@ -1,0 +1,20 @@
+Food: Keikitos (muffins), Latino bakery item
+Food ID: 167936
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 467 kcal
+Protein: 6.81 g
+Carbohydrates: 53.16 g
+Fat: 25.24 g
+Fiber: 1.2 g
+Sugar: 25.81 g
+
+Minerals:
+Sodium: 515 mg
+Potassium: 90 mg
+Calcium: 63 mg
+Iron: 2.53 mg
+Magnesium: 12 mg
+Zinc: 0.52 mg

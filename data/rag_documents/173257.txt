@@ -1,0 +1,20 @@
+Food: Mckee Baking, Little Debbie Nutty Bars, Wafers with Peanut Butter, Chocolate Covered
+Food ID: 173257
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 548 kcal
+Protein: 8 g
+Carbohydrates: 55.2 g
+Fat: 32.8 g
+Sugar: 34 g
+
+Fats:
+Saturated fat: 6.29 g
+
+Minerals:
+Sodium: 223 mg
+
+Vitamins:
+Vitamin C: 2 mg

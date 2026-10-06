@@ -1,0 +1,36 @@
+Food: Bacon, meatless
+Food ID: 172439
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 11.69 g
+Carbohydrates: 5.31 g
+Fat: 29.52 g
+Fiber: 2.6 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.622 g
+Monounsaturated fat: 7.095 g
+Polyunsaturated fat: 15.441 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1465 mg
+Potassium: 170 mg
+Calcium: 23 mg
+Iron: 2.41 mg
+Magnesium: 19 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 6.9 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.479 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

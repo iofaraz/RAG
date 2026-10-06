@@ -1,0 +1,36 @@
+Food: Sauce, tartar, ready-to-serve
+Food ID: 171826
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 1 g
+Carbohydrates: 13.3 g
+Fat: 16.7 g
+Fiber: 0.5 g
+Sugar: 4.25 g
+
+Fats:
+Saturated fat: 3.333 g
+Monounsaturated fat: 3.605 g
+Polyunsaturated fat: 9.044 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 667 mg
+Potassium: 68 mg
+Calcium: 26 mg
+Iron: 0.25 mg
+Magnesium: 6 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.68 mg
+Vitamin K: 50.4 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.02 µg
+Folate: 5 µg

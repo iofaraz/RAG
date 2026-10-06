@@ -1,0 +1,31 @@
+Food: Snacks, pork skins, barbecue-flavor
+Food ID: 168851
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 538 kcal
+Protein: 57.9 g
+Carbohydrates: 1.6 g
+Fat: 31.8 g
+
+Fats:
+Saturated fat: 11.56 g
+Monounsaturated fat: 15.03 g
+Polyunsaturated fat: 3.45 g
+Cholesterol: 115 mg
+
+Minerals:
+Sodium: 2667 mg
+Potassium: 180 mg
+Calcium: 43 mg
+Iron: 1.04 mg
+Magnesium: 0 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 1.5 mg
+Vitamin B6: 0.156 mg
+Vitamin B12: 0.13 µg
+Folate: 31 µg

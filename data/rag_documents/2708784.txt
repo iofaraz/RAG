@@ -1,0 +1,36 @@
+Food: Stuffed shells, with fish and/or shellfish, with tomato sauce
+Food ID: 2708784
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 8.85 g
+Carbohydrates: 16.11 g
+Fat: 1.94 g
+Fiber: 1.1 g
+Sugar: 2.05 g
+
+Fats:
+Saturated fat: 0.582 g
+Monounsaturated fat: 0.506 g
+Polyunsaturated fat: 0.429 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 330 mg
+Potassium: 222 mg
+Calcium: 42 mg
+Iron: 2.04 mg
+Magnesium: 22 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.01 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0.71 µg
+Folate: 32 µg

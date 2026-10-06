@@ -1,0 +1,37 @@
+Food: Bread, paratha, whole wheat, commercially prepared, frozen
+Food ID: 174076
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 326 kcal
+Protein: 6.36 g
+Carbohydrates: 45.35 g
+Fat: 13.2 g
+Fiber: 9.6 g
+Sugar: 4.15 g
+
+Fats:
+Saturated fat: 5.826 g
+Monounsaturated fat: 3.837 g
+Polyunsaturated fat: 2.484 g
+Trans fat: 0.034 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 452 mg
+Potassium: 139 mg
+Calcium: 25 mg
+Iron: 1.61 mg
+Magnesium: 37 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.35 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

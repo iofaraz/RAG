@@ -1,0 +1,32 @@
+Food: Beef, variety meats and by-products, spleen, raw
+Food ID: 169454
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 18.3 g
+Carbohydrates: 0 g
+Fat: 3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1 g
+Monounsaturated fat: 0.78 g
+Polyunsaturated fat: 0.22 g
+Cholesterol: 263 mg
+
+Minerals:
+Sodium: 85 mg
+Potassium: 429 mg
+Calcium: 9 mg
+Iron: 44.55 mg
+Magnesium: 22 mg
+Zinc: 2.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 45.5 mg
+Vitamin B6: 0.07 mg
+Vitamin B12: 5.68 µg
+Folate: 4 µg

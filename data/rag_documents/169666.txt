@@ -1,0 +1,36 @@
+Food: Toppings, nuts in syrup
+Food ID: 169666
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 448 kcal
+Protein: 4.5 g
+Carbohydrates: 58.08 g
+Fat: 22 g
+Fiber: 2.3 g
+Sugar: 36.72 g
+
+Fats:
+Saturated fat: 1.96 g
+Monounsaturated fat: 4.97 g
+Polyunsaturated fat: 13.73 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 42 mg
+Potassium: 151 mg
+Calcium: 35 mg
+Iron: 1.05 mg
+Magnesium: 54 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.178 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

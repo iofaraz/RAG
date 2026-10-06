@@ -1,0 +1,36 @@
+Food: Burrito, meat, no cheese
+Food ID: 2708550
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 262 kcal
+Protein: 12.85 g
+Carbohydrates: 29.63 g
+Fat: 9.75 g
+Fiber: 2.1 g
+Sugar: 2.23 g
+
+Fats:
+Saturated fat: 3.674 g
+Monounsaturated fat: 3.258 g
+Polyunsaturated fat: 1.54 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 442 mg
+Potassium: 168 mg
+Calcium: 94 mg
+Iron: 2.93 mg
+Magnesium: 19 mg
+Zinc: 2.19 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.161 mg
+Vitamin B12: 0.77 µg
+Folate: 59 µg

@@ -1,0 +1,36 @@
+Food: Manicotti, cheese-filled, with meat sauce
+Food ID: 2708777
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 8.83 g
+Carbohydrates: 15.11 g
+Fat: 7.28 g
+Fiber: 0.8 g
+Sugar: 1.54 g
+
+Fats:
+Saturated fat: 3.713 g
+Monounsaturated fat: 1.996 g
+Polyunsaturated fat: 0.492 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 432 mg
+Potassium: 200 mg
+Calcium: 139 mg
+Iron: 1.41 mg
+Magnesium: 18 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.6 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.097 mg
+Vitamin B12: 0.55 µg
+Folate: 25 µg

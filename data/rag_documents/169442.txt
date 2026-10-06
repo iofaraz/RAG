@@ -1,0 +1,32 @@
+Food: Beef, shank crosscuts, separable lean only, trimmed to 1/4" fat, choice, cooked, simmered
+Food ID: 169442
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 33.68 g
+Carbohydrates: 0 g
+Fat: 6.36 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.29 g
+Monounsaturated fat: 2.86 g
+Polyunsaturated fat: 0.21 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 447 mg
+Calcium: 32 mg
+Iron: 3.86 mg
+Magnesium: 30 mg
+Zinc: 10.49 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.37 mg
+Vitamin B12: 3.79 µg
+Folate: 10 µg

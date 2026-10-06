@@ -1,0 +1,36 @@
+Food: Blueberries, raw
+Food ID: 2709275
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 0.7 g
+Carbohydrates: 14.57 g
+Fat: 0.31 g
+Fiber: 2.4 g
+Sugar: 9.36 g
+
+Fats:
+Saturated fat: 0.028 g
+Monounsaturated fat: 0.047 g
+Polyunsaturated fat: 0.146 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 86 mg
+Calcium: 12 mg
+Iron: 0.34 mg
+Magnesium: 6 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 8.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.57 mg
+Vitamin K: 19.3 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

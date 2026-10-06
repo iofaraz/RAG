@@ -1,0 +1,18 @@
+Food: Ketchup, restaurant
+Food ID: 747693
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 1.11 g
+Carbohydrates: 26.8 g
+Fat: 0.55 g
+
+Minerals:
+Sodium: 949 mg
+Potassium: 249 mg
+Calcium: 14 mg
+Iron: 0.43 mg
+Magnesium: 13.5 mg
+Zinc: 0.16 mg

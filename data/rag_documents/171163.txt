@@ -1,0 +1,36 @@
+Food: Soup, vegetable beef, canned, condensed
+Food ID: 171163
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 4.45 g
+Carbohydrates: 8.11 g
+Fat: 1.51 g
+Fiber: 1.6 g
+Sugar: 0.89 g
+
+Fats:
+Saturated fat: 0.68 g
+Monounsaturated fat: 0.64 g
+Polyunsaturated fat: 0.09 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 706 mg
+Potassium: 138 mg
+Calcium: 13 mg
+Iron: 0.89 mg
+Magnesium: 5 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 155 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.48 mg
+Vitamin K: 5.6 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.25 µg
+Folate: 8 µg

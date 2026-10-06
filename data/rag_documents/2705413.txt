@@ -1,0 +1,36 @@
+Food: Coconut milk
+Food ID: 2705413
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 0.21 g
+Carbohydrates: 2.92 g
+Fat: 2.08 g
+Fiber: 0 g
+Sugar: 2.5 g
+
+Fats:
+Saturated fat: 2.083 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 19 mg
+Calcium: 188 mg
+Iron: 0.3 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.63 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Beef, steak, flank
+Food ID: 2705827
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 29.13 g
+Carbohydrates: 0 g
+Fat: 14.09 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.017 g
+Monounsaturated fat: 6.228 g
+Polyunsaturated fat: 0.611 g
+Cholesterol: 91 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 296 mg
+Calcium: 7 mg
+Iron: 2.42 mg
+Magnesium: 23 mg
+Zinc: 8 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.1 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.479 mg
+Vitamin B12: 2.89 µg
+Folate: 7 µg

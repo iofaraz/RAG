@@ -1,0 +1,36 @@
+Food: Barbecue pork, with sauce
+Food ID: 2706399
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 17.57 g
+Carbohydrates: 12.23 g
+Fat: 11.3 g
+Fiber: 0.3 g
+Sugar: 9.97 g
+
+Fats:
+Saturated fat: 3.981 g
+Monounsaturated fat: 4.937 g
+Polyunsaturated fat: 1.715 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 603 mg
+Potassium: 299 mg
+Calcium: 25 mg
+Iron: 1.12 mg
+Magnesium: 20 mg
+Zinc: 2.81 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.37 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.298 mg
+Vitamin B12: 0.58 µg
+Folate: 2 µg

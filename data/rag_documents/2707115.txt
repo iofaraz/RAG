@@ -1,0 +1,36 @@
+Food: Chicken in soy-based sauce, rice and vegetables, frozen meal
+Food ID: 2707115
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 6.56 g
+Carbohydrates: 18.06 g
+Fat: 0.91 g
+Fiber: 1 g
+Sugar: 1.42 g
+
+Fats:
+Saturated fat: 0.239 g
+Monounsaturated fat: 0.303 g
+Polyunsaturated fat: 0.159 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 333 mg
+Potassium: 175 mg
+Calcium: 16 mg
+Iron: 0.56 mg
+Magnesium: 15 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 10.1 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.05 µg
+Folate: 22 µg

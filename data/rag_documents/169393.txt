@@ -1,0 +1,36 @@
+Food: Grape leaves, canned
+Food ID: 169393
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 4.27 g
+Carbohydrates: 11.71 g
+Fat: 1.97 g
+Fiber: 9.9 g
+
+Fats:
+Saturated fat: 0.312 g
+Monounsaturated fat: 0.076 g
+Polyunsaturated fat: 0.989 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2853 mg
+Potassium: 29 mg
+Calcium: 289 mg
+Iron: 2.98 mg
+Magnesium: 14 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 263 µg
+Vitamin C: 11.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.79 mg
+Vitamin K: 97.3 µg
+Vitamin B6: 0.136 mg
+Vitamin B12: 0 µg
+Folate: 78 µg

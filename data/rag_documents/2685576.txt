@@ -1,0 +1,22 @@
+Food: Beets, raw
+Food ID: 2685576
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.6875 g
+Carbohydrates: 8.787 g
+Fat: 0.3025 g
+Fiber: 3.119 g
+
+Minerals:
+Sodium: 111.6 mg
+Potassium: 341.5 mg
+Calcium: 13.82 mg
+Iron: 0.4281 mg
+Magnesium: 21.01 mg
+Zinc: 0.3104 mg
+
+Vitamins:
+Vitamin C: 4.6 mg
+Folate: 103 µg

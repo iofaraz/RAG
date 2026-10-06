@@ -1,0 +1,20 @@
+Food: Snapper, frozen, wild caught
+Food ID: 2747669
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 20.6625 g
+Carbohydrates: 0.4413 g
+Fat: 0.5692 g
+
+Minerals:
+Sodium: 93.06 mg
+Potassium: 348.8 mg
+Calcium: 13.91 mg
+Iron: 0.201 mg
+Magnesium: 27.46 mg
+Zinc: 0.3645 mg
+
+Vitamins:
+Vitamin B12: 1.571 µg

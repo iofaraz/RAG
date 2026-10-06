@@ -1,0 +1,36 @@
+Food: Cheese, mexican, queso anejo
+Food ID: 172201
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 21.44 g
+Carbohydrates: 4.63 g
+Fat: 29.98 g
+Fiber: 0 g
+Sugar: 4.63 g
+
+Fats:
+Saturated fat: 19.033 g
+Monounsaturated fat: 8.528 g
+Polyunsaturated fat: 0.901 g
+Cholesterol: 105 mg
+
+Minerals:
+Sodium: 1131 mg
+Potassium: 87 mg
+Calcium: 680 mg
+Iron: 0.47 mg
+Magnesium: 28 mg
+Zinc: 2.94 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.26 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 1.38 µg
+Folate: 1 µg

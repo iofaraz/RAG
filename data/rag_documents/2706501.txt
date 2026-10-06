@@ -1,0 +1,36 @@
+Food: Beef wellington
+Food ID: 2706501
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 19.16 g
+Carbohydrates: 10.25 g
+Fat: 27.43 g
+Fiber: 0.4 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 9.564 g
+Monounsaturated fat: 11.471 g
+Polyunsaturated fat: 2.961 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 182 mg
+Potassium: 274 mg
+Calcium: 9 mg
+Iron: 3.41 mg
+Magnesium: 21 mg
+Zinc: 3.32 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.05 mg
+Vitamin K: 6.8 µg
+Vitamin B6: 0.251 mg
+Vitamin B12: 2.1 µg
+Folate: 32 µg

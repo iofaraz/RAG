@@ -1,0 +1,36 @@
+Food: Fish, trout, grilled
+Food ID: 2706304
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 199 kcal
+Protein: 25.28 g
+Carbohydrates: 0 g
+Fat: 10.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.347 g
+Monounsaturated fat: 3.313 g
+Polyunsaturated fat: 2.561 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 273 mg
+Potassium: 478 mg
+Calcium: 32 mg
+Iron: 0.4 mg
+Magnesium: 32 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 101 µg
+Vitamin C: 2.9 mg
+Vitamin D: 20.2 µg
+Vitamin E: 3.31 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.402 mg
+Vitamin B12: 4.91 µg
+Folate: 13 µg

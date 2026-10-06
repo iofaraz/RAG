@@ -1,0 +1,20 @@
+Food: Fireweed, young leaves, raw (Alaska Native)
+Food ID: 168988
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 3 g
+Carbohydrates: 6.3 g
+Fat: 0.8 g
+Fiber: 6 g
+
+Minerals:
+Sodium: 50 mg
+Potassium: 251 mg
+Calcium: 13 mg
+Iron: 2.1 mg
+
+Vitamins:
+Vitamin C: 99 mg

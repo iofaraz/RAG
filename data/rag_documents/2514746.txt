@@ -1,0 +1,24 @@
+Food: Chicken, ground, with additives, raw
+Food ID: 2514746
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 17.9125 g
+Carbohydrates: 0 g
+Fat: 7.161 g
+
+Fats:
+Saturated fat: 1.559 g
+Monounsaturated fat: 2.173 g
+Polyunsaturated fat: 1.38 g
+Trans fat: 0.021 g
+Cholesterol: 81.69 mg
+
+Minerals:
+Sodium: 62.95 mg
+Potassium: 301.7 mg
+Calcium: 5.819 mg
+Iron: 0.5926 mg
+Magnesium: 20.51 mg
+Zinc: 1.177 mg

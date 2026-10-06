@@ -1,0 +1,37 @@
+Food: Peppers, hot chile, sun-dried
+Food ID: 168570
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 324 kcal
+Protein: 10.58 g
+Carbohydrates: 69.86 g
+Fat: 5.81 g
+Fiber: 28.7 g
+Sugar: 41.06 g
+
+Fats:
+Saturated fat: 0.813 g
+Monounsaturated fat: 0.468 g
+Polyunsaturated fat: 3.079 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 91 mg
+Potassium: 1870 mg
+Calcium: 45 mg
+Iron: 6.04 mg
+Magnesium: 88 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 1324 µg
+Vitamin C: 31.4 mg
+Vitamin D: 0 µg
+Vitamin E: 3.14 mg
+Vitamin K: 108.2 µg
+Vitamin B6: 0.81 mg
+Vitamin B12: 0 µg
+Folate: 51 µg

@@ -1,0 +1,36 @@
+Food: Babyfood, peaches, dices, toddler
+Food ID: 171349
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 0.5 g
+Carbohydrates: 11.8 g
+Fat: 0.2 g
+Fiber: 0.8 g
+Sugar: 9.49 g
+
+Fats:
+Saturated fat: 0.016 g
+Monounsaturated fat: 0.046 g
+Polyunsaturated fat: 0.078 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 83 mg
+Calcium: 6 mg
+Iron: 0.2 mg
+Magnesium: 8 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 31.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.83 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

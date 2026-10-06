@@ -1,0 +1,36 @@
+Food: Trail mix with chocolate
+Food ID: 2707577
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 503 kcal
+Protein: 11.65 g
+Carbohydrates: 48.27 g
+Fat: 32.26 g
+Fiber: 5.9 g
+Sugar: 34.85 g
+
+Fats:
+Saturated fat: 7.003 g
+Monounsaturated fat: 13.904 g
+Polyunsaturated fat: 8.73 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 146 mg
+Potassium: 489 mg
+Calcium: 79 mg
+Iron: 2.15 mg
+Magnesium: 119 mg
+Zinc: 2.34 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 5.48 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.245 mg
+Vitamin B12: 0.13 µg
+Folate: 52 µg

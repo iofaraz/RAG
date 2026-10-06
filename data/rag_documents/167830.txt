@@ -1,0 +1,37 @@
+Food: Pork, fresh, loin, center rib (chops), bone-in, separable lean and fat, cooked, braised
+Food ID: 167830
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 261 kcal
+Protein: 26.66 g
+Carbohydrates: 0 g
+Fat: 16.28 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.435 g
+Monounsaturated fat: 6.088 g
+Polyunsaturated fat: 2.397 g
+Trans fat: 0.088 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 259 mg
+Calcium: 53 mg
+Iron: 0.81 mg
+Magnesium: 19 mg
+Zinc: 3.1 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.491 mg
+Vitamin B12: 0.64 µg
+Folate: 0 µg

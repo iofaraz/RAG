@@ -1,0 +1,22 @@
+Food: Mushroom, maitake
+Food ID: 2003602
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.20312 g
+Carbohydrates: 6.60438 g
+Fat: 0.265 g
+Fiber: 3.071 g
+
+Minerals:
+Sodium: 0.345 mg
+Potassium: 260 mg
+Calcium: 0 mg
+Iron: 0.2089 mg
+Magnesium: 11.04 mg
+Zinc: 0.7629 mg
+
+Vitamins:
+Vitamin D: 1.6 µg
+Vitamin B6: 0.071 mg

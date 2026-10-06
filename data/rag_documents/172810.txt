@@ -1,0 +1,32 @@
+Food: Rolls, dinner, plain, prepared from recipe, made with low fat (2%) milk
+Food ID: 172810
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 316 kcal
+Protein: 8.5 g
+Carbohydrates: 53.4 g
+Fat: 7.3 g
+Fiber: 1.9 g
+
+Fats:
+Saturated fat: 1.795 g
+Monounsaturated fat: 2.881 g
+Polyunsaturated fat: 2.006 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 415 mg
+Potassium: 152 mg
+Calcium: 60 mg
+Iron: 2.96 mg
+Magnesium: 19 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 87 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.14 µg
+Folate: 90 µg

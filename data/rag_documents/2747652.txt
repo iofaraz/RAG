@@ -1,0 +1,20 @@
+Food: Anchovies, canned in olive oil, with salt, drained
+Food ID: 2747652
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 26.9375 g
+Carbohydrates: 2.4095 g
+Fat: 9.853 g
+
+Minerals:
+Sodium: 5403 mg
+Potassium: 297.8 mg
+Calcium: 239.8 mg
+Iron: 2.688 mg
+Magnesium: 227.6 mg
+Zinc: 2.539 mg
+
+Vitamins:
+Vitamin B12: 12.65 µg

@@ -1,0 +1,36 @@
+Food: Pudding, flavors other than chocolate, made from dry mix
+Food ID: 2705688
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 2.78 g
+Carbohydrates: 19.38 g
+Fat: 1.89 g
+Fiber: 0 g
+Sugar: 19.42 g
+
+Fats:
+Saturated fat: 1.114 g
+Monounsaturated fat: 0.402 g
+Polyunsaturated fat: 0.06 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 264 mg
+Potassium: 132 mg
+Calcium: 107 mg
+Iron: 0 mg
+Magnesium: 10 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.47 µg
+Folate: 1 µg

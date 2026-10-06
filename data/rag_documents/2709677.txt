@@ -1,0 +1,36 @@
+Food: Carrots, glazed, cooked
+Food ID: 2709677
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 0.9 g
+Carbohydrates: 17.32 g
+Fat: 2.78 g
+Fiber: 2.9 g
+Sugar: 12.14 g
+
+Fats:
+Saturated fat: 1.393 g
+Monounsaturated fat: 0.516 g
+Polyunsaturated fat: 0.169 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 214 mg
+Potassium: 270 mg
+Calcium: 35 mg
+Iron: 0.2 mg
+Magnesium: 12 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 756 µg
+Vitamin C: 4.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.61 mg
+Vitamin K: 12.4 µg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

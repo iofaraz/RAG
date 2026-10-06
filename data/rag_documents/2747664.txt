@@ -1,0 +1,22 @@
+Food: Radicchio, raw
+Food ID: 2747664
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.30875 g
+Carbohydrates: 4.96125 g
+Fat: 0.1431 g
+Fiber: 2.114 g
+
+Minerals:
+Sodium: 8.076 mg
+Potassium: 334.6 mg
+Calcium: 30.91 mg
+Iron: 0.4006 mg
+Magnesium: 12.95 mg
+Zinc: 0.1999 mg
+
+Vitamins:
+Vitamin C: 6.181 mg
+Folate: 116.6 µg

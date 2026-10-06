@@ -1,0 +1,37 @@
+Food: Ice cream sundae cone
+Food ID: 171306
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 254 kcal
+Protein: 3 g
+Carbohydrates: 28.89 g
+Fat: 14 g
+Fiber: 1 g
+Sugar: 21.26 g
+
+Fats:
+Saturated fat: 2.717 g
+Monounsaturated fat: 1.775 g
+Polyunsaturated fat: 0.747 g
+Trans fat: 0 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 115 mg
+Potassium: 204 mg
+Calcium: 60 mg
+Iron: 0.36 mg
+Magnesium: 20 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 117 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.35 µg
+Folate: 19 µg

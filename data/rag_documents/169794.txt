@@ -1,0 +1,23 @@
+Food: Bear, polar, meat, raw (Alaska Native)
+Food ID: 169794
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 130 kcal
+Protein: 25.6 g
+Carbohydrates: 0 g
+Fat: 3.1 g
+
+Fats:
+Saturated fat: 0.63 g
+Monounsaturated fat: 2 g
+Polyunsaturated fat: 0.46 g
+
+Minerals:
+Potassium: 40 mg
+Calcium: 17 mg
+Iron: 6.1 mg
+
+Vitamins:
+Vitamin C: 2 mg

@@ -1,0 +1,28 @@
+Food: Bread, white, commercially prepared
+Food ID: 325871
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 9.43 g
+Carbohydrates: 49.2 g
+Fat: 3.59 g
+Fiber: 2.3 g
+
+Fats:
+Saturated fat: 0.821 g
+Monounsaturated fat: 0.717 g
+Polyunsaturated fat: 1.87 g
+Trans fat: 0.035 g
+
+Minerals:
+Sodium: 477 mg
+Potassium: 117 mg
+Calcium: 211 mg
+Iron: 3.36 mg
+Magnesium: 26.9 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin B6: 0.092 mg

@@ -1,0 +1,13 @@
+Food: Alcoholic Beverage, wine, table, red, Gamay
+Food ID: 171872
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 0.07 g
+Carbohydrates: 2.38 g
+Fat: 0 g
+
+Fats:
+Trans fat: 0 g

@@ -1,0 +1,29 @@
+Food: Bread, gluten-free, whole grain, made with tapioca starch and brown rice flour
+Food ID: 174102
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 7.25 g
+Carbohydrates: 49.09 g
+Fat: 9.34 g
+Fiber: 4.9 g
+Sugar: 9.81 g
+
+Fats:
+Saturated fat: 0.266 g
+Monounsaturated fat: 5.438 g
+Polyunsaturated fat: 2.415 g
+Trans fat: 0.019 g
+
+Minerals:
+Sodium: 510 mg
+Potassium: 123 mg
+Calcium: 60 mg
+Iron: 0.76 mg
+Magnesium: 31 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin B6: 0.09 mg

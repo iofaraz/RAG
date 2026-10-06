@@ -1,0 +1,36 @@
+Food: Beef, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy
+Food ID: 2706614
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 6.65 g
+Carbohydrates: 13.81 g
+Fat: 5.04 g
+Fiber: 1.1 g
+Sugar: 0.75 g
+
+Fats:
+Saturated fat: 1.114 g
+Monounsaturated fat: 1.959 g
+Polyunsaturated fat: 1.262 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 305 mg
+Potassium: 92 mg
+Calcium: 15 mg
+Iron: 1.12 mg
+Magnesium: 15 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.78 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.27 µg
+Folate: 45 µg

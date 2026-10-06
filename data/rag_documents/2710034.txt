@@ -1,0 +1,36 @@
+Food: Broccoli, cauliflower and carrots, cooked, fat added
+Food ID: 2710034
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.72 g
+Carbohydrates: 5.43 g
+Fat: 2.9 g
+Fiber: 2.9 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 0.728 g
+Monounsaturated fat: 0.93 g
+Polyunsaturated fat: 0.897 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 151 mg
+Potassium: 153 mg
+Calcium: 28 mg
+Iron: 0.5 mg
+Magnesium: 11 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 301 µg
+Vitamin C: 23.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.16 mg
+Vitamin K: 38.8 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

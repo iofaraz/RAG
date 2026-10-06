@@ -1,0 +1,35 @@
+Food: Waffles, buttermilk, frozen, ready-to-heat
+Food ID: 167516
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 6.58 g
+Carbohydrates: 41.05 g
+Fat: 9.22 g
+Fiber: 2.2 g
+Sugar: 4.3 g
+
+Fats:
+Saturated fat: 1.898 g
+Monounsaturated fat: 4.53 g
+Polyunsaturated fat: 1.445 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 621 mg
+Potassium: 126 mg
+Calcium: 279 mg
+Iron: 6.04 mg
+Magnesium: 19 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 401 µg
+Vitamin C: 0 mg
+Vitamin E: 0.62 mg
+Vitamin K: 10.5 µg
+Vitamin B6: 0.972 mg
+Vitamin B12: 2.86 µg
+Folate: 63 µg

@@ -1,0 +1,31 @@
+Food: Pasta, fresh-refrigerated, plain, cooked
+Food ID: 169728
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 5.15 g
+Carbohydrates: 24.93 g
+Fat: 1.05 g
+
+Fats:
+Saturated fat: 0.15 g
+Monounsaturated fat: 0.124 g
+Polyunsaturated fat: 0.429 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 24 mg
+Calcium: 6 mg
+Iron: 1.14 mg
+Magnesium: 18 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.14 µg
+Folate: 64 µg

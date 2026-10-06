@@ -1,0 +1,36 @@
+Food: Muffins, English, mixed-grain (includes granola)
+Food ID: 174996
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 9.1 g
+Carbohydrates: 46.3 g
+Fat: 1.8 g
+Fiber: 2.8 g
+Sugar: 0.81 g
+
+Fats:
+Saturated fat: 0.23 g
+Monounsaturated fat: 0.827 g
+Polyunsaturated fat: 0.559 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 298 mg
+Potassium: 156 mg
+Calcium: 196 mg
+Iron: 3.02 mg
+Magnesium: 41 mg
+Zinc: 1.39 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0 µg
+Folate: 80 µg

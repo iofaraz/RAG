@@ -1,0 +1,37 @@
+Food: Kielbasa, fully cooked, unheated
+Food ID: 173879
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 325 kcal
+Protein: 10.84 g
+Carbohydrates: 3.72 g
+Fat: 29.63 g
+Fiber: 0 g
+Sugar: 2.05 g
+
+Fats:
+Saturated fat: 9.684 g
+Monounsaturated fat: 12.186 g
+Polyunsaturated fat: 5.3 g
+Trans fat: 0.228 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 928 mg
+Potassium: 217 mg
+Calcium: 24 mg
+Iron: 0.75 mg
+Magnesium: 14 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 19.1 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.42 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.68 µg
+Folate: 1 µg

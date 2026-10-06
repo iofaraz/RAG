@@ -1,0 +1,36 @@
+Food: Carrots, cooked, from restaurant
+Food ID: 2709663
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 0.94 g
+Carbohydrates: 10.15 g
+Fat: 4.67 g
+Fiber: 3.1 g
+Sugar: 4.69 g
+
+Fats:
+Saturated fat: 1.164 g
+Monounsaturated fat: 1.547 g
+Polyunsaturated fat: 1.342 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 292 mg
+Potassium: 277 mg
+Calcium: 30 mg
+Iron: 0.15 mg
+Magnesium: 12 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 803 µg
+Vitamin C: 5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.3 mg
+Vitamin K: 16.6 µg
+Vitamin B6: 0.158 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

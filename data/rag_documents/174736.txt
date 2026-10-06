@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, tenderloin, separable lean only, raw
+Food ID: 174736
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 140 kcal
+Protein: 21.19 g
+Carbohydrates: 0 g
+Fat: 6.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.446 g
+Monounsaturated fat: 1.762 g
+Polyunsaturated fat: 0.251 g
+Trans fat: 0.121 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 362 mg
+Calcium: 4 mg
+Iron: 2.21 mg
+Magnesium: 24 mg
+Zinc: 2.34 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.6 mg
+Vitamin B6: 0.267 mg
+Vitamin B12: 1.78 µg

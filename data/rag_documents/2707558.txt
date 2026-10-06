@@ -1,0 +1,36 @@
+Food: Peanut butter and jelly sandwich, with reduced fat peanut butter, on wheat bread
+Food ID: 2707558
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 337 kcal
+Protein: 13.53 g
+Carbohydrates: 47.01 g
+Fat: 11.85 g
+Fiber: 4.6 g
+Sugar: 14.59 g
+
+Fats:
+Saturated fat: 2.032 g
+Monounsaturated fat: 4.965 g
+Polyunsaturated fat: 3.463 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 395 mg
+Potassium: 302 mg
+Calcium: 98 mg
+Iron: 2.26 mg
+Magnesium: 80 mg
+Zinc: 1.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.77 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.178 mg
+Vitamin B12: 0 µg
+Folate: 56 µg

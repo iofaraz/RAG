@@ -1,0 +1,36 @@
+Food: Macaroni or noodles, creamed, with cheese and tuna
+Food ID: 2708929
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 7.85 g
+Carbohydrates: 17.35 g
+Fat: 4.52 g
+Fiber: 1 g
+Sugar: 0.54 g
+
+Fats:
+Saturated fat: 2.31 g
+Monounsaturated fat: 0.89 g
+Polyunsaturated fat: 0.393 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 252 mg
+Potassium: 72 mg
+Calcium: 25 mg
+Iron: 1.07 mg
+Magnesium: 16 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.58 µg
+Folate: 39 µg

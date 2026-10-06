@@ -1,0 +1,36 @@
+Food: Ice cream sandwich, vanilla
+Food ID: 2705642
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 4.28 g
+Carbohydrates: 35.88 g
+Fat: 11.8 g
+Fiber: 1.4 g
+Sugar: 25.27 g
+
+Fats:
+Saturated fat: 6.153 g
+Monounsaturated fat: 3.443 g
+Polyunsaturated fat: 1.377 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 205 mg
+Potassium: 202 mg
+Calcium: 104 mg
+Iron: 1.07 mg
+Magnesium: 24 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.4 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0.32 µg
+Folate: 16 µg

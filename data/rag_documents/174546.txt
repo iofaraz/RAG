@@ -1,0 +1,36 @@
+Food: Soup, tomato, canned, prepared with equal volume low fat (2%) milk
+Food ID: 174546
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 2.42 g
+Carbohydrates: 9.82 g
+Fat: 1.24 g
+Fiber: 0.5 g
+Sugar: 6.59 g
+
+Fats:
+Saturated fat: 0.707 g
+Monounsaturated fat: 0.356 g
+Polyunsaturated fat: 0.113 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 206 mg
+Potassium: 343 mg
+Calcium: 68 mg
+Iron: 0.3 mg
+Magnesium: 13 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 6.3 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.28 µg
+Folate: 2 µg

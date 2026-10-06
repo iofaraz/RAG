@@ -1,0 +1,33 @@
+Food: Beans, kidney, mature seeds, sprouted, raw
+Food ID: 169213
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 4.2 g
+Carbohydrates: 4.1 g
+Fat: 0.5 g
+
+Fats:
+Saturated fat: 0.072 g
+Monounsaturated fat: 0.039 g
+Polyunsaturated fat: 0.276 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 187 mg
+Calcium: 17 mg
+Iron: 0.81 mg
+Magnesium: 21 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 38.7 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

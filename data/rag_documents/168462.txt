@@ -1,0 +1,37 @@
+Food: Spinach, raw
+Food ID: 168462
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 2.86 g
+Carbohydrates: 3.63 g
+Fat: 0.39 g
+Fiber: 2.2 g
+Sugar: 0.42 g
+
+Fats:
+Saturated fat: 0.063 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.165 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 79 mg
+Potassium: 558 mg
+Calcium: 99 mg
+Iron: 2.71 mg
+Magnesium: 79 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 469 µg
+Vitamin C: 28.1 mg
+Vitamin D: 0 µg
+Vitamin E: 2.03 mg
+Vitamin K: 482.9 µg
+Vitamin B6: 0.195 mg
+Vitamin B12: 0 µg
+Folate: 194 µg

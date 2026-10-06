@@ -1,0 +1,36 @@
+Food: Peanut butter, reduced sodium
+Food ID: 169869
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 590 kcal
+Protein: 24 g
+Carbohydrates: 21.83 g
+Fat: 49.9 g
+Fiber: 6.6 g
+Sugar: 9.29 g
+
+Fats:
+Saturated fat: 7.716 g
+Monounsaturated fat: 23.582 g
+Polyunsaturated fat: 14.363 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 203 mg
+Potassium: 747 mg
+Calcium: 41 mg
+Iron: 1.9 mg
+Magnesium: 159 mg
+Zinc: 2.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 9.05 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.45 mg
+Vitamin B12: 0 µg
+Folate: 92 µg

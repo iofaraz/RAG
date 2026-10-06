@@ -1,0 +1,32 @@
+Food: Spices, fennel seed
+Food ID: 171323
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 345 kcal
+Protein: 15.8 g
+Carbohydrates: 52.29 g
+Fat: 14.87 g
+Fiber: 39.8 g
+
+Fats:
+Saturated fat: 0.48 g
+Monounsaturated fat: 9.91 g
+Polyunsaturated fat: 1.69 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 88 mg
+Potassium: 1694 mg
+Calcium: 1196 mg
+Iron: 18.54 mg
+Magnesium: 385 mg
+Zinc: 3.7 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.47 mg
+Vitamin B12: 0 µg

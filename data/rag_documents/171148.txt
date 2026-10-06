@@ -1,0 +1,37 @@
+Food: Soup, chunky chicken noodle, canned, ready-to-serve
+Food ID: 171148
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 3.09 g
+Carbohydrates: 4.46 g
+Fat: 1.16 g
+Fiber: 0.8 g
+Sugar: 0.38 g
+
+Fats:
+Saturated fat: 0.627 g
+Monounsaturated fat: 0.298 g
+Polyunsaturated fat: 0.172 g
+Trans fat: 0.001 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 306 mg
+Potassium: 117 mg
+Calcium: 11 mg
+Iron: 0.35 mg
+Magnesium: 7 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.08 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Ice cream, chocolate
+Food ID: 2705632
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 3.8 g
+Carbohydrates: 28.2 g
+Fat: 11 g
+Fiber: 1.2 g
+Sugar: 25.36 g
+
+Fats:
+Saturated fat: 6.8 g
+Monounsaturated fat: 3.21 g
+Polyunsaturated fat: 0.41 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 76 mg
+Potassium: 249 mg
+Calcium: 109 mg
+Iron: 0.93 mg
+Magnesium: 29 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 118 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.29 µg
+Folate: 16 µg

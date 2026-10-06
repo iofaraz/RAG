@@ -1,0 +1,28 @@
+Food: Lamb, Australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8" fat, raw
+Food ID: 172580
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 20.45 g
+Carbohydrates: 0 g
+Fat: 5.1 g
+
+Fats:
+Saturated fat: 2.008 g
+Monounsaturated fat: 2.157 g
+Polyunsaturated fat: 0.246 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 329 mg
+Calcium: 7 mg
+Iron: 1.61 mg
+Magnesium: 22 mg
+Zinc: 4.5 mg
+
+Vitamins:
+Vitamin B6: 0.406 mg
+Vitamin B12: 3.01 µg

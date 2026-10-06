@@ -1,0 +1,36 @@
+Food: Pork, potatoes, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce
+Food ID: 2706637
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 6.55 g
+Carbohydrates: 13.44 g
+Fat: 5.43 g
+Fiber: 1.8 g
+Sugar: 1.19 g
+
+Fats:
+Saturated fat: 1.133 g
+Monounsaturated fat: 2.285 g
+Polyunsaturated fat: 1.575 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 310 mg
+Calcium: 16 mg
+Iron: 0.52 mg
+Magnesium: 20 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 107 µg
+Vitamin C: 9.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1 mg
+Vitamin K: 17 µg
+Vitamin B6: 0.283 mg
+Vitamin B12: 0.13 µg
+Folate: 13 µg

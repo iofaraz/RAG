@@ -1,0 +1,13 @@
+Food: Squirrel, ground, meat (Alaska Native)
+Food ID: 167619
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 19.3 g
+Carbohydrates: 0 g
+Fat: 3.8 g
+
+Minerals:
+Iron: 4.7 mg

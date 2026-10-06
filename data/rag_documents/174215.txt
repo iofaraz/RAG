@@ -1,0 +1,32 @@
+Food: Mollusks, cuttlefish, mixed species, raw
+Food ID: 174215
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 16.24 g
+Carbohydrates: 0.82 g
+Fat: 0.7 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.118 g
+Monounsaturated fat: 0.081 g
+Polyunsaturated fat: 0.134 g
+Cholesterol: 112 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 354 mg
+Calcium: 90 mg
+Iron: 6.02 mg
+Magnesium: 30 mg
+Zinc: 1.73 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin C: 5.3 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 3 µg
+Folate: 16 µg

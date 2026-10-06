@@ -1,0 +1,36 @@
+Food: Corn pone, fried
+Food ID: 2707817
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 254 kcal
+Protein: 3.34 g
+Carbohydrates: 37.79 g
+Fat: 9.78 g
+Fiber: 1.8 g
+Sugar: 0.76 g
+
+Fats:
+Saturated fat: 2.342 g
+Monounsaturated fat: 3.874 g
+Polyunsaturated fat: 2.907 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 417 mg
+Potassium: 68 mg
+Calcium: 108 mg
+Iron: 2.25 mg
+Magnesium: 16 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.61 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0 µg
+Folate: 69 µg

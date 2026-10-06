@@ -1,0 +1,28 @@
+Food: Sauce, hot chile, sriracha, TUONG OT SRIRACHA
+Food ID: 171188
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 1.86 g
+Carbohydrates: 15.87 g
+Fat: 0.9 g
+Fiber: 2.2 g
+Sugar: 10.48 g
+
+Minerals:
+Sodium: 1540 mg
+Potassium: 341 mg
+Calcium: 20 mg
+Iron: 1.92 mg
+Magnesium: 16 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 138 µg
+Vitamin C: 57.9 mg
+Vitamin E: 5.25 mg
+Vitamin K: 14.6 µg
+Vitamin B6: 0.465 mg
+Folate: 31 µg

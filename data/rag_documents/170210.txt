@@ -1,0 +1,35 @@
+Food: Beef, brisket, flat half, separable lean only, trimmed to 0" fat, all grades, cooked, braised
+Food ID: 170210
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 205 kcal
+Protein: 33.26 g
+Carbohydrates: 0 g
+Fat: 6.99 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.647 g
+Monounsaturated fat: 2.978 g
+Polyunsaturated fat: 0.244 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 267 mg
+Calcium: 16 mg
+Iron: 2.82 mg
+Magnesium: 22 mg
+Zinc: 8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.43 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.318 mg
+Vitamin B12: 2.42 µg
+Folate: 11 µg

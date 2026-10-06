@@ -1,0 +1,36 @@
+Food: Chicken wing, fried, coated, from restaurant
+Food ID: 2706068
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 17.77 g
+Carbohydrates: 15 g
+Fat: 21.28 g
+Fiber: 0.3 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 4.983 g
+Monounsaturated fat: 9.943 g
+Polyunsaturated fat: 4.684 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 843 mg
+Potassium: 221 mg
+Calcium: 61 mg
+Iron: 1.29 mg
+Magnesium: 22 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.57 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0.38 µg
+Folate: 32 µg

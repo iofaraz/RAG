@@ -1,0 +1,37 @@
+Food: Cabbage, savoy, raw
+Food ID: 170388
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 2 g
+Carbohydrates: 6.1 g
+Fat: 0.1 g
+Fiber: 3.1 g
+Sugar: 2.27 g
+
+Fats:
+Saturated fat: 0.013 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.049 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 230 mg
+Calcium: 35 mg
+Iron: 0.4 mg
+Magnesium: 28 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 31 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 68.8 µg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0 µg
+Folate: 80 µg

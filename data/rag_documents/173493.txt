@@ -1,0 +1,25 @@
+Food: Babyfood, dinner, spaghetti and tomato and meat, toddler
+Food ID: 173493
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 75 kcal
+Protein: 5.3 g
+Carbohydrates: 10.8 g
+Fat: 1 g
+
+Minerals:
+Sodium: 239 mg
+Potassium: 163 mg
+Calcium: 22 mg
+Iron: 0.9 mg
+Magnesium: 15 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 4.1 mg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.23 µg
+Folate: 32 µg

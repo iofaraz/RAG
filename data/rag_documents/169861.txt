@@ -1,0 +1,36 @@
+Food: Snacks, popcorn, home-prepared, oil-popped, unsalted
+Food ID: 169861
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 500 kcal
+Protein: 9 g
+Carbohydrates: 58.1 g
+Fat: 28.1 g
+Fiber: 10 g
+Sugar: 0.54 g
+
+Fats:
+Saturated fat: 5.05 g
+Monounsaturated fat: 8.29 g
+Polyunsaturated fat: 13.52 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 225 mg
+Calcium: 10 mg
+Iron: 2.78 mg
+Magnesium: 108 mg
+Zinc: 2.64 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 2.43 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

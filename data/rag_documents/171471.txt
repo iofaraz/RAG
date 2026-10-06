@@ -1,0 +1,31 @@
+Food: Chicken, broilers or fryers, back, meat and skin, cooked, fried, flour
+Food ID: 171471
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 27.79 g
+Carbohydrates: 6.5 g
+Fat: 20.74 g
+
+Fats:
+Saturated fat: 5.61 g
+Monounsaturated fat: 8.18 g
+Polyunsaturated fat: 4.81 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 90 mg
+Potassium: 226 mg
+Calcium: 24 mg
+Iron: 1.62 mg
+Magnesium: 23 mg
+Zinc: 2.47 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 0.28 µg
+Folate: 15 µg

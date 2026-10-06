@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, POST, Shredded Wheat, lightly frosted, spoon-size
+Food ID: 173918
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 352 kcal
+Protein: 7.8 g
+Carbohydrates: 83.8 g
+Fat: 1.9 g
+Fiber: 9.6 g
+Sugar: 22.3 g
+
+Fats:
+Saturated fat: 0.3 g
+Monounsaturated fat: 0.271 g
+Polyunsaturated fat: 0.925 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 327 mg
+Calcium: 13 mg
+Iron: 3.46 mg
+Magnesium: 93 mg
+Zinc: 2.88 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.96 mg
+Vitamin B12: 2.88 µg
+Folate: 192 µg

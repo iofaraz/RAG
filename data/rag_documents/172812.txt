@@ -1,0 +1,32 @@
+Food: Crackers, matzo, egg and onion
+Food ID: 172812
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 391 kcal
+Protein: 10 g
+Carbohydrates: 77.1 g
+Fat: 3.9 g
+Fiber: 5 g
+
+Fats:
+Saturated fat: 0.936 g
+Monounsaturated fat: 0.987 g
+Polyunsaturated fat: 1.001 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 285 mg
+Potassium: 83 mg
+Calcium: 36 mg
+Iron: 4.37 mg
+Magnesium: 30 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.111 mg
+Vitamin B12: 0.22 µg
+Folate: 158 µg

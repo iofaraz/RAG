@@ -1,0 +1,36 @@
+Food: Sweet potato fries, fast food / restaurant
+Food ID: 2709713
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 305 kcal
+Protein: 1.92 g
+Carbohydrates: 31.63 g
+Fat: 23.93 g
+Fiber: 5.1 g
+Sugar: 11.47 g
+
+Fats:
+Saturated fat: 6.257 g
+Monounsaturated fat: 8.269 g
+Polyunsaturated fat: 7.636 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 267 mg
+Potassium: 364 mg
+Calcium: 46 mg
+Iron: 0.69 mg
+Magnesium: 23 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 386 µg
+Vitamin C: 6.3 mg
+Vitamin D: 0 µg
+Vitamin E: 3 mg
+Vitamin K: 29 µg
+Vitamin B6: 0.157 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

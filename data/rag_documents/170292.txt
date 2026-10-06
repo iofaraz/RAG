@@ -1,0 +1,37 @@
+Food: Fast foods, nachos, with cheese, beans, ground beef, and tomatoes
+Food ID: 170292
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 6.21 g
+Carbohydrates: 21.39 g
+Fat: 12.48 g
+Fiber: 3.7 g
+Sugar: 1.63 g
+
+Fats:
+Saturated fat: 2.549 g
+Monounsaturated fat: 6.661 g
+Polyunsaturated fat: 2.496 g
+Trans fat: 0.167 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 348 mg
+Potassium: 298 mg
+Calcium: 47 mg
+Iron: 1.01 mg
+Magnesium: 33 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.75 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.158 mg
+Vitamin B12: 0.31 µg
+Folate: 14 µg

@@ -1,0 +1,36 @@
+Food: Babyfood, carrots and beef, strained
+Food ID: 173518
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 3.4 g
+Carbohydrates: 5.7 g
+Fat: 2.5 g
+Fiber: 2.6 g
+Sugar: 2.04 g
+
+Fats:
+Saturated fat: 0.96 g
+Monounsaturated fat: 1.06 g
+Polyunsaturated fat: 0.13 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 226 mg
+Calcium: 22 mg
+Iron: 0.5 mg
+Magnesium: 13 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 723 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin K: 7.4 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.3 µg
+Folate: 17 µg

@@ -1,0 +1,32 @@
+Food: Lamb, shoulder, blade, separable lean and fat, trimmed to 1/8" fat, choice, cooked, braised
+Food ID: 172557
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 28.92 g
+Carbohydrates: 0 g
+Fat: 23.88 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 9.88 g
+Monounsaturated fat: 9.74 g
+Polyunsaturated fat: 1.97 g
+Cholesterol: 116 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 244 mg
+Calcium: 27 mg
+Iron: 2.38 mg
+Magnesium: 24 mg
+Zinc: 6.98 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 2.84 µg
+Folate: 18 µg

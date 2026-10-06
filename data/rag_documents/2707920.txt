@@ -1,0 +1,36 @@
+Food: Cookie, chocolate sandwich
+Food ID: 2707920
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 464 kcal
+Protein: 5.21 g
+Carbohydrates: 71 g
+Fat: 19.14 g
+Fiber: 2.9 g
+Sugar: 40.67 g
+
+Fats:
+Saturated fat: 5.649 g
+Monounsaturated fat: 9.278 g
+Polyunsaturated fat: 3.561 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 388 mg
+Potassium: 234 mg
+Calcium: 21 mg
+Iron: 12.14 mg
+Magnesium: 47 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.47 mg
+Vitamin K: 27.4 µg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0 µg
+Folate: 61 µg

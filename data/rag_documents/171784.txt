@@ -1,0 +1,35 @@
+Food: Beef, chuck, clod roast, separable lean and fat, trimmed to 0" fat, select, cooked, roasted
+Food ID: 171784
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 196 kcal
+Protein: 27.3 g
+Carbohydrates: 0 g
+Fat: 8.76 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.349 g
+Monounsaturated fat: 4.173 g
+Polyunsaturated fat: 0.446 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 372 mg
+Calcium: 7 mg
+Iron: 3.09 mg
+Magnesium: 21 mg
+Zinc: 6.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.16 mg
+Vitamin B6: 0.284 mg
+Vitamin B12: 3.15 µg
+Folate: 10 µg

@@ -1,0 +1,36 @@
+Food: Baby Toddler sweet potatoes, Stage 1
+Food ID: 2710122
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 1.1 g
+Carbohydrates: 13.2 g
+Fat: 0.1 g
+Fiber: 1.5 g
+Sugar: 4.05 g
+
+Fats:
+Saturated fat: 0.021 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.044 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 22 mg
+Potassium: 263 mg
+Calcium: 16 mg
+Iron: 0.37 mg
+Magnesium: 13 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 322 µg
+Vitamin C: 9.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

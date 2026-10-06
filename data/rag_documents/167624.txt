@@ -1,0 +1,19 @@
+Food: Whale, bowhead, skin and subcutaneous fat (muktuk) (Alaska Native)
+Food ID: 167624
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 465 kcal
+Protein: 12.6 g
+Carbohydrates: 0 g
+Fat: 46.1 g
+
+Fats:
+Saturated fat: 6.56 g
+Monounsaturated fat: 28.12 g
+Polyunsaturated fat: 7.97 g
+Cholesterol: 54 mg
+
+Minerals:
+Calcium: 5 mg

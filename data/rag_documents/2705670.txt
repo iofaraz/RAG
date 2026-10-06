@@ -1,0 +1,36 @@
+Food: Light ice cream bar, vanilla
+Food ID: 2705670
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 3.23 g
+Carbohydrates: 18.76 g
+Fat: 16.65 g
+Fiber: 0.1 g
+Sugar: 10.54 g
+
+Fats:
+Saturated fat: 13.057 g
+Monounsaturated fat: 1.845 g
+Polyunsaturated fat: 0.53 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 149 mg
+Calcium: 110 mg
+Iron: 0.16 mg
+Magnesium: 9 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 79 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.36 µg
+Folate: 4 µg

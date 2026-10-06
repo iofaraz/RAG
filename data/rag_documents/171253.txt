@@ -1,0 +1,32 @@
+Food: Cheese food, pasteurized process, swiss
+Food ID: 171253
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 21.92 g
+Carbohydrates: 4.5 g
+Fat: 24.14 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 15.487 g
+Monounsaturated fat: 6.801 g
+Polyunsaturated fat: 0.6 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 1552 mg
+Potassium: 284 mg
+Calcium: 723 mg
+Iron: 0.6 mg
+Magnesium: 28 mg
+Zinc: 3.55 mg
+
+Vitamins:
+Vitamin A: 237 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.035 mg
+Vitamin B12: 2.3 µg
+Folate: 6 µg

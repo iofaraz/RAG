@@ -1,0 +1,32 @@
+Food: Milk, producer, fluid, 3.7% milkfat
+Food ID: 171266
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 3.28 g
+Carbohydrates: 4.65 g
+Fat: 3.66 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.278 g
+Monounsaturated fat: 1.057 g
+Polyunsaturated fat: 0.136 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 151 mg
+Calcium: 119 mg
+Iron: 0.05 mg
+Magnesium: 13 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 1.5 mg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.36 µg
+Folate: 5 µg

@@ -1,0 +1,36 @@
+Food: Margarine, light
+Food ID: 2710162
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 0.33 g
+Carbohydrates: 1.22 g
+Fat: 37.91 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.649 g
+Monounsaturated fat: 12.16 g
+Polyunsaturated fat: 14.916 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 586 mg
+Potassium: 45 mg
+Calcium: 6 mg
+Iron: 0.03 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1330 µg
+Vitamin C: 0 mg
+Vitamin D: 3.7 µg
+Vitamin E: 13.45 mg
+Vitamin K: 74.6 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.06 µg
+Folate: 2 µg

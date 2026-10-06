@@ -1,0 +1,37 @@
+Food: Babyfood, mashed cheddar potatoes and broccoli, toddlers
+Food ID: 170989
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 1.11 g
+Carbohydrates: 7.47 g
+Fat: 1.47 g
+Fiber: 1.2 g
+Sugar: 1.17 g
+
+Fats:
+Saturated fat: 0.875 g
+Monounsaturated fat: 0.37 g
+Polyunsaturated fat: 0.092 g
+Trans fat: 0 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 118 mg
+Calcium: 20 mg
+Iron: 0.16 mg
+Magnesium: 8 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 0.089 mg
+Vitamin B12: 0.01 µg
+Folate: 6 µg

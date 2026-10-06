@@ -1,0 +1,36 @@
+Food: Duck, roasted, skin eaten
+Food ID: 2706139
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 336 kcal
+Protein: 18.91 g
+Carbohydrates: 0 g
+Fat: 28.23 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.63 g
+Monounsaturated fat: 12.846 g
+Polyunsaturated fat: 3.635 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 221 mg
+Potassium: 203 mg
+Calcium: 11 mg
+Iron: 2.69 mg
+Magnesium: 16 mg
+Zinc: 1.85 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.7 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.179 mg
+Vitamin B12: 0.3 µg
+Folate: 6 µg

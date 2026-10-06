@@ -1,0 +1,33 @@
+Food: Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned
+Food ID: 170578
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 443 kcal
+Protein: 3.35 g
+Carbohydrates: 40.91 g
+Fat: 31.69 g
+Fiber: 4.5 g
+
+Fats:
+Saturated fat: 28.101 g
+Monounsaturated fat: 1.348 g
+Polyunsaturated fat: 0.347 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 324 mg
+Calcium: 14 mg
+Iron: 1.84 mg
+Magnesium: 49 mg
+Zinc: 1.59 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.237 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

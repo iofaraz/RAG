@@ -1,0 +1,31 @@
+Food: Snacks, beef sticks, smoked
+Food ID: 168850
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 550 kcal
+Protein: 21.5 g
+Carbohydrates: 5.4 g
+Fat: 49.6 g
+
+Fats:
+Saturated fat: 20.8 g
+Monounsaturated fat: 20.47 g
+Polyunsaturated fat: 4.42 g
+Cholesterol: 133 mg
+
+Minerals:
+Sodium: 1531 mg
+Potassium: 257 mg
+Calcium: 68 mg
+Iron: 3.4 mg
+Magnesium: 21 mg
+Zinc: 2.42 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 6.8 mg
+Vitamin B6: 0.205 mg
+Vitamin B12: 1 µg
+Folate: 0 µg

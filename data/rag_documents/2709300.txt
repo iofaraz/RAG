@@ -1,0 +1,36 @@
+Food: Fruit salad, including citrus fruits, with pudding
+Food ID: 2709300
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 1.95 g
+Carbohydrates: 17.49 g
+Fat: 6.34 g
+Fiber: 1.8 g
+Sugar: 12.8 g
+
+Fats:
+Saturated fat: 0.727 g
+Monounsaturated fat: 1.261 g
+Polyunsaturated fat: 3.844 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 195 mg
+Calcium: 30 mg
+Iron: 0.26 mg
+Magnesium: 21 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 15.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0.03 µg
+Folate: 18 µg

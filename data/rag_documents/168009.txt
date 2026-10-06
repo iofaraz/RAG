@@ -1,0 +1,30 @@
+Food: Schar, Gluten-Free, Wheat-Free, Classic White Bread
+Food ID: 168009
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 3.81 g
+Carbohydrates: 46.13 g
+Fat: 4.47 g
+Fiber: 5.1 g
+Sugar: 3.34 g
+
+Fats:
+Saturated fat: 0.977 g
+Monounsaturated fat: 2.009 g
+Polyunsaturated fat: 0.516 g
+Trans fat: 0.01 g
+
+Minerals:
+Sodium: 441 mg
+Potassium: 66 mg
+Calcium: 159 mg
+Iron: 3.17 mg
+Magnesium: 11 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin B6: 0.037 mg
+Folate: 15 µg

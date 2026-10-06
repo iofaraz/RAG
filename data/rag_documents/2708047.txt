@@ -1,0 +1,36 @@
+Food: Pastry, fruit-filled
+Food ID: 2708047
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 400 kcal
+Protein: 4.76 g
+Carbohydrates: 54.43 g
+Fat: 19.61 g
+Fiber: 4 g
+Sugar: 25.92 g
+
+Fats:
+Saturated fat: 3.825 g
+Monounsaturated fat: 8.689 g
+Polyunsaturated fat: 5.643 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 366 mg
+Calcium: 30 mg
+Iron: 1.93 mg
+Magnesium: 32 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.11 mg
+Vitamin K: 31 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0.04 µg
+Folate: 31 µg

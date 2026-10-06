@@ -1,0 +1,36 @@
+Food: Pasta, whole grain, with tomato-based sauce and poultry, home recipe
+Food ID: 2708892
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 6.14 g
+Carbohydrates: 18.74 g
+Fat: 2.15 g
+Fiber: 2.7 g
+Sugar: 2.54 g
+
+Fats:
+Saturated fat: 0.364 g
+Monounsaturated fat: 0.473 g
+Polyunsaturated fat: 0.673 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 199 mg
+Potassium: 201 mg
+Calcium: 19 mg
+Iron: 1.29 mg
+Magnesium: 37 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.08 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.152 mg
+Vitamin B12: 0.1 µg
+Folate: 17 µg

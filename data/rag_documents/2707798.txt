@@ -1,0 +1,36 @@
+Food: Bread, gluten free, toasted
+Food ID: 2707798
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 4.74 g
+Carbohydrates: 50.31 g
+Fat: 5.76 g
+Fiber: 4.7 g
+Sugar: 3.88 g
+
+Fats:
+Saturated fat: 1.074 g
+Monounsaturated fat: 2.208 g
+Polyunsaturated fat: 0.567 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 491 mg
+Potassium: 82 mg
+Calcium: 152 mg
+Iron: 2.89 mg
+Magnesium: 13 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.66 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

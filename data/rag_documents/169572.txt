@@ -1,0 +1,23 @@
+Food: Alcoholic beverage, beer, light, BUD LIGHT
+Food ID: 169572
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 0.25 g
+Carbohydrates: 1.3 g
+Fat: 0 g
+Fiber: 0 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 26 mg
+Calcium: 3 mg
+Iron: 0 mg
+Magnesium: 7 mg
+Zinc: 0 mg

@@ -1,0 +1,29 @@
+Food: Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0" fat, select, raw
+Food ID: 334898
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 23.4 g
+Carbohydrates: 0 g
+Fat: 2.48 g
+
+Fats:
+Saturated fat: 0.953 g
+Monounsaturated fat: 0.951 g
+Polyunsaturated fat: 0.192 g
+Trans fat: 0.129 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 312 mg
+Calcium: 13 mg
+Iron: 1.37 mg
+Magnesium: 11.4 mg
+Zinc: 3.38 mg
+
+Vitamins:
+Vitamin B6: 0.638 mg
+Vitamin B12: 2.06 µg

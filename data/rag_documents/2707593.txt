@@ -1,0 +1,36 @@
+Food: Bread, made from home recipe or purchased at a bakery, NS as to major flour
+Food ID: 2707593
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 10.13 g
+Carbohydrates: 50.26 g
+Fat: 3.44 g
+Fiber: 1.7 g
+Sugar: 3.11 g
+
+Fats:
+Saturated fat: 1.159 g
+Monounsaturated fat: 0.805 g
+Polyunsaturated fat: 0.796 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 565 mg
+Potassium: 118 mg
+Calcium: 38 mg
+Iron: 3.61 mg
+Magnesium: 26 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.33 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0.06 µg
+Folate: 79 µg

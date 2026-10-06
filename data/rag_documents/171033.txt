@@ -1,0 +1,27 @@
+Food: Oil, vegetable, Natreon canola, high stability, non trans, high oleic (70%)
+Food ID: 171033
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 884 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.511 g
+Monounsaturated fat: 71.991 g
+Polyunsaturated fat: 17.098 g
+Trans fat: 0.767 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 21.8 mg

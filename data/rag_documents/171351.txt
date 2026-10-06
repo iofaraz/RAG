@@ -1,0 +1,36 @@
+Food: Babyfood, apple-banana juice
+Food ID: 171351
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 0.2 g
+Carbohydrates: 12.3 g
+Fat: 0.1 g
+Fiber: 0.2 g
+Sugar: 11 g
+
+Fats:
+Saturated fat: 0.018 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.034 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 123 mg
+Calcium: 7 mg
+Iron: 0.2 mg
+Magnesium: 6 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 27.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

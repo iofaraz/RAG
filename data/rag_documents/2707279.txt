@@ -1,0 +1,36 @@
+Food: Egg omelet or scrambled egg, with potatoes and/or onions, NS as to fat
+Food ID: 2707279
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 10.41 g
+Carbohydrates: 2.97 g
+Fat: 13.18 g
+Fiber: 0.3 g
+Sugar: 0.47 g
+
+Fats:
+Saturated fat: 3.934 g
+Monounsaturated fat: 4.749 g
+Polyunsaturated fat: 2.933 g
+Cholesterol: 340 mg
+
+Minerals:
+Sodium: 218 mg
+Potassium: 159 mg
+Calcium: 42 mg
+Iron: 1.47 mg
+Magnesium: 12 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 170 µg
+Vitamin C: 1.1 mg
+Vitamin D: 2.1 µg
+Vitamin E: 1.61 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0.67 µg
+Folate: 47 µg

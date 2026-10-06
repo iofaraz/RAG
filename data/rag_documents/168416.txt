@@ -1,0 +1,31 @@
+Food: Drumstick leaves, raw
+Food ID: 168416
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 9.4 g
+Carbohydrates: 8.28 g
+Fat: 1.4 g
+Fiber: 2 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 337 mg
+Calcium: 185 mg
+Iron: 4 mg
+Magnesium: 42 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 378 µg
+Vitamin C: 51.7 mg
+Vitamin D: 0 µg
+Vitamin B6: 1.2 mg
+Vitamin B12: 0 µg
+Folate: 40 µg

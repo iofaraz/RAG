@@ -1,0 +1,36 @@
+Food: Green peas, frozen, cooked with oil
+Food ID: 2709968
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 4.99 g
+Carbohydrates: 13.8 g
+Fat: 3.17 g
+Fiber: 4.4 g
+Sugar: 4.26 g
+
+Fats:
+Saturated fat: 0.436 g
+Monounsaturated fat: 1.254 g
+Polyunsaturated fat: 1.24 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 182 mg
+Potassium: 106 mg
+Calcium: 23 mg
+Iron: 1.48 mg
+Magnesium: 21 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 102 µg
+Vitamin C: 9.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.58 mg
+Vitamin K: 26.2 µg
+Vitamin B6: 0.109 mg
+Vitamin B12: 0 µg
+Folate: 57 µg

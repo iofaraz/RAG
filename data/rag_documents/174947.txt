@@ -1,0 +1,37 @@
+Food: Cake, yellow, enriched, dry mix
+Food ID: 174947
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 3.7 g
+Carbohydrates: 81.92 g
+Fat: 3.5 g
+Fiber: 1.2 g
+Sugar: 43.29 g
+
+Fats:
+Saturated fat: 1.62 g
+Monounsaturated fat: 0.694 g
+Polyunsaturated fat: 0.231 g
+Trans fat: 0.231 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 728 mg
+Potassium: 47 mg
+Calcium: 211 mg
+Iron: 2.08 mg
+Magnesium: 10 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.1 µg
+Folate: 68 µg

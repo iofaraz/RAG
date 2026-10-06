@@ -1,0 +1,37 @@
+Food: Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, with salt
+Food ID: 173799
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 164 kcal
+Protein: 8.86 g
+Carbohydrates: 27.42 g
+Fat: 2.59 g
+Fiber: 7.6 g
+Sugar: 4.8 g
+
+Fats:
+Saturated fat: 0.269 g
+Monounsaturated fat: 0.583 g
+Polyunsaturated fat: 1.156 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 243 mg
+Potassium: 291 mg
+Calcium: 49 mg
+Iron: 2.89 mg
+Magnesium: 48 mg
+Zinc: 1.53 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.35 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.139 mg
+Vitamin B12: 0 µg
+Folate: 172 µg

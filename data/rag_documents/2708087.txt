@@ -1,0 +1,36 @@
+Food: Cereal or granola bar (Kellogg's Special K bar)
+Food ID: 2708087
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 409 kcal
+Protein: 9.09 g
+Carbohydrates: 72.73 g
+Fat: 9.09 g
+Fiber: 1.8 g
+Sugar: 31.8 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 6.567 g
+Polyunsaturated fat: 2.049 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 428 mg
+Potassium: 143 mg
+Calcium: 31 mg
+Iron: 2.56 mg
+Magnesium: 46 mg
+Zinc: 1.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.94 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.909 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

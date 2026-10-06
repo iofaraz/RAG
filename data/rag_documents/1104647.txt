@@ -1,0 +1,14 @@
+Food: Garlic, raw
+Food ID: 1104647
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 6.62 g
+Carbohydrates: 28.2 g
+Fat: 0.38 g
+Fiber: 2.7 g
+
+Vitamins:
+Vitamin C: 10 mg

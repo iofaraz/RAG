@@ -1,0 +1,36 @@
+Food: Stewed potatoes with tomatoes
+Food ID: 2709555
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 87 kcal
+Protein: 1.71 g
+Carbohydrates: 12.89 g
+Fat: 3.29 g
+Fiber: 1.9 g
+Sugar: 1.68 g
+
+Fats:
+Saturated fat: 0.434 g
+Monounsaturated fat: 1.295 g
+Polyunsaturated fat: 1.219 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 146 mg
+Potassium: 386 mg
+Calcium: 10 mg
+Iron: 0.36 mg
+Magnesium: 20 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 15.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.76 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.121 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

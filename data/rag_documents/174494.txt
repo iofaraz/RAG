@@ -1,0 +1,37 @@
+Food: Turkey, ground, 85% lean, 15% fat, pan-broiled crumbles
+Food ID: 174494
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 25.11 g
+Carbohydrates: 0 g
+Fat: 17.45 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.572 g
+Monounsaturated fat: 6.05 g
+Polyunsaturated fat: 4.624 g
+Trans fat: 0.243 g
+Cholesterol: 106 mg
+
+Minerals:
+Sodium: 85 mg
+Potassium: 276 mg
+Calcium: 49 mg
+Iron: 1.98 mg
+Magnesium: 28 mg
+Zinc: 3.56 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.462 mg
+Vitamin B12: 1.6 µg
+Folate: 7 µg

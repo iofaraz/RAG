@@ -1,0 +1,32 @@
+Food: Crustaceans, crab, queen, raw
+Food ID: 171969
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 18.5 g
+Carbohydrates: 0 g
+Fat: 1.18 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.143 g
+Monounsaturated fat: 0.256 g
+Polyunsaturated fat: 0.422 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 539 mg
+Potassium: 173 mg
+Calcium: 26 mg
+Iron: 2.5 mg
+Magnesium: 49 mg
+Zinc: 2.8 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 7 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 9 µg
+Folate: 44 µg

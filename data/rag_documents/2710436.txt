@@ -1,0 +1,36 @@
+Food: Coffee, Iced Latte, with non-dairy milk, flavored
+Food ID: 2710436
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 0.59 g
+Carbohydrates: 5.16 g
+Fat: 0.84 g
+Fiber: 0 g
+Sugar: 4.39 g
+
+Fats:
+Saturated fat: 0.095 g
+Monounsaturated fat: 0.389 g
+Polyunsaturated fat: 0.269 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 46 mg
+Calcium: 77 mg
+Iron: 0.18 mg
+Magnesium: 19 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.03 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.006 mg
+Vitamin B12: 0.19 µg
+Folate: 2 µg

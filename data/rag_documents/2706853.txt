@@ -1,0 +1,36 @@
+Food: Shrimp and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce
+Food ID: 2706853
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 9.16 g
+Carbohydrates: 5.15 g
+Fat: 6.4 g
+Fiber: 1.2 g
+Sugar: 1.5 g
+
+Fats:
+Saturated fat: 0.968 g
+Monounsaturated fat: 2.525 g
+Polyunsaturated fat: 2.401 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 247 mg
+Potassium: 217 mg
+Calcium: 54 mg
+Iron: 0.46 mg
+Magnesium: 24 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 166 µg
+Vitamin C: 14.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.04 mg
+Vitamin K: 34.3 µg
+Vitamin B6: 0.183 mg
+Vitamin B12: 0.65 µg
+Folate: 24 µg

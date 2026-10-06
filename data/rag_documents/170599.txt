@@ -1,0 +1,37 @@
+Food: Beef, variety meats and by-products, tripe, raw
+Food ID: 170599
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 12.07 g
+Carbohydrates: 0 g
+Fat: 3.69 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.291 g
+Monounsaturated fat: 1.533 g
+Polyunsaturated fat: 0.18 g
+Trans fat: 0.15 g
+Cholesterol: 122 mg
+
+Minerals:
+Sodium: 97 mg
+Potassium: 67 mg
+Calcium: 69 mg
+Iron: 0.59 mg
+Magnesium: 13 mg
+Zinc: 1.42 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.014 mg
+Vitamin B12: 1.39 µg
+Folate: 5 µg

@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, tunnel-boned leg, chump off, shank off, separable lean and fat, cooked, slow roasted
+Food ID: 172642
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 23.41 g
+Carbohydrates: 0.03 g
+Fat: 12.68 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.788 g
+Monounsaturated fat: 3.574 g
+Polyunsaturated fat: 0.591 g
+Trans fat: 0.573 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 349 mg
+Calcium: 4 mg
+Iron: 1.64 mg
+Magnesium: 24 mg
+Zinc: 3.45 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin B6: 0.253 mg
+Vitamin B12: 1.49 µg

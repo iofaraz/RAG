@@ -1,0 +1,36 @@
+Food: Fish, bass, steamed
+Food ID: 2706299
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 23.28 g
+Carbohydrates: 0 g
+Fat: 2.53 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.646 g
+Monounsaturated fat: 0.536 g
+Polyunsaturated fat: 0.939 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 184 mg
+Potassium: 323 mg
+Calcium: 13 mg
+Iron: 0.37 mg
+Magnesium: 52 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0 mg
+Vitamin D: 7.1 µg
+Vitamin E: 1.06 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.455 mg
+Vitamin B12: 0.34 µg
+Folate: 6 µg

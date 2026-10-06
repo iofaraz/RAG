@@ -1,0 +1,36 @@
+Food: Bread, sunflower meal, toasted
+Food ID: 2707793
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 336 kcal
+Protein: 12.26 g
+Carbohydrates: 52.73 g
+Fat: 9.05 g
+Fiber: 2.9 g
+Sugar: 3.4 g
+
+Fats:
+Saturated fat: 1.742 g
+Monounsaturated fat: 1.874 g
+Polyunsaturated fat: 4.503 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 563 mg
+Potassium: 213 mg
+Calcium: 46 mg
+Iron: 4.02 mg
+Magnesium: 41 mg
+Zinc: 1.41 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 3.27 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.154 mg
+Vitamin B12: 0.06 µg
+Folate: 89 µg

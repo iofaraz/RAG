@@ -1,0 +1,34 @@
+Food: Lupins, mature seeds, cooked, boiled, with salt
+Food ID: 173804
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 15.57 g
+Carbohydrates: 9.29 g
+Fat: 2.92 g
+Fiber: 2.8 g
+
+Fats:
+Saturated fat: 0.346 g
+Monounsaturated fat: 1.18 g
+Polyunsaturated fat: 0.73 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 245 mg
+Calcium: 51 mg
+Iron: 1.2 mg
+Magnesium: 54 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

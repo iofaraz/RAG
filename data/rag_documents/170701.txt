@@ -1,0 +1,31 @@
+Food: School Lunch, pizza, BIG DADDY'S LS 16" 51% Whole Grain Rolled Edge Turkey Pepperoni Pizza, frozen
+Food ID: 170701
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 248 kcal
+Protein: 13.63 g
+Carbohydrates: 27.35 g
+Fat: 9.33 g
+Fiber: 4.1 g
+Sugar: 3.83 g
+
+Fats:
+Saturated fat: 3.99 g
+Monounsaturated fat: 2.75 g
+Polyunsaturated fat: 1.15 g
+Trans fat: 0.29 g
+
+Minerals:
+Sodium: 450 mg
+Potassium: 293 mg
+Calcium: 147 mg
+Iron: 2.4 mg
+Magnesium: 39 mg
+Zinc: 1.83 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin B6: 0.136 mg
+Vitamin B12: 1.13 µg

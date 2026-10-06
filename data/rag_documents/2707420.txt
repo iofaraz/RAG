@@ -1,0 +1,36 @@
+Food: Split peas, from dried, no added fat
+Food ID: 2707420
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 8.29 g
+Carbohydrates: 20.97 g
+Fat: 0.39 g
+Fiber: 8.2 g
+Sugar: 2.88 g
+
+Fats:
+Saturated fat: 0.054 g
+Monounsaturated fat: 0.081 g
+Polyunsaturated fat: 0.164 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 233 mg
+Potassium: 360 mg
+Calcium: 14 mg
+Iron: 1.28 mg
+Magnesium: 36 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0 µg
+Folate: 61 µg

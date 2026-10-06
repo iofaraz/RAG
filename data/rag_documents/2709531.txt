@@ -1,0 +1,36 @@
+Food: Potato salad with egg, from restaurant
+Food ID: 2709531
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 175 kcal
+Protein: 3.04 g
+Carbohydrates: 15.37 g
+Fat: 11.35 g
+Fiber: 1.1 g
+Sugar: 1.8 g
+
+Fats:
+Saturated fat: 1.972 g
+Monounsaturated fat: 2.768 g
+Polyunsaturated fat: 6.152 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 333 mg
+Potassium: 286 mg
+Calcium: 12 mg
+Iron: 0.44 mg
+Magnesium: 19 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 8.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.6 mg
+Vitamin K: 23.1 µg
+Vitamin B6: 0.221 mg
+Vitamin B12: 0.15 µg
+Folate: 13 µg

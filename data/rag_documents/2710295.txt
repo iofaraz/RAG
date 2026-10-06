@@ -1,0 +1,36 @@
+Food: Dessert dip
+Food ID: 2710295
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 6.01 g
+Carbohydrates: 22.48 g
+Fat: 15.05 g
+Fiber: 0 g
+Sugar: 22.18 g
+
+Fats:
+Saturated fat: 8.819 g
+Monounsaturated fat: 3.236 g
+Polyunsaturated fat: 0.703 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 170 mg
+Potassium: 104 mg
+Calcium: 82 mg
+Iron: 0.02 mg
+Magnesium: 8 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 160 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.37 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.27 µg
+Folate: 8 µg

@@ -1,0 +1,36 @@
+Food: Bread, reduced-calorie, oat bran
+Food ID: 172682
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 8 g
+Carbohydrates: 41.3 g
+Fat: 3.2 g
+Fiber: 12 g
+Sugar: 3.52 g
+
+Fats:
+Saturated fat: 0.445 g
+Monounsaturated fat: 0.684 g
+Polyunsaturated fat: 1.67 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 459 mg
+Potassium: 102 mg
+Calcium: 57 mg
+Iron: 3.15 mg
+Magnesium: 55 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0 µg
+Folate: 81 µg

@@ -1,0 +1,36 @@
+Food: Lamb or mutton and potatoes with tomato-based sauce
+Food ID: 2706523
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 5.26 g
+Carbohydrates: 12.48 g
+Fat: 6.22 g
+Fiber: 1.5 g
+Sugar: 1.63 g
+
+Fats:
+Saturated fat: 1.812 g
+Monounsaturated fat: 2.579 g
+Polyunsaturated fat: 1.339 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 301 mg
+Potassium: 322 mg
+Calcium: 12 mg
+Iron: 0.78 mg
+Magnesium: 19 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 6.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.197 mg
+Vitamin B12: 0.41 µg
+Folate: 11 µg

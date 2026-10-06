@@ -1,0 +1,36 @@
+Food: Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0" fat, all grades, cooked, braised
+Food ID: 173383
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 28.36 g
+Carbohydrates: 0 g
+Fat: 20.57 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.103 g
+Monounsaturated fat: 9.271 g
+Polyunsaturated fat: 0.805 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 68 mg
+Potassium: 284 mg
+Calcium: 22 mg
+Iron: 2.66 mg
+Magnesium: 26 mg
+Zinc: 6.1 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.1 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.567 mg
+Vitamin B12: 2.3 µg
+Folate: 7 µg

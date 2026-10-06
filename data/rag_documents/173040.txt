@@ -1,0 +1,27 @@
+Food: Grapes, muscadine, raw
+Food ID: 173040
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 0.81 g
+Carbohydrates: 13.93 g
+Fat: 0.47 g
+Fiber: 3.9 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 203 mg
+Calcium: 37 mg
+Iron: 0.26 mg
+Magnesium: 14 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 6.5 mg
+Folate: 2 µg

@@ -1,0 +1,37 @@
+Food: Tomatoes, crushed, canned
+Food ID: 170501
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 1.64 g
+Carbohydrates: 7.29 g
+Fat: 0.28 g
+Fiber: 1.9 g
+Sugar: 4.4 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.043 g
+Polyunsaturated fat: 0.113 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 186 mg
+Potassium: 293 mg
+Calcium: 34 mg
+Iron: 1.3 mg
+Magnesium: 20 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 9.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.25 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

@@ -1,0 +1,36 @@
+Food: Sandwich spread
+Food ID: 2710172
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 389 kcal
+Protein: 0.9 g
+Carbohydrates: 22.4 g
+Fat: 34 g
+Fiber: 0.4 g
+Sugar: 15.18 g
+
+Fats:
+Saturated fat: 5.1 g
+Monounsaturated fat: 7.4 g
+Polyunsaturated fat: 20 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 1000 mg
+Potassium: 35 mg
+Calcium: 14 mg
+Iron: 0.2 mg
+Magnesium: 2 mg
+Zinc: 0.81 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 4 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.21 µg
+Folate: 6 µg

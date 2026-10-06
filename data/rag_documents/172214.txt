@@ -1,0 +1,36 @@
+Food: Cream substitute, flavored, powdered
+Food ID: 172214
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 482 kcal
+Protein: 0.68 g
+Carbohydrates: 75.42 g
+Fat: 21.47 g
+Fiber: 1.2 g
+Sugar: 58.01 g
+
+Fats:
+Saturated fat: 19.446 g
+Monounsaturated fat: 0.618 g
+Polyunsaturated fat: 0.229 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 123 mg
+Potassium: 90 mg
+Calcium: 5 mg
+Iron: 0.63 mg
+Magnesium: 17 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 9.1 µg
+Vitamin B6: 0.004 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

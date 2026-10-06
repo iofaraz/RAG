@@ -1,0 +1,20 @@
+Food: Lamb, ground, raw
+Food ID: 2727570
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 17.4625 g
+Carbohydrates: 0 g
+Fat: 18.64 g
+
+Fats:
+Cholesterol: 75.02 mg
+
+Minerals:
+Sodium: 53.45 mg
+Potassium: 272.1 mg
+Calcium: 6.575 mg
+Iron: 1.643 mg
+Magnesium: 17.48 mg
+Zinc: 3.13 mg

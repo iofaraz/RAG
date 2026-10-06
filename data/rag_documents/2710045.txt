@@ -1,0 +1,36 @@
+Food: Stuffed jalapeno pepper
+Food ID: 2710045
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 8.82 g
+Carbohydrates: 16.5 g
+Fat: 15.93 g
+Fiber: 2.5 g
+Sugar: 3.73 g
+
+Fats:
+Saturated fat: 6.341 g
+Monounsaturated fat: 5.233 g
+Polyunsaturated fat: 2.815 g
+Cholesterol: 141 mg
+
+Minerals:
+Sodium: 444 mg
+Potassium: 232 mg
+Calcium: 120 mg
+Iron: 1.9 mg
+Magnesium: 23 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 131 µg
+Vitamin C: 50.7 mg
+Vitamin D: 0.8 µg
+Vitamin E: 2.79 mg
+Vitamin K: 19.7 µg
+Vitamin B6: 0.25 mg
+Vitamin B12: 0.42 µg
+Folate: 48 µg

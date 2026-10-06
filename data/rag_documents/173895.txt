@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, CORN BURSTS
+Food ID: 173895
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 385 kcal
+Protein: 3.32 g
+Carbohydrates: 90.59 g
+Fat: 0.35 g
+Fiber: 1.9 g
+Sugar: 46.88 g
+
+Fats:
+Saturated fat: 0.093 g
+Monounsaturated fat: 0.084 g
+Polyunsaturated fat: 0.157 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 855 mg
+Potassium: 71 mg
+Calcium: 5 mg
+Iron: 5.8 mg
+Magnesium: 4 mg
+Zinc: 4.84 mg
+
+Vitamins:
+Vitamin A: 700 µg
+Vitamin C: 48.4 mg
+Vitamin D: 3.2 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0 µg
+Vitamin B6: 3.23 mg
+Vitamin B12: 4.84 µg
+Folate: 323 µg

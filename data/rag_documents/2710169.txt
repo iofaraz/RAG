@@ -1,0 +1,36 @@
+Food: Garlic sauce
+Food ID: 2710169
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 683 kcal
+Protein: 1.43 g
+Carbohydrates: 2.87 g
+Fat: 74.02 g
+Fiber: 0.3 g
+Sugar: 0.62 g
+
+Fats:
+Saturated fat: 41.049 g
+Monounsaturated fat: 15.211 g
+Polyunsaturated fat: 2.293 g
+Cholesterol: 212 mg
+
+Minerals:
+Sodium: 473 mg
+Potassium: 61 mg
+Calcium: 37 mg
+Iron: 0.22 mg
+Magnesium: 4 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 682 µg
+Vitamin C: 1 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.01 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

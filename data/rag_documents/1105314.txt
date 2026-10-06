@@ -1,0 +1,26 @@
+Food: Bananas, ripe and slightly ripe, raw
+Food ID: 1105314
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 0.74 g
+Carbohydrates: 23 g
+Fat: 0.29 g
+Fiber: 1.7 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 326 mg
+Calcium: 5 mg
+Iron: 0 mg
+Magnesium: 28 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 12.3 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.209 mg
+Folate: 14 µg

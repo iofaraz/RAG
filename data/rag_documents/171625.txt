@@ -1,0 +1,37 @@
+Food: Frankfurter, turkey
+Food ID: 171625
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 223 kcal
+Protein: 12.23 g
+Carbohydrates: 3.81 g
+Fat: 17.29 g
+Fiber: 0 g
+Sugar: 1.21 g
+
+Fats:
+Saturated fat: 4.028 g
+Monounsaturated fat: 5.736 g
+Polyunsaturated fat: 3.949 g
+Trans fat: 0.789 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 911 mg
+Potassium: 392 mg
+Calcium: 148 mg
+Iron: 1.47 mg
+Magnesium: 14 mg
+Zinc: 1.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.62 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 0.82 µg
+Folate: 9 µg

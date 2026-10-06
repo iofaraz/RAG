@@ -1,0 +1,37 @@
+Food: Beans, black, mature seeds, raw
+Food ID: 173734
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 21.6 g
+Carbohydrates: 62.36 g
+Fat: 1.42 g
+Fiber: 15.5 g
+Sugar: 2.12 g
+
+Fats:
+Saturated fat: 0.366 g
+Monounsaturated fat: 0.123 g
+Polyunsaturated fat: 0.61 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 1483 mg
+Calcium: 123 mg
+Iron: 5.02 mg
+Magnesium: 171 mg
+Zinc: 3.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 5.6 µg
+Vitamin B6: 0.286 mg
+Vitamin B12: 0 µg
+Folate: 444 µg

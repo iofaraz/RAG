@@ -1,0 +1,36 @@
+Food: Baby Toddler juice, grape
+Food ID: 2709375
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 0 g
+Carbohydrates: 15.38 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 15.3 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 90 mg
+Calcium: 12 mg
+Iron: 0.3 mg
+Magnesium: 10 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 33.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 16.9 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

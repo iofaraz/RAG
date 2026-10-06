@@ -1,0 +1,37 @@
+Food: Fruit juice smoothie, NAKED JUICE, GREEN MACHINE
+Food ID: 167796
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 0.6 g
+Carbohydrates: 12.53 g
+Fat: 0.26 g
+Fiber: 0.7 g
+Sugar: 11.15 g
+
+Fats:
+Saturated fat: 0.053 g
+Monounsaturated fat: 0.04 g
+Polyunsaturated fat: 0.073 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 165 mg
+Calcium: 11 mg
+Iron: 0.42 mg
+Magnesium: 10 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 8.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 21.2 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.63 µg
+Folate: 15 µg

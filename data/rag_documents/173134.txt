@@ -1,0 +1,30 @@
+Food: Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Honey Nut Oat Bar
+Food ID: 173134
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 22.5 g
+Carbohydrates: 55.13 g
+Fat: 7.87 g
+Fiber: 11 g
+Sugar: 26.26 g
+
+Fats:
+Saturated fat: 4.481 g
+Trans fat: 0.052 g
+
+Minerals:
+Sodium: 318 mg
+Iron: 18.15 mg
+Magnesium: 317 mg
+Zinc: 11.88 mg
+
+Vitamins:
+Vitamin C: 176.4 mg
+Vitamin D: 4.5 µg
+Vitamin E: 30.5 mg
+Vitamin B6: 4.525 mg
+Vitamin B12: 10.91 µg
+Folate: 905 µg

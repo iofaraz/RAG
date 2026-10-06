@@ -1,0 +1,36 @@
+Food: Toddler meal, pasta and vegetables
+Food ID: 2710137
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 3.02 g
+Carbohydrates: 13.49 g
+Fat: 1.41 g
+Fiber: 1.1 g
+Sugar: 1.61 g
+
+Fats:
+Saturated fat: 0.742 g
+Monounsaturated fat: 0.351 g
+Polyunsaturated fat: 0.159 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 132 mg
+Potassium: 88 mg
+Calcium: 57 mg
+Iron: 0.66 mg
+Magnesium: 13 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 102 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 6.7 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.03 µg
+Folate: 29 µg

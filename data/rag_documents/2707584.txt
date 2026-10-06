@@ -1,0 +1,36 @@
+Food: Sunflower seeds, flavored
+Food ID: 2707584
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 567 kcal
+Protein: 18.45 g
+Carbohydrates: 25.92 g
+Fat: 47.56 g
+Fiber: 10.6 g
+Sugar: 5.55 g
+
+Fats:
+Saturated fat: 4.983 g
+Monounsaturated fat: 9.075 g
+Polyunsaturated fat: 31.395 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 612 mg
+Potassium: 812 mg
+Calcium: 68 mg
+Iron: 3.63 mg
+Magnesium: 123 mg
+Zinc: 5.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0 µg
+Vitamin E: 24.92 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.768 mg
+Vitamin B12: 0 µg
+Folate: 226 µg

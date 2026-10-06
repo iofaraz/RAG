@@ -1,0 +1,36 @@
+Food: Beans, from fast food / restaurant, NS as to type
+Food ID: 2707352
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 8.77 g
+Carbohydrates: 22.6 g
+Fat: 9.32 g
+Fiber: 5.7 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 1.286 g
+Monounsaturated fat: 3.846 g
+Polyunsaturated fat: 3.597 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 354 mg
+Potassium: 505 mg
+Calcium: 82 mg
+Iron: 3.35 mg
+Magnesium: 57 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.56 mg
+Vitamin K: 12.2 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 69 µg

@@ -1,0 +1,31 @@
+Food: POPEYES, Fried Chicken, Mild, Wing, meat only, skin and breading removed
+Food ID: 170352
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 28.94 g
+Carbohydrates: 2.9 g
+Fat: 9.42 g
+
+Fats:
+Saturated fat: 3.079 g
+Monounsaturated fat: 4.024 g
+Polyunsaturated fat: 1.391 g
+Trans fat: 0.196 g
+Cholesterol: 156 mg
+
+Minerals:
+Sodium: 814 mg
+Potassium: 314 mg
+Calcium: 38 mg
+Iron: 0.92 mg
+Magnesium: 26 mg
+Zinc: 2.02 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin E: 0.39 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 0.75 µg

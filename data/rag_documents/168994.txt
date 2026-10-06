@@ -1,0 +1,27 @@
+Food: Cattail, Narrow Leaf Shoots (Northern Plains Indians)
+Food ID: 168994
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 25 kcal
+Protein: 1.18 g
+Carbohydrates: 5.14 g
+Fat: 0 g
+Fiber: 4.5 g
+Sugar: 0.22 g
+
+Minerals:
+Sodium: 109 mg
+Potassium: 309 mg
+Calcium: 54 mg
+Iron: 0.91 mg
+Magnesium: 63 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.7 mg
+Vitamin K: 22.8 µg
+Vitamin B6: 0.123 mg
+Folate: 3 µg

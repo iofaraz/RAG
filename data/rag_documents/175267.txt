@@ -1,0 +1,33 @@
+Food: Veal, composite of trimmed retail cuts, separable fat, cooked
+Food ID: 175267
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 642 kcal
+Protein: 9.42 g
+Carbohydrates: 0 g
+Fat: 66.74 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 32.39 g
+Monounsaturated fat: 27.98 g
+Polyunsaturated fat: 3.23 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 173 mg
+Calcium: 4 mg
+Iron: 1 mg
+Magnesium: 10 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.25 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.55 µg
+Folate: 5 µg

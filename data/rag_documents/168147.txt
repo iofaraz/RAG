@@ -1,0 +1,36 @@
+Food: Vital wheat gluten
+Food ID: 168147
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 370 kcal
+Protein: 75.16 g
+Carbohydrates: 13.79 g
+Fat: 1.85 g
+Fiber: 0.6 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.272 g
+Monounsaturated fat: 0.156 g
+Polyunsaturated fat: 0.81 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 29 mg
+Potassium: 100 mg
+Calcium: 142 mg
+Iron: 5.2 mg
+Magnesium: 25 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

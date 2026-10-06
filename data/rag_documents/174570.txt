@@ -1,0 +1,37 @@
+Food: Roast beef, deli style, prepackaged, sliced
+Food ID: 174570
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 18.62 g
+Carbohydrates: 0.64 g
+Fat: 3.69 g
+Fiber: 0 g
+Sugar: 0.29 g
+
+Fats:
+Saturated fat: 1.318 g
+Monounsaturated fat: 1.521 g
+Polyunsaturated fat: 0.27 g
+Trans fat: 0.148 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 853 mg
+Potassium: 647 mg
+Calcium: 5 mg
+Iron: 2.05 mg
+Magnesium: 20 mg
+Zinc: 3.2 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.49 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.46 mg
+Vitamin B12: 2.04 µg
+Folate: 5 µg

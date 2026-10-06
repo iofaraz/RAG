@@ -1,0 +1,36 @@
+Food: Shrimp chips
+Food ID: 2708246
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 426 kcal
+Protein: 7.14 g
+Carbohydrates: 59.09 g
+Fat: 17.86 g
+Fiber: 5.6 g
+Sugar: 21.43 g
+
+Fats:
+Saturated fat: 5.357 g
+Monounsaturated fat: 7.997 g
+Polyunsaturated fat: 3.971 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 571 mg
+Potassium: 193 mg
+Calcium: 20 mg
+Iron: 1.91 mg
+Magnesium: 72 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.28 mg
+Vitamin K: 12.8 µg
+Vitamin B6: 0.216 mg
+Vitamin B12: 0.02 µg
+Folate: 23 µg

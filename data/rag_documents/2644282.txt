@@ -1,0 +1,17 @@
+Food: Chickpeas, (garbanzo beans, bengal gram), dry
+Food ID: 2644282
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 21.275 g
+Carbohydrates: 60.358 g
+Fat: 6.274 g
+
+Minerals:
+Sodium: 8.779 mg
+Potassium: 1074 mg
+Calcium: 111.1 mg
+Iron: 5.094 mg
+Magnesium: 134.8 mg
+Zinc: 3.124 mg

@@ -1,0 +1,35 @@
+Food: Seaweed, Canadian Cultivated EMI-TSUNOMATA, dry
+Food ID: 167602
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 259 kcal
+Protein: 15.34 g
+Carbohydrates: 46.24 g
+Fat: 1.39 g
+Fiber: 36.7 g
+
+Fats:
+Saturated fat: 0.45 g
+Monounsaturated fat: 0.11 g
+Polyunsaturated fat: 0.75 g
+Trans fat: 0 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 4331 mg
+Potassium: 2944 mg
+Calcium: 299 mg
+Iron: 66.38 mg
+Magnesium: 692 mg
+Zinc: 2.53 mg
+
+Vitamins:
+Vitamin A: 406 µg
+Vitamin C: 29 mg
+Vitamin D: 3.1 µg
+Vitamin E: 5.53 mg
+Vitamin B6: 0.23 mg
+Vitamin B12: 2.25 µg
+Folate: 188 µg

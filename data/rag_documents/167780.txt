@@ -1,0 +1,27 @@
+Food: Prune puree
+Food ID: 167780
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 2.1 g
+Carbohydrates: 65.1 g
+Fat: 0.2 g
+Fiber: 3.3 g
+Sugar: 39 g
+
+Fats:
+Saturated fat: 0.016 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 852 mg
+Calcium: 31 mg
+Iron: 2.8 mg
+
+Vitamins:
+Vitamin A: 100 µg
+Vitamin C: 4.3 mg

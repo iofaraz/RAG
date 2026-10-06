@@ -1,0 +1,23 @@
+Food: Asparagus, green, raw
+Food ID: 2710823
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.4375 g
+Carbohydrates: 5.1012 g
+Fat: 0.2163 g
+Fiber: 1.883 g
+
+Minerals:
+Sodium: 2.46 mg
+Potassium: 277.5 mg
+Calcium: 20.58 mg
+Iron: 0.4436 mg
+Magnesium: 13.78 mg
+Zinc: 0.5955 mg
+
+Vitamins:
+Vitamin C: 9.153 mg
+Vitamin B6: 0.1118 mg
+Folate: 182.5 µg

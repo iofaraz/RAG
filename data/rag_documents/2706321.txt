@@ -1,0 +1,36 @@
+Food: Fish, tilapia, baked or broiled, coated
+Food ID: 2706321
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 22.33 g
+Carbohydrates: 7.79 g
+Fat: 6.63 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 1.866 g
+Monounsaturated fat: 2.193 g
+Polyunsaturated fat: 1.77 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 318 mg
+Potassium: 333 mg
+Calcium: 21 mg
+Iron: 1.17 mg
+Magnesium: 32 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 3.3 µg
+Vitamin E: 1.12 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.19 mg
+Vitamin B12: 1.51 µg
+Folate: 39 µg

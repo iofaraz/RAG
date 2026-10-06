@@ -1,0 +1,37 @@
+Food: Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)
+Food ID: 169380
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 0.37 g
+Carbohydrates: 33.73 g
+Fat: 0.26 g
+Fiber: 1.1 g
+Sugar: 26.68 g
+
+Fats:
+Saturated fat: 0.067 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.106 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 32 mg
+Calcium: 4 mg
+Iron: 0.59 mg
+Magnesium: 4 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 76.7 µg
+Vitamin B6: 0.015 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

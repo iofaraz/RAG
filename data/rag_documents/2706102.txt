@@ -1,0 +1,36 @@
+Food: Chicken tenders or strips, breaded, from frozen
+Food ID: 2706102
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 14.62 g
+Carbohydrates: 14.86 g
+Fat: 13.58 g
+Fiber: 1.7 g
+Sugar: 0.57 g
+
+Fats:
+Saturated fat: 2.437 g
+Monounsaturated fat: 4.081 g
+Polyunsaturated fat: 6.235 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 527 mg
+Potassium: 281 mg
+Calcium: 39 mg
+Iron: 0.84 mg
+Magnesium: 29 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.22 mg
+Vitamin K: 17.7 µg
+Vitamin B6: 0.338 mg
+Vitamin B12: 0.18 µg
+Folate: 28 µg

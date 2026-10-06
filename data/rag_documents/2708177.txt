@@ -1,0 +1,36 @@
+Food: Crackers, sandwich, cheese filled (Ritz)
+Food ID: 2708177
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 479 kcal
+Protein: 7.66 g
+Carbohydrates: 56.05 g
+Fat: 25.09 g
+Fiber: 2.5 g
+Sugar: 9.92 g
+
+Fats:
+Saturated fat: 5.271 g
+Monounsaturated fat: 10.814 g
+Polyunsaturated fat: 7.323 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 595 mg
+Potassium: 112 mg
+Calcium: 11 mg
+Iron: 2.65 mg
+Magnesium: 27 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.25 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.01 µg
+Folate: 98 µg

@@ -1,0 +1,36 @@
+Food: Cereal, other, chocolate
+Food ID: 2708484
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 5.37 g
+Carbohydrates: 81.44 g
+Fat: 4.61 g
+Fiber: 3.2 g
+Sugar: 34.97 g
+
+Fats:
+Saturated fat: 0.654 g
+Monounsaturated fat: 2.308 g
+Polyunsaturated fat: 1.194 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 486 mg
+Potassium: 120 mg
+Calcium: 90 mg
+Iron: 9.92 mg
+Magnesium: 36 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 11.4 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.6 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.697 mg
+Vitamin B12: 0.89 µg
+Folate: 222 µg

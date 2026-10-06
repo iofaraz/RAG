@@ -1,0 +1,36 @@
+Food: Turkey and ham sandwich on wheat
+Food ID: 2707091
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 170 kcal
+Protein: 13.94 g
+Carbohydrates: 19.65 g
+Fat: 3.84 g
+Fiber: 2.2 g
+Sugar: 2.43 g
+
+Fats:
+Saturated fat: 0.891 g
+Monounsaturated fat: 1.034 g
+Polyunsaturated fat: 1.11 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 679 mg
+Potassium: 311 mg
+Calcium: 73 mg
+Iron: 1.6 mg
+Magnesium: 35 mg
+Zinc: 1.28 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.27 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.301 mg
+Vitamin B12: 0.21 µg
+Folate: 31 µg

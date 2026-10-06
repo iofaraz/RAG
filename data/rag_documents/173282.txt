@@ -1,0 +1,36 @@
+Food: DOMINO'S 14" Cheese Pizza, Classic Hand-Tossed Crust
+Food ID: 173282
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 10.8 g
+Carbohydrates: 33.24 g
+Fat: 8.97 g
+Fiber: 2.2 g
+Sugar: 4.02 g
+
+Fats:
+Saturated fat: 4.11 g
+Monounsaturated fat: 2.165 g
+Polyunsaturated fat: 1.833 g
+Trans fat: 0.229 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 523 mg
+Potassium: 161 mg
+Calcium: 167 mg
+Iron: 2.34 mg
+Magnesium: 24 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.99 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.46 µg

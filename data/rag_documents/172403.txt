@@ -1,0 +1,35 @@
+Food: Chicken, stewing, meat only, cooked, stewed
+Food ID: 172403
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 30.42 g
+Carbohydrates: 0 g
+Fat: 11.89 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.1 g
+Monounsaturated fat: 4.05 g
+Polyunsaturated fat: 2.83 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 202 mg
+Calcium: 13 mg
+Iron: 1.43 mg
+Magnesium: 22 mg
+Zinc: 2.06 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 0 mg
+Vitamin E: 0.3 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.31 mg
+Vitamin B12: 0.26 µg
+Folate: 6 µg

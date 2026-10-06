@@ -1,0 +1,36 @@
+Food: Rice, white, cooked, no added fat
+Food ID: 2708408
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 2.67 g
+Carbohydrates: 27.99 g
+Fat: 0.28 g
+Fiber: 0.4 g
+Sugar: 0.05 g
+
+Fats:
+Saturated fat: 0.077 g
+Monounsaturated fat: 0.087 g
+Polyunsaturated fat: 0.076 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 245 mg
+Potassium: 35 mg
+Calcium: 10 mg
+Iron: 1.19 mg
+Magnesium: 12 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0 µg
+Folate: 58 µg

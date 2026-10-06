@@ -1,0 +1,32 @@
+Food: Puddings, coconut cream, dry mix, instant, prepared with whole milk
+Food ID: 168827
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 2.9 g
+Carbohydrates: 19.1 g
+Fat: 3.5 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 2.1 g
+Monounsaturated fat: 0.96 g
+Polyunsaturated fat: 0.24 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 246 mg
+Potassium: 129 mg
+Calcium: 100 mg
+Iron: 0.15 mg
+Magnesium: 14 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0.8 mg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.3 µg
+Folate: 4 µg

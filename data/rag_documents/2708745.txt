@@ -1,0 +1,36 @@
+Food: Chicken cornbread
+Food ID: 2708745
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 167 kcal
+Protein: 13.78 g
+Carbohydrates: 9.38 g
+Fat: 8.21 g
+Fiber: 0.4 g
+Sugar: 0.24 g
+
+Fats:
+Saturated fat: 1.911 g
+Monounsaturated fat: 3.57 g
+Polyunsaturated fat: 1.907 g
+Cholesterol: 114 mg
+
+Minerals:
+Sodium: 458 mg
+Potassium: 152 mg
+Calcium: 17 mg
+Iron: 1.04 mg
+Magnesium: 15 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.78 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.128 mg
+Vitamin B12: 0.29 µg
+Folate: 28 µg

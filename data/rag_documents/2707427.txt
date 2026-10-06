@@ -1,0 +1,36 @@
+Food: Dal
+Food ID: 2707427
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 145 kcal
+Protein: 8.6 g
+Carbohydrates: 19.17 g
+Fat: 4.31 g
+Fiber: 7.5 g
+Sugar: 1.71 g
+
+Fats:
+Saturated fat: 2.508 g
+Monounsaturated fat: 1.201 g
+Polyunsaturated fat: 0.313 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 309 mg
+Potassium: 352 mg
+Calcium: 19 mg
+Iron: 3.17 mg
+Magnesium: 34 mg
+Zinc: 1.21 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0 µg
+Folate: 172 µg

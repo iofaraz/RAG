@@ -1,0 +1,36 @@
+Food: Soup, wonton
+Food ID: 2709160
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 2.39 g
+Carbohydrates: 2.95 g
+Fat: 1.31 g
+Fiber: 0.3 g
+Sugar: 0.74 g
+
+Fats:
+Saturated fat: 0.406 g
+Monounsaturated fat: 0.565 g
+Polyunsaturated fat: 0.17 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 86 mg
+Calcium: 10 mg
+Iron: 0.24 mg
+Magnesium: 6 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 11.5 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.09 µg
+Folate: 4 µg

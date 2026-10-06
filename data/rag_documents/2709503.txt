@@ -1,0 +1,36 @@
+Food: Potato, mashed, from dry mix, NFS
+Food ID: 2709503
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 2.05 g
+Carbohydrates: 12.63 g
+Fat: 6.7 g
+Fiber: 0.9 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 3.444 g
+Monounsaturated fat: 1.827 g
+Polyunsaturated fat: 0.728 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 252 mg
+Potassium: 192 mg
+Calcium: 35 mg
+Iron: 0.19 mg
+Magnesium: 13 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 11.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.41 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.172 mg
+Vitamin B12: 0.05 µg
+Folate: 7 µg

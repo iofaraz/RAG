@@ -1,0 +1,33 @@
+Food: Sauce, pizza, canned, ready-to-serve
+Food ID: 172880
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 2.18 g
+Carbohydrates: 8.66 g
+Fat: 1.15 g
+Fiber: 2 g
+Sugar: 3.78 g
+
+Fats:
+Saturated fat: 0.46 g
+Monounsaturated fat: 0.461 g
+Polyunsaturated fat: 0.099 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 348 mg
+Potassium: 354 mg
+Calcium: 54 mg
+Iron: 0.9 mg
+Magnesium: 21 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin C: 11.3 mg
+Vitamin B6: 0.136 mg
+Vitamin B12: 0.02 µg
+Folate: 10 µg

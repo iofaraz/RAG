@@ -1,0 +1,36 @@
+Food: Steak tartare
+Food ID: 2706394
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 17.45 g
+Carbohydrates: 0.34 g
+Fat: 15.6 g
+Fiber: 0.2 g
+Sugar: 0.08 g
+
+Fats:
+Saturated fat: 5.796 g
+Monounsaturated fat: 6.642 g
+Polyunsaturated fat: 0.8 g
+Cholesterol: 165 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 262 mg
+Calcium: 28 mg
+Iron: 2.12 mg
+Magnesium: 17 mg
+Zinc: 4.03 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.75 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.329 mg
+Vitamin B12: 2.03 µg
+Folate: 21 µg

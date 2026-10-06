@@ -1,0 +1,36 @@
+Food: Waffle, whole grain, fast food / restaurant
+Food ID: 2708323
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 421 kcal
+Protein: 8.64 g
+Carbohydrates: 36.15 g
+Fat: 26.94 g
+Fiber: 3.5 g
+Sugar: 7.57 g
+
+Fats:
+Saturated fat: 5.094 g
+Monounsaturated fat: 10.454 g
+Polyunsaturated fat: 8.938 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 855 mg
+Potassium: 277 mg
+Calcium: 151 mg
+Iron: 3.49 mg
+Magnesium: 46 mg
+Zinc: 1.18 mg
+
+Vitamins:
+Vitamin A: 87 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 4.55 mg
+Vitamin K: 23.3 µg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0.44 µg
+Folate: 36 µg

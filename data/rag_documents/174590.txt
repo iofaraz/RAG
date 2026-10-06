@@ -1,0 +1,29 @@
+Food: Oscar Mayer, Smokies Sausage Little Cheese (pork, turkey)
+Food ID: 174590
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 315 kcal
+Protein: 13.5 g
+Carbohydrates: 1.7 g
+Fat: 28.2 g
+Fiber: 0 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 11.16 g
+Monounsaturated fat: 13.19 g
+Polyunsaturated fat: 2.79 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 1036 mg
+Potassium: 152 mg
+Calcium: 67 mg
+Iron: 1.24 mg
+Magnesium: 21 mg
+Zinc: 2.04 mg
+
+Vitamins:
+Vitamin C: 0 mg

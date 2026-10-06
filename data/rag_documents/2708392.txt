@@ -1,0 +1,36 @@
+Food: Oatmeal, instant, plain, made with non-dairy milk, fat added
+Food ID: 2708392
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 3.09 g
+Carbohydrates: 15.12 g
+Fat: 4.98 g
+Fiber: 1.9 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 1.433 g
+Monounsaturated fat: 1.687 g
+Polyunsaturated fat: 1.251 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 99 mg
+Potassium: 109 mg
+Calcium: 185 mg
+Iron: 4.78 mg
+Magnesium: 31 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 195 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1.96 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.28 µg
+Folate: 9 µg

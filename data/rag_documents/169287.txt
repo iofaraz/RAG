@@ -1,0 +1,37 @@
+Food: Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)
+Food ID: 169287
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 3.63 g
+Carbohydrates: 4.21 g
+Fat: 0.57 g
+Fiber: 2.9 g
+Sugar: 0.65 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.082 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 74 mg
+Potassium: 346 mg
+Calcium: 129 mg
+Iron: 1.89 mg
+Magnesium: 75 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 586 µg
+Vitamin C: 5.5 mg
+Vitamin D: 0 µg
+Vitamin E: 2.9 mg
+Vitamin K: 372 µg
+Vitamin B6: 0.172 mg
+Vitamin B12: 0 µg
+Folate: 145 µg

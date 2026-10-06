@@ -1,0 +1,32 @@
+Food: Peas, mature seeds, sprouted, raw
+Food ID: 170422
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 8.8 g
+Carbohydrates: 27.11 g
+Fat: 0.68 g
+
+Fats:
+Saturated fat: 0.124 g
+Monounsaturated fat: 0.061 g
+Polyunsaturated fat: 0.326 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 381 mg
+Calcium: 36 mg
+Iron: 2.26 mg
+Magnesium: 56 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin C: 10.4 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.265 mg
+Vitamin B12: 0 µg
+Folate: 144 µg

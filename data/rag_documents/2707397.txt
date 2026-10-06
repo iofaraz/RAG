@@ -1,0 +1,36 @@
+Food: Refried beans, from fast food / restaurant
+Food ID: 2707397
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 177 kcal
+Protein: 6.7 g
+Carbohydrates: 16.28 g
+Fat: 9.48 g
+Fiber: 7.8 g
+Sugar: 0.76 g
+
+Fats:
+Saturated fat: 2.174 g
+Monounsaturated fat: 3.012 g
+Polyunsaturated fat: 3.391 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 402 mg
+Potassium: 390 mg
+Calcium: 55 mg
+Iron: 1.58 mg
+Magnesium: 43 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.99 mg
+Vitamin K: 15.8 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.08 µg
+Folate: 27 µg

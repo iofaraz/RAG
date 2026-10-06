@@ -1,0 +1,21 @@
+Food: Flour, rice, glutinous
+Food ID: 1104867
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 6.69 g
+Carbohydrates: 80.1 g
+Fat: 1.16 g
+
+Minerals:
+Sodium: 6 mg
+Potassium: 80 mg
+Calcium: 10 mg
+Iron: 0.34 mg
+Magnesium: 21.2 mg
+Zinc: 1.34 mg
+
+Vitamins:
+Vitamin B6: 0.044 mg

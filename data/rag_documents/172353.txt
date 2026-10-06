@@ -1,0 +1,37 @@
+Food: Margarine-like, vegetable oil spread, fat-free, tub
+Food ID: 172353
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 0.1 g
+Carbohydrates: 4.34 g
+Fat: 3.04 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.128 g
+Monounsaturated fat: 0.356 g
+Polyunsaturated fat: 0.422 g
+Trans fat: 0.168 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 580 mg
+Potassium: 36 mg
+Calcium: 8 mg
+Iron: 0.08 mg
+Magnesium: 1 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 993 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

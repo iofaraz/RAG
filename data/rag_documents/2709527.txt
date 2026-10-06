@@ -1,0 +1,36 @@
+Food: Potato, baked, peel eaten, with cheese
+Food ID: 2709527
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 4.09 g
+Carbohydrates: 17.43 g
+Fat: 7.69 g
+Fiber: 1.7 g
+Sugar: 1.27 g
+
+Fats:
+Saturated fat: 4.32 g
+Monounsaturated fat: 1.605 g
+Polyunsaturated fat: 0.309 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 225 mg
+Potassium: 444 mg
+Calcium: 77 mg
+Iron: 0.87 mg
+Magnesium: 25 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 7.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.12 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.255 mg
+Vitamin B12: 0.09 µg
+Folate: 25 µg

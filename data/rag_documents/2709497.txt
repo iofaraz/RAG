@@ -1,0 +1,36 @@
+Food: Potato, mashed, from fresh, made with milk, with cheese
+Food ID: 2709497
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 145 kcal
+Protein: 4.41 g
+Carbohydrates: 15.98 g
+Fat: 7.28 g
+Fiber: 1 g
+Sugar: 1.94 g
+
+Fats:
+Saturated fat: 3.973 g
+Monounsaturated fat: 1.788 g
+Polyunsaturated fat: 0.5 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 258 mg
+Potassium: 303 mg
+Calcium: 98 mg
+Iron: 0.27 mg
+Magnesium: 22 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 67 µg
+Vitamin C: 9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.248 mg
+Vitamin B12: 0.15 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Black beans and white rice
+Food ID: 2708994
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 6.01 g
+Carbohydrates: 24.42 g
+Fat: 4.32 g
+Fiber: 5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 0.63 g
+Monounsaturated fat: 1.715 g
+Polyunsaturated fat: 1.658 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 228 mg
+Potassium: 212 mg
+Calcium: 19 mg
+Iron: 1.65 mg
+Magnesium: 44 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.24 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0 µg
+Folate: 102 µg

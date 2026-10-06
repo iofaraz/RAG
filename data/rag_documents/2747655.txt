@@ -1,0 +1,22 @@
+Food: Fennel, bulb, raw
+Food ID: 2747655
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.921875 g
+Carbohydrates: 5.48623 g
+Fat: 0.14 g
+Fiber: 2.046 g
+
+Minerals:
+Sodium: 49.03 mg
+Potassium: 332.4 mg
+Calcium: 41.3 mg
+Iron: 0 mg
+Magnesium: 14.98 mg
+Zinc: 0.1413 mg
+
+Vitamins:
+Vitamin C: 14.7 mg
+Folate: 37.02 µg

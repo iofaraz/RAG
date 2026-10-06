@@ -1,0 +1,32 @@
+Food: Fish, snapper, mixed species, cooked, dry heat
+Food ID: 173699
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 26.3 g
+Carbohydrates: 0 g
+Fat: 1.72 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.365 g
+Monounsaturated fat: 0.322 g
+Polyunsaturated fat: 0.588 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 522 mg
+Calcium: 40 mg
+Iron: 0.24 mg
+Magnesium: 37 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 1.6 mg
+Vitamin B6: 0.46 mg
+Vitamin B12: 3.5 µg
+Folate: 6 µg

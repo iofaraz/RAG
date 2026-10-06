@@ -1,0 +1,36 @@
+Food: Michelada
+Food ID: 2710641
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 0.66 g
+Carbohydrates: 4.05 g
+Fat: 0.15 g
+Fiber: 0.2 g
+Sugar: 1.36 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.003 g
+Polyunsaturated fat: 0.017 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 137 mg
+Potassium: 119 mg
+Calcium: 8 mg
+Iron: 0.22 mg
+Magnesium: 8 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 24.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.01 µg
+Folate: 12 µg

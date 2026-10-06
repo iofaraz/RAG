@@ -1,0 +1,36 @@
+Food: Cheeseburger, on wheat bun, 1 large patty
+Food ID: 2706904
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 295 kcal
+Protein: 19.21 g
+Carbohydrates: 13.9 g
+Fat: 17.62 g
+Fiber: 1.6 g
+Sugar: 1.93 g
+
+Fats:
+Saturated fat: 7.605 g
+Monounsaturated fat: 6.359 g
+Polyunsaturated fat: 0.978 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 437 mg
+Potassium: 247 mg
+Calcium: 192 mg
+Iron: 2.32 mg
+Magnesium: 31 mg
+Zinc: 3.55 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.21 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.3 mg
+Vitamin B12: 1.7 µg
+Folate: 35 µg

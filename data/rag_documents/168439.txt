@@ -1,0 +1,31 @@
+Food: Mustard spinach, (tendergreen), cooked, boiled, drained, without salt
+Food ID: 168439
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 1.7 g
+Carbohydrates: 2.8 g
+Fat: 0.2 g
+Fiber: 2 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 285 mg
+Calcium: 158 mg
+Iron: 0.8 mg
+Magnesium: 7 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 410 µg
+Vitamin C: 65 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.097 mg
+Vitamin B12: 0 µg
+Folate: 73 µg

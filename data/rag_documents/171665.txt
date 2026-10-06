@@ -1,0 +1,35 @@
+Food: Cereals, WHEATENA, dry
+Food ID: 171665
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 13.1 g
+Carbohydrates: 75.6 g
+Fat: 2.9 g
+Fiber: 12.8 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 0.43 g
+Monounsaturated fat: 0.41 g
+Polyunsaturated fat: 1.46 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 492 mg
+Calcium: 500 mg
+Iron: 3.57 mg
+Magnesium: 130 mg
+Zinc: 4.41 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin E: 3.44 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

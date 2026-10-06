@@ -1,0 +1,36 @@
+Food: Babyfood, vegetables, carrots, junior
+Food ID: 173507
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 0.8 g
+Carbohydrates: 7.2 g
+Fat: 0.2 g
+Fiber: 1.7 g
+Sugar: 3.16 g
+
+Fats:
+Saturated fat: 0.036 g
+Monounsaturated fat: 0.009 g
+Polyunsaturated fat: 0.093 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 202 mg
+Calcium: 23 mg
+Iron: 0.39 mg
+Magnesium: 11 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 591 µg
+Vitamin C: 5.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 12.5 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

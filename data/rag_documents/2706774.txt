@@ -1,0 +1,36 @@
+Food: Sausage and vegetables including  carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce
+Food ID: 2706774
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 5.56 g
+Carbohydrates: 4.94 g
+Fat: 8.34 g
+Fiber: 1.7 g
+Sugar: 2.83 g
+
+Fats:
+Saturated fat: 2.352 g
+Monounsaturated fat: 3.444 g
+Polyunsaturated fat: 1.944 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 675 mg
+Potassium: 276 mg
+Calcium: 20 mg
+Iron: 0.92 mg
+Magnesium: 15 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 159 µg
+Vitamin C: 10.1 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.57 mg
+Vitamin K: 19 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0.23 µg
+Folate: 15 µg

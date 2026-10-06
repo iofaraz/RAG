@@ -1,0 +1,36 @@
+Food: Stew, fish
+Food ID: 2706466
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 7.63 g
+Carbohydrates: 2.75 g
+Fat: 0.42 g
+Fiber: 0.5 g
+Sugar: 0.63 g
+
+Fats:
+Saturated fat: 0.099 g
+Monounsaturated fat: 0.065 g
+Polyunsaturated fat: 0.134 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 273 mg
+Potassium: 157 mg
+Calcium: 22 mg
+Iron: 0.19 mg
+Magnesium: 15 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 67 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.52 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.64 µg
+Folate: 11 µg

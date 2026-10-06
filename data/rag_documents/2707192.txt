@@ -1,0 +1,36 @@
+Food: Egg casserole with bread, cheese, milk and meat
+Food ID: 2707192
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 175 kcal
+Protein: 11.43 g
+Carbohydrates: 10.22 g
+Fat: 9.75 g
+Fiber: 0.4 g
+Sugar: 2.77 g
+
+Fats:
+Saturated fat: 3.901 g
+Monounsaturated fat: 3.199 g
+Polyunsaturated fat: 1.489 g
+Cholesterol: 114 mg
+
+Minerals:
+Sodium: 420 mg
+Potassium: 184 mg
+Calcium: 142 mg
+Iron: 1.15 mg
+Magnesium: 17 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.44 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.49 µg
+Folate: 26 µg

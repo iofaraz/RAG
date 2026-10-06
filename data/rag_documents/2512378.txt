@@ -1,0 +1,21 @@
+Food: Buckwheat, whole grain
+Food ID: 2512378
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 11.0653 g
+Carbohydrates: 71.1307 g
+Fat: 3.039 g
+Fiber: 4.046 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 414.5 mg
+Calcium: 13.64 mg
+Iron: 2.444 mg
+Magnesium: 203 mg
+Zinc: 2.236 mg
+
+Vitamins:
+Vitamin B6: 0.2776 mg

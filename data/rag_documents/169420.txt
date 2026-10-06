@@ -1,0 +1,28 @@
+Food: Nuts, almonds, oil roasted, with salt added, smoke flavor
+Food ID: 169420
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 607 kcal
+Protein: 21.43 g
+Carbohydrates: 17.86 g
+Fat: 55.89 g
+Fiber: 10.7 g
+Sugar: 3.57 g
+
+Fats:
+Saturated fat: 3.571 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 548 mg
+Potassium: 679 mg
+Calcium: 286 mg
+Iron: 3.86 mg
+Magnesium: 286 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 25.13 mg

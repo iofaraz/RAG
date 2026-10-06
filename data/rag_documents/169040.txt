@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, WEETABIX whole grain cereal
+Food ID: 169040
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 11.43 g
+Carbohydrates: 81.5 g
+Fat: 2.86 g
+Fiber: 11.4 g
+Sugar: 5.71 g
+
+Fats:
+Saturated fat: 0.48 g
+Monounsaturated fat: 0.35 g
+Polyunsaturated fat: 1.17 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 371 mg
+Potassium: 429 mg
+Calcium: 57 mg
+Iron: 12.86 mg
+Magnesium: 92 mg
+Zinc: 1.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.98 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.46 mg
+Vitamin B12: 0 µg
+Folate: 46 µg

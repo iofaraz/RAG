@@ -1,0 +1,36 @@
+Food: Creamy Italian dressing, light
+Food ID: 2710217
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 0.56 g
+Carbohydrates: 9.54 g
+Fat: 7.78 g
+Fiber: 0 g
+Sugar: 8.63 g
+
+Fats:
+Saturated fat: 1.025 g
+Monounsaturated fat: 1.957 g
+Polyunsaturated fat: 3.95 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 882 mg
+Potassium: 82 mg
+Calcium: 14 mg
+Iron: 0.23 mg
+Magnesium: 4 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 4 mg
+Vitamin K: 11.2 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.01 µg
+Folate: 3 µg

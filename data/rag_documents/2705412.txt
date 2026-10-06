@@ -1,0 +1,36 @@
+Food: Oat milk
+Food ID: 2705412
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 0.66 g
+Carbohydrates: 5.37 g
+Fat: 2.33 g
+Fiber: 0.5 g
+Sugar: 2.04 g
+
+Fats:
+Saturated fat: 0.187 g
+Monounsaturated fat: 1.349 g
+Polyunsaturated fat: 0.62 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 18 mg
+Calcium: 155 mg
+Iron: 0.21 mg
+Magnesium: 8 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 0.37 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.005 mg
+Vitamin B12: 0.5 µg
+Folate: 2 µg

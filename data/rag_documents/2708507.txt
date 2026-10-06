@@ -1,0 +1,36 @@
+Food: Mexican pizza
+Food ID: 2708507
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 15.47 g
+Carbohydrates: 15.3 g
+Fat: 13.94 g
+Fiber: 2.1 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 4.489 g
+Monounsaturated fat: 5.61 g
+Polyunsaturated fat: 2.245 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 375 mg
+Potassium: 214 mg
+Calcium: 69 mg
+Iron: 1.61 mg
+Magnesium: 35 mg
+Zinc: 3.56 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.276 mg
+Vitamin B12: 1.27 µg
+Folate: 6 µg

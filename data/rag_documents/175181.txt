@@ -1,0 +1,29 @@
+Food: Fish, trout, brook, raw, New York State
+Food ID: 175181
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 21.23 g
+Carbohydrates: 0 g
+Fat: 2.73 g
+
+Fats:
+Saturated fat: 0.595 g
+Monounsaturated fat: 0.815 g
+Polyunsaturated fat: 0.772 g
+Trans fat: 0.019 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 417 mg
+Calcium: 25 mg
+Iron: 0.38 mg
+Magnesium: 28 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin B6: 0.273 mg
+Vitamin B12: 2.77 µg

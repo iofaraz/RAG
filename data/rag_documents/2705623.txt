@@ -1,0 +1,36 @@
+Food: Ranch dip, regular
+Food ID: 2705623
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 432 kcal
+Protein: 2.55 g
+Carbohydrates: 3.94 g
+Fat: 45.18 g
+Fiber: 0.3 g
+Sugar: 2.48 g
+
+Fats:
+Saturated fat: 10.924 g
+Monounsaturated fat: 10.044 g
+Polyunsaturated fat: 22.115 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 718 mg
+Potassium: 126 mg
+Calcium: 79 mg
+Iron: 0.32 mg
+Magnesium: 10 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.86 mg
+Vitamin K: 93.1 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.12 µg
+Folate: 8 µg

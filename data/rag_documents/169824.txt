@@ -1,0 +1,30 @@
+Food: Sea lion, Steller, meat with fat (Alaska Native)
+Food ID: 169824
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 242 kcal
+Protein: 22.1 g
+Carbohydrates: 5.55 g
+Fat: 14.65 g
+
+Fats:
+Saturated fat: 2.9 g
+Monounsaturated fat: 3.3 g
+Polyunsaturated fat: 3 g
+Trans fat: 0 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 346 mg
+Calcium: 6 mg
+Iron: 9.55 mg
+Magnesium: 19 mg
+Zinc: 4.26 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg

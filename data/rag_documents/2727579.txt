@@ -1,0 +1,21 @@
+Food: Squash, spaghetti, peeled, seeded, raw
+Food ID: 2727579
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.791875 g
+Fiber: 1.4 g
+
+Minerals:
+Sodium: 0.3125 mg
+Potassium: 266.9 mg
+Calcium: 16.55 mg
+Iron: 0.03125 mg
+Magnesium: 13.34 mg
+Zinc: 0.1049 mg
+
+Vitamins:
+Vitamin C: 5.554 mg
+Vitamin B6: 0.1038 mg
+Folate: 12.7 µg

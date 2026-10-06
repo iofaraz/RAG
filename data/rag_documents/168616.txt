@@ -1,0 +1,36 @@
+Food: Beef, round, full cut, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+Food ID: 168616
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 191 kcal
+Protein: 29.21 g
+Carbohydrates: 0 g
+Fat: 7.31 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.56 g
+Monounsaturated fat: 3.1 g
+Polyunsaturated fat: 0.31 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 422 mg
+Calcium: 5 mg
+Iron: 2.7 mg
+Magnesium: 28 mg
+Zinc: 4.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.14 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.4 mg
+Vitamin B12: 3.17 µg
+Folate: 10 µg

@@ -1,0 +1,36 @@
+Food: Turkey and ham sandwich or sub, with cheese, restaurant
+Food ID: 2707094
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 191 kcal
+Protein: 14.47 g
+Carbohydrates: 16.62 g
+Fat: 7.26 g
+Fiber: 0.7 g
+Sugar: 2.3 g
+
+Fats:
+Saturated fat: 3.167 g
+Monounsaturated fat: 1.86 g
+Polyunsaturated fat: 1.159 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 749 mg
+Potassium: 275 mg
+Calcium: 200 mg
+Iron: 1.38 mg
+Magnesium: 23 mg
+Zinc: 1.39 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.28 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 0.42 µg
+Folate: 38 µg

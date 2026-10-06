@@ -1,0 +1,34 @@
+Food: Boysenberries, canned, heavy syrup
+Food ID: 171712
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 0.99 g
+Carbohydrates: 22.31 g
+Fat: 0.12 g
+Fiber: 2.6 g
+
+Fats:
+Saturated fat: 0.004 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.068 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 90 mg
+Calcium: 18 mg
+Iron: 0.43 mg
+Magnesium: 11 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 6.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

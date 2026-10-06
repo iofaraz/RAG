@@ -1,0 +1,36 @@
+Food: Nuts, almonds, oil roasted, with salt added
+Food ID: 169419
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 607 kcal
+Protein: 21.23 g
+Carbohydrates: 17.68 g
+Fat: 55.17 g
+Fiber: 10.5 g
+Sugar: 4.55 g
+
+Fats:
+Saturated fat: 4.208 g
+Monounsaturated fat: 34.793 g
+Polyunsaturated fat: 13.519 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 339 mg
+Potassium: 699 mg
+Calcium: 291 mg
+Iron: 3.68 mg
+Magnesium: 274 mg
+Zinc: 3.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 25.97 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

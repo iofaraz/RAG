@@ -1,0 +1,36 @@
+Food: Asian stir fry vegetables, cooked, no added fat
+Food ID: 2710035
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 2.07 g
+Carbohydrates: 9.93 g
+Fat: 0.3 g
+Fiber: 2.9 g
+Sugar: 3.63 g
+
+Fats:
+Saturated fat: 0.047 g
+Monounsaturated fat: 0.017 g
+Polyunsaturated fat: 0.085 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 141 mg
+Potassium: 251 mg
+Calcium: 36 mg
+Iron: 1.04 mg
+Magnesium: 18 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 226 µg
+Vitamin C: 36.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.48 mg
+Vitamin K: 38.3 µg
+Vitamin B6: 0.183 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

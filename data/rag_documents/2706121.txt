@@ -1,0 +1,36 @@
+Food: Turkey, drumstick, cooked, skin not eaten
+Food ID: 2706121
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 28.52 g
+Carbohydrates: 0 g
+Fat: 3.38 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.997 g
+Monounsaturated fat: 1.105 g
+Polyunsaturated fat: 0.906 g
+Cholesterol: 88 mg
+
+Minerals:
+Sodium: 455 mg
+Potassium: 240 mg
+Calcium: 12 mg
+Iron: 0.82 mg
+Magnesium: 29 mg
+Zinc: 2.27 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.675 mg
+Vitamin B12: 1.8 µg
+Folate: 9 µg

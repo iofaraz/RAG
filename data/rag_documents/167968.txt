@@ -1,0 +1,31 @@
+Food: Snacks, trail mix, tropical
+Food ID: 167968
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 442 kcal
+Protein: 6.3 g
+Carbohydrates: 65.6 g
+Fat: 17.1 g
+
+Fats:
+Saturated fat: 8.48 g
+Monounsaturated fat: 2.49 g
+Polyunsaturated fat: 5.16 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 95 mg
+Potassium: 709 mg
+Calcium: 57 mg
+Iron: 2.64 mg
+Magnesium: 96 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 7.6 mg
+Vitamin B6: 0.327 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

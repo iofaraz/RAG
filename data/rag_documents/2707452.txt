@@ -1,0 +1,36 @@
+Food: Frozen dessert, non-dairy
+Food ID: 2707452
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 0.87 g
+Carbohydrates: 18.24 g
+Fat: 9.27 g
+Fiber: 0.1 g
+Sugar: 17.51 g
+
+Fats:
+Saturated fat: 7.041 g
+Monounsaturated fat: 1.049 g
+Polyunsaturated fat: 0.503 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 40 mg
+Calcium: 117 mg
+Iron: 0.26 mg
+Magnesium: 8 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1.58 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0.29 µg
+Folate: 3 µg

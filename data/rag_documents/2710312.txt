@@ -1,0 +1,36 @@
+Food: Gelatin salad with vegetables
+Food ID: 2710312
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 1.47 g
+Carbohydrates: 14.02 g
+Fat: 0.02 g
+Fiber: 0.7 g
+Sugar: 11.93 g
+
+Fats:
+Saturated fat: 0.005 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.011 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 26 mg
+Calcium: 6 mg
+Iron: 0.14 mg
+Magnesium: 4 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

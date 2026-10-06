@@ -1,0 +1,32 @@
+Food: Fish, trout, rainbow, wild, cooked, dry heat
+Food ID: 175155
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 22.92 g
+Carbohydrates: 0 g
+Fat: 5.82 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.619 g
+Monounsaturated fat: 1.746 g
+Polyunsaturated fat: 1.831 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 448 mg
+Calcium: 86 mg
+Iron: 0.38 mg
+Magnesium: 31 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 2 mg
+Vitamin B6: 0.346 mg
+Vitamin B12: 6.3 µg
+Folate: 19 µg

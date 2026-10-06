@@ -1,0 +1,37 @@
+Food: Margarine, regular, 80% fat, composite, tub, with salt
+Food ID: 172347
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 713 kcal
+Protein: 0.22 g
+Carbohydrates: 0.75 g
+Fat: 80.17 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 14.224 g
+Monounsaturated fat: 36.435 g
+Polyunsaturated fat: 26.741 g
+Trans fat: 5.827 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 657 mg
+Potassium: 17 mg
+Calcium: 3 mg
+Iron: 0 mg
+Magnesium: 1 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 819 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 15.43 mg
+Vitamin K: 91.7 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.08 µg
+Folate: 1 µg

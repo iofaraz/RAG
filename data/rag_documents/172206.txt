@@ -1,0 +1,36 @@
+Food: Parmesan cheese topping, fat free
+Food ID: 172206
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 370 kcal
+Protein: 40 g
+Carbohydrates: 40 g
+Fat: 5 g
+Fiber: 0 g
+Sugar: 1.5 g
+
+Fats:
+Saturated fat: 3.11 g
+Monounsaturated fat: 1.446 g
+Polyunsaturated fat: 0.186 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 1150 mg
+Potassium: 600 mg
+Calcium: 800 mg
+Iron: 5 mg
+Magnesium: 40 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 1.1 µg
+Folate: 25 µg

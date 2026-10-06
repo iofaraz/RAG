@@ -1,0 +1,14 @@
+Food: Cockles, raw (Alaska Native)
+Food ID: 169803
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 13.5 g
+Carbohydrates: 4.7 g
+Fat: 0.7 g
+
+Minerals:
+Calcium: 30 mg
+Iron: 16.2 mg

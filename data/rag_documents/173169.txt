@@ -1,0 +1,37 @@
+Food: Beverages, NESTLE, Boost plus, nutritional drink, ready-to-drink
+Food ID: 173169
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 5.38 g
+Carbohydrates: 17.29 g
+Fat: 5.38 g
+Fiber: 1.2 g
+Sugar: 8.46 g
+
+Fats:
+Saturated fat: 0.42 g
+Monounsaturated fat: 2.551 g
+Polyunsaturated fat: 0.122 g
+Trans fat: 0 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 138 mg
+Calcium: 135 mg
+Iron: 1.73 mg
+Magnesium: 38 mg
+Zinc: 1.73 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 23.1 mg
+Vitamin D: 2.3 µg
+Vitamin E: 5.19 mg
+Vitamin K: 12.3 µg
+Vitamin B6: 0.269 mg
+Vitamin B12: 0.81 µg
+Folate: 38 µg

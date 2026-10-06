@@ -1,0 +1,31 @@
+Food: Salmon nuggets, cooked as purchased, unheated
+Food ID: 173722
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 11.97 g
+Carbohydrates: 11.85 g
+Fat: 10.43 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.497 g
+Monounsaturated fat: 4.33 g
+Polyunsaturated fat: 2.863 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 161 mg
+Calcium: 9 mg
+Iron: 1.46 mg
+Magnesium: 20 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.22 mg
+Vitamin B12: 2.18 µg
+Folate: 9 µg

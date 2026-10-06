@@ -1,0 +1,36 @@
+Food: Fish, trout, baked or broiled
+Food ID: 2706303
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 24.78 g
+Carbohydrates: 0.01 g
+Fat: 12.21 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 2.904 g
+Monounsaturated fat: 4.067 g
+Polyunsaturated fat: 3.172 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 279 mg
+Potassium: 469 mg
+Calcium: 32 mg
+Iron: 0.39 mg
+Magnesium: 31 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 109 µg
+Vitamin C: 2.9 mg
+Vitamin D: 19.8 µg
+Vitamin E: 3.58 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.409 mg
+Vitamin B12: 4.81 µg
+Folate: 12 µg

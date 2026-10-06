@@ -1,0 +1,33 @@
+Food: Bologna, pork and turkey, lite
+Food ID: 174609
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 13.06 g
+Carbohydrates: 3.45 g
+Fat: 16.06 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.46 g
+Monounsaturated fat: 7.548 g
+Polyunsaturated fat: 3.051 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 716 mg
+Potassium: 138 mg
+Calcium: 48 mg
+Iron: 1.15 mg
+Magnesium: 17 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.163 mg
+Vitamin B12: 0.29 µg
+Folate: 18 µg

@@ -1,0 +1,33 @@
+Food: CRACKER BARREL, onion rings, thick-cut
+Food ID: 169021
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 327 kcal
+Protein: 4.78 g
+Carbohydrates: 40.95 g
+Fat: 16 g
+Fiber: 2.2 g
+Sugar: 4.82 g
+
+Fats:
+Saturated fat: 2.941 g
+Monounsaturated fat: 3.63 g
+Polyunsaturated fat: 8.675 g
+Trans fat: 0.202 g
+
+Minerals:
+Sodium: 463 mg
+Potassium: 141 mg
+Calcium: 19 mg
+Iron: 0.73 mg
+Magnesium: 21 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin E: 1.31 mg
+Vitamin K: 36.1 µg
+Vitamin B6: 0.084 mg
+Folate: 14 µg

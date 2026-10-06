@@ -1,0 +1,25 @@
+Food: Yachtwurst, with pistachio nuts, cooked
+Food ID: 172960
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 268 kcal
+Protein: 14.8 g
+Carbohydrates: 1.4 g
+Fat: 22.6 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.9 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 936 mg
+Calcium: 19 mg
+Iron: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

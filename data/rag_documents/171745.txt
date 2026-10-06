@@ -1,0 +1,37 @@
+Food: Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0" fat, all grades, raw
+Food ID: 171745
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 23.27 g
+Carbohydrates: 0 g
+Fat: 3.44 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.276 g
+Monounsaturated fat: 1.482 g
+Polyunsaturated fat: 0.25 g
+Trans fat: 0.169 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 317 mg
+Calcium: 13 mg
+Iron: 1.45 mg
+Magnesium: 12 mg
+Zinc: 3.4 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.641 mg
+Vitamin B12: 1.83 µg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Fish, croaker, Atlantic, raw
+Food ID: 174192
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 17.78 g
+Carbohydrates: 0 g
+Fat: 3.17 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.088 g
+Monounsaturated fat: 1.149 g
+Polyunsaturated fat: 0.464 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 345 mg
+Calcium: 15 mg
+Iron: 0.37 mg
+Magnesium: 40 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.29 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.3 mg
+Vitamin B12: 2.5 µg
+Folate: 15 µg

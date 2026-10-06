@@ -1,0 +1,37 @@
+Food: Orange juice, frozen concentrate, unsweetened, undiluted, with added calcium
+Food ID: 169922
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 2.4 g
+Carbohydrates: 33.86 g
+Fat: 0.25 g
+Fiber: 1 g
+Sugar: 29.68 g
+
+Fats:
+Saturated fat: 0.059 g
+Monounsaturated fat: 0.05 g
+Polyunsaturated fat: 0.063 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 629 mg
+Calcium: 578 mg
+Iron: 0.33 mg
+Magnesium: 35 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 144.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 0 µg
+Folate: 77 µg

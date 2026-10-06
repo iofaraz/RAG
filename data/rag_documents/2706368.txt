@@ -1,0 +1,36 @@
+Food: Escargot
+Food ID: 2706368
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 19.99 g
+Carbohydrates: 2.48 g
+Fat: 6.91 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.14 g
+Monounsaturated fat: 2.514 g
+Polyunsaturated fat: 2.3 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 287 mg
+Potassium: 474 mg
+Calcium: 13 mg
+Iron: 4.36 mg
+Magnesium: 310 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 7.19 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 0.53 µg
+Folate: 6 µg

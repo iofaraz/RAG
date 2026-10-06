@@ -1,0 +1,37 @@
+Food: Beans, baked, canned, with franks
+Food ID: 175184
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 6.75 g
+Carbohydrates: 15.39 g
+Fat: 6.57 g
+Fiber: 6.9 g
+Sugar: 6.53 g
+
+Fats:
+Saturated fat: 2.352 g
+Monounsaturated fat: 2.83 g
+Polyunsaturated fat: 0.836 g
+Trans fat: 0 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 430 mg
+Potassium: 235 mg
+Calcium: 48 mg
+Iron: 1.73 mg
+Magnesium: 28 mg
+Zinc: 1.87 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.34 µg
+Folate: 30 µg

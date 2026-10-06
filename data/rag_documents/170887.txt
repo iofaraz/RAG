@@ -1,0 +1,36 @@
+Food: Yogurt, plain, skim milk
+Food ID: 170887
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 5.73 g
+Carbohydrates: 7.68 g
+Fat: 0.18 g
+Fiber: 0 g
+Sugar: 7.68 g
+
+Fats:
+Saturated fat: 0.116 g
+Monounsaturated fat: 0.049 g
+Polyunsaturated fat: 0.005 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 255 mg
+Calcium: 199 mg
+Iron: 0.09 mg
+Magnesium: 19 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.61 µg
+Folate: 12 µg

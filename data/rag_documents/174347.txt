@@ -1,0 +1,28 @@
+Food: Game meat, rabbit, wild, raw
+Food ID: 174347
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 21.79 g
+Carbohydrates: 0 g
+Fat: 2.32 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.69 g
+Monounsaturated fat: 0.63 g
+Polyunsaturated fat: 0.45 g
+Cholesterol: 81 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 378 mg
+Calcium: 12 mg
+Iron: 3.2 mg
+Magnesium: 29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

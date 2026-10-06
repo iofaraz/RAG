@@ -1,0 +1,36 @@
+Food: Asparagus, canned, cooked with butter or margarine
+Food ID: 2709846
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 38 kcal
+Protein: 2.09 g
+Carbohydrates: 2.4 g
+Fat: 2.82 g
+Fiber: 1.6 g
+Sugar: 1.04 g
+
+Fats:
+Saturated fat: 1.089 g
+Monounsaturated fat: 0.598 g
+Polyunsaturated fat: 0.622 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 296 mg
+Potassium: 168 mg
+Calcium: 16 mg
+Iron: 1.78 mg
+Magnesium: 10 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 16.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.4 mg
+Vitamin K: 41.4 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0 µg
+Folate: 89 µg

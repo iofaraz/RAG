@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, chicken and rice
+Food ID: 169054
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 1.6 g
+Carbohydrates: 9.2 g
+Fat: 0.9 g
+Fiber: 1.1 g
+Sugar: 0.55 g
+
+Fats:
+Saturated fat: 0.211 g
+Monounsaturated fat: 0.392 g
+Polyunsaturated fat: 0.188 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 60 mg
+Calcium: 18 mg
+Iron: 0.2 mg
+Magnesium: 8 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.1 µg
+Folate: 3 µg

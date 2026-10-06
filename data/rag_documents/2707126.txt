@@ -1,0 +1,36 @@
+Food: Soup, pepperpot
+Food ID: 2707126
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 3.06 g
+Carbohydrates: 6.79 g
+Fat: 5.75 g
+Fiber: 0.9 g
+Sugar: 1.46 g
+
+Fats:
+Saturated fat: 2.88 g
+Monounsaturated fat: 1.486 g
+Polyunsaturated fat: 0.461 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 251 mg
+Potassium: 155 mg
+Calcium: 22 mg
+Iron: 0.43 mg
+Magnesium: 12 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 71 µg
+Vitamin C: 6.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.31 mg
+Vitamin K: 13.6 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.12 µg
+Folate: 15 µg

@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, kidneys, cooked, braised
+Food ID: 174355
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 137 kcal
+Protein: 23.65 g
+Carbohydrates: 0.99 g
+Fat: 3.62 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.23 g
+Monounsaturated fat: 0.77 g
+Polyunsaturated fat: 0.67 g
+Cholesterol: 565 mg
+
+Minerals:
+Sodium: 151 mg
+Potassium: 178 mg
+Calcium: 18 mg
+Iron: 12.4 mg
+Magnesium: 20 mg
+Zinc: 3.8 mg
+
+Vitamins:
+Vitamin A: 137 µg
+Vitamin C: 12 mg
+Vitamin B6: 0.12 mg
+Vitamin B12: 78.9 µg
+Folate: 81 µg

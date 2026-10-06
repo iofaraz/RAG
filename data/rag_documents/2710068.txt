@@ -1,0 +1,36 @@
+Food: Vegetable curry with rice
+Food ID: 2710068
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 2.03 g
+Carbohydrates: 16.48 g
+Fat: 3.27 g
+Fiber: 1.3 g
+Sugar: 1.93 g
+
+Fats:
+Saturated fat: 0.784 g
+Monounsaturated fat: 1.171 g
+Polyunsaturated fat: 1.07 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 331 mg
+Potassium: 186 mg
+Calcium: 17 mg
+Iron: 0.88 mg
+Magnesium: 15 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 7.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 0.01 µg
+Folate: 35 µg

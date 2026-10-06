@@ -1,0 +1,37 @@
+Food: Spices, pepper, black
+Food ID: 170931
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 10.39 g
+Carbohydrates: 63.95 g
+Fat: 3.26 g
+Fiber: 25.3 g
+Sugar: 0.64 g
+
+Fats:
+Saturated fat: 1.392 g
+Monounsaturated fat: 0.739 g
+Polyunsaturated fat: 0.998 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 1329 mg
+Calcium: 443 mg
+Iron: 9.71 mg
+Magnesium: 171 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.04 mg
+Vitamin K: 163.7 µg
+Vitamin B6: 0.291 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

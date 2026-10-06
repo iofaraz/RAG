@@ -1,0 +1,31 @@
+Food: Lamb, variety meats and by-products, lungs, raw
+Food ID: 174359
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 16.7 g
+Carbohydrates: 0 g
+Fat: 2.6 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.89 g
+Monounsaturated fat: 0.67 g
+Polyunsaturated fat: 0.35 g
+
+Minerals:
+Sodium: 157 mg
+Potassium: 238 mg
+Calcium: 10 mg
+Iron: 6.4 mg
+Magnesium: 14 mg
+Zinc: 1.8 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 31 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 3.93 µg
+Folate: 12 µg

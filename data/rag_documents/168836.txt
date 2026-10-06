@@ -1,0 +1,36 @@
+Food: Syrups, corn, dark
+Food ID: 168836
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 286 kcal
+Protein: 0 g
+Carbohydrates: 77.59 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 77.59 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 155 mg
+Potassium: 44 mg
+Calcium: 18 mg
+Iron: 0.37 mg
+Magnesium: 8 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

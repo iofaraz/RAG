@@ -1,0 +1,25 @@
+Food: Squash, Indian, raw (Navajo)
+Food ID: 168040
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 26 kcal
+Protein: 0.52 g
+Carbohydrates: 5.64 g
+Fat: 0.2 g
+Sugar: 3.54 g
+
+Minerals:
+Sodium: 20 mg
+Potassium: 205 mg
+Calcium: 9 mg
+Iron: 0.17 mg
+Magnesium: 10 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin C: 4.5 mg
+Vitamin E: 0 mg
+Vitamin B6: 0.058 mg
+Folate: 22 µg

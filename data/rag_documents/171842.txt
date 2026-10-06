@@ -1,0 +1,37 @@
+Food: Cookies, oatmeal sandwich, with creme filling
+Food ID: 171842
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 398 kcal
+Protein: 2.61 g
+Carbohydrates: 55.62 g
+Fat: 18.29 g
+Fiber: 2.6 g
+Sugar: 31.36 g
+
+Fats:
+Saturated fat: 5.226 g
+Monounsaturated fat: 4.53 g
+Polyunsaturated fat: 7.434 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 500 mg
+Potassium: 136 mg
+Calcium: 0 mg
+Iron: 1.88 mg
+Magnesium: 35 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.21 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.01 µg
+Folate: 38 µg

@@ -1,0 +1,36 @@
+Food: Infant formula, Enfamil Gentlease, powder, made with tap water
+Food ID: 2705541
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 1.51 g
+Carbohydrates: 7.31 g
+Fat: 3.49 g
+Fiber: 0 g
+Sugar: 7.25 g
+
+Fats:
+Saturated fat: 1.462 g
+Monounsaturated fat: 1.229 g
+Polyunsaturated fat: 0.66 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 71 mg
+Calcium: 57 mg
+Iron: 1.19 mg
+Magnesium: 6 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 7.9 mg
+Vitamin D: 1 µg
+Vitamin E: 0.6 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.2 µg
+Folate: 11 µg

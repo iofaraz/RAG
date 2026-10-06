@@ -1,0 +1,36 @@
+Food: Starfruit, raw
+Food ID: 2709228
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 1.04 g
+Carbohydrates: 6.73 g
+Fat: 0.33 g
+Fiber: 2.8 g
+Sugar: 3.98 g
+
+Fats:
+Saturated fat: 0.019 g
+Monounsaturated fat: 0.03 g
+Polyunsaturated fat: 0.184 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 133 mg
+Calcium: 3 mg
+Iron: 0.08 mg
+Magnesium: 10 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 34.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

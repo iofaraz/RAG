@@ -1,0 +1,36 @@
+Food: Chili with meat and beans
+Food ID: 2706375
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 9.8 g
+Carbohydrates: 10.25 g
+Fat: 4.33 g
+Fiber: 3 g
+Sugar: 1.48 g
+
+Fats:
+Saturated fat: 1.617 g
+Monounsaturated fat: 1.84 g
+Polyunsaturated fat: 0.282 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 340 mg
+Potassium: 285 mg
+Calcium: 21 mg
+Iron: 1.91 mg
+Magnesium: 25 mg
+Zinc: 1.98 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 6.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.185 mg
+Vitamin B12: 0.63 µg
+Folate: 50 µg

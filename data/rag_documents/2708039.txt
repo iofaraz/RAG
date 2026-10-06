@@ -1,0 +1,36 @@
+Food: Strudel, apple
+Food ID: 2708039
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 281 kcal
+Protein: 1.96 g
+Carbohydrates: 37.18 g
+Fat: 14.08 g
+Fiber: 0.8 g
+Sugar: 21.1 g
+
+Fats:
+Saturated fat: 7.604 g
+Monounsaturated fat: 2.823 g
+Polyunsaturated fat: 0.501 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 132 mg
+Potassium: 67 mg
+Calcium: 9 mg
+Iron: 0.3 mg
+Magnesium: 6 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 126 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.024 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

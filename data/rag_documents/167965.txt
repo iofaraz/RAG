@@ -1,0 +1,32 @@
+Food: Snacks, pretzels, hard, whole-wheat including both salted and unsalted
+Food ID: 167965
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 362 kcal
+Protein: 11.1 g
+Carbohydrates: 81.3 g
+Fat: 2.6 g
+Fiber: 7.7 g
+
+Fats:
+Saturated fat: 0.56 g
+Monounsaturated fat: 1.03 g
+Polyunsaturated fat: 0.83 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 203 mg
+Potassium: 430 mg
+Calcium: 28 mg
+Iron: 2.69 mg
+Magnesium: 30 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1 mg
+Vitamin B6: 0.274 mg
+Vitamin B12: 0 µg
+Folate: 54 µg

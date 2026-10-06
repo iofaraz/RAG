@@ -1,0 +1,22 @@
+Food: Avocado, Hass, peeled, raw
+Food ID: 2710824
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.8125 g
+Carbohydrates: 8.3235 g
+Fat: 20.31 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 576.4 mg
+Calcium: 14.46 mg
+Iron: 0.6133 mg
+Magnesium: 32.8 mg
+Zinc: 0.4596 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.1674 mg
+Folate: 128.7 µg

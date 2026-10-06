@@ -1,0 +1,30 @@
+Food: Van's, Gluten Free, Totally Original Waffles
+Food ID: 168011
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 248 kcal
+Protein: 2.99 g
+Carbohydrates: 40.54 g
+Fat: 8.22 g
+Sugar: 1.73 g
+
+Fats:
+Saturated fat: 0.781 g
+Monounsaturated fat: 4.456 g
+Polyunsaturated fat: 2.375 g
+Trans fat: 0.01 g
+
+Minerals:
+Sodium: 508 mg
+Potassium: 121 mg
+Calcium: 48 mg
+Iron: 0.56 mg
+Magnesium: 31 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin K: 7.3 µg
+Vitamin B6: 0.067 mg
+Folate: 8 µg

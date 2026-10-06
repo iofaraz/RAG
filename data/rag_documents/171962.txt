@@ -1,0 +1,32 @@
+Food: Fish, grouper, mixed species, raw
+Food ID: 171962
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 19.38 g
+Carbohydrates: 0 g
+Fat: 1.02 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.233 g
+Monounsaturated fat: 0.202 g
+Polyunsaturated fat: 0.321 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 483 mg
+Calcium: 27 mg
+Iron: 0.89 mg
+Magnesium: 31 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 0.6 µg
+Folate: 9 µg

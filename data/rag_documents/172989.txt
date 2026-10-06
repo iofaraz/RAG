@@ -1,0 +1,36 @@
+Food: Cereals, QUAKER, Quick Oats, Dry
+Food ID: 172989
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 13.7 g
+Carbohydrates: 68.18 g
+Fat: 6.87 g
+Fiber: 9.4 g
+Sugar: 1.42 g
+
+Fats:
+Saturated fat: 1.11 g
+Monounsaturated fat: 1.98 g
+Polyunsaturated fat: 2.3 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 358 mg
+Calcium: 47 mg
+Iron: 4.64 mg
+Magnesium: 270 mg
+Zinc: 3.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

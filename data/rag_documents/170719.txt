@@ -1,0 +1,31 @@
+Food: McDONALD'S, QUARTER POUNDER with Cheese
+Food ID: 170719
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 14.59 g
+Carbohydrates: 19.95 g
+Fat: 14.22 g
+Fiber: 1.4 g
+Sugar: 4.91 g
+
+Fats:
+Saturated fat: 5.643 g
+Monounsaturated fat: 4.608 g
+Polyunsaturated fat: 0.433 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 579 mg
+Potassium: 219 mg
+Calcium: 144 mg
+Iron: 2.1 mg
+Magnesium: 22 mg
+Zinc: 2.63 mg
+
+Vitamins:
+Vitamin C: 0.8 mg
+Vitamin B12: 1.26 µg
+Folate: 51 µg

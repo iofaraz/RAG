@@ -1,0 +1,37 @@
+Food: Drumstick leaves, cooked, boiled, drained, without salt
+Food ID: 168417
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 5.27 g
+Carbohydrates: 11.15 g
+Fat: 0.93 g
+Fiber: 2 g
+Sugar: 1 g
+
+Fats:
+Saturated fat: 0.152 g
+Monounsaturated fat: 0.473 g
+Polyunsaturated fat: 0.015 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 344 mg
+Calcium: 151 mg
+Iron: 2.32 mg
+Magnesium: 34 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 351 µg
+Vitamin C: 31 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 108 µg
+Vitamin B6: 0.929 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

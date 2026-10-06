@@ -1,0 +1,37 @@
+Food: Corn, sweet, white, cooked, boiled, drained, with salt
+Food ID: 168540
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 3.34 g
+Carbohydrates: 21.71 g
+Fat: 1.41 g
+Fiber: 2.7 g
+Sugar: 7.73 g
+
+Fats:
+Saturated fat: 0.197 g
+Monounsaturated fat: 0.374 g
+Polyunsaturated fat: 0.603 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 253 mg
+Potassium: 252 mg
+Calcium: 2 mg
+Iron: 0.55 mg
+Magnesium: 31 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 6.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

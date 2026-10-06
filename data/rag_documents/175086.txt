@@ -1,0 +1,31 @@
+Food: Game meat, horse, raw
+Food ID: 175086
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 21.39 g
+Carbohydrates: 0 g
+Fat: 4.6 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.44 g
+Monounsaturated fat: 1.61 g
+Polyunsaturated fat: 0.65 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 360 mg
+Calcium: 6 mg
+Iron: 3.82 mg
+Magnesium: 24 mg
+Zinc: 2.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1 mg
+Vitamin B6: 0.38 mg
+Vitamin B12: 3 µg

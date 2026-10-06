@@ -1,0 +1,31 @@
+Food: Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)
+Food ID: 326458
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 0.81 g
+Carbohydrates: 7.92 g
+Fat: 0.47 g
+Fiber: 3.2 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.163 g
+
+Minerals:
+Sodium: 66 mg
+Potassium: 210 mg
+Calcium: 33 mg
+Iron: 0.43 mg
+Magnesium: 10.8 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin C: 2.2 mg
+Vitamin E: 0.69 mg
+Vitamin K: 15 µg
+Vitamin B6: 0.088 mg
+Folate: 7 µg

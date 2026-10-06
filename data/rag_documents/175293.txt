@@ -1,0 +1,36 @@
+Food: Bison, ground, grass-fed, raw
+Food ID: 175293
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 20.23 g
+Carbohydrates: 0.05 g
+Fat: 7.21 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.917 g
+Monounsaturated fat: 2.753 g
+Polyunsaturated fat: 0.336 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 328 mg
+Calcium: 11 mg
+Iron: 2.78 mg
+Magnesium: 21 mg
+Zinc: 4.59 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.383 mg
+Vitamin B12: 1.94 µg
+Folate: 12 µg

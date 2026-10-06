@@ -1,0 +1,36 @@
+Food: Pork, cured, bacon, cooked, baked
+Food ID: 167914
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 548 kcal
+Protein: 35.73 g
+Carbohydrates: 1.35 g
+Fat: 43.27 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 14.187 g
+Monounsaturated fat: 19.065 g
+Polyunsaturated fat: 4.859 g
+Trans fat: 0 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 2193 mg
+Potassium: 539 mg
+Calcium: 10 mg
+Iron: 1.49 mg
+Magnesium: 30 mg
+Zinc: 3.36 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin E: 0.32 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.309 mg
+Vitamin B12: 1.16 µg
+Folate: 2 µg

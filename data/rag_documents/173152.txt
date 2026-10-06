@@ -1,0 +1,31 @@
+Food: Snacks, yucca (cassava) chips, salted
+Food ID: 173152
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 515 kcal
+Protein: 1.34 g
+Carbohydrates: 69.23 g
+Fat: 25.91 g
+Fiber: 3.7 g
+Sugar: 3.36 g
+
+Fats:
+Saturated fat: 8.689 g
+Monounsaturated fat: 7.443 g
+Polyunsaturated fat: 6.912 g
+Trans fat: 0.15 g
+
+Minerals:
+Sodium: 296 mg
+Potassium: 868 mg
+Calcium: 52 mg
+Iron: 0.72 mg
+Magnesium: 46 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin E: 2.78 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.13 mg

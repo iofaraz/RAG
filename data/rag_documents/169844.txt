@@ -1,0 +1,33 @@
+Food: DENNY'S, onion rings
+Food ID: 169844
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 385 kcal
+Protein: 5.29 g
+Carbohydrates: 41.05 g
+Fat: 22.23 g
+Fiber: 2.4 g
+Sugar: 4.76 g
+
+Fats:
+Saturated fat: 3.729 g
+Monounsaturated fat: 4.611 g
+Polyunsaturated fat: 10.56 g
+Trans fat: 0.207 g
+
+Minerals:
+Sodium: 780 mg
+Potassium: 150 mg
+Calcium: 22 mg
+Iron: 0.74 mg
+Magnesium: 20 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 1.23 mg
+Vitamin K: 50.6 µg
+Vitamin B6: 0.089 mg
+Folate: 13 µg

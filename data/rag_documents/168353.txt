@@ -1,0 +1,37 @@
+Food: Pork, cured, ham with natural juices, slice, boneless, separable lean and fat, heated, pan-broil
+Food ID: 168353
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 20.89 g
+Carbohydrates: 1.04 g
+Fat: 3.4 g
+Fiber: 0 g
+Sugar: 1.04 g
+
+Fats:
+Saturated fat: 1.054 g
+Monounsaturated fat: 1.445 g
+Polyunsaturated fat: 0.454 g
+Trans fat: 0.002 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 1160 mg
+Potassium: 363 mg
+Calcium: 6 mg
+Iron: 0.93 mg
+Magnesium: 22 mg
+Zinc: 2.13 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.504 mg
+Vitamin B12: 0.42 µg
+Folate: 1 µg

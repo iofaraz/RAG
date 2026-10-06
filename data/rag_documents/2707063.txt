@@ -1,0 +1,36 @@
+Food: Hot dog sandwich, beef, on wheat bread
+Food ID: 2707063
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 294 kcal
+Protein: 11.6 g
+Carbohydrates: 17.56 g
+Fat: 19.72 g
+Fiber: 1.9 g
+Sugar: 2.62 g
+
+Fats:
+Saturated fat: 7.717 g
+Monounsaturated fat: 8.152 g
+Polyunsaturated fat: 1.165 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 694 mg
+Potassium: 279 mg
+Calcium: 66 mg
+Iron: 1.83 mg
+Magnesium: 27 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.45 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 0.54 µg
+Folate: 25 µg

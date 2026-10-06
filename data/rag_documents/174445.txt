@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, sweetbread, cooked, soaked and simmered
+Food ID: 174445
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 21.13 g
+Carbohydrates: 0 g
+Fat: 6.61 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.342 g
+Monounsaturated fat: 1.847 g
+Polyunsaturated fat: 0.393 g
+Trans fat: 0.172 g
+Cholesterol: 462 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 354 mg
+Calcium: 6 mg
+Iron: 1.06 mg
+Magnesium: 25 mg
+Zinc: 1.93 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.13 mg
+Vitamin B6: 0 mg
+Vitamin B12: 2.5 µg

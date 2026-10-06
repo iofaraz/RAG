@@ -1,0 +1,37 @@
+Food: Snack, Pretzel, hard chocolate coated
+Food ID: 173156
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 467 kcal
+Protein: 7.05 g
+Carbohydrates: 70.07 g
+Fat: 17.64 g
+Fiber: 3.5 g
+Sugar: 38.8 g
+
+Fats:
+Saturated fat: 8.611 g
+Monounsaturated fat: 3.293 g
+Polyunsaturated fat: 2.82 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 494 mg
+Potassium: 199 mg
+Calcium: 141 mg
+Iron: 2.54 mg
+Magnesium: 35 mg
+Zinc: 1.33 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.62 mg
+Vitamin K: 11.1 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.32 µg
+Folate: 74 µg

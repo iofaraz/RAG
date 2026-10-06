@@ -1,0 +1,36 @@
+Food: Table fat, NFS
+Food ID: 2710153
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 677 kcal
+Protein: 0.58 g
+Carbohydrates: 0.36 g
+Fat: 75.33 g
+Fiber: 0 g
+Sugar: 0.35 g
+
+Fats:
+Saturated fat: 32.505 g
+Monounsaturated fat: 19.832 g
+Polyunsaturated fat: 11.885 g
+Cholesterol: 141 mg
+
+Minerals:
+Sodium: 592 mg
+Potassium: 25 mg
+Calcium: 19 mg
+Iron: 0.04 mg
+Magnesium: 2 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 782 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 7.24 mg
+Vitamin K: 43.9 µg
+Vitamin B6: 1.126 mg
+Vitamin B12: 0.01 µg
+Folate: 3 µg

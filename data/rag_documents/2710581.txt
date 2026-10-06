@@ -1,0 +1,36 @@
+Food: Vegetable and fruit juice drink, with high vitamin C
+Food ID: 2710581
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 29 kcal
+Protein: 0.04 g
+Carbohydrates: 7.47 g
+Fat: 0.01 g
+Fiber: 0 g
+Sugar: 2.1 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 19 mg
+Calcium: 3 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 104 µg
+Vitamin C: 32.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.63 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,37 @@
+Food: Beef, chuck, under blade pot roast or steak, boneless, separable lean and fat, trimmed to 0" fat, choice, raw
+Food ID: 170814
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 19.15 g
+Carbohydrates: 0 g
+Fat: 13.93 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.896 g
+Monounsaturated fat: 6.794 g
+Polyunsaturated fat: 0.588 g
+Trans fat: 0.846 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 76 mg
+Potassium: 329 mg
+Calcium: 12 mg
+Iron: 2.13 mg
+Magnesium: 19 mg
+Zinc: 6.99 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.38 mg
+Vitamin B12: 2.94 µg
+Folate: 3 µg

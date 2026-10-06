@@ -1,0 +1,36 @@
+Food: Onion dip, yogurt based
+Food ID: 2705445
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 6.82 g
+Carbohydrates: 4.06 g
+Fat: 12.91 g
+Fiber: 0.2 g
+Sugar: 3.38 g
+
+Fats:
+Saturated fat: 2.726 g
+Monounsaturated fat: 2.933 g
+Polyunsaturated fat: 6.866 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 507 mg
+Potassium: 126 mg
+Calcium: 93 mg
+Iron: 0.08 mg
+Magnesium: 10 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.53 mg
+Vitamin K: 25 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.42 µg
+Folate: 10 µg

@@ -1,0 +1,36 @@
+Food: Rice noodles, cooked
+Food ID: 2708356
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 107 kcal
+Protein: 1.78 g
+Carbohydrates: 23.87 g
+Fat: 0.2 g
+Fiber: 1 g
+Sugar: 0.03 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.026 g
+Polyunsaturated fat: 0.023 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 250 mg
+Potassium: 4 mg
+Calcium: 4 mg
+Iron: 0.14 mg
+Magnesium: 3 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.006 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

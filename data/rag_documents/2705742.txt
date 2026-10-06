@@ -1,0 +1,36 @@
+Food: Cheese, Mexican blend, reduced fat
+Food ID: 2705742
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 24.69 g
+Carbohydrates: 3.41 g
+Fat: 19.4 g
+Fiber: 0 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 11.58 g
+Monounsaturated fat: 5.02 g
+Polyunsaturated fat: 0.75 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 776 mg
+Potassium: 93 mg
+Calcium: 1146 mg
+Iron: 0.13 mg
+Magnesium: 35 mg
+Zinc: 4.3 mg
+
+Vitamins:
+Vitamin A: 155 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.17 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 1.66 µg
+Folate: 20 µg

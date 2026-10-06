@@ -1,0 +1,37 @@
+Food: Bagels, whole grain white
+Food ID: 174092
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 255 kcal
+Protein: 9.3 g
+Carbohydrates: 54.52 g
+Fat: 0 g
+Fiber: 4.7 g
+Sugar: 9.3 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 176 mg
+Calcium: 93 mg
+Iron: 4.19 mg
+Magnesium: 41 mg
+Zinc: 1.62 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 0 µg
+Folate: 140 µg

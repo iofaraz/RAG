@@ -1,0 +1,36 @@
+Food: Cheese, processed, with vegetables
+Food ID: 2705771
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 356 kcal
+Protein: 14.14 g
+Carbohydrates: 3.48 g
+Fat: 31.7 g
+Fiber: 0.1 g
+Sugar: 1.97 g
+
+Fats:
+Saturated fat: 18.248 g
+Monounsaturated fat: 6.754 g
+Polyunsaturated fat: 1.25 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 946 mg
+Potassium: 101 mg
+Calcium: 393 mg
+Iron: 0.16 mg
+Magnesium: 18 mg
+Zinc: 2.08 mg
+
+Vitamins:
+Vitamin A: 285 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.79 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0.52 µg
+Folate: 15 µg

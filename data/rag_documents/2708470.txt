@@ -1,0 +1,36 @@
+Food: Cereal, rice squares
+Food ID: 2708470
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 7.01 g
+Carbohydrates: 77.43 g
+Fat: 2.19 g
+Fiber: 5.4 g
+Sugar: 6.97 g
+
+Fats:
+Saturated fat: 0.41 g
+Monounsaturated fat: 1.012 g
+Polyunsaturated fat: 0.6 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 813 mg
+Potassium: 67 mg
+Calcium: 323 mg
+Iron: 26.87 mg
+Magnesium: 21 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 22.6 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.673 mg
+Vitamin B12: 0.88 µg
+Folate: 134 µg

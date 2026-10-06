@@ -1,0 +1,36 @@
+Food: Cheese flavored corn snacks, reduced fat
+Food ID: 2708201
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 432 kcal
+Protein: 8.5 g
+Carbohydrates: 72.35 g
+Fat: 12.1 g
+Fiber: 3.6 g
+Sugar: 7.29 g
+
+Fats:
+Saturated fat: 2.1 g
+Monounsaturated fat: 3.5 g
+Polyunsaturated fat: 5.74 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 842 mg
+Potassium: 286 mg
+Calcium: 357 mg
+Iron: 1.28 mg
+Magnesium: 41 mg
+Zinc: 2.14 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 21.4 mg
+Vitamin D: 0 µg
+Vitamin E: 4.25 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.71 mg
+Vitamin B12: 0.2 µg
+Folate: 97 µg

@@ -1,0 +1,36 @@
+Food: Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, Liquid concentrate, not reconstituted
+Food ID: 168969
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 2.72 g
+Carbohydrates: 14.34 g
+Fat: 7.1 g
+Fiber: 0 g
+Sugar: 14.34 g
+
+Fats:
+Saturated fat: 2.943 g
+Monounsaturated fat: 2.633 g
+Polyunsaturated fat: 1.355 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 138 mg
+Calcium: 101 mg
+Iron: 2.32 mg
+Magnesium: 10 mg
+Zinc: 1.28 mg
+
+Vitamins:
+Vitamin A: 118 µg
+Vitamin C: 15.6 mg
+Vitamin D: 1 µg
+Vitamin E: 1.17 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.39 µg
+Folate: 12 µg

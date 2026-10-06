@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, chicken stew, toddler
+Food ID: 173497
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 5.2 g
+Carbohydrates: 6.4 g
+Fat: 3.7 g
+Fiber: 0.6 g
+Sugar: 1.68 g
+
+Fats:
+Saturated fat: 1.1 g
+Monounsaturated fat: 1.7 g
+Polyunsaturated fat: 0.77 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 92 mg
+Calcium: 36 mg
+Iron: 0.66 mg
+Magnesium: 10 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.22 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.14 µg
+Folate: 16 µg

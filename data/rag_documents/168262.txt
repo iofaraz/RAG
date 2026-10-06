@@ -1,0 +1,36 @@
+Food: Pork, fresh, shoulder, blade, boston (steaks), separable lean only, cooked, broiled
+Food ID: 168262
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 26.74 g
+Carbohydrates: 0 g
+Fat: 12.54 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.45 g
+Monounsaturated fat: 5.64 g
+Polyunsaturated fat: 1.08 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 74 mg
+Potassium: 343 mg
+Calcium: 33 mg
+Iron: 1.56 mg
+Magnesium: 24 mg
+Zinc: 5.02 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.3 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.31 mg
+Vitamin B12: 1.13 µg
+Folate: 5 µg

@@ -1,0 +1,36 @@
+Food: Pork and beef sausage
+Food ID: 2706194
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 15.92 g
+Carbohydrates: 2.4 g
+Fat: 27.98 g
+Fiber: 0 g
+Sugar: 1.04 g
+
+Fats:
+Saturated fat: 10.063 g
+Monounsaturated fat: 12.12 g
+Polyunsaturated fat: 3.512 g
+Cholesterol: 74 mg
+
+Minerals:
+Sodium: 840 mg
+Potassium: 302 mg
+Calcium: 22 mg
+Iron: 1.38 mg
+Magnesium: 18 mg
+Zinc: 2.3 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 9.6 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.62 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.172 mg
+Vitamin B12: 1.06 µg
+Folate: 4 µg

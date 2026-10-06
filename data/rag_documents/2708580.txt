@@ -1,0 +1,36 @@
+Food: Nachos, chicken
+Food ID: 2708580
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 242 kcal
+Protein: 11.2 g
+Carbohydrates: 19.87 g
+Fat: 13.33 g
+Fiber: 1.4 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 2.738 g
+Monounsaturated fat: 4.566 g
+Polyunsaturated fat: 4.937 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 430 mg
+Potassium: 143 mg
+Calcium: 61 mg
+Iron: 0.86 mg
+Magnesium: 31 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.85 mg
+Vitamin K: 11.1 µg
+Vitamin B6: 0.244 mg
+Vitamin B12: 0.13 µg
+Folate: 11 µg

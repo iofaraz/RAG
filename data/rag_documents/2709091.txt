@@ -1,0 +1,36 @@
+Food: Rice dessert or salad with fruit
+Food ID: 2709091
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 1.39 g
+Carbohydrates: 20.8 g
+Fat: 7.29 g
+Fiber: 0.6 g
+Sugar: 11.02 g
+
+Fats:
+Saturated fat: 4.108 g
+Monounsaturated fat: 1.501 g
+Polyunsaturated fat: 0.355 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 92 mg
+Calcium: 22 mg
+Iron: 0.36 mg
+Magnesium: 10 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 67 µg
+Vitamin C: 26.7 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.2 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

@@ -1,0 +1,36 @@
+Food: Whipped cream substitute, dietetic, made from powdered mix
+Food ID: 169899
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 0.9 g
+Carbohydrates: 10.6 g
+Fat: 6 g
+Fiber: 0 g
+Sugar: 10.6 g
+
+Fats:
+Saturated fat: 3.186 g
+Monounsaturated fat: 1.357 g
+Polyunsaturated fat: 1.158 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 106 mg
+Potassium: 26 mg
+Calcium: 3 mg
+Iron: 0.01 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

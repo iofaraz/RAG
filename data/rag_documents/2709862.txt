@@ -1,0 +1,36 @@
+Food: Green beans, frozen, cooked with butter or margarine
+Food ID: 2709862
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 1.46 g
+Carbohydrates: 6.26 g
+Fat: 2.35 g
+Fiber: 2.9 g
+Sugar: 1.83 g
+
+Fats:
+Saturated fat: 0.987 g
+Monounsaturated fat: 0.584 g
+Polyunsaturated fat: 0.426 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 131 mg
+Potassium: 155 mg
+Calcium: 41 mg
+Iron: 0.64 mg
+Magnesium: 18 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 38.2 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

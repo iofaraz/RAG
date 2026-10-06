@@ -1,0 +1,32 @@
+Food: DOMINO'S 14" Sausage Pizza, Classic Hand-Tossed Crust
+Food ID: 170766
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 11.08 g
+Carbohydrates: 31.84 g
+Fat: 11.2 g
+Fiber: 2.4 g
+Sugar: 3.92 g
+
+Fats:
+Saturated fat: 4.607 g
+Monounsaturated fat: 3.366 g
+Polyunsaturated fat: 2.385 g
+Trans fat: 0.212 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 594 mg
+Potassium: 183 mg
+Calcium: 137 mg
+Iron: 2.36 mg
+Magnesium: 25 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin C: 0.6 mg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.48 µg

@@ -1,0 +1,36 @@
+Food: Crisp, peach
+Food ID: 2708028
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 2.98 g
+Carbohydrates: 29.6 g
+Fat: 9.59 g
+Fiber: 2.7 g
+Sugar: 15.52 g
+
+Fats:
+Saturated fat: 4.775 g
+Monounsaturated fat: 2.092 g
+Polyunsaturated fat: 0.733 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 121 mg
+Potassium: 159 mg
+Calcium: 15 mg
+Iron: 1.09 mg
+Magnesium: 32 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

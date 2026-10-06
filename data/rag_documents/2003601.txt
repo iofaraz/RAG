@@ -1,0 +1,22 @@
+Food: Mushroom, crimini
+Food ID: 2003601
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 3.09375 g
+Carbohydrates: 4.01455 g
+Fat: 0.1967 g
+Fiber: 1.781 g
+
+Minerals:
+Sodium: 4.572 mg
+Potassium: 380.3 mg
+Calcium: 4.105 mg
+Iron: 0.3115 mg
+Magnesium: 10.25 mg
+Zinc: 0.5123 mg
+
+Vitamins:
+Vitamin D: 0 µg
+Vitamin B6: 0.1125 mg

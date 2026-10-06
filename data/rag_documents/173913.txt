@@ -1,0 +1,30 @@
+Food: Cereals ready-to-eat, wheat, puffed, fortified
+Food ID: 173913
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 14.7 g
+Carbohydrates: 79.6 g
+Fat: 1.2 g
+Fiber: 4.4 g
+
+Fats:
+Saturated fat: 0.2 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 348 mg
+Calcium: 28 mg
+Iron: 31.7 mg
+Magnesium: 145 mg
+Zinc: 2.36 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

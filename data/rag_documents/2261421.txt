@@ -1,0 +1,22 @@
+Food: Flour, oat, whole grain
+Food ID: 2261421
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 13.1687 g
+Carbohydrates: 69.9172 g
+Fat: 6.309 g
+Fiber: 10.5 g
+
+Minerals:
+Sodium: 3.619 mg
+Potassium: 373.1 mg
+Calcium: 42.81 mg
+Iron: 3.997 mg
+Magnesium: 125.3 mg
+Zinc: 2.754 mg
+
+Vitamins:
+Vitamin B6: 0.1476 mg
+Folate: 34.69 µg

@@ -1,0 +1,36 @@
+Food: Almond butter sandwich, on white bread
+Food ID: 2707562
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 397 kcal
+Protein: 13.34 g
+Carbohydrates: 39.43 g
+Fat: 20.68 g
+Fiber: 4.9 g
+Sugar: 5.01 g
+
+Fats:
+Saturated fat: 2.005 g
+Monounsaturated fat: 12.465 g
+Polyunsaturated fat: 5.576 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 374 mg
+Potassium: 334 mg
+Calcium: 229 mg
+Iron: 3.61 mg
+Magnesium: 110 mg
+Zinc: 1.67 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5.91 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.089 mg
+Vitamin B12: 0 µg
+Folate: 87 µg

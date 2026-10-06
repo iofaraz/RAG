@@ -1,0 +1,32 @@
+Food: Soup, cream of shrimp, canned, condensed
+Food ID: 171159
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 2.22 g
+Carbohydrates: 6.53 g
+Fat: 4.14 g
+Fiber: 0.2 g
+
+Fats:
+Saturated fat: 2.58 g
+Monounsaturated fat: 1.19 g
+Polyunsaturated fat: 0.15 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 685 mg
+Potassium: 47 mg
+Calcium: 14 mg
+Iron: 0.42 mg
+Magnesium: 7 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.47 µg
+Folate: 3 µg

@@ -1,0 +1,24 @@
+Food: Cocoa, dry powder, unsweetened, HERSHEY'S European Style Cocoa
+Food ID: 168774
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 410 kcal
+Protein: 20 g
+Carbohydrates: 60 g
+Fat: 10 g
+Fiber: 20 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Calcium: 0 mg
+Iron: 36 mg
+
+Vitamins:
+Vitamin C: 0 mg

@@ -1,0 +1,36 @@
+Food: Cherries, maraschino
+Food ID: 2709229
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 0.22 g
+Carbohydrates: 41.97 g
+Fat: 0.21 g
+Fiber: 3.2 g
+Sugar: 38.77 g
+
+Fats:
+Saturated fat: 0.039 g
+Monounsaturated fat: 0.049 g
+Polyunsaturated fat: 0.055 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 21 mg
+Calcium: 54 mg
+Iron: 0.43 mg
+Magnesium: 4 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.005 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,32 @@
+Food: APPLEBEE'S, 9 oz house sirloin steak
+Food ID: 169831
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 26.85 g
+Carbohydrates: 0 g
+Fat: 9.08 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.477 g
+Monounsaturated fat: 4.35 g
+Polyunsaturated fat: 0.532 g
+Trans fat: 0.314 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 604 mg
+Potassium: 350 mg
+Calcium: 16 mg
+Iron: 2.07 mg
+Magnesium: 24 mg
+Zinc: 5.35 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin E: 0.37 mg
+Vitamin B6: 0.575 mg
+Vitamin B12: 2 µg

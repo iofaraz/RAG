@@ -1,0 +1,36 @@
+Food: Veal, loin, separable lean and fat, cooked, braised
+Food ID: 173824
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 284 kcal
+Protein: 30.19 g
+Carbohydrates: 0 g
+Fat: 17.21 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.73 g
+Monounsaturated fat: 6.73 g
+Polyunsaturated fat: 1.16 g
+Cholesterol: 118 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 280 mg
+Calcium: 28 mg
+Iron: 1.09 mg
+Magnesium: 24 mg
+Zinc: 3.63 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 1.21 µg
+Folate: 14 µg

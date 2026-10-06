@@ -1,0 +1,36 @@
+Food: Tuna salad sandwich on wheat
+Food ID: 2707036
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 10.52 g
+Carbohydrates: 17.07 g
+Fat: 11.89 g
+Fiber: 2.1 g
+Sugar: 3.12 g
+
+Fats:
+Saturated fat: 1.92 g
+Monounsaturated fat: 2.564 g
+Polyunsaturated fat: 6.717 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 425 mg
+Potassium: 166 mg
+Calcium: 68 mg
+Iron: 1.68 mg
+Magnesium: 29 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.74 mg
+Vitamin K: 31.7 µg
+Vitamin B6: 0.172 mg
+Vitamin B12: 0.9 µg
+Folate: 32 µg

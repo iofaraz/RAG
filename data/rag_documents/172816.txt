@@ -1,0 +1,32 @@
+Food: Bread, pita, white, unenriched
+Food ID: 172816
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 275 kcal
+Protein: 9.1 g
+Carbohydrates: 55.7 g
+Fat: 1.2 g
+Fiber: 2.2 g
+
+Fats:
+Saturated fat: 0.166 g
+Monounsaturated fat: 0.105 g
+Polyunsaturated fat: 0.535 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 536 mg
+Potassium: 120 mg
+Calcium: 86 mg
+Iron: 1.4 mg
+Magnesium: 26 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

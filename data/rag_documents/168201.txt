@@ -1,0 +1,30 @@
+Food: Apples, raw, red delicious, with skin (Includes foods for USDA's Food Distribution Program)
+Food ID: 168201
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 0.27 g
+Carbohydrates: 14.06 g
+Fat: 0.2 g
+Fiber: 2.3 g
+Sugar: 10.48 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 104 mg
+Calcium: 6 mg
+Iron: 0.11 mg
+Magnesium: 5 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin E: 0.24 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.034 mg
+Folate: 3 µg

@@ -1,0 +1,36 @@
+Food: Infant formula, Similac Sensitive, powder, made with tap water
+Food ID: 2705527
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 1.4 g
+Carbohydrates: 6.99 g
+Fat: 3.53 g
+Fiber: 0 g
+Sugar: 6.99 g
+
+Fats:
+Saturated fat: 2.298 g
+Monounsaturated fat: 0.363 g
+Polyunsaturated fat: 0.787 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 70 mg
+Calcium: 57 mg
+Iron: 1.17 mg
+Magnesium: 5 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 5.7 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.89 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.16 µg
+Folate: 9 µg

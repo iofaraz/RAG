@@ -1,0 +1,14 @@
+Food: Lunchmeat, chicken breast, sliced
+Food ID: 2759004
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 0.7033 g
+Monounsaturated fat: 0.9242 g
+Polyunsaturated fat: 0.5075 g
+Trans fat: 0.005833 g
+
+Vitamins:
+Vitamin B6: 0.2388 mg
+Vitamin B12: 0.1183 µg

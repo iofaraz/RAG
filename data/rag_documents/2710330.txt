@@ -1,0 +1,36 @@
+Food: Chocolate candy with nuts
+Food ID: 2710330
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 545 kcal
+Protein: 10.99 g
+Carbohydrates: 51.77 g
+Fat: 33.66 g
+Fiber: 4.4 g
+Sugar: 42.18 g
+
+Fats:
+Saturated fat: 16.352 g
+Monounsaturated fat: 10.985 g
+Polyunsaturated fat: 3.055 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 424 mg
+Calcium: 163 mg
+Iron: 2.2 mg
+Magnesium: 86 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.39 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.6 µg
+Folate: 29 µg

@@ -1,0 +1,37 @@
+Food: Candies, honey-combed, with peanut butter
+Food ID: 167546
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 473 kcal
+Protein: 8.72 g
+Carbohydrates: 67.41 g
+Fat: 20.18 g
+Fiber: 1.9 g
+Sugar: 62.68 g
+
+Fats:
+Saturated fat: 5.735 g
+Monounsaturated fat: 8.496 g
+Polyunsaturated fat: 4.794 g
+Trans fat: 0.029 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 174 mg
+Potassium: 220 mg
+Calcium: 21 mg
+Iron: 0.71 mg
+Magnesium: 66 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.57 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.173 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

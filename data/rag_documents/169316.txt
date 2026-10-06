@@ -1,0 +1,37 @@
+Food: Lima beans, immature seeds, cooked, boiled, drained, with salt
+Food ID: 169316
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 6.81 g
+Carbohydrates: 23.64 g
+Fat: 0.32 g
+Fiber: 5.3 g
+Sugar: 1.63 g
+
+Fats:
+Saturated fat: 0.073 g
+Monounsaturated fat: 0.019 g
+Polyunsaturated fat: 0.154 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 253 mg
+Potassium: 570 mg
+Calcium: 32 mg
+Iron: 2.45 mg
+Magnesium: 74 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 10.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.193 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

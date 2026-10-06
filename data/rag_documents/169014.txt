@@ -1,0 +1,32 @@
+Food: T.G.I. FRIDAY'S, classic sirloin steak (10 oz)
+Food ID: 169014
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 196 kcal
+Protein: 31.02 g
+Carbohydrates: 0.47 g
+Fat: 7.83 g
+Sugar: 0.46 g
+
+Fats:
+Saturated fat: 2.451 g
+Monounsaturated fat: 2.636 g
+Polyunsaturated fat: 0.676 g
+Trans fat: 0.28 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 232 mg
+Potassium: 379 mg
+Calcium: 7 mg
+Iron: 2.87 mg
+Magnesium: 28 mg
+Zinc: 5.54 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin E: 0.77 mg
+Vitamin B6: 0.739 mg
+Vitamin B12: 2.63 µg

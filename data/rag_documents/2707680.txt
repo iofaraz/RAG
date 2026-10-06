@@ -1,0 +1,36 @@
+Food: Croissant, chocolate
+Food ID: 2707680
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 421 kcal
+Protein: 7.4 g
+Carbohydrates: 49.4 g
+Fat: 22.79 g
+Fiber: 3.3 g
+Sugar: 19.87 g
+
+Fats:
+Saturated fat: 12.872 g
+Monounsaturated fat: 6.409 g
+Polyunsaturated fat: 1.069 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 242 mg
+Potassium: 167 mg
+Calcium: 36 mg
+Iron: 2.25 mg
+Magnesium: 36 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 165 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.13 µg
+Folate: 73 µg

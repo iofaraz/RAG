@@ -1,0 +1,33 @@
+Food: Sauce, cheese, ready-to-serve
+Food ID: 171191
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 6.71 g
+Carbohydrates: 6.83 g
+Fat: 13.29 g
+Fiber: 0.5 g
+Sugar: 0.42 g
+
+Fats:
+Saturated fat: 6.01 g
+Monounsaturated fat: 3.823 g
+Polyunsaturated fat: 2.599 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 828 mg
+Potassium: 30 mg
+Calcium: 184 mg
+Iron: 0.21 mg
+Magnesium: 9 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 80 µg
+Vitamin C: 0.4 mg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0.14 µg
+Folate: 4 µg

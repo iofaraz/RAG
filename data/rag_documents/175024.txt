@@ -1,0 +1,36 @@
+Food: Pie crust, standard-type, frozen, ready-to-bake, enriched
+Food ID: 175024
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 457 kcal
+Protein: 6.16 g
+Carbohydrates: 48.62 g
+Fat: 26.07 g
+Fiber: 2.5 g
+Sugar: 3.72 g
+
+Fats:
+Saturated fat: 8.159 g
+Monounsaturated fat: 12.167 g
+Polyunsaturated fat: 3.176 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 409 mg
+Potassium: 97 mg
+Calcium: 19 mg
+Iron: 2.6 mg
+Magnesium: 15 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 70 µg

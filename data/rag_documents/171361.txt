@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, oatmeal, with bananas, dry
+Food ID: 171361
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 399 kcal
+Protein: 6.67 g
+Carbohydrates: 78.07 g
+Fat: 6.67 g
+Fiber: 5.2 g
+Sugar: 26.66 g
+
+Fats:
+Saturated fat: 1.267 g
+Monounsaturated fat: 1.429 g
+Polyunsaturated fat: 2.186 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 600 mg
+Calcium: 800 mg
+Iron: 45 mg
+Magnesium: 118 mg
+Zinc: 1.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 58.3 mg
+Vitamin D: 0 µg
+Vitamin E: 5 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.66 mg
+Vitamin B12: 3.33 µg
+Folate: 167 µg

@@ -1,0 +1,37 @@
+Food: Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0" fat, all grades, cooked, roasted
+Food ID: 171755
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 29.9 g
+Carbohydrates: 0 g
+Fat: 4.49 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.671 g
+Monounsaturated fat: 1.918 g
+Polyunsaturated fat: 0.301 g
+Trans fat: 0.214 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 384 mg
+Calcium: 16 mg
+Iron: 2.88 mg
+Magnesium: 15 mg
+Zinc: 4.54 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.779 mg
+Vitamin B12: 2.02 µg
+Folate: 5 µg

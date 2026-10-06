@@ -1,0 +1,37 @@
+Food: Bologna, meat and poultry
+Food ID: 171637
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 281 kcal
+Protein: 10.34 g
+Carbohydrates: 6.31 g
+Fat: 23.77 g
+Fiber: 0 g
+Sugar: 1.97 g
+
+Fats:
+Saturated fat: 7.389 g
+Monounsaturated fat: 10.269 g
+Polyunsaturated fat: 4.59 g
+Trans fat: 0.183 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 1379 mg
+Potassium: 320 mg
+Calcium: 125 mg
+Iron: 1.24 mg
+Magnesium: 15 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.59 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.193 mg
+Vitamin B12: 0.47 µg
+Folate: 7 µg

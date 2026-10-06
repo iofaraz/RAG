@@ -1,0 +1,32 @@
+Food: Fish, salmon, chinook, smoked, (lox), regular
+Food ID: 171985
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 18.28 g
+Carbohydrates: 0 g
+Fat: 4.32 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.929 g
+Monounsaturated fat: 2.023 g
+Polyunsaturated fat: 0.995 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 2000 mg
+Potassium: 175 mg
+Calcium: 11 mg
+Iron: 0.85 mg
+Magnesium: 18 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.278 mg
+Vitamin B12: 3.26 µg
+Folate: 2 µg

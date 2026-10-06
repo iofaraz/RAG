@@ -1,0 +1,37 @@
+Food: Lettuce, butterhead (includes boston and bibb types), raw
+Food ID: 168429
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 13 kcal
+Protein: 1.35 g
+Carbohydrates: 2.23 g
+Fat: 0.22 g
+Fiber: 1.1 g
+Sugar: 0.94 g
+
+Fats:
+Saturated fat: 0.029 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.117 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 238 mg
+Calcium: 35 mg
+Iron: 1.24 mg
+Magnesium: 13 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 166 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 102.3 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0 µg
+Folate: 73 µg

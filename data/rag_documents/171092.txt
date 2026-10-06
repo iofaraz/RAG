@@ -1,0 +1,36 @@
+Food: Turkey, all classes, back, meat and skin, cooked, roasted
+Food ID: 171092
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 26.59 g
+Carbohydrates: 0.16 g
+Fat: 14.38 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.18 g
+Monounsaturated fat: 5 g
+Polyunsaturated fat: 3.7 g
+Cholesterol: 91 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 260 mg
+Calcium: 33 mg
+Iron: 2.19 mg
+Magnesium: 22 mg
+Zinc: 3.92 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.59 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.3 mg
+Vitamin B12: 0.34 µg
+Folate: 8 µg

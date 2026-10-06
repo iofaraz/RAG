@@ -1,0 +1,37 @@
+Food: Beef, plate steak, boneless, outside skirt, separable lean and fat, trimmed to 0" fat, all grades, cooked, grilled
+Food ID: 173397
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 292 kcal
+Protein: 27.06 g
+Carbohydrates: 0 g
+Fat: 20.47 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.405 g
+Monounsaturated fat: 8.235 g
+Polyunsaturated fat: 1.128 g
+Trans fat: 0.951 g
+Cholesterol: 102 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 280 mg
+Calcium: 8 mg
+Iron: 5.09 mg
+Magnesium: 24 mg
+Zinc: 7.01 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.09 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.45 mg
+Vitamin B12: 7.72 µg
+Folate: 7 µg

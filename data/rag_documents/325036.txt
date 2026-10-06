@@ -1,0 +1,33 @@
+Food: Cheese, parmesan, grated
+Food ID: 325036
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 421 kcal
+Protein: 29.6 g
+Carbohydrates: 12.4 g
+Fat: 28 g
+
+Fats:
+Saturated fat: 15.5 g
+Monounsaturated fat: 6.4 g
+Polyunsaturated fat: 1.2 g
+Trans fat: 0.896 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 1750 mg
+Potassium: 184 mg
+Calcium: 884 mg
+Iron: 0.45 mg
+Magnesium: 34.9 mg
+Zinc: 4.33 mg
+
+Vitamins:
+Vitamin A: 228 µg
+Vitamin E: 0.51 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 1.35 µg
+Folate: 6 µg

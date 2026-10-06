@@ -1,0 +1,18 @@
+Food: Nuts, hazelnuts or filberts, raw
+Food ID: 2515375
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 13.4938 g
+Carbohydrates: 26.5012 g
+Fat: 53.49 g
+Fiber: 8.41 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 635.9 mg
+Calcium: 134.7 mg
+Iron: 3.465 mg
+Magnesium: 155.8 mg
+Zinc: 2.334 mg

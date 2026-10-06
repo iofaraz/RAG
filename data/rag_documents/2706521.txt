@@ -1,0 +1,36 @@
+Food: Lamb or mutton loaf
+Food ID: 2706521
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 14.05 g
+Carbohydrates: 7.44 g
+Fat: 11.58 g
+Fiber: 0.3 g
+Sugar: 4.69 g
+
+Fats:
+Saturated fat: 4.826 g
+Monounsaturated fat: 4.7 g
+Polyunsaturated fat: 0.988 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 467 mg
+Potassium: 210 mg
+Calcium: 50 mg
+Iron: 1.29 mg
+Magnesium: 17 mg
+Zinc: 2.4 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.24 mg
+Vitamin K: 11.4 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 1.27 µg
+Folate: 17 µg

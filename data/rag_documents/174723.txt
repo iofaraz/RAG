@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, variety meats and by-products, heart, raw
+Food ID: 174723
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 18.52 g
+Carbohydrates: 0 g
+Fat: 3.4 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.857 g
+Monounsaturated fat: 0.533 g
+Polyunsaturated fat: 0.579 g
+Trans fat: 0.055 g
+Cholesterol: 124 mg
+
+Minerals:
+Sodium: 86 mg
+Potassium: 275 mg
+Calcium: 4 mg
+Iron: 4.38 mg
+Magnesium: 22 mg
+Zinc: 1.51 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.22 mg
+Vitamin B6: 0.16 mg
+Vitamin B12: 10.81 µg

@@ -1,0 +1,37 @@
+Food: Cabbage, red, raw
+Food ID: 169977
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 1.43 g
+Carbohydrates: 7.37 g
+Fat: 0.16 g
+Fiber: 2.1 g
+Sugar: 3.83 g
+
+Fats:
+Saturated fat: 0.021 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.08 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 243 mg
+Calcium: 45 mg
+Iron: 0.8 mg
+Magnesium: 16 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 57 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 38.2 µg
+Vitamin B6: 0.209 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

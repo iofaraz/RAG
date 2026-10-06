@@ -1,0 +1,36 @@
+Food: Fish, croaker
+Food ID: 2706246
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 19.92 g
+Carbohydrates: 7.79 g
+Fat: 8.17 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 2.393 g
+Monounsaturated fat: 2.875 g
+Polyunsaturated fat: 1.875 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 322 mg
+Potassium: 378 mg
+Calcium: 26 mg
+Iron: 0.97 mg
+Magnesium: 45 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 2.05 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.32 mg
+Vitamin B12: 2.37 µg
+Folate: 30 µg

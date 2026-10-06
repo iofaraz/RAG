@@ -1,0 +1,36 @@
+Food: Fish, pompano, grilled
+Food ID: 2706279
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 23.43 g
+Carbohydrates: 0 g
+Fat: 14.27 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.042 g
+Monounsaturated fat: 4.083 g
+Polyunsaturated fat: 2.092 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 290 mg
+Potassium: 483 mg
+Calcium: 28 mg
+Iron: 0.76 mg
+Magnesium: 34 mg
+Zinc: 0.91 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 0 mg
+Vitamin D: 14 µg
+Vitamin E: 0.57 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.243 mg
+Vitamin B12: 1.48 µg
+Folate: 17 µg

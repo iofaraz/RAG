@@ -1,0 +1,32 @@
+Food: Nabisco, Nabisco Ritz Crackers
+Food ID: 173258
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 492 kcal
+Protein: 7.23 g
+Carbohydrates: 63.51 g
+Fat: 23.21 g
+Fiber: 2.3 g
+Sugar: 8.14 g
+
+Fats:
+Saturated fat: 5.45 g
+Monounsaturated fat: 6.276 g
+Polyunsaturated fat: 10.896 g
+Trans fat: 1.05 g
+
+Minerals:
+Sodium: 882 mg
+Potassium: 119 mg
+Calcium: 154 mg
+Iron: 4.47 mg
+Magnesium: 19 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin E: 3.49 mg
+Vitamin K: 50 µg
+Vitamin B6: 0.06 mg
+Folate: 72 µg

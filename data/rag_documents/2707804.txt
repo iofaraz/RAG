@@ -1,0 +1,36 @@
+Food: Biscuit, home recipe
+Food ID: 2707804
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 350 kcal
+Protein: 7.03 g
+Carbohydrates: 44.89 g
+Fat: 15.97 g
+Fiber: 1.4 g
+Sugar: 4.57 g
+
+Fats:
+Saturated fat: 8.535 g
+Monounsaturated fat: 3.176 g
+Polyunsaturated fat: 0.68 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 801 mg
+Potassium: 134 mg
+Calcium: 231 mg
+Iron: 3.22 mg
+Magnesium: 20 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 155 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.04 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.2 µg
+Folate: 59 µg

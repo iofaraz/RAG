@@ -1,0 +1,26 @@
+Food: Babyfood, dinner, beef and rice, toddler
+Food ID: 172260
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 5 g
+Carbohydrates: 8.8 g
+Fat: 2.9 g
+Sugar: 0 g
+
+Minerals:
+Sodium: 32 mg
+Potassium: 120 mg
+Calcium: 11 mg
+Iron: 0.69 mg
+Magnesium: 8 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 3.9 mg
+Vitamin B6: 0.139 mg
+Vitamin B12: 0.51 µg
+Folate: 6 µg

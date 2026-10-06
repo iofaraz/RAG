@@ -1,0 +1,36 @@
+Food: Soup, clam chowder, new england, canned, prepared with equal volume low fat (2%) milk
+Food ID: 174539
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 3.24 g
+Carbohydrates: 7.46 g
+Fat: 2.02 g
+Fiber: 0.3 g
+Sugar: 2.81 g
+
+Fats:
+Saturated fat: 1.094 g
+Monounsaturated fat: 0.268 g
+Polyunsaturated fat: 0.513 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 273 mg
+Potassium: 179 mg
+Calcium: 70 mg
+Iron: 1.21 mg
+Magnesium: 12 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 4.84 µg
+Folate: 9 µg

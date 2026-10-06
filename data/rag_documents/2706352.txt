@@ -1,0 +1,36 @@
+Food: Oysters, baked or broiled
+Food ID: 2706352
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 7.11 g
+Carbohydrates: 3.39 g
+Fat: 6.66 g
+Fiber: 0 g
+Sugar: 0.78 g
+
+Fats:
+Saturated fat: 1.775 g
+Monounsaturated fat: 1.924 g
+Polyunsaturated fat: 1.957 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 321 mg
+Potassium: 194 mg
+Calcium: 74 mg
+Iron: 5.73 mg
+Magnesium: 22 mg
+Zinc: 48.8 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.73 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 9.24 µg
+Folate: 7 µg

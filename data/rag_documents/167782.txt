@@ -1,0 +1,28 @@
+Food: Abiyuch, raw
+Food ID: 167782
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 1.5 g
+Carbohydrates: 17.6 g
+Fat: 0.1 g
+Fiber: 5.3 g
+Sugar: 8.55 g
+
+Fats:
+Saturated fat: 0.014 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 20 mg
+Potassium: 304 mg
+Calcium: 8 mg
+Iron: 1.61 mg
+Magnesium: 24 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 54.1 mg

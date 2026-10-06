@@ -1,0 +1,36 @@
+Food: Cake, gingerbread, dry mix
+Food ID: 172701
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 437 kcal
+Protein: 4.4 g
+Carbohydrates: 74.6 g
+Fat: 13.8 g
+Fiber: 1.7 g
+Sugar: 46.62 g
+
+Fats:
+Saturated fat: 3.46 g
+Monounsaturated fat: 7.791 g
+Polyunsaturated fat: 1.804 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 657 mg
+Potassium: 341 mg
+Calcium: 94 mg
+Iron: 4.7 mg
+Magnesium: 21 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 6.4 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0 µg
+Folate: 51 µg

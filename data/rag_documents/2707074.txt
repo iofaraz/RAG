@@ -1,0 +1,36 @@
+Food: Hot dog sandwich, reduced fat, on white bread
+Food ID: 2707074
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 12.26 g
+Carbohydrates: 20.31 g
+Fat: 11.5 g
+Fiber: 0.8 g
+Sugar: 1.84 g
+
+Fats:
+Saturated fat: 4.544 g
+Monounsaturated fat: 5.094 g
+Polyunsaturated fat: 1.215 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 558 mg
+Potassium: 173 mg
+Calcium: 83 mg
+Iron: 1.92 mg
+Magnesium: 16 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.58 µg
+Folate: 40 µg

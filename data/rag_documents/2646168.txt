@@ -1,0 +1,24 @@
+Food: Pork, loin, boneless, raw
+Food ID: 2646168
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 21.1187 g
+Carbohydrates: 0 g
+Fat: 9.469 g
+
+Fats:
+Saturated fat: 3.285 g
+Monounsaturated fat: 3.946 g
+Polyunsaturated fat: 1.379 g
+Trans fat: 0.02875 g
+Cholesterol: 55.93 mg
+
+Minerals:
+Sodium: 40.2 mg
+Potassium: 361.2 mg
+Calcium: 4.111 mg
+Iron: 0.4519 mg
+Magnesium: 21.96 mg
+Zinc: 1.57 mg

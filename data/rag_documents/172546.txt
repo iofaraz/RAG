@@ -1,0 +1,31 @@
+Food: Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, choice, cooked
+Food ID: 172546
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 25.51 g
+Carbohydrates: 0 g
+Fat: 18.01 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.45 g
+Monounsaturated fat: 7.63 g
+Polyunsaturated fat: 1.29 g
+Cholesterol: 96 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 318 mg
+Calcium: 16 mg
+Iron: 1.93 mg
+Magnesium: 24 mg
+Zinc: 4.74 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.14 mg
+Vitamin B12: 2.57 µg
+Folate: 19 µg

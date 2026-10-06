@@ -1,0 +1,20 @@
+Food: Scallops, sea, frozen, wild caught
+Food ID: 2747667
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 13.5125 g
+Carbohydrates: 1.9662 g
+Fat: 0.4933 g
+
+Minerals:
+Sodium: 313 mg
+Potassium: 244.9 mg
+Calcium: 10.54 mg
+Iron: 0.2133 mg
+Magnesium: 30.63 mg
+Zinc: 1.002 mg
+
+Vitamins:
+Vitamin B12: 1.285 µg

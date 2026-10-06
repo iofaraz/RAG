@@ -1,0 +1,36 @@
+Food: Gordita, cheese only
+Food ID: 2708583
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 324 kcal
+Protein: 10.65 g
+Carbohydrates: 22.39 g
+Fat: 21.59 g
+Fiber: 1.7 g
+Sugar: 0.74 g
+
+Fats:
+Saturated fat: 8.326 g
+Monounsaturated fat: 6.584 g
+Polyunsaturated fat: 4.093 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 490 mg
+Potassium: 102 mg
+Calcium: 288 mg
+Iron: 2.16 mg
+Magnesium: 33 mg
+Zinc: 1.78 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.56 mg
+Vitamin K: 8.7 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.46 µg
+Folate: 50 µg

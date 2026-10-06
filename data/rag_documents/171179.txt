@@ -1,0 +1,32 @@
+Food: Soup, SWANSON, beef broth, lower sodium
+Food ID: 171179
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 6 kcal
+Protein: 1.2 g
+Carbohydrates: 0.21 g
+Fat: 0.08 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.002 g
+Trans fat: 0.003 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 180 mg
+Potassium: 23 mg
+Calcium: 2 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 0 mg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0 µg

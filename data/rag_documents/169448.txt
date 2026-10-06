@@ -1,0 +1,37 @@
+Food: Beef, variety meats and by-products, heart, cooked, simmered
+Food ID: 169448
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 28.48 g
+Carbohydrates: 0.15 g
+Fat: 4.73 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.404 g
+Monounsaturated fat: 1.011 g
+Polyunsaturated fat: 0.985 g
+Trans fat: 0.16 g
+Cholesterol: 212 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 219 mg
+Calcium: 5 mg
+Iron: 6.38 mg
+Magnesium: 21 mg
+Zinc: 2.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.245 mg
+Vitamin B12: 10.8 µg
+Folate: 5 µg

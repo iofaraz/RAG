@@ -1,0 +1,37 @@
+Food: Nopales, raw
+Food ID: 168571
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 1.32 g
+Carbohydrates: 3.33 g
+Fat: 0.09 g
+Fiber: 2.2 g
+Sugar: 1.15 g
+
+Fats:
+Saturated fat: 0.016 g
+Monounsaturated fat: 0.018 g
+Polyunsaturated fat: 0.05 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 257 mg
+Calcium: 164 mg
+Iron: 0.59 mg
+Magnesium: 52 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 9.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

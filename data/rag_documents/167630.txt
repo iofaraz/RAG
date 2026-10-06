@@ -1,0 +1,30 @@
+Food: Chilchen (Red Berry Beverage) (Navajo)
+Food ID: 167630
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 0.81 g
+Carbohydrates: 8.68 g
+Fat: 0.63 g
+Sugar: 2.6 g
+
+Fats:
+Saturated fat: 0.075 g
+Monounsaturated fat: 0.135 g
+Polyunsaturated fat: 0.151 g
+
+Minerals:
+Sodium: 15 mg
+Potassium: 28 mg
+Calcium: 7 mg
+Iron: 0.95 mg
+Magnesium: 9 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.033 mg
+Folate: 8 µg

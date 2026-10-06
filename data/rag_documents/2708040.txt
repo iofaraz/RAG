@@ -1,0 +1,36 @@
+Food: Strudel, berry
+Food ID: 2708040
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 291 kcal
+Protein: 2.43 g
+Carbohydrates: 39.23 g
+Fat: 14.24 g
+Fiber: 2.7 g
+Sugar: 21.7 g
+
+Fats:
+Saturated fat: 7.607 g
+Monounsaturated fat: 2.841 g
+Polyunsaturated fat: 0.608 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 131 mg
+Potassium: 98 mg
+Calcium: 21 mg
+Iron: 0.56 mg
+Magnesium: 15 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 129 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.55 mg
+Vitamin K: 10.4 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 43 µg

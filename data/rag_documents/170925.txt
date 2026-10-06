@@ -1,0 +1,33 @@
+Food: Spices, dill seed
+Food ID: 170925
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 305 kcal
+Protein: 15.98 g
+Carbohydrates: 55.17 g
+Fat: 14.54 g
+Fiber: 21.1 g
+
+Fats:
+Saturated fat: 0.73 g
+Monounsaturated fat: 9.41 g
+Polyunsaturated fat: 1.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 1186 mg
+Calcium: 1516 mg
+Iron: 16.33 mg
+Magnesium: 256 mg
+Zinc: 5.2 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.25 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

@@ -1,0 +1,36 @@
+Food: Pizza, with meat other than pepperoni, from school lunch, thin crust
+Food ID: 2708655
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 250 kcal
+Protein: 12.63 g
+Carbohydrates: 32.24 g
+Fat: 7.83 g
+Fiber: 3.9 g
+Sugar: 7.53 g
+
+Fats:
+Saturated fat: 3.488 g
+Monounsaturated fat: 2.244 g
+Polyunsaturated fat: 0.986 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 457 mg
+Potassium: 385 mg
+Calcium: 238 mg
+Iron: 2.09 mg
+Magnesium: 52 mg
+Zinc: 2.53 mg
+
+Vitamins:
+Vitamin A: 89 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.189 mg
+Vitamin B12: 2.18 µg
+Folate: 71 µg

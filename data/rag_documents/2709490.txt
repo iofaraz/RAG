@@ -1,0 +1,36 @@
+Food: Potato skins, with cheese and bacon
+Food ID: 2709490
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 7.64 g
+Carbohydrates: 15.52 g
+Fat: 13.68 g
+Fiber: 1.4 g
+Sugar: 1.02 g
+
+Fats:
+Saturated fat: 4.829 g
+Monounsaturated fat: 4.574 g
+Polyunsaturated fat: 2.753 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 488 mg
+Potassium: 383 mg
+Calcium: 134 mg
+Iron: 0.67 mg
+Magnesium: 25 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 7.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.25 mg
+Vitamin K: 7.1 µg
+Vitamin B6: 0.256 mg
+Vitamin B12: 0.16 µg
+Folate: 18 µg

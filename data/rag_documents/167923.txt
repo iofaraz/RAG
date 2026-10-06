@@ -1,0 +1,22 @@
+Food: Interstate Brands Corp, Wonder Hamburger Rolls
+Food ID: 167923
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 8.07 g
+Carbohydrates: 50.84 g
+Fat: 4.15 g
+Fiber: 2.6 g
+Sugar: 11.06 g
+
+Fats:
+Saturated fat: 1.013 g
+Monounsaturated fat: 0.848 g
+Polyunsaturated fat: 2.177 g
+
+Minerals:
+Sodium: 488 mg
+Calcium: 87 mg
+Iron: 2.22 mg

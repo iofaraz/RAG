@@ -1,0 +1,37 @@
+Food: Chicken, dark meat, drumstick, meat only, with added solution, cooked, braised
+Food ID: 172857
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 22.99 g
+Carbohydrates: 0 g
+Fat: 6.33 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.73 g
+Monounsaturated fat: 2.62 g
+Polyunsaturated fat: 1.349 g
+Trans fat: 0.035 g
+Cholesterol: 135 mg
+
+Minerals:
+Sodium: 169 mg
+Potassium: 229 mg
+Calcium: 14 mg
+Iron: 0.78 mg
+Magnesium: 21 mg
+Zinc: 2.34 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.17 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.31 mg
+Vitamin B12: 0.31 µg
+Folate: 4 µg

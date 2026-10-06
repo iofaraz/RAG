@@ -1,0 +1,36 @@
+Food: Oatmeal, reduced sugar
+Food ID: 2708397
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 2.35 g
+Carbohydrates: 16.62 g
+Fat: 1.28 g
+Fiber: 1.9 g
+Sugar: 4.05 g
+
+Fats:
+Saturated fat: 0.231 g
+Monounsaturated fat: 0.41 g
+Polyunsaturated fat: 0.452 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 90 mg
+Potassium: 82 mg
+Calcium: 70 mg
+Iron: 3.73 mg
+Magnesium: 25 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 164 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.197 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

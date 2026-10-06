@@ -1,0 +1,36 @@
+Food: Potato, roasted, from fresh, peel not eaten, made with butter
+Food ID: 2709413
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 1.9 g
+Carbohydrates: 20.45 g
+Fat: 3.99 g
+Fiber: 1.4 g
+Sugar: 1.64 g
+
+Fats:
+Saturated fat: 2.188 g
+Monounsaturated fat: 0.804 g
+Polyunsaturated fat: 0.16 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 372 mg
+Calcium: 6 mg
+Iron: 0.34 mg
+Magnesium: 24 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 12.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.286 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

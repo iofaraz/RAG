@@ -1,0 +1,36 @@
+Food: Pancakes, fruit, frozen
+Food ID: 2708296
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 224 kcal
+Protein: 4.99 g
+Carbohydrates: 36.47 g
+Fat: 6.52 g
+Fiber: 1.1 g
+Sugar: 8.33 g
+
+Fats:
+Saturated fat: 1.107 g
+Monounsaturated fat: 1.481 g
+Polyunsaturated fat: 3.653 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 438 mg
+Potassium: 88 mg
+Calcium: 74 mg
+Iron: 5.4 mg
+Magnesium: 14 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 409 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.61 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.497 mg
+Vitamin B12: 1.54 µg
+Folate: 58 µg

@@ -1,0 +1,18 @@
+Food: Peanuts, raw
+Food ID: 2515376
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 23.205 g
+Carbohydrates: 26.498 g
+Fat: 43.28 g
+Fiber: 8.014 g
+
+Minerals:
+Sodium: 1.493 mg
+Potassium: 635.6 mg
+Calcium: 49.13 mg
+Iron: 1.554 mg
+Magnesium: 179.7 mg
+Zinc: 2.78 mg

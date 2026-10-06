@@ -1,0 +1,36 @@
+Food: Pork sausage, reduced sodium
+Food ID: 2706193
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 233 kcal
+Protein: 19.93 g
+Carbohydrates: 13.25 g
+Fat: 11.13 g
+Fiber: 0 g
+Sugar: 0.75 g
+
+Fats:
+Saturated fat: 2.916 g
+Monounsaturated fat: 4.8 g
+Polyunsaturated fat: 2.882 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 415 mg
+Potassium: 988 mg
+Calcium: 0 mg
+Iron: 1.2 mg
+Magnesium: 40 mg
+Zinc: 2.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.44 mg
+Vitamin K: 32.4 µg
+Vitamin B6: 0.498 mg
+Vitamin B12: 0.14 µg
+Folate: 66 µg

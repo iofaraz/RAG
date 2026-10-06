@@ -1,0 +1,31 @@
+Food: SILK Plain, soymilk
+Food ID: 175218
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 2.88 g
+Carbohydrates: 3.29 g
+Fat: 1.65 g
+Fiber: 0.4 g
+Sugar: 2.47 g
+
+Fats:
+Saturated fat: 0.206 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 123 mg
+Calcium: 123 mg
+Iron: 0.44 mg
+Magnesium: 16 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin B12: 1.23 µg
+Folate: 10 µg

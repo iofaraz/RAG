@@ -1,0 +1,32 @@
+Food: Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean only, cooked
+Food ID: 167908
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 29.47 g
+Carbohydrates: 0 g
+Fat: 9.44 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.34 g
+Monounsaturated fat: 4.22 g
+Polyunsaturated fat: 0.71 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 377 mg
+Calcium: 22 mg
+Iron: 1.07 mg
+Magnesium: 26 mg
+Zinc: 2.87 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.4 mg
+Vitamin B6: 0.435 mg
+Vitamin B12: 0.75 µg
+Folate: 6 µg

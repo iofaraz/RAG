@@ -1,0 +1,36 @@
+Food: Fish, whitefish, mixed species, smoked
+Food ID: 173712
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 23.4 g
+Carbohydrates: 0 g
+Fat: 0.93 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.228 g
+Monounsaturated fat: 0.278 g
+Polyunsaturated fat: 0.293 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 1019 mg
+Potassium: 423 mg
+Calcium: 18 mg
+Iron: 0.5 mg
+Magnesium: 23 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 0 mg
+Vitamin D: 12.8 µg
+Vitamin E: 0.21 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.389 mg
+Vitamin B12: 3.26 µg
+Folate: 7 µg

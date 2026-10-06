@@ -1,0 +1,37 @@
+Food: Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt
+Food ID: 168517
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 12 kcal
+Protein: 1.56 g
+Carbohydrates: 1.78 g
+Fat: 0.16 g
+Fiber: 1 g
+Sugar: 0.83 g
+
+Fats:
+Saturated fat: 0.021 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.077 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 270 mg
+Potassium: 371 mg
+Calcium: 93 mg
+Iron: 1.04 mg
+Magnesium: 11 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 212 µg
+Vitamin C: 26 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 34 µg
+Vitamin B6: 0.166 mg
+Vitamin B12: 0 µg
+Folate: 41 µg

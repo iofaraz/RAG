@@ -1,0 +1,37 @@
+Food: Bread, cornbread, dry mix, prepared with 2% milk, 80% margarine, and eggs
+Food ID: 174909
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 330 kcal
+Protein: 6.59 g
+Carbohydrates: 54.46 g
+Fat: 9.58 g
+Fiber: 2.3 g
+Sugar: 16.05 g
+
+Fats:
+Saturated fat: 3.732 g
+Monounsaturated fat: 3.494 g
+Polyunsaturated fat: 1.963 g
+Trans fat: 0.224 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 599 mg
+Potassium: 133 mg
+Calcium: 135 mg
+Iron: 1.85 mg
+Magnesium: 17 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.23 µg
+Folate: 55 µg

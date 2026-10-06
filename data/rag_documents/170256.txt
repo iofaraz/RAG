@@ -1,0 +1,32 @@
+Food: Snacks, tortilla chips, nacho-flavor, made with enriched masa flour
+Food ID: 170256
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 511 kcal
+Protein: 7.8 g
+Carbohydrates: 62.3 g
+Fat: 25.6 g
+Fiber: 5.3 g
+
+Fats:
+Saturated fat: 4.9 g
+Monounsaturated fat: 15.09 g
+Polyunsaturated fat: 3.54 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 708 mg
+Potassium: 216 mg
+Calcium: 147 mg
+Iron: 3.7 mg
+Magnesium: 82 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 1.8 mg
+Vitamin B6: 0.286 mg
+Vitamin B12: 0.05 µg
+Folate: 130 µg

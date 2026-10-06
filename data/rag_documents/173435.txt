@@ -1,0 +1,36 @@
+Food: Cheese, goat, soft type
+Food ID: 173435
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 18.52 g
+Carbohydrates: 0 g
+Fat: 21.08 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 14.575 g
+Monounsaturated fat: 4.807 g
+Polyunsaturated fat: 0.501 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 459 mg
+Potassium: 26 mg
+Calcium: 140 mg
+Iron: 1.9 mg
+Magnesium: 16 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 288 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.25 mg
+Vitamin B12: 0.19 µg
+Folate: 12 µg

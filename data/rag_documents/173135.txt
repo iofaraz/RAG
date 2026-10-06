@@ -1,0 +1,25 @@
+Food: Snacks, M&M MARS, KUDOS Whole Grain Bar, M&M's milk chocolate
+Food ID: 173135
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 415 kcal
+Protein: 3.78 g
+Carbohydrates: 73.01 g
+Fat: 11.95 g
+Fiber: 2.4 g
+Sugar: 37.81 g
+
+Fats:
+Saturated fat: 6.802 g
+Trans fat: 0.062 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 341 mg
+Calcium: 943 mg
+Iron: 0.85 mg
+
+Vitamins:
+Vitamin C: 0.2 mg

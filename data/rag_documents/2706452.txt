@@ -1,0 +1,36 @@
+Food: Seafood sauce
+Food ID: 2706452
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 8.53 g
+Carbohydrates: 2.51 g
+Fat: 17.45 g
+Fiber: 0.1 g
+Sugar: 0.02 g
+
+Fats:
+Saturated fat: 2.732 g
+Monounsaturated fat: 11.624 g
+Polyunsaturated fat: 1.716 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 463 mg
+Potassium: 274 mg
+Calcium: 32 mg
+Iron: 1.2 mg
+Magnesium: 16 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 4.04 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.022 mg
+Vitamin B12: 8.08 µg
+Folate: 3 µg

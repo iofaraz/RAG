@@ -1,0 +1,36 @@
+Food: Beef and noodles, no sauce
+Food ID: 2706480
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 11.37 g
+Carbohydrates: 16.24 g
+Fat: 8.41 g
+Fiber: 0.8 g
+Sugar: 0.26 g
+
+Fats:
+Saturated fat: 2.689 g
+Monounsaturated fat: 3.584 g
+Polyunsaturated fat: 0.976 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 377 mg
+Potassium: 125 mg
+Calcium: 16 mg
+Iron: 1.76 mg
+Magnesium: 20 mg
+Zinc: 2.47 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.32 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.95 µg
+Folate: 57 µg

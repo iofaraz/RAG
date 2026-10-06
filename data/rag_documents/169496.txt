@@ -1,0 +1,37 @@
+Food: Beef, chuck eye roast, boneless, America's Beef Roast, separable lean only, trimmed to 0" fat, choice, cooked, roasted
+Food ID: 169496
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 26.41 g
+Carbohydrates: 0 g
+Fat: 9.36 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.751 g
+Monounsaturated fat: 4.691 g
+Polyunsaturated fat: 0.431 g
+Trans fat: 0.402 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 79 mg
+Potassium: 339 mg
+Calcium: 18 mg
+Iron: 2.52 mg
+Magnesium: 22 mg
+Zinc: 9.93 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.14 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.399 mg
+Vitamin B12: 3.46 µg
+Folate: 6 µg

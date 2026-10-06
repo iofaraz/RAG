@@ -1,0 +1,36 @@
+Food: Berries, frozen
+Food ID: 2709272
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 0.76 g
+Carbohydrates: 12.47 g
+Fat: 0.34 g
+Fiber: 4.1 g
+Sugar: 6.59 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.053 g
+Polyunsaturated fat: 0.238 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 124 mg
+Calcium: 17 mg
+Iron: 0.55 mg
+Magnesium: 14 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 17.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.7 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

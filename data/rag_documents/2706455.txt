@@ -1,0 +1,36 @@
+Food: Shrimp with lobster sauce
+Food ID: 2706455
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 16.78 g
+Carbohydrates: 2.16 g
+Fat: 7.85 g
+Fiber: 0 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 1.747 g
+Monounsaturated fat: 3.036 g
+Polyunsaturated fat: 2.206 g
+Cholesterol: 192 mg
+
+Minerals:
+Sodium: 1031 mg
+Potassium: 114 mg
+Calcium: 100 mg
+Iron: 1.61 mg
+Magnesium: 25 mg
+Zinc: 1.7 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.51 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.6 µg
+Folate: 9 µg

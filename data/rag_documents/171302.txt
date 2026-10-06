@@ -1,0 +1,37 @@
+Food: Milk, evaporated, 2% fat, with added vitamin A and vitamin D
+Food ID: 171302
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 107 kcal
+Protein: 6.67 g
+Carbohydrates: 15.74 g
+Fat: 2 g
+Fiber: 0 g
+Sugar: 6.67 g
+
+Fats:
+Saturated fat: 1.204 g
+Monounsaturated fat: 0.628 g
+Polyunsaturated fat: 0.068 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 100 mg
+Potassium: 303 mg
+Calcium: 267 mg
+Iron: 0.19 mg
+Magnesium: 24 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 16 mg
+Vitamin D: 4 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.16 µg
+Folate: 8 µg

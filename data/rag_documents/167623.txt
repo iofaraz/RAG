@@ -1,0 +1,16 @@
+Food: Whale, bowhead, subcutaneous fat (blubber) (Alaska Native)
+Food ID: 167623
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 870 kcal
+Protein: 0.4 g
+Carbohydrates: 0 g
+Fat: 96.5 g
+
+Fats:
+Cholesterol: 150 mg
+
+Minerals:
+Iron: 0.5 mg

@@ -1,0 +1,31 @@
+Food: Clementines, raw
+Food ID: 168195
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.85 g
+Carbohydrates: 12.02 g
+Fat: 0.15 g
+Fiber: 1.7 g
+Sugar: 9.18 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 177 mg
+Calcium: 30 mg
+Iron: 0.14 mg
+Magnesium: 10 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin C: 48.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.075 mg
+Folate: 24 µg

@@ -1,0 +1,27 @@
+Food: Yogurt, Greek, nonfat, plain, CHOBANI
+Food ID: 171312
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 9.53 g
+Carbohydrates: 3.43 g
+Fat: 0.24 g
+Fiber: 0.2 g
+
+Fats:
+Saturated fat: 0.145 g
+Monounsaturated fat: 0.053 g
+Polyunsaturated fat: 0 g
+Trans fat: 0.009 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 37 mg
+Calcium: 112 mg
+Iron: 0.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg

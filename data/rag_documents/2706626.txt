@@ -1,0 +1,36 @@
+Food: Beef, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy
+Food ID: 2706626
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 5.77 g
+Carbohydrates: 15.01 g
+Fat: 5.18 g
+Fiber: 0.8 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 1.082 g
+Monounsaturated fat: 2.135 g
+Polyunsaturated fat: 1.413 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 307 mg
+Potassium: 90 mg
+Calcium: 14 mg
+Iron: 1 mg
+Magnesium: 11 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 80 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.9 mg
+Vitamin K: 12.5 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.23 µg
+Folate: 33 µg

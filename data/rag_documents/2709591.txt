@@ -1,0 +1,36 @@
+Food: Caesar salad, with romaine, no dressing
+Food ID: 2709591
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 4 g
+Carbohydrates: 7.49 g
+Fat: 3.41 g
+Fiber: 1.8 g
+Sugar: 1.23 g
+
+Fats:
+Saturated fat: 1.666 g
+Monounsaturated fat: 1.015 g
+Polyunsaturated fat: 0.353 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 238 mg
+Potassium: 250 mg
+Calcium: 108 mg
+Iron: 0.4 mg
+Magnesium: 15 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 398 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 72.6 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0.13 µg
+Folate: 49 µg

@@ -1,0 +1,25 @@
+Food: Toaster pastries, brown-sugar-cinnamon
+Food ID: 172801
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 370 kcal
+Protein: 4.06 g
+Carbohydrates: 72.64 g
+Fat: 7.98 g
+Fiber: 2.3 g
+Sugar: 27.24 g
+
+Minerals:
+Sodium: 361 mg
+Potassium: 105 mg
+Calcium: 293 mg
+Iron: 5.62 mg
+Magnesium: 18 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin E: 1.33 mg
+Vitamin B6: 0.58 mg
+Folate: 137 µg

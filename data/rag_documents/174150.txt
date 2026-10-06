@@ -1,0 +1,36 @@
+Food: Beverages, OCEAN SPRAY, Light Cranberry, Concord Grape
+Food ID: 174150
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 0.36 g
+Carbohydrates: 5.78 g
+Fat: 0.02 g
+Fiber: 0.7 g
+Sugar: 5.02 g
+
+Fats:
+Saturated fat: 0.006 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.006 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 34 mg
+Calcium: 4 mg
+Iron: 0.06 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 34.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg

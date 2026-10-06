@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, mixed, prepared with whole milk
+Food ID: 173529
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 96 kcal
+Protein: 4.14 g
+Carbohydrates: 12.3 g
+Fat: 3.38 g
+Fiber: 0.8 g
+Sugar: 4.78 g
+
+Fats:
+Saturated fat: 1.745 g
+Monounsaturated fat: 0.855 g
+Polyunsaturated fat: 0.359 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 42 mg
+Potassium: 166 mg
+Calcium: 220 mg
+Iron: 10.43 mg
+Magnesium: 20 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.3 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.47 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.4 µg
+Folate: 9 µg

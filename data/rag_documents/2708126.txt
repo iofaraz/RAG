@@ -1,0 +1,36 @@
+Food: Nutrition bar (Zone Perfect Classic Crunch)
+Food ID: 2708126
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 426 kcal
+Protein: 30 g
+Carbohydrates: 45 g
+Fat: 14 g
+Fiber: 2 g
+Sugar: 27 g
+
+Fats:
+Saturated fat: 4.499 g
+Monounsaturated fat: 3.828 g
+Polyunsaturated fat: 4.804 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 444 mg
+Potassium: 250 mg
+Calcium: 200 mg
+Iron: 3.6 mg
+Magnesium: 80 mg
+Zinc: 7.5 mg
+
+Vitamins:
+Vitamin A: 1050 µg
+Vitamin C: 120 mg
+Vitamin D: 0 µg
+Vitamin E: 24 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 2 mg
+Vitamin B12: 4.2 µg
+Folate: 160 µg

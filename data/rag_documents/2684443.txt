@@ -1,0 +1,23 @@
+Food: Crustaceans, shrimp, farm raised, raw
+Food ID: 2684443
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 15.5687 g
+Carbohydrates: 0.48495 g
+Fat: 0.8013 g
+
+Fats:
+Cholesterol: 136 mg
+
+Minerals:
+Sodium: 474.9 mg
+Potassium: 145.9 mg
+Calcium: 64.63 mg
+Iron: 0.5223 mg
+Magnesium: 22.53 mg
+Zinc: 0.9368 mg
+
+Vitamins:
+Vitamin B12: 0.9963 µg

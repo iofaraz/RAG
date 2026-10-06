@@ -1,0 +1,33 @@
+Food: Pork, cured, bacon, cooked, microwaved
+Food ID: 168321
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 476 kcal
+Protein: 39.01 g
+Carbohydrates: 0.48 g
+Fat: 34.12 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 11.644 g
+Monounsaturated fat: 15.235 g
+Polyunsaturated fat: 5.602 g
+Trans fat: 0.119 g
+Cholesterol: 111 mg
+
+Minerals:
+Sodium: 1783 mg
+Potassium: 525 mg
+Calcium: 13 mg
+Iron: 1.14 mg
+Magnesium: 34 mg
+Zinc: 3.51 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.48 mg
+Vitamin B6: 0.513 mg
+Vitamin B12: 1 µg

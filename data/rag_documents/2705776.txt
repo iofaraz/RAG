@@ -1,0 +1,36 @@
+Food: Cheese spread, pressurized can
+Food ID: 2705776
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 16.41 g
+Carbohydrates: 8.73 g
+Fat: 21.23 g
+Fiber: 0 g
+Sugar: 7.32 g
+
+Fats:
+Saturated fat: 13.327 g
+Monounsaturated fat: 6.219 g
+Polyunsaturated fat: 0.624 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 1625 mg
+Potassium: 242 mg
+Calcium: 562 mg
+Iron: 0.33 mg
+Magnesium: 29 mg
+Zinc: 2.59 mg
+
+Vitamins:
+Vitamin A: 173 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.19 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0.4 µg
+Folate: 7 µg

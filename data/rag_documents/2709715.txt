@@ -1,0 +1,36 @@
+Food: Sweet potato tots
+Food ID: 2709715
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 191 kcal
+Protein: 2.26 g
+Carbohydrates: 37.3 g
+Fat: 9.35 g
+Fiber: 6 g
+Sugar: 13.52 g
+
+Fats:
+Saturated fat: 1.213 g
+Monounsaturated fat: 3.882 g
+Polyunsaturated fat: 3.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 315 mg
+Potassium: 429 mg
+Calcium: 55 mg
+Iron: 0.81 mg
+Magnesium: 27 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 455 µg
+Vitamin C: 7.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.56 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.186 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

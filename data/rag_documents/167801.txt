@@ -1,0 +1,24 @@
+Food: Lemon juice from concentrate, bottled, CONCORD
+Food ID: 167801
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 24 kcal
+Protein: 0.4 g
+Carbohydrates: 5.37 g
+Fat: 0.07 g
+Sugar: 1.42 g
+
+Minerals:
+Sodium: 29 mg
+Potassium: 112 mg
+Calcium: 8 mg
+Iron: 0.06 mg
+Magnesium: 6 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.037 mg
+Folate: 4 µg

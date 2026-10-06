@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, TOOTIE FRUITIES
+Food ID: 172984
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 391 kcal
+Protein: 4.69 g
+Carbohydrates: 85.94 g
+Fat: 3.2 g
+Fiber: 2.2 g
+Sugar: 45.31 g
+
+Fats:
+Saturated fat: 0.687 g
+Monounsaturated fat: 1.47 g
+Polyunsaturated fat: 0.976 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 453 mg
+Potassium: 104 mg
+Calcium: 313 mg
+Iron: 28.12 mg
+Magnesium: 24 mg
+Zinc: 11.72 mg
+
+Vitamins:
+Vitamin A: 448 µg
+Vitamin C: 18.8 mg
+Vitamin D: 3.1 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 1.55 mg
+Vitamin B12: 4.69 µg
+Folate: 625 µg

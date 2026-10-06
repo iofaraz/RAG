@@ -1,0 +1,36 @@
+Food: Chicken leg, drumstick and thigh, NS as to cooking method, skin not eaten
+Food ID: 2705983
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 25.54 g
+Carbohydrates: 0 g
+Fat: 9.15 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.295 g
+Monounsaturated fat: 3.967 g
+Polyunsaturated fat: 1.384 g
+Cholesterol: 139 mg
+
+Minerals:
+Sodium: 362 mg
+Potassium: 274 mg
+Calcium: 16 mg
+Iron: 1 mg
+Magnesium: 22 mg
+Zinc: 2.34 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.179 mg
+Vitamin B12: 0.46 µg
+Folate: 8 µg

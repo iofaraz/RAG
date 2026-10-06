@@ -1,0 +1,37 @@
+Food: Margarine, industrial, non-dairy, cottonseed, soy oil (partially hydrogenated ), for flaky pastries
+Food ID: 173605
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 714 kcal
+Protein: 1.9 g
+Carbohydrates: 0 g
+Fat: 80.2 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 20.442 g
+Monounsaturated fat: 46.692 g
+Polyunsaturated fat: 9.265 g
+Trans fat: 24.747 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 879 mg
+Potassium: 94 mg
+Calcium: 66 mg
+Iron: 0 mg
+Magnesium: 6 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 1032 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 4.6 mg
+Vitamin K: 106.2 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0.21 µg
+Folate: 3 µg

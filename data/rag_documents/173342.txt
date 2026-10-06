@@ -1,0 +1,37 @@
+Food: Macaroni and cheese, frozen entree
+Food ID: 173342
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 5.6 g
+Carbohydrates: 17.28 g
+Fat: 6.41 g
+Fiber: 1.1 g
+Sugar: 1.53 g
+
+Fats:
+Saturated fat: 2.608 g
+Monounsaturated fat: 1.433 g
+Polyunsaturated fat: 1.363 g
+Trans fat: 0.153 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 290 mg
+Potassium: 95 mg
+Calcium: 114 mg
+Iron: 0.57 mg
+Magnesium: 17 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.12 µg
+Folate: 7 µg

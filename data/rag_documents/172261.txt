@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, beef with vegetables
+Food ID: 172261
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 96 kcal
+Protein: 2.03 g
+Carbohydrates: 6.36 g
+Fat: 6.93 g
+Fiber: 1.8 g
+Sugar: 2.16 g
+
+Fats:
+Saturated fat: 2.84 g
+Monounsaturated fat: 3.12 g
+Polyunsaturated fat: 0.9 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 127 mg
+Calcium: 19 mg
+Iron: 0.33 mg
+Magnesium: 15 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 222 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.57 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.09 µg
+Folate: 11 µg

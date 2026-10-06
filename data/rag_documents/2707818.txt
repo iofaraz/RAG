@@ -1,0 +1,36 @@
+Food: Gordita/sope shell, plain, no filling
+Food ID: 2707818
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 3.85 g
+Carbohydrates: 37.2 g
+Fat: 11.19 g
+Fiber: 2.9 g
+Sugar: 0.72 g
+
+Fats:
+Saturated fat: 2.18 g
+Monounsaturated fat: 4.425 g
+Polyunsaturated fat: 3.839 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 376 mg
+Potassium: 115 mg
+Calcium: 55 mg
+Iron: 3.7 mg
+Magnesium: 39 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.14 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.195 mg
+Vitamin B12: 0 µg
+Folate: 77 µg

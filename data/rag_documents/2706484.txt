@@ -1,0 +1,36 @@
+Food: Beef and noodles with gravy
+Food ID: 2706484
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 7.7 g
+Carbohydrates: 15.39 g
+Fat: 5.07 g
+Fiber: 0.7 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 1.21 g
+Monounsaturated fat: 1.966 g
+Polyunsaturated fat: 1.118 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 304 mg
+Potassium: 75 mg
+Calcium: 11 mg
+Iron: 1.24 mg
+Magnesium: 16 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.5 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.33 µg
+Folate: 48 µg

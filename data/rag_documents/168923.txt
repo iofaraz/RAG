@@ -1,0 +1,33 @@
+Food: Cornmeal, white, self-rising, bolted, plain, enriched
+Food ID: 168923
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 334 kcal
+Protein: 8.28 g
+Carbohydrates: 70.28 g
+Fat: 3.4 g
+Fiber: 6.7 g
+
+Fats:
+Saturated fat: 0.478 g
+Monounsaturated fat: 0.897 g
+Polyunsaturated fat: 1.55 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1247 mg
+Potassium: 255 mg
+Calcium: 361 mg
+Iron: 5.76 mg
+Magnesium: 86 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.54 mg
+Vitamin B12: 0 µg
+Folate: 233 µg

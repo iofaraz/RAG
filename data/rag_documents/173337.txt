@@ -1,0 +1,31 @@
+Food: Macaroni and Cheese, canned, microwavable
+Food ID: 173337
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 5.98 g
+Carbohydrates: 13.96 g
+Fat: 5.99 g
+Fiber: 0.4 g
+Sugar: 1.41 g
+
+Fats:
+Saturated fat: 3.665 g
+Monounsaturated fat: 1.773 g
+Polyunsaturated fat: 0.431 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 72 mg
+Calcium: 57 mg
+Iron: 0.91 mg
+Magnesium: 13 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.09 µg

@@ -1,0 +1,32 @@
+Food: Fish, butterfish, raw
+Food ID: 171951
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 17.28 g
+Carbohydrates: 0 g
+Fat: 8.02 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.38 g
+Monounsaturated fat: 3.38 g
+Polyunsaturated fat: 0.59 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 89 mg
+Potassium: 375 mg
+Calcium: 22 mg
+Iron: 0.5 mg
+Magnesium: 25 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 1.9 µg
+Folate: 15 µg

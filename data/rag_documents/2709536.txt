@@ -1,0 +1,36 @@
+Food: Potato salad with egg, made with creamy dressing
+Food ID: 2709536
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 2.93 g
+Carbohydrates: 14.89 g
+Fat: 7.91 g
+Fiber: 1.3 g
+Sugar: 1.54 g
+
+Fats:
+Saturated fat: 1.441 g
+Monounsaturated fat: 1.852 g
+Polyunsaturated fat: 3.991 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 188 mg
+Potassium: 259 mg
+Calcium: 18 mg
+Iron: 0.4 mg
+Magnesium: 16 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 5.3 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.47 mg
+Vitamin K: 22.2 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 0.16 µg
+Folate: 14 µg

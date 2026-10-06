@@ -1,0 +1,22 @@
+Food: Mushroom, portabella
+Food ID: 2003598
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.75 g
+Carbohydrates: 4.6583 g
+Fat: 0.3117 g
+Fiber: 1.879 g
+
+Minerals:
+Sodium: 5.312 mg
+Potassium: 349.3 mg
+Calcium: 3.235 mg
+Iron: 0.139 mg
+Magnesium: 9.037 mg
+Zinc: 0.3888 mg
+
+Vitamins:
+Vitamin D: 0 µg
+Vitamin B6: 0.09692 mg

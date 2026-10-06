@@ -1,0 +1,20 @@
+Food: Melons, honeydew, raw
+Food ID: 2710816
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.53125 g
+Carbohydrates: 8.14995 g
+Fat: 0.2163 g
+
+Minerals:
+Sodium: 21.15 mg
+Potassium: 208.9 mg
+Calcium: 6.579 mg
+Iron: 0 mg
+Magnesium: 9.504 mg
+Zinc: 0.05999 mg
+
+Vitamins:
+Vitamin C: 15.73 mg

@@ -1,0 +1,37 @@
+Food: Macaroni and cheese dinner with dry sauce mix, boxed, uncooked
+Food ID: 173340
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 13.86 g
+Carbohydrates: 70.12 g
+Fat: 4.82 g
+Fiber: 3.2 g
+Sugar: 9.61 g
+
+Fats:
+Saturated fat: 1.151 g
+Monounsaturated fat: 0.665 g
+Polyunsaturated fat: 0.813 g
+Trans fat: 0 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 680 mg
+Potassium: 347 mg
+Calcium: 146 mg
+Iron: 2.75 mg
+Magnesium: 49 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 0.77 µg
+Folate: 204 µg

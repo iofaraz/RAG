@@ -1,0 +1,36 @@
+Food: Crab, cake
+Food ID: 2706549
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 14.4 g
+Carbohydrates: 4.48 g
+Fat: 14.97 g
+Fiber: 0.3 g
+Sugar: 0.66 g
+
+Fats:
+Saturated fat: 2.472 g
+Monounsaturated fat: 4.525 g
+Polyunsaturated fat: 7.199 g
+Cholesterol: 114 mg
+
+Minerals:
+Sodium: 430 mg
+Potassium: 212 mg
+Calcium: 79 mg
+Iron: 0.82 mg
+Magnesium: 29 mg
+Zinc: 2.84 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 2.72 mg
+Vitamin K: 23 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 2.39 µg
+Folate: 47 µg

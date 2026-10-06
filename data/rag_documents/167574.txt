@@ -1,0 +1,35 @@
+Food: Desserts, flan, caramel custard, prepared-from-recipe
+Food ID: 167574
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 145 kcal
+Protein: 4.53 g
+Carbohydrates: 22.78 g
+Fat: 4.03 g
+Fiber: 0 g
+Sugar: 22.78 g
+
+Fats:
+Saturated fat: 1.799 g
+Monounsaturated fat: 1.266 g
+Polyunsaturated fat: 0.392 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 118 mg
+Calcium: 83 mg
+Iron: 0.38 mg
+Magnesium: 9 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0 mg
+Vitamin E: 0.23 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.36 µg
+Folate: 9 µg

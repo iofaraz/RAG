@@ -1,0 +1,36 @@
+Food: Veal cordon bleu
+Food ID: 2706418
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 23.66 g
+Carbohydrates: 9.34 g
+Fat: 9.69 g
+Fiber: 0.6 g
+Sugar: 0.63 g
+
+Fats:
+Saturated fat: 3.854 g
+Monounsaturated fat: 3.288 g
+Polyunsaturated fat: 1.339 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 443 mg
+Potassium: 228 mg
+Calcium: 97 mg
+Iron: 1.32 mg
+Magnesium: 30 mg
+Zinc: 1.8 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.72 mg
+Vitamin K: 25.3 µg
+Vitamin B6: 0.474 mg
+Vitamin B12: 1.96 µg
+Folate: 22 µg

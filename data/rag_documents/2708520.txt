@@ -1,0 +1,36 @@
+Food: Taco, corn tortilla, chicken, with beans, cheese
+Food ID: 2708520
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 193 kcal
+Protein: 11.02 g
+Carbohydrates: 19.14 g
+Fat: 8.44 g
+Fiber: 3.2 g
+Sugar: 0.49 g
+
+Fats:
+Saturated fat: 2.142 g
+Monounsaturated fat: 3.02 g
+Polyunsaturated fat: 2.506 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 399 mg
+Potassium: 230 mg
+Calcium: 69 mg
+Iron: 1.02 mg
+Magnesium: 42 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.268 mg
+Vitamin B12: 0.13 µg
+Folate: 11 µg

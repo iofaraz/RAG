@@ -1,0 +1,35 @@
+Food: Fish, salmon, chum, dried (Alaska Native)
+Food ID: 168054
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 378 kcal
+Protein: 62.09 g
+Carbohydrates: 0 g
+Fat: 14.38 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.395 g
+Monounsaturated fat: 5.139 g
+Polyunsaturated fat: 2.323 g
+Cholesterol: 214 mg
+
+Minerals:
+Sodium: 190 mg
+Potassium: 910 mg
+Calcium: 155 mg
+Iron: 2.2 mg
+Magnesium: 68 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0 mg
+Vitamin E: 0.82 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.681 mg
+Vitamin B12: 28.6 µg
+Folate: 12 µg

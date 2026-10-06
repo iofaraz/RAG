@@ -1,0 +1,36 @@
+Food: Cheese dip with chili pepper
+Food ID: 2705785
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 3.14 g
+Carbohydrates: 11.14 g
+Fat: 9.51 g
+Fiber: 0.7 g
+Sugar: 1.95 g
+
+Fats:
+Saturated fat: 2.491 g
+Monounsaturated fat: 2.762 g
+Polyunsaturated fat: 3.643 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 796 mg
+Potassium: 105 mg
+Calcium: 98 mg
+Iron: 0.14 mg
+Magnesium: 8 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.86 mg
+Vitamin K: 17.6 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.25 µg
+Folate: 6 µg

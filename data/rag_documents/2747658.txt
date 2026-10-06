@@ -1,0 +1,20 @@
+Food: Mahi mahi, frozen, wild caught
+Food ID: 2747658
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 19.7937 g
+Carbohydrates: 0.28655 g
+Fat: 0.3767 g
+
+Minerals:
+Sodium: 51.93 mg
+Potassium: 407.9 mg
+Calcium: 6.003 mg
+Iron: 0.05167 mg
+Magnesium: 28.02 mg
+Zinc: 0.2963 mg
+
+Vitamins:
+Vitamin B12: 1.343 µg

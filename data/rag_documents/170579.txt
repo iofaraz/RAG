@@ -1,0 +1,32 @@
+Food: Nuts, coconut meat, dried (desiccated), toasted
+Food ID: 170579
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 592 kcal
+Protein: 5.3 g
+Carbohydrates: 44.4 g
+Fat: 47 g
+
+Fats:
+Saturated fat: 41.678 g
+Monounsaturated fat: 1.999 g
+Polyunsaturated fat: 0.514 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 37 mg
+Potassium: 554 mg
+Calcium: 27 mg
+Iron: 3.39 mg
+Magnesium: 92 mg
+Zinc: 2.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.306 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

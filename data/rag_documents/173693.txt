@@ -1,0 +1,37 @@
+Food: Fish, salmon, sockeye, canned, drained solids
+Food ID: 173693
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 167 kcal
+Protein: 23.59 g
+Carbohydrates: 0 g
+Fat: 7.39 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.44 g
+Monounsaturated fat: 2.494 g
+Polyunsaturated fat: 1.783 g
+Trans fat: 0.04 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 408 mg
+Potassium: 314 mg
+Calcium: 232 mg
+Iron: 0.65 mg
+Magnesium: 31 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 0 mg
+Vitamin D: 21 µg
+Vitamin E: 2.07 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 5.5 µg
+Folate: 4 µg

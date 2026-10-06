@@ -1,0 +1,37 @@
+Food: Candies, REESE'S PIECES Candy
+Food ID: 168764
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 497 kcal
+Protein: 12.46 g
+Carbohydrates: 59.86 g
+Fat: 24.77 g
+Fiber: 3 g
+Sugar: 53.25 g
+
+Fats:
+Saturated fat: 16.42 g
+Monounsaturated fat: 4.46 g
+Polyunsaturated fat: 1.88 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 194 mg
+Potassium: 359 mg
+Calcium: 69 mg
+Iron: 0.49 mg
+Magnesium: 88 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.99 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.11 µg
+Folate: 55 µg

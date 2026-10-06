@@ -1,0 +1,36 @@
+Food: Ice cream cone, soft serve, vanilla
+Food ID: 2705650
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 4.91 g
+Carbohydrates: 31.44 g
+Fat: 4.91 g
+Fiber: 0.4 g
+Sugar: 21.48 g
+
+Fats:
+Saturated fat: 2.859 g
+Monounsaturated fat: 1.304 g
+Polyunsaturated fat: 0.341 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 204 mg
+Calcium: 156 mg
+Iron: 0.33 mg
+Magnesium: 14 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 123 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.45 µg
+Folate: 13 µg

@@ -1,0 +1,30 @@
+Food: Vitasoy USA, Nasoya Lite Firm Tofu
+Food ID: 172468
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 8.3 g
+Carbohydrates: 1.3 g
+Fat: 1.7 g
+Fiber: 0.6 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 0.2 g
+Monounsaturated fat: 0.3 g
+Polyunsaturated fat: 1.2 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 34 mg
+Calcium: 184 mg
+Iron: 1.6 mg
+
+Vitamins:
+Vitamin A: 95 µg
+Vitamin D: 3.9 µg
+Vitamin E: 5.22 mg
+Vitamin B12: 2.36 µg

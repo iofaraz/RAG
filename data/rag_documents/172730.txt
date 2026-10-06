@@ -1,0 +1,32 @@
+Food: Cookies, peanut butter, refrigerated dough, baked
+Food ID: 172730
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 503 kcal
+Protein: 9.1 g
+Carbohydrates: 57.3 g
+Fat: 27.5 g
+Fiber: 1.2 g
+
+Fats:
+Saturated fat: 6.199 g
+Monounsaturated fat: 14.526 g
+Polyunsaturated fat: 4.889 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 436 mg
+Potassium: 338 mg
+Calcium: 111 mg
+Iron: 1.87 mg
+Magnesium: 41 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.06 µg
+Folate: 44 µg

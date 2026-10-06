@@ -1,0 +1,36 @@
+Food: Roll, cheese
+Food ID: 2707660
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 315 kcal
+Protein: 11.48 g
+Carbohydrates: 49.56 g
+Fat: 7.85 g
+Fiber: 1.9 g
+Sugar: 5.29 g
+
+Fats:
+Saturated fat: 2.266 g
+Monounsaturated fat: 2.159 g
+Polyunsaturated fat: 2.443 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 476 mg
+Potassium: 136 mg
+Calcium: 204 mg
+Iron: 3.54 mg
+Magnesium: 26 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 10.2 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0.15 µg
+Folate: 97 µg

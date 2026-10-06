@@ -1,0 +1,34 @@
+Food: McDONALD'S, Hot Caramel Sundae
+Food ID: 173301
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 188 kcal
+Protein: 3.58 g
+Carbohydrates: 33.36 g
+Fat: 4.89 g
+Fiber: 0 g
+Sugar: 23.54 g
+
+Fats:
+Saturated fat: 2.468 g
+Monounsaturated fat: 1.21 g
+Polyunsaturated fat: 0.232 g
+Trans fat: 0.271 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 186 mg
+Calcium: 127 mg
+Iron: 0.08 mg
+Magnesium: 12 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 92 µg
+Vitamin E: 0.01 mg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0.51 µg
+Folate: 2 µg

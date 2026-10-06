@@ -1,0 +1,36 @@
+Food: Spaghetti, spinach, dry
+Food ID: 168911
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 13.35 g
+Carbohydrates: 74.81 g
+Fat: 1.57 g
+Fiber: 10.6 g
+Sugar: 2.72 g
+
+Fats:
+Saturated fat: 0.226 g
+Monounsaturated fat: 0.181 g
+Polyunsaturated fat: 0.641 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 376 mg
+Calcium: 58 mg
+Iron: 2.13 mg
+Magnesium: 174 mg
+Zinc: 2.76 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.74 mg
+Vitamin K: 151.5 µg
+Vitamin B6: 0.323 mg
+Vitamin B12: 0 µg
+Folate: 48 µg

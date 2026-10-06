@@ -1,0 +1,36 @@
+Food: Puddings, vanilla, ready-to-eat, fat free
+Food ID: 168797
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 2.02 g
+Carbohydrates: 20.16 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 15.12 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 191 mg
+Potassium: 108 mg
+Calcium: 40 mg
+Iron: 0.36 mg
+Magnesium: 7 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0.21 µg
+Folate: 3 µg

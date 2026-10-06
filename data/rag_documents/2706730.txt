@@ -1,0 +1,36 @@
+Food: Beef shish kabob with vegetables, excluding potatoes
+Food ID: 2706730
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 14.8 g
+Carbohydrates: 5.06 g
+Fat: 4.88 g
+Fiber: 0.8 g
+Sugar: 2.37 g
+
+Fats:
+Saturated fat: 1.659 g
+Monounsaturated fat: 2.04 g
+Polyunsaturated fat: 0.491 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 208 mg
+Potassium: 238 mg
+Calcium: 14 mg
+Iron: 1.31 mg
+Magnesium: 16 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 15 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.271 mg
+Vitamin B12: 0.78 µg
+Folate: 17 µg

@@ -1,0 +1,36 @@
+Food: Infant formula, Gerber, NFS
+Food ID: 2705549
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 1.49 g
+Carbohydrates: 7.26 g
+Fat: 3.33 g
+Fiber: 0 g
+Sugar: 6.9 g
+
+Fats:
+Saturated fat: 1.403 g
+Monounsaturated fat: 1.172 g
+Polyunsaturated fat: 0.678 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 72 mg
+Calcium: 50 mg
+Iron: 1.03 mg
+Magnesium: 5 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 6.8 mg
+Vitamin D: 1 µg
+Vitamin E: 0.67 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.21 µg
+Folate: 10 µg

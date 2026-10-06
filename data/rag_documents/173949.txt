@@ -1,0 +1,34 @@
+Food: Blueberries, wild, frozen (Includes foods for USDA's Food Distribution Program)
+Food ID: 173949
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 0 g
+Carbohydrates: 13.85 g
+Fat: 0.16 g
+Fiber: 4.4 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.09 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 68 mg
+Calcium: 17 mg
+Iron: 0.58 mg
+Magnesium: 7 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg

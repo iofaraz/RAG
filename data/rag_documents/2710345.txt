@@ -1,0 +1,36 @@
+Food: Chocolate candy, nougat filled
+Food ID: 2710345
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 446 kcal
+Protein: 3.3 g
+Carbohydrates: 74.47 g
+Fat: 14.99 g
+Fiber: 1.2 g
+Sugar: 63.29 g
+
+Fats:
+Saturated fat: 10.331 g
+Monounsaturated fat: 2.302 g
+Polyunsaturated fat: 0.288 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 180 mg
+Potassium: 128 mg
+Calcium: 84 mg
+Iron: 0.58 mg
+Magnesium: 24 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.94 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.014 mg
+Vitamin B12: 0.17 µg
+Folate: 4 µg

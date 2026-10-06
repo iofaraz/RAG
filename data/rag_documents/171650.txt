@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST Raisin Bran Cereal
+Food ID: 171650
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 324 kcal
+Protein: 7.6 g
+Carbohydrates: 78.9 g
+Fat: 1.6 g
+Fiber: 13.7 g
+Sugar: 32.9 g
+
+Fats:
+Saturated fat: 0.296 g
+Monounsaturated fat: 0.349 g
+Polyunsaturated fat: 0.796 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 382 mg
+Potassium: 525 mg
+Calcium: 44 mg
+Iron: 18.3 mg
+Magnesium: 168 mg
+Zinc: 3.8 mg
+
+Vitamins:
+Vitamin A: 380 µg
+Vitamin C: 0.9 mg
+Vitamin D: 1.7 µg
+Vitamin E: 0.54 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.8 mg
+Vitamin B12: 2.5 µg
+Folate: 339 µg

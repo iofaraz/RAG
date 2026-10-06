@@ -1,0 +1,37 @@
+Food: Potsticker or wonton, pork and vegetable, frozen, unprepared
+Food ID: 169773
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 8.28 g
+Carbohydrates: 13.28 g
+Fat: 5.52 g
+Fiber: 1.4 g
+Sugar: 2.76 g
+
+Fats:
+Saturated fat: 1.724 g
+Monounsaturated fat: 2.519 g
+Polyunsaturated fat: 0.782 g
+Trans fat: 0 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 441 mg
+Potassium: 284 mg
+Calcium: 28 mg
+Iron: 0.74 mg
+Magnesium: 21 mg
+Zinc: 1.67 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 8.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.25 mg
+Vitamin K: 55 µg
+Vitamin B6: 0.248 mg
+Vitamin B12: 0.26 µg
+Folate: 18 µg

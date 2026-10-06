@@ -1,0 +1,33 @@
+Food: Nuts, almonds, dry roasted, with salt added
+Food ID: 323294
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 620 kcal
+Protein: 20.4 g
+Carbohydrates: 16.2 g
+Fat: 57.8 g
+Fiber: 11 g
+
+Fats:
+Saturated fat: 4.56 g
+Monounsaturated fat: 34.2 g
+Polyunsaturated fat: 14.5 g
+Trans fat: 0.032 g
+
+Minerals:
+Sodium: 256 mg
+Potassium: 684 mg
+Calcium: 273 mg
+Iron: 3.17 mg
+Magnesium: 258 mg
+Zinc: 2.8 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin E: 19 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.075 mg
+Folate: 35 µg

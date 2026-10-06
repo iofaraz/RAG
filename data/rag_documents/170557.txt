@@ -1,0 +1,37 @@
+Food: Seeds, pumpkin and squash seed kernels, roasted, without salt
+Food ID: 170557
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 574 kcal
+Protein: 29.84 g
+Carbohydrates: 14.71 g
+Fat: 49.05 g
+Fiber: 6.5 g
+Sugar: 1.29 g
+
+Fats:
+Saturated fat: 8.544 g
+Monounsaturated fat: 15.734 g
+Polyunsaturated fat: 19.856 g
+Trans fat: 0.042 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 788 mg
+Calcium: 52 mg
+Iron: 8.07 mg
+Magnesium: 550 mg
+Zinc: 7.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.56 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 57 µg

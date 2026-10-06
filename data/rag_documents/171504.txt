@@ -1,0 +1,32 @@
+Food: Turkey, mechanically deboned, from turkey frames, raw
+Food ID: 171504
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 13.29 g
+Carbohydrates: 0 g
+Fat: 15.96 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 5.31 g
+Monounsaturated fat: 5.02 g
+Polyunsaturated fat: 4.51 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 173 mg
+Calcium: 145 mg
+Iron: 1.61 mg
+Magnesium: 13 mg
+Zinc: 2.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0.26 µg
+Folate: 7 µg

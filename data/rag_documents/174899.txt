@@ -1,0 +1,37 @@
+Food: Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)
+Food ID: 174899
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 10.56 g
+Carbohydrates: 52.38 g
+Fat: 1.32 g
+Fiber: 1.6 g
+Sugar: 8.43 g
+
+Fats:
+Saturated fat: 0.36 g
+Monounsaturated fat: 0.39 g
+Polyunsaturated fat: 0.526 g
+Trans fat: 0.021 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 422 mg
+Potassium: 107 mg
+Calcium: 219 mg
+Iron: 3.57 mg
+Magnesium: 29 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 7.46 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 106 µg

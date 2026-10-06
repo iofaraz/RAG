@@ -1,0 +1,35 @@
+Food: PIZZA HUT 14" Super Supreme Pizza, Hand-Tossed Crust
+Food ID: 172054
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 248 kcal
+Protein: 11.34 g
+Carbohydrates: 26.01 g
+Fat: 10.95 g
+Fiber: 2.3 g
+Sugar: 3.04 g
+
+Fats:
+Saturated fat: 4.217 g
+Monounsaturated fat: 3.805 g
+Polyunsaturated fat: 1.875 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 658 mg
+Potassium: 208 mg
+Calcium: 104 mg
+Iron: 1.53 mg
+Magnesium: 23 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0.6 mg
+Vitamin E: 0.66 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.84 µg
+Folate: 59 µg

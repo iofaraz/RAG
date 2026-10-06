@@ -1,0 +1,36 @@
+Food: Breakfast link, pattie, or slice, meatless
+Food ID: 2707467
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 255 kcal
+Protein: 20.28 g
+Carbohydrates: 8.09 g
+Fat: 18.16 g
+Fiber: 2.8 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.926 g
+Monounsaturated fat: 4.498 g
+Polyunsaturated fat: 9.279 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 888 mg
+Potassium: 231 mg
+Calcium: 63 mg
+Iron: 3.72 mg
+Magnesium: 36 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.828 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

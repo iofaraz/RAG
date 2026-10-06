@@ -1,0 +1,36 @@
+Food: Gravy, meat or poultry, low sodium, prepared
+Food ID: 171598
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 3.8 g
+Carbohydrates: 6.16 g
+Fat: 2.4 g
+Fiber: 0.3 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.003 g
+Monounsaturated fat: 1.068 g
+Polyunsaturated fat: 0.095 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 81 mg
+Calcium: 6 mg
+Iron: 0.7 mg
+Magnesium: 2 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.1 µg
+Folate: 25 µg

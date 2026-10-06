@@ -1,0 +1,36 @@
+Food: Pizza, no cheese, thick crust
+Food ID: 2708675
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 293 kcal
+Protein: 7.58 g
+Carbohydrates: 38.28 g
+Fat: 12.26 g
+Fiber: 1.9 g
+Sugar: 5.47 g
+
+Fats:
+Saturated fat: 2.81 g
+Monounsaturated fat: 5.668 g
+Polyunsaturated fat: 2.722 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 514 mg
+Potassium: 171 mg
+Calcium: 23 mg
+Iron: 3.02 mg
+Magnesium: 18 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 6.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.81 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.131 mg
+Vitamin B12: 0.14 µg
+Folate: 72 µg

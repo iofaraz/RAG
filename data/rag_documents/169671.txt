@@ -1,0 +1,36 @@
+Food: Candies, toffee, prepared-from-recipe
+Food ID: 169671
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 560 kcal
+Protein: 1.07 g
+Carbohydrates: 64.72 g
+Fat: 32.75 g
+Fiber: 0 g
+Sugar: 63.47 g
+
+Fats:
+Saturated fat: 20.565 g
+Monounsaturated fat: 8.964 g
+Polyunsaturated fat: 1.222 g
+Trans fat: 0.674 g
+Cholesterol: 104 mg
+
+Minerals:
+Sodium: 135 mg
+Potassium: 51 mg
+Calcium: 34 mg
+Iron: 0.03 mg
+Magnesium: 4 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 319 µg
+Vitamin C: 0.2 mg
+Vitamin E: 0.94 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0.11 µg
+Folate: 2 µg

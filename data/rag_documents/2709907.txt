@@ -1,0 +1,36 @@
+Food: Fennel bulb, cooked
+Food ID: 2709907
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 1.42 g
+Carbohydrates: 8.32 g
+Fat: 3.22 g
+Fiber: 3.5 g
+Sugar: 4.48 g
+
+Fats:
+Saturated fat: 0.886 g
+Monounsaturated fat: 1.14 g
+Polyunsaturated fat: 1.052 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 202 mg
+Potassium: 472 mg
+Calcium: 56 mg
+Iron: 0.84 mg
+Magnesium: 19 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 11.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.11 mg
+Vitamin K: 74 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

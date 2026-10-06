@@ -1,0 +1,36 @@
+Food: Quesadilla, chicken
+Food ID: 2708593
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 14.45 g
+Carbohydrates: 27.32 g
+Fat: 12.99 g
+Fiber: 1.9 g
+Sugar: 2.15 g
+
+Fats:
+Saturated fat: 5.058 g
+Monounsaturated fat: 3.629 g
+Polyunsaturated fat: 2.674 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 601 mg
+Potassium: 153 mg
+Calcium: 185 mg
+Iron: 2.18 mg
+Magnesium: 23 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.57 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.202 mg
+Vitamin B12: 0.25 µg
+Folate: 54 µg

@@ -1,0 +1,37 @@
+Food: Taco shells, baked
+Food ID: 172800
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 476 kcal
+Protein: 6.41 g
+Carbohydrates: 63.49 g
+Fat: 21.79 g
+Fiber: 6.7 g
+Sugar: 1.5 g
+
+Fats:
+Saturated fat: 7.105 g
+Monounsaturated fat: 6.935 g
+Polyunsaturated fat: 5.495 g
+Trans fat: 0.172 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 324 mg
+Potassium: 231 mg
+Calcium: 100 mg
+Iron: 1.64 mg
+Magnesium: 83 mg
+Zinc: 1.61 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.69 mg
+Vitamin K: 8.6 µg
+Vitamin B6: 0.203 mg
+Vitamin B12: 0 µg
+Folate: 69 µg

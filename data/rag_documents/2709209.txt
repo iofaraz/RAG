@@ -1,0 +1,36 @@
+Food: Persimmon, dried
+Food ID: 2709209
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 1.54 g
+Carbohydrates: 96.07 g
+Fat: 0.66 g
+Fiber: 9.6 g
+Sugar: 80.06 g
+
+Fats:
+Saturated fat: 0.053 g
+Monounsaturated fat: 0.098 g
+Polyunsaturated fat: 0.114 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 429 mg
+Calcium: 22 mg
+Iron: 0.42 mg
+Magnesium: 24 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 108 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.94 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.239 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

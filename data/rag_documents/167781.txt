@@ -1,0 +1,37 @@
+Food: Candied fruit
+Food ID: 167781
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 322 kcal
+Protein: 0.34 g
+Carbohydrates: 82.74 g
+Fat: 0.07 g
+Fiber: 1.6 g
+Sugar: 80.68 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.02 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 98 mg
+Potassium: 56 mg
+Calcium: 18 mg
+Iron: 0.17 mg
+Magnesium: 4 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

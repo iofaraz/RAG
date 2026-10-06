@@ -1,0 +1,36 @@
+Food: Paella, NFS
+Food ID: 2706723
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 169 kcal
+Protein: 9.53 g
+Carbohydrates: 15.77 g
+Fat: 7.17 g
+Fiber: 0.6 g
+Sugar: 0.67 g
+
+Fats:
+Saturated fat: 1.888 g
+Monounsaturated fat: 3.772 g
+Polyunsaturated fat: 0.965 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 737 mg
+Potassium: 126 mg
+Calcium: 19 mg
+Iron: 1.27 mg
+Magnesium: 15 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.84 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 1.31 µg
+Folate: 30 µg

@@ -1,0 +1,36 @@
+Food: Cereal, corn squares, flavored
+Food ID: 2708463
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 380 kcal
+Protein: 5.58 g
+Carbohydrates: 80.74 g
+Fat: 3.32 g
+Fiber: 4.7 g
+Sugar: 25.94 g
+
+Fats:
+Saturated fat: 0.281 g
+Monounsaturated fat: 1.495 g
+Polyunsaturated fat: 1.048 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 662 mg
+Potassium: 102 mg
+Calcium: 325 mg
+Iron: 9.8 mg
+Magnesium: 23 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 23 mg
+Vitamin D: 5 µg
+Vitamin E: 0.42 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.756 mg
+Vitamin B12: 0.9 µg
+Folate: 140 µg

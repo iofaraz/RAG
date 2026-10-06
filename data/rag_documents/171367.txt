@@ -1,0 +1,36 @@
+Food: Babyfood, oatmeal cereal with fruit, dry, instant, toddler fortified
+Food ID: 171367
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 402 kcal
+Protein: 10.5 g
+Carbohydrates: 74.1 g
+Fat: 7.05 g
+Fiber: 7.8 g
+Sugar: 11.09 g
+
+Fats:
+Saturated fat: 1.572 g
+Monounsaturated fat: 3.008 g
+Polyunsaturated fat: 2.29 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 346 mg
+Calcium: 286 mg
+Iron: 14.3 mg
+Magnesium: 107 mg
+Zinc: 5.7 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 2.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.48 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.38 mg
+Vitamin B12: 0 µg
+Folate: 234 µg

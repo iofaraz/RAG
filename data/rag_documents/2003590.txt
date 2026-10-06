@@ -1,0 +1,22 @@
+Food: Apple juice, with added vitamin C, from concentrate, shelf stable
+Food ID: 2003590
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.0859375 g
+Carbohydrates: 11.364 g
+Fat: 0.2863 g
+
+Minerals:
+Sodium: 4.872 mg
+Potassium: 95.87 mg
+Calcium: 7.099 mg
+Iron: 0.04016 mg
+Magnesium: 4.861 mg
+Zinc: 0.002125 mg
+
+Vitamins:
+Vitamin C: 51.16 mg
+Vitamin B6: 0.01388 mg
+Folate: 3.088 µg

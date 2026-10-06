@@ -1,0 +1,36 @@
+Food: White pizza, cheese, with meat, thick crust
+Food ID: 2708681
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 12.84 g
+Carbohydrates: 27.2 g
+Fat: 14.8 g
+Fiber: 1.1 g
+Sugar: 2.95 g
+
+Fats:
+Saturated fat: 5.492 g
+Monounsaturated fat: 6.03 g
+Polyunsaturated fat: 1.927 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 621 mg
+Potassium: 158 mg
+Calcium: 203 mg
+Iron: 2.09 mg
+Magnesium: 23 mg
+Zinc: 1.49 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.14 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.37 µg
+Folate: 52 µg

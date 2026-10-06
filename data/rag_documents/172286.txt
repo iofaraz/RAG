@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, turkey, rice, and vegetables, toddler
+Food ID: 172286
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 3.8 g
+Carbohydrates: 7.5 g
+Fat: 1.6 g
+Fiber: 0.8 g
+Sugar: 1.12 g
+
+Fats:
+Saturated fat: 0.5 g
+Monounsaturated fat: 0.555 g
+Polyunsaturated fat: 0.309 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 107 mg
+Calcium: 11 mg
+Iron: 0.4 mg
+Magnesium: 14 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.1 µg
+Folate: 3 µg

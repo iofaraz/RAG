@@ -1,0 +1,36 @@
+Food: Garlic bread, with melted cheese, from fast food / restaurant
+Food ID: 2707631
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 11.41 g
+Carbohydrates: 34.21 g
+Fat: 17.34 g
+Fiber: 2 g
+Sugar: 3.31 g
+
+Fats:
+Saturated fat: 6.554 g
+Monounsaturated fat: 4.658 g
+Polyunsaturated fat: 4.491 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 636 mg
+Potassium: 105 mg
+Calcium: 160 mg
+Iron: 2.48 mg
+Magnesium: 24 mg
+Zinc: 1.42 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.04 mg
+Vitamin K: 23.8 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.38 µg
+Folate: 139 µg

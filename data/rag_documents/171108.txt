@@ -1,0 +1,35 @@
+Food: Chicken, cornish game hens, meat only, raw
+Food ID: 171108
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 20.04 g
+Carbohydrates: 0 g
+Fat: 3.33 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.85 g
+Monounsaturated fat: 1.07 g
+Polyunsaturated fat: 0.81 g
+Cholesterol: 91 mg
+
+Minerals:
+Sodium: 68 mg
+Potassium: 269 mg
+Calcium: 12 mg
+Iron: 0.74 mg
+Magnesium: 21 mg
+Zinc: 1.31 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0.6 mg
+Vitamin E: 0.21 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.385 mg
+Vitamin B12: 0.4 µg
+Folate: 3 µg

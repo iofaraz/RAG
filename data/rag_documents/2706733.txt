@@ -1,0 +1,36 @@
+Food: Beef rolls, stuffed with vegetables or meat mixture, tomato-based sauce
+Food ID: 2706733
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 20.56 g
+Carbohydrates: 6.61 g
+Fat: 9.08 g
+Fiber: 0.7 g
+Sugar: 1.23 g
+
+Fats:
+Saturated fat: 3.373 g
+Monounsaturated fat: 3.845 g
+Polyunsaturated fat: 0.432 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 351 mg
+Potassium: 380 mg
+Calcium: 13 mg
+Iron: 2.21 mg
+Magnesium: 24 mg
+Zinc: 3.12 mg
+
+Vitamins:
+Vitamin A: 92 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.39 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.311 mg
+Vitamin B12: 2.04 µg
+Folate: 21 µg

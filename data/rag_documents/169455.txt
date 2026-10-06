@@ -1,0 +1,37 @@
+Food: Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0" fat, choice, cooked, grilled
+Food ID: 169455
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 29.22 g
+Carbohydrates: 0 g
+Fat: 9.52 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.899 g
+Monounsaturated fat: 4.499 g
+Polyunsaturated fat: 0.522 g
+Trans fat: 0.472 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 367 mg
+Calcium: 14 mg
+Iron: 3.38 mg
+Magnesium: 19 mg
+Zinc: 4.41 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.29 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.721 mg
+Vitamin B12: 4.3 µg
+Folate: 7 µg

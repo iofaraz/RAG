@@ -1,0 +1,30 @@
+Food: Eppaw, raw
+Food ID: 170078
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 4.6 g
+Carbohydrates: 31.68 g
+Fat: 1.8 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 340 mg
+Calcium: 110 mg
+Iron: 1.15 mg
+Magnesium: 32 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 13 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

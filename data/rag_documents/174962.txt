@@ -1,0 +1,32 @@
+Food: Cookies, oatmeal, refrigerated dough, baked
+Food ID: 174962
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 471 kcal
+Protein: 6 g
+Carbohydrates: 65.7 g
+Fat: 21 g
+Fiber: 2.8 g
+
+Fats:
+Saturated fat: 5.339 g
+Monounsaturated fat: 11.729 g
+Polyunsaturated fat: 2.976 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 327 mg
+Potassium: 163 mg
+Calcium: 35 mg
+Iron: 2.38 mg
+Magnesium: 32 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.04 µg
+Folate: 27 µg

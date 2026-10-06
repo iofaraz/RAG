@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, flat, separable lean only, raw
+Food ID: 173080
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 21.3 g
+Carbohydrates: 0 g
+Fat: 7.69 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.525 g
+Monounsaturated fat: 3.144 g
+Polyunsaturated fat: 0.328 g
+Trans fat: 0.147 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 291 mg
+Calcium: 5 mg
+Iron: 1.9 mg
+Magnesium: 20 mg
+Zinc: 5.44 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin B6: 0.276 mg
+Vitamin B12: 2.85 µg

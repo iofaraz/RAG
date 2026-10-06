@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, QUAKER, Oatmeal Squares
+Food ID: 174622
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 11.38 g
+Carbohydrates: 77.77 g
+Fat: 4.83 g
+Fiber: 8.3 g
+Sugar: 16.69 g
+
+Fats:
+Saturated fat: 0.873 g
+Monounsaturated fat: 1.594 g
+Polyunsaturated fat: 1.523 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 347 mg
+Potassium: 357 mg
+Calcium: 201 mg
+Iron: 29.3 mg
+Magnesium: 115 mg
+Zinc: 7.18 mg
+
+Vitamins:
+Vitamin A: 356 µg
+Vitamin C: 11.5 mg
+Vitamin D: 0 µg
+Vitamin E: 4.86 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.88 mg
+Vitamin B12: 0 µg
+Folate: 722 µg

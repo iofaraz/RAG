@@ -1,0 +1,37 @@
+Food: HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen
+Food ID: 173327
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 9.16 g
+Carbohydrates: 24.69 g
+Fat: 15 g
+Fiber: 1.5 g
+Sugar: 7.6 g
+
+Fats:
+Saturated fat: 3.545 g
+Monounsaturated fat: 2.547 g
+Polyunsaturated fat: 1.936 g
+Trans fat: 0.18 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 386 mg
+Potassium: 188 mg
+Calcium: 152 mg
+Iron: 2 mg
+Magnesium: 18 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0.35 µg
+Folate: 54 µg

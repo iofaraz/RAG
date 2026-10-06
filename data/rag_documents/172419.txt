@@ -1,0 +1,32 @@
+Food: Quail, meat only, raw
+Food ID: 172419
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 21.76 g
+Carbohydrates: 0 g
+Fat: 4.53 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.32 g
+Monounsaturated fat: 1.28 g
+Polyunsaturated fat: 1.17 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 237 mg
+Calcium: 13 mg
+Iron: 4.51 mg
+Magnesium: 25 mg
+Zinc: 2.7 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 7.2 mg
+Vitamin B6: 0.53 mg
+Vitamin B12: 0.47 µg
+Folate: 7 µg

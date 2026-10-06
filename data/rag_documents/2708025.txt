@@ -1,0 +1,36 @@
+Food: Fritter, fruit
+Food ID: 2708025
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 403 kcal
+Protein: 6.3 g
+Carbohydrates: 37.29 g
+Fat: 25.59 g
+Fiber: 1.2 g
+Sugar: 12.44 g
+
+Fats:
+Saturated fat: 5.292 g
+Monounsaturated fat: 9.737 g
+Polyunsaturated fat: 8.147 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 321 mg
+Potassium: 143 mg
+Calcium: 61 mg
+Iron: 2.02 mg
+Magnesium: 16 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 1 mg
+Vitamin D: 0.7 µg
+Vitamin E: 3.96 mg
+Vitamin K: 20.7 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.22 µg
+Folate: 42 µg

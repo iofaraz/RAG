@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, spleen, cooked, braised
+Food ID: 167866
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 28.2 g
+Carbohydrates: 0 g
+Fat: 3.2 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.06 g
+Monounsaturated fat: 0.86 g
+Polyunsaturated fat: 0.23 g
+Cholesterol: 504 mg
+
+Minerals:
+Sodium: 107 mg
+Potassium: 227 mg
+Calcium: 13 mg
+Iron: 22.23 mg
+Magnesium: 15 mg
+Zinc: 3.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 11.6 mg
+Vitamin B6: 0.06 mg
+Vitamin B12: 2.76 µg
+Folate: 4 µg

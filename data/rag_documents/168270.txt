@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, kidneys, raw
+Food ID: 168270
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 16.46 g
+Carbohydrates: 0 g
+Fat: 3.25 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.04 g
+Monounsaturated fat: 1.07 g
+Polyunsaturated fat: 0.26 g
+Cholesterol: 319 mg
+
+Minerals:
+Sodium: 121 mg
+Potassium: 229 mg
+Calcium: 9 mg
+Iron: 4.89 mg
+Magnesium: 17 mg
+Zinc: 2.75 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 13.3 mg
+Vitamin B6: 0.44 mg
+Vitamin B12: 8.49 µg
+Folate: 42 µg

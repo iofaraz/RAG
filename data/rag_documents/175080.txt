@@ -1,0 +1,30 @@
+Food: Martha White Foods, Martha White's Chewy Fudge Brownie Mix, dry
+Food ID: 175080
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 407 kcal
+Protein: 4.42 g
+Carbohydrates: 83.58 g
+Fat: 6.16 g
+Fiber: 2.9 g
+Sugar: 54.76 g
+
+Fats:
+Saturated fat: 1.7 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 457 mg
+Potassium: 51 mg
+Calcium: 17 mg
+Iron: 3.81 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

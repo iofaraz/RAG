@@ -1,0 +1,37 @@
+Food: Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, cooked, braised
+Food ID: 168261
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 233 kcal
+Protein: 26.57 g
+Carbohydrates: 0 g
+Fat: 13.2 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.023 g
+Monounsaturated fat: 6.199 g
+Polyunsaturated fat: 1.402 g
+Trans fat: 0.102 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 318 mg
+Calcium: 25 mg
+Iron: 1.85 mg
+Magnesium: 24 mg
+Zinc: 5.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.47 mg
+Vitamin B12: 0.9 µg
+Folate: 0 µg

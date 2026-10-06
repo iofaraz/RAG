@@ -1,0 +1,26 @@
+Food: Lettuce, cos or romaine, raw
+Food ID: 746769
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 17 kcal
+Protein: 1.24 g
+Carbohydrates: 3.24 g
+Fat: 0.26 g
+Fiber: 1.8 g
+
+Minerals:
+Potassium: 253 mg
+Calcium: 35 mg
+Iron: 0.95 mg
+Magnesium: 13.7 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 436 µg
+Vitamin C: 4.6 mg
+Vitamin E: 0.14 mg
+Vitamin K: 102 µg
+Vitamin B6: 0.078 mg
+Folate: 50 µg

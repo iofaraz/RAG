@@ -1,0 +1,37 @@
+Food: Guava nectar, with sucralose, canned
+Food ID: 168210
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 0.3 g
+Carbohydrates: 13.3 g
+Fat: 0.07 g
+Fiber: 1.2 g
+Sugar: 10.15 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.017 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 33 mg
+Calcium: 8 mg
+Iron: 0.54 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 21.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

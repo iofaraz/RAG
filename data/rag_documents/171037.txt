@@ -1,0 +1,35 @@
+Food: Salad Dressing, mayonnaise, light, SMART BALANCE, Omega Plus light
+Food ID: 171037
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 1.53 g
+Carbohydrates: 9.39 g
+Fat: 34.18 g
+Fiber: 0.2 g
+Sugar: 5.38 g
+
+Fats:
+Saturated fat: 3.288 g
+Monounsaturated fat: 16.662 g
+Polyunsaturated fat: 11.776 g
+Trans fat: 0.149 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 848 mg
+Potassium: 63 mg
+Calcium: 13 mg
+Iron: 0.31 mg
+Magnesium: 2 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 10.41 mg
+Vitamin K: 65.8 µg
+Vitamin B6: 0.015 mg
+Vitamin B12: 0.17 µg

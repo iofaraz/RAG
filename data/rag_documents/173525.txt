@@ -1,0 +1,33 @@
+Food: Infant formula, MEAD JOHNSON, Gentlease, ready to feed, with ARA and DHA
+Food ID: 173525
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 1.5 g
+Carbohydrates: 7.61 g
+Fat: 3.5 g
+Sugar: 1.93 g
+
+Fats:
+Saturated fat: 1.48 g
+Monounsaturated fat: 1.2 g
+Polyunsaturated fat: 0.65 g
+
+Minerals:
+Potassium: 84 mg
+Calcium: 54 mg
+Iron: 1.18 mg
+Magnesium: 5 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 7.9 mg
+Vitamin D: 1 µg
+Vitamin E: 0.59 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.2 µg
+Folate: 11 µg

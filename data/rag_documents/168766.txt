@@ -1,0 +1,26 @@
+Food: Candies, NESTLE, AFTER EIGHT Mints
+Food ID: 168766
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 432 kcal
+Protein: 1.67 g
+Carbohydrates: 79.53 g
+Fat: 11.9 g
+Fiber: 2.4 g
+Sugar: 66.6 g
+
+Fats:
+Saturated fat: 8.33 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Calcium: 13 mg
+Iron: 0.57 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

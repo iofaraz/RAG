@@ -1,0 +1,36 @@
+Food: Classic mixed vegetables, canned, cooked, no added fat
+Food ID: 2710014
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 2.11 g
+Carbohydrates: 8.84 g
+Fat: 0.65 g
+Fiber: 2.6 g
+Sugar: 2.8 g
+
+Fats:
+Saturated fat: 0.129 g
+Monounsaturated fat: 0.118 g
+Polyunsaturated fat: 0.299 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 250 mg
+Potassium: 128 mg
+Calcium: 22 mg
+Iron: 0.72 mg
+Magnesium: 13 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 155 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 21.4 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

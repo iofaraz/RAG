@@ -1,0 +1,36 @@
+Food: Egg sandwich on bagel, with sausage
+Food ID: 2707329
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 12.83 g
+Carbohydrates: 26.17 g
+Fat: 13.09 g
+Fiber: 0.8 g
+Sugar: 4.54 g
+
+Fats:
+Saturated fat: 4.847 g
+Monounsaturated fat: 4.745 g
+Polyunsaturated fat: 2.295 g
+Cholesterol: 117 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 152 mg
+Calcium: 130 mg
+Iron: 2.34 mg
+Magnesium: 22 mg
+Zinc: 1.36 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.8 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.48 µg
+Folate: 65 µg

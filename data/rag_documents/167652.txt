@@ -1,0 +1,32 @@
+Food: Elk, free range, roast, eye of round, raw (Shoshone Bannock)
+Food ID: 167652
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 98 kcal
+Protein: 19.74 g
+Carbohydrates: 0 g
+Fat: 2.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.828 g
+Monounsaturated fat: 0.897 g
+Polyunsaturated fat: 0.122 g
+Trans fat: 0.032 g
+
+Minerals:
+Sodium: 43 mg
+Potassium: 367 mg
+Calcium: 4 mg
+Iron: 2.27 mg
+Magnesium: 24 mg
+Zinc: 4.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.893 mg
+Vitamin B12: 1.77 µg

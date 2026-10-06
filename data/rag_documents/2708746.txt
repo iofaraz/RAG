@@ -1,0 +1,36 @@
+Food: Cornmeal dressing with chicken or turkey and vegetables
+Food ID: 2708746
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 7.6 g
+Carbohydrates: 19.27 g
+Fat: 14.45 g
+Fiber: 1.2 g
+Sugar: 3.47 g
+
+Fats:
+Saturated fat: 3.105 g
+Monounsaturated fat: 6.227 g
+Polyunsaturated fat: 4.153 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 561 mg
+Potassium: 147 mg
+Calcium: 101 mg
+Iron: 2.48 mg
+Magnesium: 15 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 394 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.63 mg
+Vitamin K: 22.7 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 1.64 µg
+Folate: 66 µg

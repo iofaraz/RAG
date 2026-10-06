@@ -1,0 +1,32 @@
+Food: Snacks, potato chips, cheese-flavor
+Food ID: 169682
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 496 kcal
+Protein: 8.5 g
+Carbohydrates: 57.7 g
+Fat: 27.2 g
+Fiber: 5.2 g
+
+Fats:
+Saturated fat: 8.6 g
+Monounsaturated fat: 7.72 g
+Polyunsaturated fat: 9.56 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 458 mg
+Potassium: 1528 mg
+Calcium: 72 mg
+Iron: 1.84 mg
+Magnesium: 75 mg
+Zinc: 0.91 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 54.1 mg
+Vitamin B6: 0.348 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Popover
+Food ID: 2707846
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 268 kcal
+Protein: 11.05 g
+Carbohydrates: 35.28 g
+Fat: 9.2 g
+Fiber: 1.1 g
+Sugar: 4.04 g
+
+Fats:
+Saturated fat: 4.136 g
+Monounsaturated fat: 2.329 g
+Polyunsaturated fat: 0.922 g
+Cholesterol: 150 mg
+
+Minerals:
+Sodium: 284 mg
+Potassium: 221 mg
+Calcium: 123 mg
+Iron: 2.81 mg
+Magnesium: 24 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 138 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 0.39 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.5 µg
+Folate: 63 µg

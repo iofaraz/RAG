@@ -1,0 +1,17 @@
+Food: Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed
+Food ID: 2644289
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 7.8 g
+Carbohydrates: 21.03 g
+Fat: 1.256 g
+
+Minerals:
+Sodium: 172.3 mg
+Potassium: 226.9 mg
+Calcium: 56.94 mg
+Iron: 1.439 mg
+Magnesium: 29.31 mg
+Zinc: 0.56 mg

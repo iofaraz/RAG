@@ -1,0 +1,37 @@
+Food: Candies, KIT KAT Wafer Bar
+Food ID: 167992
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 518 kcal
+Protein: 6.51 g
+Carbohydrates: 64.59 g
+Fat: 25.99 g
+Fiber: 1 g
+Sugar: 48.68 g
+
+Fats:
+Saturated fat: 17.953 g
+Monounsaturated fat: 5.844 g
+Polyunsaturated fat: 0.895 g
+Trans fat: 0.099 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 231 mg
+Calcium: 125 mg
+Iron: 1 mg
+Magnesium: 37 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.56 µg
+Folate: 14 µg

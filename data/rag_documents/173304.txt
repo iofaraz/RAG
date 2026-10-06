@@ -1,0 +1,33 @@
+Food: McDONALD'S, McFLURRY with OREO cookies
+Food ID: 173304
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 3.97 g
+Carbohydrates: 25.55 g
+Fat: 5.66 g
+Fiber: 0.1 g
+Sugar: 21.19 g
+
+Fats:
+Saturated fat: 2.577 g
+Monounsaturated fat: 1.716 g
+Polyunsaturated fat: 0.364 g
+Trans fat: 0.565 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 198 mg
+Calcium: 129 mg
+Iron: 0.61 mg
+Magnesium: 14 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin E: 0.09 mg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.58 µg
+Folate: 5 µg

@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, pancreas, cooked, braised
+Food ID: 172539
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 22.83 g
+Carbohydrates: 0 g
+Fat: 15.12 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 6.84 g
+Monounsaturated fat: 5.45 g
+Polyunsaturated fat: 0.74 g
+Cholesterol: 400 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 291 mg
+Calcium: 12 mg
+Iron: 2.12 mg
+Magnesium: 19 mg
+Zinc: 2.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 20 mg
+Vitamin B6: 0.05 mg
+Vitamin B12: 5.54 µg
+Folate: 13 µg

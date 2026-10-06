@@ -1,0 +1,28 @@
+Food: Lamb, Australian, imported, fresh, leg, sirloin half, boneless, separable lean only, trimmed to 1/8" fat, cooked, roasted
+Food ID: 172581
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 27.75 g
+Carbohydrates: 0 g
+Fat: 10.65 g
+
+Fats:
+Saturated fat: 4.508 g
+Monounsaturated fat: 4.182 g
+Polyunsaturated fat: 0.482 g
+Cholesterol: 105 mg
+
+Minerals:
+Sodium: 83 mg
+Potassium: 318 mg
+Calcium: 13 mg
+Iron: 2.24 mg
+Magnesium: 25 mg
+Zinc: 4.76 mg
+
+Vitamins:
+Vitamin B6: 0.46 mg
+Vitamin B12: 3.19 µg

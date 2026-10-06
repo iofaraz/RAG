@@ -1,0 +1,36 @@
+Food: Cheese, Feta
+Food ID: 2705714
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 19.71 g
+Carbohydrates: 5.58 g
+Fat: 19.08 g
+Fiber: 0 g
+Sugar: 1.63 g
+
+Fats:
+Saturated fat: 11.2 g
+Monounsaturated fat: 4.18 g
+Polyunsaturated fat: 0.591 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 1034 mg
+Potassium: 105 mg
+Calcium: 371 mg
+Iron: 0.07 mg
+Magnesium: 18 mg
+Zinc: 2.35 mg
+
+Vitamins:
+Vitamin A: 147 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 1.69 µg
+Folate: 32 µg

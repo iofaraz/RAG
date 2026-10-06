@@ -1,0 +1,37 @@
+Food: Beverages, ABBOTT, EAS soy protein powder
+Food ID: 174813
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 405 kcal
+Protein: 47.62 g
+Carbohydrates: 43.94 g
+Fat: 3.57 g
+Fiber: 0 g
+Sugar: 40.48 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.644 g
+Polyunsaturated fat: 1.956 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 452 mg
+Potassium: 714 mg
+Calcium: 95 mg
+Iron: 6.43 mg
+Magnesium: 22 mg
+Zinc: 2.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.057 mg
+Vitamin B12: 0 µg
+Folate: 100 µg

@@ -1,0 +1,36 @@
+Food: Fish, pike, northern, raw
+Food ID: 173680
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 19.26 g
+Carbohydrates: 0 g
+Fat: 0.69 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.118 g
+Monounsaturated fat: 0.157 g
+Polyunsaturated fat: 0.202 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 259 mg
+Calcium: 57 mg
+Iron: 0.55 mg
+Magnesium: 31 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 3.8 mg
+Vitamin D: 2.5 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 2 µg
+Folate: 15 µg

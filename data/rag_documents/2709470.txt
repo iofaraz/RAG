@@ -1,0 +1,36 @@
+Food: Potato, french fries, with chili and cheese
+Food ID: 2709470
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 4.66 g
+Carbohydrates: 24.87 g
+Fat: 11.42 g
+Fiber: 2.7 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 2.246 g
+Monounsaturated fat: 4.527 g
+Polyunsaturated fat: 3.724 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 363 mg
+Potassium: 358 mg
+Calcium: 32 mg
+Iron: 1.01 mg
+Magnesium: 25 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.43 mg
+Vitamin K: 9.3 µg
+Vitamin B6: 0.226 mg
+Vitamin B12: 0.15 µg
+Folate: 32 µg

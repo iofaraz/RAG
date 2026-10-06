@@ -1,0 +1,33 @@
+Food: Onions, yellow, sauteed
+Food ID: 170004
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 0.95 g
+Carbohydrates: 7.86 g
+Fat: 10.8 g
+Fiber: 1.7 g
+
+Fats:
+Saturated fat: 1.477 g
+Monounsaturated fat: 2.185 g
+Polyunsaturated fat: 5.47 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 12 mg
+Potassium: 133 mg
+Calcium: 20 mg
+Iron: 0.27 mg
+Magnesium: 9 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 21.6 µg
+Vitamin B6: 0.207 mg
+Folate: 2 µg

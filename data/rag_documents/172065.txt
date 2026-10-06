@@ -1,0 +1,30 @@
+Food: McDONALD'S, Double Cheeseburger
+Food ID: 172065
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 15.5 g
+Carbohydrates: 18.79 g
+Fat: 16.09 g
+Fiber: 0.8 g
+Sugar: 4.23 g
+
+Fats:
+Saturated fat: 6.998 g
+Monounsaturated fat: 5.655 g
+Polyunsaturated fat: 1.351 g
+Trans fat: 0.675 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 668 mg
+Potassium: 216 mg
+Calcium: 178 mg
+Iron: 2.24 mg
+Magnesium: 21 mg
+Zinc: 2.58 mg
+
+Vitamins:
+Vitamin C: 0.4 mg

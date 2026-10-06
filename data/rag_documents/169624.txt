@@ -1,0 +1,31 @@
+Food: Candies, REESE'S NUTRAGEOUS Candy Bar
+Food ID: 169624
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 517 kcal
+Protein: 11.28 g
+Carbohydrates: 52.8 g
+Fat: 32.09 g
+Fiber: 3.9 g
+Sugar: 40.22 g
+
+Fats:
+Saturated fat: 8.86 g
+Monounsaturated fat: 12.63 g
+Polyunsaturated fat: 8.09 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 141 mg
+Potassium: 364 mg
+Calcium: 68 mg
+Iron: 1.23 mg
+Magnesium: 68 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin C: 0.5 mg
+Vitamin B6: 0.1 mg
+Folate: 56 µg

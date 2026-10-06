@@ -1,0 +1,22 @@
+Food: Flour, semolina, coarse and semi-coarse
+Food ID: 2003588
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 11.7312 g
+Carbohydrates: 73.8234 g
+Fat: 1.597 g
+Fiber: 3.216 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 173.8 mg
+Calcium: 17.16 mg
+Iron: 1.547 mg
+Magnesium: 35.21 mg
+Zinc: 0.947 mg
+
+Vitamins:
+Vitamin B6: 0.08283 mg
+Folate: 167.7 µg

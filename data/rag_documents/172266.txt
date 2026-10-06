@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, pasta with vegetables
+Food ID: 172266
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 1.7 g
+Carbohydrates: 8.4 g
+Fat: 2.1 g
+Fiber: 1.5 g
+Sugar: 1.2 g
+
+Fats:
+Saturated fat: 1.23 g
+Monounsaturated fat: 0.58 g
+Polyunsaturated fat: 0.144 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 133 mg
+Calcium: 14 mg
+Iron: 0.5 mg
+Magnesium: 24 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

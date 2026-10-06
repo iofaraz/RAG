@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, tongue, cooked, braised
+Food ID: 174367
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 275 kcal
+Protein: 21.57 g
+Carbohydrates: 0 g
+Fat: 20.28 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.83 g
+Monounsaturated fat: 10 g
+Polyunsaturated fat: 1.25 g
+Cholesterol: 189 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 158 mg
+Calcium: 10 mg
+Iron: 2.63 mg
+Magnesium: 16 mg
+Zinc: 2.99 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7 mg
+Vitamin B6: 0.17 mg
+Vitamin B12: 6.3 µg
+Folate: 3 µg

@@ -1,0 +1,36 @@
+Food: Winter melon, cooked
+Food ID: 2710004
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 0.4 g
+Carbohydrates: 2.95 g
+Fat: 2.74 g
+Fiber: 1 g
+Sugar: 1.15 g
+
+Fats:
+Saturated fat: 0.682 g
+Monounsaturated fat: 0.939 g
+Polyunsaturated fat: 0.815 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 225 mg
+Potassium: 5 mg
+Calcium: 18 mg
+Iron: 0.37 mg
+Magnesium: 10 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 10.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

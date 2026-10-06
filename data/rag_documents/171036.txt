@@ -1,0 +1,25 @@
+Food: Salad dressing, spray-style dressing, assorted flavors
+Food ID: 171036
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 0.16 g
+Carbohydrates: 16.6 g
+Fat: 10.75 g
+Fiber: 0.3 g
+Sugar: 14.29 g
+
+Fats:
+Saturated fat: 1.643 g
+Trans fat: 0.139 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1102 mg
+Calcium: 6 mg
+Iron: 0.18 mg
+
+Vitamins:
+Vitamin C: 0.7 mg

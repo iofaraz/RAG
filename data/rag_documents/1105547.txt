@@ -1,0 +1,23 @@
+Food: Apples, honeycrisp, with skin, raw
+Food ID: 1105547
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 0.1 g
+Carbohydrates: 14.7 g
+Fat: 0.1 g
+Fiber: 1.7 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 98 mg
+Calcium: 4 mg
+Iron: 0 mg
+Magnesium: 4.2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin B6: 0.033 mg
+Folate: 0 µg

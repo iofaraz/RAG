@@ -1,0 +1,35 @@
+Food: Salmon, red (sockeye), filets with skin, smoked (Alaska Native)
+Food ID: 169813
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 345 kcal
+Protein: 60.62 g
+Carbohydrates: 0 g
+Fat: 11.43 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.593 g
+Monounsaturated fat: 4.025 g
+Polyunsaturated fat: 3.469 g
+Cholesterol: 155 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 960 mg
+Calcium: 58 mg
+Iron: 1.06 mg
+Magnesium: 58 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0 mg
+Vitamin E: 1.2 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.816 mg
+Vitamin B12: 18.1 µg
+Folate: 9 µg

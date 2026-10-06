@@ -1,0 +1,36 @@
+Food: Shrimp with crab stuffing
+Food ID: 2706566
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 16.39 g
+Carbohydrates: 6.16 g
+Fat: 9.01 g
+Fiber: 0.3 g
+Sugar: 0.33 g
+
+Fats:
+Saturated fat: 2.186 g
+Monounsaturated fat: 3.579 g
+Polyunsaturated fat: 2.515 g
+Cholesterol: 145 mg
+
+Minerals:
+Sodium: 537 mg
+Potassium: 199 mg
+Calcium: 78 mg
+Iron: 0.9 mg
+Magnesium: 30 mg
+Zinc: 2.4 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0.4 µg
+Vitamin E: 2.08 mg
+Vitamin K: 5.6 µg
+Vitamin B6: 0.157 mg
+Vitamin B12: 2.13 µg
+Folate: 47 µg

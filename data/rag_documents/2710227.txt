@@ -1,0 +1,36 @@
+Food: Thousand Island dressing, light
+Food ID: 2710227
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 0.83 g
+Carbohydrates: 24.06 g
+Fat: 11.32 g
+Fiber: 1.2 g
+Sugar: 17.31 g
+
+Fats:
+Saturated fat: 0.746 g
+Monounsaturated fat: 6.468 g
+Polyunsaturated fat: 2.692 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 955 mg
+Potassium: 202 mg
+Calcium: 27 mg
+Iron: 0.9 mg
+Magnesium: 7 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1 mg
+Vitamin K: 27.6 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

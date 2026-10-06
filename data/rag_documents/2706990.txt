@@ -1,0 +1,36 @@
+Food: Chicken salad sandwich on white
+Food ID: 2706990
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 246 kcal
+Protein: 12.42 g
+Carbohydrates: 18.32 g
+Fat: 13.7 g
+Fiber: 1 g
+Sugar: 3.18 g
+
+Fats:
+Saturated fat: 2.429 g
+Monounsaturated fat: 3.488 g
+Polyunsaturated fat: 7.116 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 473 mg
+Potassium: 177 mg
+Calcium: 83 mg
+Iron: 1.43 mg
+Magnesium: 19 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.73 mg
+Vitamin K: 30.2 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0.14 µg
+Folate: 46 µg

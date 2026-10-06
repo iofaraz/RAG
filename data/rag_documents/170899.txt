@@ -1,0 +1,37 @@
+Food: Cheese, cheddar, sharp, sliced
+Food ID: 170899
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 410 kcal
+Protein: 24.25 g
+Carbohydrates: 2.13 g
+Fat: 33.82 g
+Fiber: 0 g
+Sugar: 0.27 g
+
+Fats:
+Saturated fat: 19.368 g
+Monounsaturated fat: 8.428 g
+Polyunsaturated fat: 1.433 g
+Trans fat: 1.179 g
+Cholesterol: 99 mg
+
+Minerals:
+Sodium: 644 mg
+Potassium: 76 mg
+Calcium: 711 mg
+Iron: 0.16 mg
+Magnesium: 27 mg
+Zinc: 3.74 mg
+
+Vitamins:
+Vitamin A: 263 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.78 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.88 µg
+Folate: 27 µg

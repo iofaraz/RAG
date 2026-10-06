@@ -1,0 +1,36 @@
+Food: Pie, chocolate cream
+Food ID: 2708005
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 291 kcal
+Protein: 2.75 g
+Carbohydrates: 32.51 g
+Fat: 16.71 g
+Fiber: 0.7 g
+Sugar: 19.28 g
+
+Fats:
+Saturated fat: 7.524 g
+Monounsaturated fat: 5.776 g
+Polyunsaturated fat: 1.153 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 130 mg
+Calcium: 42 mg
+Iron: 1.14 mg
+Magnesium: 13 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 88 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.48 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0.04 µg
+Folate: 16 µg

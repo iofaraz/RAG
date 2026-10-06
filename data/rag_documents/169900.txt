@@ -1,0 +1,36 @@
+Food: Frozen novelties, ice cream type, sundae, prepackaged
+Food ID: 169900
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 4.3 g
+Carbohydrates: 29.64 g
+Fat: 6 g
+Fiber: 0.3 g
+Sugar: 20.74 g
+
+Fats:
+Saturated fat: 3.09 g
+Monounsaturated fat: 1.872 g
+Polyunsaturated fat: 0.663 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 95 mg
+Potassium: 211 mg
+Calcium: 120 mg
+Iron: 0.25 mg
+Magnesium: 19 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 131 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.39 µg
+Folate: 5 µg

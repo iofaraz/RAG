@@ -1,0 +1,36 @@
+Food: Game meat, goat, cooked, roasted
+Food ID: 175304
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 27.1 g
+Carbohydrates: 0 g
+Fat: 3.03 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.93 g
+Monounsaturated fat: 1.36 g
+Polyunsaturated fat: 0.23 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 86 mg
+Potassium: 405 mg
+Calcium: 17 mg
+Iron: 3.73 mg
+Magnesium: 0 mg
+Zinc: 5.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0 mg
+Vitamin B12: 1.19 µg
+Folate: 5 µg

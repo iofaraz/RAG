@@ -1,0 +1,26 @@
+Food: Flour, chestnut
+Food ID: 2515377
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 5.28675 g
+Carbohydrates: 80.4502 g
+Fat: 4.636 g
+Fiber: 8.711 g
+
+Fats:
+Saturated fat: 0.689 g
+Monounsaturated fat: 1.256 g
+Polyunsaturated fat: 1.515 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 1032 mg
+Calcium: 55.81 mg
+Iron: 1.621 mg
+Magnesium: 68.75 mg
+Zinc: 1.038 mg
+
+Vitamins:
+Vitamin C: 4.05 mg

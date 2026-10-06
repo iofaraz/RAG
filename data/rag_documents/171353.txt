@@ -1,0 +1,36 @@
+Food: Babyfood, juice, apple and prune
+Food ID: 171353
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 0.2 g
+Carbohydrates: 18.1 g
+Fat: 0.1 g
+Fiber: 0.1 g
+Sugar: 10.58 g
+
+Fats:
+Saturated fat: 0.018 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.031 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 148 mg
+Calcium: 9 mg
+Iron: 0.95 mg
+Magnesium: 7 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 67.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

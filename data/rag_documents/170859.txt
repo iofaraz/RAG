@@ -1,0 +1,37 @@
+Food: Cream, fluid, heavy whipping
+Food ID: 170859
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 2.84 g
+Carbohydrates: 2.84 g
+Fat: 36.08 g
+Fiber: 0 g
+Sugar: 2.92 g
+
+Fats:
+Saturated fat: 23.032 g
+Monounsaturated fat: 9.101 g
+Polyunsaturated fat: 1.57 g
+Trans fat: 1.236 g
+Cholesterol: 113 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 95 mg
+Calcium: 66 mg
+Iron: 0.1 mg
+Magnesium: 7 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 411 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1.6 µg
+Vitamin E: 0.92 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0.16 µg
+Folate: 4 µg

@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, spleen, raw
+Food ID: 174364
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 17.2 g
+Carbohydrates: 0 g
+Fat: 3.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.03 g
+Monounsaturated fat: 0.81 g
+Polyunsaturated fat: 0.23 g
+Cholesterol: 250 mg
+
+Minerals:
+Sodium: 84 mg
+Potassium: 358 mg
+Calcium: 9 mg
+Iron: 41.89 mg
+Magnesium: 21 mg
+Zinc: 2.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 23 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 5.34 µg
+Folate: 4 µg

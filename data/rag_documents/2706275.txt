@@ -1,0 +1,36 @@
+Food: Fish, perch, steamed
+Food ID: 2706275
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 24.5 g
+Carbohydrates: 0 g
+Fat: 1.16 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.234 g
+Monounsaturated fat: 0.192 g
+Polyunsaturated fat: 0.465 g
+Cholesterol: 114 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 340 mg
+Calcium: 101 mg
+Iron: 1.14 mg
+Magnesium: 38 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 1.7 mg
+Vitamin D: 3.8 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.136 mg
+Vitamin B12: 2.16 µg
+Folate: 6 µg

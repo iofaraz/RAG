@@ -1,0 +1,36 @@
+Food: Turkey, light or dark meat, stewed, skin not eaten
+Food ID: 2706117
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 31.18 g
+Carbohydrates: 0.19 g
+Fat: 2.66 g
+Fiber: 0 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 0.632 g
+Monounsaturated fat: 0.657 g
+Polyunsaturated fat: 0.566 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 610 mg
+Potassium: 324 mg
+Calcium: 16 mg
+Iron: 1.18 mg
+Magnesium: 37 mg
+Zinc: 2.53 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.898 mg
+Vitamin B12: 1.71 µg
+Folate: 10 µg

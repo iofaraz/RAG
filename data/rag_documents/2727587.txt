@@ -1,0 +1,20 @@
+Food: Juice, prune, shelf-stable
+Food ID: 2727587
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.422625 g
+
+Minerals:
+Sodium: 10.29 mg
+Potassium: 215.6 mg
+Calcium: 16.23 mg
+Iron: 0.444 mg
+Magnesium: 15.21 mg
+Zinc: 0.1225 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.08113 mg
+Folate: 5.293 µg

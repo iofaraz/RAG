@@ -1,0 +1,36 @@
+Food: Eggplant and meat casserole
+Food ID: 2710144
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 96 kcal
+Protein: 7.11 g
+Carbohydrates: 4.67 g
+Fat: 5.53 g
+Fiber: 1.5 g
+Sugar: 2.89 g
+
+Fats:
+Saturated fat: 1.915 g
+Monounsaturated fat: 2.189 g
+Polyunsaturated fat: 0.717 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 224 mg
+Calcium: 57 mg
+Iron: 0.85 mg
+Magnesium: 15 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.55 mg
+Vitamin K: 21.1 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0.59 µg
+Folate: 18 µg

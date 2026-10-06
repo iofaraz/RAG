@@ -1,0 +1,33 @@
+Food: Seeds, breadfruit seeds, roasted
+Food ID: 170595
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 6.2 g
+Carbohydrates: 40.1 g
+Fat: 2.7 g
+Fiber: 6 g
+
+Fats:
+Saturated fat: 0.729 g
+Monounsaturated fat: 0.344 g
+Polyunsaturated fat: 1.438 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 1082 mg
+Calcium: 86 mg
+Iron: 0.9 mg
+Magnesium: 62 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 7.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.42 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

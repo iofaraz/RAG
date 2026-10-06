@@ -1,0 +1,36 @@
+Food: Vegetable dip, yogurt based
+Food ID: 2705449
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 191 kcal
+Protein: 8.16 g
+Carbohydrates: 3.76 g
+Fat: 16.03 g
+Fiber: 0.3 g
+Sugar: 2.99 g
+
+Fats:
+Saturated fat: 3.232 g
+Monounsaturated fat: 3.645 g
+Polyunsaturated fat: 8.742 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 641 mg
+Potassium: 141 mg
+Calcium: 103 mg
+Iron: 0.29 mg
+Magnesium: 13 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 74 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.75 mg
+Vitamin K: 44.9 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.43 µg
+Folate: 12 µg

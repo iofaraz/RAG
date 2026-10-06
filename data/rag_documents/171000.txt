@@ -1,0 +1,37 @@
+Food: Babyfood, Multigrain whole grain cereal, dry fortified
+Food ID: 171000
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 407 kcal
+Protein: 6.67 g
+Carbohydrates: 80.06 g
+Fat: 6.67 g
+Fiber: 6.7 g
+Sugar: 26.67 g
+
+Fats:
+Saturated fat: 1.058 g
+Monounsaturated fat: 1.291 g
+Polyunsaturated fat: 2.596 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 467 mg
+Calcium: 800 mg
+Iron: 30 mg
+Magnesium: 95 mg
+Zinc: 10.67 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 58.3 mg
+Vitamin D: 0 µg
+Vitamin E: 4.22 mg
+Vitamin K: 7 µg
+Vitamin B6: 1.166 mg
+Vitamin B12: 4.69 µg
+Folate: 167 µg

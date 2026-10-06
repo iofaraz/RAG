@@ -1,0 +1,36 @@
+Food: Corn grain, yellow
+Food ID: 170288
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 365 kcal
+Protein: 9.42 g
+Carbohydrates: 74.26 g
+Fat: 4.74 g
+Fiber: 7.3 g
+Sugar: 0.64 g
+
+Fats:
+Saturated fat: 0.667 g
+Monounsaturated fat: 1.251 g
+Polyunsaturated fat: 2.163 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 287 mg
+Calcium: 7 mg
+Iron: 2.71 mg
+Magnesium: 127 mg
+Zinc: 2.21 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.49 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.622 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

@@ -1,0 +1,36 @@
+Food: Muffin, English, wheat bran, with raisins
+Food ID: 2707739
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 231 kcal
+Protein: 8.16 g
+Carbohydrates: 48.25 g
+Fat: 1.82 g
+Fiber: 4.6 g
+Sugar: 7.92 g
+
+Fats:
+Saturated fat: 0.268 g
+Monounsaturated fat: 0.254 g
+Polyunsaturated fat: 0.756 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 320 mg
+Potassium: 234 mg
+Calcium: 166 mg
+Iron: 2.76 mg
+Magnesium: 37 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0 µg
+Folate: 58 µg

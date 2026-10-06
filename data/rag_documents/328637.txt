@@ -1,0 +1,33 @@
+Food: Cheese, cheddar
+Food ID: 328637
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 408 kcal
+Protein: 23.3 g
+Carbohydrates: 2.44 g
+Fat: 34 g
+
+Fats:
+Saturated fat: 19.2 g
+Monounsaturated fat: 7.44 g
+Polyunsaturated fat: 1.18 g
+Trans fat: 1.14 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 654 mg
+Potassium: 77 mg
+Calcium: 707 mg
+Iron: 0.16 mg
+Magnesium: 26.8 mg
+Zinc: 3.67 mg
+
+Vitamins:
+Vitamin A: 316 µg
+Vitamin E: 0.75 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 1.06 µg
+Folate: 21 µg

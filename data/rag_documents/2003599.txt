@@ -1,0 +1,22 @@
+Food: Mushroom, king oyster
+Food ID: 2003599
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.40625 g
+Carbohydrates: 8.50065 g
+Fat: 0.3075 g
+Fiber: 3.009 g
+
+Minerals:
+Sodium: 0.7713 mg
+Potassium: 294.5 mg
+Calcium: 0 mg
+Iron: 0.3381 mg
+Magnesium: 13.51 mg
+Zinc: 0.6254 mg
+
+Vitamins:
+Vitamin D: 0.07 µg
+Vitamin B6: 0.1188 mg

@@ -1,0 +1,36 @@
+Food: Chicken thigh, baked, coated, skin / coating eaten
+Food ID: 2706054
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 20.96 g
+Carbohydrates: 3.98 g
+Fat: 14.99 g
+Fiber: 0.2 g
+Sugar: 0.07 g
+
+Fats:
+Saturated fat: 3.888 g
+Monounsaturated fat: 6.335 g
+Polyunsaturated fat: 3.42 g
+Cholesterol: 118 mg
+
+Minerals:
+Sodium: 420 mg
+Potassium: 229 mg
+Calcium: 13 mg
+Iron: 1.24 mg
+Magnesium: 21 mg
+Zinc: 1.56 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.55 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.366 mg
+Vitamin B12: 0.39 µg
+Folate: 12 µg

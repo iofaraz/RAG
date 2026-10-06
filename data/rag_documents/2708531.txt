@@ -1,0 +1,36 @@
+Food: Taco, meat, with beans, no cheese
+Food ID: 2708531
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 205 kcal
+Protein: 10.07 g
+Carbohydrates: 19.98 g
+Fat: 9.68 g
+Fiber: 3.4 g
+Sugar: 0.48 g
+
+Fats:
+Saturated fat: 2.467 g
+Monounsaturated fat: 3.933 g
+Polyunsaturated fat: 2.329 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 382 mg
+Potassium: 238 mg
+Calcium: 43 mg
+Iron: 1.5 mg
+Magnesium: 41 mg
+Zinc: 2.19 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.213 mg
+Vitamin B12: 0.64 µg
+Folate: 12 µg

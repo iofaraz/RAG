@@ -1,0 +1,36 @@
+Food: Macaroni with tuna, Puerto Rican style
+Food ID: 2708810
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 7.71 g
+Carbohydrates: 18.13 g
+Fat: 4.74 g
+Fiber: 0.9 g
+Sugar: 2.14 g
+
+Fats:
+Saturated fat: 1.202 g
+Monounsaturated fat: 1.851 g
+Polyunsaturated fat: 1.236 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 124 mg
+Calcium: 54 mg
+Iron: 1.11 mg
+Magnesium: 18 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.48 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.6 µg
+Folate: 28 µg

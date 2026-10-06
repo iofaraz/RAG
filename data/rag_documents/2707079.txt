@@ -1,0 +1,36 @@
+Food: Chili hot dog sandwich, on wheat bun
+Food ID: 2707079
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 10.39 g
+Carbohydrates: 17.48 g
+Fat: 11.99 g
+Fiber: 2.7 g
+Sugar: 2.39 g
+
+Fats:
+Saturated fat: 4.589 g
+Monounsaturated fat: 4.875 g
+Polyunsaturated fat: 0.851 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 541 mg
+Potassium: 269 mg
+Calcium: 57 mg
+Iron: 1.95 mg
+Magnesium: 29 mg
+Zinc: 1.71 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.43 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 0.47 µg
+Folate: 40 µg

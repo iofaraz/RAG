@@ -1,0 +1,36 @@
+Food: Chicken leg, drumstick and thigh, baked, coated, skin / coating eaten
+Food ID: 2705998
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 20.99 g
+Carbohydrates: 3.98 g
+Fat: 13.4 g
+Fiber: 0.2 g
+Sugar: 0.07 g
+
+Fats:
+Saturated fat: 3.412 g
+Monounsaturated fat: 5.605 g
+Polyunsaturated fat: 3.104 g
+Cholesterol: 117 mg
+
+Minerals:
+Sodium: 428 mg
+Potassium: 227 mg
+Calcium: 14 mg
+Iron: 1.25 mg
+Magnesium: 21 mg
+Zinc: 1.78 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.55 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.355 mg
+Vitamin B12: 0.38 µg
+Folate: 12 µg

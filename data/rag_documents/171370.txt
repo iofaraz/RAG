@@ -1,0 +1,37 @@
+Food: Babyfood, pretzels
+Food ID: 171370
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 397 kcal
+Protein: 10.8 g
+Carbohydrates: 82.2 g
+Fat: 2 g
+Fiber: 2.3 g
+Sugar: 3.08 g
+
+Fats:
+Saturated fat: 0.4 g
+Monounsaturated fat: 0.238 g
+Polyunsaturated fat: 1.054 g
+Trans fat: 0.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 269 mg
+Potassium: 137 mg
+Calcium: 25 mg
+Iron: 3.77 mg
+Magnesium: 28 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0 µg
+Folate: 85 µg

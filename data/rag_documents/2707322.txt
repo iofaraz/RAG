@@ -1,0 +1,36 @@
+Food: Egg sandwich on croissant, with ham
+Food ID: 2707322
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 284 kcal
+Protein: 12.29 g
+Carbohydrates: 18.81 g
+Fat: 17.76 g
+Fiber: 1 g
+Sugar: 4.98 g
+
+Fats:
+Saturated fat: 8.446 g
+Monounsaturated fat: 5.149 g
+Polyunsaturated fat: 1.809 g
+Cholesterol: 181 mg
+
+Minerals:
+Sodium: 492 mg
+Potassium: 150 mg
+Calcium: 153 mg
+Iron: 1.5 mg
+Magnesium: 16 mg
+Zinc: 1.34 mg
+
+Vitamins:
+Vitamin A: 185 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.4 µg
+Vitamin E: 1.09 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.58 µg
+Folate: 53 µg

@@ -1,0 +1,32 @@
+Food: Fish, wolffish, Atlantic, raw
+Food ID: 175162
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 96 kcal
+Protein: 17.5 g
+Carbohydrates: 0 g
+Fat: 2.39 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.365 g
+Monounsaturated fat: 0.837 g
+Polyunsaturated fat: 0.845 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 85 mg
+Potassium: 300 mg
+Calcium: 6 mg
+Iron: 0.09 mg
+Magnesium: 30 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.4 mg
+Vitamin B12: 2.03 µg
+Folate: 5 µg

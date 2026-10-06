@@ -1,0 +1,37 @@
+Food: Cereals, oats, instant, fortified, maple and brown sugar, dry
+Food ID: 173920
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 9.25 g
+Carbohydrates: 76.67 g
+Fat: 4.73 g
+Fiber: 7.2 g
+Sugar: 30.28 g
+
+Fats:
+Saturated fat: 0.778 g
+Monounsaturated fat: 1.432 g
+Polyunsaturated fat: 1.6 g
+Trans fat: 0.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 505 mg
+Potassium: 361 mg
+Calcium: 258 mg
+Iron: 10.36 mg
+Magnesium: 90 mg
+Zinc: 1.72 mg
+
+Vitamins:
+Vitamin A: 692 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 1.464 mg
+Vitamin B12: 0 µg
+Folate: 148 µg

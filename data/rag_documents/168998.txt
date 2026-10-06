@@ -1,0 +1,28 @@
+Food: Rose Hips, wild (Northern Plains Indians)
+Food ID: 168998
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 1.6 g
+Carbohydrates: 38.22 g
+Fat: 0.34 g
+Fiber: 24.1 g
+Sugar: 2.58 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 429 mg
+Calcium: 169 mg
+Iron: 1.06 mg
+Magnesium: 69 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 217 µg
+Vitamin C: 426 mg
+Vitamin E: 5.84 mg
+Vitamin K: 25.9 µg
+Vitamin B6: 0.076 mg
+Folate: 3 µg

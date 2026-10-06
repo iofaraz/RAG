@@ -1,0 +1,33 @@
+Food: Seeds, cottonseed kernels, roasted (glandless)
+Food ID: 170596
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 506 kcal
+Protein: 32.59 g
+Carbohydrates: 21.9 g
+Fat: 36.29 g
+Fiber: 5.5 g
+
+Fats:
+Saturated fat: 9.699 g
+Monounsaturated fat: 6.919 g
+Polyunsaturated fat: 18.068 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 1350 mg
+Calcium: 100 mg
+Iron: 5.4 mg
+Magnesium: 440 mg
+Zinc: 6 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 9 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.782 mg
+Vitamin B12: 0 µg
+Folate: 233 µg

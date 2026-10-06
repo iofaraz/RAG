@@ -1,0 +1,36 @@
+Food: Potato patty
+Food ID: 2709510
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 171 kcal
+Protein: 3.89 g
+Carbohydrates: 13.49 g
+Fat: 11.32 g
+Fiber: 1.5 g
+Sugar: 1.48 g
+
+Fats:
+Saturated fat: 3.112 g
+Monounsaturated fat: 4.083 g
+Polyunsaturated fat: 3.195 g
+Cholesterol: 74 mg
+
+Minerals:
+Sodium: 219 mg
+Potassium: 219 mg
+Calcium: 33 mg
+Iron: 0.75 mg
+Magnesium: 13 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.56 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0.28 µg
+Folate: 19 µg

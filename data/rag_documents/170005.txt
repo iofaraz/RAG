@@ -1,0 +1,37 @@
+Food: Onions, spring or scallions (includes tops and bulb), raw
+Food ID: 170005
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 1.83 g
+Carbohydrates: 7.34 g
+Fat: 0.19 g
+Fiber: 2.6 g
+Sugar: 2.33 g
+
+Fats:
+Saturated fat: 0.032 g
+Monounsaturated fat: 0.027 g
+Polyunsaturated fat: 0.074 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 276 mg
+Calcium: 72 mg
+Iron: 1.48 mg
+Magnesium: 20 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 18.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 207 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0 µg
+Folate: 64 µg

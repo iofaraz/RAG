@@ -1,0 +1,36 @@
+Food: Eggplant, cooked, as ingredient
+Food ID: 2710802
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 1.05 g
+Carbohydrates: 6.32 g
+Fat: 0.19 g
+Fiber: 3.2 g
+Sugar: 3.8 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.017 g
+Polyunsaturated fat: 0.082 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 246 mg
+Calcium: 10 mg
+Iron: 0.25 mg
+Magnesium: 15 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

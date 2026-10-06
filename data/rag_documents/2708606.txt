@@ -1,0 +1,36 @@
+Food: Fajita, shrimp
+Food ID: 2708606
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 8.33 g
+Carbohydrates: 18.35 g
+Fat: 8.92 g
+Fiber: 1.5 g
+Sugar: 2.44 g
+
+Fats:
+Saturated fat: 1.931 g
+Monounsaturated fat: 3.104 g
+Polyunsaturated fat: 3.085 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 456 mg
+Potassium: 145 mg
+Calcium: 72 mg
+Iron: 1.32 mg
+Magnesium: 19 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 23.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.85 mg
+Vitamin K: 9.7 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.38 µg
+Folate: 44 µg

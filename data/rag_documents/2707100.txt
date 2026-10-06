@@ -1,0 +1,36 @@
+Food: Salisbury steak with gravy, whipped potatoes, vegetable, dessert, frozen meal
+Food ID: 2707100
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 7.65 g
+Carbohydrates: 12.62 g
+Fat: 6.66 g
+Fiber: 1 g
+Sugar: 2.23 g
+
+Fats:
+Saturated fat: 2.468 g
+Monounsaturated fat: 2.61 g
+Polyunsaturated fat: 0.8 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 589 mg
+Potassium: 190 mg
+Calcium: 27 mg
+Iron: 1.17 mg
+Magnesium: 16 mg
+Zinc: 1.52 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 0.66 µg
+Folate: 19 µg

@@ -1,0 +1,36 @@
+Food: Beef and rice with soy-based sauce
+Food ID: 2706497
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 13.58 g
+Carbohydrates: 7.96 g
+Fat: 10.26 g
+Fiber: 0.5 g
+Sugar: 0.88 g
+
+Fats:
+Saturated fat: 2.271 g
+Monounsaturated fat: 4.332 g
+Polyunsaturated fat: 2.702 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 275 mg
+Potassium: 181 mg
+Calcium: 18 mg
+Iron: 1.47 mg
+Magnesium: 17 mg
+Zinc: 2.26 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.46 mg
+Vitamin K: 18.9 µg
+Vitamin B6: 0.232 mg
+Vitamin B12: 0.69 µg
+Folate: 21 µg

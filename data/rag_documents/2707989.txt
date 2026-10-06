@@ -1,0 +1,36 @@
+Food: Cookie, sugar wafer, sugar free
+Food ID: 2707989
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 531 kcal
+Protein: 3.57 g
+Carbohydrates: 66.26 g
+Fat: 28.57 g
+Fiber: 14.3 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.257 g
+Monounsaturated fat: 12.137 g
+Polyunsaturated fat: 10.748 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 57 mg
+Calcium: 0 mg
+Iron: 1.29 mg
+Magnesium: 7 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.08 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

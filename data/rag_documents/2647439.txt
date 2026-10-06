@@ -1,0 +1,25 @@
+Food: Cheese, pasteurized process cheese food or product, American, singles
+Food ID: 2647439
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 15.5672 g
+Carbohydrates: 8.1898 g
+Fat: 23.86 g
+
+Fats:
+Saturated fat: 13.7 g
+Monounsaturated fat: 4.886 g
+Cholesterol: 73.24 mg
+
+Minerals:
+Sodium: 1420 mg
+Potassium: 211.8 mg
+Calcium: 1498 mg
+Iron: 1.303 mg
+Magnesium: 34.6 mg
+Zinc: 2.379 mg
+
+Vitamins:
+Vitamin D: 4.42 µg

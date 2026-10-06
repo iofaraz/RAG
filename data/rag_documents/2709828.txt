@@ -1,0 +1,36 @@
+Food: Lettuce, wilted, with bacon dressing
+Food ID: 2709828
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 2.77 g
+Carbohydrates: 3.44 g
+Fat: 6.31 g
+Fiber: 1 g
+Sugar: 0.66 g
+
+Fats:
+Saturated fat: 2.338 g
+Monounsaturated fat: 2.776 g
+Polyunsaturated fat: 0.88 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 118 mg
+Potassium: 256 mg
+Calcium: 33 mg
+Iron: 0.33 mg
+Magnesium: 13 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 295 µg
+Vitamin C: 10.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.22 mg
+Vitamin K: 94.4 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.06 µg
+Folate: 29 µg

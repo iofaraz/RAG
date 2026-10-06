@@ -1,0 +1,36 @@
+Food: Roll, sweet, with fruit, frosted, diet
+Food ID: 2707672
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 452 kcal
+Protein: 4.45 g
+Carbohydrates: 48.6 g
+Fat: 26.61 g
+Fiber: 1.2 g
+Sugar: 25.7 g
+
+Fats:
+Saturated fat: 12.649 g
+Monounsaturated fat: 8.723 g
+Polyunsaturated fat: 3.676 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 305 mg
+Potassium: 102 mg
+Calcium: 183 mg
+Iron: 1.37 mg
+Magnesium: 14 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.15 mg
+Vitamin K: 15.2 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.16 µg
+Folate: 72 µg

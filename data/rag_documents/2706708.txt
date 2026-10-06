@@ -1,0 +1,36 @@
+Food: Chicken or turkey, dumplings, and vegetables including carrots, broccoli, and/or dark green leafy; gravy
+Food ID: 2706708
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 5.59 g
+Carbohydrates: 11.62 g
+Fat: 6.64 g
+Fiber: 0.9 g
+Sugar: 1.11 g
+
+Fats:
+Saturated fat: 1.288 g
+Monounsaturated fat: 2.647 g
+Polyunsaturated fat: 1.988 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 344 mg
+Potassium: 109 mg
+Calcium: 73 mg
+Iron: 0.92 mg
+Magnesium: 11 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 87 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.04 mg
+Vitamin K: 13.4 µg
+Vitamin B6: 0.071 mg
+Vitamin B12: 0.1 µg
+Folate: 20 µg

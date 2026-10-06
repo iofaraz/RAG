@@ -1,0 +1,36 @@
+Food: Egg, yolk, raw, fresh
+Food ID: 172184
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 322 kcal
+Protein: 15.86 g
+Carbohydrates: 3.59 g
+Fat: 26.54 g
+Fiber: 0 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 9.551 g
+Monounsaturated fat: 11.738 g
+Polyunsaturated fat: 4.204 g
+Cholesterol: 1085 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 109 mg
+Calcium: 129 mg
+Iron: 2.73 mg
+Magnesium: 5 mg
+Zinc: 2.3 mg
+
+Vitamins:
+Vitamin A: 381 µg
+Vitamin C: 0 mg
+Vitamin D: 5.4 µg
+Vitamin E: 2.58 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.35 mg
+Vitamin B12: 1.95 µg
+Folate: 146 µg

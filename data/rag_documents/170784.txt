@@ -1,0 +1,25 @@
+Food: WENDY'S, Double Stack, with cheese
+Food ID: 170784
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 285 kcal
+Protein: 18.53 g
+Carbohydrates: 15.35 g
+Fat: 16.6 g
+Sugar: 3.87 g
+
+Fats:
+Saturated fat: 6.851 g
+Monounsaturated fat: 7.268 g
+Polyunsaturated fat: 1.264 g
+Trans fat: 0.919 g
+
+Minerals:
+Sodium: 477 mg
+Potassium: 258 mg
+Calcium: 73 mg
+Iron: 2.75 mg
+Magnesium: 21 mg
+Zinc: 3.37 mg

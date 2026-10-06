@@ -1,0 +1,37 @@
+Food: Candies, MARS SNACKFOOD US, M&M's Peanut Chocolate Candies
+Food ID: 169582
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 515 kcal
+Protein: 9.57 g
+Carbohydrates: 60.48 g
+Fat: 26.13 g
+Fiber: 3.7 g
+Sugar: 50.75 g
+
+Fats:
+Saturated fat: 10.169 g
+Monounsaturated fat: 8.086 g
+Polyunsaturated fat: 3.456 g
+Trans fat: 0.328 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 347 mg
+Calcium: 102 mg
+Iron: 1.16 mg
+Magnesium: 69 mg
+Zinc: 1.76 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.85 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.32 µg
+Folate: 55 µg

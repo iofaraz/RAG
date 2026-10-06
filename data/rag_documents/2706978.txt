@@ -1,0 +1,36 @@
+Food: Pork sandwich, with cheese
+Food ID: 2706978
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 246 kcal
+Protein: 18.14 g
+Carbohydrates: 22.32 g
+Fat: 8.99 g
+Fiber: 1 g
+Sugar: 2.77 g
+
+Fats:
+Saturated fat: 3.831 g
+Monounsaturated fat: 2.508 g
+Polyunsaturated fat: 1.311 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 496 mg
+Potassium: 218 mg
+Calcium: 233 mg
+Iron: 1.8 mg
+Magnesium: 27 mg
+Zinc: 1.72 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.338 mg
+Vitamin B12: 0.46 µg
+Folate: 51 µg

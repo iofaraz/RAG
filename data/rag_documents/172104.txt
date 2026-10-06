@@ -1,0 +1,36 @@
+Food: Egg rolls, chicken, refrigerated, heated
+Food ID: 172104
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 197 kcal
+Protein: 10.44 g
+Carbohydrates: 28.54 g
+Fat: 4.51 g
+Fiber: 2.4 g
+Sugar: 5.57 g
+
+Fats:
+Saturated fat: 0.964 g
+Monounsaturated fat: 1.329 g
+Polyunsaturated fat: 1.813 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 478 mg
+Potassium: 281 mg
+Calcium: 47 mg
+Iron: 1.69 mg
+Magnesium: 30 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 11.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.37 mg
+Vitamin K: 23.8 µg
+Vitamin B6: 0.287 mg
+Vitamin B12: 0.1 µg
+Folate: 63 µg

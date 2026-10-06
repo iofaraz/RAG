@@ -1,0 +1,37 @@
+Food: Beans, white, mature seeds, canned
+Food ID: 175204
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 7.26 g
+Carbohydrates: 21.2 g
+Fat: 0.29 g
+Fiber: 4.8 g
+Sugar: 0.29 g
+
+Fats:
+Saturated fat: 0.074 g
+Monounsaturated fat: 0.025 g
+Polyunsaturated fat: 0.123 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 340 mg
+Potassium: 454 mg
+Calcium: 73 mg
+Iron: 2.99 mg
+Magnesium: 51 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.79 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 65 µg

@@ -1,0 +1,27 @@
+Food: Pickles, cucumber, dill or kosher dill
+Food ID: 324653
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 12 kcal
+Protein: 0.48 g
+Carbohydrates: 1.99 g
+Fat: 0.43 g
+Fiber: 1 g
+
+Minerals:
+Sodium: 808 mg
+Potassium: 112 mg
+Calcium: 54 mg
+Iron: 0.23 mg
+Magnesium: 7.1 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 2.1 mg
+Vitamin E: 0.12 mg
+Vitamin K: 16.8 µg
+Vitamin B6: 0.034 mg
+Folate: 8 µg

@@ -1,0 +1,32 @@
+Food: Bread, cracked-wheat
+Food ID: 172672
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 8.7 g
+Carbohydrates: 49.5 g
+Fat: 3.9 g
+Fiber: 5.5 g
+
+Fats:
+Saturated fat: 0.916 g
+Monounsaturated fat: 1.902 g
+Polyunsaturated fat: 0.682 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 538 mg
+Potassium: 177 mg
+Calcium: 43 mg
+Iron: 2.81 mg
+Magnesium: 52 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.304 mg
+Vitamin B12: 0.02 µg
+Folate: 61 µg

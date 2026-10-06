@@ -1,0 +1,36 @@
+Food: Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0" fat, all grades, raw
+Food ID: 173367
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 21.69 g
+Carbohydrates: 0 g
+Fat: 4 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.578 g
+Monounsaturated fat: 1.881 g
+Polyunsaturated fat: 0.275 g
+Trans fat: 0.139 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 381 mg
+Calcium: 5 mg
+Iron: 2.22 mg
+Magnesium: 24 mg
+Zinc: 5.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.17 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.616 mg
+Vitamin B12: 3.07 µg
+Folate: 7 µg

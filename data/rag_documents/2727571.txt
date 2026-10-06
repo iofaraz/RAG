@@ -1,0 +1,20 @@
+Food: Bison, ground, raw
+Food ID: 2727571
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 19.8813 g
+Carbohydrates: 0 g
+Fat: 8.88 g
+
+Fats:
+Cholesterol: 64.52 mg
+
+Minerals:
+Sodium: 55.7 mg
+Potassium: 301.1 mg
+Calcium: 6.827 mg
+Iron: 2.168 mg
+Magnesium: 18.47 mg
+Zinc: 3.763 mg

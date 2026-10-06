@@ -1,0 +1,36 @@
+Food: Protein supplement, milk based, Muscle Milk, powder
+Food ID: 173459
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 411 kcal
+Protein: 45.71 g
+Carbohydrates: 18.5 g
+Fat: 17.14 g
+Fiber: 7.1 g
+Sugar: 5.71 g
+
+Fats:
+Saturated fat: 1.553 g
+Monounsaturated fat: 12.105 g
+Polyunsaturated fat: 1.77 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 1129 mg
+Calcium: 500 mg
+Iron: 8.57 mg
+Magnesium: 200 mg
+Zinc: 7.14 mg
+
+Vitamins:
+Vitamin A: 750 µg
+Vitamin C: 30 mg
+Vitamin D: 5 µg
+Vitamin E: 7.07 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 1 mg
+Vitamin B12: 3 µg
+Folate: 200 µg

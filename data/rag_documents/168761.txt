@@ -1,0 +1,37 @@
+Food: Candies, NESTLE, 100 GRAND Bar
+Food ID: 168761
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 468 kcal
+Protein: 2.5 g
+Carbohydrates: 70.97 g
+Fat: 19.33 g
+Fiber: 1 g
+Sugar: 51.9 g
+
+Fats:
+Saturated fat: 11.9 g
+Monounsaturated fat: 6.039 g
+Polyunsaturated fat: 1.388 g
+Trans fat: 0 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 203 mg
+Potassium: 163 mg
+Calcium: 76 mg
+Iron: 0.34 mg
+Magnesium: 25 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 0.29 µg
+Folate: 5 µg

@@ -1,0 +1,37 @@
+Food: Bread, reduced-calorie, wheat
+Food ID: 174921
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 13.32 g
+Carbohydrates: 42.47 g
+Fat: 2.92 g
+Fiber: 11.1 g
+Sugar: 3.71 g
+
+Fats:
+Saturated fat: 0.84 g
+Monounsaturated fat: 0.523 g
+Polyunsaturated fat: 1.196 g
+Trans fat: 0.046 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 332 mg
+Potassium: 150 mg
+Calcium: 163 mg
+Iron: 2.91 mg
+Magnesium: 43 mg
+Zinc: 1.35 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0 µg
+Folate: 91 µg

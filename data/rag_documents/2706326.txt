@@ -1,0 +1,36 @@
+Food: Fish, white, mixed species, baked or broiled, coated
+Food ID: 2706326
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 19.77 g
+Carbohydrates: 7.79 g
+Fat: 5.95 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 1.6 g
+Monounsaturated fat: 1.967 g
+Polyunsaturated fat: 1.664 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 348 mg
+Potassium: 298 mg
+Calcium: 20 mg
+Iron: 0.96 mg
+Magnesium: 28 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0 mg
+Vitamin D: 1.9 µg
+Vitamin E: 1.19 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.169 mg
+Vitamin B12: 1.7 µg
+Folate: 31 µg

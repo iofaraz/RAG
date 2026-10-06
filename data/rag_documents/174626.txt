@@ -1,0 +1,33 @@
+Food: Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, dry
+Food ID: 174626
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 17.03 g
+Carbohydrates: 62.94 g
+Fat: 7.97 g
+Fiber: 14.3 g
+Sugar: 1.43 g
+
+Fats:
+Saturated fat: 1.43 g
+Monounsaturated fat: 2.61 g
+Polyunsaturated fat: 3.03 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 579 mg
+Calcium: 79 mg
+Iron: 8.07 mg
+Magnesium: 241 mg
+Zinc: 4.2 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

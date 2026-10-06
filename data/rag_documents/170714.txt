@@ -1,0 +1,36 @@
+Food: Pizza, cheese topping, rising crust, frozen, cooked
+Food ID: 170714
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 12.37 g
+Carbohydrates: 32.91 g
+Fat: 8.78 g
+Fiber: 2.5 g
+Sugar: 5.09 g
+
+Fats:
+Saturated fat: 3.825 g
+Monounsaturated fat: 2.198 g
+Polyunsaturated fat: 1.381 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 556 mg
+Potassium: 175 mg
+Calcium: 177 mg
+Iron: 1.77 mg
+Magnesium: 26 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.7 µg
+Folate: 37 µg

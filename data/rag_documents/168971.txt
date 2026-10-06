@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, powder, with ARA and DHA
+Food ID: 168971
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 512 kcal
+Protein: 15.36 g
+Carbohydrates: 52.2 g
+Fat: 27.65 g
+Fiber: 0 g
+Sugar: 52.2 g
+
+Fats:
+Saturated fat: 11.43 g
+Monounsaturated fat: 10.227 g
+Polyunsaturated fat: 5.338 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 154 mg
+Potassium: 768 mg
+Calcium: 998 mg
+Iron: 10.2 mg
+Magnesium: 46 mg
+Zinc: 3.84 mg
+
+Vitamins:
+Vitamin A: 465 µg
+Vitamin C: 61 mg
+Vitamin D: 7.7 µg
+Vitamin E: 10.3 mg
+Vitamin K: 41 µg
+Vitamin B6: 0.307 mg
+Vitamin B12: 1.54 µg
+Folate: 77 µg

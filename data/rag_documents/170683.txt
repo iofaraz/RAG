@@ -1,0 +1,24 @@
+Food: Amaranth grain, cooked
+Food ID: 170683
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 3.8 g
+Carbohydrates: 18.69 g
+Fat: 1.58 g
+Fiber: 2.1 g
+
+Minerals:
+Sodium: 6 mg
+Potassium: 135 mg
+Calcium: 47 mg
+Iron: 2.1 mg
+Magnesium: 65 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin E: 0.19 mg
+Vitamin B6: 0.113 mg
+Folate: 22 µg

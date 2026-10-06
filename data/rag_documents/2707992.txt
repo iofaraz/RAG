@@ -1,0 +1,36 @@
+Food: Cookies, Puerto Rican style
+Food ID: 2707992
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 506 kcal
+Protein: 6.32 g
+Carbohydrates: 67.94 g
+Fat: 23.2 g
+Fiber: 1.6 g
+Sugar: 23.31 g
+
+Fats:
+Saturated fat: 8.82 g
+Monounsaturated fat: 10.095 g
+Polyunsaturated fat: 2.734 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 271 mg
+Potassium: 79 mg
+Calcium: 12 mg
+Iron: 3.27 mg
+Magnesium: 16 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0 µg
+Folate: 65 µg

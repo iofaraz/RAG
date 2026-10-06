@@ -1,0 +1,23 @@
+Food: Babyfood, cereal, mixed, with honey, prepared with whole milk
+Food ID: 173532
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 5 g
+Carbohydrates: 15.9 g
+Fat: 3.6 g
+
+Minerals:
+Sodium: 48 mg
+Potassium: 171 mg
+Calcium: 294 mg
+Iron: 11.27 mg
+Magnesium: 28 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.3 µg
+Folate: 11 µg

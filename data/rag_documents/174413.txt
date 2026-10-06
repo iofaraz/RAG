@@ -1,0 +1,28 @@
+Food: Lamb, Australian, imported, fresh, loin, separable lean only, trimmed to 1/8" fat, cooked, broiled
+Food ID: 174413
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 26.53 g
+Carbohydrates: 0 g
+Fat: 8.75 g
+
+Fats:
+Saturated fat: 3.687 g
+Monounsaturated fat: 3.499 g
+Polyunsaturated fat: 0.367 g
+Cholesterol: 81 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 340 mg
+Calcium: 21 mg
+Iron: 2.18 mg
+Magnesium: 26 mg
+Zinc: 3.48 mg
+
+Vitamins:
+Vitamin B6: 0.514 mg
+Vitamin B12: 2.01 µg

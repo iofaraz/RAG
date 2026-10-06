@@ -1,0 +1,20 @@
+Food: Soup, beef and vegetables, reduced sodium, canned, ready-to-serve
+Food ID: 174065
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 3.26 g
+Carbohydrates: 4.99 g
+Fat: 0.95 g
+Fiber: 0.8 g
+Sugar: 1.22 g
+
+Minerals:
+Sodium: 175 mg
+Potassium: 277 mg
+Calcium: 17 mg
+Iron: 0.45 mg
+Magnesium: 9 mg
+Zinc: 0.41 mg

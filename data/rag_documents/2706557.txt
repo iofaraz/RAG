@@ -1,0 +1,36 @@
+Food: Shrimp and noodles with soy-based sauce
+Food ID: 2706557
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 10.22 g
+Carbohydrates: 8.17 g
+Fat: 7.25 g
+Fiber: 0.6 g
+Sugar: 0.87 g
+
+Fats:
+Saturated fat: 1.092 g
+Monounsaturated fat: 2.88 g
+Polyunsaturated fat: 2.753 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 276 mg
+Potassium: 144 mg
+Calcium: 52 mg
+Iron: 0.4 mg
+Magnesium: 21 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 2.13 mg
+Vitamin K: 18.1 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0.66 µg
+Folate: 16 µg

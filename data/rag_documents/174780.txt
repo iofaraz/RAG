@@ -1,0 +1,30 @@
+Food: Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Chewy Chocolate Peanut Bar
+Food ID: 174780
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 396 kcal
+Protein: 24.29 g
+Carbohydrates: 47.24 g
+Fat: 13.12 g
+Fiber: 2.5 g
+Sugar: 32.86 g
+
+Fats:
+Saturated fat: 4.728 g
+Trans fat: 0.204 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 462 mg
+Calcium: 965 mg
+Magnesium: 255 mg
+Zinc: 9.55 mg
+
+Vitamins:
+Vitamin C: 144.4 mg
+Vitamin E: 24.55 mg
+Vitamin B6: 3.636 mg
+Vitamin B12: 10.91 µg
+Folate: 727 µg

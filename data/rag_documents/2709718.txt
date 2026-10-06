@@ -1,0 +1,36 @@
+Food: Soup, pumpkin
+Food ID: 2709718
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 1.1 g
+Carbohydrates: 6.86 g
+Fat: 4.7 g
+Fiber: 1.5 g
+Sugar: 2.07 g
+
+Fats:
+Saturated fat: 2.533 g
+Monounsaturated fat: 1.018 g
+Polyunsaturated fat: 0.325 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 241 mg
+Potassium: 120 mg
+Calcium: 23 mg
+Iron: 0.74 mg
+Magnesium: 12 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 368 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.61 mg
+Vitamin K: 8.2 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

@@ -1,0 +1,36 @@
+Food: PIZZA HUT 14" Cheese Pizza, Hand-Tossed Crust
+Food ID: 173290
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 275 kcal
+Protein: 11.98 g
+Carbohydrates: 33.42 g
+Fat: 10.42 g
+Fiber: 2.4 g
+Sugar: 3.13 g
+
+Fats:
+Saturated fat: 4.819 g
+Monounsaturated fat: 3.05 g
+Polyunsaturated fat: 1.53 g
+Trans fat: 0.252 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 674 mg
+Potassium: 183 mg
+Calcium: 209 mg
+Iron: 2.62 mg
+Magnesium: 24 mg
+Zinc: 1.44 mg
+
+Vitamins:
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.57 mg
+Vitamin K: 7.7 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.38 µg
+Folate: 108 µg

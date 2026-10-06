@@ -1,0 +1,36 @@
+Food: Soup, sopa de fideo aguada
+Food ID: 2709161
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 2.54 g
+Carbohydrates: 13.73 g
+Fat: 3.29 g
+Fiber: 1.1 g
+Sugar: 1.16 g
+
+Fats:
+Saturated fat: 0.461 g
+Monounsaturated fat: 1.282 g
+Polyunsaturated fat: 1.25 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 267 mg
+Potassium: 89 mg
+Calcium: 8 mg
+Iron: 0.77 mg
+Magnesium: 11 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

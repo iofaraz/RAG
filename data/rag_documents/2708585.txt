@@ -1,0 +1,36 @@
+Food: Gordita, meat
+Food ID: 2708585
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 16.99 g
+Carbohydrates: 13.12 g
+Fat: 19.36 g
+Fiber: 1 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 6.144 g
+Monounsaturated fat: 7.743 g
+Polyunsaturated fat: 3.375 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 330 mg
+Potassium: 209 mg
+Calcium: 87 mg
+Iron: 2.6 mg
+Magnesium: 26 mg
+Zinc: 3.82 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.35 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.292 mg
+Vitamin B12: 1.44 µg
+Folate: 33 µg

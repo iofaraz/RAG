@@ -1,0 +1,37 @@
+Food: Leeks, (bulb and lower leaf-portion), raw
+Food ID: 169246
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 1.5 g
+Carbohydrates: 14.15 g
+Fat: 0.3 g
+Fiber: 1.8 g
+Sugar: 3.9 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.166 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 180 mg
+Calcium: 59 mg
+Iron: 2.1 mg
+Magnesium: 28 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 12 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 47 µg
+Vitamin B6: 0.233 mg
+Vitamin B12: 0 µg
+Folate: 64 µg

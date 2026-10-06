@@ -1,0 +1,37 @@
+Food: Beef, loin, tenderloin steak, boneless, separable lean and fat, trimmed to 0" fat, select, cooked, grilled
+Food ID: 170640
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 30.93 g
+Carbohydrates: 0 g
+Fat: 7.7 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.036 g
+Monounsaturated fat: 3.327 g
+Polyunsaturated fat: 0.539 g
+Trans fat: 0.414 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 348 mg
+Calcium: 13 mg
+Iron: 3.02 mg
+Magnesium: 14 mg
+Zinc: 3.66 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.1 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.661 mg
+Vitamin B12: 4.15 µg
+Folate: 7 µg

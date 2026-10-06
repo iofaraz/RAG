@@ -1,0 +1,36 @@
+Food: Onions, welsh, raw
+Food ID: 170007
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 1.9 g
+Carbohydrates: 6.5 g
+Fat: 0.4 g
+Fiber: 2.4 g
+Sugar: 2.18 g
+
+Fats:
+Saturated fat: 0.067 g
+Monounsaturated fat: 0.056 g
+Polyunsaturated fat: 0.156 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 212 mg
+Calcium: 18 mg
+Iron: 1.22 mg
+Magnesium: 23 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin C: 27 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 193.4 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

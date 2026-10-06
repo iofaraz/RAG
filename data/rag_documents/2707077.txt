@@ -1,0 +1,36 @@
+Food: Hot dog sandwich, vegetarian, on bread
+Food ID: 2707077
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 16.56 g
+Carbohydrates: 20.15 g
+Fat: 10.69 g
+Fiber: 3.4 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 1.403 g
+Monounsaturated fat: 1.993 g
+Polyunsaturated fat: 4.352 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 448 mg
+Potassium: 100 mg
+Calcium: 86 mg
+Iron: 2 mg
+Magnesium: 20 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.41 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.071 mg
+Vitamin B12: 1.4 µg
+Folate: 80 µg

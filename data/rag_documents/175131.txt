@@ -1,0 +1,37 @@
+Food: Fish, rockfish, Pacific, mixed species, cooked, dry heat
+Food ID: 175131
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 22.23 g
+Carbohydrates: 0 g
+Fat: 1.62 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.42 g
+Monounsaturated fat: 0.466 g
+Polyunsaturated fat: 0.485 g
+Trans fat: 0.025 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 89 mg
+Potassium: 467 mg
+Calcium: 17 mg
+Iron: 0.36 mg
+Magnesium: 33 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 4.6 µg
+Vitamin E: 0.44 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.241 mg
+Vitamin B12: 1.59 µg
+Folate: 10 µg

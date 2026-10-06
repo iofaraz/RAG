@@ -1,0 +1,32 @@
+Food: Turkey breast, pre-basted, meat and skin, cooked, roasted
+Food ID: 171501
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 22.16 g
+Carbohydrates: 0 g
+Fat: 3.46 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.98 g
+Monounsaturated fat: 1.14 g
+Polyunsaturated fat: 0.84 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 397 mg
+Potassium: 248 mg
+Calcium: 9 mg
+Iron: 0.66 mg
+Magnesium: 21 mg
+Zinc: 1.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.32 mg
+Vitamin B12: 0.32 µg
+Folate: 5 µg

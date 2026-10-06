@@ -1,0 +1,36 @@
+Food: Corn, frozen, cooked with butter or margarine
+Food ID: 2709920
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 98 kcal
+Protein: 2.48 g
+Carbohydrates: 18.69 g
+Fat: 2.84 g
+Fiber: 2.3 g
+Sugar: 2.98 g
+
+Fats:
+Saturated fat: 1.044 g
+Monounsaturated fat: 0.767 g
+Polyunsaturated fat: 0.653 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 131 mg
+Potassium: 226 mg
+Calcium: 4 mg
+Iron: 0.46 mg
+Magnesium: 27 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 3.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.129 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

@@ -1,0 +1,36 @@
+Food: Corn, frozen, cooked, no added fat
+Food ID: 2709911
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 2.54 g
+Carbohydrates: 19.24 g
+Fat: 0.67 g
+Fiber: 2.4 g
+Sugar: 3.06 g
+
+Fats:
+Saturated fat: 0.103 g
+Monounsaturated fat: 0.196 g
+Polyunsaturated fat: 0.317 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 117 mg
+Potassium: 232 mg
+Calcium: 3 mg
+Iron: 0.47 mg
+Magnesium: 28 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

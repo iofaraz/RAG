@@ -1,0 +1,36 @@
+Food: Potato, scalloped, from fast food or restaurant
+Food ID: 2709449
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 6.66 g
+Carbohydrates: 12.99 g
+Fat: 14.34 g
+Fiber: 0.7 g
+Sugar: 1.96 g
+
+Fats:
+Saturated fat: 7.632 g
+Monounsaturated fat: 3.533 g
+Polyunsaturated fat: 1.102 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 408 mg
+Potassium: 230 mg
+Calcium: 175 mg
+Iron: 0.33 mg
+Magnesium: 20 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 135 µg
+Vitamin C: 5.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.66 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.221 mg
+Vitamin B12: 0.14 µg
+Folate: 11 µg

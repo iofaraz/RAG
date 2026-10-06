@@ -1,0 +1,36 @@
+Food: Cake or cupcake, pumpkin
+Food ID: 2707883
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 2.5 g
+Carbohydrates: 51.58 g
+Fat: 17.51 g
+Fiber: 1.1 g
+Sugar: 38.35 g
+
+Fats:
+Saturated fat: 3.203 g
+Monounsaturated fat: 6.281 g
+Polyunsaturated fat: 6.932 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 280 mg
+Potassium: 66 mg
+Calcium: 73 mg
+Iron: 1.02 mg
+Magnesium: 7 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 95 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.3 µg
+Vitamin E: 2.75 mg
+Vitamin K: 16.8 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.12 µg
+Folate: 23 µg

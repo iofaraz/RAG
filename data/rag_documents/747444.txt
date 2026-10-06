@@ -1,0 +1,16 @@
+Food: Beans, Dry, Black (0% moisture)
+Food ID: 747444
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 24.4 g
+Fat: 1.45 g
+Fiber: 4.2 g
+
+Minerals:
+Potassium: 1540 mg
+Calcium: 191 mg
+Iron: 5.34 mg
+Magnesium: 180 mg
+Zinc: 3.37 mg

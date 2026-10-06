@@ -1,0 +1,36 @@
+Food: Peanut butter
+Food ID: 2707537
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 598 kcal
+Protein: 22.21 g
+Carbohydrates: 22.31 g
+Fat: 51.36 g
+Fiber: 5 g
+Sugar: 10.49 g
+
+Fats:
+Saturated fat: 10.325 g
+Monounsaturated fat: 25.941 g
+Polyunsaturated fat: 12.535 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 426 mg
+Potassium: 558 mg
+Calcium: 49 mg
+Iron: 1.74 mg
+Magnesium: 168 mg
+Zinc: 2.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 9.1 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.441 mg
+Vitamin B12: 0 µg
+Folate: 87 µg

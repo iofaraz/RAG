@@ -1,0 +1,37 @@
+Food: Fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato
+Food ID: 170696
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 10.52 g
+Carbohydrates: 20.43 g
+Fat: 10.04 g
+Fiber: 1.2 g
+Sugar: 3.18 g
+
+Fats:
+Saturated fat: 3.554 g
+Monounsaturated fat: 3.716 g
+Polyunsaturated fat: 1.927 g
+Trans fat: 0.119 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 575 mg
+Potassium: 282 mg
+Calcium: 171 mg
+Iron: 1.81 mg
+Magnesium: 20 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 7.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.41 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.203 mg
+Vitamin B12: 0.22 µg
+Folate: 66 µg

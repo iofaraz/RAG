@@ -1,0 +1,32 @@
+Food: Potatoes, frozen, french fried, par fried, extruded, unprepared
+Food ID: 169267
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 2.83 g
+Carbohydrates: 30.15 g
+Fat: 14.95 g
+Fiber: 2.9 g
+
+Fats:
+Saturated fat: 4.544 g
+Monounsaturated fat: 8.659 g
+Polyunsaturated fat: 1.072 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 490 mg
+Potassium: 430 mg
+Calcium: 9 mg
+Iron: 1.32 mg
+Magnesium: 18 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin C: 6.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

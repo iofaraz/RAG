@@ -1,0 +1,26 @@
+Food: Fish, tilapia, farm raised, raw
+Food ID: 2684442
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 19 g
+Carbohydrates: 0 g
+Fat: 2.479 g
+
+Fats:
+Saturated fat: 0.647 g
+Monounsaturated fat: 0.769 g
+Polyunsaturated fat: 0.358 g
+Cholesterol: 47.6 mg
+
+Minerals:
+Sodium: 93.66 mg
+Potassium: 342.4 mg
+Calcium: 8.628 mg
+Iron: 0 mg
+Magnesium: 24.28 mg
+Zinc: 0.2995 mg
+
+Vitamins:
+Vitamin B12: 0.7594 µg

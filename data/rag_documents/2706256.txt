@@ -1,0 +1,36 @@
+Food: Fish, haddock, grilled
+Food ID: 2706256
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 20.67 g
+Carbohydrates: 0 g
+Fat: 2.84 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.711 g
+Monounsaturated fat: 0.877 g
+Polyunsaturated fat: 0.857 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 294 mg
+Potassium: 363 mg
+Calcium: 14 mg
+Iron: 0.22 mg
+Magnesium: 27 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.91 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.335 mg
+Vitamin B12: 2.09 µg
+Folate: 14 µg

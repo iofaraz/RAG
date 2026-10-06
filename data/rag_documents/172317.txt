@@ -1,0 +1,36 @@
+Food: Babyfood, corn and sweet potatoes, strained
+Food ID: 172317
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 1.26 g
+Carbohydrates: 15.23 g
+Fat: 0.28 g
+Fiber: 1.8 g
+Sugar: 4 g
+
+Fats:
+Saturated fat: 0.053 g
+Monounsaturated fat: 0.071 g
+Polyunsaturated fat: 0.123 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 154 mg
+Calcium: 18 mg
+Iron: 0.31 mg
+Magnesium: 10 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 126 µg
+Vitamin C: 5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.01 µg
+Folate: 14 µg

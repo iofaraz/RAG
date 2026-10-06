@@ -1,0 +1,36 @@
+Food: Brains
+Food ID: 2706159
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 11.58 g
+Carbohydrates: 1.47 g
+Fat: 10.45 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.375 g
+Monounsaturated fat: 1.867 g
+Polyunsaturated fat: 1.619 g
+Cholesterol: 3075 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 242 mg
+Calcium: 9 mg
+Iron: 2.28 mg
+Magnesium: 12 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 10.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.66 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 10.02 µg
+Folate: 5 µg

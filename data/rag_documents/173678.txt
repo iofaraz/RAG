@@ -1,0 +1,36 @@
+Food: Fish, perch, mixed species, raw
+Food ID: 173678
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 19.39 g
+Carbohydrates: 0 g
+Fat: 0.92 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.185 g
+Monounsaturated fat: 0.152 g
+Polyunsaturated fat: 0.368 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 62 mg
+Potassium: 269 mg
+Calcium: 80 mg
+Iron: 0.9 mg
+Magnesium: 30 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 1.7 mg
+Vitamin D: 3 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 1.9 µg
+Folate: 5 µg

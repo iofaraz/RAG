@@ -1,0 +1,32 @@
+Food: Fish, trout, mixed species, cooked, dry heat
+Food ID: 172004
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 26.63 g
+Carbohydrates: 0 g
+Fat: 8.47 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.474 g
+Monounsaturated fat: 4.172 g
+Polyunsaturated fat: 1.922 g
+Cholesterol: 74 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 463 mg
+Calcium: 55 mg
+Iron: 1.92 mg
+Magnesium: 28 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0.5 mg
+Vitamin B6: 0.231 mg
+Vitamin B12: 7.49 µg
+Folate: 15 µg

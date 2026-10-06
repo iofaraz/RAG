@@ -1,0 +1,14 @@
+Food: Lunchmeat, ham, black forest, sliced
+Food ID: 2759002
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 1.462 g
+Monounsaturated fat: 1.895 g
+Polyunsaturated fat: 0.6336 g
+Trans fat: 0.01143 g
+
+Vitamins:
+Vitamin B6: 0.219 mg
+Vitamin B12: 0.2321 µg

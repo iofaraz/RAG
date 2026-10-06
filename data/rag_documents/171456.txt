@@ -1,0 +1,36 @@
+Food: Chicken, gizzard, all classes, raw
+Food ID: 171456
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 17.66 g
+Carbohydrates: 0 g
+Fat: 2.06 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.529 g
+Monounsaturated fat: 0.512 g
+Polyunsaturated fat: 0.357 g
+Trans fat: 0.06 g
+Cholesterol: 240 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 237 mg
+Calcium: 11 mg
+Iron: 2.49 mg
+Magnesium: 15 mg
+Zinc: 2.72 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 3.7 mg
+Vitamin E: 0.33 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 1.21 µg
+Folate: 5 µg

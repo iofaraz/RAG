@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, loin saddle, separable lean only, raw
+Food ID: 172625
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 20.86 g
+Carbohydrates: 0 g
+Fat: 5.32 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.96 g
+Monounsaturated fat: 1.549 g
+Polyunsaturated fat: 0.351 g
+Trans fat: 0.217 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 356 mg
+Calcium: 7 mg
+Iron: 1.54 mg
+Magnesium: 24 mg
+Zinc: 2.54 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin B6: 0.175 mg
+Vitamin B12: 1.13 µg

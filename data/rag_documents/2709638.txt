@@ -1,0 +1,36 @@
+Food: Turnip greens, frozen, cooked, fat added
+Food ID: 2709638
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 3.25 g
+Carbohydrates: 4.83 g
+Fat: 2.95 g
+Fiber: 3.3 g
+Sugar: 0.73 g
+
+Fats:
+Saturated fat: 0.762 g
+Monounsaturated fat: 0.93 g
+Polyunsaturated fat: 0.895 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 136 mg
+Potassium: 217 mg
+Calcium: 148 mg
+Iron: 1.88 mg
+Magnesium: 25 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 532 µg
+Vitamin C: 21.1 mg
+Vitamin D: 0 µg
+Vitamin E: 2.96 mg
+Vitamin K: 504.4 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

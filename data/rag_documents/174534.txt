@@ -1,0 +1,36 @@
+Food: Split pea soup, canned, reduced sodium, prepared with water or ready-to serve
+Food ID: 174534
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 3.85 g
+Carbohydrates: 11.83 g
+Fat: 0.92 g
+Fiber: 1.9 g
+Sugar: 5.06 g
+
+Fats:
+Saturated fat: 0.3 g
+Monounsaturated fat: 0.37 g
+Polyunsaturated fat: 0.168 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 166 mg
+Potassium: 183 mg
+Calcium: 17 mg
+Iron: 0.77 mg
+Magnesium: 14 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 36.1 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.01 µg
+Folate: 20 µg

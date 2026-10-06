@@ -1,0 +1,27 @@
+Food: Cheese, feta, whole milk, crumbled
+Food ID: 2259796
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 19.7078 g
+Carbohydrates: 5.58318 g
+Fat: 19.08 g
+
+Fats:
+Saturated fat: 11.17 g
+Monounsaturated fat: 4.184 g
+Cholesterol: 57.52 mg
+
+Minerals:
+Sodium: 1034 mg
+Potassium: 105.3 mg
+Calcium: 371.1 mg
+Iron: 0.0675 mg
+Magnesium: 17.69 mg
+Zinc: 2.353 mg
+
+Vitamins:
+Vitamin D: 0 µg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.03831 mg

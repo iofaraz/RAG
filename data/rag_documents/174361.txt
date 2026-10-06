@@ -1,0 +1,32 @@
+Food: Veal, variety meats and by-products, lungs, raw
+Food ID: 174361
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 16.3 g
+Carbohydrates: 0 g
+Fat: 2.3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.79 g
+Monounsaturated fat: 0.59 g
+Polyunsaturated fat: 0.31 g
+Cholesterol: 229 mg
+
+Minerals:
+Sodium: 108 mg
+Potassium: 274 mg
+Calcium: 7 mg
+Iron: 5.23 mg
+Magnesium: 12 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 39 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 3.83 µg
+Folate: 11 µg

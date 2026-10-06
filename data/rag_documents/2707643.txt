@@ -1,0 +1,36 @@
+Food: Bread, potato, toasted
+Food ID: 2707643
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 292 kcal
+Protein: 13.74 g
+Carbohydrates: 51.72 g
+Fat: 3.44 g
+Fiber: 6.9 g
+Sugar: 10.31 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 412 mg
+Potassium: 789 mg
+Calcium: 207 mg
+Iron: 2.47 mg
+Magnesium: 31 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.52 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.255 mg
+Vitamin B12: 0.16 µg
+Folate: 118 µg

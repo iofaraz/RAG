@@ -1,0 +1,35 @@
+Food: Cereals, QUAKER, Instant Grits Product with American Cheese Flavor, dry
+Food ID: 172993
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 360 kcal
+Protein: 8.8 g
+Carbohydrates: 74.18 g
+Fat: 4.67 g
+Fiber: 4.3 g
+Sugar: 2.02 g
+
+Fats:
+Saturated fat: 1.08 g
+Monounsaturated fat: 2.29 g
+Polyunsaturated fat: 1.11 g
+Trans fat: 1.15 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 1518 mg
+Potassium: 134 mg
+Calcium: 418 mg
+Iron: 30.38 mg
+Magnesium: 27 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin E: 0.11 mg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0.33 µg
+Folate: 173 µg

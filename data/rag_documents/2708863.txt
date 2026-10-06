@@ -1,0 +1,36 @@
+Food: Pasta with cream sauce and meat, ready-to-heat
+Food ID: 2708863
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 177 kcal
+Protein: 6.01 g
+Carbohydrates: 16.33 g
+Fat: 9.51 g
+Fiber: 0.9 g
+Sugar: 0.63 g
+
+Fats:
+Saturated fat: 4.163 g
+Monounsaturated fat: 2.692 g
+Polyunsaturated fat: 1.143 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 386 mg
+Potassium: 64 mg
+Calcium: 31 mg
+Iron: 0.88 mg
+Magnesium: 13 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.5 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0.26 µg
+Folate: 39 µg

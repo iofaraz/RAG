@@ -1,0 +1,36 @@
+Food: Soup, rice
+Food ID: 2709146
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 3.54 g
+Carbohydrates: 6.78 g
+Fat: 1.15 g
+Fiber: 0.5 g
+Sugar: 0.76 g
+
+Fats:
+Saturated fat: 0.27 g
+Monounsaturated fat: 0.445 g
+Polyunsaturated fat: 0.299 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 247 mg
+Potassium: 106 mg
+Calcium: 9 mg
+Iron: 0.35 mg
+Magnesium: 10 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 7.7 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0.03 µg
+Folate: 17 µg

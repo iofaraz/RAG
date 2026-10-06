@@ -1,0 +1,36 @@
+Food: Chicken thigh, fried, coated, prepared skinless, coating eaten, from raw
+Food ID: 2706047
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 231 kcal
+Protein: 20.14 g
+Carbohydrates: 5.96 g
+Fat: 13.49 g
+Fiber: 0.2 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 2.767 g
+Monounsaturated fat: 5.591 g
+Polyunsaturated fat: 4.046 g
+Cholesterol: 106 mg
+
+Minerals:
+Sodium: 426 mg
+Potassium: 221 mg
+Calcium: 15 mg
+Iron: 1.33 mg
+Magnesium: 21 mg
+Zinc: 1.56 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.47 mg
+Vitamin K: 10.1 µg
+Vitamin B6: 0.364 mg
+Vitamin B12: 0.34 µg
+Folate: 16 µg

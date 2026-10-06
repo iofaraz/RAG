@@ -1,0 +1,37 @@
+Food: Cookies, marshmallow, with rice cereal and chocolate chips
+Food ID: 174097
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 435 kcal
+Protein: 4.55 g
+Carbohydrates: 63.26 g
+Fat: 18.18 g
+Fiber: 0 g
+Sugar: 40.91 g
+
+Fats:
+Saturated fat: 11.364 g
+Monounsaturated fat: 4.207 g
+Polyunsaturated fat: 1.773 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 341 mg
+Potassium: 227 mg
+Calcium: 0 mg
+Iron: 1.64 mg
+Magnesium: 51 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.72 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.909 mg
+Vitamin B12: 0.04 µg
+Folate: 36 µg

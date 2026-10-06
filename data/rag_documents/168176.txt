@@ -1,0 +1,36 @@
+Food: Feijoa, raw
+Food ID: 168176
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 0.71 g
+Carbohydrates: 15.21 g
+Fat: 0.42 g
+Fiber: 6.4 g
+Sugar: 8.2 g
+
+Fats:
+Saturated fat: 0.104 g
+Monounsaturated fat: 0.056 g
+Polyunsaturated fat: 0.136 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 172 mg
+Calcium: 17 mg
+Iron: 0.14 mg
+Magnesium: 9 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 32.9 mg
+Vitamin E: 0.16 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

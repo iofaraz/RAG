@@ -1,0 +1,36 @@
+Food: Frankfurters or hot dogs with tomato-based sauce
+Food ID: 2706410
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 223 kcal
+Protein: 8.52 g
+Carbohydrates: 3.6 g
+Fat: 19.61 g
+Fiber: 0.4 g
+Sugar: 1.94 g
+
+Fats:
+Saturated fat: 7.96 g
+Monounsaturated fat: 8.45 g
+Polyunsaturated fat: 0.701 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 873 mg
+Potassium: 316 mg
+Calcium: 15 mg
+Iron: 1.08 mg
+Magnesium: 12 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.79 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.57 µg
+Folate: 3 µg

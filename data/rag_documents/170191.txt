@@ -1,0 +1,33 @@
+Food: Seeds, sesame butter, paste
+Food ID: 170191
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 586 kcal
+Protein: 18.08 g
+Carbohydrates: 24.05 g
+Fat: 50.87 g
+Fiber: 5.5 g
+
+Fats:
+Saturated fat: 7.124 g
+Monounsaturated fat: 19.209 g
+Polyunsaturated fat: 22.296 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 582 mg
+Calcium: 960 mg
+Iron: 19.2 mg
+Magnesium: 362 mg
+Zinc: 7.29 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.816 mg
+Vitamin B12: 0 µg
+Folate: 100 µg

@@ -1,0 +1,37 @@
+Food: Refried beans, canned, fat-free
+Food ID: 172465
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 5.34 g
+Carbohydrates: 13.5 g
+Fat: 0.45 g
+Fiber: 4.7 g
+Sugar: 0.61 g
+
+Fats:
+Saturated fat: 0.093 g
+Monounsaturated fat: 0.044 g
+Polyunsaturated fat: 0.287 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 344 mg
+Calcium: 34 mg
+Iron: 1.62 mg
+Magnesium: 38 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0 µg
+Folate: 57 µg

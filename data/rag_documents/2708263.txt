@@ -1,0 +1,36 @@
+Food: Pretzels, hard, coated, gluten free
+Food ID: 2708263
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 451 kcal
+Protein: 3.76 g
+Carbohydrates: 75.06 g
+Fat: 15.57 g
+Fiber: 1.4 g
+Sugar: 45.25 g
+
+Fats:
+Saturated fat: 9.088 g
+Monounsaturated fat: 4.601 g
+Polyunsaturated fat: 0.657 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 663 mg
+Potassium: 142 mg
+Calcium: 80 mg
+Iron: 0.29 mg
+Magnesium: 8 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.22 µg
+Folate: 4 µg

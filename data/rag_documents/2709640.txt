@@ -1,0 +1,36 @@
+Food: Watercress, cooked
+Food ID: 2709640
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 2.4 g
+Carbohydrates: 1.35 g
+Fat: 2.84 g
+Fiber: 0.5 g
+Sugar: 0.21 g
+
+Fats:
+Saturated fat: 0.744 g
+Monounsaturated fat: 0.98 g
+Polyunsaturated fat: 0.822 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 173 mg
+Potassium: 344 mg
+Calcium: 125 mg
+Iron: 0.21 mg
+Magnesium: 22 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 170 µg
+Vitamin C: 31.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.45 mg
+Vitamin K: 262.5 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

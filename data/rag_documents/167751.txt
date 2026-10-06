@@ -1,0 +1,36 @@
+Food: Plums, dried (prunes), stewed, without added sugar
+Food ID: 167751
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 107 kcal
+Protein: 0.96 g
+Carbohydrates: 28.08 g
+Fat: 0.16 g
+Fiber: 3.1 g
+Sugar: 24.98 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.08 g
+Polyunsaturated fat: 0.026 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 321 mg
+Calcium: 19 mg
+Iron: 0.41 mg
+Magnesium: 18 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 26.1 µg
+Vitamin B6: 0.218 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,22 @@
+Food: Beverages, V8 SPLASH Juice Drinks, Diet Tropical Blend
+Food ID: 171927
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 4 kcal
+Protein: 0 g
+Carbohydrates: 1.26 g
+Fat: 0 g
+Sugar: 0.42 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 15 mg
+Potassium: 34 mg
+
+Vitamins:
+Vitamin C: 25.2 mg
+Vitamin E: 1.13 mg

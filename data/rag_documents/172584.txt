@@ -1,0 +1,28 @@
+Food: Lamb, Australian, imported, fresh, leg, sirloin chops, boneless, separable lean only, trimmed to 1/8" fat, raw
+Food ID: 172584
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 20.43 g
+Carbohydrates: 0 g
+Fat: 4.91 g
+
+Fats:
+Saturated fat: 1.948 g
+Monounsaturated fat: 2.034 g
+Polyunsaturated fat: 0.267 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 342 mg
+Calcium: 9 mg
+Iron: 1.94 mg
+Magnesium: 25 mg
+Zinc: 3.58 mg
+
+Vitamins:
+Vitamin B6: 0.406 mg
+Vitamin B12: 3.01 µg

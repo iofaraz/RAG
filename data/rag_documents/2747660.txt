@@ -1,0 +1,23 @@
+Food: Peppers, banana or Hungarian wax, seeded, raw
+Food ID: 2747660
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.723125 g
+Carbohydrates: 4.96617 g
+Fat: 0.1314 g
+Fiber: 1.79 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 177.4 mg
+Calcium: 9.816 mg
+Iron: 0.1622 mg
+Magnesium: 10.19 mg
+Zinc: 0.1304 mg
+
+Vitamins:
+Vitamin C: 112.1 mg
+Vitamin B6: 0.2873 mg
+Folate: 31.82 µg

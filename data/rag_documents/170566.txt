@@ -1,0 +1,31 @@
+Food: Nuts, acorn flour, full fat
+Food ID: 170566
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 501 kcal
+Protein: 7.49 g
+Carbohydrates: 54.65 g
+Fat: 30.17 g
+
+Fats:
+Saturated fat: 3.923 g
+Monounsaturated fat: 19.11 g
+Polyunsaturated fat: 5.813 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 712 mg
+Calcium: 43 mg
+Iron: 1.21 mg
+Magnesium: 110 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.688 mg
+Vitamin B12: 0 µg
+Folate: 114 µg

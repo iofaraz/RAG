@@ -1,0 +1,36 @@
+Food: Sweetbreads
+Food ID: 2706158
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 22.49 g
+Carbohydrates: 0 g
+Fat: 3.08 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.935 g
+Monounsaturated fat: 0.896 g
+Polyunsaturated fat: 0.312 g
+Cholesterol: 347 mg
+
+Minerals:
+Sodium: 366 mg
+Potassium: 432 mg
+Calcium: 4 mg
+Iron: 1.23 mg
+Magnesium: 24 mg
+Zinc: 2.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 39.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 2.83 µg
+Folate: 20 µg

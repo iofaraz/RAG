@@ -1,0 +1,31 @@
+Food: SILK Chocolate, soymilk
+Food ID: 173770
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 58 kcal
+Protein: 2.06 g
+Carbohydrates: 9.47 g
+Fat: 1.44 g
+Fiber: 0.8 g
+Sugar: 7.82 g
+
+Fats:
+Saturated fat: 0.206 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 144 mg
+Calcium: 123 mg
+Iron: 0.59 mg
+Magnesium: 16 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin B12: 1.23 µg
+Folate: 10 µg

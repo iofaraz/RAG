@@ -1,0 +1,37 @@
+Food: Potato flour
+Food ID: 168446
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 6.9 g
+Carbohydrates: 83.1 g
+Fat: 0.34 g
+Fiber: 5.9 g
+Sugar: 3.52 g
+
+Fats:
+Saturated fat: 0.09 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.15 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 55 mg
+Potassium: 1001 mg
+Calcium: 65 mg
+Iron: 1.38 mg
+Magnesium: 65 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.769 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

@@ -1,0 +1,36 @@
+Food: Bread, french or vienna, toasted (includes sourdough)
+Food ID: 174911
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 319 kcal
+Protein: 13 g
+Carbohydrates: 61.93 g
+Fat: 2.14 g
+Fiber: 3.1 g
+Sugar: 3.59 g
+
+Fats:
+Saturated fat: 0.502 g
+Monounsaturated fat: 0.386 g
+Polyunsaturated fat: 0.83 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 720 mg
+Potassium: 140 mg
+Calcium: 47 mg
+Iron: 3.87 mg
+Magnesium: 31 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.096 mg
+Vitamin B12: 0 µg
+Folate: 140 µg

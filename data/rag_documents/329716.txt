@@ -1,0 +1,24 @@
+Food: Egg, yolk, dried
+Food ID: 329716
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 654 kcal
+Protein: 34.2 g
+Carbohydrates: 1.07 g
+Fat: 55.5 g
+
+Fats:
+Cholesterol: 2340 mg
+
+Minerals:
+Sodium: 149 mg
+Potassium: 231 mg
+Calcium: 270 mg
+Iron: 9.28 mg
+Magnesium: 26 mg
+Zinc: 7.11 mg
+
+Vitamins:
+Vitamin D: 15.7 µg

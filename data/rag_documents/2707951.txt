@@ -1,0 +1,36 @@
+Food: Cookie, oatmeal, with chocolate and peanut butter, no bake
+Food ID: 2707951
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 450 kcal
+Protein: 6.2 g
+Carbohydrates: 68.7 g
+Fat: 18.1 g
+Fiber: 2.8 g
+Sugar: 24.66 g
+
+Fats:
+Saturated fat: 4.519 g
+Monounsaturated fat: 10.025 g
+Polyunsaturated fat: 2.543 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 520 mg
+Potassium: 142 mg
+Calcium: 37 mg
+Iron: 2.58 mg
+Magnesium: 33 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0 µg
+Folate: 59 µg

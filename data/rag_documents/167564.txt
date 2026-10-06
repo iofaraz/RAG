@@ -1,0 +1,37 @@
+Food: Candies, NESTLE, BIT-O'-HONEY Candy Chews
+Food ID: 167564
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 388 kcal
+Protein: 2 g
+Carbohydrates: 80.89 g
+Fat: 7.5 g
+Fiber: 0.2 g
+Sugar: 48 g
+
+Fats:
+Saturated fat: 5.5 g
+Monounsaturated fat: 1.03 g
+Polyunsaturated fat: 0.338 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 295 mg
+Potassium: 44 mg
+Calcium: 35 mg
+Iron: 0.2 mg
+Magnesium: 7 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0.06 µg
+Folate: 2 µg

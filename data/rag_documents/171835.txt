@@ -1,0 +1,37 @@
+Food: Cookie, vanilla with caramel, coconut, and chocolate coating
+Food ID: 171835
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 489 kcal
+Protein: 3.5 g
+Carbohydrates: 64.1 g
+Fat: 25.8 g
+Fiber: 4.4 g
+Sugar: 35.8 g
+
+Fats:
+Saturated fat: 17.7 g
+Monounsaturated fat: 2.8 g
+Polyunsaturated fat: 3.7 g
+Trans fat: 0.2 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 182 mg
+Potassium: 195 mg
+Calcium: 40 mg
+Iron: 3.2 mg
+Magnesium: 30 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.42 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.04 µg
+Folate: 28 µg

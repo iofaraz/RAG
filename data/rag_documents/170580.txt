@@ -1,0 +1,33 @@
+Food: Nuts, coconut cream, raw (liquid expressed from grated meat)
+Food ID: 170580
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 330 kcal
+Protein: 3.63 g
+Carbohydrates: 6.65 g
+Fat: 34.68 g
+Fiber: 2.2 g
+
+Fats:
+Saturated fat: 30.753 g
+Monounsaturated fat: 1.475 g
+Polyunsaturated fat: 0.379 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 325 mg
+Calcium: 11 mg
+Iron: 2.28 mg
+Magnesium: 28 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

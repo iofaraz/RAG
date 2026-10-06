@@ -1,0 +1,35 @@
+Food: Desserts, mousse, chocolate, prepared-from-recipe
+Food ID: 168777
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 4.14 g
+Carbohydrates: 16.07 g
+Fat: 16 g
+Fiber: 0.6 g
+Sugar: 14.81 g
+
+Fats:
+Saturated fat: 9.151 g
+Monounsaturated fat: 5.027 g
+Polyunsaturated fat: 0.879 g
+Cholesterol: 140 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 143 mg
+Calcium: 96 mg
+Iron: 0.55 mg
+Magnesium: 20 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 140 µg
+Vitamin C: 0.1 mg
+Vitamin E: 0.51 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.47 µg
+Folate: 15 µg

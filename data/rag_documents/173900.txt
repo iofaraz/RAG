@@ -1,0 +1,36 @@
+Food: Cereals, CREAM OF RICE, dry
+Food ID: 173900
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 370 kcal
+Protein: 6.3 g
+Carbohydrates: 82.4 g
+Fat: 0.5 g
+Fiber: 0.7 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 0.136 g
+Monounsaturated fat: 0.156 g
+Polyunsaturated fat: 0.134 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 143 mg
+Calcium: 5 mg
+Iron: 28.44 mg
+Magnesium: 23 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.195 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

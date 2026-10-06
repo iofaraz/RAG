@@ -1,0 +1,31 @@
+Food: Drumstick pods, cooked, boiled, drained, with salt
+Food ID: 168532
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 2.09 g
+Carbohydrates: 8.18 g
+Fat: 0.19 g
+Fiber: 4.2 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 279 mg
+Potassium: 457 mg
+Calcium: 20 mg
+Iron: 0.45 mg
+Magnesium: 42 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 97 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

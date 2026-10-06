@@ -1,0 +1,36 @@
+Food: Egg salad, made with light Italian dressing
+Food ID: 2707189
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 9.98 g
+Carbohydrates: 2.98 g
+Fat: 9.74 g
+Fiber: 0 g
+Sugar: 2.8 g
+
+Fats:
+Saturated fat: 2.744 g
+Monounsaturated fat: 3.568 g
+Polyunsaturated fat: 1.79 g
+Cholesterol: 293 mg
+
+Minerals:
+Sodium: 437 mg
+Potassium: 118 mg
+Calcium: 43 mg
+Iron: 0.99 mg
+Magnesium: 9 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 117 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 1.71 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0.87 µg
+Folate: 35 µg

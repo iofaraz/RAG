@@ -1,0 +1,36 @@
+Food: Energy drink (Mountain Dew AMP)
+Food ID: 2710748
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 0.25 g
+Carbohydrates: 12.08 g
+Fat: 0.08 g
+Fiber: 0 g
+Sugar: 12.08 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 3 mg
+Calcium: 13 mg
+Iron: 0.02 mg
+Magnesium: 3 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.2 mg
+Vitamin B12: 0.6 µg
+Folate: 0 µg

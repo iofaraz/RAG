@@ -1,0 +1,36 @@
+Food: Ice cream cookie sandwich
+Food ID: 172227
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 3.7 g
+Carbohydrates: 39.6 g
+Fat: 7.4 g
+Fiber: 1.2 g
+Sugar: 21.3 g
+
+Fats:
+Saturated fat: 1.663 g
+Monounsaturated fat: 4.15 g
+Polyunsaturated fat: 0.847 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 162 mg
+Potassium: 68 mg
+Calcium: 73 mg
+Iron: 1.1 mg
+Magnesium: 16 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.028 mg
+Vitamin B12: 0.01 µg
+Folate: 5 µg

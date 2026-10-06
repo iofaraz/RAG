@@ -1,0 +1,26 @@
+Food: Tomatoes, grape, raw
+Food ID: 321360
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.83 g
+Carbohydrates: 5.51 g
+Fat: 0.63 g
+Fiber: 2.1 g
+
+Minerals:
+Sodium: 6 mg
+Potassium: 260 mg
+Calcium: 11 mg
+Iron: 0.33 mg
+Magnesium: 11.9 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin C: 27.2 mg
+Vitamin E: 0.98 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.06 mg
+Folate: 10 µg

@@ -1,0 +1,31 @@
+Food: Tennis Bread, plain (Apache)
+Food ID: 169811
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 9 g
+Carbohydrates: 53.26 g
+Fat: 1.05 g
+Fiber: 2.6 g
+Sugar: 3.01 g
+
+Fats:
+Saturated fat: 0.27 g
+Monounsaturated fat: 0.12 g
+Polyunsaturated fat: 0.59 g
+
+Minerals:
+Sodium: 810 mg
+Potassium: 100 mg
+Calcium: 67 mg
+Iron: 3.4 mg
+Magnesium: 28 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin E: 0.07 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.059 mg
+Folate: 162 µg

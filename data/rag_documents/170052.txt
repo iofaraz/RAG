@@ -1,0 +1,37 @@
+Food: Tomatoes, red, ripe, canned, stewed
+Food ID: 170052
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 26 kcal
+Protein: 0.91 g
+Carbohydrates: 6.19 g
+Fat: 0.19 g
+Fiber: 1 g
+Sugar: 3.52 g
+
+Fats:
+Saturated fat: 0.026 g
+Monounsaturated fat: 0.029 g
+Polyunsaturated fat: 0.077 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 221 mg
+Potassium: 207 mg
+Calcium: 34 mg
+Iron: 1.33 mg
+Magnesium: 12 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 7.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.83 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

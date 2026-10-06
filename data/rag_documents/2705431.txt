@@ -1,0 +1,36 @@
+Food: Yogurt, Greek, low fat milk, fruit
+Food ID: 2705431
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 9.11 g
+Carbohydrates: 10.78 g
+Fat: 1.33 g
+Fiber: 0.1 g
+Sugar: 8.21 g
+
+Fats:
+Saturated fat: 0.715 g
+Monounsaturated fat: 0.329 g
+Polyunsaturated fat: 0.047 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 133 mg
+Calcium: 100 mg
+Iron: 0.12 mg
+Magnesium: 10 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 1 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0.62 µg
+Folate: 7 µg

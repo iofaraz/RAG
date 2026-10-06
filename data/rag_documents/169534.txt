@@ -1,0 +1,33 @@
+Food: Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, prime, raw
+Food ID: 169534
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 22.24 g
+Carbohydrates: 0 g
+Fat: 8.67 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.3 g
+Monounsaturated fat: 3.59 g
+Polyunsaturated fat: 0.38 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 371 mg
+Calcium: 3 mg
+Iron: 2.04 mg
+Magnesium: 24 mg
+Zinc: 2.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.5 mg
+Vitamin B12: 2.79 µg
+Folate: 9 µg

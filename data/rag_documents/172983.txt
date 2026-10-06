@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, Crispy Rice
+Food ID: 172983
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 6.07 g
+Carbohydrates: 86.4 g
+Fat: 1.12 g
+Fiber: 0.4 g
+Sugar: 7.82 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.3 g
+Polyunsaturated fat: 0.34 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 924 mg
+Potassium: 114 mg
+Calcium: 7 mg
+Iron: 27.27 mg
+Magnesium: 24 mg
+Zinc: 11.35 mg
+
+Vitamins:
+Vitamin A: 455 µg
+Vitamin C: 18.2 mg
+Vitamin D: 3 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.51 mg
+Vitamin B12: 4.55 µg
+Folate: 1210 µg

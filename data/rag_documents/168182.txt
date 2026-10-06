@@ -1,0 +1,37 @@
+Food: Pears, canned, heavy syrup, drained
+Food ID: 168182
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 0.24 g
+Carbohydrates: 19.08 g
+Fat: 0.18 g
+Fiber: 2.7 g
+Sugar: 16.42 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.037 g
+Polyunsaturated fat: 0.041 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 66 mg
+Calcium: 6 mg
+Iron: 0.22 mg
+Magnesium: 4 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.014 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

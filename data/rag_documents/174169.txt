@@ -1,0 +1,28 @@
+Food: Beverages, V8 V-FUSION Juices, Tropical
+Food ID: 174169
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 0.41 g
+Carbohydrates: 11.38 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 10.16 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 33 mg
+Potassium: 118 mg
+Calcium: 8 mg
+Iron: 0.15 mg
+Magnesium: 7 mg
+
+Vitamins:
+Vitamin C: 24.4 mg
+Vitamin E: 0.55 mg
+Vitamin B6: 0.016 mg
+Folate: 3 µg

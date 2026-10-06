@@ -1,0 +1,35 @@
+Food: Fish, roughy, orange, cooked, dry heat
+Food ID: 174251
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 22.64 g
+Carbohydrates: 0 g
+Fat: 0.9 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.034 g
+Monounsaturated fat: 0.439 g
+Polyunsaturated fat: 0.184 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 181 mg
+Calcium: 11 mg
+Iron: 1.13 mg
+Magnesium: 18 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin E: 1.87 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.47 µg
+Folate: 5 µg

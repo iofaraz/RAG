@@ -1,0 +1,36 @@
+Food: Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)
+Food ID: 170189
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 595 kcal
+Protein: 17 g
+Carbohydrates: 21.19 g
+Fat: 53.76 g
+Fiber: 9.3 g
+Sugar: 0.49 g
+
+Fats:
+Saturated fat: 7.529 g
+Monounsaturated fat: 20.302 g
+Polyunsaturated fat: 23.564 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 115 mg
+Potassium: 414 mg
+Calcium: 426 mg
+Iron: 8.95 mg
+Magnesium: 95 mg
+Zinc: 4.62 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.149 mg
+Vitamin B12: 0 µg
+Folate: 98 µg

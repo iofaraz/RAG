@@ -1,0 +1,36 @@
+Food: Sweet potato, candied
+Food ID: 2709704
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 1.18 g
+Carbohydrates: 37.69 g
+Fat: 3.48 g
+Fiber: 2.2 g
+Sugar: 29.38 g
+
+Fats:
+Saturated fat: 0.83 g
+Monounsaturated fat: 1.108 g
+Polyunsaturated fat: 0.906 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 121 mg
+Potassium: 362 mg
+Calcium: 17 mg
+Iron: 0.31 mg
+Magnesium: 14 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 514 µg
+Vitamin C: 9.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.66 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

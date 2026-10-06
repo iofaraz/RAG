@@ -1,0 +1,37 @@
+Food: Veal, shoulder, blade chop, separable lean and fat, raw
+Food ID: 173835
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 18.72 g
+Carbohydrates: 0.03 g
+Fat: 7.61 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.701 g
+Monounsaturated fat: 3.642 g
+Polyunsaturated fat: 0.313 g
+Trans fat: 0.301 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 91 mg
+Potassium: 198 mg
+Calcium: 23 mg
+Iron: 1.22 mg
+Magnesium: 32 mg
+Zinc: 3.18 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.3 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.437 mg
+Vitamin B12: 2.73 µg
+Folate: 3 µg

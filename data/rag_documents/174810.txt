@@ -1,0 +1,30 @@
+Food: Alcoholic beverage, whiskey sour, canned
+Food ID: 174810
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 0 g
+Carbohydrates: 13.4 g
+Fat: 0 g
+Fiber: 0.1 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 44 mg
+Potassium: 11 mg
+Calcium: 0 mg
+Iron: 0.01 mg
+Magnesium: 1 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.6 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

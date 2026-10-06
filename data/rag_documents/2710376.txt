@@ -1,0 +1,36 @@
+Food: Coffee, brewed, blend of regular and decaffeinated
+Food ID: 2710376
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 0 kcal
+Protein: 0.11 g
+Carbohydrates: 0 g
+Fat: 0.01 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.002 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 52 mg
+Calcium: 2 mg
+Iron: 0.03 mg
+Magnesium: 4 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

@@ -1,0 +1,21 @@
+Food: Mushroom, lion's mane
+Food ID: 1750344
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.5 g
+Carbohydrates: 7.5897 g
+Fat: 0.2563 g
+
+Minerals:
+Sodium: 0.3363 mg
+Potassium: 443.3 mg
+Calcium: 0 mg
+Iron: 0.6883 mg
+Magnesium: 11.72 mg
+Zinc: 0.7448 mg
+
+Vitamins:
+Vitamin B6: 0.0655 mg
+Folate: 29.58 µg

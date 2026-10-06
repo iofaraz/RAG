@@ -1,0 +1,36 @@
+Food: White beans, from dried, no added fat
+Food ID: 2707355
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 9.67 g
+Carbohydrates: 24.94 g
+Fat: 0.35 g
+Fiber: 6.3 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 0.09 g
+Monounsaturated fat: 0.031 g
+Polyunsaturated fat: 0.151 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 237 mg
+Potassium: 558 mg
+Calcium: 90 mg
+Iron: 3.68 mg
+Magnesium: 63 mg
+Zinc: 1.37 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.93 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0 µg
+Folate: 76 µg

@@ -1,0 +1,36 @@
+Food: Yellow string beans, cooked
+Food ID: 2709870
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.45 g
+Carbohydrates: 6.25 g
+Fat: 2.71 g
+Fiber: 2.9 g
+Sugar: 1.82 g
+
+Fats:
+Saturated fat: 0.709 g
+Monounsaturated fat: 0.911 g
+Polyunsaturated fat: 0.811 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 130 mg
+Potassium: 122 mg
+Calcium: 48 mg
+Iron: 0.86 mg
+Magnesium: 23 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 3.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 39 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

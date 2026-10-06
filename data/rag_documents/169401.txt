@@ -1,0 +1,32 @@
+Food: Yautia (tannier), raw
+Food ID: 169401
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 98 kcal
+Protein: 1.46 g
+Carbohydrates: 23.63 g
+Fat: 0.4 g
+Fiber: 1.5 g
+
+Fats:
+Saturated fat: 0.082 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 598 mg
+Calcium: 9 mg
+Iron: 0.98 mg
+Magnesium: 24 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.237 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

@@ -1,0 +1,20 @@
+Food: Cranberries, wild, bush, raw (Alaska Native)
+Food ID: 169804
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 1.1 g
+Carbohydrates: 12.3 g
+Fat: 0.2 g
+Fiber: 6.7 g
+
+Minerals:
+Sodium: 26 mg
+Potassium: 140 mg
+Calcium: 20 mg
+Iron: 1 mg
+
+Vitamins:
+Vitamin C: 15 mg

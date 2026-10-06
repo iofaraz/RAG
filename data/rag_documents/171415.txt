@@ -1,0 +1,37 @@
+Food: Margarine,spread, 35-39% fat, tub
+Food ID: 171415
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 349 kcal
+Protein: 0.23 g
+Carbohydrates: 1.52 g
+Fat: 37.98 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.656 g
+Monounsaturated fat: 11.192 g
+Polyunsaturated fat: 16.09 g
+Trans fat: 0.079 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 584 mg
+Potassium: 51 mg
+Calcium: 6 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1348 µg
+Vitamin C: 0 mg
+Vitamin D: 17.5 µg
+Vitamin E: 13.45 mg
+Vitamin K: 74.6 µg
+Vitamin B6: 0.384 mg
+Vitamin B12: 0.06 µg
+Folate: 3 µg

@@ -1,0 +1,36 @@
+Food: Welsh rarebit
+Food ID: 2705793
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 7.5 g
+Carbohydrates: 6.32 g
+Fat: 12.26 g
+Fiber: 0.1 g
+Sugar: 4.21 g
+
+Fats:
+Saturated fat: 5.449 g
+Monounsaturated fat: 3.71 g
+Polyunsaturated fat: 1.485 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 280 mg
+Potassium: 151 mg
+Calcium: 241 mg
+Iron: 0.16 mg
+Magnesium: 16 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 149 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.61 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.38 µg
+Folate: 7 µg

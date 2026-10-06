@@ -1,0 +1,36 @@
+Food: Danish pastry, cheese
+Food ID: 172754
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 8 g
+Carbohydrates: 37.2 g
+Fat: 21.9 g
+Fiber: 1 g
+Sugar: 6.95 g
+
+Fats:
+Saturated fat: 6.794 g
+Monounsaturated fat: 11.313 g
+Polyunsaturated fat: 2.575 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 417 mg
+Potassium: 98 mg
+Calcium: 35 mg
+Iron: 1.8 mg
+Magnesium: 15 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.35 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.2 µg
+Folate: 60 µg

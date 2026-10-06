@@ -1,0 +1,30 @@
+Food: Ice creams, strawberry
+Food ID: 168810
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 3.2 g
+Carbohydrates: 27.6 g
+Fat: 8.4 g
+Fiber: 0.9 g
+
+Fats:
+Saturated fat: 5.19 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 188 mg
+Calcium: 120 mg
+Iron: 0.21 mg
+Magnesium: 14 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 7.7 mg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.3 µg
+Folate: 12 µg

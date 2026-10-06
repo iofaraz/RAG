@@ -1,0 +1,36 @@
+Food: Grilled cheese sandwich, reduced fat cheese, on white bread
+Food ID: 2705806
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 307 kcal
+Protein: 11.32 g
+Carbohydrates: 29.33 g
+Fat: 16.05 g
+Fiber: 1.2 g
+Sugar: 5.71 g
+
+Fats:
+Saturated fat: 7.552 g
+Monounsaturated fat: 4.26 g
+Polyunsaturated fat: 2.55 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 739 mg
+Potassium: 183 mg
+Calcium: 303 mg
+Iron: 1.82 mg
+Magnesium: 26 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 185 µg
+Vitamin C: 0 mg
+Vitamin D: 2.1 µg
+Vitamin E: 1.08 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.211 mg
+Vitamin B12: 0.38 µg
+Folate: 55 µg

@@ -1,0 +1,36 @@
+Food: Snacks, tortilla chips, light (baked with less oil)
+Food ID: 168137
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 465 kcal
+Protein: 8.7 g
+Carbohydrates: 73.4 g
+Fat: 15.2 g
+Fiber: 5.7 g
+Sugar: 0.53 g
+
+Fats:
+Saturated fat: 2.837 g
+Monounsaturated fat: 6.341 g
+Polyunsaturated fat: 5.024 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 272 mg
+Calcium: 159 mg
+Iron: 1.63 mg
+Magnesium: 97 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 3.53 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0.06 µg
+Folate: 16 µg

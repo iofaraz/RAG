@@ -1,0 +1,31 @@
+Food: McDONALD'S, Bacon Egg & Cheese Biscuit
+Food ID: 172069
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 304 kcal
+Protein: 13.45 g
+Carbohydrates: 22.26 g
+Fat: 18.77 g
+Fiber: 0.9 g
+Sugar: 2.18 g
+
+Fats:
+Saturated fat: 8.262 g
+Monounsaturated fat: 5.546 g
+Polyunsaturated fat: 2.625 g
+Trans fat: 0.395 g
+Cholesterol: 167 mg
+
+Minerals:
+Sodium: 863 mg
+Potassium: 121 mg
+Calcium: 109 mg
+Iron: 2.13 mg
+Magnesium: 12 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin C: 2.1 mg
+Vitamin B6: 0.093 mg

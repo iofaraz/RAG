@@ -1,0 +1,37 @@
+Food: Soy sauce made from soy and wheat (shoyu)
+Food ID: 174277
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 8.14 g
+Carbohydrates: 4.93 g
+Fat: 0.57 g
+Fiber: 0.8 g
+Sugar: 0.4 g
+
+Fats:
+Saturated fat: 0.073 g
+Monounsaturated fat: 0.088 g
+Polyunsaturated fat: 0.263 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5493 mg
+Potassium: 435 mg
+Calcium: 33 mg
+Iron: 1.45 mg
+Magnesium: 74 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

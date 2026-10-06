@@ -1,0 +1,19 @@
+Food: Sweeteners, for baking, contains sugar and sucralose
+Food ID: 170673
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 398 kcal
+Protein: 0 g
+Carbohydrates: 99.53 g
+Fat: 0 g
+Sugar: 47.05 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 2 mg
+Calcium: 1 mg
+Iron: 0.06 mg
+Magnesium: 0 mg
+Zinc: 0.01 mg

@@ -1,0 +1,17 @@
+Food: Blueberries, wild, frozen (Alaska Native)
+Food ID: 169799
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 0.7 g
+Carbohydrates: 10.4 g
+Fat: 0 g
+
+Minerals:
+Calcium: 15 mg
+Iron: 1.1 mg
+
+Vitamins:
+Vitamin C: 2.2 mg

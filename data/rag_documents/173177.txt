@@ -1,0 +1,37 @@
+Food: Beverages, Whey protein powder isolate
+Food ID: 173177
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 359 kcal
+Protein: 58.14 g
+Carbohydrates: 29.07 g
+Fat: 1.16 g
+Fiber: 0 g
+Sugar: 1.16 g
+
+Fats:
+Saturated fat: 0.581 g
+Monounsaturated fat: 0.149 g
+Polyunsaturated fat: 0.021 g
+Trans fat: 0 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 872 mg
+Calcium: 698 mg
+Iron: 1.26 mg
+Magnesium: 233 mg
+Zinc: 8.72 mg
+
+Vitamins:
+Vitamin A: 872 µg
+Vitamin C: 34.9 mg
+Vitamin D: 0 µg
+Vitamin E: 7.85 mg
+Vitamin K: 46.5 µg
+Vitamin B6: 1.163 mg
+Vitamin B12: 3.49 µg
+Folate: 233 µg

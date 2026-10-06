@@ -1,0 +1,36 @@
+Food: Chicken salad sandwich on wheat
+Food ID: 2706991
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 245 kcal
+Protein: 13.08 g
+Carbohydrates: 17.06 g
+Fat: 13.83 g
+Fiber: 2.1 g
+Sugar: 3.13 g
+
+Fats:
+Saturated fat: 2.395 g
+Monounsaturated fat: 3.467 g
+Polyunsaturated fat: 7.015 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 469 mg
+Potassium: 201 mg
+Calcium: 67 mg
+Iron: 1.36 mg
+Magnesium: 29 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.77 mg
+Vitamin K: 31.9 µg
+Vitamin B6: 0.147 mg
+Vitamin B12: 0.14 µg
+Folate: 34 µg

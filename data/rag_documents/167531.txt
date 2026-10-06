@@ -1,0 +1,29 @@
+Food: Crackers, cream, La Moderna Rikis Cream Crackers
+Food ID: 167531
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 464 kcal
+Protein: 7.19 g
+Carbohydrates: 64.88 g
+Fat: 19.5 g
+Fiber: 2.4 g
+Sugar: 10.41 g
+
+Fats:
+Saturated fat: 2.634 g
+Monounsaturated fat: 14.468 g
+Polyunsaturated fat: 1.265 g
+Trans fat: 2.905 g
+
+Minerals:
+Sodium: 752 mg
+Potassium: 117 mg
+Calcium: 734 mg
+Iron: 6.64 mg
+Magnesium: 28 mg
+Zinc: 4.11 mg
+
+Vitamins:
+Vitamin B12: 0.8 µg

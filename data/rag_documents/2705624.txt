@@ -1,0 +1,36 @@
+Food: Ranch dip, light
+Food ID: 2705624
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 2.35 g
+Carbohydrates: 13.95 g
+Fat: 15.25 g
+Fiber: 0.2 g
+Sugar: 7.78 g
+
+Fats:
+Saturated fat: 4.675 g
+Monounsaturated fat: 3.76 g
+Polyunsaturated fat: 6.203 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 607 mg
+Potassium: 152 mg
+Calcium: 89 mg
+Iron: 0.3 mg
+Magnesium: 10 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.23 mg
+Vitamin K: 37.5 µg
+Vitamin B6: 0.022 mg
+Vitamin B12: 0.23 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Bread, pita
+Food ID: 2707616
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 275 kcal
+Protein: 9.1 g
+Carbohydrates: 55.7 g
+Fat: 1.2 g
+Fiber: 2.2 g
+Sugar: 1.3 g
+
+Fats:
+Saturated fat: 0.166 g
+Monounsaturated fat: 0.105 g
+Polyunsaturated fat: 0.535 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 536 mg
+Potassium: 120 mg
+Calcium: 86 mg
+Iron: 2.62 mg
+Magnesium: 26 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0 µg
+Folate: 107 µg

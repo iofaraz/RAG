@@ -1,0 +1,36 @@
+Food: Pancakes, whole grain, reduced fat
+Food ID: 2708310
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 256 kcal
+Protein: 8.04 g
+Carbohydrates: 33.65 g
+Fat: 9.89 g
+Fiber: 3.3 g
+Sugar: 7.05 g
+
+Fats:
+Saturated fat: 2.711 g
+Monounsaturated fat: 3.294 g
+Polyunsaturated fat: 2.486 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 738 mg
+Potassium: 258 mg
+Calcium: 141 mg
+Iron: 3.22 mg
+Magnesium: 43 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 1.35 mg
+Vitamin K: 6.4 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.41 µg
+Folate: 33 µg

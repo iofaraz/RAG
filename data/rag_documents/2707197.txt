@@ -1,0 +1,36 @@
+Food: Beef egg foo yung
+Food ID: 2707197
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 13.82 g
+Carbohydrates: 4.78 g
+Fat: 8.08 g
+Fiber: 0.3 g
+Sugar: 3.05 g
+
+Fats:
+Saturated fat: 2.473 g
+Monounsaturated fat: 3.161 g
+Polyunsaturated fat: 1.412 g
+Cholesterol: 201 mg
+
+Minerals:
+Sodium: 321 mg
+Potassium: 165 mg
+Calcium: 32 mg
+Iron: 1.59 mg
+Magnesium: 14 mg
+Zinc: 1.97 mg
+
+Vitamins:
+Vitamin A: 83 µg
+Vitamin C: 1.7 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.89 mg
+Vitamin K: 24 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 0.83 µg
+Folate: 31 µg

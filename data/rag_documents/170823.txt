@@ -1,0 +1,37 @@
+Food: Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0" fat, select, cooked, braised
+Food ID: 170823
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 31.86 g
+Carbohydrates: 0 g
+Fat: 9.34 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.263 g
+Monounsaturated fat: 3.782 g
+Polyunsaturated fat: 0.569 g
+Trans fat: 0.457 g
+Cholesterol: 115 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 288 mg
+Calcium: 15 mg
+Iron: 3.21 mg
+Magnesium: 22 mg
+Zinc: 10.31 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.1 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.398 mg
+Vitamin B12: 4.35 µg
+Folate: 8 µg

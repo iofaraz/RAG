@@ -1,0 +1,36 @@
+Food: Icing, white
+Food ID: 2710291
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 418 kcal
+Protein: 0 g
+Carbohydrates: 67.89 g
+Fat: 16.23 g
+Fiber: 0 g
+Sugar: 63.1 g
+
+Fats:
+Saturated fat: 2.974 g
+Monounsaturated fat: 4.86 g
+Polyunsaturated fat: 7.951 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 184 mg
+Potassium: 34 mg
+Calcium: 3 mg
+Iron: 0.16 mg
+Magnesium: 1 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.53 mg
+Vitamin K: 13 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

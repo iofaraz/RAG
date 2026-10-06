@@ -1,0 +1,32 @@
+Food: Crustaceans, crab, queen, cooked, moist heat
+Food ID: 172008
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 23.72 g
+Carbohydrates: 0 g
+Fat: 1.51 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.183 g
+Monounsaturated fat: 0.328 g
+Polyunsaturated fat: 0.54 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 691 mg
+Potassium: 200 mg
+Calcium: 33 mg
+Iron: 2.88 mg
+Magnesium: 63 mg
+Zinc: 3.59 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 7.2 mg
+Vitamin B6: 0.173 mg
+Vitamin B12: 10.38 µg
+Folate: 42 µg

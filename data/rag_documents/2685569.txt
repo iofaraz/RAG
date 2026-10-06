@@ -1,0 +1,22 @@
+Food: Squash, summer, yellow, includes skin, raw
+Food ID: 2685569
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.890625 g
+Carbohydrates: 4.39 g
+Fat: 0.135 g
+Fiber: 0.9563 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 220.5 mg
+Calcium: 22.69 mg
+Iron: 0.1369 mg
+Magnesium: 16.84 mg
+Zinc: 0.203 mg
+
+Vitamins:
+Vitamin C: 17 mg
+Folate: 36 µg

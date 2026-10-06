@@ -1,0 +1,24 @@
+Food: Candies, HERSHEY'S POT OF GOLD Almond Bar
+Food ID: 169579
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 577 kcal
+Protein: 12.82 g
+Carbohydrates: 44.89 g
+Fat: 38.46 g
+Fiber: 3.8 g
+Sugar: 38.46 g
+
+Fats:
+Saturated fat: 16.667 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 64 mg
+Calcium: 192 mg
+Iron: 1.85 mg
+
+Vitamins:
+Vitamin C: 0 mg

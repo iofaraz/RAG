@@ -1,0 +1,36 @@
+Food: Muffin, pumpkin
+Food ID: 2707843
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 305 kcal
+Protein: 4.97 g
+Carbohydrates: 43.21 g
+Fat: 12.93 g
+Fiber: 1.4 g
+Sugar: 22.59 g
+
+Fats:
+Saturated fat: 2.154 g
+Monounsaturated fat: 5.152 g
+Polyunsaturated fat: 4.519 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 285 mg
+Potassium: 153 mg
+Calcium: 137 mg
+Iron: 2.15 mg
+Magnesium: 18 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 209 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.5 µg
+Vitamin E: 2.47 mg
+Vitamin K: 15 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.15 µg
+Folate: 35 µg

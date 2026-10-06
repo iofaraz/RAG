@@ -1,0 +1,36 @@
+Food: Beef, corned
+Food ID: 2705850
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 18.17 g
+Carbohydrates: 0.47 g
+Fat: 18.98 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.34 g
+Monounsaturated fat: 9.22 g
+Polyunsaturated fat: 0.67 g
+Cholesterol: 98 mg
+
+Minerals:
+Sodium: 973 mg
+Potassium: 145 mg
+Calcium: 8 mg
+Iron: 1.86 mg
+Magnesium: 12 mg
+Zinc: 4.58 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.23 mg
+Vitamin B12: 1.63 µg
+Folate: 6 µg

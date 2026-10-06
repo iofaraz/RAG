@@ -1,0 +1,36 @@
+Food: Soup, chicken broth, low sodium, canned
+Food ID: 171609
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 2 g
+Carbohydrates: 1.2 g
+Fat: 0.6 g
+Fiber: 0 g
+Sugar: 0.13 g
+
+Fats:
+Saturated fat: 0.179 g
+Monounsaturated fat: 0.274 g
+Polyunsaturated fat: 0.126 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 86 mg
+Calcium: 4 mg
+Iron: 0.21 mg
+Magnesium: 1 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.1 µg
+Folate: 0 µg

@@ -1,0 +1,33 @@
+Food: Seeds, breadfruit seeds, raw
+Food ID: 170144
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 191 kcal
+Protein: 7.4 g
+Carbohydrates: 29.24 g
+Fat: 5.59 g
+Fiber: 5.2 g
+
+Fats:
+Saturated fat: 1.509 g
+Monounsaturated fat: 0.712 g
+Polyunsaturated fat: 2.977 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 941 mg
+Calcium: 36 mg
+Iron: 3.67 mg
+Magnesium: 54 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 6.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.32 mg
+Vitamin B12: 0 µg
+Folate: 53 µg

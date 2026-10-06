@@ -1,0 +1,21 @@
+Food: Sorghum, whole grain, white, dry, raw
+Food ID: 2710842
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 10.0813 g
+Carbohydrates: 73.5738 g
+Fat: 4.219 g
+Fiber: 8.274 g
+
+Minerals:
+Sodium: 0.3288 mg
+Potassium: 367.1 mg
+Calcium: 14.93 mg
+Iron: 3.895 mg
+Magnesium: 136 mg
+Zinc: 1.769 mg
+
+Vitamins:
+Vitamin B6: 0.1906 mg

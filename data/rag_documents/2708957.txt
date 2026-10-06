@@ -1,0 +1,36 @@
+Food: Dukboki or Tteokbokki, Korean
+Food ID: 2708957
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 4.11 g
+Carbohydrates: 19.61 g
+Fat: 4.05 g
+Fiber: 0.8 g
+Sugar: 1.52 g
+
+Fats:
+Saturated fat: 0.939 g
+Monounsaturated fat: 0.821 g
+Polyunsaturated fat: 1.914 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 198 mg
+Potassium: 104 mg
+Calcium: 19 mg
+Iron: 0.39 mg
+Magnesium: 14 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 4.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.7 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0.22 µg
+Folate: 14 µg

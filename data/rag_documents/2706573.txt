@@ -1,0 +1,36 @@
+Food: Fish and rice with tomato-based sauce
+Food ID: 2706573
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 135 kcal
+Protein: 5.41 g
+Carbohydrates: 16.53 g
+Fat: 5.12 g
+Fiber: 0.7 g
+Sugar: 1.15 g
+
+Fats:
+Saturated fat: 0.714 g
+Monounsaturated fat: 2.091 g
+Polyunsaturated fat: 1.946 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 310 mg
+Potassium: 151 mg
+Calcium: 12 mg
+Iron: 1.02 mg
+Magnesium: 18 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.5 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0.17 µg
+Folate: 35 µg

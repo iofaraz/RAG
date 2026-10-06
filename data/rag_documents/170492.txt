@@ -1,0 +1,37 @@
+Food: Corn pudding, home prepared
+Food ID: 170492
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 4.42 g
+Carbohydrates: 16.97 g
+Fat: 5.04 g
+Fiber: 1.2 g
+Sugar: 6.59 g
+
+Fats:
+Saturated fat: 2.451 g
+Monounsaturated fat: 1.499 g
+Polyunsaturated fat: 0.55 g
+Trans fat: 0.093 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 282 mg
+Potassium: 176 mg
+Calcium: 39 mg
+Iron: 0.53 mg
+Magnesium: 15 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0.31 µg
+Folate: 29 µg

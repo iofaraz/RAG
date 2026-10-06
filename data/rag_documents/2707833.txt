@@ -1,0 +1,36 @@
+Food: Muffin, chocolate
+Food ID: 2707833
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 395 kcal
+Protein: 6.54 g
+Carbohydrates: 50.94 g
+Fat: 18.75 g
+Fiber: 1.9 g
+Sugar: 25.98 g
+
+Fats:
+Saturated fat: 4.653 g
+Monounsaturated fat: 7.176 g
+Polyunsaturated fat: 5.471 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 339 mg
+Potassium: 178 mg
+Calcium: 163 mg
+Iron: 3.31 mg
+Magnesium: 36 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 2.66 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.18 µg
+Folate: 41 µg

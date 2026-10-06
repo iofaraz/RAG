@@ -1,0 +1,17 @@
+Food: Beans, navy, canned, sodium added, drained and rinsed
+Food ID: 2644286
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 6.56875 g
+Carbohydrates: 19.9833 g
+Fat: 1.398 g
+
+Minerals:
+Sodium: 190.1 mg
+Potassium: 183.7 mg
+Calcium: 63.91 mg
+Iron: 1.599 mg
+Magnesium: 29.56 mg
+Zinc: 0.6313 mg

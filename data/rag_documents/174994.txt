@@ -1,0 +1,37 @@
+Food: Muffins, English, plain, enriched, with ca prop (includes sourdough)
+Food ID: 174994
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 8.87 g
+Carbohydrates: 44.17 g
+Fat: 1.69 g
+Fiber: 3.5 g
+Sugar: 3.53 g
+
+Fats:
+Saturated fat: 0.733 g
+Monounsaturated fat: 0.383 g
+Polyunsaturated fat: 0.498 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 425 mg
+Potassium: 109 mg
+Calcium: 163 mg
+Iron: 4 mg
+Magnesium: 24 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.04 µg
+Folate: 94 µg

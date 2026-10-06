@@ -1,0 +1,17 @@
+Food: Lentils, dry
+Food ID: 2644283
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 23.5688 g
+Carbohydrates: 62.1713 g
+Fat: 1.925 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 948.9 mg
+Calcium: 61.85 mg
+Iron: 7.158 mg
+Magnesium: 106.7 mg
+Zinc: 3.863 mg

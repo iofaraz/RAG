@@ -1,0 +1,26 @@
+Food: Potatoes, yellow fleshed, french fried, frozen, unprepared
+Food ID: 169764
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 2.47 g
+Carbohydrates: 25.01 g
+Fat: 5.84 g
+Fiber: 2.2 g
+Sugar: 0.37 g
+
+Fats:
+Saturated fat: 1.427 g
+Trans fat: 0.107 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 300 mg
+Potassium: 447 mg
+Calcium: 9 mg
+Iron: 0.48 mg
+
+Vitamins:
+Vitamin C: 10.9 mg

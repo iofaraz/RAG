@@ -1,0 +1,34 @@
+Food: Oscar Mayer, Wieners (beef franks)
+Food ID: 174591
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 329 kcal
+Protein: 11.35 g
+Carbohydrates: 2.78 g
+Fat: 30.26 g
+Fiber: 0 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 12.46 g
+Monounsaturated fat: 14.74 g
+Polyunsaturated fat: 1.36 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 1025 mg
+Potassium: 130 mg
+Calcium: 10 mg
+Iron: 1.34 mg
+Magnesium: 13 mg
+Zinc: 2.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 1.63 µg
+Folate: 6 µg

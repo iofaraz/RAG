@@ -1,0 +1,36 @@
+Food: Spoonbread
+Food ID: 2707821
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 6.68 g
+Carbohydrates: 18.55 g
+Fat: 7.06 g
+Fiber: 0.7 g
+Sugar: 4.84 g
+
+Fats:
+Saturated fat: 2.344 g
+Monounsaturated fat: 2.567 g
+Polyunsaturated fat: 1.421 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 382 mg
+Potassium: 195 mg
+Calcium: 126 mg
+Iron: 1.08 mg
+Magnesium: 19 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 118 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.6 µg
+Vitamin E: 0.57 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.44 µg
+Folate: 37 µg

@@ -1,0 +1,36 @@
+Food: Club sandwich or sub, restaurant
+Food ID: 2706997
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 15.99 g
+Carbohydrates: 18.43 g
+Fat: 10.55 g
+Fiber: 0.8 g
+Sugar: 2.47 g
+
+Fats:
+Saturated fat: 4.421 g
+Monounsaturated fat: 3.231 g
+Polyunsaturated fat: 1.692 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 814 mg
+Potassium: 271 mg
+Calcium: 222 mg
+Iron: 1.52 mg
+Magnesium: 25 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.31 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.256 mg
+Vitamin B12: 0.49 µg
+Folate: 42 µg

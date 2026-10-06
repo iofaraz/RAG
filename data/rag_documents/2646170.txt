@@ -1,0 +1,24 @@
+Food: Chicken, breast, boneless, skinless, raw
+Food ID: 2646170
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 22.525 g
+Carbohydrates: 0 g
+Fat: 1.934 g
+
+Fats:
+Saturated fat: 0.3488 g
+Monounsaturated fat: 0.3688 g
+Polyunsaturated fat: 0.2963 g
+Trans fat: 0.00875 g
+Cholesterol: 72.73 mg
+
+Minerals:
+Sodium: 65.75 mg
+Potassium: 330.1 mg
+Calcium: 3.939 mg
+Iron: 0.3543 mg
+Magnesium: 26.2 mg
+Zinc: 0.6545 mg

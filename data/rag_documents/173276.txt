@@ -1,0 +1,33 @@
+Food: Fast foods, sundae, hot fudge
+Food ID: 173276
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 3.57 g
+Carbohydrates: 30.17 g
+Fat: 5.46 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.179 g
+Monounsaturated fat: 1.475 g
+Polyunsaturated fat: 0.511 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 115 mg
+Potassium: 250 mg
+Calcium: 131 mg
+Iron: 0.37 mg
+Magnesium: 21 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 1.5 mg
+Vitamin E: 0.42 mg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.41 µg
+Folate: 6 µg

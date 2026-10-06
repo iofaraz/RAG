@@ -1,0 +1,36 @@
+Food: Stir fried beef and vegetables in soy sauce
+Food ID: 2706751
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 10.73 g
+Carbohydrates: 4.44 g
+Fat: 4.81 g
+Fiber: 1 g
+Sugar: 2.58 g
+
+Fats:
+Saturated fat: 1.84 g
+Monounsaturated fat: 1.927 g
+Polyunsaturated fat: 0.47 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 338 mg
+Potassium: 241 mg
+Calcium: 21 mg
+Iron: 1.24 mg
+Magnesium: 18 mg
+Zinc: 1.66 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.34 mg
+Vitamin K: 18.8 µg
+Vitamin B6: 0.253 mg
+Vitamin B12: 0.62 µg
+Folate: 24 µg

@@ -1,0 +1,22 @@
+Food: Mushroom, beech
+Food ID: 2003603
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.18 g
+Carbohydrates: 6.7593 g
+Fat: 0.4494 g
+Fiber: 3.139 g
+
+Minerals:
+Sodium: 0.8913 mg
+Potassium: 375.9 mg
+Calcium: 0.4325 mg
+Iron: 0.7388 mg
+Magnesium: 10.49 mg
+Zinc: 0.4978 mg
+
+Vitamins:
+Vitamin D: 0.37 µg
+Vitamin B6: 0.1054 mg

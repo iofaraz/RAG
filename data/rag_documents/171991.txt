@@ -1,0 +1,29 @@
+Food: Fish, cusk, cooked, dry heat
+Food ID: 171991
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 24.35 g
+Carbohydrates: 0 g
+Fat: 0.88 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 40 mg
+Potassium: 503 mg
+Calcium: 13 mg
+Iron: 1.06 mg
+Magnesium: 40 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.447 mg
+Vitamin B12: 1.2 µg
+Folate: 2 µg

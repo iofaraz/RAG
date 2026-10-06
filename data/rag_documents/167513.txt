@@ -1,0 +1,26 @@
+Food: Pillsbury, Cinnamon Rolls with Icing, refrigerated dough
+Food ID: 167513
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 330 kcal
+Protein: 4.34 g
+Carbohydrates: 53.42 g
+Fat: 11.27 g
+Fiber: 1.4 g
+Sugar: 21.34 g
+
+Fats:
+Saturated fat: 3.25 g
+Trans fat: 4.29 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 780 mg
+Calcium: 28 mg
+Iron: 1.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg

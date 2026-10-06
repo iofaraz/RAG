@@ -1,0 +1,36 @@
+Food: Rice with Spanish sausage, Puerto Rican style
+Food ID: 2708979
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 289 kcal
+Protein: 8.39 g
+Carbohydrates: 32.39 g
+Fat: 13.58 g
+Fiber: 0.8 g
+Sugar: 0.4 g
+
+Fats:
+Saturated fat: 3.729 g
+Monounsaturated fat: 5.837 g
+Polyunsaturated fat: 3.068 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 943 mg
+Potassium: 189 mg
+Calcium: 28 mg
+Iron: 2.29 mg
+Magnesium: 20 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 3 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.39 mg
+Vitamin K: 7.2 µg
+Vitamin B6: 0.224 mg
+Vitamin B12: 0.31 µg
+Folate: 66 µg

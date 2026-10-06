@@ -1,0 +1,36 @@
+Food: Rice with vienna sausage, Puerto Rican style
+Food ID: 2708978
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 6.46 g
+Carbohydrates: 33.54 g
+Fat: 11.6 g
+Fiber: 0.8 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 3.296 g
+Monounsaturated fat: 5.4 g
+Polyunsaturated fat: 2.171 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 959 mg
+Potassium: 115 mg
+Calcium: 21 mg
+Iron: 1.98 mg
+Magnesium: 15 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.98 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0.24 µg
+Folate: 67 µg

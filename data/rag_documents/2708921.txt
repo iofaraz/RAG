@@ -1,0 +1,36 @@
+Food: Pasta, whole grain, with cream sauce and seafood, restaurant
+Food ID: 2708921
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 197 kcal
+Protein: 5.5 g
+Carbohydrates: 15.28 g
+Fat: 13.2 g
+Fiber: 1.9 g
+Sugar: 0.68 g
+
+Fats:
+Saturated fat: 4.129 g
+Monounsaturated fat: 4.123 g
+Polyunsaturated fat: 3.167 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 573 mg
+Potassium: 90 mg
+Calcium: 39 mg
+Iron: 1.04 mg
+Magnesium: 30 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.61 mg
+Vitamin K: 7.6 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.83 µg
+Folate: 11 µg

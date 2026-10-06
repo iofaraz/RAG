@@ -1,0 +1,36 @@
+Food: Bread, whole wheat, made from home recipe or purchased at bakery, toasted
+Food ID: 2707712
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 293 kcal
+Protein: 11.4 g
+Carbohydrates: 51.61 g
+Fat: 4.68 g
+Fiber: 7.4 g
+Sugar: 3.71 g
+
+Fats:
+Saturated fat: 1.475 g
+Monounsaturated fat: 1.059 g
+Polyunsaturated fat: 1.165 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 667 mg
+Potassium: 300 mg
+Calcium: 56 mg
+Iron: 2.61 mg
+Magnesium: 95 mg
+Zinc: 2.37 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.56 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.191 mg
+Vitamin B12: 0.07 µg
+Folate: 42 µg

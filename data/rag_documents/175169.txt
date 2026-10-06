@@ -1,0 +1,32 @@
+Food: Crustaceans, crayfish, mixed species, farmed, raw
+Food ID: 175169
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 14.85 g
+Carbohydrates: 0 g
+Fat: 0.97 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.163 g
+Monounsaturated fat: 0.178 g
+Polyunsaturated fat: 0.313 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 62 mg
+Potassium: 261 mg
+Calcium: 25 mg
+Iron: 0.55 mg
+Magnesium: 30 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.5 mg
+Vitamin B6: 0.076 mg
+Vitamin B12: 2.1 µg
+Folate: 30 µg

@@ -1,0 +1,36 @@
+Food: Lamb, ground, cooked, broiled
+Food ID: 172544
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 283 kcal
+Protein: 24.75 g
+Carbohydrates: 0 g
+Fat: 19.65 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.12 g
+Monounsaturated fat: 8.32 g
+Polyunsaturated fat: 1.4 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 81 mg
+Potassium: 339 mg
+Calcium: 22 mg
+Iron: 1.79 mg
+Magnesium: 24 mg
+Zinc: 4.67 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.14 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 2.61 µg
+Folate: 19 µg

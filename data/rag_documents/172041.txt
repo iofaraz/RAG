@@ -1,0 +1,34 @@
+Food: PIZZA HUT 12" Cheese Pizza, Pan Crust
+Food ID: 172041
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 280 kcal
+Protein: 11.73 g
+Carbohydrates: 29.93 g
+Fat: 12.56 g
+Fiber: 1.7 g
+Sugar: 3.21 g
+
+Fats:
+Saturated fat: 5.184 g
+Monounsaturated fat: 3.213 g
+Polyunsaturated fat: 2.752 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 624 mg
+Potassium: 168 mg
+Calcium: 208 mg
+Iron: 1.86 mg
+Magnesium: 21 mg
+Zinc: 1.63 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 0 mg
+Vitamin E: 1.06 mg
+Vitamin K: 15.5 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0.64 µg

@@ -1,0 +1,36 @@
+Food: Salad dressing, NFS, for sandwiches
+Food ID: 2710196
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 594 kcal
+Protein: 0.9 g
+Carbohydrates: 3.41 g
+Fat: 64.2 g
+Fiber: 0 g
+Sugar: 2.46 g
+
+Fats:
+Saturated fat: 10.042 g
+Monounsaturated fat: 14.485 g
+Polyunsaturated fat: 38.189 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 639 mg
+Potassium: 23 mg
+Calcium: 7 mg
+Iron: 0.19 mg
+Magnesium: 1 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.93 mg
+Vitamin K: 138.8 µg
+Vitamin B6: 0.008 mg
+Vitamin B12: 0.1 µg
+Folate: 5 µg

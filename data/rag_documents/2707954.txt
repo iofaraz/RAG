@@ -1,0 +1,36 @@
+Food: Cookie, peanut butter with rice cereal, no bake
+Food ID: 2707954
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 417 kcal
+Protein: 3.4 g
+Carbohydrates: 80.5 g
+Fat: 9 g
+Fiber: 0 g
+Sugar: 19.36 g
+
+Fats:
+Saturated fat: 1.4 g
+Monounsaturated fat: 2.5 g
+Polyunsaturated fat: 5.1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 351 mg
+Potassium: 39 mg
+Calcium: 3 mg
+Iron: 2.2 mg
+Magnesium: 13 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 270 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.9 mg
+Vitamin B12: 0 µg
+Folate: 241 µg

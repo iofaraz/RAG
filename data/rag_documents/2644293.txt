@@ -1,0 +1,17 @@
+Food: Blackeye pea, canned, sodium added, drained and rinsed
+Food ID: 2644293
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 6.925 g
+Carbohydrates: 19.1659 g
+Fat: 1.296 g
+
+Minerals:
+Sodium: 226.7 mg
+Potassium: 138.1 mg
+Calcium: 27.78 mg
+Iron: 1.084 mg
+Magnesium: 27.26 mg
+Zinc: 0.655 mg

@@ -1,0 +1,37 @@
+Food: Cake, snack cakes, creme-filled, chocolate with frosting, low-fat, with added fiber
+Food ID: 174082
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 409 kcal
+Protein: 3.71 g
+Carbohydrates: 69.37 g
+Fat: 13 g
+Fiber: 14.9 g
+Sugar: 33.42 g
+
+Fats:
+Saturated fat: 5.57 g
+Monounsaturated fat: 3.517 g
+Polyunsaturated fat: 3.034 g
+Trans fat: 0 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 193 mg
+Calcium: 149 mg
+Iron: 4.01 mg
+Magnesium: 34 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.13 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.18 µg
+Folate: 69 µg

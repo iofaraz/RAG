@@ -1,0 +1,36 @@
+Food: Stewed potatoes, Puerto Rican style
+Food ID: 2709416
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 2.09 g
+Carbohydrates: 18.75 g
+Fat: 3.71 g
+Fiber: 1.8 g
+Sugar: 1.24 g
+
+Fats:
+Saturated fat: 0.82 g
+Monounsaturated fat: 2.228 g
+Polyunsaturated fat: 0.413 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 299 mg
+Potassium: 326 mg
+Calcium: 12 mg
+Iron: 0.38 mg
+Magnesium: 20 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 11.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.269 mg
+Vitamin B12: 0.01 µg
+Folate: 10 µg

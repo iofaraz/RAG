@@ -1,0 +1,36 @@
+Food: Creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie
+Food ID: 167684
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 160 kcal
+Protein: 1.5 g
+Carbohydrates: 7 g
+Fat: 14 g
+Fiber: 0 g
+Sugar: 5.65 g
+
+Fats:
+Saturated fat: 2.115 g
+Monounsaturated fat: 3.273 g
+Polyunsaturated fat: 7.994 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 833 mg
+Potassium: 36 mg
+Calcium: 6 mg
+Iron: 0.13 mg
+Magnesium: 2 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 2.45 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0.07 µg
+Folate: 6 µg

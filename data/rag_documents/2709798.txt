@@ -1,0 +1,36 @@
+Food: Peppers, hot, raw
+Food ID: 2709798
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 1.39 g
+Carbohydrates: 7.66 g
+Fat: 0.4 g
+Fiber: 2.2 g
+Sugar: 4.71 g
+
+Fats:
+Saturated fat: 0.067 g
+Monounsaturated fat: 0.027 g
+Polyunsaturated fat: 0.176 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 285 mg
+Calcium: 13 mg
+Iron: 0.64 mg
+Magnesium: 19 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 131.2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.13 mg
+Vitamin K: 16.2 µg
+Vitamin B6: 0.463 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

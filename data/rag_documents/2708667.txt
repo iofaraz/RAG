@@ -1,0 +1,36 @@
+Food: Pizza with extra meat and extra vegetables, thick crust
+Food ID: 2708667
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 10.97 g
+Carbohydrates: 26.42 g
+Fat: 9.97 g
+Fiber: 1.9 g
+Sugar: 2.94 g
+
+Fats:
+Saturated fat: 3.85 g
+Monounsaturated fat: 2.899 g
+Polyunsaturated fat: 2.339 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 478 mg
+Potassium: 190 mg
+Calcium: 143 mg
+Iron: 2.29 mg
+Magnesium: 21 mg
+Zinc: 1.34 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.74 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 0.096 mg
+Vitamin B12: 0.4 µg
+Folate: 85 µg

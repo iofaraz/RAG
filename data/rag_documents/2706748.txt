@@ -1,0 +1,36 @@
+Food: Beef, ground, with egg and onion
+Food ID: 2706748
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 21.86 g
+Carbohydrates: 1.05 g
+Fat: 14.54 g
+Fiber: 0.1 g
+Sugar: 0.54 g
+
+Fats:
+Saturated fat: 5.503 g
+Monounsaturated fat: 6.417 g
+Polyunsaturated fat: 0.532 g
+Cholesterol: 104 mg
+
+Minerals:
+Sodium: 732 mg
+Potassium: 270 mg
+Calcium: 26 mg
+Iron: 2.12 mg
+Magnesium: 18 mg
+Zinc: 5.12 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.19 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.317 mg
+Vitamin B12: 2.28 µg
+Folate: 13 µg

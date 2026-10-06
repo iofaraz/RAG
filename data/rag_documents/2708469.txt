@@ -1,0 +1,36 @@
+Food: Cereal, bran flakes, flavored
+Food ID: 2708469
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 8.13 g
+Carbohydrates: 78.74 g
+Fat: 1.18 g
+Fiber: 12.4 g
+Sugar: 29.33 g
+
+Fats:
+Saturated fat: 0.113 g
+Monounsaturated fat: 0.059 g
+Polyunsaturated fat: 0.271 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 347 mg
+Potassium: 205 mg
+Calcium: 24 mg
+Iron: 9.85 mg
+Magnesium: 28 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.705 mg
+Vitamin B12: 0.88 µg
+Folate: 133 µg

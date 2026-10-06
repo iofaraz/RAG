@@ -1,0 +1,34 @@
+Food: Cauliflower, green, cooked, with salt
+Food ID: 169391
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 3.04 g
+Carbohydrates: 6.28 g
+Fat: 0.31 g
+Fiber: 3.3 g
+
+Fats:
+Saturated fat: 0.049 g
+Monounsaturated fat: 0.029 g
+Polyunsaturated fat: 0.137 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 259 mg
+Potassium: 278 mg
+Calcium: 32 mg
+Iron: 0.72 mg
+Magnesium: 19 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 72.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 0 µg
+Folate: 41 µg

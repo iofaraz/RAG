@@ -1,0 +1,36 @@
+Food: Stuffed green pepper, Puerto Rican style
+Food ID: 2706633
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 152 kcal
+Protein: 8.89 g
+Carbohydrates: 15.63 g
+Fat: 5.84 g
+Fiber: 1.7 g
+Sugar: 3.48 g
+
+Fats:
+Saturated fat: 2.08 g
+Monounsaturated fat: 2.27 g
+Polyunsaturated fat: 0.534 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 732 mg
+Potassium: 315 mg
+Calcium: 43 mg
+Iron: 1.86 mg
+Magnesium: 23 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 45.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.76 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.227 mg
+Vitamin B12: 0.58 µg
+Folate: 25 µg

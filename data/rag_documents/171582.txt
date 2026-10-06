@@ -1,0 +1,34 @@
+Food: Sauce, pesto, CLASSICO, basil pesto, ready-to-serve
+Food ID: 171582
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 4.16 g
+Carbohydrates: 6.93 g
+Fat: 36.38 g
+Fiber: 2.1 g
+Sugar: 2.6 g
+
+Fats:
+Saturated fat: 6.718 g
+Monounsaturated fat: 10.049 g
+Polyunsaturated fat: 18.425 g
+Trans fat: 0.155 g
+
+Minerals:
+Sodium: 1028 mg
+Potassium: 195 mg
+Calcium: 166 mg
+Iron: 0.71 mg
+Magnesium: 40 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 0 mg
+Vitamin E: 4.61 mg
+Vitamin K: 193.8 µg
+Vitamin B6: 0.267 mg
+Folate: 29 µg

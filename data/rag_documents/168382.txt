@@ -1,0 +1,27 @@
+Food: Bacon, pre-sliced, reduced/low sodium, unprepared
+Food ID: 168382
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 407 kcal
+Protein: 12.53 g
+Carbohydrates: 0.83 g
+Fat: 39.27 g
+Fiber: 0 g
+Sugar: 0.83 g
+
+Minerals:
+Sodium: 470 mg
+Potassium: 506 mg
+Calcium: 4 mg
+Iron: 0.42 mg
+Magnesium: 12 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.43 mg
+Vitamin K: 0 µg
+Vitamin B12: 0.5 µg

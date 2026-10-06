@@ -1,0 +1,35 @@
+Food: APPLEBEE'S, Double Crunch Shrimp
+Food ID: 169008
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 12.31 g
+Carbohydrates: 25.96 g
+Fat: 18.9 g
+Fiber: 2.6 g
+Sugar: 1.07 g
+
+Fats:
+Saturated fat: 3.366 g
+Monounsaturated fat: 4.235 g
+Polyunsaturated fat: 9.682 g
+Trans fat: 0.147 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 838 mg
+Potassium: 97 mg
+Calcium: 45 mg
+Iron: 1.03 mg
+Magnesium: 23 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin E: 1.97 mg
+Vitamin K: 29.1 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.43 µg
+Folate: 14 µg

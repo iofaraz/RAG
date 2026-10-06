@@ -1,0 +1,32 @@
+Food: Mollusks, clam, mixed species, cooked, moist heat
+Food ID: 171975
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 25.55 g
+Carbohydrates: 5.13 g
+Fat: 1.95 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.188 g
+Monounsaturated fat: 0.172 g
+Polyunsaturated fat: 0.552 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 1202 mg
+Potassium: 628 mg
+Calcium: 92 mg
+Iron: 2.81 mg
+Magnesium: 18 mg
+Zinc: 2.73 mg
+
+Vitamins:
+Vitamin A: 171 µg
+Vitamin C: 22.1 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 98.89 µg
+Folate: 29 µg

@@ -1,0 +1,36 @@
+Food: Sweet and sour pork with rice
+Food ID: 2706655
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 9.81 g
+Carbohydrates: 16.46 g
+Fat: 8.83 g
+Fiber: 0.6 g
+Sugar: 7.24 g
+
+Fats:
+Saturated fat: 2.389 g
+Monounsaturated fat: 3.834 g
+Polyunsaturated fat: 2.047 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 261 mg
+Potassium: 194 mg
+Calcium: 24 mg
+Iron: 1.19 mg
+Magnesium: 16 mg
+Zinc: 1.8 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 11.7 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.81 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 0.31 µg
+Folate: 19 µg

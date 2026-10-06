@@ -1,0 +1,36 @@
+Food: Cake, yellow, commercially prepared, with vanilla frosting
+Food ID: 174945
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 391 kcal
+Protein: 2.99 g
+Carbohydrates: 56.2 g
+Fat: 17.91 g
+Fiber: 0.3 g
+Sugar: 41.79 g
+
+Fats:
+Saturated fat: 2.936 g
+Monounsaturated fat: 7.563 g
+Polyunsaturated fat: 6.378 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 269 mg
+Potassium: 53 mg
+Calcium: 62 mg
+Iron: 1.07 mg
+Magnesium: 6 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.19 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.15 µg
+Folate: 27 µg

@@ -1,0 +1,36 @@
+Food: Shrimp shish kabob with vegetables, excluding potatoes
+Food ID: 2706855
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 11.23 g
+Carbohydrates: 5.74 g
+Fat: 1.59 g
+Fiber: 0.8 g
+Sugar: 2.37 g
+
+Fats:
+Saturated fat: 0.352 g
+Monounsaturated fat: 0.471 g
+Polyunsaturated fat: 0.591 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 201 mg
+Calcium: 52 mg
+Iron: 0.32 mg
+Magnesium: 24 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 15 mg
+Vitamin D: 0 µg
+Vitamin E: 1.25 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.199 mg
+Vitamin B12: 0.75 µg
+Folate: 23 µg

@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, powder, not reconstituted
+Food ID: 173561
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 522 kcal
+Protein: 10.89 g
+Carbohydrates: 54.73 g
+Fat: 28.87 g
+Fiber: 0 g
+Sugar: 54.73 g
+
+Fats:
+Saturated fat: 9.873 g
+Monounsaturated fat: 10.491 g
+Polyunsaturated fat: 6.396 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 126 mg
+Potassium: 552 mg
+Calcium: 410 mg
+Iron: 9.47 mg
+Magnesium: 32 mg
+Zinc: 3.94 mg
+
+Vitamins:
+Vitamin A: 473 µg
+Vitamin C: 47.3 mg
+Vitamin D: 7.9 µg
+Vitamin E: 5.29 mg
+Vitamin K: 42.1 µg
+Vitamin B6: 0.316 mg
+Vitamin B12: 1.32 µg
+Folate: 79 µg

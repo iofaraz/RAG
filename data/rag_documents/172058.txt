@@ -1,0 +1,37 @@
+Food: Fast foods, griddle cake sandwich, egg, cheese, and bacon
+Food ID: 172058
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 12.03 g
+Carbohydrates: 26.19 g
+Fat: 13.19 g
+Fiber: 0.8 g
+Sugar: 9.56 g
+
+Fats:
+Saturated fat: 4.121 g
+Monounsaturated fat: 4.635 g
+Polyunsaturated fat: 1.331 g
+Trans fat: 0.903 g
+Cholesterol: 147 mg
+
+Minerals:
+Sodium: 718 mg
+Potassium: 158 mg
+Calcium: 109 mg
+Iron: 1.65 mg
+Magnesium: 21 mg
+Zinc: 1.37 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.53 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.4 µg
+Folate: 61 µg

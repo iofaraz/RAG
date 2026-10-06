@@ -1,0 +1,13 @@
+Food: Walrus, meat and subcutaneous fat raw (Alaska Native)
+Food ID: 168030
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 16.3 g
+Carbohydrates: 0 g
+Fat: 24.1 g
+
+Minerals:
+Iron: 9.4 mg

@@ -1,0 +1,36 @@
+Food: Babyfood, dessert, peach yogurt
+Food ID: 168133
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 0.9 g
+Carbohydrates: 17.6 g
+Fat: 0.18 g
+Fiber: 0.4 g
+Sugar: 11.11 g
+
+Fats:
+Saturated fat: 0.117 g
+Monounsaturated fat: 0.048 g
+Polyunsaturated fat: 0.005 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 102 mg
+Calcium: 27 mg
+Iron: 0.4 mg
+Magnesium: 13 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 11.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.43 µg
+Folate: 8 µg

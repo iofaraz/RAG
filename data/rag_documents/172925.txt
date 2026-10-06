@@ -1,0 +1,36 @@
+Food: Soup, chicken noodle, dry, mix, prepared with water
+Food ID: 172925
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 0.84 g
+Carbohydrates: 3.67 g
+Fat: 0.55 g
+Fiber: 0.1 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 0.122 g
+Monounsaturated fat: 0.205 g
+Polyunsaturated fat: 0.155 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 229 mg
+Potassium: 13 mg
+Calcium: 2 mg
+Iron: 0.2 mg
+Magnesium: 3 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.02 µg
+Folate: 7 µg

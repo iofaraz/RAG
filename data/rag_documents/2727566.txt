@@ -1,0 +1,20 @@
+Food: Chicken, drumstick, meat and skin, raw
+Food ID: 2727566
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 18.3562 g
+Carbohydrates: 0 g
+Fat: 5.94 g
+
+Fats:
+Cholesterol: 94.55 mg
+
+Minerals:
+Sodium: 90.98 mg
+Potassium: 244.1 mg
+Calcium: 8.285 mg
+Iron: 0.6658 mg
+Magnesium: 18.55 mg
+Zinc: 1.7 mg

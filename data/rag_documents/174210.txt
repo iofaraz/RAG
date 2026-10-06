@@ -1,0 +1,37 @@
+Food: Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)
+Food ID: 174210
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 13.61 g
+Carbohydrates: 0.91 g
+Fat: 1.01 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.261 g
+Monounsaturated fat: 0.181 g
+Polyunsaturated fat: 0.295 g
+Trans fat: 0.018 g
+Cholesterol: 126 mg
+
+Minerals:
+Sodium: 566 mg
+Potassium: 113 mg
+Calcium: 54 mg
+Iron: 0.21 mg
+Magnesium: 22 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.32 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.161 mg
+Vitamin B12: 1.11 µg
+Folate: 19 µg

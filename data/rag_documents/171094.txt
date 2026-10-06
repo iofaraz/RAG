@@ -1,0 +1,36 @@
+Food: Turkey, all classes, wing, meat and skin, cooked, roasted
+Food ID: 171094
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 229 kcal
+Protein: 27.38 g
+Carbohydrates: 0 g
+Fat: 12.43 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.39 g
+Monounsaturated fat: 4.66 g
+Polyunsaturated fat: 2.94 g
+Cholesterol: 81 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 266 mg
+Calcium: 24 mg
+Iron: 1.46 mg
+Magnesium: 25 mg
+Zinc: 2.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.42 mg
+Vitamin B12: 0.34 µg
+Folate: 6 µg

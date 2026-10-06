@@ -1,0 +1,36 @@
+Food: Multiple meat sandwich on wheat, with cheese
+Food ID: 2707085
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 210 kcal
+Protein: 14.54 g
+Carbohydrates: 18.17 g
+Fat: 8.67 g
+Fiber: 2 g
+Sugar: 2.59 g
+
+Fats:
+Saturated fat: 3.425 g
+Monounsaturated fat: 2.496 g
+Polyunsaturated fat: 1.382 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 743 mg
+Potassium: 305 mg
+Calcium: 188 mg
+Iron: 1.65 mg
+Magnesium: 34 mg
+Zinc: 1.66 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.38 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 0.53 µg
+Folate: 30 µg

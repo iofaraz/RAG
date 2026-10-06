@@ -1,0 +1,36 @@
+Food: Steak sandwich or sub on wheat
+Food ID: 2706959
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 247 kcal
+Protein: 18.93 g
+Carbohydrates: 23.49 g
+Fat: 8.27 g
+Fiber: 2.8 g
+Sugar: 2.69 g
+
+Fats:
+Saturated fat: 2.925 g
+Monounsaturated fat: 3.151 g
+Polyunsaturated fat: 1.107 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 406 mg
+Potassium: 252 mg
+Calcium: 91 mg
+Iron: 2.91 mg
+Magnesium: 39 mg
+Zinc: 3.15 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.399 mg
+Vitamin B12: 0.99 µg
+Folate: 40 µg

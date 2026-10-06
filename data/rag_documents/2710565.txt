@@ -1,0 +1,36 @@
+Food: Fruit juice drink, citrus, carbonated
+Food ID: 2710565
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 0.46 g
+Carbohydrates: 7.16 g
+Fat: 0.24 g
+Fiber: 0.2 g
+Sugar: 5.99 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.044 g
+Polyunsaturated fat: 0.077 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 118 mg
+Calcium: 10 mg
+Iron: 0.06 mg
+Magnesium: 7 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 22.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

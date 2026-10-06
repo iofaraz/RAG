@@ -1,0 +1,28 @@
+Food: Oil, coconut
+Food ID: 330458
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 833 kcal
+Protein: 0 g
+Carbohydrates: 0.84 g
+Fat: 99.1 g
+
+Fats:
+Saturated fat: 82.5 g
+Monounsaturated fat: 6.31 g
+Polyunsaturated fat: 1.7 g
+Trans fat: 0.028 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 1 mg
+Iron: 0.05 mg
+Magnesium: 0 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin E: 0.11 mg
+Vitamin K: 0.6 µg

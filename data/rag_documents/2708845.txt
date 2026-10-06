@@ -1,0 +1,36 @@
+Food: Pasta with tomato-based sauce and poultry, ready-to-heat
+Food ID: 2708845
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 5.91 g
+Carbohydrates: 18.74 g
+Fat: 3.52 g
+Fiber: 1.6 g
+Sugar: 2.39 g
+
+Fats:
+Saturated fat: 0.565 g
+Monounsaturated fat: 1.207 g
+Polyunsaturated fat: 1.229 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 334 mg
+Potassium: 170 mg
+Calcium: 16 mg
+Iron: 1.04 mg
+Magnesium: 18 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.32 mg
+Vitamin K: 7.1 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0.1 µg
+Folate: 43 µg

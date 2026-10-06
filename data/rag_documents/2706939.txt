@@ -1,0 +1,36 @@
+Food: Double hamburger, on wheat bun, 2 medium patties
+Food ID: 2706939
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 286 kcal
+Protein: 19.93 g
+Carbohydrates: 11.8 g
+Fat: 17.11 g
+Fiber: 1.4 g
+Sugar: 1.35 g
+
+Fats:
+Saturated fat: 6.67 g
+Monounsaturated fat: 7.059 g
+Polyunsaturated fat: 0.89 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 322 mg
+Potassium: 274 mg
+Calcium: 50 mg
+Iron: 2.6 mg
+Magnesium: 29 mg
+Zinc: 3.92 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.362 mg
+Vitamin B12: 1.95 µg
+Folate: 34 µg

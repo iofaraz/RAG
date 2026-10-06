@@ -1,0 +1,36 @@
+Food: Yellow rice, cooked, fat added
+Food ID: 2708421
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 1.76 g
+Carbohydrates: 18.7 g
+Fat: 2.43 g
+Fiber: 0.4 g
+Sugar: 0.44 g
+
+Fats:
+Saturated fat: 0.375 g
+Monounsaturated fat: 1.068 g
+Polyunsaturated fat: 0.809 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 351 mg
+Potassium: 191 mg
+Calcium: 11 mg
+Iron: 0.6 mg
+Magnesium: 29 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.28 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.138 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

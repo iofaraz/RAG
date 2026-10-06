@@ -1,0 +1,36 @@
+Food: Rice, brown, with gravy, NS as to fat
+Food ID: 2709104
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 2.11 g
+Carbohydrates: 19.28 g
+Fat: 3.08 g
+Fiber: 1.1 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 0.585 g
+Monounsaturated fat: 1.254 g
+Polyunsaturated fat: 1.009 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 252 mg
+Potassium: 72 mg
+Calcium: 5 mg
+Iron: 0.42 mg
+Magnesium: 28 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

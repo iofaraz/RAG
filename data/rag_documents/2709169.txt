@@ -1,0 +1,36 @@
+Food: Lemon pie filling
+Food ID: 2709169
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 354 kcal
+Protein: 4.71 g
+Carbohydrates: 68.92 g
+Fat: 6.93 g
+Fiber: 0.4 g
+Sugar: 62.16 g
+
+Fats:
+Saturated fat: 1.666 g
+Monounsaturated fat: 2.816 g
+Polyunsaturated fat: 1.653 g
+Cholesterol: 127 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 75 mg
+Calcium: 21 mg
+Iron: 0.98 mg
+Magnesium: 7 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 91 µg
+Vitamin C: 9.4 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.75 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0.26 µg
+Folate: 27 µg

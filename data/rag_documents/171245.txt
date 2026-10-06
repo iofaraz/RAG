@@ -1,0 +1,36 @@
+Food: Cheese, muenster
+Food ID: 171245
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 23.41 g
+Carbohydrates: 1.12 g
+Fat: 30.04 g
+Fiber: 0 g
+Sugar: 1.12 g
+
+Fats:
+Saturated fat: 19.113 g
+Monounsaturated fat: 8.711 g
+Polyunsaturated fat: 0.661 g
+Cholesterol: 96 mg
+
+Minerals:
+Sodium: 628 mg
+Potassium: 134 mg
+Calcium: 717 mg
+Iron: 0.41 mg
+Magnesium: 27 mg
+Zinc: 2.81 mg
+
+Vitamins:
+Vitamin A: 298 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.26 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 1.47 µg
+Folate: 12 µg

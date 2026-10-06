@@ -1,0 +1,36 @@
+Food: Cereal, bran flakes, plain
+Food ID: 2708456
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 361 kcal
+Protein: 9.65 g
+Carbohydrates: 75.03 g
+Fat: 2.42 g
+Fiber: 20.5 g
+Sugar: 15.27 g
+
+Fats:
+Saturated fat: 0.191 g
+Monounsaturated fat: 0.699 g
+Polyunsaturated fat: 0.587 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 585 mg
+Potassium: 121 mg
+Calcium: 19 mg
+Iron: 28.1 mg
+Magnesium: 29 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 23.1 mg
+Vitamin D: 5 µg
+Vitamin E: 0.22 mg
+Vitamin K: 1 µg
+Vitamin B6: 1.35 mg
+Vitamin B12: 1.81 µg
+Folate: 320 µg

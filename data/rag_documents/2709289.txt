@@ -1,0 +1,36 @@
+Food: Fruit cocktail, canned, NFS
+Food ID: 2709289
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 0.41 g
+Carbohydrates: 14.1 g
+Fat: 0.08 g
+Fiber: 0.9 g
+Sugar: 13.08 g
+
+Fats:
+Saturated fat: 0.009 g
+Monounsaturated fat: 0.009 g
+Polyunsaturated fat: 0.024 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 112 mg
+Calcium: 6 mg
+Iron: 0.28 mg
+Magnesium: 7 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

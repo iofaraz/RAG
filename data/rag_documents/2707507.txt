@@ -1,0 +1,36 @@
+Food: Mixed nuts, with peanuts, lightly salted
+Food ID: 2707507
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 612 kcal
+Protein: 19.67 g
+Carbohydrates: 20.99 g
+Fat: 54.04 g
+Fiber: 7.4 g
+Sugar: 4.55 g
+
+Fats:
+Saturated fat: 7.622 g
+Monounsaturated fat: 28.424 g
+Polyunsaturated fat: 13.609 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 160 mg
+Potassium: 603 mg
+Calcium: 93 mg
+Iron: 2.77 mg
+Magnesium: 197 mg
+Zinc: 3.2 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 7.79 mg
+Vitamin K: 10.8 µg
+Vitamin B6: 0.373 mg
+Vitamin B12: 0 µg
+Folate: 76 µg

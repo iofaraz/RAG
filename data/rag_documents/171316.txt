@@ -1,0 +1,33 @@
+Food: Spices, anise seed
+Food ID: 171316
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 337 kcal
+Protein: 17.6 g
+Carbohydrates: 50.02 g
+Fat: 15.9 g
+Fiber: 14.6 g
+
+Fats:
+Saturated fat: 0.586 g
+Monounsaturated fat: 9.78 g
+Polyunsaturated fat: 3.15 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 1441 mg
+Calcium: 646 mg
+Iron: 36.96 mg
+Magnesium: 170 mg
+Zinc: 5.3 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.65 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

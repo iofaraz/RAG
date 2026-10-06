@@ -1,0 +1,32 @@
+Food: Nuts, coconut milk, frozen (liquid expressed from grated meat and water)
+Food ID: 169409
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 1.61 g
+Carbohydrates: 5.58 g
+Fat: 20.8 g
+
+Fats:
+Saturated fat: 18.445 g
+Monounsaturated fat: 0.885 g
+Polyunsaturated fat: 0.228 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 232 mg
+Calcium: 4 mg
+Iron: 0.81 mg
+Magnesium: 32 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

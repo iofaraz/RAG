@@ -1,0 +1,32 @@
+Food: Chicken, stewing, giblets, raw
+Food ID: 173641
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 168 kcal
+Protein: 17.89 g
+Carbohydrates: 2.13 g
+Fat: 9.21 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.63 g
+Monounsaturated fat: 2.75 g
+Polyunsaturated fat: 2.1 g
+Cholesterol: 240 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 226 mg
+Calcium: 10 mg
+Iron: 5.93 mg
+Magnesium: 18 mg
+Zinc: 3.01 mg
+
+Vitamins:
+Vitamin A: 3152 µg
+Vitamin C: 11.4 mg
+Vitamin B6: 0.52 mg
+Vitamin B12: 10.83 µg
+Folate: 350 µg

@@ -1,0 +1,28 @@
+Food: Beef, Australian, imported, grass-fed, round, bottom round steak/roast, boneless, separable lean only, raw
+Food ID: 173971
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 130 kcal
+Protein: 21.4 g
+Carbohydrates: 0 g
+Fat: 4.93 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.959 g
+Monounsaturated fat: 2.129 g
+Polyunsaturated fat: 0.349 g
+Trans fat: 0.179 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 71 mg
+Calcium: 4 mg
+Iron: 2.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

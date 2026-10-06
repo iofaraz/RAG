@@ -1,0 +1,36 @@
+Food: Seafood souffle
+Food ID: 2706569
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 9.94 g
+Carbohydrates: 5.56 g
+Fat: 9.98 g
+Fiber: 0.1 g
+Sugar: 2.21 g
+
+Fats:
+Saturated fat: 4.833 g
+Monounsaturated fat: 2.449 g
+Polyunsaturated fat: 0.815 g
+Cholesterol: 161 mg
+
+Minerals:
+Sodium: 425 mg
+Potassium: 149 mg
+Calcium: 89 mg
+Iron: 1.01 mg
+Magnesium: 16 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 130 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1.3 µg
+Vitamin E: 0.56 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.88 µg
+Folate: 25 µg

@@ -1,0 +1,31 @@
+Food: Mollusks, oyster, eastern, cooked, breaded and fried
+Food ID: 171979
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 199 kcal
+Protein: 8.77 g
+Carbohydrates: 11.62 g
+Fat: 12.58 g
+
+Fats:
+Saturated fat: 3.197 g
+Monounsaturated fat: 4.702 g
+Polyunsaturated fat: 3.313 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 417 mg
+Potassium: 244 mg
+Calcium: 62 mg
+Iron: 6.95 mg
+Magnesium: 58 mg
+Zinc: 87.13 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 3.8 mg
+Vitamin B6: 0.064 mg
+Vitamin B12: 15.63 µg
+Folate: 31 µg

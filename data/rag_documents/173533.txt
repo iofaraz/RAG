@@ -1,0 +1,23 @@
+Food: Babyfood, cereal, high protein, with apple and orange, prepared with whole milk
+Food ID: 173533
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 6.9 g
+Carbohydrates: 13.4 g
+Fat: 3.9 g
+
+Minerals:
+Sodium: 58 mg
+Potassium: 346 mg
+Calcium: 223 mg
+Iron: 14.42 mg
+Magnesium: 37 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.35 µg
+Folate: 28 µg

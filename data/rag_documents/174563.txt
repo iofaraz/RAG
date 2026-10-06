@@ -1,0 +1,32 @@
+Food: Soup, turkey vegetable, canned, prepared with equal volume water
+Food ID: 174563
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 30 kcal
+Protein: 1.28 g
+Carbohydrates: 3.58 g
+Fat: 1.26 g
+Fiber: 0.2 g
+
+Fats:
+Saturated fat: 0.37 g
+Monounsaturated fat: 0.55 g
+Polyunsaturated fat: 0.28 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 376 mg
+Potassium: 73 mg
+Calcium: 7 mg
+Iron: 0.32 mg
+Magnesium: 2 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.07 µg
+Folate: 2 µg

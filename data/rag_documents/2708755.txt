@@ -1,0 +1,36 @@
+Food: Lasagna with meat and spinach
+Food ID: 2708755
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 13.33 g
+Carbohydrates: 13.76 g
+Fat: 10.79 g
+Fiber: 1.1 g
+Sugar: 2.16 g
+
+Fats:
+Saturated fat: 5.438 g
+Monounsaturated fat: 2.917 g
+Polyunsaturated fat: 0.748 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 412 mg
+Potassium: 209 mg
+Calcium: 262 mg
+Iron: 0.96 mg
+Magnesium: 26 mg
+Zinc: 2.06 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.94 mg
+Vitamin K: 19.6 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 0.6 µg
+Folate: 29 µg

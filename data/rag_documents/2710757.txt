@@ -1,0 +1,36 @@
+Food: Energy drink, low calorie (Monster)
+Food ID: 2710757
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 5 kcal
+Protein: 0 g
+Carbohydrates: 1.38 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 0 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.833 mg
+Vitamin B12: 2.5 µg
+Folate: 0 µg

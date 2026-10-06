@@ -1,0 +1,33 @@
+Food: DOMINO'S 14" EXTRAVAGANZZA FEAST Pizza, Classic Hand-Tossed Crust
+Food ID: 172046
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 10.33 g
+Carbohydrates: 25.72 g
+Fat: 11.1 g
+Fiber: 2 g
+Sugar: 3.3 g
+
+Fats:
+Saturated fat: 4.386 g
+Monounsaturated fat: 3.627 g
+Polyunsaturated fat: 1.425 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 456 mg
+Potassium: 174 mg
+Calcium: 113 mg
+Iron: 2.32 mg
+Magnesium: 22 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0 mg
+Vitamin E: 0.8 mg
+Vitamin K: 5.2 µg
+Vitamin B12: 0.55 µg

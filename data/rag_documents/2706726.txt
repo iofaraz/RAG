@@ -1,0 +1,36 @@
+Food: Gumbo with rice
+Food ID: 2706726
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 8.16 g
+Carbohydrates: 6.55 g
+Fat: 3.43 g
+Fiber: 0.9 g
+Sugar: 1.7 g
+
+Fats:
+Saturated fat: 0.764 g
+Monounsaturated fat: 1.373 g
+Polyunsaturated fat: 0.793 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 176 mg
+Calcium: 26 mg
+Iron: 0.64 mg
+Magnesium: 15 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.59 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.161 mg
+Vitamin B12: 0.16 µg
+Folate: 19 µg

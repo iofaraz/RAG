@@ -1,0 +1,36 @@
+Food: Cake, cherry fudge with chocolate frosting
+Food ID: 174933
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 2.4 g
+Carbohydrates: 38 g
+Fat: 12.5 g
+Fiber: 0.5 g
+Sugar: 32.94 g
+
+Fats:
+Saturated fat: 5.066 g
+Monounsaturated fat: 4.4 g
+Polyunsaturated fat: 2.34 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 164 mg
+Potassium: 166 mg
+Calcium: 48 mg
+Iron: 1.1 mg
+Magnesium: 19 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 80 µg
+Vitamin C: 13.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.75 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.21 µg
+Folate: 10 µg

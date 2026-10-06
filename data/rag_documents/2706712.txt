@@ -1,0 +1,36 @@
+Food: Shrimp chow mein or chop suey with noodles
+Food ID: 2706712
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 9.05 g
+Carbohydrates: 11.37 g
+Fat: 4.03 g
+Fiber: 1.5 g
+Sugar: 1.51 g
+
+Fats:
+Saturated fat: 1.134 g
+Monounsaturated fat: 1.414 g
+Polyunsaturated fat: 1.137 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 142 mg
+Calcium: 42 mg
+Iron: 1.11 mg
+Magnesium: 19 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 4.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.06 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.129 mg
+Vitamin B12: 0.51 µg
+Folate: 45 µg

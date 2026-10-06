@@ -1,0 +1,33 @@
+Food: Lamb, leg, shank half, separable lean only, trimmed to 1/4" fat, choice, raw
+Food ID: 172486
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 20.52 g
+Carbohydrates: 0 g
+Fat: 4.19 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.5 g
+Monounsaturated fat: 1.69 g
+Polyunsaturated fat: 0.38 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 290 mg
+Calcium: 6 mg
+Iron: 1.82 mg
+Magnesium: 27 mg
+Zinc: 3.89 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.2 mg
+Vitamin B6: 0.17 mg
+Vitamin B12: 2.64 µg
+Folate: 23 µg

@@ -1,0 +1,36 @@
+Food: Leavening agents, yeast, baker's, compressed
+Food ID: 175042
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 8.4 g
+Carbohydrates: 18.1 g
+Fat: 1.9 g
+Fiber: 8.1 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.243 g
+Monounsaturated fat: 1.047 g
+Polyunsaturated fat: 0.004 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 601 mg
+Calcium: 19 mg
+Iron: 3.25 mg
+Magnesium: 40 mg
+Zinc: 9.97 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.43 mg
+Vitamin B12: 0.01 µg
+Folate: 785 µg

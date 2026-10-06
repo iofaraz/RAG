@@ -1,0 +1,36 @@
+Food: Rice, white, with gravy, no added fat
+Food ID: 2709096
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 2.02 g
+Carbohydrates: 20.4 g
+Fat: 1.06 g
+Fiber: 0.3 g
+Sugar: 0.13 g
+
+Fats:
+Saturated fat: 0.265 g
+Monounsaturated fat: 0.402 g
+Polyunsaturated fat: 0.186 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 293 mg
+Potassium: 37 mg
+Calcium: 10 mg
+Iron: 0.82 mg
+Magnesium: 9 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 39 µg

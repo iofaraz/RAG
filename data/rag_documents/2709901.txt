@@ -1,0 +1,36 @@
+Food: Cauliflower, frozen, cooked, fat added, NS as to fat type
+Food ID: 2709901
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 1.57 g
+Carbohydrates: 3.64 g
+Fat: 2.76 g
+Fiber: 2.6 g
+Sugar: 1.02 g
+
+Fats:
+Saturated fat: 0.699 g
+Monounsaturated fat: 0.918 g
+Polyunsaturated fat: 0.832 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 138 mg
+Potassium: 135 mg
+Calcium: 17 mg
+Iron: 0.4 mg
+Magnesium: 9 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 30.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.44 mg
+Vitamin K: 13.6 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0 µg
+Folate: 40 µg

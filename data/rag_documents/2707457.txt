@@ -1,0 +1,36 @@
+Food: Soup, bean, with meat
+Food ID: 2707457
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 5.88 g
+Carbohydrates: 10 g
+Fat: 2.35 g
+Fiber: 3.5 g
+Sugar: 0.92 g
+
+Fats:
+Saturated fat: 0.756 g
+Monounsaturated fat: 0.957 g
+Polyunsaturated fat: 0.336 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 248 mg
+Potassium: 199 mg
+Calcium: 19 mg
+Iron: 1.01 mg
+Magnesium: 29 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.25 µg
+Folate: 58 µg

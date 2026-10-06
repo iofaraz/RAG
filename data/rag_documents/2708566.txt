@@ -1,0 +1,36 @@
+Food: Enchilada, beef
+Food ID: 2708566
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 191 kcal
+Protein: 9.76 g
+Carbohydrates: 14.64 g
+Fat: 10.54 g
+Fiber: 2.3 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 3.931 g
+Monounsaturated fat: 3.47 g
+Polyunsaturated fat: 1.75 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 458 mg
+Potassium: 192 mg
+Calcium: 118 mg
+Iron: 1.14 mg
+Magnesium: 32 mg
+Zinc: 1.94 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.82 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.163 mg
+Vitamin B12: 0.57 µg
+Folate: 11 µg

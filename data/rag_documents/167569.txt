@@ -1,0 +1,37 @@
+Food: Candies, confectioner's coating, yogurt
+Food ID: 167569
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 522 kcal
+Protein: 5.87 g
+Carbohydrates: 63.94 g
+Fat: 27 g
+Fiber: 0 g
+Sugar: 62.36 g
+
+Fats:
+Saturated fat: 24.104 g
+Monounsaturated fat: 0.526 g
+Polyunsaturated fat: 0.524 g
+Trans fat: 0 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 88 mg
+Potassium: 290 mg
+Calcium: 205 mg
+Iron: 0.14 mg
+Magnesium: 18 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.11 mg
+Vitamin K: 9.4 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.65 µg
+Folate: 8 µg

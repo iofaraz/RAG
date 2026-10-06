@@ -1,0 +1,36 @@
+Food: Lettuce, arugula, raw
+Food ID: 2709791
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 25 kcal
+Protein: 2.58 g
+Carbohydrates: 3.65 g
+Fat: 0.66 g
+Fiber: 1.6 g
+Sugar: 2.05 g
+
+Fats:
+Saturated fat: 0.086 g
+Monounsaturated fat: 0.049 g
+Polyunsaturated fat: 0.319 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 369 mg
+Calcium: 160 mg
+Iron: 1.46 mg
+Magnesium: 47 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 119 µg
+Vitamin C: 15 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin K: 108.6 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0 µg
+Folate: 97 µg

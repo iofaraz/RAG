@@ -1,0 +1,37 @@
+Food: Beverages, fruit juice drink, greater than 3% fruit juice, high vitamin C and added thiamin
+Food ID: 171945
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 0.13 g
+Carbohydrates: 13.16 g
+Fat: 0 g
+Fiber: 0.1 g
+Sugar: 12.11 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 122 mg
+Calcium: 3 mg
+Iron: 0.25 mg
+Magnesium: 5 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 25.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

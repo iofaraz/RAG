@@ -1,0 +1,36 @@
+Food: Beef, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; soy-based sauce
+Food ID: 2706609
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 10.4 g
+Carbohydrates: 7.44 g
+Fat: 7.64 g
+Fiber: 1 g
+Sugar: 1.36 g
+
+Fats:
+Saturated fat: 1.682 g
+Monounsaturated fat: 3.195 g
+Polyunsaturated fat: 2.021 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 206 mg
+Potassium: 198 mg
+Calcium: 18 mg
+Iron: 1.1 mg
+Magnesium: 15 mg
+Zinc: 1.72 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 11.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.18 mg
+Vitamin K: 23.7 µg
+Vitamin B6: 0.2 mg
+Vitamin B12: 0.51 µg
+Folate: 14 µg

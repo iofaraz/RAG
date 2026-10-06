@@ -1,0 +1,36 @@
+Food: Baby Toddler wheels
+Food ID: 2708194
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 413 kcal
+Protein: 10 g
+Carbohydrates: 78.89 g
+Fat: 6.41 g
+Fiber: 0 g
+Sugar: 10 g
+
+Fats:
+Saturated fat: 1.124 g
+Monounsaturated fat: 3.116 g
+Polyunsaturated fat: 1.744 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 446 mg
+Calcium: 57 mg
+Iron: 1.28 mg
+Magnesium: 51 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.85 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.508 mg
+Vitamin B12: 0.02 µg
+Folate: 15 µg

@@ -1,0 +1,36 @@
+Food: Egg custards, dry mix, prepared with whole milk
+Food ID: 168773
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 3.99 g
+Carbohydrates: 17.6 g
+Fat: 4 g
+Fiber: 0 g
+Sugar: 4.82 g
+
+Fats:
+Saturated fat: 2.032 g
+Monounsaturated fat: 1.127 g
+Polyunsaturated fat: 0.312 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 84 mg
+Potassium: 207 mg
+Calcium: 139 mg
+Iron: 0.34 mg
+Magnesium: 16 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.52 µg
+Folate: 9 µg

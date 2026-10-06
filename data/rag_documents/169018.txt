@@ -1,0 +1,34 @@
+Food: APPLEBEE'S, chili
+Food ID: 169018
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 12.56 g
+Carbohydrates: 4.57 g
+Fat: 9.79 g
+Fiber: 1.4 g
+Sugar: 2.27 g
+
+Fats:
+Saturated fat: 4.15 g
+Monounsaturated fat: 4.809 g
+Polyunsaturated fat: 0.644 g
+Trans fat: 0.576 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 381 mg
+Potassium: 320 mg
+Calcium: 34 mg
+Iron: 1.46 mg
+Magnesium: 18 mg
+Zinc: 2.23 mg
+
+Vitamins:
+Vitamin A: 149 µg
+Vitamin C: 1.1 mg
+Vitamin E: 1.15 mg
+Vitamin B6: 0.321 mg
+Vitamin B12: 1.26 µg

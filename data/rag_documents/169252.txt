@@ -1,0 +1,37 @@
+Food: Mushrooms, white, cooked, boiled, drained, without salt
+Food ID: 169252
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 28 kcal
+Protein: 2.17 g
+Carbohydrates: 5.29 g
+Fat: 0.47 g
+Fiber: 2.2 g
+Sugar: 2.34 g
+
+Fats:
+Saturated fat: 0.061 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.183 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 356 mg
+Calcium: 6 mg
+Iron: 1.74 mg
+Magnesium: 12 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

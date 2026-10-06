@@ -1,0 +1,32 @@
+Food: Seeds, watermelon seed kernels, dried
+Food ID: 169407
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 557 kcal
+Protein: 28.33 g
+Carbohydrates: 15.31 g
+Fat: 47.37 g
+
+Fats:
+Saturated fat: 9.779 g
+Monounsaturated fat: 7.407 g
+Polyunsaturated fat: 28.094 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 99 mg
+Potassium: 648 mg
+Calcium: 54 mg
+Iron: 7.28 mg
+Magnesium: 515 mg
+Zinc: 10.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.089 mg
+Vitamin B12: 0 µg
+Folate: 58 µg

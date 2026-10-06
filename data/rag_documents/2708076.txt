@@ -1,0 +1,36 @@
+Food: Doughnut, custard-filled, with icing
+Food ID: 2708076
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 4.52 g
+Carbohydrates: 46.25 g
+Fat: 18.7 g
+Fiber: 1.6 g
+Sugar: 27.61 g
+
+Fats:
+Saturated fat: 7.392 g
+Monounsaturated fat: 6.716 g
+Polyunsaturated fat: 2.778 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 270 mg
+Potassium: 112 mg
+Calcium: 77 mg
+Iron: 1.84 mg
+Magnesium: 16 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.26 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.1 µg
+Folate: 72 µg

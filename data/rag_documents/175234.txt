@@ -1,0 +1,28 @@
+Food: Vitasoy USA Organic Nasoya Sprouted, Tofu Plus Super Firm
+Food ID: 175234
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 13.24 g
+Carbohydrates: 2.16 g
+Fat: 5.9 g
+Fiber: 1.2 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 1.1 g
+Monounsaturated fat: 1.9 g
+Polyunsaturated fat: 3 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Calcium: 239 mg
+Iron: 1.7 mg
+
+Vitamins:
+Vitamin D: 2.5 µg
+Vitamin K: 14.7 µg

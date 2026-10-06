@@ -1,0 +1,22 @@
+Food: Squash, summer, green, zucchini, includes skin, raw
+Food ID: 2685568
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.984375 g
+Carbohydrates: 3.27 g
+Fat: 0.205 g
+Fiber: 0.7525 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 225.8 mg
+Calcium: 20.85 mg
+Iron: 0.1945 mg
+Magnesium: 15.29 mg
+Zinc: 0.2605 mg
+
+Vitamins:
+Vitamin C: 15 mg
+Folate: 71 µg

@@ -1,0 +1,32 @@
+Food: Fish, sablefish, raw
+Food ID: 175134
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 13.41 g
+Carbohydrates: 0 g
+Fat: 15.3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.201 g
+Monounsaturated fat: 8.057 g
+Polyunsaturated fat: 2.042 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 358 mg
+Calcium: 35 mg
+Iron: 1.28 mg
+Magnesium: 55 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 93 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 1.5 µg
+Folate: 15 µg

@@ -1,0 +1,36 @@
+Food: Chicken drumstick, baked, broiled, or roasted, skin eaten, from raw
+Food ID: 2706002
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 23.21 g
+Carbohydrates: 0 g
+Fat: 10.09 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.724 g
+Monounsaturated fat: 4.13 g
+Polyunsaturated fat: 2.071 g
+Cholesterol: 129 mg
+
+Minerals:
+Sodium: 353 mg
+Potassium: 246 mg
+Calcium: 11 mg
+Iron: 1.1 mg
+Magnesium: 22 mg
+Zinc: 2.35 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.19 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.381 mg
+Vitamin B12: 0.39 µg
+Folate: 4 µg

@@ -1,0 +1,37 @@
+Food: Turnover, cheese-filled, tomato-based sauce, frozen, unprepared
+Food ID: 169775
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 10.24 g
+Carbohydrates: 27.29 g
+Fat: 9.45 g
+Fiber: 1.6 g
+Sugar: 7.87 g
+
+Fats:
+Saturated fat: 4.724 g
+Monounsaturated fat: 3.014 g
+Polyunsaturated fat: 1.14 g
+Trans fat: 0 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 598 mg
+Potassium: 179 mg
+Calcium: 276 mg
+Iron: 1.85 mg
+Magnesium: 23 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.79 mg
+Vitamin K: 15.4 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0.94 µg
+Folate: 63 µg

@@ -1,0 +1,36 @@
+Food: Cheese, provolone
+Food ID: 170850
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 351 kcal
+Protein: 25.58 g
+Carbohydrates: 2.14 g
+Fat: 26.62 g
+Fiber: 0 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 17.078 g
+Monounsaturated fat: 7.393 g
+Polyunsaturated fat: 0.769 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 727 mg
+Potassium: 138 mg
+Calcium: 756 mg
+Iron: 0.52 mg
+Magnesium: 28 mg
+Zinc: 3.23 mg
+
+Vitamins:
+Vitamin A: 236 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.23 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 1.46 µg
+Folate: 10 µg

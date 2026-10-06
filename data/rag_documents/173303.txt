@@ -1,0 +1,33 @@
+Food: McDONALD'S, McFLURRY with M&M'S CANDIES
+Food ID: 173303
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 177 kcal
+Protein: 4.02 g
+Carbohydrates: 26.82 g
+Fat: 6.46 g
+Fiber: 0.2 g
+Sugar: 24.37 g
+
+Fats:
+Saturated fat: 3.402 g
+Monounsaturated fat: 1.67 g
+Polyunsaturated fat: 0.282 g
+Trans fat: 0.281 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 208 mg
+Calcium: 135 mg
+Iron: 0.27 mg
+Magnesium: 17 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin E: 0.08 mg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.6 µg
+Folate: 3 µg

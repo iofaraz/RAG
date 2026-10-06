@@ -1,0 +1,36 @@
+Food: Fish, sardines, canned
+Food ID: 2706293
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 24.62 g
+Carbohydrates: 0 g
+Fat: 11.45 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.528 g
+Monounsaturated fat: 3.869 g
+Polyunsaturated fat: 5.148 g
+Cholesterol: 142 mg
+
+Minerals:
+Sodium: 307 mg
+Potassium: 397 mg
+Calcium: 382 mg
+Iron: 2.92 mg
+Magnesium: 39 mg
+Zinc: 1.31 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0 mg
+Vitamin D: 4.8 µg
+Vitamin E: 2.04 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 8.94 µg
+Folate: 10 µg

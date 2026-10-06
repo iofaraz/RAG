@@ -1,0 +1,37 @@
+Food: Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt
+Food ID: 173905
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 2.54 g
+Carbohydrates: 12 g
+Fat: 1.52 g
+Fiber: 1.7 g
+Sugar: 0.27 g
+
+Fats:
+Saturated fat: 0.31 g
+Monounsaturated fat: 0.435 g
+Polyunsaturated fat: 0.559 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 70 mg
+Calcium: 9 mg
+Iron: 0.9 mg
+Magnesium: 27 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.005 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

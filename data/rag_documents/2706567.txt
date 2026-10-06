@@ -1,0 +1,36 @@
+Food: Shrimp toast
+Food ID: 2706567
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 222 kcal
+Protein: 8.46 g
+Carbohydrates: 12.01 g
+Fat: 15.42 g
+Fiber: 0.8 g
+Sugar: 1.4 g
+
+Fats:
+Saturated fat: 2.166 g
+Monounsaturated fat: 6.306 g
+Polyunsaturated fat: 5.949 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 558 mg
+Potassium: 132 mg
+Calcium: 59 mg
+Iron: 0.77 mg
+Magnesium: 17 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0 µg
+Vitamin E: 3.51 mg
+Vitamin K: 27.2 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.44 µg
+Folate: 25 µg

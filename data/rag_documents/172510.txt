@@ -1,0 +1,33 @@
+Food: Lamb, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4" fat, cooked, broiled
+Food ID: 172510
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 186 kcal
+Protein: 28.08 g
+Carbohydrates: 0 g
+Fat: 7.33 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.62 g
+Monounsaturated fat: 2.95 g
+Polyunsaturated fat: 0.67 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 76 mg
+Potassium: 335 mg
+Calcium: 13 mg
+Iron: 2.34 mg
+Magnesium: 31 mg
+Zinc: 5.77 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.2 mg
+Vitamin B6: 0.14 mg
+Vitamin B12: 3.03 µg
+Folate: 23 µg

@@ -1,0 +1,34 @@
+Food: Cardoon, raw
+Food ID: 169981
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 17 kcal
+Protein: 0.7 g
+Carbohydrates: 4.07 g
+Fat: 0.1 g
+Fiber: 1.6 g
+
+Fats:
+Saturated fat: 0.011 g
+Monounsaturated fat: 0.018 g
+Polyunsaturated fat: 0.041 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 170 mg
+Potassium: 400 mg
+Calcium: 70 mg
+Iron: 0.7 mg
+Magnesium: 42 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0 µg
+Folate: 68 µg

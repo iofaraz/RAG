@@ -1,0 +1,36 @@
+Food: Yogurt, NFS
+Food ID: 2705414
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 6.67 g
+Carbohydrates: 10.22 g
+Fat: 2.87 g
+Fiber: 0.1 g
+Sugar: 8.05 g
+
+Fats:
+Saturated fat: 1.626 g
+Monounsaturated fat: 0.665 g
+Polyunsaturated fat: 0.254 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 179 mg
+Calcium: 136 mg
+Iron: 0.07 mg
+Magnesium: 13 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.62 µg
+Folate: 8 µg

@@ -1,0 +1,36 @@
+Food: Beef, dried, chipped, cooked in fat
+Food ID: 2705859
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 28.12 g
+Carbohydrates: 2.5 g
+Fat: 11.32 g
+Fiber: 0 g
+Sugar: 2.44 g
+
+Fats:
+Saturated fat: 4.61 g
+Monounsaturated fat: 5.075 g
+Polyunsaturated fat: 1.135 g
+Cholesterol: 81 mg
+
+Minerals:
+Sodium: 2523 mg
+Potassium: 213 mg
+Calcium: 7 mg
+Iron: 2.19 mg
+Magnesium: 17 mg
+Zinc: 4.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.349 mg
+Vitamin B12: 1.44 µg
+Folate: 9 µg

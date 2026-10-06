@@ -1,0 +1,36 @@
+Food: Bread, white, toasted
+Food ID: 2707599
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 293 kcal
+Protein: 10.36 g
+Carbohydrates: 54.07 g
+Fat: 3.94 g
+Fiber: 2.5 g
+Sugar: 5.87 g
+
+Fats:
+Saturated fat: 0.902 g
+Monounsaturated fat: 0.788 g
+Polyunsaturated fat: 2.055 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 495 mg
+Potassium: 129 mg
+Calcium: 232 mg
+Iron: 3.69 mg
+Magnesium: 30 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0 µg
+Folate: 104 µg

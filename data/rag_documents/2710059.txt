@@ -1,0 +1,36 @@
+Food: Squash, summer, casserole with tomato and cheese
+Food ID: 2710059
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 3.48 g
+Carbohydrates: 8.87 g
+Fat: 4.32 g
+Fiber: 1.4 g
+Sugar: 3.31 g
+
+Fats:
+Saturated fat: 2.229 g
+Monounsaturated fat: 0.877 g
+Polyunsaturated fat: 0.355 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 228 mg
+Potassium: 264 mg
+Calcium: 90 mg
+Iron: 0.84 mg
+Magnesium: 23 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 13.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.39 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0.07 µg
+Folate: 24 µg

@@ -1,0 +1,36 @@
+Food: Waffle, plain, fast food / restaurant
+Food ID: 2708320
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 428 kcal
+Protein: 8.16 g
+Carbohydrates: 38.92 g
+Fat: 26.36 g
+Fiber: 2.4 g
+Sugar: 7.77 g
+
+Fats:
+Saturated fat: 5.058 g
+Monounsaturated fat: 10.274 g
+Polyunsaturated fat: 8.888 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 620 mg
+Potassium: 192 mg
+Calcium: 227 mg
+Iron: 1.62 mg
+Magnesium: 22 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 85 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 4.47 mg
+Vitamin K: 22.5 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0.42 µg
+Folate: 50 µg

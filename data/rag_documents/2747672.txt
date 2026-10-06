@@ -1,0 +1,20 @@
+Food: Swordfish, frozen, wild caught
+Food ID: 2747672
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 19.2375 g
+Carbohydrates: 0.4495 g
+Fat: 8.123 g
+
+Minerals:
+Sodium: 56.87 mg
+Potassium: 414.1 mg
+Calcium: 3.623 mg
+Iron: 0.09617 mg
+Magnesium: 26.68 mg
+Zinc: 0.5407 mg
+
+Vitamins:
+Vitamin B12: 0.87 µg

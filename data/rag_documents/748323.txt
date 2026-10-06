@@ -1,0 +1,12 @@
+Food: Oil, corn
+Food ID: 748323
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 13.4 g
+Monounsaturated fat: 27.7 g
+Polyunsaturated fat: 52.9 g
+
+Vitamins:
+Vitamin E: 22.6 mg

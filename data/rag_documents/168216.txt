@@ -1,0 +1,32 @@
+Food: Plantains, green, boiled
+Food ID: 168216
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 1.09 g
+Carbohydrates: 29.15 g
+Fat: 0.08 g
+Fiber: 2.6 g
+Sugar: 2.25 g
+
+Fats:
+Saturated fat: 0.072 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.078 g
+Trans fat: 0.001 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 289 mg
+Calcium: 3 mg
+Iron: 0.3 mg
+Magnesium: 28 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin C: 9.1 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.22 mg
+Folate: 48 µg

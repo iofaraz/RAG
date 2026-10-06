@@ -1,0 +1,37 @@
+Food: Turkey, retail parts, breast, meat and skin, with added solution, raw
+Food ID: 171130
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 20.79 g
+Carbohydrates: 0.03 g
+Fat: 6.75 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.24 g
+Monounsaturated fat: 3.04 g
+Polyunsaturated fat: 2.47 g
+Trans fat: 0.129 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 126 mg
+Potassium: 221 mg
+Calcium: 9 mg
+Iron: 0.43 mg
+Magnesium: 23 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.756 mg
+Vitamin B12: 0.4 µg
+Folate: 7 µg

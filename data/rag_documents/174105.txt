@@ -1,0 +1,37 @@
+Food: Waffles, gluten-free, frozen, ready-to-heat
+Food ID: 174105
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 263 kcal
+Protein: 2.72 g
+Carbohydrates: 43.05 g
+Fat: 8.84 g
+Fiber: 1.4 g
+Sugar: 1.73 g
+
+Fats:
+Saturated fat: 0.781 g
+Monounsaturated fat: 4.456 g
+Polyunsaturated fat: 2.375 g
+Trans fat: 0.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 505 mg
+Potassium: 124 mg
+Calcium: 40 mg
+Iron: 0.63 mg
+Magnesium: 31 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 11.1 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 2.68 µg
+Folate: 8 µg

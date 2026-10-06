@@ -1,0 +1,33 @@
+Food: Macaroni and cheese loaf, chicken, pork and beef
+Food ID: 172965
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 11.76 g
+Carbohydrates: 11.63 g
+Fat: 14.96 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.614 g
+Monounsaturated fat: 7.614 g
+Polyunsaturated fat: 1.657 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 313 mg
+Calcium: 122 mg
+Iron: 1.2 mg
+Magnesium: 27 mg
+Zinc: 1.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 16.7 mg
+Vitamin B6: 0.329 mg
+Vitamin B12: 0.68 µg
+Folate: 24 µg

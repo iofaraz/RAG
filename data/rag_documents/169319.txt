@@ -1,0 +1,33 @@
+Food: Beans, pinto, mature seeds, sprouted, cooked, boiled, drained, with salt
+Food ID: 169319
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 20 kcal
+Protein: 1.86 g
+Carbohydrates: 3.5 g
+Fat: 0.32 g
+
+Fats:
+Saturated fat: 0.039 g
+Monounsaturated fat: 0.024 g
+Polyunsaturated fat: 0.185 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 287 mg
+Potassium: 98 mg
+Calcium: 15 mg
+Iron: 0.66 mg
+Magnesium: 18 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 6.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

@@ -1,0 +1,36 @@
+Food: Rice, fried, with shrimp
+Food ID: 2708956
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 6.68 g
+Carbohydrates: 27.85 g
+Fat: 2.97 g
+Fiber: 0.9 g
+Sugar: 0.53 g
+
+Fats:
+Saturated fat: 0.497 g
+Monounsaturated fat: 0.554 g
+Polyunsaturated fat: 1.049 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 324 mg
+Potassium: 84 mg
+Calcium: 23 mg
+Iron: 0.44 mg
+Magnesium: 14 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.44 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.25 µg
+Folate: 9 µg

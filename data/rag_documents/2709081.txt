@@ -1,0 +1,36 @@
+Food: Flavored rice, brown and wild
+Food ID: 2709081
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 2.72 g
+Carbohydrates: 19.34 g
+Fat: 2.15 g
+Fiber: 1.1 g
+Sugar: 0.38 g
+
+Fats:
+Saturated fat: 0.395 g
+Monounsaturated fat: 0.919 g
+Polyunsaturated fat: 0.689 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 292 mg
+Potassium: 81 mg
+Calcium: 6 mg
+Iron: 0.38 mg
+Magnesium: 37 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.35 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

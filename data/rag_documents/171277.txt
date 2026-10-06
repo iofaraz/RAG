@@ -1,0 +1,37 @@
+Food: Milk, chocolate beverage, hot cocoa, homemade
+Food ID: 171277
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 3.52 g
+Carbohydrates: 10.74 g
+Fat: 2.34 g
+Fiber: 1 g
+Sugar: 9.66 g
+
+Fats:
+Saturated fat: 1.431 g
+Monounsaturated fat: 0.677 g
+Polyunsaturated fat: 0.084 g
+Trans fat: 0.078 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 44 mg
+Potassium: 197 mg
+Calcium: 114 mg
+Iron: 0.42 mg
+Magnesium: 23 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0.2 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.49 µg
+Folate: 5 µg

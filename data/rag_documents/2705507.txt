@@ -1,0 +1,36 @@
+Food: Milk shake with malt
+Food ID: 2705507
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 3.76 g
+Carbohydrates: 13.64 g
+Fat: 6.11 g
+Fiber: 0.2 g
+Sugar: 12.04 g
+
+Fats:
+Saturated fat: 3.659 g
+Monounsaturated fat: 1.525 g
+Polyunsaturated fat: 0.276 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 190 mg
+Calcium: 131 mg
+Iron: 0.06 mg
+Magnesium: 16 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.5 µg
+Folate: 3 µg

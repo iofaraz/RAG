@@ -1,0 +1,37 @@
+Food: Turkey, ground, fat free, patties, broiled
+Food ID: 172849
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 28.99 g
+Carbohydrates: 0 g
+Fat: 2.48 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.673 g
+Monounsaturated fat: 0.713 g
+Polyunsaturated fat: 0.759 g
+Trans fat: 0.023 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 339 mg
+Calcium: 6 mg
+Iron: 0.78 mg
+Magnesium: 35 mg
+Zinc: 2.19 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.908 mg
+Vitamin B12: 0.67 µg
+Folate: 7 µg

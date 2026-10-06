@@ -1,0 +1,37 @@
+Food: Pizza rolls, frozen, unprepared
+Food ID: 168957
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 328 kcal
+Protein: 8.73 g
+Carbohydrates: 50.72 g
+Fat: 9.98 g
+Fiber: 1.2 g
+Sugar: 3.74 g
+
+Fats:
+Saturated fat: 2.494 g
+Monounsaturated fat: 3.849 g
+Polyunsaturated fat: 2.853 g
+Trans fat: 1.2 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 599 mg
+Potassium: 301 mg
+Calcium: 125 mg
+Iron: 1.8 mg
+Magnesium: 20 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 67 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.59 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.26 µg
+Folate: 46 µg

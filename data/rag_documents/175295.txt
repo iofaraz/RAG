@@ -1,0 +1,36 @@
+Food: Game meat, beaver, cooked, roasted
+Food ID: 175295
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 34.85 g
+Carbohydrates: 0 g
+Fat: 6.96 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.07 g
+Monounsaturated fat: 1.89 g
+Polyunsaturated fat: 1.35 g
+Cholesterol: 117 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 403 mg
+Calcium: 22 mg
+Iron: 10 mg
+Magnesium: 29 mg
+Zinc: 2.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.45 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.47 mg
+Vitamin B12: 8.3 µg
+Folate: 11 µg

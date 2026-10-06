@@ -1,0 +1,22 @@
+Food: Potatoes, red, without skin, raw
+Food ID: 2346402
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.0625 g
+Carbohydrates: 16.27 g
+Fat: 0.2475 g
+
+Minerals:
+Sodium: 2.856 mg
+Potassium: 472 mg
+Calcium: 5.128 mg
+Iron: 0.3911 mg
+Magnesium: 23.56 mg
+Zinc: 0.3923 mg
+
+Vitamins:
+Vitamin C: 21.29 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.1441 mg

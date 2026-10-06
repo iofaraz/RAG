@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, rice with pears and apple, dry, instant fortified
+Food ID: 167731
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 389 kcal
+Protein: 6.6 g
+Carbohydrates: 88.5 g
+Fat: 0.9 g
+Fiber: 2.6 g
+Sugar: 1.35 g
+
+Fats:
+Saturated fat: 0.185 g
+Monounsaturated fat: 0.252 g
+Polyunsaturated fat: 0.231 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 414 mg
+Calcium: 38 mg
+Iron: 9 mg
+Magnesium: 37 mg
+Zinc: 3.3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 250 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

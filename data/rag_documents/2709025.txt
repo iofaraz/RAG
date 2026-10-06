@@ -1,0 +1,36 @@
+Food: Rice, white, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, fat added
+Food ID: 2709025
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 2.25 g
+Carbohydrates: 21.35 g
+Fat: 2.35 g
+Fiber: 0.9 g
+Sugar: 0.71 g
+
+Fats:
+Saturated fat: 0.341 g
+Monounsaturated fat: 0.948 g
+Polyunsaturated fat: 0.872 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 194 mg
+Potassium: 89 mg
+Calcium: 17 mg
+Iron: 1 mg
+Magnesium: 12 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 7.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.58 mg
+Vitamin K: 11.5 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0 µg
+Folate: 47 µg

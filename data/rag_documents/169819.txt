@@ -1,0 +1,26 @@
+Food: Stinging Nettles, blanched (Northern Plains Indians)
+Food ID: 169819
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 2.71 g
+Carbohydrates: 7.49 g
+Fat: 0.11 g
+Fiber: 6.9 g
+Sugar: 0.25 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 334 mg
+Calcium: 481 mg
+Iron: 1.64 mg
+Magnesium: 57 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 101 µg
+Vitamin K: 498.6 µg
+Vitamin B6: 0.103 mg
+Folate: 14 µg

@@ -1,0 +1,36 @@
+Food: Soup, cream of asparagus, canned, condensed
+Food ID: 171537
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 1.82 g
+Carbohydrates: 8.52 g
+Fat: 3.26 g
+Fiber: 0.4 g
+Sugar: 0.72 g
+
+Fats:
+Saturated fat: 0.82 g
+Monounsaturated fat: 0.75 g
+Polyunsaturated fat: 1.46 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 669 mg
+Potassium: 138 mg
+Calcium: 23 mg
+Iron: 0.64 mg
+Magnesium: 3 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 2.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.49 mg
+Vitamin K: 22 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.04 µg
+Folate: 19 µg

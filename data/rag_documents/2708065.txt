@@ -1,0 +1,36 @@
+Food: Doughnut, cake type, powdered sugar
+Food ID: 2708065
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 431 kcal
+Protein: 4.9 g
+Carbohydrates: 51.12 g
+Fat: 23.01 g
+Fiber: 1.6 g
+Sugar: 24.28 g
+
+Fats:
+Saturated fat: 10.251 g
+Monounsaturated fat: 7.887 g
+Polyunsaturated fat: 3.614 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 440 mg
+Potassium: 124 mg
+Calcium: 37 mg
+Iron: 2.34 mg
+Magnesium: 16 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.84 mg
+Vitamin K: 9 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.06 µg
+Folate: 85 µg

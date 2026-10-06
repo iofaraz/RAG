@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, FAMILIA
+Food ID: 169076
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 388 kcal
+Protein: 9.5 g
+Carbohydrates: 73.8 g
+Fat: 6.3 g
+Fiber: 8.5 g
+Sugar: 23.2 g
+
+Fats:
+Saturated fat: 0.711 g
+Monounsaturated fat: 3.205 g
+Polyunsaturated fat: 1.656 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 494 mg
+Calcium: 173 mg
+Iron: 2.78 mg
+Magnesium: 317 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.16 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.29 µg
+Folate: 16 µg

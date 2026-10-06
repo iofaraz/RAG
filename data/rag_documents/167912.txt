@@ -1,0 +1,36 @@
+Food: Pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, cooked, pan-broiled
+Food ID: 167912
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 169 kcal
+Protein: 28.95 g
+Carbohydrates: 0 g
+Fat: 5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.797 g
+Monounsaturated fat: 2.406 g
+Polyunsaturated fat: 0.691 g
+Trans fat: 0.03 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 209 mg
+Potassium: 517 mg
+Calcium: 10 mg
+Iron: 0.63 mg
+Magnesium: 28 mg
+Zinc: 2.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.23 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.489 mg
+Vitamin B12: 0.52 µg
+Folate: 1 µg

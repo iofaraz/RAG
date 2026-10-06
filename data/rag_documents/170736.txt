@@ -1,0 +1,33 @@
+Food: TACO BELL, Taco Salad
+Food ID: 170736
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 170 kcal
+Protein: 6.69 g
+Carbohydrates: 15.1 g
+Fat: 9.17 g
+Fiber: 3 g
+
+Fats:
+Saturated fat: 2.979 g
+Monounsaturated fat: 3.972 g
+Polyunsaturated fat: 0.752 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 363 mg
+Potassium: 229 mg
+Calcium: 95 mg
+Iron: 1.77 mg
+Magnesium: 27 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin E: 0.54 mg
+Vitamin K: 10.7 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.4 µg
+Folate: 43 µg

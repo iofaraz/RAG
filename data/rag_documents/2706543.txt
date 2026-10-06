@@ -1,0 +1,36 @@
+Food: Chicken or turkey with dumplings
+Food ID: 2706543
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 15.69 g
+Carbohydrates: 8.04 g
+Fat: 5.55 g
+Fiber: 0.3 g
+Sugar: 0.45 g
+
+Fats:
+Saturated fat: 1.422 g
+Monounsaturated fat: 2.245 g
+Polyunsaturated fat: 1.058 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 488 mg
+Potassium: 176 mg
+Calcium: 50 mg
+Iron: 0.99 mg
+Magnesium: 17 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.34 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 0.23 µg
+Folate: 16 µg

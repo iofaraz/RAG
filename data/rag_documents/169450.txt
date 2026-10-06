@@ -1,0 +1,37 @@
+Food: Beef, variety meats and by-products, kidneys, cooked, simmered
+Food ID: 169450
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 27.27 g
+Carbohydrates: 0 g
+Fat: 4.65 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.439 g
+Monounsaturated fat: 0.96 g
+Polyunsaturated fat: 1.138 g
+Trans fat: 0.27 g
+Cholesterol: 716 mg
+
+Minerals:
+Sodium: 94 mg
+Potassium: 135 mg
+Calcium: 19 mg
+Iron: 5.8 mg
+Magnesium: 12 mg
+Zinc: 2.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.391 mg
+Vitamin B12: 24.9 µg
+Folate: 83 µg

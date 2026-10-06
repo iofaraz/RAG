@@ -1,0 +1,36 @@
+Food: Chicken breast, baked, coated, skin / coating eaten
+Food ID: 2705980
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 23.75 g
+Carbohydrates: 4.01 g
+Fat: 9.9 g
+Fiber: 0.2 g
+Sugar: 0.07 g
+
+Fats:
+Saturated fat: 2.314 g
+Monounsaturated fat: 3.74 g
+Polyunsaturated fat: 2.324 g
+Cholesterol: 88 mg
+
+Minerals:
+Sodium: 320 mg
+Potassium: 270 mg
+Calcium: 11 mg
+Iron: 0.77 mg
+Magnesium: 23 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.91 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.619 mg
+Vitamin B12: 0.16 µg
+Folate: 14 µg

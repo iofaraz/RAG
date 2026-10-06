@@ -1,0 +1,36 @@
+Food: Anisette toast
+Food ID: 2707703
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 7.63 g
+Carbohydrates: 66.99 g
+Fat: 8.38 g
+Fiber: 1.4 g
+Sugar: 28.44 g
+
+Fats:
+Saturated fat: 1.29 g
+Monounsaturated fat: 3.199 g
+Polyunsaturated fat: 2.86 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 262 mg
+Potassium: 97 mg
+Calcium: 112 mg
+Iron: 3.15 mg
+Magnesium: 17 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.4 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.1 µg
+Folate: 62 µg

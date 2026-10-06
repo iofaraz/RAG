@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, All Natural Light French Vanilla
+Food ID: 170660
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 4.82 g
+Carbohydrates: 26.03 g
+Fat: 5.56 g
+Fiber: 0.2 g
+Sugar: 21.11 g
+
+Fats:
+Saturated fat: 3.22 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 73 mg
+Calcium: 155 mg
+Iron: 0.21 mg
+
+Vitamins:
+Vitamin C: 0.9 mg

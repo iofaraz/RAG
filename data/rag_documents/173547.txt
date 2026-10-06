@@ -1,0 +1,36 @@
+Food: Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, liquid concentrate, reconstituted, with ARA and DHA
+Food ID: 173547
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 1.63 g
+Carbohydrates: 7.58 g
+Fat: 3.4 g
+Fiber: 0 g
+Sugar: 0.97 g
+
+Fats:
+Saturated fat: 1.43 g
+Monounsaturated fat: 1.17 g
+Polyunsaturated fat: 0.63 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 78 mg
+Calcium: 68 mg
+Iron: 1.17 mg
+Magnesium: 5 mg
+Zinc: 6.1 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 7.8 mg
+Vitamin D: 1 µg
+Vitamin E: 0.59 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.2 µg
+Folate: 10 µg

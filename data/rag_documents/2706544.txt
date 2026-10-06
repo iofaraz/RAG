@@ -1,0 +1,36 @@
+Food: Chicken or turkey with stuffing
+Food ID: 2706544
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 20.04 g
+Carbohydrates: 11.74 g
+Fat: 4.88 g
+Fiber: 0.5 g
+Sugar: 1.27 g
+
+Fats:
+Saturated fat: 1.212 g
+Monounsaturated fat: 2.083 g
+Polyunsaturated fat: 0.752 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 454 mg
+Potassium: 229 mg
+Calcium: 25 mg
+Iron: 1.09 mg
+Magnesium: 22 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.193 mg
+Vitamin B12: 0.25 µg
+Folate: 33 µg

@@ -1,0 +1,37 @@
+Food: Fish, swordfish, cooked, dry heat
+Food ID: 173704
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 23.45 g
+Carbohydrates: 0 g
+Fat: 7.93 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.911 g
+Monounsaturated fat: 3.544 g
+Polyunsaturated fat: 1.368 g
+Trans fat: 0.056 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 97 mg
+Potassium: 499 mg
+Calcium: 6 mg
+Iron: 0.45 mg
+Magnesium: 35 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0 mg
+Vitamin D: 16.6 µg
+Vitamin E: 2.41 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.615 mg
+Vitamin B12: 1.62 µg
+Folate: 2 µg

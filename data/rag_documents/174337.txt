@@ -1,0 +1,33 @@
+Food: Lamb, New Zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, cooked
+Food ID: 174337
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 305 kcal
+Protein: 24.42 g
+Carbohydrates: 0 g
+Fat: 22.26 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.05 g
+Monounsaturated fat: 8.59 g
+Polyunsaturated fat: 1.04 g
+Cholesterol: 109 mg
+
+Minerals:
+Sodium: 46 mg
+Potassium: 162 mg
+Calcium: 17 mg
+Iron: 2.1 mg
+Magnesium: 19 mg
+Zinc: 3.49 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.14 mg
+Vitamin B6: 0.12 mg
+Vitamin B12: 2.81 µg
+Folate: 1 µg

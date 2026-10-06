@@ -1,0 +1,36 @@
+Food: Millet, puffed
+Food ID: 167724
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 354 kcal
+Protein: 13 g
+Carbohydrates: 80 g
+Fat: 3.4 g
+Fiber: 2.7 g
+Sugar: 0.55 g
+
+Fats:
+Saturated fat: 0.67 g
+Monounsaturated fat: 0.717 g
+Polyunsaturated fat: 1.98 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 40 mg
+Calcium: 8 mg
+Iron: 2.81 mg
+Magnesium: 106 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.66 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.36 mg
+Vitamin B12: 0 µg
+Folate: 79 µg

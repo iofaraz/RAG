@@ -1,0 +1,36 @@
+Food: Artichoke dip
+Food ID: 2705782
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 3.86 g
+Carbohydrates: 5.78 g
+Fat: 32.67 g
+Fiber: 0.9 g
+Sugar: 2.08 g
+
+Fats:
+Saturated fat: 8.459 g
+Monounsaturated fat: 7.264 g
+Polyunsaturated fat: 15.171 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 607 mg
+Potassium: 130 mg
+Calcium: 103 mg
+Iron: 0.21 mg
+Magnesium: 13 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 71 µg
+Vitamin C: 2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.27 mg
+Vitamin K: 56.6 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.15 µg
+Folate: 18 µg

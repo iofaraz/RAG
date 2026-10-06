@@ -1,0 +1,25 @@
+Food: Incaparina, dry mix (corn and soy flours), unprepared
+Food ID: 174656
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 21.75 g
+Carbohydrates: 60.53 g
+Fat: 5.58 g
+Fiber: 9.9 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 1030 mg
+Calcium: 600 mg
+Iron: 22 mg
+Magnesium: 220 mg
+Zinc: 23 mg
+
+Vitamins:
+Vitamin A: 1770 µg
+Vitamin E: 0.36 mg
+Vitamin B6: 0.69 mg
+Vitamin B12: 1.5 µg

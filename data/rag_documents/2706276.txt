@@ -1,0 +1,36 @@
+Food: Fish, pike
+Food ID: 2706276
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 21.47 g
+Carbohydrates: 7.79 g
+Fat: 5.58 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 1.376 g
+Monounsaturated fat: 1.835 g
+Polyunsaturated fat: 1.601 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 304 mg
+Potassium: 288 mg
+Calcium: 70 mg
+Iron: 1.16 mg
+Magnesium: 36 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 3.2 mg
+Vitamin D: 2.7 µg
+Vitamin E: 0.9 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 1.9 µg
+Folate: 30 µg

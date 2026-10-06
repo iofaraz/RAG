@@ -1,0 +1,36 @@
+Food: Barbecue beef sandwich, on wheat bun
+Food ID: 2706886
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 17.02 g
+Carbohydrates: 23.3 g
+Fat: 8.52 g
+Fiber: 2 g
+Sugar: 8.38 g
+
+Fats:
+Saturated fat: 2.999 g
+Monounsaturated fat: 3.501 g
+Polyunsaturated fat: 0.809 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 544 mg
+Potassium: 236 mg
+Calcium: 65 mg
+Iron: 2.45 mg
+Magnesium: 31 mg
+Zinc: 4.19 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.33 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.204 mg
+Vitamin B12: 1.3 µg
+Folate: 28 µg

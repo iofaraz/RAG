@@ -1,0 +1,30 @@
+Food: Cereals ready-to-eat, rice, puffed, fortified
+Food ID: 173912
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 402 kcal
+Protein: 6.3 g
+Carbohydrates: 89.8 g
+Fat: 0.5 g
+Fiber: 1.7 g
+
+Fats:
+Saturated fat: 0.13 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 113 mg
+Calcium: 6 mg
+Iron: 31.7 mg
+Magnesium: 25 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

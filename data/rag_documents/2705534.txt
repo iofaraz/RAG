@@ -1,0 +1,36 @@
+Food: Infant formula, Enfamil Infant, ready-to-feed
+Food ID: 2705534
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1.4 g
+Carbohydrates: 7.38 g
+Fat: 3.49 g
+Fiber: 0 g
+Sugar: 7.38 g
+
+Fats:
+Saturated fat: 1.444 g
+Monounsaturated fat: 1.292 g
+Polyunsaturated fat: 0.675 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 71 mg
+Calcium: 50 mg
+Iron: 1.19 mg
+Magnesium: 5 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 8 mg
+Vitamin D: 1 µg
+Vitamin E: 0.89 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.2 µg
+Folate: 10 µg

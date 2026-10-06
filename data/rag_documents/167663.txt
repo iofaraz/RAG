@@ -1,0 +1,37 @@
+Food: Restaurant, Latino, pupusas del cerdo (pupusas, pork)
+Food ID: 167663
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 232 kcal
+Protein: 11.51 g
+Carbohydrates: 23.02 g
+Fat: 10.43 g
+Fiber: 2.6 g
+Sugar: 1.45 g
+
+Fats:
+Saturated fat: 3.166 g
+Monounsaturated fat: 3.964 g
+Polyunsaturated fat: 2.205 g
+Trans fat: 0.083 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 426 mg
+Potassium: 255 mg
+Calcium: 49 mg
+Iron: 1.01 mg
+Magnesium: 38 mg
+Zinc: 1.62 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.35 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.23 mg
+Vitamin B12: 0.28 µg
+Folate: 4 µg

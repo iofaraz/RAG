@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, wheat and bran, presweetened with nuts and fruits
+Food ID: 169077
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 385 kcal
+Protein: 7.1 g
+Carbohydrates: 76.2 g
+Fat: 5.6 g
+Fiber: 9.7 g
+Sugar: 23.6 g
+
+Fats:
+Saturated fat: 0.8 g
+Monounsaturated fat: 1.951 g
+Polyunsaturated fat: 2.293 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 245 mg
+Potassium: 382 mg
+Calcium: 43 mg
+Iron: 9.82 mg
+Magnesium: 120 mg
+Zinc: 2.73 mg
+
+Vitamins:
+Vitamin A: 410 µg
+Vitamin C: 0 mg
+Vitamin D: 1.8 µg
+Vitamin E: 2.32 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.91 mg
+Vitamin B12: 2.73 µg
+Folate: 182 µg

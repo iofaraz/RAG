@@ -1,0 +1,37 @@
+Food: Cookies, graham crackers, chocolate-coated
+Food ID: 174958
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 500 kcal
+Protein: 4 g
+Carbohydrates: 66.78 g
+Fat: 25.8 g
+Fiber: 2.2 g
+Sugar: 37.3 g
+
+Fats:
+Saturated fat: 17.2 g
+Monounsaturated fat: 2.7 g
+Polyunsaturated fat: 4.9 g
+Trans fat: 0.55 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 265 mg
+Potassium: 267 mg
+Calcium: 46 mg
+Iron: 2 mg
+Magnesium: 16 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.99 mg
+Vitamin K: 6.4 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.1 µg
+Folate: 50 µg

@@ -1,0 +1,36 @@
+Food: Baby Toddler meat, NFS
+Food ID: 2705821
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 12.58 g
+Carbohydrates: 1.25 g
+Fat: 5.99 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.686 g
+Monounsaturated fat: 2.568 g
+Polyunsaturated fat: 1.382 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 155 mg
+Calcium: 41 mg
+Iron: 1.1 mg
+Magnesium: 12 mg
+Zinc: 1.66 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.72 µg
+Folate: 5 µg

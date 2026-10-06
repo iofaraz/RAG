@@ -1,0 +1,32 @@
+Food: Snacks, tortilla chips, taco-flavor
+Food ID: 167970
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 480 kcal
+Protein: 7.9 g
+Carbohydrates: 63.1 g
+Fat: 24.2 g
+Fiber: 5.3 g
+
+Fats:
+Saturated fat: 4.64 g
+Monounsaturated fat: 14.29 g
+Polyunsaturated fat: 3.36 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 787 mg
+Potassium: 217 mg
+Calcium: 155 mg
+Iron: 2.02 mg
+Magnesium: 88 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 0.9 mg
+Vitamin B6: 0.297 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

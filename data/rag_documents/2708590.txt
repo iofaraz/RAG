@@ -1,0 +1,36 @@
+Food: Quesadilla, NFS
+Food ID: 2708590
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 316 kcal
+Protein: 13.36 g
+Carbohydrates: 28.62 g
+Fat: 16.21 g
+Fiber: 2 g
+Sugar: 2.41 g
+
+Fats:
+Saturated fat: 8.454 g
+Monounsaturated fat: 3.477 g
+Polyunsaturated fat: 1.699 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 676 mg
+Potassium: 107 mg
+Calcium: 348 mg
+Iron: 2.05 mg
+Magnesium: 23 mg
+Zinc: 1.69 mg
+
+Vitamins:
+Vitamin A: 85 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.18 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.45 µg
+Folate: 58 µg

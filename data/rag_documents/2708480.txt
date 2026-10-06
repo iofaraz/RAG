@@ -1,0 +1,36 @@
+Food: Cereal, wheat flakes
+Food ID: 2708480
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 359 kcal
+Protein: 10.06 g
+Carbohydrates: 76.27 g
+Fat: 1.47 g
+Fiber: 10.4 g
+Sugar: 14 g
+
+Fats:
+Saturated fat: 0.13 g
+Monounsaturated fat: 0.073 g
+Polyunsaturated fat: 0.346 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 574 mg
+Potassium: 126 mg
+Calcium: 19 mg
+Iron: 27.62 mg
+Magnesium: 30 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 22.7 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.7 mg
+Vitamin B12: 0.89 µg
+Folate: 138 µg

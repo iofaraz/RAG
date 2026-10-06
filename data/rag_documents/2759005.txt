@@ -1,0 +1,14 @@
+Food: Salami, hard, sliced
+Food ID: 2759005
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 12.98 g
+Monounsaturated fat: 14.99 g
+Polyunsaturated fat: 4.058 g
+Trans fat: 0.4975 g
+
+Vitamins:
+Vitamin B6: 0.2174 mg
+Vitamin B12: 0.4042 µg

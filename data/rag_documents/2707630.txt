@@ -1,0 +1,36 @@
+Food: Garlic bread, with parmesan cheese, from frozen
+Food ID: 2707630
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 351 kcal
+Protein: 8.78 g
+Carbohydrates: 41.14 g
+Fat: 16.83 g
+Fiber: 2.5 g
+Sugar: 3.62 g
+
+Fats:
+Saturated fat: 5.481 g
+Monounsaturated fat: 4.703 g
+Polyunsaturated fat: 5.354 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 568 mg
+Potassium: 105 mg
+Calcium: 44 mg
+Iron: 3 mg
+Magnesium: 23 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.17 mg
+Vitamin K: 29 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.1 µg
+Folate: 164 µg

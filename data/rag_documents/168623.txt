@@ -1,0 +1,32 @@
+Food: Beef, variety meats and by-products, brain, cooked, pan-fried
+Food ID: 168623
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 196 kcal
+Protein: 12.57 g
+Carbohydrates: 0 g
+Fat: 15.83 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.74 g
+Monounsaturated fat: 3.98 g
+Polyunsaturated fat: 2.31 g
+Cholesterol: 1995 mg
+
+Minerals:
+Sodium: 158 mg
+Potassium: 354 mg
+Calcium: 9 mg
+Iron: 2.22 mg
+Magnesium: 15 mg
+Zinc: 1.35 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.3 mg
+Vitamin B6: 0.39 mg
+Vitamin B12: 15.2 µg
+Folate: 6 µg

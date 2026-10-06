@@ -1,0 +1,36 @@
+Food: Lo mein, meatless
+Food ID: 2708799
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 4.77 g
+Carbohydrates: 20.16 g
+Fat: 2.35 g
+Fiber: 1.3 g
+Sugar: 2.63 g
+
+Fats:
+Saturated fat: 0.464 g
+Monounsaturated fat: 0.592 g
+Polyunsaturated fat: 1.291 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 430 mg
+Potassium: 105 mg
+Calcium: 21 mg
+Iron: 1.07 mg
+Magnesium: 14 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

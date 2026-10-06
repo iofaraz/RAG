@@ -1,0 +1,21 @@
+Food: Turkey Pot Pie, frozen entree
+Food ID: 172092
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 176 kcal
+Protein: 6.5 g
+Carbohydrates: 17.7 g
+Fat: 8.8 g
+Fiber: 1.1 g
+
+Fats:
+Saturated fat: 2.88 g
+Monounsaturated fat: 3.46 g
+Polyunsaturated fat: 1.38 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 350 mg
+Iron: 1 mg

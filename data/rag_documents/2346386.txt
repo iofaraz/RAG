@@ -1,0 +1,27 @@
+Food: Cream, heavy
+Food ID: 2346386
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.01799 g
+Carbohydrates: 3.79951 g
+Fat: 35.56 g
+
+Fats:
+Saturated fat: 20.45 g
+Monounsaturated fat: 7.339 g
+Cholesterol: 103.1 mg
+
+Minerals:
+Sodium: 20.61 mg
+Potassium: 96.94 mg
+Calcium: 61.21 mg
+Iron: 0 mg
+Magnesium: 5.974 mg
+Zinc: 0.2231 mg
+
+Vitamins:
+Vitamin K: 2.4 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0 µg

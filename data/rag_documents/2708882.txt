@@ -1,0 +1,36 @@
+Food: Pasta, whole grain, with tomato-based sauce and added vegetables, restaurant
+Food ID: 2708882
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 3.56 g
+Carbohydrates: 17.76 g
+Fat: 8.22 g
+Fiber: 2.6 g
+Sugar: 2.57 g
+
+Fats:
+Saturated fat: 1.099 g
+Monounsaturated fat: 3.121 g
+Polyunsaturated fat: 3.098 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 344 mg
+Potassium: 187 mg
+Calcium: 17 mg
+Iron: 1.14 mg
+Magnesium: 34 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0 µg
+Vitamin E: 2.28 mg
+Vitamin K: 12.4 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

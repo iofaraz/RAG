@@ -1,0 +1,36 @@
+Food: Sour dressing, non-butterfat, cultured, filled cream-type
+Food ID: 171259
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 3.25 g
+Carbohydrates: 4.68 g
+Fat: 16.57 g
+Fiber: 0 g
+Sugar: 4.68 g
+
+Fats:
+Saturated fat: 13.272 g
+Monounsaturated fat: 1.958 g
+Polyunsaturated fat: 0.468 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 162 mg
+Calcium: 113 mg
+Iron: 0.03 mg
+Magnesium: 10 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.34 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0.33 µg
+Folate: 12 µg

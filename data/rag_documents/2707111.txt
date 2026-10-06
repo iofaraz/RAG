@@ -1,0 +1,36 @@
+Food: Chicken and vegetables au gratin with rice, diet frozen entree
+Food ID: 2707111
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 10.67 g
+Carbohydrates: 7.24 g
+Fat: 5.41 g
+Fiber: 0.8 g
+Sugar: 0.88 g
+
+Fats:
+Saturated fat: 2.78 g
+Monounsaturated fat: 1.437 g
+Polyunsaturated fat: 0.354 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 499 mg
+Potassium: 213 mg
+Calcium: 95 mg
+Iron: 0.57 mg
+Magnesium: 29 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 6.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 82.5 µg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0.21 µg
+Folate: 31 µg

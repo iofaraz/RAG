@@ -1,0 +1,36 @@
+Food: Seafood salad sandwich
+Food ID: 2707039
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 9.89 g
+Carbohydrates: 17.24 g
+Fat: 11.75 g
+Fiber: 1 g
+Sugar: 2.15 g
+
+Fats:
+Saturated fat: 1.941 g
+Monounsaturated fat: 2.592 g
+Polyunsaturated fat: 6.859 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 540 mg
+Potassium: 150 mg
+Calcium: 116 mg
+Iron: 1.48 mg
+Magnesium: 24 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.01 mg
+Vitamin K: 26.6 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.64 µg
+Folate: 52 µg

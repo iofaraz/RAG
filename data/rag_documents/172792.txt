@@ -1,0 +1,31 @@
+Food: Popovers, dry mix, enriched
+Food ID: 172792
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 10.4 g
+Carbohydrates: 71 g
+Fat: 4.3 g
+
+Fats:
+Saturated fat: 0.983 g
+Monounsaturated fat: 1.984 g
+Polyunsaturated fat: 0.823 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 906 mg
+Potassium: 100 mg
+Calcium: 32 mg
+Iron: 2.97 mg
+Magnesium: 25 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.08 µg
+Folate: 145 µg

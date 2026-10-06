@@ -1,0 +1,36 @@
+Food: Egg, whole, cooked, hard-boiled
+Food ID: 173424
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 12.58 g
+Carbohydrates: 1.12 g
+Fat: 10.61 g
+Fiber: 0 g
+Sugar: 1.12 g
+
+Fats:
+Saturated fat: 3.267 g
+Monounsaturated fat: 4.077 g
+Polyunsaturated fat: 1.414 g
+Cholesterol: 373 mg
+
+Minerals:
+Sodium: 124 mg
+Potassium: 126 mg
+Calcium: 50 mg
+Iron: 1.19 mg
+Magnesium: 10 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 149 µg
+Vitamin C: 0 mg
+Vitamin D: 2.2 µg
+Vitamin E: 1.03 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.121 mg
+Vitamin B12: 1.11 µg
+Folate: 44 µg

@@ -1,0 +1,16 @@
+Food: Beans, Dry, Light Red Kidney (0% moisture)
+Food ID: 335422
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 25 g
+Fat: 1.03 g
+Fiber: 4.5 g
+
+Minerals:
+Potassium: 1540 mg
+Calcium: 103 mg
+Iron: 6.95 mg
+Magnesium: 158 mg
+Zinc: 3.5 mg

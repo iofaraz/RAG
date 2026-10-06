@@ -1,0 +1,37 @@
+Food: Egg, whole, cooked, poached
+Food ID: 172186
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 12.51 g
+Carbohydrates: 0.71 g
+Fat: 9.47 g
+Fiber: 0 g
+Sugar: 0.37 g
+
+Fats:
+Saturated fat: 3.113 g
+Monounsaturated fat: 3.643 g
+Polyunsaturated fat: 1.904 g
+Trans fat: 0.038 g
+Cholesterol: 370 mg
+
+Minerals:
+Sodium: 297 mg
+Potassium: 138 mg
+Calcium: 56 mg
+Iron: 1.75 mg
+Magnesium: 12 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 160 µg
+Vitamin C: 0 mg
+Vitamin D: 2 µg
+Vitamin E: 1.04 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.144 mg
+Vitamin B12: 0.71 µg
+Folate: 35 µg

@@ -1,0 +1,15 @@
+Food: Bread, white, commercial
+Food ID: 2758993
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Minerals:
+Sodium: 419.7 mg
+Potassium: 115.2 mg
+Calcium: 288.4 mg
+Iron: 4.065 mg
+Magnesium: 22.37 mg
+Zinc: 0.7693 mg
+
+Vitamins:
+Folate: 156.9 µg

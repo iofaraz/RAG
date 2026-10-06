@@ -1,0 +1,36 @@
+Food: Beans with meat, NS as to type
+Food ID: 2707407
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 184 kcal
+Protein: 10.7 g
+Carbohydrates: 20.56 g
+Fat: 6.88 g
+Fiber: 7.1 g
+Sugar: 0.38 g
+
+Fats:
+Saturated fat: 1.153 g
+Monounsaturated fat: 2.844 g
+Polyunsaturated fat: 2.405 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 275 mg
+Potassium: 377 mg
+Calcium: 35 mg
+Iron: 1.95 mg
+Magnesium: 47 mg
+Zinc: 1.52 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.82 mg
+Vitamin K: 8.5 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0.22 µg
+Folate: 127 µg

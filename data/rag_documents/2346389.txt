@@ -1,0 +1,21 @@
+Food: Lettuce, romaine, green, raw
+Food ID: 2346389
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.976875 g
+Carbohydrates: 4.05558 g
+Fat: 0.07125 g
+
+Minerals:
+Sodium: 23 mg
+Potassium: 260.4 mg
+Calcium: 27.56 mg
+Iron: 0.267 mg
+Magnesium: 12.05 mg
+Zinc: 0.2516 mg
+
+Vitamins:
+Vitamin K: 83.4 µg
+Vitamin B6: 0.06325 mg

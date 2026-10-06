@@ -1,0 +1,35 @@
+Food: Nuts, pecans, oil roasted, with salt added
+Food ID: 169425
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 715 kcal
+Protein: 9.2 g
+Carbohydrates: 13.01 g
+Fat: 75.23 g
+Fiber: 9.5 g
+Sugar: 3.97 g
+
+Fats:
+Saturated fat: 7.238 g
+Monounsaturated fat: 40.97 g
+Polyunsaturated fat: 23.584 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 393 mg
+Potassium: 392 mg
+Calcium: 67 mg
+Iron: 2.47 mg
+Magnesium: 121 mg
+Zinc: 4.47 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.53 mg
+Vitamin B6: 0.187 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

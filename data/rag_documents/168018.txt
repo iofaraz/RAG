@@ -1,0 +1,16 @@
+Food: Mouse nuts, seedlings (Alaska Native)
+Food ID: 168018
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 7.3 g
+Carbohydrates: 16.3 g
+Fat: 1.1 g
+
+Minerals:
+Calcium: 17 mg
+
+Vitamins:
+Vitamin C: 8 mg

@@ -1,0 +1,37 @@
+Food: Salisbury steak with gravy, frozen
+Food ID: 168965
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 6.98 g
+Carbohydrates: 6.78 g
+Fat: 10.47 g
+Fiber: 1 g
+Sugar: 0.26 g
+
+Fats:
+Saturated fat: 3.982 g
+Monounsaturated fat: 4.798 g
+Polyunsaturated fat: 1.483 g
+Trans fat: 0.284 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 509 mg
+Potassium: 144 mg
+Calcium: 47 mg
+Iron: 0.95 mg
+Magnesium: 17 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.131 mg
+Vitamin B12: 0.41 µg
+Folate: 13 µg

@@ -1,0 +1,34 @@
+Food: APPLEBEE'S, mozzarella sticks
+Food ID: 169011
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 316 kcal
+Protein: 14.87 g
+Carbohydrates: 22.87 g
+Fat: 18.37 g
+Fiber: 2.1 g
+Sugar: 2.8 g
+
+Fats:
+Saturated fat: 6.73 g
+Monounsaturated fat: 4.217 g
+Polyunsaturated fat: 4.58 g
+Trans fat: 0.363 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 838 mg
+Potassium: 106 mg
+Calcium: 319 mg
+Iron: 0.43 mg
+Magnesium: 20 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin E: 0.71 mg
+Vitamin K: 22.2 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.99 µg

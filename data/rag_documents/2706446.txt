@@ -1,0 +1,36 @@
+Food: Stuffed chicken, drumstick or breast, Puerto Rican style
+Food ID: 2706446
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 28.4 g
+Carbohydrates: 6.51 g
+Fat: 10.54 g
+Fiber: 0.3 g
+Sugar: 0.36 g
+
+Fats:
+Saturated fat: 3.477 g
+Monounsaturated fat: 3.899 g
+Polyunsaturated fat: 1.587 g
+Cholesterol: 167 mg
+
+Minerals:
+Sodium: 901 mg
+Potassium: 301 mg
+Calcium: 86 mg
+Iron: 1.4 mg
+Magnesium: 27 mg
+Zinc: 2.04 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.69 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.264 mg
+Vitamin B12: 0.66 µg
+Folate: 24 µg

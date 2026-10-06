@@ -1,0 +1,36 @@
+Food: Ham sandwich on white
+Food ID: 2706964
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 12.94 g
+Carbohydrates: 25.58 g
+Fat: 3.66 g
+Fiber: 1.2 g
+Sugar: 2.76 g
+
+Fats:
+Saturated fat: 0.965 g
+Monounsaturated fat: 1.081 g
+Polyunsaturated fat: 1.23 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 662 mg
+Potassium: 266 mg
+Calcium: 112 mg
+Iron: 2.02 mg
+Magnesium: 23 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.238 mg
+Vitamin B12: 0.17 µg
+Folate: 57 µg

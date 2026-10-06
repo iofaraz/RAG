@@ -1,0 +1,25 @@
+Food: Baking chocolate, MARS SNACKFOOD US, M&M's Semisweet Chocolate Mini Baking Bits
+Food ID: 169581
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 517 kcal
+Protein: 4.44 g
+Carbohydrates: 65.96 g
+Fat: 26.15 g
+Fiber: 6.7 g
+Sugar: 53.07 g
+
+Fats:
+Saturated fat: 15.618 g
+Trans fat: 0.042 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 2 mg
+Calcium: 34 mg
+Iron: 2.91 mg
+
+Vitamins:
+Vitamin C: 0 mg

@@ -1,0 +1,36 @@
+Food: Squash, winter, souffle
+Food ID: 2709696
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 3.4 g
+Carbohydrates: 12.14 g
+Fat: 2.26 g
+Fiber: 2.1 g
+Sugar: 5.77 g
+
+Fats:
+Saturated fat: 0.747 g
+Monounsaturated fat: 0.701 g
+Polyunsaturated fat: 0.446 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 164 mg
+Potassium: 216 mg
+Calcium: 35 mg
+Iron: 0.79 mg
+Magnesium: 13 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 225 µg
+Vitamin C: 7 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.28 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.17 µg
+Folate: 27 µg

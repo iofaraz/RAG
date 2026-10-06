@@ -1,0 +1,36 @@
+Food: Russian dressing
+Food ID: 2710206
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 355 kcal
+Protein: 0.69 g
+Carbohydrates: 31.9 g
+Fat: 26.18 g
+Fiber: 0.7 g
+Sugar: 17.68 g
+
+Fats:
+Saturated fat: 2.39 g
+Monounsaturated fat: 5.928 g
+Polyunsaturated fat: 14.83 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1133 mg
+Potassium: 173 mg
+Calcium: 13 mg
+Iron: 0.6 mg
+Magnesium: 10 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 6 mg
+Vitamin D: 0 µg
+Vitamin E: 3.32 mg
+Vitamin K: 53.7 µg
+Vitamin B6: 0.097 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

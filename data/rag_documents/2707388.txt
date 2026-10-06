@@ -1,0 +1,36 @@
+Food: Soybeans, cooked
+Food ID: 2707388
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 218 kcal
+Protein: 16.92 g
+Carbohydrates: 7.77 g
+Fat: 14.84 g
+Fiber: 5.6 g
+Sugar: 2.79 g
+
+Fats:
+Saturated fat: 2.075 g
+Monounsaturated fat: 4.598 g
+Polyunsaturated fat: 7.205 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 217 mg
+Potassium: 479 mg
+Calcium: 95 mg
+Iron: 4.79 mg
+Magnesium: 80 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.56 mg
+Vitamin K: 24.4 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0 µg
+Folate: 48 µg

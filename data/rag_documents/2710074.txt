@@ -1,0 +1,36 @@
+Food: Cauliflower, pickled
+Food ID: 2710074
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 1.59 g
+Carbohydrates: 8.98 g
+Fat: 0.25 g
+Fiber: 1.7 g
+Sugar: 6.45 g
+
+Fats:
+Saturated fat: 0.108 g
+Monounsaturated fat: 0.028 g
+Polyunsaturated fat: 0.026 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 969 mg
+Potassium: 248 mg
+Calcium: 20 mg
+Iron: 0.35 mg
+Magnesium: 13 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 34 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 12.9 µg
+Vitamin B6: 0.137 mg
+Vitamin B12: 0 µg
+Folate: 40 µg

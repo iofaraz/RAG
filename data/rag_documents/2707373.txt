@@ -1,0 +1,36 @@
+Food: Pinto beans, from dried, no added fat
+Food ID: 2707373
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 8.96 g
+Carbohydrates: 26.06 g
+Fat: 0.65 g
+Fiber: 8.9 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 0.135 g
+Monounsaturated fat: 0.132 g
+Polyunsaturated fat: 0.234 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 232 mg
+Potassium: 433 mg
+Calcium: 46 mg
+Iron: 2.08 mg
+Magnesium: 50 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.93 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.216 mg
+Vitamin B12: 0 µg
+Folate: 162 µg

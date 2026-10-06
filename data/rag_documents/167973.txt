@@ -1,0 +1,37 @@
+Food: Candies, carob, unsweetened
+Food ID: 167973
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 540 kcal
+Protein: 8.15 g
+Carbohydrates: 56.29 g
+Fat: 31.36 g
+Fiber: 3.8 g
+Sugar: 34.11 g
+
+Fats:
+Saturated fat: 29.018 g
+Monounsaturated fat: 0.483 g
+Polyunsaturated fat: 0.295 g
+Trans fat: 0 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 107 mg
+Potassium: 633 mg
+Calcium: 303 mg
+Iron: 1.29 mg
+Magnesium: 36 mg
+Zinc: 3.53 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.57 mg
+Vitamin K: 7.7 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.28 µg
+Folate: 21 µg

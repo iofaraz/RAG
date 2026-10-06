@@ -1,0 +1,19 @@
+Food: Blackberries, raw
+Food ID: 2727581
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.52625 g
+Fiber: 5.3 g
+
+Minerals:
+Sodium: 1.548 mg
+Potassium: 167.4 mg
+Calcium: 15.45 mg
+Iron: 0.2079 mg
+Magnesium: 20.58 mg
+Zinc: 0.1889 mg
+
+Vitamins:
+Vitamin C: 15.4 mg

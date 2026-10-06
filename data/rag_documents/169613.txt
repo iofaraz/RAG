@@ -1,0 +1,30 @@
+Food: Frozen novelties, ice type, fruit, no sugar added
+Food ID: 169613
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 24 kcal
+Protein: 0.5 g
+Carbohydrates: 6.2 g
+Fat: 0.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 26 mg
+Calcium: 2 mg
+Iron: 0.13 mg
+Magnesium: 2 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

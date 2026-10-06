@@ -1,0 +1,36 @@
+Food: Taco, flour tortilla, pork, with beans, cheese
+Food ID: 2708525
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 222 kcal
+Protein: 11.53 g
+Carbohydrates: 22.73 g
+Fat: 9.2 g
+Fiber: 2.4 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 3.663 g
+Monounsaturated fat: 3.029 g
+Polyunsaturated fat: 1.566 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 463 mg
+Potassium: 215 mg
+Calcium: 102 mg
+Iron: 2.21 mg
+Magnesium: 25 mg
+Zinc: 1.68 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.08 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.162 mg
+Vitamin B12: 0.28 µg
+Folate: 44 µg

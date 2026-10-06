@@ -1,0 +1,33 @@
+Food: TACO BELL, BURRITO SUPREME with steak
+Food ID: 170335
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 183 kcal
+Protein: 9.13 g
+Carbohydrates: 20.32 g
+Fat: 7.27 g
+Fiber: 2.4 g
+
+Fats:
+Saturated fat: 2.674 g
+Monounsaturated fat: 2.822 g
+Polyunsaturated fat: 0.77 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 534 mg
+Potassium: 228 mg
+Calcium: 101 mg
+Iron: 2 mg
+Magnesium: 27 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin E: 0.38 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0.6 µg
+Folate: 39 µg

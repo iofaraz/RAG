@@ -1,0 +1,22 @@
+Food: Beverages, V8 SPLASH Juice Drinks, Mango Peach
+Food ID: 174165
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 0 g
+Carbohydrates: 8.23 g
+Fat: 0 g
+Sugar: 8.23 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 16 mg
+Potassium: 12 mg
+
+Vitamins:
+Vitamin C: 24.7 mg
+Vitamin E: 1.11 mg

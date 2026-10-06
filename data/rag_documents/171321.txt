@@ -1,0 +1,37 @@
+Food: Spices, cloves, ground
+Food ID: 171321
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 5.97 g
+Carbohydrates: 65.53 g
+Fat: 13 g
+Fiber: 33.9 g
+Sugar: 2.38 g
+
+Fats:
+Saturated fat: 3.952 g
+Monounsaturated fat: 1.393 g
+Polyunsaturated fat: 3.606 g
+Trans fat: 0.254 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 277 mg
+Potassium: 1020 mg
+Calcium: 632 mg
+Iron: 11.83 mg
+Magnesium: 259 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 8.82 mg
+Vitamin K: 141.8 µg
+Vitamin B6: 0.391 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

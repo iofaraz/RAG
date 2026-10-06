@@ -1,0 +1,25 @@
+Food: Rolls, gluten-free, white, made with brown rice flour, tapioca starch, and sorghum flour
+Food ID: 171863
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 5.65 g
+Carbohydrates: 40.24 g
+Fat: 8.2 g
+Fiber: 2.9 g
+Sugar: 2.98 g
+
+Minerals:
+Sodium: 544 mg
+Potassium: 165 mg
+Calcium: 41 mg
+Iron: 0.89 mg
+Magnesium: 42 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin E: 0.52 mg
+Vitamin B6: 0.14 mg
+Folate: 31 µg

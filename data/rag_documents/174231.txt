@@ -1,0 +1,29 @@
+Food: Fish, butterfish, cooked, dry heat
+Food ID: 174231
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 22.15 g
+Carbohydrates: 0 g
+Fat: 10.28 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 114 mg
+Potassium: 481 mg
+Calcium: 28 mg
+Iron: 0.64 mg
+Magnesium: 32 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.346 mg
+Vitamin B12: 1.83 µg
+Folate: 17 µg

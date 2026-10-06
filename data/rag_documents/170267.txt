@@ -1,0 +1,24 @@
+Food: Frozen novelties, Sugar Free, CREAMSICLE Pops
+Food ID: 170267
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 1.37 g
+Carbohydrates: 11.95 g
+Fat: 2.33 g
+Fiber: 7.5 g
+Sugar: 0.43 g
+
+Fats:
+Saturated fat: 2 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Calcium: 23 mg
+Iron: 0.03 mg
+
+Vitamins:
+Vitamin C: 0 mg

@@ -1,0 +1,36 @@
+Food: Muffin, English, cheese
+Food ID: 2707700
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 9.59 g
+Carbohydrates: 42.08 g
+Fat: 3.31 g
+Fiber: 3.3 g
+Sugar: 3.37 g
+
+Fats:
+Saturated fat: 1.656 g
+Monounsaturated fat: 0.736 g
+Polyunsaturated fat: 0.532 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 436 mg
+Potassium: 107 mg
+Calcium: 190 mg
+Iron: 3.81 mg
+Magnesium: 24 mg
+Zinc: 1.18 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.33 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.07 µg
+Folate: 90 µg

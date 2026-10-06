@@ -1,0 +1,36 @@
+Food: Salad dressing, mayonnaise and mayonnaise-type, low calorie
+Food ID: 168112
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 263 kcal
+Protein: 0.9 g
+Carbohydrates: 23.9 g
+Fat: 19 g
+Fiber: 0 g
+Sugar: 4.34 g
+
+Fats:
+Saturated fat: 2.962 g
+Monounsaturated fat: 4.628 g
+Polyunsaturated fat: 10.396 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 837 mg
+Potassium: 24 mg
+Calcium: 14 mg
+Iron: 0.26 mg
+Magnesium: 2 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.07 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.21 µg
+Folate: 6 µg

@@ -1,0 +1,36 @@
+Food: Cheese, american cheddar, imitation
+Food ID: 169901
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 16.7 g
+Carbohydrates: 11.6 g
+Fat: 14 g
+Fiber: 0 g
+Sugar: 7.74 g
+
+Fats:
+Saturated fat: 8.79 g
+Monounsaturated fat: 4.102 g
+Polyunsaturated fat: 0.409 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 1345 mg
+Potassium: 242 mg
+Calcium: 562 mg
+Iron: 0.33 mg
+Magnesium: 29 mg
+Zinc: 2.59 mg
+
+Vitamins:
+Vitamin A: 114 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.4 µg
+Folate: 7 µg

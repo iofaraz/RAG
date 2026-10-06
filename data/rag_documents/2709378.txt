@@ -1,0 +1,36 @@
+Food: Baby Toddler juice, fruit and vegetable
+Food ID: 2709378
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.3 g
+Carbohydrates: 11.4 g
+Fat: 0.1 g
+Fiber: 0.5 g
+Sugar: 9.6 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.05 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 137 mg
+Calcium: 15 mg
+Iron: 0.3 mg
+Magnesium: 7 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 154 µg
+Vitamin C: 34.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

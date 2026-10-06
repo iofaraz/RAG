@@ -1,0 +1,36 @@
+Food: Potato, scalloped, from fresh, with meat
+Food ID: 2709451
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 7.44 g
+Carbohydrates: 12.88 g
+Fat: 10.36 g
+Fiber: 0.7 g
+Sugar: 2.08 g
+
+Fats:
+Saturated fat: 5.465 g
+Monounsaturated fat: 2.399 g
+Polyunsaturated fat: 0.7 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 358 mg
+Potassium: 250 mg
+Calcium: 182 mg
+Iron: 0.31 mg
+Magnesium: 21 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 106 µg
+Vitamin C: 6 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.43 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.215 mg
+Vitamin B12: 0.21 µg
+Folate: 10 µg

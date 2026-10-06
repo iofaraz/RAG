@@ -1,0 +1,37 @@
+Food: Lasagna with meat sauce, frozen, prepared
+Food ID: 172114
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 135 kcal
+Protein: 7.28 g
+Carbohydrates: 15.36 g
+Fat: 4.92 g
+Fiber: 1.7 g
+Sugar: 3.11 g
+
+Fats:
+Saturated fat: 2.348 g
+Monounsaturated fat: 1.758 g
+Polyunsaturated fat: 0.433 g
+Trans fat: 0.196 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 373 mg
+Potassium: 196 mg
+Calcium: 88 mg
+Iron: 0.71 mg
+Magnesium: 20 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.85 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.33 µg
+Folate: 24 µg

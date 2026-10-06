@@ -1,0 +1,36 @@
+Food: Bagel chips
+Food ID: 2708292
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 451 kcal
+Protein: 12.34 g
+Carbohydrates: 66.36 g
+Fat: 15.14 g
+Fiber: 4.1 g
+Sugar: 6.02 g
+
+Fats:
+Saturated fat: 6.835 g
+Monounsaturated fat: 6.05 g
+Polyunsaturated fat: 2.085 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 233 mg
+Potassium: 140 mg
+Calcium: 24 mg
+Iron: 5.05 mg
+Magnesium: 39 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0 µg
+Folate: 142 µg

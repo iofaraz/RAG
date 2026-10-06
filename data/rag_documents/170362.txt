@@ -1,0 +1,35 @@
+Food: DIGIORNO Pizza, cheese topping, rising crust, frozen, baked
+Food ID: 170362
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 256 kcal
+Protein: 12.8 g
+Carbohydrates: 31.78 g
+Fat: 8.6 g
+Fiber: 2.4 g
+Sugar: 5 g
+
+Fats:
+Saturated fat: 3.514 g
+Monounsaturated fat: 1.854 g
+Polyunsaturated fat: 1.461 g
+Trans fat: 0.172 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 696 mg
+Potassium: 196 mg
+Calcium: 192 mg
+Iron: 0.77 mg
+Magnesium: 27 mg
+Zinc: 1.56 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 1.5 mg
+Vitamin E: 0.89 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0.33 µg

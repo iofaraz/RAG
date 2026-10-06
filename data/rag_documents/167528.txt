@@ -1,0 +1,32 @@
+Food: Pastry, Pastelitos de Guava (guava pastries)
+Food ID: 167528
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 5.48 g
+Carbohydrates: 47.76 g
+Fat: 18.5 g
+Fiber: 2.2 g
+Sugar: 17 g
+
+Fats:
+Saturated fat: 5.535 g
+Monounsaturated fat: 8.543 g
+Polyunsaturated fat: 2.835 g
+Trans fat: 2.853 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 231 mg
+Potassium: 103 mg
+Calcium: 14 mg
+Iron: 2.12 mg
+Magnesium: 15 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin E: 0.95 mg
+Vitamin K: 12.5 µg
+Vitamin B6: 0.053 mg

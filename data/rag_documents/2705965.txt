@@ -1,0 +1,36 @@
+Food: Chicken breast, stewed, skin eaten
+Food ID: 2705965
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 181 kcal
+Protein: 24.7 g
+Carbohydrates: 0 g
+Fat: 8.28 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.152 g
+Monounsaturated fat: 3.06 g
+Polyunsaturated fat: 1.616 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 280 mg
+Calcium: 7 mg
+Iron: 0.5 mg
+Magnesium: 23 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.56 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.658 mg
+Vitamin B12: 0.16 µg
+Folate: 6 µg

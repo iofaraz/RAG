@@ -1,0 +1,34 @@
+Food: Chicken, wing, frozen, glazed, barbecue flavored, heated (conventional oven)
+Food ID: 171115
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 242 kcal
+Protein: 22.24 g
+Carbohydrates: 3.36 g
+Fat: 14.87 g
+Fiber: 0.5 g
+Sugar: 1.94 g
+
+Fats:
+Saturated fat: 3.966 g
+Monounsaturated fat: 6.737 g
+Polyunsaturated fat: 2.838 g
+Cholesterol: 136 mg
+
+Minerals:
+Sodium: 559 mg
+Potassium: 218 mg
+Calcium: 28 mg
+Iron: 1.97 mg
+Magnesium: 21 mg
+Zinc: 1.3 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin E: 0.44 mg
+Vitamin B6: 0.183 mg
+Vitamin B12: 0.55 µg
+Folate: 10 µg

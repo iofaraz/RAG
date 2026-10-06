@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, subcutaneous fat, raw
+Food ID: 174435
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 703 kcal
+Protein: 3.87 g
+Carbohydrates: 0.55 g
+Fat: 76.16 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 32.369 g
+Monounsaturated fat: 21.703 g
+Polyunsaturated fat: 2.31 g
+Trans fat: 4.049 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 93 mg
+Calcium: 3 mg
+Iron: 0.47 mg
+Magnesium: 5 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.18 mg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0.41 µg

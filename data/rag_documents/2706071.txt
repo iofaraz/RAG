@@ -1,0 +1,36 @@
+Food: Chicken "wings" with other sauces or seasoning, from fast food / restaurant
+Food ID: 2706071
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 16.95 g
+Carbohydrates: 13.13 g
+Fat: 17.39 g
+Fiber: 0.2 g
+Sugar: 7.55 g
+
+Fats:
+Saturated fat: 4.137 g
+Monounsaturated fat: 7.636 g
+Polyunsaturated fat: 3.219 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 761 mg
+Potassium: 257 mg
+Calcium: 44 mg
+Iron: 0.88 mg
+Magnesium: 20 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.05 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.169 mg
+Vitamin B12: 0.34 µg
+Folate: 12 µg

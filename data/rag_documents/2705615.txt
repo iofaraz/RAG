@@ -1,0 +1,36 @@
+Food: Sour cream, light
+Food ID: 2705615
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 3.5 g
+Carbohydrates: 7.1 g
+Fat: 10.6 g
+Fiber: 0 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 6.6 g
+Monounsaturated fat: 3.1 g
+Polyunsaturated fat: 0.4 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 83 mg
+Potassium: 212 mg
+Calcium: 141 mg
+Iron: 0.07 mg
+Magnesium: 10 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.42 µg
+Folate: 11 µg

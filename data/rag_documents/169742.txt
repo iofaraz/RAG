@@ -1,0 +1,36 @@
+Food: Rice noodles, dry
+Food ID: 169742
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 5.95 g
+Carbohydrates: 80.18 g
+Fat: 0.56 g
+Fiber: 1.6 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 0.153 g
+Monounsaturated fat: 0.175 g
+Polyunsaturated fat: 0.15 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 182 mg
+Potassium: 30 mg
+Calcium: 18 mg
+Iron: 0.7 mg
+Magnesium: 12 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.015 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

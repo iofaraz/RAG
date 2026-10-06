@@ -1,0 +1,26 @@
+Food: Kraft, Stove Top Stuffing Mix Chicken Flavor
+Food ID: 175079
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 12.6 g
+Carbohydrates: 73.1 g
+Fat: 4.1 g
+Fiber: 2.5 g
+Sugar: 10.1 g
+
+Fats:
+Saturated fat: 0.8 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 1532 mg
+Potassium: 267 mg
+Calcium: 63 mg
+Iron: 4.32 mg
+
+Vitamins:
+Vitamin C: 3.3 mg
+Folate: 80 µg

@@ -1,0 +1,32 @@
+Food: McDONALD'S, BIG BREAKFAST
+Food ID: 172064
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 285 kcal
+Protein: 10.16 g
+Carbohydrates: 17.5 g
+Fat: 19.37 g
+Fiber: 1.1 g
+Sugar: 0.93 g
+
+Fats:
+Saturated fat: 6.405 g
+Monounsaturated fat: 7.372 g
+Polyunsaturated fat: 3.195 g
+Cholesterol: 173 mg
+
+Minerals:
+Sodium: 549 mg
+Potassium: 207 mg
+Calcium: 51 mg
+Iron: 1.74 mg
+Magnesium: 15 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 0.4 mg
+Vitamin B6: 0.174 mg
+Vitamin B12: 0.57 µg

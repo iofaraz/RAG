@@ -1,0 +1,36 @@
+Food: Spam sandwich
+Food ID: 2707055
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 10.03 g
+Carbohydrates: 27.64 g
+Fat: 12.83 g
+Fiber: 1.1 g
+Sugar: 5.13 g
+
+Fats:
+Saturated fat: 4.577 g
+Monounsaturated fat: 6.012 g
+Polyunsaturated fat: 1.699 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 913 mg
+Potassium: 261 mg
+Calcium: 97 mg
+Iron: 1.83 mg
+Magnesium: 20 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.46 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0.19 µg
+Folate: 52 µg

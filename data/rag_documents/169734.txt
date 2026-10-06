@@ -1,0 +1,36 @@
+Food: Noodles, egg, spinach, enriched, cooked
+Food ID: 169734
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 5.04 g
+Carbohydrates: 24.25 g
+Fat: 1.57 g
+Fiber: 2.3 g
+Sugar: 0.71 g
+
+Fats:
+Saturated fat: 0.361 g
+Monounsaturated fat: 0.493 g
+Polyunsaturated fat: 0.349 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 37 mg
+Calcium: 19 mg
+Iron: 1.09 mg
+Magnesium: 24 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.55 mg
+Vitamin K: 101.1 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0.14 µg
+Folate: 64 µg

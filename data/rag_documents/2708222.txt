@@ -1,0 +1,36 @@
+Food: Popcorn, popped in oil, with added butter
+Food ID: 2708222
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 525 kcal
+Protein: 7.69 g
+Carbohydrates: 49.13 g
+Fat: 35.19 g
+Fiber: 8.4 g
+Sugar: 0.51 g
+
+Fats:
+Saturated fat: 9.207 g
+Monounsaturated fat: 10.017 g
+Polyunsaturated fat: 13.226 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 223 mg
+Potassium: 194 mg
+Calcium: 12 mg
+Iron: 2.35 mg
+Magnesium: 92 mg
+Zinc: 2.24 mg
+
+Vitamins:
+Vitamin A: 126 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.3 µg
+Vitamin E: 3.15 mg
+Vitamin K: 10.3 µg
+Vitamin B6: 0.349 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

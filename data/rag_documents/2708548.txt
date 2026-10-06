@@ -1,0 +1,36 @@
+Food: Burrito, with beans, cheese
+Food ID: 2708548
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 196 kcal
+Protein: 8.1 g
+Carbohydrates: 29.49 g
+Fat: 5.16 g
+Fiber: 4.9 g
+Sugar: 1.69 g
+
+Fats:
+Saturated fat: 2.139 g
+Monounsaturated fat: 1.146 g
+Polyunsaturated fat: 1.14 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 449 mg
+Potassium: 244 mg
+Calcium: 103 mg
+Iron: 2.39 mg
+Magnesium: 40 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.06 µg
+Folate: 86 µg

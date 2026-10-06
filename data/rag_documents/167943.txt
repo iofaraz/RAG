@@ -1,0 +1,37 @@
+Food: Bread, potato
+Food ID: 167943
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 12.5 g
+Carbohydrates: 47.07 g
+Fat: 3.13 g
+Fiber: 6.3 g
+Sugar: 9.38 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 375 mg
+Potassium: 718 mg
+Calcium: 188 mg
+Iron: 2.25 mg
+Magnesium: 28 mg
+Zinc: 1.44 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.47 mg
+Vitamin K: 6.8 µg
+Vitamin B6: 0.232 mg
+Vitamin B12: 0.15 µg
+Folate: 126 µg

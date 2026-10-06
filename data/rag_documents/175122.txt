@@ -1,0 +1,32 @@
+Food: Fish, mackerel, king, raw
+Food ID: 175122
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 20.28 g
+Carbohydrates: 0 g
+Fat: 2 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.363 g
+Monounsaturated fat: 0.764 g
+Polyunsaturated fat: 0.46 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 158 mg
+Potassium: 435 mg
+Calcium: 31 mg
+Iron: 1.78 mg
+Magnesium: 32 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 218 µg
+Vitamin C: 1.6 mg
+Vitamin B6: 0.442 mg
+Vitamin B12: 15.6 µg
+Folate: 8 µg

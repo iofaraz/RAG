@@ -1,0 +1,33 @@
+Food: Yogurt, Greek, nonfat, strawberry, DANNON OIKOS
+Food ID: 171299
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 8.03 g
+Carbohydrates: 12.53 g
+Fat: 0.22 g
+Fiber: 0.4 g
+Sugar: 11.63 g
+
+Fats:
+Saturated fat: 0.11 g
+Monounsaturated fat: 0.024 g
+Polyunsaturated fat: 0.008 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 33 mg
+Potassium: 145 mg
+Calcium: 94 mg
+Iron: 0.06 mg
+Magnesium: 11 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin D: 1 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.59 µg
+Folate: 20 µg

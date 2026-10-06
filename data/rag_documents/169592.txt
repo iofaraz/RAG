@@ -1,0 +1,30 @@
+Food: Candies, SPECIAL DARK Chocolate Bar
+Food ID: 169592
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 556 kcal
+Protein: 5.54 g
+Carbohydrates: 60.49 g
+Fat: 32.4 g
+Fiber: 6.5 g
+Sugar: 47.56 g
+
+Fats:
+Monounsaturated fat: 5.14 g
+Polyunsaturated fat: 0.44 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 502 mg
+Calcium: 30 mg
+Iron: 2.13 mg
+Magnesium: 31 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0 mg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Pomegranate, raw
+Food ID: 2709267
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 1.67 g
+Carbohydrates: 18.7 g
+Fat: 1.17 g
+Fiber: 4 g
+Sugar: 13.67 g
+
+Fats:
+Saturated fat: 0.12 g
+Monounsaturated fat: 0.093 g
+Polyunsaturated fat: 0.079 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 236 mg
+Calcium: 10 mg
+Iron: 0.3 mg
+Magnesium: 12 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 10.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 16.4 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

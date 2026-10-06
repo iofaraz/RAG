@@ -1,0 +1,32 @@
+Food: Fish, spot, cooked, dry heat
+Food ID: 174244
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 23.73 g
+Carbohydrates: 0 g
+Fat: 6.28 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.859 g
+Monounsaturated fat: 1.706 g
+Polyunsaturated fat: 1.398 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 37 mg
+Potassium: 636 mg
+Calcium: 18 mg
+Iron: 0.41 mg
+Magnesium: 54 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.462 mg
+Vitamin B12: 3.46 µg
+Folate: 6 µg

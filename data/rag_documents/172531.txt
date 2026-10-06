@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, liver, raw
+Food ID: 172531
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 20.38 g
+Carbohydrates: 1.78 g
+Fat: 5.02 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.94 g
+Monounsaturated fat: 1.05 g
+Polyunsaturated fat: 0.75 g
+Cholesterol: 371 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 313 mg
+Calcium: 7 mg
+Iron: 7.37 mg
+Magnesium: 19 mg
+Zinc: 4.66 mg
+
+Vitamins:
+Vitamin A: 7391 µg
+Vitamin C: 4 mg
+Vitamin B6: 0.9 mg
+Vitamin B12: 90.05 µg
+Folate: 230 µg

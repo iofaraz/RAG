@@ -1,0 +1,36 @@
+Food: Carrots, canned, cooked with butter or margarine
+Food ID: 2709676
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 0.64 g
+Carbohydrates: 5.39 g
+Fat: 2.38 g
+Fiber: 1.5 g
+Sugar: 2.42 g
+
+Fats:
+Saturated fat: 0.982 g
+Monounsaturated fat: 0.586 g
+Polyunsaturated fat: 0.435 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 252 mg
+Potassium: 175 mg
+Calcium: 25 mg
+Iron: 0.62 mg
+Magnesium: 8 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 565 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.93 mg
+Vitamin K: 10.8 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

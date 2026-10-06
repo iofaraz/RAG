@@ -1,0 +1,21 @@
+Food: Corn, sweet, yellow and white kernels,  fresh, raw
+Food ID: 2710826
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.78938 g
+Carbohydrates: 14.6896 g
+Fat: 1.626 g
+Fiber: 2.428 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 237 mg
+Calcium: 0.6563 mg
+Iron: 0.3875 mg
+Magnesium: 25.76 mg
+Zinc: 0.5564 mg
+
+Vitamins:
+Vitamin B6: 0.1501 mg

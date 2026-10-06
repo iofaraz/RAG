@@ -1,0 +1,34 @@
+Food: Sausage, summer, pork and beef, sticks, with cheddar cheese
+Food ID: 174599
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 426 kcal
+Protein: 19.43 g
+Carbohydrates: 1.82 g
+Fat: 37.91 g
+Fiber: 0.2 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 10.47 g
+Monounsaturated fat: 13.68 g
+Polyunsaturated fat: 3.02 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 1483 mg
+Potassium: 206 mg
+Calcium: 81 mg
+Iron: 2.26 mg
+Magnesium: 13 mg
+Zinc: 2.25 mg
+
+Vitamins:
+Vitamin A: 225 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 1.73 µg
+Folate: 7 µg

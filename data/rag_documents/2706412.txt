@@ -1,0 +1,36 @@
+Food: Stewed pork, Puerto Rican style
+Food ID: 2706412
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 200 kcal
+Protein: 17.91 g
+Carbohydrates: 2.75 g
+Fat: 12.69 g
+Fiber: 0.6 g
+Sugar: 1.29 g
+
+Fats:
+Saturated fat: 2.957 g
+Monounsaturated fat: 7.353 g
+Polyunsaturated fat: 1.296 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 579 mg
+Potassium: 401 mg
+Calcium: 20 mg
+Iron: 1.09 mg
+Magnesium: 26 mg
+Zinc: 1.91 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 8.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 2.05 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.391 mg
+Vitamin B12: 0.4 µg
+Folate: 5 µg

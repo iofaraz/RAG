@@ -1,0 +1,36 @@
+Food: Milk shakes, thick chocolate
+Food ID: 170883
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 3.05 g
+Carbohydrates: 21.15 g
+Fat: 2.7 g
+Fiber: 0.3 g
+Sugar: 20.85 g
+
+Fats:
+Saturated fat: 1.681 g
+Monounsaturated fat: 0.78 g
+Polyunsaturated fat: 0.1 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 111 mg
+Potassium: 224 mg
+Calcium: 132 mg
+Iron: 0.31 mg
+Magnesium: 16 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0.32 µg
+Folate: 5 µg

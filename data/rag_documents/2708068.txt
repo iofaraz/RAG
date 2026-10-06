@@ -1,0 +1,36 @@
+Food: Doughnut, chocolate, with chocolate icing
+Food ID: 2708068
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 413 kcal
+Protein: 5.42 g
+Carbohydrates: 51.01 g
+Fat: 22.72 g
+Fiber: 3.9 g
+Sugar: 24.97 g
+
+Fats:
+Saturated fat: 9.787 g
+Monounsaturated fat: 8.374 g
+Polyunsaturated fat: 3.346 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 388 mg
+Potassium: 239 mg
+Calcium: 39 mg
+Iron: 3.06 mg
+Magnesium: 50 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.78 mg
+Vitamin K: 7.4 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.04 µg
+Folate: 70 µg

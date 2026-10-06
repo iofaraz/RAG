@@ -1,0 +1,30 @@
+Food: McDONALD'S, Sausage, Egg & Cheese McGRIDDLES
+Food ID: 172060
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 283 kcal
+Protein: 10.77 g
+Carbohydrates: 22.04 g
+Fat: 17.73 g
+Fiber: 0.6 g
+Sugar: 7.9 g
+
+Fats:
+Saturated fat: 5.649 g
+Monounsaturated fat: 6.718 g
+Polyunsaturated fat: 2.26 g
+Cholesterol: 132 mg
+
+Minerals:
+Sodium: 652 mg
+Potassium: 146 mg
+Calcium: 96 mg
+Iron: 1.51 mg
+Magnesium: 14 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B12: 0.53 µg

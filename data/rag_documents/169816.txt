@@ -1,0 +1,25 @@
+Food: Prickly pears, raw (Northern Plains Indians)
+Food ID: 169816
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 0.12 g
+Carbohydrates: 10.17 g
+Fat: 0.11 g
+Fiber: 5.3 g
+Sugar: 1.02 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 130 mg
+Calcium: 180 mg
+Iron: 0.2 mg
+Magnesium: 69 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin C: 11 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.079 mg

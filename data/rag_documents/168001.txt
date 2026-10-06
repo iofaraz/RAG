@@ -1,0 +1,36 @@
+Food: Candies, milk chocolate coated peanuts
+Food ID: 168001
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 519 kcal
+Protein: 13.1 g
+Carbohydrates: 49.7 g
+Fat: 33.5 g
+Fiber: 4.7 g
+Sugar: 37.59 g
+
+Fats:
+Saturated fat: 14.6 g
+Monounsaturated fat: 12.92 g
+Polyunsaturated fat: 4.33 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 502 mg
+Calcium: 104 mg
+Iron: 1.31 mg
+Magnesium: 96 mg
+Zinc: 2.6 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.4 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.53 µg
+Folate: 51 µg

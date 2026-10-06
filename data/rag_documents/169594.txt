@@ -1,0 +1,36 @@
+Food: Cocoa, dry powder, unsweetened, processed with alkali
+Food ID: 169594
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 220 kcal
+Protein: 18.1 g
+Carbohydrates: 58.3 g
+Fat: 13.1 g
+Fiber: 29.8 g
+Sugar: 1.76 g
+
+Fats:
+Saturated fat: 7.76 g
+Monounsaturated fat: 4.39 g
+Polyunsaturated fat: 0.42 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 2509 mg
+Calcium: 111 mg
+Iron: 15.52 mg
+Magnesium: 476 mg
+Zinc: 6.37 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

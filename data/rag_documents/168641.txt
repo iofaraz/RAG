@@ -1,0 +1,36 @@
+Food: Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8" fat, select, cooked, grilled
+Food ID: 168641
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 28.92 g
+Carbohydrates: 0 g
+Fat: 8.76 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.454 g
+Monounsaturated fat: 3.738 g
+Polyunsaturated fat: 0.429 g
+Trans fat: 0.483 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 292 mg
+Calcium: 20 mg
+Iron: 3.44 mg
+Magnesium: 23 mg
+Zinc: 4.8 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.14 mg
+Vitamin B6: 0.628 mg
+Vitamin B12: 2.19 µg
+Folate: 7 µg

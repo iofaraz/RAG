@@ -1,0 +1,31 @@
+Food: McDONALD'S, Bacon Ranch Salad without chicken
+Food ID: 172073
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 4.14 g
+Carbohydrates: 4.2 g
+Fat: 3.64 g
+Fiber: 1.5 g
+Sugar: 2.14 g
+
+Fats:
+Saturated fat: 1.507 g
+Monounsaturated fat: 1.057 g
+Polyunsaturated fat: 0.327 g
+Trans fat: 0.111 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 132 mg
+Potassium: 201 mg
+Calcium: 63 mg
+Iron: 0.67 mg
+Magnesium: 10 mg
+
+Vitamins:
+Vitamin C: 13.5 mg
+Vitamin B12: 0.1 µg
+Folate: 53 µg

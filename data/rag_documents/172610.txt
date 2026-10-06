@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, breast, separable lean only, cooked, braised
+Food ID: 172610
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 28.16 g
+Carbohydrates: 0 g
+Fat: 17.53 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.004 g
+Monounsaturated fat: 4.317 g
+Polyunsaturated fat: 0.775 g
+Trans fat: 0.475 g
+Cholesterol: 102 mg
+
+Minerals:
+Sodium: 86 mg
+Potassium: 183 mg
+Calcium: 25 mg
+Iron: 1.89 mg
+Magnesium: 20 mg
+Zinc: 4.8 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin B6: 0.089 mg
+Vitamin B12: 1.44 µg

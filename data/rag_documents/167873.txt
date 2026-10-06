@@ -1,0 +1,32 @@
+Food: Pork, cured, ham, patties, unheated
+Food ID: 167873
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 315 kcal
+Protein: 12.78 g
+Carbohydrates: 1.69 g
+Fat: 28.19 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 10.13 g
+Monounsaturated fat: 13.26 g
+Polyunsaturated fat: 3.04 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 1088 mg
+Potassium: 239 mg
+Calcium: 8 mg
+Iron: 1.05 mg
+Magnesium: 10 mg
+Zinc: 1.57 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.16 mg
+Vitamin B12: 1.08 µg
+Folate: 3 µg

@@ -1,0 +1,37 @@
+Food: Peppers, sweet, green, cooked, boiled, drained, with salt
+Food ID: 170109
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 26 kcal
+Protein: 0.92 g
+Carbohydrates: 6.11 g
+Fat: 0.2 g
+Fiber: 1.2 g
+Sugar: 3.19 g
+
+Fats:
+Saturated fat: 0.029 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.106 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 238 mg
+Potassium: 166 mg
+Calcium: 9 mg
+Iron: 0.46 mg
+Magnesium: 10 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 74.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 9.8 µg
+Vitamin B6: 0.233 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

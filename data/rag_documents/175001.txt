@@ -1,0 +1,36 @@
+Food: Ice cream cones, sugar, rolled-type
+Food ID: 175001
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 402 kcal
+Protein: 7.9 g
+Carbohydrates: 84.1 g
+Fat: 3.8 g
+Fiber: 1.7 g
+Sugar: 25.66 g
+
+Fats:
+Saturated fat: 0.573 g
+Monounsaturated fat: 1.47 g
+Polyunsaturated fat: 1.452 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 298 mg
+Potassium: 145 mg
+Calcium: 44 mg
+Iron: 4.43 mg
+Magnesium: 31 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0 µg
+Folate: 140 µg

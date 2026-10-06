@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, RALSTON Crispy Hexagons
+Food ID: 174649
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 5.94 g
+Carbohydrates: 86.78 g
+Fat: 0.95 g
+Fiber: 1.5 g
+Sugar: 13.79 g
+
+Fats:
+Saturated fat: 0.263 g
+Monounsaturated fat: 0.193 g
+Polyunsaturated fat: 0.35 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 517 mg
+Potassium: 224 mg
+Calcium: 8 mg
+Iron: 27.93 mg
+Magnesium: 16 mg
+Zinc: 7.43 mg
+
+Vitamins:
+Vitamin A: 1256 µg
+Vitamin C: 20.7 mg
+Vitamin D: 8.6 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0 µg
+Vitamin B6: 2.414 mg
+Vitamin B12: 7.24 µg
+Folate: 966 µg

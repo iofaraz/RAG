@@ -1,0 +1,36 @@
+Food: Meat loaf, NS as to type of meat
+Food ID: 2706579
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 17.49 g
+Carbohydrates: 7.2 g
+Fat: 11.04 g
+Fiber: 0.4 g
+Sugar: 1.81 g
+
+Fats:
+Saturated fat: 4.138 g
+Monounsaturated fat: 4.634 g
+Polyunsaturated fat: 0.614 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 416 mg
+Potassium: 273 mg
+Calcium: 65 mg
+Iron: 2.05 mg
+Magnesium: 19 mg
+Zinc: 3.82 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.17 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.27 mg
+Vitamin B12: 1.66 µg
+Folate: 20 µg

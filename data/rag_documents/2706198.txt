@@ -1,0 +1,36 @@
+Food: Scrapple, cooked
+Food ID: 2706198
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 8.57 g
+Carbohydrates: 14.96 g
+Fat: 14.76 g
+Fiber: 0.3 g
+Sugar: 0.21 g
+
+Fats:
+Saturated fat: 5.034 g
+Monounsaturated fat: 6.549 g
+Polyunsaturated fat: 1.77 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 385 mg
+Potassium: 143 mg
+Calcium: 6 mg
+Iron: 1.31 mg
+Magnesium: 10 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 499 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.16 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.23 µg
+Folate: 2 µg

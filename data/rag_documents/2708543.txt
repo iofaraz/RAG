@@ -1,0 +1,36 @@
+Food: Burrito, chicken, cheese
+Food ID: 2708543
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 13.74 g
+Carbohydrates: 28.33 g
+Fat: 8.06 g
+Fiber: 2 g
+Sugar: 2.16 g
+
+Fats:
+Saturated fat: 3.085 g
+Monounsaturated fat: 2.165 g
+Polyunsaturated fat: 1.802 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 456 mg
+Potassium: 162 mg
+Calcium: 118 mg
+Iron: 2.31 mg
+Magnesium: 22 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.231 mg
+Vitamin B12: 0.15 µg
+Folate: 56 µg

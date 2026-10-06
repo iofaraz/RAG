@@ -1,0 +1,36 @@
+Food: Babyfood, fruit, tutti frutti, junior
+Food ID: 169874
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 0.4 g
+Carbohydrates: 16 g
+Fat: 0.4 g
+Fiber: 0.4 g
+Sugar: 9.41 g
+
+Fats:
+Saturated fat: 0.11 g
+Monounsaturated fat: 0.148 g
+Polyunsaturated fat: 0.061 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 47 mg
+Calcium: 14 mg
+Iron: 0.3 mg
+Magnesium: 4 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 7.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.01 µg
+Folate: 3 µg

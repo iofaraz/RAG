@@ -1,0 +1,23 @@
+Food: Flour, wheat, all-purpose, unenriched, unbleached
+Food ID: 790018
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 362 kcal
+Protein: 12 g
+Carbohydrates: 74.6 g
+Fat: 1.7 g
+Fiber: 3 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 150 mg
+Calcium: 22 mg
+Iron: 1.18 mg
+Magnesium: 36.1 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin B6: 0.085 mg
+Folate: 23 µg

@@ -1,0 +1,36 @@
+Food: Cereal, cinnamon toast
+Food ID: 2708450
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 414 kcal
+Protein: 5.88 g
+Carbohydrates: 75.23 g
+Fat: 9.92 g
+Fiber: 5.1 g
+Sugar: 29.78 g
+
+Fats:
+Saturated fat: 0.739 g
+Monounsaturated fat: 5.721 g
+Polyunsaturated fat: 2.493 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 539 mg
+Potassium: 71 mg
+Calcium: 327 mg
+Iron: 9.4 mg
+Magnesium: 18 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 22.8 mg
+Vitamin D: 5 µg
+Vitamin E: 1.59 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.674 mg
+Vitamin B12: 0.89 µg
+Folate: 131 µg

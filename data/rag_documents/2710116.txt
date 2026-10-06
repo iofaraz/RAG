@@ -1,0 +1,36 @@
+Food: Soup, vegetable, with meat
+Food ID: 2710116
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 3.36 g
+Carbohydrates: 4.04 g
+Fat: 1.6 g
+Fiber: 0.8 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 0.481 g
+Monounsaturated fat: 0.654 g
+Polyunsaturated fat: 0.255 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 249 mg
+Potassium: 152 mg
+Calcium: 12 mg
+Iron: 0.31 mg
+Magnesium: 11 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 6.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 13.5 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 0.14 µg
+Folate: 11 µg

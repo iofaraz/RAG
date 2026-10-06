@@ -1,0 +1,36 @@
+Food: Baby Toddler cereal, rice with fruit, ready-to-eat
+Food ID: 2708504
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 87 kcal
+Protein: 1.12 g
+Carbohydrates: 19.98 g
+Fat: 0.27 g
+Fiber: 0.6 g
+Sugar: 7.54 g
+
+Fats:
+Saturated fat: 0.062 g
+Monounsaturated fat: 0.066 g
+Polyunsaturated fat: 0.075 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 70 mg
+Calcium: 25 mg
+Iron: 1.54 mg
+Magnesium: 8 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 9.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0.02 µg
+Folate: 12 µg

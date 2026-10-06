@@ -1,0 +1,36 @@
+Food: Biscuit with gravy
+Food ID: 2708744
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 224 kcal
+Protein: 6.2 g
+Carbohydrates: 16.98 g
+Fat: 14.68 g
+Fiber: 0.8 g
+Sugar: 3.88 g
+
+Fats:
+Saturated fat: 6.314 g
+Monounsaturated fat: 4.491 g
+Polyunsaturated fat: 2.596 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 451 mg
+Potassium: 152 mg
+Calcium: 80 mg
+Iron: 1.01 mg
+Magnesium: 12 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.74 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.3 µg
+Folate: 25 µg

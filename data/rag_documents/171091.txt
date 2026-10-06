@@ -1,0 +1,37 @@
+Food: Turkey, whole, dark meat, cooked, roasted
+Food ID: 171091
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 27.71 g
+Carbohydrates: 0 g
+Fat: 6.04 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.807 g
+Monounsaturated fat: 2.061 g
+Polyunsaturated fat: 1.662 g
+Trans fat: 0.08 g
+Cholesterol: 128 mg
+
+Minerals:
+Sodium: 104 mg
+Potassium: 227 mg
+Calcium: 17 mg
+Iron: 1.43 mg
+Magnesium: 27 mg
+Zinc: 3.51 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.438 mg
+Vitamin B12: 1.65 µg
+Folate: 9 µg

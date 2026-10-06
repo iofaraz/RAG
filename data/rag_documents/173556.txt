@@ -1,0 +1,36 @@
+Food: Infant formula, PBM PRODUCTS, store brand, soy, liquid concentrate, not reconstituted
+Food ID: 173556
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 3.6 g
+Carbohydrates: 12.18 g
+Fat: 7 g
+Fiber: 0 g
+Sugar: 12.18 g
+
+Fats:
+Saturated fat: 3.2 g
+Monounsaturated fat: 2.8 g
+Polyunsaturated fat: 1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 138 mg
+Calcium: 118 mg
+Iron: 2.36 mg
+Magnesium: 14 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 118 µg
+Vitamin C: 10.8 mg
+Vitamin D: 2.1 µg
+Vitamin E: 0.83 mg
+Vitamin K: 10.2 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.4 µg
+Folate: 10 µg

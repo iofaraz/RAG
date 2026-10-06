@@ -1,0 +1,33 @@
+Food: Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)
+Food ID: 746776
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 3.43 g
+Carbohydrates: 4.92 g
+Fat: 0.08 g
+
+Fats:
+Saturated fat: 0.049 g
+Monounsaturated fat: 0.017 g
+Polyunsaturated fat: 0.006 g
+Trans fat: 0 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 167 mg
+Calcium: 132 mg
+Iron: 0 mg
+Magnesium: 12.5 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin D: 1.1 µg
+Vitamin E: 0 mg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.58 µg
+Folate: 2 µg

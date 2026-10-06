@@ -1,0 +1,31 @@
+Food: SILK Chai, soymilk
+Food ID: 173776
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 2.47 g
+Carbohydrates: 7.82 g
+Fat: 1.44 g
+Fiber: 0 g
+Sugar: 5.76 g
+
+Fats:
+Saturated fat: 0.206 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 123 mg
+Calcium: 123 mg
+Iron: 0.44 mg
+Magnesium: 0 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin B12: 0.37 µg
+Folate: 7 µg

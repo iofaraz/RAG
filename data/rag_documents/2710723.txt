@@ -1,0 +1,36 @@
+Food: Nutritional drink or shake, ready-to-drink, sugar free (Slim Fast)
+Food ID: 2710723
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 3.32 g
+Carbohydrates: 7.74 g
+Fat: 1.93 g
+Fiber: 1.6 g
+Sugar: 5.95 g
+
+Fats:
+Saturated fat: 0.54 g
+Monounsaturated fat: 0.97 g
+Polyunsaturated fat: 0.32 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 68 mg
+Potassium: 193 mg
+Calcium: 161 mg
+Iron: 0.87 mg
+Magnesium: 45 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 170 µg
+Vitamin C: 19.4 mg
+Vitamin D: 1.1 µg
+Vitamin E: 4.58 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 0.68 µg
+Folate: 39 µg

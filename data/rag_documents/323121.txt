@@ -1,0 +1,31 @@
+Food: Frankfurter, beef, unheated
+Food ID: 323121
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 314 kcal
+Protein: 11.7 g
+Carbohydrates: 2.89 g
+Fat: 28 g
+
+Fats:
+Saturated fat: 11.4 g
+Monounsaturated fat: 12.1 g
+Polyunsaturated fat: 0.954 g
+Trans fat: 1.59 g
+
+Minerals:
+Sodium: 872 mg
+Potassium: 343 mg
+Calcium: 15 mg
+Iron: 1.14 mg
+Magnesium: 11.5 mg
+Zinc: 2.06 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin E: 0.51 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.97 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Pasta with tomato-based sauce and meat, home recipe
+Food ID: 2708838
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 5.86 g
+Carbohydrates: 19.15 g
+Fat: 2.58 g
+Fiber: 1.6 g
+Sugar: 2.44 g
+
+Fats:
+Saturated fat: 0.74 g
+Monounsaturated fat: 0.892 g
+Polyunsaturated fat: 0.411 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 199 mg
+Potassium: 175 mg
+Calcium: 16 mg
+Iron: 1.19 mg
+Magnesium: 18 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.98 mg
+Vitamin K: 5.6 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0.24 µg
+Folate: 44 µg

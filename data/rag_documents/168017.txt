@@ -1,0 +1,16 @@
+Food: Mouse nuts, roots (Alaska Native)
+Food ID: 168017
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 3.9 g
+Carbohydrates: 16.1 g
+Fat: 0.1 g
+
+Minerals:
+Calcium: 22 mg
+
+Vitamins:
+Vitamin C: 16 mg

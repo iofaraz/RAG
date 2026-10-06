@@ -1,0 +1,36 @@
+Food: Bean chips
+Food ID: 2707428
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 448 kcal
+Protein: 14.6 g
+Carbohydrates: 53.12 g
+Fat: 21.58 g
+Fiber: 9.7 g
+Sugar: 1.08 g
+
+Fats:
+Saturated fat: 2.964 g
+Monounsaturated fat: 5.876 g
+Polyunsaturated fat: 11.317 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 410 mg
+Potassium: 547 mg
+Calcium: 36 mg
+Iron: 4.01 mg
+Magnesium: 96 mg
+Zinc: 2.54 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 4.97 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.362 mg
+Vitamin B12: 0 µg
+Folate: 243 µg

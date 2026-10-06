@@ -1,0 +1,37 @@
+Food: Bread, wheat, sprouted, toasted
+Food ID: 171851
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 205 kcal
+Protein: 14.3 g
+Carbohydrates: 36.82 g
+Fat: 0 g
+Fiber: 5.7 g
+Sugar: 2.86 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 515 mg
+Potassium: 215 mg
+Calcium: 0 mg
+Iron: 2.06 mg
+Magnesium: 71 mg
+Zinc: 1.36 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

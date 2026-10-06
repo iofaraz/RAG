@@ -1,0 +1,24 @@
+Food: Spinach, mature
+Food ID: 1750353
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.90625 g
+Carbohydrates: 2.64135 g
+Fat: 0.6044 g
+Fiber: 1.588 g
+
+Minerals:
+Sodium: 106.6 mg
+Potassium: 459.7 mg
+Calcium: 66.64 mg
+Iron: 1.054 mg
+Magnesium: 92.96 mg
+Zinc: 0.4229 mg
+
+Vitamins:
+Vitamin A: 306 µg
+Vitamin C: 30.27 mg
+Vitamin B6: 0.2143 mg
+Folate: 113.4 µg

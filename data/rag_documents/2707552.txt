@@ -1,0 +1,36 @@
+Food: Peanut butter sandwich, with reduced fat peanut butter, on white bread
+Food ID: 2707552
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 355 kcal
+Protein: 15.16 g
+Carbohydrates: 44.49 g
+Fat: 14.17 g
+Fiber: 3.3 g
+Sugar: 6.71 g
+
+Fats:
+Saturated fat: 2.539 g
+Monounsaturated fat: 6.087 g
+Polyunsaturated fat: 4.413 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 481 mg
+Potassium: 309 mg
+Calcium: 150 mg
+Iron: 2.85 mg
+Magnesium: 77 mg
+Zinc: 1.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.29 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 0 µg
+Folate: 93 µg

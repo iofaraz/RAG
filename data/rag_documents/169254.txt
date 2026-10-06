@@ -1,0 +1,37 @@
+Food: Mushrooms, canned, drained solids
+Food ID: 169254
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 25 kcal
+Protein: 1.87 g
+Carbohydrates: 5.09 g
+Fat: 0.29 g
+Fiber: 2.4 g
+Sugar: 2.34 g
+
+Fats:
+Saturated fat: 0.038 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.113 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 425 mg
+Potassium: 129 mg
+Calcium: 11 mg
+Iron: 0.79 mg
+Magnesium: 15 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

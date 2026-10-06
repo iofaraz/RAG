@@ -1,0 +1,36 @@
+Food: Snacks, rice cakes, brown rice, plain, unsalted
+Food ID: 170250
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 8.2 g
+Carbohydrates: 81.5 g
+Fat: 2.8 g
+Fiber: 4.2 g
+Sugar: 0.88 g
+
+Fats:
+Saturated fat: 0.57 g
+Monounsaturated fat: 1.03 g
+Polyunsaturated fat: 0.99 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 290 mg
+Calcium: 11 mg
+Iron: 1.49 mg
+Magnesium: 131 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.24 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

@@ -1,0 +1,36 @@
+Food: Jelly sandwich, on wheat bread
+Food ID: 2709139
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 6.9 g
+Carbohydrates: 55.23 g
+Fat: 2.39 g
+Fiber: 3.6 g
+Sugar: 23.61 g
+
+Fats:
+Saturated fat: 0.434 g
+Monounsaturated fat: 0.392 g
+Polyunsaturated fat: 0.941 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 276 mg
+Potassium: 135 mg
+Calcium: 100 mg
+Iron: 1.97 mg
+Magnesium: 36 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0 µg
+Folate: 44 µg

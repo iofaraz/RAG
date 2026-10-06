@@ -1,0 +1,36 @@
+Food: Guacamole, NFS
+Food ID: 2709307
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 1.95 g
+Carbohydrates: 8.45 g
+Fat: 14.18 g
+Fiber: 6.5 g
+Sugar: 0.72 g
+
+Fats:
+Saturated fat: 2.057 g
+Monounsaturated fat: 9.477 g
+Polyunsaturated fat: 1.757 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 344 mg
+Potassium: 472 mg
+Calcium: 12 mg
+Iron: 0.54 mg
+Magnesium: 28 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 10.2 mg
+Vitamin D: 0 µg
+Vitamin E: 2 mg
+Vitamin K: 20.3 µg
+Vitamin B6: 0.251 mg
+Vitamin B12: 0 µg
+Folate: 79 µg

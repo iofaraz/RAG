@@ -1,0 +1,34 @@
+Food: Game meat, bison, chuck, shoulder clod, separable lean only, raw
+Food ID: 172598
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 21.12 g
+Carbohydrates: 0 g
+Fat: 3.15 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.345 g
+Monounsaturated fat: 1.23 g
+Polyunsaturated fat: 0.148 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 62 mg
+Potassium: 353 mg
+Calcium: 5 mg
+Iron: 2.88 mg
+Magnesium: 24 mg
+Zinc: 5.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.16 mg
+Vitamin B6: 0.472 mg
+Vitamin B12: 2.46 µg
+Folate: 13 µg

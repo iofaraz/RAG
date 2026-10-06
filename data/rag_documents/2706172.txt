@@ -1,0 +1,36 @@
+Food: Beef sausage with cheese
+Food ID: 2706172
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 13.65 g
+Carbohydrates: 3.75 g
+Fat: 28.54 g
+Fiber: 0 g
+Sugar: 1.37 g
+
+Fats:
+Saturated fat: 11.731 g
+Monounsaturated fat: 12.042 g
+Polyunsaturated fat: 1.826 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 922 mg
+Potassium: 257 mg
+Calcium: 138 mg
+Iron: 1.47 mg
+Magnesium: 21 mg
+Zinc: 2.16 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 16.4 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.38 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.137 mg
+Vitamin B12: 1.12 µg
+Folate: 7 µg

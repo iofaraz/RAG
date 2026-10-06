@@ -1,0 +1,36 @@
+Food: Pan Dulce, with raisins and icing
+Food ID: 2707676
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 8.29 g
+Carbohydrates: 58.57 g
+Fat: 11.39 g
+Fiber: 2.2 g
+Sugar: 19.6 g
+
+Fats:
+Saturated fat: 2.142 g
+Monounsaturated fat: 3.435 g
+Polyunsaturated fat: 2.006 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 214 mg
+Potassium: 127 mg
+Calcium: 77 mg
+Iron: 2.58 mg
+Magnesium: 23 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.1 µg
+Folate: 94 µg

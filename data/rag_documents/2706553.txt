@@ -1,0 +1,36 @@
+Food: Shrimp and noodles, no sauce
+Food ID: 2706553
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 7.3 g
+Carbohydrates: 16.43 g
+Fat: 5.5 g
+Fiber: 0.8 g
+Sugar: 0.26 g
+
+Fats:
+Saturated fat: 0.884 g
+Monounsaturated fat: 2.074 g
+Polyunsaturated fat: 1.946 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 144 mg
+Potassium: 57 mg
+Calcium: 26 mg
+Iron: 1.01 mg
+Magnesium: 21 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.26 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.38 µg
+Folate: 59 µg

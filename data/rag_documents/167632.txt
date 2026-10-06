@@ -1,0 +1,16 @@
+Food: Squash, Indian, cooked, boiled (Navajo)
+Food ID: 167632
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 0.31 g
+Carbohydrates: 3.22 g
+Fat: 0.15 g
+Fiber: 1.5 g
+Sugar: 2.02 g
+
+Vitamins:
+Vitamin B6: 0.033 mg
+Folate: 7 µg

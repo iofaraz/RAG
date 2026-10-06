@@ -1,0 +1,36 @@
+Food: Chicken, broilers or fryers,  rotisserie, original seasoning, drumstick, meat and skin, cooked
+Food ID: 171521
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 26.86 g
+Carbohydrates: 0.02 g
+Fat: 11.98 g
+Fiber: 0 g
+Sugar: 0.02 g
+
+Fats:
+Saturated fat: 3.02 g
+Monounsaturated fat: 5.22 g
+Polyunsaturated fat: 1.785 g
+Trans fat: 0.141 g
+Cholesterol: 156 mg
+
+Minerals:
+Sodium: 411 mg
+Potassium: 291 mg
+Calcium: 21 mg
+Iron: 1.07 mg
+Magnesium: 25 mg
+Zinc: 2.63 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin E: 0.31 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.181 mg
+Vitamin B12: 0.51 µg
+Folate: 11 µg

@@ -1,0 +1,36 @@
+Food: Coffee, Latte, decaffeinated
+Food ID: 2710392
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 2.82 g
+Carbohydrates: 4.37 g
+Fat: 1.62 g
+Fiber: 0 g
+Sugar: 4.09 g
+
+Fats:
+Saturated fat: 0.943 g
+Monounsaturated fat: 0.334 g
+Polyunsaturated fat: 0.064 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 152 mg
+Calcium: 106 mg
+Iron: 0.02 mg
+Magnesium: 23 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.37 µg
+Folate: 2 µg

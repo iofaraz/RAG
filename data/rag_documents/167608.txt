@@ -1,0 +1,13 @@
+Food: Mashu roots, raw (Alaska Native)
+Food ID: 167608
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 135 kcal
+Protein: 5.8 g
+Carbohydrates: 22.6 g
+Fat: 2.4 g
+
+Vitamins:
+Vitamin C: 11 mg

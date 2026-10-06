@@ -1,0 +1,36 @@
+Food: Bread, Irish soda
+Food ID: 2707852
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 301 kcal
+Protein: 6.48 g
+Carbohydrates: 51.07 g
+Fat: 8.96 g
+Fiber: 2.3 g
+Sugar: 21.86 g
+
+Fats:
+Saturated fat: 4.488 g
+Monounsaturated fat: 1.91 g
+Polyunsaturated fat: 0.545 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 445 mg
+Potassium: 276 mg
+Calcium: 105 mg
+Iron: 2.63 mg
+Magnesium: 24 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.1 µg
+Folate: 43 µg

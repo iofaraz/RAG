@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, mixed, with applesauce and bananas, strained
+Food ID: 170966
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 0.71 g
+Carbohydrates: 18.38 g
+Fat: 0.51 g
+Fiber: 1 g
+Sugar: 11.1 g
+
+Fats:
+Saturated fat: 0.09 g
+Monounsaturated fat: 0.135 g
+Polyunsaturated fat: 0.191 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 111 mg
+Calcium: 91 mg
+Iron: 6.81 mg
+Magnesium: 7 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 15.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0.51 µg
+Folate: 25 µg

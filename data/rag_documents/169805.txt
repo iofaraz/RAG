@@ -1,0 +1,17 @@
+Food: Cranberry, low bush or lingenberry, raw (Alaska Native)
+Food ID: 169805
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 0.4 g
+Carbohydrates: 12.2 g
+Fat: 0.5 g
+
+Minerals:
+Calcium: 26 mg
+Iron: 0.4 mg
+
+Vitamins:
+Vitamin C: 21 mg

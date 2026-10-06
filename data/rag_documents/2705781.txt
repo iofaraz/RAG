@@ -1,0 +1,36 @@
+Food: Cheese ball
+Food ID: 2705781
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 441 kcal
+Protein: 17.89 g
+Carbohydrates: 4.84 g
+Fat: 38.88 g
+Fiber: 1.2 g
+Sugar: 1.74 g
+
+Fats:
+Saturated fat: 14.55 g
+Monounsaturated fat: 7.784 g
+Polyunsaturated fat: 11.569 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 554 mg
+Potassium: 194 mg
+Calcium: 391 mg
+Iron: 0.62 mg
+Magnesium: 48 mg
+Zinc: 2.73 mg
+
+Vitamins:
+Vitamin A: 201 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.68 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.219 mg
+Vitamin B12: 0.63 µg
+Folate: 34 µg

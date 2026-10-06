@@ -1,0 +1,25 @@
+Food: Beverages, KRAFT, coffee, instant, French Vanilla Cafe
+Food ID: 171898
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 481 kcal
+Protein: 2.5 g
+Carbohydrates: 74.6 g
+Fat: 19.2 g
+Fiber: 1.4 g
+Sugar: 54.3 g
+
+Fats:
+Saturated fat: 4.6 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 399 mg
+Potassium: 546 mg
+Calcium: 12 mg
+Iron: 0.33 mg
+
+Vitamins:
+Vitamin C: 0 mg

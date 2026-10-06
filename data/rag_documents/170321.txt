@@ -1,0 +1,31 @@
+Food: McDONALD'S, QUARTER POUNDER
+Food ID: 170321
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 14.1 g
+Carbohydrates: 22.17 g
+Fat: 11.55 g
+Fiber: 1.6 g
+Sugar: 5.13 g
+
+Fats:
+Saturated fat: 4.008 g
+Monounsaturated fat: 4.202 g
+Polyunsaturated fat: 0.283 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 427 mg
+Potassium: 227 mg
+Calcium: 84 mg
+Iron: 2.41 mg
+Magnesium: 22 mg
+Zinc: 2.69 mg
+
+Vitamins:
+Vitamin C: 0.9 mg
+Vitamin B12: 1.28 µg
+Folate: 56 µg

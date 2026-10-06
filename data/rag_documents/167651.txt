@@ -1,0 +1,31 @@
+Food: Buffalo, free range, top round steak, cooked (Shoshone Bannock)
+Food ID: 167651
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 32.51 g
+Carbohydrates: 0 g
+Fat: 1.8 g
+
+Fats:
+Saturated fat: 0.595 g
+Monounsaturated fat: 0.614 g
+Polyunsaturated fat: 0.171 g
+Trans fat: 0.088 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 376 mg
+Calcium: 4 mg
+Iron: 3.76 mg
+Magnesium: 27 mg
+Zinc: 5.06 mg
+
+Vitamins:
+Vitamin E: 0.59 mg
+Vitamin B6: 0.794 mg
+Vitamin B12: 1.67 µg
+Folate: 8 µg

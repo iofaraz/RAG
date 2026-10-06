@@ -1,0 +1,36 @@
+Food: Pizza, cheese and vegetables, whole wheat thin crust
+Food ID: 2708691
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 9.61 g
+Carbohydrates: 24.39 g
+Fat: 10.64 g
+Fiber: 3.1 g
+Sugar: 3.4 g
+
+Fats:
+Saturated fat: 3.521 g
+Monounsaturated fat: 4.629 g
+Polyunsaturated fat: 1.261 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 184 mg
+Calcium: 200 mg
+Iron: 2.38 mg
+Magnesium: 45 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 5.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.6 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.155 mg
+Vitamin B12: 0.19 µg
+Folate: 45 µg

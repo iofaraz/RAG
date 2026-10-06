@@ -1,0 +1,37 @@
+Food: Snacks, sweet potato chips, unsalted
+Food ID: 174783
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 532 kcal
+Protein: 2.94 g
+Carbohydrates: 56.82 g
+Fat: 32.35 g
+Fiber: 8.8 g
+Sugar: 8.82 g
+
+Fats:
+Saturated fat: 2.941 g
+Monounsaturated fat: 9.155 g
+Polyunsaturated fat: 12.224 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 925 mg
+Calcium: 59 mg
+Iron: 2.12 mg
+Magnesium: 65 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 1184 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 9.82 mg
+Vitamin K: 24.5 µg
+Vitamin B6: 0.535 mg
+Vitamin B12: 0 µg
+Folate: 37 µg

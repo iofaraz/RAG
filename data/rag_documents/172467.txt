@@ -1,0 +1,30 @@
+Food: Tempeh, cooked
+Food ID: 172467
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 19.91 g
+Carbohydrates: 7.62 g
+Fat: 11.38 g
+
+Fats:
+Saturated fat: 3.4 g
+Monounsaturated fat: 3.745 g
+Polyunsaturated fat: 2.638 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 14 mg
+Potassium: 401 mg
+Calcium: 96 mg
+Iron: 2.13 mg
+Magnesium: 77 mg
+Zinc: 1.57 mg
+
+Vitamins:
+Vitamin D: 0 µg
+Vitamin B6: 0.199 mg
+Vitamin B12: 0.14 µg
+Folate: 21 µg

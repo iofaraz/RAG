@@ -1,0 +1,36 @@
+Food: Cheese, ricotta, part skim milk
+Food ID: 171248
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 11.39 g
+Carbohydrates: 5.14 g
+Fat: 7.91 g
+Fiber: 0 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 4.927 g
+Monounsaturated fat: 2.314 g
+Polyunsaturated fat: 0.26 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 99 mg
+Potassium: 125 mg
+Calcium: 272 mg
+Iron: 0.44 mg
+Magnesium: 15 mg
+Zinc: 1.34 mg
+
+Vitamins:
+Vitamin A: 107 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.29 µg
+Folate: 13 µg

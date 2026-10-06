@@ -1,0 +1,36 @@
+Food: Egg substitute, powder
+Food ID: 173429
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 444 kcal
+Protein: 55.5 g
+Carbohydrates: 21.8 g
+Fat: 13 g
+Fiber: 0 g
+Sugar: 21.8 g
+
+Fats:
+Saturated fat: 3.766 g
+Monounsaturated fat: 5.341 g
+Polyunsaturated fat: 1.683 g
+Cholesterol: 572 mg
+
+Minerals:
+Sodium: 800 mg
+Potassium: 744 mg
+Calcium: 326 mg
+Iron: 3.16 mg
+Magnesium: 65 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 369 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.26 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 3.52 µg
+Folate: 125 µg

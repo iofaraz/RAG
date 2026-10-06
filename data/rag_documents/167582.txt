@@ -1,0 +1,37 @@
+Food: Candies, NESTLE, BABY RUTH Bar
+Food ID: 167582
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 475 kcal
+Protein: 5.4 g
+Carbohydrates: 64.8 g
+Fat: 21.6 g
+Fiber: 2 g
+Sugar: 54 g
+
+Fats:
+Saturated fat: 12.1 g
+Monounsaturated fat: 5.557 g
+Polyunsaturated fat: 2.638 g
+Trans fat: 0.05 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 230 mg
+Potassium: 249 mg
+Calcium: 47 mg
+Iron: 0.63 mg
+Magnesium: 43 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.93 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.06 µg
+Folate: 12 µg

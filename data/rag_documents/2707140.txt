@@ -1,0 +1,36 @@
+Food: Soup, bisque
+Food ID: 2707140
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 75 kcal
+Protein: 2.28 g
+Carbohydrates: 5.9 g
+Fat: 4.81 g
+Fiber: 0.9 g
+Sugar: 1.9 g
+
+Fats:
+Saturated fat: 2.529 g
+Monounsaturated fat: 1.041 g
+Polyunsaturated fat: 0.393 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 239 mg
+Potassium: 138 mg
+Calcium: 28 mg
+Iron: 0.56 mg
+Magnesium: 10 mg
+Zinc: 2.8 mg
+
+Vitamins:
+Vitamin A: 100 µg
+Vitamin C: 3.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.44 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.54 µg
+Folate: 14 µg

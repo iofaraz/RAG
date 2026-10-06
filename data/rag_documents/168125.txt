@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, macaroni, beef and tomato sauce, toddler
+Food ID: 168125
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 4.34 g
+Carbohydrates: 11.53 g
+Fat: 1.9 g
+Fiber: 1.1 g
+Sugar: 0.37 g
+
+Fats:
+Saturated fat: 0.705 g
+Monounsaturated fat: 0.782 g
+Polyunsaturated fat: 0.14 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 148 mg
+Calcium: 12 mg
+Iron: 0.8 mg
+Magnesium: 15 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.23 µg
+Folate: 10 µg

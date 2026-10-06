@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, mixed, with bananas, prepared with whole milk
+Food ID: 173530
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 3.82 g
+Carbohydrates: 10 g
+Fat: 3.46 g
+Fiber: 0.4 g
+Sugar: 5.9 g
+
+Fats:
+Saturated fat: 1.808 g
+Monounsaturated fat: 0.859 g
+Polyunsaturated fat: 0.342 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 178 mg
+Calcium: 153 mg
+Iron: 3.63 mg
+Magnesium: 18 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0.4 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.44 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0.43 µg
+Folate: 6 µg

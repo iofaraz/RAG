@@ -1,0 +1,32 @@
+Food: Fish, halibut, greenland, cooked, dry heat
+Food ID: 174232
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 18.42 g
+Carbohydrates: 0 g
+Fat: 17.74 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.102 g
+Monounsaturated fat: 10.742 g
+Polyunsaturated fat: 1.753 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 103 mg
+Potassium: 344 mg
+Calcium: 4 mg
+Iron: 0.85 mg
+Magnesium: 33 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.485 mg
+Vitamin B12: 0.96 µg
+Folate: 1 µg

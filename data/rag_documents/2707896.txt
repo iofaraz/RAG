@@ -1,0 +1,36 @@
+Food: Cake, strawberry shortcake
+Food ID: 2707896
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 3.31 g
+Carbohydrates: 40.09 g
+Fat: 4.73 g
+Fiber: 0.9 g
+Sugar: 25.89 g
+
+Fats:
+Saturated fat: 2.477 g
+Monounsaturated fat: 1.442 g
+Polyunsaturated fat: 0.364 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 313 mg
+Potassium: 116 mg
+Calcium: 55 mg
+Iron: 1.6 mg
+Magnesium: 10 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 12.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.3 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.16 µg
+Folate: 29 µg

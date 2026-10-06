@@ -1,0 +1,36 @@
+Food: Fish timbale or mousse
+Food ID: 2706448
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 10.08 g
+Carbohydrates: 1.96 g
+Fat: 10.95 g
+Fiber: 0 g
+Sugar: 0.92 g
+
+Fats:
+Saturated fat: 5.481 g
+Monounsaturated fat: 2.557 g
+Polyunsaturated fat: 0.819 g
+Cholesterol: 108 mg
+
+Minerals:
+Sodium: 247 mg
+Potassium: 147 mg
+Calcium: 41 mg
+Iron: 0.4 mg
+Magnesium: 15 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 107 µg
+Vitamin C: 0.1 mg
+Vitamin D: 2.4 µg
+Vitamin E: 0.69 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.8 µg
+Folate: 12 µg

@@ -1,0 +1,31 @@
+Food: Puddings, lemon, dry mix, regular, with added oil, potassium, sodium
+Food ID: 170242
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 0.1 g
+Carbohydrates: 90.3 g
+Fat: 1.5 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 0.27 g
+Monounsaturated fat: 0.44 g
+Polyunsaturated fat: 0.72 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 849 mg
+Potassium: 257 mg
+Iron: 0.17 mg
+Magnesium: 4 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.005 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

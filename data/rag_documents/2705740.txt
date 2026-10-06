@@ -1,0 +1,36 @@
+Food: Cheese, paneer
+Food ID: 2705740
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 15.86 g
+Carbohydrates: 22.46 g
+Fat: 15.52 g
+Fiber: 0 g
+Sugar: 23.33 g
+
+Fats:
+Saturated fat: 9.021 g
+Monounsaturated fat: 3.337 g
+Polyunsaturated fat: 0.524 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 185 mg
+Potassium: 728 mg
+Calcium: 597 mg
+Iron: 0 mg
+Magnesium: 58 mg
+Zinc: 2.04 mg
+
+Vitamins:
+Vitamin A: 155 µg
+Vitamin C: 0 mg
+Vitamin D: 5.3 µg
+Vitamin E: 0.24 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.296 mg
+Vitamin B12: 2.62 µg
+Folate: 0 µg

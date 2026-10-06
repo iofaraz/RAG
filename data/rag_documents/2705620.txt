@@ -1,0 +1,36 @@
+Food: Chipotle dip, light
+Food ID: 2705620
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 1.82 g
+Carbohydrates: 13.2 g
+Fat: 15.15 g
+Fiber: 0 g
+Sugar: 7.36 g
+
+Fats:
+Saturated fat: 4.63 g
+Monounsaturated fat: 3.738 g
+Polyunsaturated fat: 6.176 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 598 mg
+Potassium: 118 mg
+Calcium: 68 mg
+Iron: 0.12 mg
+Magnesium: 6 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.16 mg
+Vitamin K: 25.2 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0.19 µg
+Folate: 7 µg

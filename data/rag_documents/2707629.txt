@@ -1,0 +1,36 @@
+Food: Garlic bread, with parmesan cheese, from fast food / restaurant
+Food ID: 2707629
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 351 kcal
+Protein: 8.76 g
+Carbohydrates: 41.06 g
+Fat: 16.8 g
+Fiber: 2.4 g
+Sugar: 3.61 g
+
+Fats:
+Saturated fat: 5.471 g
+Monounsaturated fat: 4.694 g
+Polyunsaturated fat: 5.343 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 642 mg
+Potassium: 104 mg
+Calcium: 44 mg
+Iron: 2.99 mg
+Magnesium: 23 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.16 mg
+Vitamin K: 28.9 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.1 µg
+Folate: 164 µg

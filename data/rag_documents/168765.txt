@@ -1,0 +1,37 @@
+Food: Candies, ROLO Caramels in Milk Chocolate
+Food ID: 168765
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 474 kcal
+Protein: 5.08 g
+Carbohydrates: 67.95 g
+Fat: 20.93 g
+Fiber: 0.9 g
+Sugar: 63.93 g
+
+Fats:
+Saturated fat: 14.542 g
+Monounsaturated fat: 2.104 g
+Polyunsaturated fat: 0.265 g
+Trans fat: 0 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 188 mg
+Potassium: 188 mg
+Calcium: 145 mg
+Iron: 0.42 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.1 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.33 µg
+Folate: 0 µg

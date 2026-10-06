@@ -1,0 +1,36 @@
+Food: Spinach, canned, cooked, fat added, NS as to fat type
+Food ID: 2709623
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 2.74 g
+Carbohydrates: 3.31 g
+Fat: 3.04 g
+Fiber: 2.3 g
+Sugar: 0.39 g
+
+Fats:
+Saturated fat: 0.747 g
+Monounsaturated fat: 0.919 g
+Polyunsaturated fat: 0.937 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 321 mg
+Potassium: 336 mg
+Calcium: 124 mg
+Iron: 2.24 mg
+Magnesium: 74 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 487 µg
+Vitamin C: 13.2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.26 mg
+Vitamin K: 450.3 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0 µg
+Folate: 90 µg

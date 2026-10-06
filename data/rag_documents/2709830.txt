@@ -1,0 +1,36 @@
+Food: Greek Salad, no dressing
+Food ID: 2709830
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 2.75 g
+Carbohydrates: 4.35 g
+Fat: 2.26 g
+Fiber: 1.5 g
+Sugar: 1.43 g
+
+Fats:
+Saturated fat: 0.859 g
+Monounsaturated fat: 0.975 g
+Polyunsaturated fat: 0.262 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 246 mg
+Potassium: 228 mg
+Calcium: 57 mg
+Iron: 0.9 mg
+Magnesium: 13 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 240 µg
+Vitamin C: 5.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.41 mg
+Vitamin K: 55.9 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0.11 µg
+Folate: 36 µg

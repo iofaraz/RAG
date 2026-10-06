@@ -1,0 +1,29 @@
+Food: Fish, ling, cooked, dry heat
+Food ID: 174234
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 24.35 g
+Carbohydrates: 0 g
+Fat: 0.82 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 173 mg
+Potassium: 486 mg
+Calcium: 44 mg
+Iron: 0.83 mg
+Magnesium: 81 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.351 mg
+Vitamin B12: 0.65 µg
+Folate: 8 µg

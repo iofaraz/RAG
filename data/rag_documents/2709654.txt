@@ -1,0 +1,36 @@
+Food: Broccoli casserole with noodles
+Food ID: 2709654
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 3.55 g
+Carbohydrates: 15.86 g
+Fat: 3.77 g
+Fiber: 1.9 g
+Sugar: 1.34 g
+
+Fats:
+Saturated fat: 1.731 g
+Monounsaturated fat: 0.787 g
+Polyunsaturated fat: 0.385 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 186 mg
+Potassium: 191 mg
+Calcium: 41 mg
+Iron: 1.07 mg
+Magnesium: 20 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 42.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.18 mg
+Vitamin K: 55.9 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0.04 µg
+Folate: 53 µg

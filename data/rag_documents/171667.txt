@@ -1,0 +1,36 @@
+Food: Cereals, whole wheat hot natural cereal, dry
+Food ID: 171667
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 342 kcal
+Protein: 11.2 g
+Carbohydrates: 75.2 g
+Fat: 2 g
+Fiber: 9.5 g
+Sugar: 0.42 g
+
+Fats:
+Saturated fat: 0.3 g
+Monounsaturated fat: 0.283 g
+Polyunsaturated fat: 1.008 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 389 mg
+Calcium: 40 mg
+Iron: 3.39 mg
+Magnesium: 122 mg
+Zinc: 2.66 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.31 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.391 mg
+Vitamin B12: 0 µg
+Folate: 78 µg

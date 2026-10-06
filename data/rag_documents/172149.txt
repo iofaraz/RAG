@@ -1,0 +1,36 @@
+Food: Beef, rib eye roast, bone-in, lip-on, separable lean and fat, trimmed to 1/8" fat, select, cooked, roasted
+Food ID: 172149
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 23.36 g
+Carbohydrates: 0 g
+Fat: 21.85 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.562 g
+Monounsaturated fat: 10.284 g
+Polyunsaturated fat: 1.003 g
+Trans fat: 1.462 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 262 mg
+Calcium: 14 mg
+Iron: 2.13 mg
+Magnesium: 21 mg
+Zinc: 5.39 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin E: 0.07 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.507 mg
+Vitamin B12: 2.11 µg
+Folate: 6 µg

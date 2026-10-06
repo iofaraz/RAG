@@ -1,0 +1,37 @@
+Food: Mushrooms, shiitake, dried
+Food ID: 168436
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 9.58 g
+Carbohydrates: 75.37 g
+Fat: 0.99 g
+Fiber: 11.5 g
+Sugar: 2.21 g
+
+Fats:
+Saturated fat: 0.225 g
+Monounsaturated fat: 0.317 g
+Polyunsaturated fat: 0.151 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 1534 mg
+Calcium: 11 mg
+Iron: 1.72 mg
+Magnesium: 132 mg
+Zinc: 7.66 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.5 mg
+Vitamin D: 3.9 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.965 mg
+Vitamin B12: 0 µg
+Folate: 163 µg

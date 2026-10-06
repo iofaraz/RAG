@@ -1,0 +1,15 @@
+Food: Pasta, dry, whole grain, spaghetti 
+Food ID: 2759000
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Minerals:
+Sodium: 4.583 mg
+Potassium: 426.7 mg
+Calcium: 28.3 mg
+Iron: 4.523 mg
+Magnesium: 120.1 mg
+Zinc: 2.95 mg
+
+Vitamins:
+Folate: 124 µg

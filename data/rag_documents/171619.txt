@@ -1,0 +1,36 @@
+Food: Bockwurst, pork, veal, raw
+Food ID: 171619
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 301 kcal
+Protein: 14.03 g
+Carbohydrates: 2.95 g
+Fat: 25.87 g
+Fiber: 1 g
+Sugar: 1.33 g
+
+Fats:
+Saturated fat: 10.256 g
+Monounsaturated fat: 13.138 g
+Polyunsaturated fat: 2.328 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 756 mg
+Potassium: 270 mg
+Calcium: 41 mg
+Iron: 1.15 mg
+Magnesium: 26 mg
+Zinc: 2.07 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 70.2 µg
+Vitamin B6: 0.378 mg
+Vitamin B12: 0.86 µg
+Folate: 17 µg

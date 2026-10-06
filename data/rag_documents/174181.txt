@@ -1,0 +1,37 @@
+Food: Beverages, nutritional shake mix, high protein, powder
+Food ID: 174181
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 392 kcal
+Protein: 53.57 g
+Carbohydrates: 20.38 g
+Fat: 10.71 g
+Fiber: 0 g
+Sugar: 3.57 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 2.907 g
+Polyunsaturated fat: 7.268 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1214 mg
+Potassium: 1000 mg
+Calcium: 714 mg
+Iron: 22.5 mg
+Magnesium: 500 mg
+Zinc: 18.75 mg
+
+Vitamins:
+Vitamin A: 1875 µg
+Vitamin C: 75 mg
+Vitamin D: 12.5 µg
+Vitamin E: 16.88 mg
+Vitamin K: 125 µg
+Vitamin B6: 2.5 mg
+Vitamin B12: 6.43 µg
+Folate: 571 µg

@@ -1,0 +1,35 @@
+Food: Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, oven-heated
+Food ID: 170437
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 2.51 g
+Carbohydrates: 27.5 g
+Fat: 5.13 g
+Fiber: 2.3 g
+Sugar: 0.29 g
+
+Fats:
+Saturated fat: 1.082 g
+Monounsaturated fat: 3.446 g
+Polyunsaturated fat: 0.319 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 391 mg
+Potassium: 471 mg
+Calcium: 13 mg
+Iron: 0.75 mg
+Magnesium: 28 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 11.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.172 mg
+Folate: 22 µg

@@ -1,0 +1,16 @@
+Food: Oil, walrus (Alaska Native)
+Food ID: 168032
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 900 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+
+Fats:
+Cholesterol: 120 mg
+
+Minerals:
+Calcium: 0 mg

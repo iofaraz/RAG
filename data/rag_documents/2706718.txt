@@ -1,0 +1,36 @@
+Food: Tuna noodle casserole with vegetables and mushroom sauce
+Food ID: 2706718
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 8.11 g
+Carbohydrates: 12.96 g
+Fat: 4.46 g
+Fiber: 1 g
+Sugar: 1.49 g
+
+Fats:
+Saturated fat: 1.626 g
+Monounsaturated fat: 0.957 g
+Polyunsaturated fat: 1.106 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 280 mg
+Potassium: 154 mg
+Calcium: 34 mg
+Iron: 1.15 mg
+Magnesium: 18 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.28 mg
+Vitamin K: 5.6 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.78 µg
+Folate: 30 µg

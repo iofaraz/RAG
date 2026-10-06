@@ -1,0 +1,36 @@
+Food: Fruit flavored drink, with high vitamin C, powdered, not reconstituted
+Food ID: 2710612
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 0 g
+Carbohydrates: 98.94 g
+Fat: 0 g
+Fiber: 0.4 g
+Sugar: 92.31 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 190 mg
+Calcium: 385 mg
+Iron: 0.02 mg
+Magnesium: 0 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 599 µg
+Vitamin C: 230.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.8 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

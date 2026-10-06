@@ -1,0 +1,37 @@
+Food: Beef, ground, 90% lean meat / 10% fat, loaf, cooked, baked
+Food ID: 171795
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 26.62 g
+Carbohydrates: 0 g
+Fat: 11.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.375 g
+Monounsaturated fat: 4.672 g
+Polyunsaturated fat: 0.398 g
+Trans fat: 0.373 g
+Cholesterol: 88 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 300 mg
+Calcium: 13 mg
+Iron: 2.89 mg
+Magnesium: 21 mg
+Zinc: 6.65 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.347 mg
+Vitamin B12: 2.49 µg
+Folate: 6 µg

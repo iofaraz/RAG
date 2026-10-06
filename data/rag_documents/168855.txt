@@ -1,0 +1,32 @@
+Food: Snacks, rice cakes, brown rice, rye
+Food ID: 168855
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 8.1 g
+Carbohydrates: 79.9 g
+Fat: 3.8 g
+Fiber: 4 g
+
+Fats:
+Saturated fat: 0.58 g
+Monounsaturated fat: 1.31 g
+Polyunsaturated fat: 1.55 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 110 mg
+Potassium: 311 mg
+Calcium: 21 mg
+Iron: 1.8 mg
+Magnesium: 144 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

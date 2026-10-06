@@ -1,0 +1,20 @@
+Food: George Weston Bakeries, Brownberry Sage and Onion Stuffing Mix, dry
+Food ID: 173254
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 13.3 g
+Carbohydrates: 72.7 g
+Fat: 5.1 g
+Fiber: 5.4 g
+
+Fats:
+Saturated fat: 0.9 g
+Monounsaturated fat: 2.04 g
+Polyunsaturated fat: 0.761 g
+
+Minerals:
+Sodium: 1680 mg
+Iron: 3.81 mg

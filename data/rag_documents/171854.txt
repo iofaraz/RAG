@@ -1,0 +1,37 @@
+Food: Crackers, toast thins, low sodium
+Food ID: 171854
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 442 kcal
+Protein: 6.45 g
+Carbohydrates: 67.66 g
+Fat: 16.13 g
+Fiber: 9.7 g
+Sugar: 12.9 g
+
+Fats:
+Saturated fat: 3.226 g
+Monounsaturated fat: 3.276 g
+Polyunsaturated fat: 8.619 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 177 mg
+Potassium: 306 mg
+Calcium: 0 mg
+Iron: 3.48 mg
+Magnesium: 102 mg
+Zinc: 1.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.69 mg
+Vitamin K: 27.6 µg
+Vitamin B6: 0.305 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

@@ -1,0 +1,18 @@
+Food: Seeds, pumpkin seeds (pepitas), raw
+Food ID: 2515380
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 29.9079 g
+Carbohydrates: 18.6751 g
+Fat: 40.03 g
+Fiber: 5.079 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 691.2 mg
+Calcium: 37.38 mg
+Iron: 8.363 mg
+Magnesium: 499.7 mg
+Zinc: 6.341 mg

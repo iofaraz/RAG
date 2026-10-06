@@ -1,0 +1,27 @@
+Food: Frozen novelties, ice type, sugar free, orange, cherry, and grape POPSICLE pops
+Food ID: 170259
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 0 g
+Carbohydrates: 5.14 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 1.52 g
+
+Fats:
+Saturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 11 mg
+Calcium: 0 mg
+Iron: 0.67 mg
+Magnesium: 1 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin C: 10.4 mg

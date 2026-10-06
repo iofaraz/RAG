@@ -1,0 +1,14 @@
+Food: Owl, horned, flesh, raw (Alaska Native)
+Food ID: 167613
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 22.7 g
+Carbohydrates: 0 g
+Fat: 5 g
+
+Minerals:
+Calcium: 16 mg
+Iron: 4.8 mg

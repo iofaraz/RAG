@@ -1,0 +1,36 @@
+Food: Broccoflower, cooked
+Food ID: 2709880
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 2.98 g
+Carbohydrates: 6.15 g
+Fat: 2.96 g
+Fiber: 3.2 g
+Sugar: 3.06 g
+
+Fats:
+Saturated fat: 0.741 g
+Monounsaturated fat: 0.969 g
+Polyunsaturated fat: 0.895 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 149 mg
+Potassium: 303 mg
+Calcium: 34 mg
+Iron: 0.74 mg
+Magnesium: 20 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 75.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.44 mg
+Vitamin K: 22.6 µg
+Vitamin B6: 0.219 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

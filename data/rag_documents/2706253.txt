@@ -1,0 +1,36 @@
+Food: Fish, flounder, steamed
+Food ID: 2706253
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 15.68 g
+Carbohydrates: 0 g
+Fat: 2.44 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.557 g
+Monounsaturated fat: 0.676 g
+Polyunsaturated fat: 0.472 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 202 mg
+Calcium: 27 mg
+Iron: 0.23 mg
+Magnesium: 23 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 3.5 µg
+Vitamin E: 0.8 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.111 mg
+Vitamin B12: 1.28 µg
+Folate: 6 µg

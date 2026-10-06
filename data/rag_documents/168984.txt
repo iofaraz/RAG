@@ -1,0 +1,28 @@
+Food: Stew/soup, caribou (Alaska Native)
+Food ID: 168984
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 3.8 g
+Carbohydrates: 4.8 g
+Fat: 0.7 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 0.01 g
+Polyunsaturated fat: 0.02 g
+
+Minerals:
+Sodium: 72 mg
+Potassium: 84 mg
+Calcium: 7 mg
+Iron: 0.2 mg
+Magnesium: 5 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin C: 1.5 mg
+Vitamin B6: 0.06 mg
+Folate: 3 µg

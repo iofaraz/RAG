@@ -1,0 +1,24 @@
+Food: Egg, whole, raw, frozen, pasteurized
+Food ID: 323604
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 12.3 g
+Carbohydrates: 0.91 g
+Fat: 10.3 g
+
+Fats:
+Cholesterol: 420 mg
+
+Minerals:
+Sodium: 121 mg
+Potassium: 117 mg
+Calcium: 55 mg
+Iron: 1.77 mg
+Magnesium: 11.2 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin D: 2.3 µg

@@ -1,0 +1,36 @@
+Food: Bagel, wheat bran
+Food ID: 2707737
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 250 kcal
+Protein: 10.2 g
+Carbohydrates: 48.89 g
+Fat: 1.53 g
+Fiber: 4.1 g
+Sugar: 6.12 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.29 g
+Polyunsaturated fat: 0.936 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 439 mg
+Potassium: 165 mg
+Calcium: 105 mg
+Iron: 2.76 mg
+Magnesium: 51 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.147 mg
+Vitamin B12: 0 µg
+Folate: 76 µg

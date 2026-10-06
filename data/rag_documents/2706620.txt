@@ -1,0 +1,36 @@
+Food: Stuffed cabbage rolls with beef and rice
+Food ID: 2706620
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 8.3 g
+Carbohydrates: 8.83 g
+Fat: 5.06 g
+Fiber: 1.3 g
+Sugar: 3.45 g
+
+Fats:
+Saturated fat: 1.877 g
+Monounsaturated fat: 2.169 g
+Polyunsaturated fat: 0.252 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 338 mg
+Potassium: 253 mg
+Calcium: 28 mg
+Iron: 1.1 mg
+Magnesium: 16 mg
+Zinc: 1.9 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 13.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.52 mg
+Vitamin K: 21 µg
+Vitamin B6: 0.186 mg
+Vitamin B12: 0.75 µg
+Folate: 24 µg

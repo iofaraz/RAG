@@ -1,0 +1,36 @@
+Food: Ice cream candy bar
+Food ID: 2705640
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 4.4 g
+Carbohydrates: 30.9 g
+Fat: 20.2 g
+Fiber: 0.6 g
+Sugar: 30 g
+
+Fats:
+Saturated fat: 12.658 g
+Monounsaturated fat: 4.977 g
+Polyunsaturated fat: 1.469 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 238 mg
+Calcium: 252 mg
+Iron: 0.72 mg
+Magnesium: 29 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.42 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.22 mg
+Vitamin B12: 0.38 µg
+Folate: 11 µg

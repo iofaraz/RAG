@@ -1,0 +1,33 @@
+Food: Fish, salmon, chum, raw
+Food ID: 173689
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 20.14 g
+Carbohydrates: 0 g
+Fat: 3.77 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.84 g
+Monounsaturated fat: 1.541 g
+Polyunsaturated fat: 0.898 g
+Cholesterol: 74 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 429 mg
+Calcium: 11 mg
+Iron: 0.55 mg
+Magnesium: 22 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin E: 1.09 mg
+Vitamin B6: 0.4 mg
+Vitamin B12: 3 µg
+Folate: 4 µg

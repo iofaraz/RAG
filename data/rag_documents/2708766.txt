@@ -1,0 +1,36 @@
+Food: Ravioli, meat-filled, with cream sauce
+Food ID: 2708766
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 176 kcal
+Protein: 10.15 g
+Carbohydrates: 13.69 g
+Fat: 8.8 g
+Fiber: 0.4 g
+Sugar: 1.58 g
+
+Fats:
+Saturated fat: 2.865 g
+Monounsaturated fat: 3.642 g
+Polyunsaturated fat: 1.257 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 576 mg
+Potassium: 155 mg
+Calcium: 60 mg
+Iron: 1.63 mg
+Magnesium: 14 mg
+Zinc: 1.81 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.48 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0.82 µg
+Folate: 26 µg

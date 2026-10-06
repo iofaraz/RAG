@@ -1,0 +1,36 @@
+Food: Cucumber and vegetable namasu
+Food ID: 2709818
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 0.47 g
+Carbohydrates: 12.22 g
+Fat: 0.18 g
+Fiber: 0.6 g
+Sugar: 10.78 g
+
+Fats:
+Saturated fat: 0.026 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.031 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 120 mg
+Potassium: 131 mg
+Calcium: 14 mg
+Iron: 0.03 mg
+Magnesium: 8 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 14.9 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

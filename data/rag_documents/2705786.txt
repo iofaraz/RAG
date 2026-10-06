@@ -1,0 +1,36 @@
+Food: Cheese dip
+Food ID: 2705786
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 163 kcal
+Protein: 3.14 g
+Carbohydrates: 7.86 g
+Fat: 13.27 g
+Fiber: 0.3 g
+Sugar: 0.29 g
+
+Fats:
+Saturated fat: 3.08 g
+Monounsaturated fat: 4.941 g
+Polyunsaturated fat: 4.055 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 656 mg
+Potassium: 27 mg
+Calcium: 71 mg
+Iron: 0.56 mg
+Magnesium: 6 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.98 mg
+Vitamin K: 10.5 µg
+Vitamin B6: 0.015 mg
+Vitamin B12: 0.09 µg
+Folate: 15 µg

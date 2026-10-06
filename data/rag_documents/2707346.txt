@@ -1,0 +1,36 @@
+Food: Egg burrito, with ham
+Food ID: 2707346
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 242 kcal
+Protein: 11.29 g
+Carbohydrates: 19.09 g
+Fat: 13.22 g
+Fiber: 1.3 g
+Sugar: 1.74 g
+
+Fats:
+Saturated fat: 4.27 g
+Monounsaturated fat: 4.327 g
+Polyunsaturated fat: 3.081 g
+Cholesterol: 204 mg
+
+Minerals:
+Sodium: 508 mg
+Potassium: 136 mg
+Calcium: 141 mg
+Iron: 2.21 mg
+Magnesium: 16 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 105 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 1.19 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.51 µg
+Folate: 61 µg

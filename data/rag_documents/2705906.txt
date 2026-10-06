@@ -1,0 +1,36 @@
+Food: Lamb, chop
+Food ID: 2705906
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 27.36 g
+Carbohydrates: 0 g
+Fat: 16.27 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.602 g
+Monounsaturated fat: 6.925 g
+Polyunsaturated fat: 1.151 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 387 mg
+Potassium: 349 mg
+Calcium: 20 mg
+Iron: 1.89 mg
+Magnesium: 26 mg
+Zinc: 3.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.14 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.144 mg
+Vitamin B12: 2.48 µg
+Folate: 21 µg

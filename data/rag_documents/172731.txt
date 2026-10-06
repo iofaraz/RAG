@@ -1,0 +1,32 @@
+Food: Cookies, brownies, dry mix, sugar free
+Food ID: 172731
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 426 kcal
+Protein: 2.9 g
+Carbohydrates: 80.4 g
+Fat: 12.5 g
+Fiber: 4.2 g
+
+Fats:
+Saturated fat: 2.018 g
+Monounsaturated fat: 5.233 g
+Polyunsaturated fat: 4.577 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 83 mg
+Potassium: 335 mg
+Calcium: 12 mg
+Iron: 1.52 mg
+Magnesium: 4 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.008 mg
+Vitamin B12: 0 µg
+Folate: 48 µg

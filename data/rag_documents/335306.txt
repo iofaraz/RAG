@@ -1,0 +1,16 @@
+Food: Beans, Dry, Pink (0% moisture)
+Food ID: 335306
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 23.4 g
+Fat: 1.2 g
+Fiber: 4.1 g
+
+Minerals:
+Potassium: 1490 mg
+Calcium: 137 mg
+Iron: 5.46 mg
+Magnesium: 164 mg
+Zinc: 3.26 mg

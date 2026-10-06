@@ -1,0 +1,36 @@
+Food: Soup, potato
+Food ID: 2709556
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 1.51 g
+Carbohydrates: 10.53 g
+Fat: 4.71 g
+Fiber: 1.2 g
+Sugar: 1.01 g
+
+Fats:
+Saturated fat: 2.485 g
+Monounsaturated fat: 1.004 g
+Polyunsaturated fat: 0.336 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 227 mg
+Calcium: 15 mg
+Iron: 0.34 mg
+Magnesium: 13 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 7.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.2 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

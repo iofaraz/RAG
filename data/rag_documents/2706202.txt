@@ -1,0 +1,36 @@
+Food: Turkey or chicken and pork sausage
+Food ID: 2706202
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 307 kcal
+Protein: 22.7 g
+Carbohydrates: 0.7 g
+Fat: 23 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.95 g
+Monounsaturated fat: 9.719 g
+Polyunsaturated fat: 3.25 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 878 mg
+Potassium: 337 mg
+Calcium: 32 mg
+Iron: 1.62 mg
+Magnesium: 19 mg
+Zinc: 3.17 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin D: 2 µg
+Vitamin E: 0.39 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.34 mg
+Vitamin B12: 1.26 µg
+Folate: 4 µg

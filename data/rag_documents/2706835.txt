@@ -1,0 +1,36 @@
+Food: Tuna salad, made with light Italian dressing
+Food ID: 2706835
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 9.78 g
+Carbohydrates: 4.91 g
+Fat: 2 g
+Fiber: 0.4 g
+Sugar: 3.93 g
+
+Fats:
+Saturated fat: 0.307 g
+Monounsaturated fat: 0.454 g
+Polyunsaturated fat: 0.863 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 478 mg
+Potassium: 168 mg
+Calcium: 23 mg
+Iron: 0.94 mg
+Magnesium: 15 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.6 µg
+Vitamin E: 1.2 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.185 mg
+Vitamin B12: 1.29 µg
+Folate: 11 µg

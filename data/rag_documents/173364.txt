@@ -1,0 +1,36 @@
+Food: Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0" fat, select, cooked, grilled
+Food ID: 173364
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 28.01 g
+Carbohydrates: 0 g
+Fat: 5.17 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.716 g
+Monounsaturated fat: 2.006 g
+Polyunsaturated fat: 0.286 g
+Trans fat: 0.154 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 368 mg
+Calcium: 5 mg
+Iron: 3.12 mg
+Magnesium: 26 mg
+Zinc: 5.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.66 mg
+Vitamin B12: 4.41 µg
+Folate: 8 µg

@@ -1,0 +1,36 @@
+Food: Strawberry milk, low fat (1%)
+Food ID: 2705498
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 3.13 g
+Carbohydrates: 12.3 g
+Fat: 0.89 g
+Fiber: 0 g
+Sugar: 11.82 g
+
+Fats:
+Saturated fat: 0.525 g
+Monounsaturated fat: 0.194 g
+Polyunsaturated fat: 0.03 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 147 mg
+Calcium: 117 mg
+Iron: 0.03 mg
+Magnesium: 11 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.56 µg
+Folate: 2 µg

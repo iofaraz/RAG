@@ -1,0 +1,36 @@
+Food: Sausage and rice with cheese sauce
+Food ID: 2706512
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 6.32 g
+Carbohydrates: 13.94 g
+Fat: 7.61 g
+Fiber: 0.2 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 3.298 g
+Monounsaturated fat: 2.794 g
+Polyunsaturated fat: 1.07 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 373 mg
+Potassium: 97 mg
+Calcium: 88 mg
+Iron: 0.77 mg
+Magnesium: 13 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.16 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.22 µg
+Folate: 28 µg

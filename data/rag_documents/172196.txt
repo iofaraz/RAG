@@ -1,0 +1,36 @@
+Food: Milk, dry, nonfat, instant, without added vitamin A and vitamin D
+Food ID: 172196
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 35.1 g
+Carbohydrates: 52.19 g
+Fat: 0.72 g
+Fiber: 0 g
+Sugar: 52.19 g
+
+Fats:
+Saturated fat: 0.47 g
+Monounsaturated fat: 0.19 g
+Polyunsaturated fat: 0.03 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 549 mg
+Potassium: 1705 mg
+Calcium: 1231 mg
+Iron: 0.31 mg
+Magnesium: 117 mg
+Zinc: 4.41 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 5.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.345 mg
+Vitamin B12: 3.99 µg
+Folate: 50 µg

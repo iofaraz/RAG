@@ -1,0 +1,27 @@
+Food: Vinegar, balsamic
+Food ID: 172241
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 88 kcal
+Protein: 0.49 g
+Carbohydrates: 17.03 g
+Fat: 0 g
+Sugar: 14.95 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 23 mg
+Potassium: 112 mg
+Calcium: 27 mg
+Iron: 0.72 mg
+Magnesium: 12 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

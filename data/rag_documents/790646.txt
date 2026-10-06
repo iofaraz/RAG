@@ -1,0 +1,22 @@
+Food: Onions, yellow, raw
+Food ID: 790646
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 38 kcal
+Protein: 0.83 g
+Carbohydrates: 8.61 g
+Fat: 0.05 g
+Fiber: 1.9 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 182 mg
+Calcium: 15 mg
+Iron: 0.28 mg
+Magnesium: 9 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin C: 8.2 mg

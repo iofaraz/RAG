@@ -1,0 +1,36 @@
+Food: Fruit smoothie juice drink, no dairy
+Food ID: 2709337
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 0.6 g
+Carbohydrates: 11.88 g
+Fat: 0.24 g
+Fiber: 1 g
+Sugar: 8.35 g
+
+Fats:
+Saturated fat: 0.031 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.042 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 184 mg
+Calcium: 30 mg
+Iron: 0.22 mg
+Magnesium: 13 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 25.7 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

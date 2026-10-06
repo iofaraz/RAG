@@ -1,0 +1,37 @@
+Food: Capers, canned
+Food ID: 172238
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 2.36 g
+Carbohydrates: 4.89 g
+Fat: 0.86 g
+Fiber: 3.2 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.233 g
+Monounsaturated fat: 0.063 g
+Polyunsaturated fat: 0.304 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2348 mg
+Potassium: 40 mg
+Calcium: 40 mg
+Iron: 1.67 mg
+Magnesium: 33 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.88 mg
+Vitamin K: 24.6 µg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

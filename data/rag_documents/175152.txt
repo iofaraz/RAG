@@ -1,0 +1,32 @@
+Food: Fish, tilefish, cooked, dry heat
+Food ID: 175152
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 24.49 g
+Carbohydrates: 0 g
+Fat: 4.69 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.868 g
+Monounsaturated fat: 1.332 g
+Polyunsaturated fat: 1.246 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 512 mg
+Calcium: 26 mg
+Iron: 0.31 mg
+Magnesium: 33 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.3 mg
+Vitamin B12: 2.5 µg
+Folate: 17 µg

@@ -1,0 +1,37 @@
+Food: Pizza, meat topping, thick crust, frozen, cooked
+Food ID: 172095
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 11.76 g
+Carbohydrates: 30.76 g
+Fat: 11.52 g
+Fiber: 2.3 g
+Sugar: 3.88 g
+
+Fats:
+Saturated fat: 4.283 g
+Monounsaturated fat: 3.355 g
+Polyunsaturated fat: 2.496 g
+Trans fat: 0.194 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 690 mg
+Potassium: 201 mg
+Calcium: 150 mg
+Iron: 1.7 mg
+Magnesium: 25 mg
+Zinc: 1.36 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.88 mg
+Vitamin K: 7.6 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.45 µg
+Folate: 101 µg

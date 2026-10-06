@@ -1,0 +1,34 @@
+Food: Soybeans, green, cooked, boiled, drained, with salt
+Food ID: 170530
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 12.35 g
+Carbohydrates: 11.05 g
+Fat: 6.4 g
+Fiber: 4.2 g
+
+Fats:
+Saturated fat: 0.74 g
+Monounsaturated fat: 1.209 g
+Polyunsaturated fat: 3.011 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 250 mg
+Potassium: 539 mg
+Calcium: 145 mg
+Iron: 2.5 mg
+Magnesium: 60 mg
+Zinc: 0.91 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 17 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0 µg
+Folate: 111 µg

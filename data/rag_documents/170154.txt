@@ -1,0 +1,33 @@
+Food: Seeds, sunflower seed kernels, toasted, without salt
+Food ID: 170154
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 619 kcal
+Protein: 17.21 g
+Carbohydrates: 20.59 g
+Fat: 56.8 g
+Fiber: 11.5 g
+
+Fats:
+Saturated fat: 5.953 g
+Monounsaturated fat: 10.841 g
+Polyunsaturated fat: 37.507 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 491 mg
+Calcium: 57 mg
+Iron: 6.81 mg
+Magnesium: 129 mg
+Zinc: 5.3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.805 mg
+Vitamin B12: 0 µg
+Folate: 238 µg

@@ -1,0 +1,33 @@
+Food: Rennin, vanilla, dry mix, prepared with 2% milk
+Food ID: 168790
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 3.06 g
+Carbohydrates: 12.34 g
+Fat: 1.77 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.061 g
+Monounsaturated fat: 0.484 g
+Polyunsaturated fat: 0.065 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 46 mg
+Potassium: 142 mg
+Calcium: 121 mg
+Iron: 0.05 mg
+Magnesium: 13 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.9 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.33 µg
+Folate: 5 µg

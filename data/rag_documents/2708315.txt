@@ -1,0 +1,36 @@
+Food: Waffle, fruit, frozen
+Food ID: 2708315
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 7.07 g
+Carbohydrates: 46.58 g
+Fat: 9.05 g
+Fiber: 2.6 g
+Sugar: 4.61 g
+
+Fats:
+Saturated fat: 2.164 g
+Monounsaturated fat: 5.032 g
+Polyunsaturated fat: 1.441 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 437 mg
+Potassium: 134 mg
+Calcium: 284 mg
+Iron: 6.27 mg
+Magnesium: 21 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 416 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.67 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 1.057 mg
+Vitamin B12: 1.54 µg
+Folate: 65 µg

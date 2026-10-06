@@ -1,0 +1,36 @@
+Food: Puddings, vanilla, dry mix, instant
+Food ID: 168784
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 377 kcal
+Protein: 0 g
+Carbohydrates: 92.9 g
+Fat: 0.6 g
+Fiber: 0 g
+Sugar: 92.9 g
+
+Fats:
+Saturated fat: 0.432 g
+Monounsaturated fat: 0.12 g
+Polyunsaturated fat: 0.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1400 mg
+Potassium: 12 mg
+Calcium: 12 mg
+Iron: 0.01 mg
+Magnesium: 1 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.002 mg
+Vitamin B12: 0.02 µg
+Folate: 0 µg

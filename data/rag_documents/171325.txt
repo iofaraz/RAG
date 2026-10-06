@@ -1,0 +1,37 @@
+Food: Spices, garlic powder
+Food ID: 171325
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 16.55 g
+Carbohydrates: 72.73 g
+Fat: 0.73 g
+Fiber: 9 g
+Sugar: 2.43 g
+
+Fats:
+Saturated fat: 0.249 g
+Monounsaturated fat: 0.115 g
+Polyunsaturated fat: 0.178 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 1193 mg
+Calcium: 79 mg
+Iron: 5.65 mg
+Magnesium: 77 mg
+Zinc: 2.99 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.67 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 1.654 mg
+Vitamin B12: 0 µg
+Folate: 47 µg

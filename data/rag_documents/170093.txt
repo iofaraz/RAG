@@ -1,0 +1,37 @@
+Food: Potatoes, baked, flesh and skin, without salt
+Food ID: 170093
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 2.5 g
+Carbohydrates: 21.15 g
+Fat: 0.13 g
+Fiber: 2.2 g
+Sugar: 1.18 g
+
+Fats:
+Saturated fat: 0.034 g
+Monounsaturated fat: 0.003 g
+Polyunsaturated fat: 0.057 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 535 mg
+Calcium: 15 mg
+Iron: 1.08 mg
+Magnesium: 28 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 9.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.311 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

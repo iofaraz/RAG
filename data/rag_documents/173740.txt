@@ -1,0 +1,37 @@
+Food: Beans, kidney, all types, mature seeds, cooked, boiled, without salt
+Food ID: 173740
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 8.67 g
+Carbohydrates: 22.8 g
+Fat: 0.5 g
+Fiber: 6.4 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 0.073 g
+Monounsaturated fat: 0.039 g
+Polyunsaturated fat: 0.278 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 405 mg
+Calcium: 35 mg
+Iron: 2.22 mg
+Magnesium: 42 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 8.4 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0 µg
+Folate: 130 µg

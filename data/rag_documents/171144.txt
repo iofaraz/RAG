@@ -1,0 +1,32 @@
+Food: Soup, bean with ham, canned, chunky, ready-to-serve
+Food ID: 171144
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 5.19 g
+Carbohydrates: 11.16 g
+Fat: 3.5 g
+Fiber: 4.6 g
+
+Fats:
+Saturated fat: 1.37 g
+Monounsaturated fat: 1.58 g
+Polyunsaturated fat: 0.39 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 175 mg
+Calcium: 32 mg
+Iron: 1.33 mg
+Magnesium: 19 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin C: 1.8 mg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.03 µg
+Folate: 12 µg

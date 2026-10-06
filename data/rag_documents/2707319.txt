@@ -1,0 +1,36 @@
+Food: Egg sandwich on croissant
+Food ID: 2707319
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 11.45 g
+Carbohydrates: 21.35 g
+Fat: 19.72 g
+Fiber: 1.1 g
+Sugar: 5.48 g
+
+Fats:
+Saturated fat: 9.479 g
+Monounsaturated fat: 5.614 g
+Polyunsaturated fat: 1.995 g
+Cholesterol: 200 mg
+
+Minerals:
+Sodium: 388 mg
+Potassium: 125 mg
+Calcium: 174 mg
+Iron: 1.6 mg
+Magnesium: 16 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 211 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.5 µg
+Vitamin E: 1.22 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.6 µg
+Folate: 61 µg

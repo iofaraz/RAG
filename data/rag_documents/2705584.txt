@@ -1,0 +1,36 @@
+Food: Infant formula, low iron
+Food ID: 2705584
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1.43 g
+Carbohydrates: 6.9 g
+Fat: 3.6 g
+Fiber: 0 g
+Sugar: 6.58 g
+
+Fats:
+Saturated fat: 1.534 g
+Monounsaturated fat: 0.658 g
+Polyunsaturated fat: 1.36 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 52 mg
+Calcium: 36 mg
+Iron: 0.44 mg
+Magnesium: 4 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 5.8 mg
+Vitamin D: 1 µg
+Vitamin E: 1.08 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.16 µg
+Folate: 10 µg

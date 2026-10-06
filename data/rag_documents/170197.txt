@@ -1,0 +1,32 @@
+Food: Beef, cured, breakfast strips, raw or unheated
+Food ID: 170197
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 406 kcal
+Protein: 12.5 g
+Carbohydrates: 0.7 g
+Fat: 38.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 15.95 g
+Monounsaturated fat: 18.68 g
+Polyunsaturated fat: 2.19 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 955 mg
+Potassium: 153 mg
+Calcium: 4 mg
+Iron: 1.23 mg
+Magnesium: 11 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 24 mg
+Vitamin B6: 0.17 mg
+Vitamin B12: 1.64 µg
+Folate: 5 µg

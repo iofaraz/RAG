@@ -1,0 +1,36 @@
+Food: Lomi salmon
+Food ID: 2706850
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 7.55 g
+Carbohydrates: 3.31 g
+Fat: 1.86 g
+Fiber: 1 g
+Sugar: 1.82 g
+
+Fats:
+Saturated fat: 0.321 g
+Monounsaturated fat: 0.439 g
+Polyunsaturated fat: 0.544 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 145 mg
+Potassium: 270 mg
+Calcium: 88 mg
+Iron: 0.51 mg
+Magnesium: 18 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 8.9 mg
+Vitamin D: 4.8 µg
+Vitamin E: 0.53 mg
+Vitamin K: 23.1 µg
+Vitamin B6: 0.158 mg
+Vitamin B12: 1.54 µg
+Folate: 20 µg

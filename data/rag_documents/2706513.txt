@@ -1,0 +1,36 @@
+Food: Sausage and noodles with cream or white sauce
+Food ID: 2706513
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 5.91 g
+Carbohydrates: 14.83 g
+Fat: 7.8 g
+Fiber: 0.6 g
+Sugar: 1.67 g
+
+Fats:
+Saturated fat: 2.8 g
+Monounsaturated fat: 2.662 g
+Polyunsaturated fat: 1.386 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 112 mg
+Calcium: 42 mg
+Iron: 0.97 mg
+Magnesium: 16 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.44 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.3 µg
+Folate: 40 µg

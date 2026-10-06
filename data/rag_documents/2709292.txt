@@ -1,0 +1,36 @@
+Food: Fruit mixture, frozen
+Food ID: 2709292
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 0.69 g
+Carbohydrates: 11.29 g
+Fat: 0.23 g
+Fiber: 1.4 g
+Sugar: 9.18 g
+
+Fats:
+Saturated fat: 0.035 g
+Monounsaturated fat: 0.048 g
+Polyunsaturated fat: 0.066 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 146 mg
+Calcium: 10 mg
+Iron: 0.34 mg
+Magnesium: 11 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 30.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

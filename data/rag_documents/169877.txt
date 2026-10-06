@@ -1,0 +1,36 @@
+Food: Salad dressing, caesar, low calorie
+Food ID: 169877
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 0.3 g
+Carbohydrates: 18.6 g
+Fat: 4.4 g
+Fiber: 0.1 g
+Sugar: 16.32 g
+
+Fats:
+Saturated fat: 0.703 g
+Monounsaturated fat: 1.124 g
+Polyunsaturated fat: 2.368 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 1148 mg
+Potassium: 29 mg
+Calcium: 24 mg
+Iron: 0.18 mg
+Magnesium: 2 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.71 mg
+Vitamin K: 1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.03 µg
+Folate: 2 µg

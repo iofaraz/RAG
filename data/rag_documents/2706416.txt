@@ -1,0 +1,36 @@
+Food: Veal Marsala
+Food ID: 2706416
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 175 kcal
+Protein: 17.82 g
+Carbohydrates: 6.74 g
+Fat: 8.54 g
+Fiber: 0.5 g
+Sugar: 0.51 g
+
+Fats:
+Saturated fat: 3.586 g
+Monounsaturated fat: 3.194 g
+Polyunsaturated fat: 0.485 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 147 mg
+Potassium: 211 mg
+Calcium: 14 mg
+Iron: 1.05 mg
+Magnesium: 24 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.58 mg
+Vitamin K: 16.7 µg
+Vitamin B6: 0.401 mg
+Vitamin B12: 1.6 µg
+Folate: 17 µg

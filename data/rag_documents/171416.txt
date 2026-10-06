@@ -1,0 +1,33 @@
+Food: Salad dressing, french, home recipe
+Food ID: 171416
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 631 kcal
+Protein: 0.1 g
+Carbohydrates: 3.4 g
+Fat: 70.2 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 12.6 g
+Monounsaturated fat: 20.7 g
+Polyunsaturated fat: 33.7 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 658 mg
+Potassium: 24 mg
+Calcium: 6 mg
+Iron: 0.2 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0.6 mg
+Vitamin E: 8 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

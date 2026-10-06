@@ -1,0 +1,36 @@
+Food: French toast, frozen
+Food ID: 2708332
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 183 kcal
+Protein: 7.24 g
+Carbohydrates: 29.89 g
+Fat: 3.82 g
+Fiber: 1.1 g
+Sugar: 9.01 g
+
+Fats:
+Saturated fat: 1.201 g
+Monounsaturated fat: 1.025 g
+Polyunsaturated fat: 1.19 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 243 mg
+Potassium: 115 mg
+Calcium: 139 mg
+Iron: 1.86 mg
+Magnesium: 18 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.28 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.26 µg
+Folate: 53 µg

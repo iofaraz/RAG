@@ -1,0 +1,37 @@
+Food: Kefir, lowfat, plain, LIFEWAY
+Food ID: 170904
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 3.79 g
+Carbohydrates: 4.77 g
+Fat: 1.02 g
+Fiber: 0 g
+Sugar: 4.61 g
+
+Fats:
+Saturated fat: 0.658 g
+Monounsaturated fat: 0.31 g
+Polyunsaturated fat: 0.053 g
+Trans fat: 0.037 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 40 mg
+Potassium: 164 mg
+Calcium: 130 mg
+Iron: 0.04 mg
+Magnesium: 12 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 171 µg
+Vitamin C: 0.2 mg
+Vitamin D: 1 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.29 µg
+Folate: 13 µg

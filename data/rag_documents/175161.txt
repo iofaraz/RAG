@@ -1,0 +1,36 @@
+Food: Fish, whiting, mixed species, cooked, dry heat
+Food ID: 175161
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 23.48 g
+Carbohydrates: 0 g
+Fat: 1.69 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.4 g
+Monounsaturated fat: 0.445 g
+Polyunsaturated fat: 0.587 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 132 mg
+Potassium: 434 mg
+Calcium: 62 mg
+Iron: 0.42 mg
+Magnesium: 27 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0 mg
+Vitamin D: 1.8 µg
+Vitamin E: 0.38 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 2.6 µg
+Folate: 15 µg

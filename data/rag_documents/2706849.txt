@@ -1,0 +1,36 @@
+Food: Oysters Rockefeller
+Food ID: 2706849
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 7.64 g
+Carbohydrates: 9.38 g
+Fat: 7.53 g
+Fiber: 1.9 g
+Sugar: 1.23 g
+
+Fats:
+Saturated fat: 3.191 g
+Monounsaturated fat: 1.977 g
+Polyunsaturated fat: 1.071 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 430 mg
+Potassium: 245 mg
+Calcium: 106 mg
+Iron: 3.36 mg
+Magnesium: 47 mg
+Zinc: 18.79 mg
+
+Vitamins:
+Vitamin A: 280 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.84 mg
+Vitamin K: 216.7 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 3.55 µg
+Folate: 57 µg

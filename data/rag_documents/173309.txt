@@ -1,0 +1,31 @@
+Food: McDONALD'S, Deluxe Breakfast, with syrup and margarine
+Food ID: 173309
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 285 kcal
+Protein: 7.56 g
+Carbohydrates: 29.48 g
+Fat: 15.23 g
+Fiber: 1 g
+Sugar: 9.88 g
+
+Fats:
+Saturated fat: 4.642 g
+Monounsaturated fat: 5.217 g
+Polyunsaturated fat: 2.811 g
+Cholesterol: 109 mg
+
+Minerals:
+Sodium: 437 mg
+Potassium: 170 mg
+Calcium: 50 mg
+Iron: 1.5 mg
+Magnesium: 13 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0.35 µg

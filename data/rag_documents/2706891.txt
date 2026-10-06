@@ -1,0 +1,36 @@
+Food: Whopper Jr with cheese (Burger King)
+Food ID: 2706891
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 12.02 g
+Carbohydrates: 19 g
+Fat: 12.09 g
+Fiber: 0.9 g
+Sugar: 4.08 g
+
+Fats:
+Saturated fat: 4.911 g
+Monounsaturated fat: 3.807 g
+Polyunsaturated fat: 1.767 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 407 mg
+Potassium: 191 mg
+Calcium: 175 mg
+Iron: 1.87 mg
+Magnesium: 19 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.39 mg
+Vitamin K: 8.5 µg
+Vitamin B6: 0.162 mg
+Vitamin B12: 0.94 µg
+Folate: 42 µg

@@ -1,0 +1,36 @@
+Food: Beef stroganoff
+Food ID: 2706382
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 10.06 g
+Carbohydrates: 6.21 g
+Fat: 9.33 g
+Fiber: 0.7 g
+Sugar: 1.36 g
+
+Fats:
+Saturated fat: 3.441 g
+Monounsaturated fat: 2.836 g
+Polyunsaturated fat: 1.944 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 458 mg
+Potassium: 210 mg
+Calcium: 40 mg
+Iron: 0.94 mg
+Magnesium: 15 mg
+Zinc: 1.83 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.8 mg
+Vitamin K: 8.4 µg
+Vitamin B6: 0.144 mg
+Vitamin B12: 0.36 µg
+Folate: 11 µg

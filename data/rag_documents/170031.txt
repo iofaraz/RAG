@@ -1,0 +1,26 @@
+Food: Potatoes, roasted, salt added in processing, frozen, unprepared
+Food ID: 170031
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 2.22 g
+Carbohydrates: 26.15 g
+Fat: 1.81 g
+Fiber: 2.6 g
+Sugar: 0.69 g
+
+Fats:
+Saturated fat: 0.167 g
+Trans fat: 0.03 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 298 mg
+Potassium: 450 mg
+Calcium: 15 mg
+Iron: 0.5 mg
+
+Vitamins:
+Vitamin C: 1.7 mg

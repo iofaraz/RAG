@@ -1,0 +1,36 @@
+Food: Candies, MARS SNACKFOOD US, MARS Almond Bar
+Food ID: 167994
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 467 kcal
+Protein: 8.1 g
+Carbohydrates: 62.7 g
+Fat: 23 g
+Fiber: 2 g
+Sugar: 52.1 g
+
+Fats:
+Saturated fat: 7.268 g
+Monounsaturated fat: 10.693 g
+Polyunsaturated fat: 3.98 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 170 mg
+Potassium: 325 mg
+Calcium: 168 mg
+Iron: 1.1 mg
+Magnesium: 72 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 7.75 mg
+Vitamin K: 10.9 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.36 µg
+Folate: 9 µg

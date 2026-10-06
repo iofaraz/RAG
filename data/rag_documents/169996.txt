@@ -1,0 +1,37 @@
+Food: Collards, frozen, chopped, cooked, boiled, drained, without salt
+Food ID: 169996
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 2.97 g
+Carbohydrates: 7.1 g
+Fat: 0.41 g
+Fiber: 2.8 g
+Sugar: 0.57 g
+
+Fats:
+Saturated fat: 0.06 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.21 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 251 mg
+Calcium: 210 mg
+Iron: 1.12 mg
+Magnesium: 30 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 575 µg
+Vitamin C: 26.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.25 mg
+Vitamin K: 623.2 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0 µg
+Folate: 76 µg

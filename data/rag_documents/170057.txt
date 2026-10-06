@@ -1,0 +1,33 @@
+Food: Tomato products, canned, sauce, with herbs and cheese
+Food ID: 170057
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 2.13 g
+Carbohydrates: 10.24 g
+Fat: 1.93 g
+Fiber: 2.2 g
+
+Fats:
+Saturated fat: 0.627 g
+Monounsaturated fat: 0.38 g
+Polyunsaturated fat: 0.825 g
+Trans fat: 0 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 543 mg
+Potassium: 356 mg
+Calcium: 37 mg
+Iron: 0.87 mg
+Magnesium: 19 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 10 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.019 mg
+Folate: 8 µg

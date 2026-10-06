@@ -1,0 +1,37 @@
+Food: Onions, dehydrated flakes
+Food ID: 170002
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 349 kcal
+Protein: 8.95 g
+Carbohydrates: 83.28 g
+Fat: 0.46 g
+Fiber: 9.2 g
+Sugar: 37.41 g
+
+Fats:
+Saturated fat: 0.078 g
+Monounsaturated fat: 0.064 g
+Polyunsaturated fat: 0.18 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 1622 mg
+Calcium: 257 mg
+Iron: 1.55 mg
+Magnesium: 92 mg
+Zinc: 1.89 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 75 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 1.6 mg
+Vitamin B12: 0 µg
+Folate: 166 µg

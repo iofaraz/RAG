@@ -1,0 +1,24 @@
+Food: Egg, yolk, raw, frozen, pasteurized
+Food ID: 329596
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 15.6 g
+Carbohydrates: 0.59 g
+Fat: 25.1 g
+
+Fats:
+Cholesterol: 1000 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 102 mg
+Calcium: 119 mg
+Iron: 4.13 mg
+Magnesium: 11.2 mg
+Zinc: 2.93 mg
+
+Vitamins:
+Vitamin D: 5.8 µg

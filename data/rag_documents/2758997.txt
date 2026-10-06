@@ -1,0 +1,15 @@
+Food: Tortilla, corn, shelf stable
+Food ID: 2758997
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Minerals:
+Sodium: 34.91 mg
+Potassium: 168.2 mg
+Calcium: 35.16 mg
+Iron: 0.7912 mg
+Magnesium: 45.19 mg
+Zinc: 0.9344 mg
+
+Vitamins:
+Folate: 71.92 µg

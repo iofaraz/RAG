@@ -1,0 +1,17 @@
+Food: Fish, devilfish, meat (Alaska Native)
+Food ID: 168987
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 11.7 g
+Carbohydrates: 0 g
+Fat: 5.3 g
+
+Minerals:
+Calcium: 12 mg
+Iron: 0.4 mg
+
+Vitamins:
+Vitamin C: 3 mg

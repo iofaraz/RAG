@@ -1,0 +1,36 @@
+Food: Beverages, Dairy drink mix, chocolate, reduced calorie, with low-calorie sweeteners, powder
+Food ID: 173649
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 329 kcal
+Protein: 25 g
+Carbohydrates: 51.4 g
+Fat: 2.6 g
+Fiber: 9.4 g
+Sugar: 32.94 g
+
+Fats:
+Saturated fat: 1.871 g
+Monounsaturated fat: 0.496 g
+Polyunsaturated fat: 0.061 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 659 mg
+Potassium: 2240 mg
+Calcium: 1412 mg
+Iron: 7.7 mg
+Magnesium: 210 mg
+Zinc: 3.6 mg
+
+Vitamins:
+Vitamin A: 209 µg
+Vitamin C: 5.6 mg
+Vitamin D: 4.7 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 2.03 µg
+Folate: 33 µg

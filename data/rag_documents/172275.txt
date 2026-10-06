@@ -1,0 +1,36 @@
+Food: Babyfood, vegetables, squash, junior
+Food ID: 172275
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 24 kcal
+Protein: 0.81 g
+Carbohydrates: 5.73 g
+Fat: 0.2 g
+Fiber: 0.9 g
+Sugar: 3.24 g
+
+Fats:
+Saturated fat: 0.02 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.04 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 185 mg
+Calcium: 24 mg
+Iron: 0.32 mg
+Magnesium: 14 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 85 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

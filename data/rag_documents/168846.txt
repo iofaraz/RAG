@@ -1,0 +1,35 @@
+Food: Candies, divinity, prepared-from-recipe
+Food ID: 168846
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 1.32 g
+Carbohydrates: 89.05 g
+Fat: 0.06 g
+Fiber: 0 g
+Sugar: 78.96 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 23 mg
+Calcium: 5 mg
+Iron: 0.02 mg
+Magnesium: 2 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0.01 µg
+Folate: 0 µg

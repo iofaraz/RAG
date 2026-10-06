@@ -1,0 +1,36 @@
+Food: Shrimp cocktail
+Food ID: 2706449
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 13.24 g
+Carbohydrates: 7.92 g
+Fat: 1.22 g
+Fiber: 0.4 g
+Sugar: 2.96 g
+
+Fats:
+Saturated fat: 0.247 g
+Monounsaturated fat: 0.172 g
+Polyunsaturated fat: 0.28 g
+Cholesterol: 119 mg
+
+Minerals:
+Sodium: 502 mg
+Potassium: 184 mg
+Calcium: 58 mg
+Iron: 0.41 mg
+Magnesium: 25 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.52 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.157 mg
+Vitamin B12: 0.89 µg
+Folate: 18 µg

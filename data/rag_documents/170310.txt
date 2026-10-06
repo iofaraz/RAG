@@ -1,0 +1,35 @@
+Food: SUBWAY, steak & cheese sub on white bread with American cheese, lettuce and tomato
+Food ID: 170310
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 183 kcal
+Protein: 12.29 g
+Carbohydrates: 21.49 g
+Fat: 5.34 g
+Fiber: 1.2 g
+Sugar: 3.41 g
+
+Fats:
+Saturated fat: 2.032 g
+Monounsaturated fat: 1.736 g
+Polyunsaturated fat: 0.844 g
+Trans fat: 0.183 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 444 mg
+Potassium: 183 mg
+Calcium: 183 mg
+Iron: 2.02 mg
+Magnesium: 22 mg
+Zinc: 1.98 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.6 mg
+Vitamin E: 0.4 mg
+Vitamin B6: 0.194 mg
+Vitamin B12: 0.58 µg
+Folate: 63 µg

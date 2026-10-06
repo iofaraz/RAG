@@ -1,0 +1,32 @@
+Food: Peaches, dehydrated (low-moisture), sulfured, uncooked
+Food ID: 169932
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 325 kcal
+Protein: 4.89 g
+Carbohydrates: 83.18 g
+Fat: 1.03 g
+
+Fats:
+Saturated fat: 0.111 g
+Monounsaturated fat: 0.377 g
+Polyunsaturated fat: 0.498 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 1351 mg
+Calcium: 38 mg
+Iron: 5.51 mg
+Magnesium: 57 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 71 µg
+Vitamin C: 10.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

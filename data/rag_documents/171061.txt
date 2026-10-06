@@ -1,0 +1,37 @@
+Food: Chicken, liver, all classes, cooked, simmered
+Food ID: 171061
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 167 kcal
+Protein: 24.46 g
+Carbohydrates: 0.87 g
+Fat: 6.51 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.06 g
+Monounsaturated fat: 1.416 g
+Polyunsaturated fat: 1.988 g
+Trans fat: 0.09 g
+Cholesterol: 563 mg
+
+Minerals:
+Sodium: 76 mg
+Potassium: 263 mg
+Calcium: 11 mg
+Iron: 11.63 mg
+Magnesium: 25 mg
+Zinc: 3.98 mg
+
+Vitamins:
+Vitamin A: 3981 µg
+Vitamin C: 27.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.82 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.755 mg
+Vitamin B12: 16.85 µg
+Folate: 578 µg

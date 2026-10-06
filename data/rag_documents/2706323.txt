@@ -1,0 +1,36 @@
+Food: Fish, tilapia, steamed
+Food ID: 2706323
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 25.37 g
+Carbohydrates: 0 g
+Fat: 2.15 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.739 g
+Monounsaturated fat: 0.629 g
+Polyunsaturated fat: 0.459 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 163 mg
+Potassium: 382 mg
+Calcium: 13 mg
+Iron: 0.71 mg
+Magnesium: 34 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 3.9 µg
+Vitamin E: 0.5 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.184 mg
+Vitamin B12: 1.8 µg
+Folate: 27 µg

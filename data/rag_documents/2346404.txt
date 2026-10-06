@@ -1,0 +1,22 @@
+Food: Sweet potatoes, orange flesh, without skin, raw
+Food ID: 2346404
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.57812 g
+Carbohydrates: 17.3279 g
+Fat: 0.375 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 486.4 mg
+Calcium: 22.33 mg
+Iron: 0.398 mg
+Magnesium: 19.14 mg
+Zinc: 0.3374 mg
+
+Vitamins:
+Vitamin C: 14.84 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.1241 mg

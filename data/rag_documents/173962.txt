@@ -1,0 +1,28 @@
+Food: Cranberry-orange relish, canned
+Food ID: 173962
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 0.3 g
+Carbohydrates: 46.2 g
+Fat: 0.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.012 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 32 mg
+Potassium: 38 mg
+Calcium: 11 mg
+Iron: 0.2 mg
+Magnesium: 4 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 18 mg
+Vitamin B12: 0 µg

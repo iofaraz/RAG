@@ -1,0 +1,32 @@
+Food: Fish, turbot, european, raw
+Food ID: 173710
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 16.05 g
+Carbohydrates: 0 g
+Fat: 2.95 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.75 g
+Monounsaturated fat: 0.61 g
+Polyunsaturated fat: 0.88 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 150 mg
+Potassium: 238 mg
+Calcium: 18 mg
+Iron: 0.36 mg
+Magnesium: 51 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 1.7 mg
+Vitamin B6: 0.21 mg
+Vitamin B12: 2.2 µg
+Folate: 8 µg

@@ -1,0 +1,31 @@
+Food: Cookies, chocolate chip, dry mix
+Food ID: 174952
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 497 kcal
+Protein: 4.6 g
+Carbohydrates: 66.1 g
+Fat: 25.2 g
+
+Fats:
+Saturated fat: 8.316 g
+Monounsaturated fat: 13.077 g
+Polyunsaturated fat: 2.62 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 290 mg
+Potassium: 208 mg
+Calcium: 43 mg
+Iron: 2.07 mg
+Magnesium: 36 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0 µg
+Folate: 51 µg

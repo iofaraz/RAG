@@ -1,0 +1,36 @@
+Food: Puerto Rican seasoning with ham
+Food ID: 2709754
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 3.96 g
+Carbohydrates: 7.24 g
+Fat: 24.78 g
+Fiber: 1.6 g
+Sugar: 3.07 g
+
+Fats:
+Saturated fat: 5.454 g
+Monounsaturated fat: 15.229 g
+Polyunsaturated fat: 2.566 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 467 mg
+Potassium: 247 mg
+Calcium: 31 mg
+Iron: 0.76 mg
+Magnesium: 15 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 35.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 4.01 mg
+Vitamin K: 17.3 µg
+Vitamin B6: 0.211 mg
+Vitamin B12: 0.08 µg
+Folate: 17 µg

@@ -1,0 +1,36 @@
+Food: Spices, sage, ground
+Food ID: 170935
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 315 kcal
+Protein: 10.63 g
+Carbohydrates: 60.73 g
+Fat: 12.75 g
+Fiber: 40.3 g
+Sugar: 1.71 g
+
+Fats:
+Saturated fat: 7.03 g
+Monounsaturated fat: 1.87 g
+Polyunsaturated fat: 1.76 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 1070 mg
+Calcium: 1652 mg
+Iron: 28.12 mg
+Magnesium: 428 mg
+Zinc: 4.7 mg
+
+Vitamins:
+Vitamin A: 295 µg
+Vitamin C: 32.4 mg
+Vitamin D: 0 µg
+Vitamin E: 7.48 mg
+Vitamin K: 1714.5 µg
+Vitamin B6: 2.69 mg
+Vitamin B12: 0 µg
+Folate: 274 µg

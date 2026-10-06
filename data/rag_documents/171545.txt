@@ -1,0 +1,36 @@
+Food: Soup, chicken with rice, canned, condensed
+Food ID: 171545
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 1.84 g
+Carbohydrates: 11.57 g
+Fat: 1.56 g
+Fiber: 0.9 g
+Sugar: 0.23 g
+
+Fats:
+Saturated fat: 0.37 g
+Monounsaturated fat: 0.74 g
+Polyunsaturated fat: 0.34 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 645 mg
+Potassium: 34 mg
+Calcium: 41 mg
+Iron: 0.25 mg
+Magnesium: 10 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.13 µg
+Folate: 1 µg

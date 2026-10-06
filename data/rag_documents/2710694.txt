@@ -1,0 +1,36 @@
+Food: Wine cooler
+Food ID: 2710694
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 0 g
+Carbohydrates: 10.07 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 9.77 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 27 mg
+Calcium: 4 mg
+Iron: 0.03 mg
+Magnesium: 4 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.022 mg
+Vitamin B12: 0.01 µg
+Folate: 4 µg

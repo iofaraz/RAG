@@ -1,0 +1,36 @@
+Food: Bread, cheese, toasted
+Food ID: 2707619
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 448 kcal
+Protein: 11.45 g
+Carbohydrates: 49.26 g
+Fat: 22.89 g
+Fiber: 2.3 g
+Sugar: 2.29 g
+
+Fats:
+Saturated fat: 6.868 g
+Monounsaturated fat: 4.768 g
+Polyunsaturated fat: 10.113 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 824 mg
+Potassium: 92 mg
+Calcium: 99 mg
+Iron: 2.74 mg
+Magnesium: 19 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.64 mg
+Vitamin K: 35.6 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.26 µg
+Folate: 100 µg

@@ -1,0 +1,36 @@
+Food: Meatloaf sandwich
+Food ID: 2706946
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 11.75 g
+Carbohydrates: 28.73 g
+Fat: 6.15 g
+Fiber: 1.3 g
+Sugar: 5.9 g
+
+Fats:
+Saturated fat: 2.038 g
+Monounsaturated fat: 2.248 g
+Polyunsaturated fat: 1.103 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 494 mg
+Potassium: 204 mg
+Calcium: 124 mg
+Iron: 2.42 mg
+Magnesium: 22 mg
+Zinc: 2.02 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.35 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.175 mg
+Vitamin B12: 0.71 µg
+Folate: 60 µg

@@ -1,0 +1,21 @@
+Food: Oats, whole grain, steel cut
+Food ID: 2346397
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 12.5112 g
+Carbohydrates: 69.7508 g
+Fat: 5.8 g
+
+Minerals:
+Sodium: 0.3113 mg
+Potassium: 375.9 mg
+Calcium: 51.34 mg
+Iron: 3.801 mg
+Magnesium: 128.6 mg
+Zinc: 2.843 mg
+
+Vitamins:
+Vitamin B6: 0.1189 mg
+Folate: 29.99 µg

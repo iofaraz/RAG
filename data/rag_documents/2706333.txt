@@ -1,0 +1,36 @@
+Food: Calamari, cooked
+Food ID: 2706333
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 19.36 g
+Carbohydrates: 3.83 g
+Fat: 6.25 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.631 g
+Monounsaturated fat: 1.742 g
+Polyunsaturated fat: 1.952 g
+Cholesterol: 293 mg
+
+Minerals:
+Sodium: 270 mg
+Potassium: 306 mg
+Calcium: 40 mg
+Iron: 0.85 mg
+Magnesium: 41 mg
+Zinc: 1.9 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 4.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.17 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 1.37 µg
+Folate: 5 µg

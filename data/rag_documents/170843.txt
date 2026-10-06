@@ -1,0 +1,36 @@
+Food: Cheese, fontina
+Food ID: 170843
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 389 kcal
+Protein: 25.6 g
+Carbohydrates: 1.55 g
+Fat: 31.14 g
+Fiber: 0 g
+Sugar: 1.55 g
+
+Fats:
+Saturated fat: 19.196 g
+Monounsaturated fat: 8.687 g
+Polyunsaturated fat: 1.654 g
+Cholesterol: 116 mg
+
+Minerals:
+Sodium: 800 mg
+Potassium: 64 mg
+Calcium: 550 mg
+Iron: 0.23 mg
+Magnesium: 14 mg
+Zinc: 3.5 mg
+
+Vitamins:
+Vitamin A: 261 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.27 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 1.68 µg
+Folate: 6 µg

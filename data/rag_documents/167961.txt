@@ -1,0 +1,36 @@
+Food: Snacks, pork skins, plain
+Food ID: 167961
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 544 kcal
+Protein: 61.3 g
+Carbohydrates: 0 g
+Fat: 31.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 11.37 g
+Monounsaturated fat: 14.78 g
+Polyunsaturated fat: 3.64 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 1818 mg
+Potassium: 127 mg
+Calcium: 30 mg
+Iron: 0.88 mg
+Magnesium: 11 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0.64 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Infant formula, NESTLE, GOOD START SOY, with ARA and DHA, powder
+Food ID: 172316
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 503 kcal
+Protein: 12.5 g
+Carbohydrates: 55.6 g
+Fat: 25.6 g
+Fiber: 0 g
+Sugar: 44.38 g
+
+Fats:
+Saturated fat: 11 g
+Monounsaturated fat: 8.1 g
+Polyunsaturated fat: 6 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 581 mg
+Calcium: 526 mg
+Iron: 9 mg
+Magnesium: 55 mg
+Zinc: 4.51 mg
+
+Vitamins:
+Vitamin A: 451 µg
+Vitamin C: 60.1 mg
+Vitamin D: 7.5 µg
+Vitamin E: 7.34 mg
+Vitamin K: 45.1 µg
+Vitamin B6: 0.301 mg
+Vitamin B12: 1.5 µg
+Folate: 80 µg

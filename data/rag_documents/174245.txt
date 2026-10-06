@@ -1,0 +1,29 @@
+Food: Fish, turbot, european, cooked, dry heat
+Food ID: 174245
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 20.58 g
+Carbohydrates: 0 g
+Fat: 3.78 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 192 mg
+Potassium: 305 mg
+Calcium: 23 mg
+Iron: 0.46 mg
+Magnesium: 65 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 1.7 mg
+Vitamin B6: 0.242 mg
+Vitamin B12: 2.54 µg
+Folate: 9 µg

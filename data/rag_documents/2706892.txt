@@ -1,0 +1,36 @@
+Food: Cheeseburger (McDonalds)
+Food ID: 2706892
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 13.49 g
+Carbohydrates: 25.46 g
+Fat: 12.9 g
+Fiber: 1.9 g
+Sugar: 5.24 g
+
+Fats:
+Saturated fat: 5.797 g
+Monounsaturated fat: 5.035 g
+Polyunsaturated fat: 1.363 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 628 mg
+Potassium: 184 mg
+Calcium: 123 mg
+Iron: 2.25 mg
+Magnesium: 23 mg
+Zinc: 2.21 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.374 mg
+Vitamin B12: 1.31 µg
+Folate: 26 µg

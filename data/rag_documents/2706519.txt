@@ -1,0 +1,36 @@
+Food: Stew, pork
+Food ID: 2706519
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 8.35 g
+Carbohydrates: 6.29 g
+Fat: 5.42 g
+Fiber: 1.3 g
+Sugar: 1.57 g
+
+Fats:
+Saturated fat: 1.981 g
+Monounsaturated fat: 2.389 g
+Polyunsaturated fat: 0.661 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 304 mg
+Potassium: 252 mg
+Calcium: 19 mg
+Iron: 0.75 mg
+Magnesium: 17 mg
+Zinc: 1.61 mg
+
+Vitamins:
+Vitamin A: 129 µg
+Vitamin C: 7 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.22 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.201 mg
+Vitamin B12: 0.28 µg
+Folate: 12 µg

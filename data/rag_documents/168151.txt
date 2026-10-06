@@ -1,0 +1,28 @@
+Food: Jujube, raw
+Food ID: 168151
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 1.2 g
+Carbohydrates: 20.23 g
+Fat: 0.2 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 250 mg
+Calcium: 21 mg
+Iron: 0.48 mg
+Magnesium: 10 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 69 mg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0 µg

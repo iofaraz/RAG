@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, brain, raw
+Food ID: 168264
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 10.28 g
+Carbohydrates: 0 g
+Fat: 9.21 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.079 g
+Monounsaturated fat: 1.659 g
+Polyunsaturated fat: 1.429 g
+Cholesterol: 2195 mg
+
+Minerals:
+Sodium: 120 mg
+Potassium: 258 mg
+Calcium: 10 mg
+Iron: 1.6 mg
+Magnesium: 14 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 13.5 mg
+Vitamin B6: 0.19 mg
+Vitamin B12: 2.19 µg
+Folate: 6 µg

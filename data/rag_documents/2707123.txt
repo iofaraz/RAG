@@ -1,0 +1,36 @@
+Food: Soup, meatball
+Food ID: 2707123
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 2.65 g
+Carbohydrates: 5.53 g
+Fat: 2.17 g
+Fiber: 0.9 g
+Sugar: 1.45 g
+
+Fats:
+Saturated fat: 0.765 g
+Monounsaturated fat: 0.876 g
+Polyunsaturated fat: 0.203 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 285 mg
+Potassium: 204 mg
+Calcium: 12 mg
+Iron: 0.54 mg
+Magnesium: 13 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 6.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0.21 µg
+Folate: 12 µg

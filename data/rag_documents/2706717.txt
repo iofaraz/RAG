@@ -1,0 +1,36 @@
+Food: Soup, bouillabaisse
+Food ID: 2706717
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 8.25 g
+Carbohydrates: 1.59 g
+Fat: 3.05 g
+Fiber: 0.3 g
+Sugar: 0.71 g
+
+Fats:
+Saturated fat: 0.448 g
+Monounsaturated fat: 1.171 g
+Polyunsaturated fat: 1.135 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 225 mg
+Potassium: 157 mg
+Calcium: 17 mg
+Iron: 0.5 mg
+Magnesium: 14 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.91 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 1.93 µg
+Folate: 8 µg

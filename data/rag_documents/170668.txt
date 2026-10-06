@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, No Sugar Added, Chocolate Caramel
+Food ID: 170668
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 3.54 g
+Carbohydrates: 25.17 g
+Fat: 5.8 g
+Fiber: 1 g
+Sugar: 5.81 g
+
+Fats:
+Saturated fat: 3.65 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 77 mg
+Calcium: 121 mg
+Iron: 0.59 mg
+
+Vitamins:
+Vitamin C: 0.7 mg

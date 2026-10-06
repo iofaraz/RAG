@@ -1,0 +1,36 @@
+Food: Biryani with meat
+Food ID: 2706490
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 145 kcal
+Protein: 8.5 g
+Carbohydrates: 12.19 g
+Fat: 6.79 g
+Fiber: 1 g
+Sugar: 1.69 g
+
+Fats:
+Saturated fat: 2.969 g
+Monounsaturated fat: 2.649 g
+Polyunsaturated fat: 0.48 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 98 mg
+Potassium: 229 mg
+Calcium: 33 mg
+Iron: 1.12 mg
+Magnesium: 17 mg
+Zinc: 1.45 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 5.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.23 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.136 mg
+Vitamin B12: 0.47 µg
+Folate: 21 µg

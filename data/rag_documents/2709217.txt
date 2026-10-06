@@ -1,0 +1,36 @@
+Food: Applesauce, unsweetened
+Food ID: 2709217
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 0.27 g
+Carbohydrates: 12.26 g
+Fat: 0.16 g
+Fiber: 1.1 g
+Sugar: 9.66 g
+
+Fats:
+Saturated fat: 0.008 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.014 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 108 mg
+Calcium: 4 mg
+Iron: 0.04 mg
+Magnesium: 4 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 43.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

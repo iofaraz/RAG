@@ -1,0 +1,36 @@
+Food: Muffins, English, whole-wheat
+Food ID: 172762
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 8.8 g
+Carbohydrates: 40.4 g
+Fat: 2.1 g
+Fiber: 6.7 g
+Sugar: 8.09 g
+
+Fats:
+Saturated fat: 0.334 g
+Monounsaturated fat: 0.513 g
+Polyunsaturated fat: 0.835 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 364 mg
+Potassium: 210 mg
+Calcium: 265 mg
+Iron: 2.45 mg
+Magnesium: 71 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.163 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

@@ -1,0 +1,36 @@
+Food: Cheesecake, fruit
+Food ID: 2707862
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 4.8 g
+Carbohydrates: 38.23 g
+Fat: 23.88 g
+Fiber: 0.6 g
+Sugar: 28.83 g
+
+Fats:
+Saturated fat: 12.935 g
+Monounsaturated fat: 5.108 g
+Polyunsaturated fat: 1.752 g
+Cholesterol: 103 mg
+
+Minerals:
+Sodium: 252 mg
+Potassium: 102 mg
+Calcium: 63 mg
+Iron: 0.72 mg
+Magnesium: 11 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 199 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.7 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.1 µg
+Folate: 20 µg

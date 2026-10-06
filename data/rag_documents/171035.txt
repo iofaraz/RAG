@@ -1,0 +1,30 @@
+Food: Margarine-like spread, BENECOL Light Spread
+Food ID: 171035
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 0 g
+Carbohydrates: 5.71 g
+Fat: 38.71 g
+
+Fats:
+Saturated fat: 4.77 g
+Monounsaturated fat: 18.932 g
+Polyunsaturated fat: 11.948 g
+Trans fat: 2.214 g
+
+Minerals:
+Sodium: 670 mg
+Potassium: 4 mg
+Calcium: 4 mg
+Iron: 0 mg
+Magnesium: 1 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 1370 µg
+Vitamin E: 37.22 mg
+Vitamin K: 56.5 µg
+Vitamin B6: 0 mg

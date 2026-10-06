@@ -1,0 +1,37 @@
+Food: Egg, yolk, raw, frozen, pasteurized
+Food ID: 173421
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 15.53 g
+Carbohydrates: 0.81 g
+Fat: 25.6 g
+Fiber: 0 g
+Sugar: 0.16 g
+
+Fats:
+Saturated fat: 8.615 g
+Monounsaturated fat: 9.956 g
+Polyunsaturated fat: 4.827 g
+Trans fat: 0.098 g
+Cholesterol: 991 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 121 mg
+Calcium: 134 mg
+Iron: 4.55 mg
+Magnesium: 11 mg
+Zinc: 3.17 mg
+
+Vitamins:
+Vitamin A: 422 µg
+Vitamin C: 0 mg
+Vitamin D: 6 µg
+Vitamin E: 2.24 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.412 mg
+Vitamin B12: 1.9 µg
+Folate: 151 µg

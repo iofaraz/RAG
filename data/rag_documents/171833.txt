@@ -1,0 +1,37 @@
+Food: Sauce, horseradish
+Food ID: 171833
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 503 kcal
+Protein: 1.09 g
+Carbohydrates: 10.05 g
+Fat: 50.89 g
+Fiber: 1 g
+Sugar: 8.98 g
+
+Fats:
+Saturated fat: 8.233 g
+Monounsaturated fat: 13.087 g
+Polyunsaturated fat: 29.169 g
+Trans fat: 0.179 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 730 mg
+Potassium: 44 mg
+Calcium: 12 mg
+Iron: 0.23 mg
+Magnesium: 6 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 4.19 mg
+Vitamin K: 91.3 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.09 µg
+Folate: 1 µg

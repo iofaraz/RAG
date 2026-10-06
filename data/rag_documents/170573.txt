@@ -1,0 +1,32 @@
+Food: Nuts, chestnuts, chinese, roasted
+Food ID: 170573
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 4.48 g
+Carbohydrates: 52.36 g
+Fat: 1.19 g
+
+Fats:
+Saturated fat: 0.175 g
+Monounsaturated fat: 0.62 g
+Polyunsaturated fat: 0.307 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 477 mg
+Calcium: 19 mg
+Iron: 1.5 mg
+Magnesium: 90 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 38.4 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.437 mg
+Vitamin B12: 0 µg
+Folate: 72 µg

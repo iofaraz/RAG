@@ -1,0 +1,31 @@
+Food: Snacks, tortilla chips, ranch-flavor
+Food ID: 167560
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 501 kcal
+Protein: 7.19 g
+Carbohydrates: 62.74 g
+Fat: 24.63 g
+Fiber: 4 g
+Sugar: 3.03 g
+
+Fats:
+Saturated fat: 3.539 g
+Monounsaturated fat: 7.047 g
+Polyunsaturated fat: 13.528 g
+Trans fat: 0.345 g
+
+Minerals:
+Sodium: 519 mg
+Potassium: 259 mg
+Calcium: 134 mg
+Iron: 1.38 mg
+Magnesium: 87 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.2 mg

@@ -1,0 +1,37 @@
+Food: School Lunch, pizza, pepperoni topping, thin crust, whole grain, frozen, cooked
+Food ID: 170780
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 254 kcal
+Protein: 12.78 g
+Carbohydrates: 31.24 g
+Fat: 8.62 g
+Fiber: 4.3 g
+Sugar: 7.62 g
+
+Fats:
+Saturated fat: 2.81 g
+Monounsaturated fat: 2.12 g
+Polyunsaturated fat: 2.23 g
+Trans fat: 0.262 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 495 mg
+Potassium: 382 mg
+Calcium: 202 mg
+Iron: 2.74 mg
+Magnesium: 51 mg
+Zinc: 2.51 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.8 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.187 mg
+Vitamin B12: 2.16 µg
+Folate: 55 µg

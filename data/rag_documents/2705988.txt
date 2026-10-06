@@ -1,0 +1,36 @@
+Food: Chicken leg, drumstick and thigh, stewed, skin eaten
+Food ID: 2705988
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 22.45 g
+Carbohydrates: 0 g
+Fat: 13.44 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.698 g
+Monounsaturated fat: 5.645 g
+Polyunsaturated fat: 2.649 g
+Cholesterol: 135 mg
+
+Minerals:
+Sodium: 396 mg
+Potassium: 237 mg
+Calcium: 12 mg
+Iron: 1.09 mg
+Magnesium: 22 mg
+Zinc: 1.89 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.367 mg
+Vitamin B12: 0.42 µg
+Folate: 4 µg

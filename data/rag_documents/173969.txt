@@ -1,0 +1,28 @@
+Food: Beef, Australian, imported, grass-fed, loin, tenderloin steak/roast, boneless, separable lean and fat, raw
+Food ID: 173969
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 20.53 g
+Carbohydrates: 0.01 g
+Fat: 7.63 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.393 g
+Monounsaturated fat: 3.046 g
+Polyunsaturated fat: 0.42 g
+Trans fat: 0.347 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 62 mg
+Calcium: 4 mg
+Iron: 2.21 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg

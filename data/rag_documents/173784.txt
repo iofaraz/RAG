@@ -1,0 +1,28 @@
+Food: Vitasoy USA Nasoya, Lite Silken Tofu
+Food ID: 173784
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 8.21 g
+Carbohydrates: 0 g
+Fat: 1.1 g
+
+Fats:
+Saturated fat: 0.2 g
+Monounsaturated fat: 0.1 g
+Polyunsaturated fat: 0.7 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 79 mg
+Calcium: 394 mg
+Iron: 0.87 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin D: 3.8 µg
+Vitamin E: 5.26 mg
+Vitamin B12: 2.42 µg

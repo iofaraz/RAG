@@ -1,0 +1,36 @@
+Food: Chicken or turkey cordon bleu
+Food ID: 2706441
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 210 kcal
+Protein: 22.64 g
+Carbohydrates: 9.29 g
+Fat: 9.17 g
+Fiber: 0.6 g
+Sugar: 0.63 g
+
+Fats:
+Saturated fat: 3.328 g
+Monounsaturated fat: 2.909 g
+Polyunsaturated fat: 1.479 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 589 mg
+Potassium: 255 mg
+Calcium: 97 mg
+Iron: 1.13 mg
+Magnesium: 25 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.68 mg
+Vitamin K: 24.6 µg
+Vitamin B6: 0.247 mg
+Vitamin B12: 0.39 µg
+Folate: 23 µg

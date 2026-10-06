@@ -1,0 +1,36 @@
+Food: Peppers, red, cooked
+Food ID: 2709977
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 0.92 g
+Carbohydrates: 6.71 g
+Fat: 2.78 g
+Fiber: 1.2 g
+Sugar: 4.24 g
+
+Fats:
+Saturated fat: 0.753 g
+Monounsaturated fat: 0.948 g
+Polyunsaturated fat: 0.918 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 126 mg
+Potassium: 215 mg
+Calcium: 6 mg
+Iron: 0.36 mg
+Magnesium: 11 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 162 µg
+Vitamin C: 121.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.99 mg
+Vitamin K: 7.1 µg
+Vitamin B6: 0.292 mg
+Vitamin B12: 0 µg
+Folate: 40 µg

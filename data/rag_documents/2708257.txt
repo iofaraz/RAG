@@ -1,0 +1,36 @@
+Food: Pretzel chips, hard, flavored
+Food ID: 2708257
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 370 kcal
+Protein: 9.68 g
+Carbohydrates: 77.52 g
+Fat: 2.82 g
+Fiber: 3.3 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 0.377 g
+Monounsaturated fat: 0.701 g
+Polyunsaturated fat: 1.245 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2461 mg
+Potassium: 215 mg
+Calcium: 28 mg
+Iron: 4.42 mg
+Magnesium: 28 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.45 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.071 mg
+Vitamin B12: 0 µg
+Folate: 165 µg

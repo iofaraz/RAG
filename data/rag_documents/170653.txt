@@ -1,0 +1,31 @@
+Food: Snacks, sesame sticks, wheat-based, unsalted
+Food ID: 170653
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 541 kcal
+Protein: 10.9 g
+Carbohydrates: 46.5 g
+Fat: 36.7 g
+
+Fats:
+Saturated fat: 6.48 g
+Monounsaturated fat: 10.91 g
+Polyunsaturated fat: 17.42 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 29 mg
+Potassium: 177 mg
+Calcium: 170 mg
+Iron: 0.74 mg
+Magnesium: 45 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

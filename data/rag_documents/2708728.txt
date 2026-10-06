@@ -1,0 +1,36 @@
+Food: Pastry, meat / poultry-filled
+Food ID: 2708728
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 11.46 g
+Carbohydrates: 30.89 g
+Fat: 19.18 g
+Fiber: 1.1 g
+Sugar: 4.63 g
+
+Fats:
+Saturated fat: 7.561 g
+Monounsaturated fat: 6.256 g
+Polyunsaturated fat: 2.753 g
+Cholesterol: 74 mg
+
+Minerals:
+Sodium: 398 mg
+Potassium: 190 mg
+Calcium: 61 mg
+Iron: 2.34 mg
+Magnesium: 18 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 95 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.81 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0.43 µg
+Folate: 60 µg

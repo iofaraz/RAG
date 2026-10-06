@@ -1,0 +1,36 @@
+Food: Gizzard
+Food ID: 2706165
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 30.15 g
+Carbohydrates: 0 g
+Fat: 2.66 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.665 g
+Monounsaturated fat: 0.524 g
+Polyunsaturated fat: 0.35 g
+Cholesterol: 367 mg
+
+Minerals:
+Sodium: 363 mg
+Potassium: 178 mg
+Calcium: 17 mg
+Iron: 3.16 mg
+Magnesium: 3 mg
+Zinc: 4.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 1.03 µg
+Folate: 5 µg

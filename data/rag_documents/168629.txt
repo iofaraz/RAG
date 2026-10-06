@@ -1,0 +1,32 @@
+Food: Beef, variety meats and by-products, lungs, cooked, braised
+Food ID: 168629
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 20.4 g
+Carbohydrates: 0 g
+Fat: 3.7 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.27 g
+Monounsaturated fat: 0.95 g
+Polyunsaturated fat: 0.51 g
+Cholesterol: 277 mg
+
+Minerals:
+Sodium: 101 mg
+Potassium: 173 mg
+Calcium: 11 mg
+Iron: 5.4 mg
+Magnesium: 10 mg
+Zinc: 1.64 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 32.7 mg
+Vitamin B6: 0.02 mg
+Vitamin B12: 2.59 µg
+Folate: 8 µg

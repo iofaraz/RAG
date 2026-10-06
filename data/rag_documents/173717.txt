@@ -1,0 +1,37 @@
+Food: Fish, trout, rainbow, farmed, raw
+Food ID: 173717
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 19.94 g
+Carbohydrates: 0 g
+Fat: 6.18 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.383 g
+Monounsaturated fat: 1.979 g
+Polyunsaturated fat: 1.507 g
+Trans fat: 0.047 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 377 mg
+Calcium: 25 mg
+Iron: 0.31 mg
+Magnesium: 25 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 2.9 mg
+Vitamin D: 15.9 µg
+Vitamin E: 2.34 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.34 mg
+Vitamin B12: 4.3 µg
+Folate: 11 µg

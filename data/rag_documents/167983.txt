@@ -1,0 +1,27 @@
+Food: Candies, TWIZZLERS NIBS CHERRY BITS
+Food ID: 167983
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 347 kcal
+Protein: 2.3 g
+Carbohydrates: 79.37 g
+Fat: 2.64 g
+Fiber: 0.6 g
+Sugar: 51.35 g
+
+Fats:
+Saturated fat: 0.54 g
+Monounsaturated fat: 1.88 g
+Polyunsaturated fat: 0.14 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 195 mg
+Potassium: 37 mg
+Calcium: 8 mg
+Iron: 0.28 mg
+
+Vitamins:
+Vitamin C: 0 mg

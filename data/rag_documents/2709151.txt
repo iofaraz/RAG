@@ -1,0 +1,36 @@
+Food: Soup, Matzo ball
+Food ID: 2709151
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 73 kcal
+Protein: 3.09 g
+Carbohydrates: 10.68 g
+Fat: 1.96 g
+Fiber: 0.9 g
+Sugar: 1.07 g
+
+Fats:
+Saturated fat: 0.549 g
+Monounsaturated fat: 0.683 g
+Polyunsaturated fat: 0.459 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 264 mg
+Potassium: 88 mg
+Calcium: 19 mg
+Iron: 0.6 mg
+Magnesium: 8 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 79 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.28 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.15 µg
+Folate: 19 µg

@@ -1,0 +1,32 @@
+Food: Cake, coffeecake, creme-filled with chocolate frosting
+Food ID: 174936
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 5 g
+Carbohydrates: 53.8 g
+Fat: 10.8 g
+Fiber: 2 g
+
+Fats:
+Saturated fat: 2.833 g
+Monounsaturated fat: 5.664 g
+Polyunsaturated fat: 1.465 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 323 mg
+Potassium: 78 mg
+Calcium: 38 mg
+Iron: 0.51 mg
+Magnesium: 15 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.2 µg
+Folate: 41 µg

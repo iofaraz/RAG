@@ -1,0 +1,28 @@
+Food: Cherry juice, tart
+Food ID: 167807
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 0.31 g
+Carbohydrates: 13.7 g
+Fat: 0.54 g
+Sugar: 12.21 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 161 mg
+Calcium: 13 mg
+Iron: 0.42 mg
+Magnesium: 11 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg

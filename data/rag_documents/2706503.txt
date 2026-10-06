@@ -1,0 +1,36 @@
+Food: Beef stew with potatoes, Puerto Rican style
+Food ID: 2706503
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 220 kcal
+Protein: 14.57 g
+Carbohydrates: 6.53 g
+Fat: 14.85 g
+Fiber: 1 g
+Sugar: 0.93 g
+
+Fats:
+Saturated fat: 4.209 g
+Monounsaturated fat: 6.932 g
+Polyunsaturated fat: 2.174 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 572 mg
+Potassium: 403 mg
+Calcium: 16 mg
+Iron: 1.74 mg
+Magnesium: 25 mg
+Zinc: 2.29 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 9.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.53 mg
+Vitamin K: 8.2 µg
+Vitamin B6: 0.273 mg
+Vitamin B12: 1.38 µg
+Folate: 10 µg

@@ -1,0 +1,32 @@
+Food: Fish, tuna, skipjack, fresh, cooked, dry heat
+Food ID: 172005
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 28.21 g
+Carbohydrates: 0 g
+Fat: 1.29 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.42 g
+Monounsaturated fat: 0.243 g
+Polyunsaturated fat: 0.403 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 522 mg
+Calcium: 37 mg
+Iron: 1.6 mg
+Magnesium: 44 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 1 mg
+Vitamin B6: 0.981 mg
+Vitamin B12: 2.19 µg
+Folate: 10 µg

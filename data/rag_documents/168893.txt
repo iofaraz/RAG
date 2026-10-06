@@ -1,0 +1,36 @@
+Food: Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)
+Food ID: 168893
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 13.21 g
+Carbohydrates: 71.97 g
+Fat: 2.5 g
+Fiber: 10.7 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.43 g
+Monounsaturated fat: 0.283 g
+Polyunsaturated fat: 1.167 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 363 mg
+Calcium: 34 mg
+Iron: 3.6 mg
+Magnesium: 137 mg
+Zinc: 2.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.71 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.407 mg
+Vitamin B12: 0 µg
+Folate: 44 µg

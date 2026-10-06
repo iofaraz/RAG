@@ -1,0 +1,16 @@
+Food: Beans, Dry, Navy (0% moisture)
+Food ID: 335419
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 24.1 g
+Fat: 1.51 g
+Fiber: 4.3 g
+
+Minerals:
+Potassium: 1470 mg
+Calcium: 229 mg
+Iron: 5.29 mg
+Magnesium: 180 mg
+Zinc: 3.31 mg

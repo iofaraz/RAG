@@ -1,0 +1,14 @@
+Food: Fish, whitefish, broad, liver (Alaska Native)
+Food ID: 167626
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 11 g
+Carbohydrates: 5.1 g
+Fat: 4.4 g
+
+Minerals:
+Calcium: 53 mg
+Iron: 8.6 mg

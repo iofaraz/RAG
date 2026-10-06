@@ -1,0 +1,36 @@
+Food: Rice milk
+Food ID: 2705411
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.28 g
+Carbohydrates: 9.17 g
+Fat: 0.97 g
+Fiber: 0.3 g
+Sugar: 5.28 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.625 g
+Polyunsaturated fat: 0.313 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 39 mg
+Potassium: 27 mg
+Calcium: 118 mg
+Iron: 0.2 mg
+Magnesium: 11 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.47 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.63 µg
+Folate: 2 µg

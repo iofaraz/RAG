@@ -1,0 +1,36 @@
+Food: Chocolate milk, Nesquik, NS as to type of milk
+Food ID: 2705477
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 3.41 g
+Carbohydrates: 10.09 g
+Fat: 2.15 g
+Fiber: 0.3 g
+Sugar: 9.62 g
+
+Fats:
+Saturated fat: 1.312 g
+Monounsaturated fat: 0.43 g
+Polyunsaturated fat: 0.066 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 164 mg
+Calcium: 146 mg
+Iron: 0 mg
+Magnesium: 15 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 1.8 mg
+Vitamin D: 1 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0.52 µg
+Folate: 1 µg

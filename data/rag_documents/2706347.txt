@@ -1,0 +1,36 @@
+Food: Crayfish, fried
+Food ID: 2706347
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 223 kcal
+Protein: 14.06 g
+Carbohydrates: 11.72 g
+Fat: 12.89 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.783 g
+Monounsaturated fat: 5.181 g
+Polyunsaturated fat: 4.847 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 387 mg
+Potassium: 254 mg
+Calcium: 35 mg
+Iron: 1.53 mg
+Magnesium: 25 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 4.41 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 1.32 µg
+Folate: 45 µg

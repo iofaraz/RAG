@@ -1,0 +1,14 @@
+Food: Lunchmeat, turkey, oven roasted, sliced
+Food ID: 2759001
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 1.019 g
+Monounsaturated fat: 1.31 g
+Polyunsaturated fat: 1.408 g
+Trans fat: 0.025 g
+
+Vitamins:
+Vitamin B6: 0.203 mg
+Vitamin B12: 0.5558 µg

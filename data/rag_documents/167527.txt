@@ -1,0 +1,30 @@
+Food: Bread, pound cake type, pan de torta salvadoran
+Food ID: 167527
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 7.06 g
+Carbohydrates: 51.29 g
+Fat: 17.45 g
+Fiber: 1.7 g
+Sugar: 18.1 g
+
+Fats:
+Saturated fat: 3.042 g
+Monounsaturated fat: 4.411 g
+Polyunsaturated fat: 9.424 g
+Trans fat: 0.16 g
+
+Minerals:
+Sodium: 390 mg
+Potassium: 210 mg
+Calcium: 46 mg
+Iron: 2.2 mg
+Magnesium: 19 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin E: 1.42 mg
+Vitamin B6: 0.05 mg

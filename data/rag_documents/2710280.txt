@@ -1,0 +1,36 @@
+Food: Pancake syrup, light
+Food ID: 2710280
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 0 g
+Carbohydrates: 44.55 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 32.8 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 178 mg
+Potassium: 3 mg
+Calcium: 10 mg
+Iron: 0.03 mg
+Magnesium: 2 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

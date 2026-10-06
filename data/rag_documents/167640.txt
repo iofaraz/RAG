@@ -1,0 +1,30 @@
+Food: Blueberries, wild, raw (Alaska Native)
+Food ID: 167640
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 1.22 g
+Carbohydrates: 12.31 g
+Fat: 0.76 g
+Fiber: 2.6 g
+Sugar: 6.46 g
+
+Minerals:
+Sodium: 6 mg
+Potassium: 75 mg
+Calcium: 13 mg
+Iron: 0.37 mg
+Magnesium: 7 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 18.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.69 mg
+Vitamin K: 17.2 µg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

@@ -1,0 +1,33 @@
+Food: T.G.I. FRIDAY'S, macaroni & cheese, from kid's menu
+Food ID: 169835
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 5.03 g
+Carbohydrates: 17.4 g
+Fat: 3.45 g
+Fiber: 1 g
+Sugar: 1.65 g
+
+Fats:
+Saturated fat: 1.63 g
+Monounsaturated fat: 0.899 g
+Polyunsaturated fat: 0.72 g
+Trans fat: 0.097 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 482 mg
+Potassium: 88 mg
+Calcium: 89 mg
+Iron: 0.53 mg
+Magnesium: 14 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin E: 1.2 mg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.12 µg

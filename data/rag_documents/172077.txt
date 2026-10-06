@@ -1,0 +1,33 @@
+Food: BURGER KING, french toast sticks
+Food ID: 172077
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 349 kcal
+Protein: 6 g
+Carbohydrates: 41.21 g
+Fat: 17.74 g
+Fiber: 1.4 g
+Sugar: 9.89 g
+
+Fats:
+Saturated fat: 3.989 g
+Monounsaturated fat: 9.502 g
+Polyunsaturated fat: 2.566 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 428 mg
+Potassium: 111 mg
+Calcium: 53 mg
+Iron: 1.92 mg
+Magnesium: 19 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.88 mg
+Vitamin K: 14.5 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0 µg

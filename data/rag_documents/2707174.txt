@@ -1,0 +1,36 @@
+Food: Egg, yolk only, cooked, no added fat
+Food ID: 2707174
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 327 kcal
+Protein: 16.15 g
+Carbohydrates: 1.02 g
+Fat: 28.71 g
+Fiber: 0 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 9.522 g
+Monounsaturated fat: 11.703 g
+Polyunsaturated fat: 4.191 g
+Cholesterol: 1082 mg
+
+Minerals:
+Sodium: 164 mg
+Potassium: 109 mg
+Calcium: 129 mg
+Iron: 2.72 mg
+Magnesium: 5 mg
+Zinc: 2.29 mg
+
+Vitamins:
+Vitamin A: 380 µg
+Vitamin C: 0 mg
+Vitamin D: 5.4 µg
+Vitamin E: 5.62 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.332 mg
+Vitamin B12: 1.56 µg
+Folate: 109 µg

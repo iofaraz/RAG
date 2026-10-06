@@ -1,0 +1,36 @@
+Food: Chicken curry
+Food ID: 2706437
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 107 kcal
+Protein: 6.48 g
+Carbohydrates: 6.54 g
+Fat: 6.48 g
+Fiber: 1.4 g
+Sugar: 2.56 g
+
+Fats:
+Saturated fat: 1.557 g
+Monounsaturated fat: 2.422 g
+Polyunsaturated fat: 1.906 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 376 mg
+Potassium: 280 mg
+Calcium: 20 mg
+Iron: 0.71 mg
+Magnesium: 18 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 8.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.44 mg
+Vitamin K: 8.7 µg
+Vitamin B6: 0.151 mg
+Vitamin B12: 0.08 µg
+Folate: 16 µg

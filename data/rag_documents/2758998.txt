@@ -1,0 +1,15 @@
+Food: Pasta, dry, enriched, spaghetti
+Food ID: 2758998
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Minerals:
+Sodium: 2.406 mg
+Potassium: 237.4 mg
+Calcium: 18.27 mg
+Iron: 3.887 mg
+Magnesium: 56.74 mg
+Zinc: 1.493 mg
+
+Vitamins:
+Folate: 229.6 µg

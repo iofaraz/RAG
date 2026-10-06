@@ -1,0 +1,32 @@
+Food: Turkey, young hen, skin only, cooked, roasted
+Food ID: 171499
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 482 kcal
+Protein: 19.03 g
+Carbohydrates: 0 g
+Fat: 44.45 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.59 g
+Monounsaturated fat: 18.94 g
+Polyunsaturated fat: 10.18 g
+Cholesterol: 106 mg
+
+Minerals:
+Sodium: 44 mg
+Potassium: 155 mg
+Calcium: 32 mg
+Iron: 1.82 mg
+Magnesium: 15 mg
+Zinc: 2.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.24 µg
+Folate: 4 µg

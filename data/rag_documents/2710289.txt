@@ -1,0 +1,36 @@
+Food: Chocolate hazelnut spread
+Food ID: 2710289
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 539 kcal
+Protein: 5.41 g
+Carbohydrates: 62.36 g
+Fat: 29.73 g
+Fiber: 5.4 g
+Sugar: 54.05 g
+
+Fats:
+Saturated fat: 28.423 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 407 mg
+Calcium: 108 mg
+Iron: 4.38 mg
+Magnesium: 64 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4.96 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0.27 µg
+Folate: 14 µg

@@ -1,0 +1,36 @@
+Food: Muffin, bran with fruit, lowfat
+Food ID: 2707838
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 179 kcal
+Protein: 5.42 g
+Carbohydrates: 39.99 g
+Fat: 1.5 g
+Fiber: 2.7 g
+Sugar: 20.26 g
+
+Fats:
+Saturated fat: 0.408 g
+Monounsaturated fat: 0.367 g
+Polyunsaturated fat: 0.399 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 433 mg
+Potassium: 259 mg
+Calcium: 65 mg
+Iron: 1.7 mg
+Magnesium: 43 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0.09 µg
+Folate: 21 µg

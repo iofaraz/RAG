@@ -1,0 +1,36 @@
+Food: Burdock, cooked
+Food ID: 2709886
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 1.6 g
+Carbohydrates: 18.06 g
+Fat: 2.89 g
+Fiber: 3.4 g
+Sugar: 3.02 g
+
+Fats:
+Saturated fat: 0.742 g
+Monounsaturated fat: 1.01 g
+Polyunsaturated fat: 0.847 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 135 mg
+Potassium: 321 mg
+Calcium: 43 mg
+Iron: 0.84 mg
+Magnesium: 40 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 2.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.8 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.242 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

@@ -1,0 +1,36 @@
+Food: Egg roll, with shrimp
+Food ID: 2708701
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 6.68 g
+Carbohydrates: 27.12 g
+Fat: 13.61 g
+Fiber: 2 g
+Sugar: 5.07 g
+
+Fats:
+Saturated fat: 2.009 g
+Monounsaturated fat: 4.765 g
+Polyunsaturated fat: 5.835 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 440 mg
+Potassium: 202 mg
+Calcium: 49 mg
+Iron: 1.7 mg
+Magnesium: 22 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 5.7 mg
+Vitamin D: 0 µg
+Vitamin E: 2.23 mg
+Vitamin K: 41.1 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.11 µg
+Folate: 62 µg

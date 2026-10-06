@@ -1,0 +1,23 @@
+Food: Beverages, Cranberry juice cocktail
+Food ID: 173214
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 0 g
+Carbohydrates: 12.25 g
+Fat: 0.34 g
+Sugar: 11.41 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 19 mg
+Calcium: 3 mg
+Iron: 0.04 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin C: 33.5 mg
+Vitamin B6: 0 mg

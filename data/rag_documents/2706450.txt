@@ -1,0 +1,36 @@
+Food: Tuna with cream or white sauce
+Food ID: 2706450
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 14.42 g
+Carbohydrates: 2.81 g
+Fat: 3.71 g
+Fiber: 0 g
+Sugar: 1.39 g
+
+Fats:
+Saturated fat: 1.557 g
+Monounsaturated fat: 0.849 g
+Polyunsaturated fat: 0.591 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 327 mg
+Potassium: 170 mg
+Calcium: 49 mg
+Iron: 1.27 mg
+Magnesium: 20 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.47 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.276 mg
+Vitamin B12: 1.92 µg
+Folate: 5 µg

@@ -1,0 +1,36 @@
+Food: Chicken egg foo yung
+Food ID: 2707194
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 137 kcal
+Protein: 12.79 g
+Carbohydrates: 4.78 g
+Fat: 7.38 g
+Fiber: 0.3 g
+Sugar: 3.05 g
+
+Fats:
+Saturated fat: 1.986 g
+Monounsaturated fat: 2.861 g
+Polyunsaturated fat: 1.564 g
+Cholesterol: 207 mg
+
+Minerals:
+Sodium: 401 mg
+Potassium: 172 mg
+Calcium: 34 mg
+Iron: 1.11 mg
+Magnesium: 15 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 85 µg
+Vitamin C: 1.7 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.88 mg
+Vitamin K: 23.6 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0.47 µg
+Folate: 31 µg

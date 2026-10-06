@@ -1,0 +1,33 @@
+Food: Lamb, loin, separable lean and fat, trimmed to 1/4" fat, choice, raw
+Food ID: 174319
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 310 kcal
+Protein: 16.32 g
+Carbohydrates: 0 g
+Fat: 26.63 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.76 g
+Monounsaturated fat: 10.94 g
+Polyunsaturated fat: 2.08 g
+Cholesterol: 74 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 214 mg
+Calcium: 15 mg
+Iron: 1.61 mg
+Magnesium: 21 mg
+Zinc: 2.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.18 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 2.04 µg
+Folate: 17 µg

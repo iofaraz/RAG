@@ -1,0 +1,24 @@
+Food: Persimmons, native, raw
+Food ID: 169943
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 0.8 g
+Carbohydrates: 33.5 g
+Fat: 0.4 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 310 mg
+Calcium: 27 mg
+Iron: 2.5 mg
+
+Vitamins:
+Vitamin C: 66 mg
+Vitamin B12: 0 µg

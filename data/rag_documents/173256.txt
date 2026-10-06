@@ -1,0 +1,21 @@
+Food: Continental Mills, Krusteaz Almond Poppyseed Muffin Mix, Artificially Flavored, dry
+Food ID: 173256
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 418 kcal
+Protein: 5.6 g
+Carbohydrates: 75.6 g
+Fat: 10.3 g
+Fiber: 1.7 g
+Sugar: 40 g
+
+Fats:
+Saturated fat: 2.1 g
+Trans fat: 2.7 g
+
+Minerals:
+Sodium: 590 mg
+Calcium: 82 mg
+Iron: 2.47 mg

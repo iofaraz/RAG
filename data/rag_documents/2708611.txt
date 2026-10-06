@@ -1,0 +1,36 @@
+Food: Pupusa, meat, with beans
+Food ID: 2708611
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 8.55 g
+Carbohydrates: 27.26 g
+Fat: 9.72 g
+Fiber: 4.2 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 2.678 g
+Monounsaturated fat: 3.457 g
+Polyunsaturated fat: 2.542 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 366 mg
+Potassium: 280 mg
+Calcium: 50 mg
+Iron: 1.24 mg
+Magnesium: 46 mg
+Zinc: 1.28 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.36 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.201 mg
+Vitamin B12: 0.28 µg
+Folate: 4 µg

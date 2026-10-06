@@ -1,0 +1,25 @@
+Food: SMART SOUP, Moroccan Chick Pea
+Food ID: 171182
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 2 g
+Carbohydrates: 9.7 g
+Fat: 1.06 g
+Fiber: 3.1 g
+Sugar: 4.2 g
+
+Fats:
+Saturated fat: 0.18 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 148 mg
+Calcium: 23 mg
+Iron: 1 mg
+
+Vitamins:
+Vitamin C: 0 mg

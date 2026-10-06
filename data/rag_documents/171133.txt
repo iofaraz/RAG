@@ -1,0 +1,37 @@
+Food: Turkey, retail parts, wing, meat and skin, cooked, roasted
+Food ID: 171133
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 28.74 g
+Carbohydrates: 0.13 g
+Fat: 13.29 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.656 g
+Monounsaturated fat: 4.765 g
+Polyunsaturated fat: 3.836 g
+Trans fat: 0.175 g
+Cholesterol: 115 mg
+
+Minerals:
+Sodium: 106 mg
+Potassium: 215 mg
+Calcium: 14 mg
+Iron: 1 mg
+Magnesium: 24 mg
+Zinc: 2.99 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.59 mg
+Vitamin B12: 1.36 µg
+Folate: 9 µg

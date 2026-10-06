@@ -1,0 +1,30 @@
+Food: Frostings, white, fluffy, dry mix, prepared with water
+Food ID: 169626
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 1.5 g
+Carbohydrates: 62.6 g
+Fat: 0 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 156 mg
+Potassium: 77 mg
+Calcium: 4 mg
+Iron: 0.06 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0.01 µg
+Folate: 2 µg

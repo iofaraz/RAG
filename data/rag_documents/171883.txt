@@ -1,0 +1,36 @@
+Food: Beverages, tea, green, ready to drink, ginseng and honey, sweetened
+Food ID: 171883
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 30 kcal
+Protein: 0 g
+Carbohydrates: 7.16 g
+Fat: 0.18 g
+Fiber: 0 g
+Sugar: 6.87 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 5 mg
+Calcium: 3 mg
+Iron: 0.02 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

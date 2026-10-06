@@ -1,0 +1,36 @@
+Food: Soup, chicken broth or bouillon, dry, prepared with water
+Food ID: 172924
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 4 kcal
+Protein: 0.28 g
+Carbohydrates: 0.3 g
+Fat: 0.23 g
+Fiber: 0 g
+Sugar: 0.29 g
+
+Fats:
+Saturated fat: 0.057 g
+Monounsaturated fat: 0.089 g
+Polyunsaturated fat: 0.074 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 401 mg
+Potassium: 6 mg
+Calcium: 6 mg
+Iron: 0.02 mg
+Magnesium: 2 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.002 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

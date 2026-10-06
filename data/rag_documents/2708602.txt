@@ -1,0 +1,36 @@
+Food: Taquito, egg
+Food ID: 2708602
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 281 kcal
+Protein: 9.9 g
+Carbohydrates: 29.25 g
+Fat: 13.56 g
+Fiber: 2 g
+Sugar: 2.29 g
+
+Fats:
+Saturated fat: 3.685 g
+Monounsaturated fat: 4.61 g
+Polyunsaturated fat: 3.912 g
+Cholesterol: 129 mg
+
+Minerals:
+Sodium: 555 mg
+Potassium: 137 mg
+Calcium: 101 mg
+Iron: 2.71 mg
+Magnesium: 18 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1.25 mg
+Vitamin K: 9.1 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.3 µg
+Folate: 71 µg

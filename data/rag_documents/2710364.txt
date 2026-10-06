@@ -1,0 +1,36 @@
+Food: Candy, fruit flavored pieces
+Food ID: 2710364
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 400 kcal
+Protein: 0.1 g
+Carbohydrates: 94.39 g
+Fat: 2.28 g
+Fiber: 0 g
+Sugar: 69.37 g
+
+Fats:
+Saturated fat: 2.058 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 8 mg
+Calcium: 2 mg
+Iron: 0.15 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

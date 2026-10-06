@@ -1,0 +1,37 @@
+Food: Veal, variety meats and by-products, thymus, cooked, braised
+Food ID: 172543
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 22.67 g
+Carbohydrates: 0 g
+Fat: 3.11 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.942 g
+Monounsaturated fat: 0.903 g
+Polyunsaturated fat: 0.315 g
+Trans fat: 0.2 g
+Cholesterol: 350 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 435 mg
+Calcium: 4 mg
+Iron: 1.24 mg
+Magnesium: 24 mg
+Zinc: 2.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 39.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 2.85 µg
+Folate: 20 µg

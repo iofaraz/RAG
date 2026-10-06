@@ -1,0 +1,36 @@
+Food: Collards, frozen, cooked, fat added, NS as to fat type
+Food ID: 2709581
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 58 kcal
+Protein: 2.88 g
+Carbohydrates: 6.88 g
+Fat: 2.94 g
+Fiber: 2.7 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 0.724 g
+Monounsaturated fat: 0.923 g
+Polyunsaturated fat: 0.934 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 169 mg
+Potassium: 243 mg
+Calcium: 204 mg
+Iron: 1.09 mg
+Magnesium: 29 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 568 µg
+Vitamin C: 25.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.59 mg
+Vitamin K: 605.4 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0 µg
+Folate: 74 µg

@@ -1,0 +1,30 @@
+Food: Baobab powder
+Food ID: 167806
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 250 kcal
+Protein: 3.69 g
+Carbohydrates: 79.65 g
+Fat: 0.47 g
+Fiber: 44.5 g
+
+Fats:
+Saturated fat: 0.244 g
+Monounsaturated fat: 0.169 g
+Polyunsaturated fat: 0.163 g
+Trans fat: 0.009 g
+
+Minerals:
+Sodium: 10 mg
+Potassium: 2189 mg
+Calcium: 342 mg
+Iron: 8.42 mg
+Magnesium: 158 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin C: 173.2 mg
+Vitamin B6: 2.414 mg
+Folate: 43 µg

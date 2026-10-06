@@ -1,0 +1,36 @@
+Food: Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0" fat, select, raw
+Food ID: 173356
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 20.93 g
+Carbohydrates: 0 g
+Fat: 5.79 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.988 g
+Monounsaturated fat: 1.979 g
+Polyunsaturated fat: 0.337 g
+Trans fat: 0.214 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 366 mg
+Calcium: 5 mg
+Iron: 2.39 mg
+Magnesium: 25 mg
+Zinc: 4.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.09 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.519 mg
+Vitamin B12: 5.09 µg
+Folate: 7 µg

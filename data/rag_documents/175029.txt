@@ -1,0 +1,36 @@
+Food: Rolls, dinner, rye
+Food ID: 175029
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 286 kcal
+Protein: 10.3 g
+Carbohydrates: 53.1 g
+Fat: 3.4 g
+Fiber: 4.9 g
+Sugar: 1.17 g
+
+Fats:
+Saturated fat: 0.605 g
+Monounsaturated fat: 1.236 g
+Polyunsaturated fat: 0.708 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 650 mg
+Potassium: 180 mg
+Calcium: 30 mg
+Iron: 2.7 mg
+Magnesium: 54 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0 µg
+Folate: 99 µg

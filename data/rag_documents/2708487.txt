@@ -1,0 +1,36 @@
+Food: Cereal, reduced sugar
+Food ID: 2708487
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 376 kcal
+Protein: 8.42 g
+Carbohydrates: 76.89 g
+Fat: 3.67 g
+Fiber: 6.4 g
+Sugar: 19.79 g
+
+Fats:
+Saturated fat: 0.454 g
+Monounsaturated fat: 1.27 g
+Polyunsaturated fat: 1.178 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 509 mg
+Potassium: 171 mg
+Calcium: 182 mg
+Iron: 10.75 mg
+Magnesium: 54 mg
+Zinc: 1.42 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 5 µg
+Vitamin E: 0.33 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.736 mg
+Vitamin B12: 0.9 µg
+Folate: 143 µg

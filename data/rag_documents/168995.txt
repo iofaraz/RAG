@@ -1,0 +1,25 @@
+Food: Lambsquarters, raw (Northern Plains Indians)
+Food ID: 168995
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 4.21 g
+Carbohydrates: 6.96 g
+Fat: 0.28 g
+Fiber: 6.3 g
+
+Minerals:
+Sodium: 7 mg
+Potassium: 1270 mg
+Calcium: 366 mg
+Iron: 1.16 mg
+Magnesium: 163 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin K: 346.6 µg
+Vitamin B6: 0.184 mg
+Folate: 48 µg

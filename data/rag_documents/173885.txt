@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST, COCOA PEBBLES
+Food ID: 173885
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 397 kcal
+Protein: 4.8 g
+Carbohydrates: 85.7 g
+Fat: 4.1 g
+Fiber: 1.6 g
+Sugar: 35.8 g
+
+Fats:
+Saturated fat: 3.6 g
+Monounsaturated fat: 0.2 g
+Polyunsaturated fat: 0.1 g
+Trans fat: 0.1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 594 mg
+Potassium: 193 mg
+Calcium: 22 mg
+Iron: 6.2 mg
+Magnesium: 31 mg
+Zinc: 5.2 mg
+
+Vitamins:
+Vitamin A: 776 µg
+Vitamin C: 0 mg
+Vitamin D: 6.9 µg
+Vitamin E: 0.13 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 1.7 mg
+Vitamin B12: 5.2 µg
+Folate: 345 µg

@@ -1,0 +1,29 @@
+Food: Custard-apple, (bullock's-heart), raw
+Food ID: 171725
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 1.7 g
+Carbohydrates: 25.2 g
+Fat: 0.6 g
+Fiber: 2.4 g
+
+Fats:
+Saturated fat: 0.231 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 382 mg
+Calcium: 30 mg
+Iron: 0.71 mg
+Magnesium: 18 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 19.2 mg
+Vitamin B6: 0.221 mg
+Vitamin B12: 0 µg

@@ -1,0 +1,36 @@
+Food: Candies, MR. GOODBAR Chocolate Bar
+Food ID: 168760
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 538 kcal
+Protein: 10.22 g
+Carbohydrates: 54.34 g
+Fat: 33.21 g
+Fiber: 3.8 g
+Sugar: 47.22 g
+
+Fats:
+Saturated fat: 14.13 g
+Monounsaturated fat: 8.203 g
+Polyunsaturated fat: 4.366 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 394 mg
+Calcium: 110 mg
+Iron: 1.39 mg
+Magnesium: 47 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 3.17 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.33 µg
+Folate: 38 µg

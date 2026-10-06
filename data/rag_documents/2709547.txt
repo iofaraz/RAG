@@ -1,0 +1,36 @@
+Food: Potato salad, made with creamy dressing
+Food ID: 2709547
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 140 kcal
+Protein: 1.59 g
+Carbohydrates: 16.8 g
+Fat: 7.53 g
+Fiber: 1.5 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 1.187 g
+Monounsaturated fat: 1.542 g
+Polyunsaturated fat: 4.35 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 197 mg
+Potassium: 278 mg
+Calcium: 13 mg
+Iron: 0.3 mg
+Magnesium: 17 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin K: 25.3 µg
+Vitamin B6: 0.218 mg
+Vitamin B12: 0.03 µg
+Folate: 9 µg

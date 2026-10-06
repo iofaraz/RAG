@@ -1,0 +1,36 @@
+Food: Lo mein, with beef
+Food ID: 2708802
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 9.73 g
+Carbohydrates: 16.18 g
+Fat: 2.77 g
+Fiber: 1 g
+Sugar: 2.11 g
+
+Fats:
+Saturated fat: 0.702 g
+Monounsaturated fat: 0.854 g
+Polyunsaturated fat: 1.095 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 358 mg
+Potassium: 160 mg
+Calcium: 20 mg
+Iron: 1.43 mg
+Magnesium: 14 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 10.6 µg
+Vitamin B6: 0.208 mg
+Vitamin B12: 0.4 µg
+Folate: 23 µg

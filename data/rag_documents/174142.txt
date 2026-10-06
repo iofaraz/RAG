@@ -1,0 +1,33 @@
+Food: Beverages, cranberry-apricot juice drink, bottled
+Food ID: 174142
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 0.2 g
+Carbohydrates: 16.2 g
+Fat: 0 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 61 mg
+Calcium: 9 mg
+Iron: 0.15 mg
+Magnesium: 3 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

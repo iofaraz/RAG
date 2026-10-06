@@ -1,0 +1,36 @@
+Food: Multiple meat sandwich or sub, with cheese, restaurant
+Food ID: 2707087
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 14.23 g
+Carbohydrates: 17.18 g
+Fat: 9.07 g
+Fiber: 0.7 g
+Sugar: 2.44 g
+
+Fats:
+Saturated fat: 3.781 g
+Monounsaturated fat: 2.678 g
+Polyunsaturated fat: 1.454 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 771 mg
+Potassium: 289 mg
+Calcium: 212 mg
+Iron: 1.59 mg
+Magnesium: 23 mg
+Zinc: 1.55 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.34 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.245 mg
+Vitamin B12: 0.58 µg
+Folate: 39 µg

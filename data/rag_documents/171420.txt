@@ -1,0 +1,36 @@
+Food: Salad dressing, french dressing, fat-free
+Food ID: 171420
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 0.2 g
+Carbohydrates: 32.14 g
+Fat: 0.27 g
+Fiber: 2.2 g
+Sugar: 16.45 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.141 g
+Polyunsaturated fat: 0.062 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 853 mg
+Potassium: 84 mg
+Calcium: 5 mg
+Iron: 0.58 mg
+Magnesium: 3 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

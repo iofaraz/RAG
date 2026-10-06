@@ -1,0 +1,36 @@
+Food: Peanut sauce
+Food ID: 2707546
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 6.31 g
+Carbohydrates: 22.02 g
+Fat: 16.02 g
+Fiber: 1.8 g
+Sugar: 17.07 g
+
+Fats:
+Saturated fat: 2.907 g
+Monounsaturated fat: 6.986 g
+Polyunsaturated fat: 4.786 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1338 mg
+Potassium: 235 mg
+Calcium: 22 mg
+Iron: 0.91 mg
+Magnesium: 45 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.23 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

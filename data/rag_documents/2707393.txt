@@ -1,0 +1,36 @@
+Food: Beans and tomatoes, no added fat
+Food ID: 2707393
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 6.37 g
+Carbohydrates: 18.76 g
+Fat: 0.51 g
+Fiber: 6.4 g
+Sugar: 1.39 g
+
+Fats:
+Saturated fat: 0.104 g
+Monounsaturated fat: 0.088 g
+Polyunsaturated fat: 0.196 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 374 mg
+Calcium: 32 mg
+Iron: 1.71 mg
+Magnesium: 42 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 2.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.09 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg
+Folate: 108 µg

@@ -1,0 +1,36 @@
+Food: Fried eggplant
+Food ID: 2710048
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 218 kcal
+Protein: 3.66 g
+Carbohydrates: 22.33 g
+Fat: 12.82 g
+Fiber: 2 g
+Sugar: 1.77 g
+
+Fats:
+Saturated fat: 1.779 g
+Monounsaturated fat: 5.224 g
+Polyunsaturated fat: 4.843 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 315 mg
+Potassium: 135 mg
+Calcium: 28 mg
+Iron: 1.6 mg
+Magnesium: 14 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.43 mg
+Vitamin K: 13.8 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.04 µg
+Folate: 49 µg

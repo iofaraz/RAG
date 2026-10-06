@@ -1,0 +1,36 @@
+Food: Chocolate candy, caramel filled
+Food ID: 2710341
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 474 kcal
+Protein: 6.43 g
+Carbohydrates: 66.44 g
+Fat: 21.04 g
+Fiber: 2 g
+Sugar: 57.1 g
+
+Fats:
+Saturated fat: 12.096 g
+Monounsaturated fat: 4.928 g
+Polyunsaturated fat: 2.217 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 145 mg
+Potassium: 309 mg
+Calcium: 169 mg
+Iron: 1.47 mg
+Magnesium: 45 mg
+Zinc: 1.56 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.49 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.57 µg
+Folate: 9 µg

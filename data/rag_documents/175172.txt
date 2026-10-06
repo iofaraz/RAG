@@ -1,0 +1,32 @@
+Food: Mollusks, oyster, eastern, farmed, raw
+Food ID: 175172
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 5.22 g
+Carbohydrates: 5.53 g
+Fat: 1.55 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.443 g
+Monounsaturated fat: 0.152 g
+Polyunsaturated fat: 0.591 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 178 mg
+Potassium: 124 mg
+Calcium: 44 mg
+Iron: 5.78 mg
+Magnesium: 33 mg
+Zinc: 37.92 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 4.7 mg
+Vitamin B6: 0.06 mg
+Vitamin B12: 16.2 µg
+Folate: 18 µg

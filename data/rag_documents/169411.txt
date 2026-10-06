@@ -1,0 +1,33 @@
+Food: Nuts, formulated, wheat-based, all flavors except macadamia, without salt
+Food ID: 169411
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 647 kcal
+Protein: 13.11 g
+Carbohydrates: 20.79 g
+Fat: 62.3 g
+Fiber: 5.2 g
+
+Fats:
+Saturated fat: 9.37 g
+Monounsaturated fat: 25.722 g
+Polyunsaturated fat: 24.284 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 91 mg
+Potassium: 320 mg
+Calcium: 22 mg
+Iron: 2.6 mg
+Magnesium: 59 mg
+Zinc: 2.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.348 mg
+Vitamin B12: 0 µg
+Folate: 125 µg

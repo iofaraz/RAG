@@ -1,0 +1,32 @@
+Food: Plantains, yellow, fried, Latino restaurant
+Food ID: 168200
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 1.42 g
+Carbohydrates: 40.77 g
+Fat: 7.51 g
+Fiber: 3.2 g
+Sugar: 21.76 g
+
+Fats:
+Saturated fat: 1.816 g
+Monounsaturated fat: 2.319 g
+Polyunsaturated fat: 2.275 g
+Trans fat: 0.111 g
+
+Minerals:
+Sodium: 6 mg
+Potassium: 507 mg
+Calcium: 6 mg
+Iron: 0.62 mg
+Magnesium: 45 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin E: 1.1 mg
+Vitamin K: 31.8 µg
+Vitamin B6: 0.29 mg

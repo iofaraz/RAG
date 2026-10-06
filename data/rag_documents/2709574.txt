@@ -1,0 +1,36 @@
+Food: Chard, raw
+Food ID: 2709574
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 1.8 g
+Carbohydrates: 3.74 g
+Fat: 0.2 g
+Fiber: 1.6 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.04 g
+Polyunsaturated fat: 0.07 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 213 mg
+Potassium: 379 mg
+Calcium: 51 mg
+Iron: 1.8 mg
+Magnesium: 81 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 306 µg
+Vitamin C: 30 mg
+Vitamin D: 0 µg
+Vitamin E: 1.89 mg
+Vitamin K: 830 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

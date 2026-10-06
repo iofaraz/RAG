@@ -1,0 +1,32 @@
+Food: Mollusks, cuttlefish, mixed species, cooked, moist heat
+Food ID: 172010
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 32.48 g
+Carbohydrates: 1.64 g
+Fat: 1.4 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.236 g
+Monounsaturated fat: 0.162 g
+Polyunsaturated fat: 0.268 g
+Cholesterol: 224 mg
+
+Minerals:
+Sodium: 744 mg
+Potassium: 637 mg
+Calcium: 180 mg
+Iron: 10.84 mg
+Magnesium: 60 mg
+Zinc: 3.46 mg
+
+Vitamins:
+Vitamin A: 203 µg
+Vitamin C: 8.5 mg
+Vitamin B6: 0.27 mg
+Vitamin B12: 5.4 µg
+Folate: 24 µg

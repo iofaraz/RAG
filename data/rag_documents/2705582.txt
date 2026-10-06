@@ -1,0 +1,36 @@
+Food: Infant formula, Enfamil Pregestimil, powder, made with water
+Food ID: 2705582
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 1.81 g
+Carbohydrates: 6.76 g
+Fat: 3.62 g
+Fiber: 0 g
+Sugar: 6.6 g
+
+Fats:
+Saturated fat: 2.135 g
+Monounsaturated fat: 0.505 g
+Polyunsaturated fat: 0.802 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 71 mg
+Calcium: 61 mg
+Iron: 1.16 mg
+Magnesium: 5 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 7.8 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1.73 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0.19 µg
+Folate: 10 µg

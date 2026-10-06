@@ -1,0 +1,22 @@
+Food: Mango, Ataulfo, peeled, raw
+Food ID: 2710834
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.6875 g
+Carbohydrates: 17.3962 g
+Fat: 0.6813 g
+Fiber: 1.289 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 204.4 mg
+Calcium: 10.02 mg
+Iron: 0 mg
+Magnesium: 10.57 mg
+Zinc: 0.102 mg
+
+Vitamins:
+Vitamin C: 168.1 mg
+Vitamin B6: 0.1081 mg

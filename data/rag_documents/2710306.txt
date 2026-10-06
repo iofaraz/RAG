@@ -1,0 +1,36 @@
+Food: Jam or jelly, fruit juice sweetened
+Food ID: 2710306
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 0 g
+Carbohydrates: 52.93 g
+Fat: 0 g
+Fiber: 0.9 g
+Sugar: 42 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 65 mg
+Calcium: 11 mg
+Iron: 0.34 mg
+Magnesium: 5 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 18.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.012 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

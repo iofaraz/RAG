@@ -1,0 +1,36 @@
+Food: Frozen yogurt, NFS
+Food ID: 2705451
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 3 g
+Carbohydrates: 21.6 g
+Fat: 3.6 g
+Fiber: 0 g
+Sugar: 19.92 g
+
+Fats:
+Saturated fat: 2.326 g
+Monounsaturated fat: 0.986 g
+Polyunsaturated fat: 0.1 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 156 mg
+Calcium: 100 mg
+Iron: 0.46 mg
+Magnesium: 10 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.07 µg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Chicken or turkey with cream sauce
+Food ID: 2706431
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 19.82 g
+Carbohydrates: 2.75 g
+Fat: 7.48 g
+Fiber: 0 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 2.497 g
+Monounsaturated fat: 2.653 g
+Polyunsaturated fat: 1.062 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 510 mg
+Potassium: 241 mg
+Calcium: 46 mg
+Iron: 0.61 mg
+Magnesium: 20 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.53 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 0.38 µg
+Folate: 9 µg

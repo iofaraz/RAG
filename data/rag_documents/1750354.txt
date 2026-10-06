@@ -1,0 +1,24 @@
+Food: Tomato, roma
+Food ID: 1750354
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.695625 g
+Carbohydrates: 3.83747 g
+Fat: 0.425 g
+Fiber: 0.9706 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 192.8 mg
+Calcium: 9.963 mg
+Iron: 0.1031 mg
+Magnesium: 8.089 mg
+Zinc: 0.08245 mg
+
+Vitamins:
+Vitamin A: 23.9 µg
+Vitamin C: 17.75 mg
+Vitamin B6: 0.07894 mg
+Folate: 9.994 µg

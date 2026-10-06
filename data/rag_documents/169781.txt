@@ -1,0 +1,37 @@
+Food: Sausage, egg and cheese breakfast biscuit
+Food ID: 169781
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 324 kcal
+Protein: 9.54 g
+Carbohydrates: 21.57 g
+Fat: 22.13 g
+Fiber: 2 g
+Sugar: 3.1 g
+
+Fats:
+Saturated fat: 8.595 g
+Monounsaturated fat: 8.539 g
+Polyunsaturated fat: 3.881 g
+Trans fat: 0.177 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 591 mg
+Potassium: 269 mg
+Calcium: 136 mg
+Iron: 1.85 mg
+Magnesium: 16 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 176 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.56 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 0.59 µg
+Folate: 52 µg

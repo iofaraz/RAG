@@ -1,0 +1,32 @@
+Food: Cake, coffeecake, cheese
+Food ID: 172699
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 7 g
+Carbohydrates: 44.3 g
+Fat: 15.2 g
+Fiber: 1 g
+
+Fats:
+Saturated fat: 5.391 g
+Monounsaturated fat: 7.129 g
+Polyunsaturated fat: 1.645 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 339 mg
+Potassium: 289 mg
+Calcium: 59 mg
+Iron: 0.64 mg
+Magnesium: 15 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 86 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.34 µg
+Folate: 39 µg

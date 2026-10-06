@@ -1,0 +1,36 @@
+Food: Beverages, chocolate malt powder, prepared with 1% milk, fortified
+Food ID: 171874
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 3.32 g
+Carbohydrates: 8.81 g
+Fat: 0.97 g
+Fiber: 0 g
+Sugar: 7.81 g
+
+Fats:
+Saturated fat: 0.63 g
+Monounsaturated fat: 0.276 g
+Polyunsaturated fat: 0.035 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 191 mg
+Calcium: 160 mg
+Iron: 1.14 mg
+Magnesium: 24 mg
+Zinc: 1.22 mg
+
+Vitamins:
+Vitamin A: 171 µg
+Vitamin C: 3 mg
+Vitamin D: 2.5 µg
+Vitamin E: 13.79 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.132 mg
+Vitamin B12: 0.47 µg
+Folate: 7 µg

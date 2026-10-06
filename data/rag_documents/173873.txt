@@ -1,0 +1,36 @@
+Food: Bologna, chicken, pork
+Food ID: 173873
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 336 kcal
+Protein: 10.31 g
+Carbohydrates: 4.19 g
+Fat: 30.61 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.863 g
+Monounsaturated fat: 13.172 g
+Polyunsaturated fat: 4.348 g
+Trans fat: 0.283 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 1240 mg
+Potassium: 162 mg
+Calcium: 196 mg
+Iron: 1.12 mg
+Magnesium: 16 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 13.2 mg
+Vitamin E: 0.64 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0.5 µg
+Folate: 13 µg

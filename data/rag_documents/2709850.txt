@@ -1,0 +1,36 @@
+Food: Lima beans, from canned
+Food ID: 2709850
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 5.86 g
+Carbohydrates: 18.62 g
+Fat: 2.86 g
+Fiber: 5.1 g
+Sugar: 1.3 g
+
+Fats:
+Saturated fat: 0.737 g
+Monounsaturated fat: 0.918 g
+Polyunsaturated fat: 0.884 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 373 mg
+Potassium: 293 mg
+Calcium: 30 mg
+Iron: 1.76 mg
+Magnesium: 40 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 12.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.66 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

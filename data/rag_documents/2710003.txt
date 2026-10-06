@@ -1,0 +1,36 @@
+Food: Water Chesnut
+Food ID: 2710003
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 1.38 g
+Carbohydrates: 19.22 g
+Fat: 0.09 g
+Fiber: 3.9 g
+Sugar: 3.84 g
+
+Fats:
+Saturated fat: 0.025 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.041 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 184 mg
+Calcium: 6 mg
+Iron: 1.36 mg
+Magnesium: 8 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.78 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.248 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

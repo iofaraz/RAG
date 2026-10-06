@@ -1,0 +1,36 @@
+Food: Beef, roast
+Food ID: 2705847
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 29.08 g
+Carbohydrates: 0 g
+Fat: 9.72 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.799 g
+Monounsaturated fat: 4.479 g
+Polyunsaturated fat: 0.484 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 332 mg
+Calcium: 15 mg
+Iron: 2.89 mg
+Magnesium: 18 mg
+Zinc: 7.33 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.54 mg
+Vitamin B12: 2.59 µg
+Folate: 6 µg

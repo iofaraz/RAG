@@ -1,0 +1,36 @@
+Food: Wheat germ
+Food ID: 2708477
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 382 kcal
+Protein: 29.1 g
+Carbohydrates: 49.6 g
+Fat: 10.7 g
+Fiber: 15.1 g
+Sugar: 7.8 g
+
+Fats:
+Saturated fat: 1.83 g
+Monounsaturated fat: 1.5 g
+Polyunsaturated fat: 6.62 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 947 mg
+Calcium: 45 mg
+Iron: 9.09 mg
+Magnesium: 320 mg
+Zinc: 16.67 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 6 mg
+Vitamin D: 0 µg
+Vitamin E: 15.99 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.978 mg
+Vitamin B12: 0 µg
+Folate: 352 µg

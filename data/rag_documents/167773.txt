@@ -1,0 +1,34 @@
+Food: Applesauce, canned, sweetened, with salt
+Food ID: 167773
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 0.18 g
+Carbohydrates: 19.91 g
+Fat: 0.18 g
+Fiber: 1.2 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.054 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 61 mg
+Calcium: 4 mg
+Iron: 0.35 mg
+Magnesium: 3 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

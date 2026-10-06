@@ -1,0 +1,28 @@
+Food: Sesbania flower, cooked, steamed, with salt
+Food ID: 169368
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 1.14 g
+Carbohydrates: 5.1 g
+Fat: 0.05 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 247 mg
+Potassium: 107 mg
+Calcium: 22 mg
+Iron: 0.56 mg
+Magnesium: 12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 37 mg
+Vitamin D: 0 µg
+Vitamin B12: 0 µg
+Folate: 57 µg

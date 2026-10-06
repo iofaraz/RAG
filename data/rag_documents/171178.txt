@@ -1,0 +1,36 @@
+Food: Soup, broccoli cheese, canned, condensed, commercial
+Food ID: 171178
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 87 kcal
+Protein: 2.1 g
+Carbohydrates: 7.7 g
+Fat: 5.3 g
+Fiber: 1.8 g
+Sugar: 2.12 g
+
+Fats:
+Saturated fat: 1.6 g
+Monounsaturated fat: 2 g
+Polyunsaturated fat: 1.7 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 661 mg
+Potassium: 207 mg
+Calcium: 41 mg
+Iron: 0.3 mg
+Magnesium: 13 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 51.8 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.02 µg
+Folate: 40 µg

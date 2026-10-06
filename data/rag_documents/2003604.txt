@@ -1,0 +1,22 @@
+Food: Mushroom, pioppini
+Food ID: 2003604
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 3.5 g
+Carbohydrates: 5.7637 g
+Fat: 0.24 g
+Fiber: 2.753 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 392.4 mg
+Calcium: 0 mg
+Iron: 0.486 mg
+Magnesium: 15.99 mg
+Zinc: 0.8573 mg
+
+Vitamins:
+Vitamin D: 0 µg
+Vitamin B6: 0.1023 mg

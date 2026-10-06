@@ -1,0 +1,36 @@
+Food: Green plantain with cracklings, Puerto Rican style
+Food ID: 2710139
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 13.16 g
+Carbohydrates: 26.97 g
+Fat: 22.82 g
+Fiber: 1.4 g
+Sugar: 14.81 g
+
+Fats:
+Saturated fat: 5.565 g
+Monounsaturated fat: 9.907 g
+Polyunsaturated fat: 5.965 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 349 mg
+Potassium: 405 mg
+Calcium: 10 mg
+Iron: 0.68 mg
+Magnesium: 33 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 11 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.25 mg
+Vitamin K: 35.8 µg
+Vitamin B6: 0.204 mg
+Vitamin B12: 0.16 µg
+Folate: 9 µg

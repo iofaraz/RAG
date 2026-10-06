@@ -1,0 +1,36 @@
+Food: Pizza, cheese, whole wheat thick crust
+Food ID: 2708688
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 11.4 g
+Carbohydrates: 32.96 g
+Fat: 10.4 g
+Fiber: 3.9 g
+Sugar: 3.75 g
+
+Fats:
+Saturated fat: 3.45 g
+Monounsaturated fat: 4.183 g
+Polyunsaturated fat: 1.485 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 548 mg
+Potassium: 203 mg
+Calcium: 212 mg
+Iron: 2.73 mg
+Magnesium: 58 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.53 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.171 mg
+Vitamin B12: 0.19 µg
+Folate: 61 µg

@@ -1,0 +1,33 @@
+Food: Peanuts, virginia, oil-roasted, with salt
+Food ID: 174264
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 578 kcal
+Protein: 25.87 g
+Carbohydrates: 19.86 g
+Fat: 48.62 g
+Fiber: 8.9 g
+
+Fats:
+Saturated fat: 6.345 g
+Monounsaturated fat: 25.222 g
+Polyunsaturated fat: 14.669 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 433 mg
+Potassium: 652 mg
+Calcium: 86 mg
+Iron: 1.67 mg
+Magnesium: 188 mg
+Zinc: 6.62 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.254 mg
+Vitamin B12: 0 µg
+Folate: 125 µg

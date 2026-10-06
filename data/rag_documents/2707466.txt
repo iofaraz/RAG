@@ -1,0 +1,36 @@
+Food: Bacon bits
+Food ID: 2707466
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 476 kcal
+Protein: 32 g
+Carbohydrates: 28.6 g
+Fat: 25.9 g
+Fiber: 10.2 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.055 g
+Monounsaturated fat: 6.225 g
+Polyunsaturated fat: 13.548 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1770 mg
+Potassium: 145 mg
+Calcium: 101 mg
+Iron: 0.72 mg
+Magnesium: 95 mg
+Zinc: 1.87 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 6.9 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 1.2 µg
+Folate: 127 µg

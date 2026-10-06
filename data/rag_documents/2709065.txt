@@ -1,0 +1,36 @@
+Food: Rice, brown, with carrots, dark green vegetables, and tomatoes and/or tomato-based sauce, NS as to fat
+Food ID: 2709065
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 2.35 g
+Carbohydrates: 20.39 g
+Fat: 2.57 g
+Fiber: 1.7 g
+Sugar: 0.76 g
+
+Fats:
+Saturated fat: 0.44 g
+Monounsaturated fat: 1.036 g
+Polyunsaturated fat: 0.975 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 169 mg
+Potassium: 120 mg
+Calcium: 11 mg
+Iron: 0.55 mg
+Magnesium: 32 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 6.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 10 µg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

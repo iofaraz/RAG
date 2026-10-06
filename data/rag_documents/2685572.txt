@@ -1,0 +1,22 @@
+Food: Cabbage, bok choy, raw
+Food ID: 2685572
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.02375 g
+Carbohydrates: 3.51495 g
+Fat: 0.2338 g
+Fiber: 1.259 g
+
+Minerals:
+Sodium: 14.27 mg
+Potassium: 227.8 mg
+Calcium: 61.93 mg
+Iron: 0.4388 mg
+Magnesium: 13.64 mg
+Zinc: 0.2738 mg
+
+Vitamins:
+Vitamin C: 30.3 mg
+Folate: 68 µg

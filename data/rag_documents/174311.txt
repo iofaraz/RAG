@@ -1,0 +1,33 @@
+Food: Lamb, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4" fat, choice, raw
+Food ID: 174311
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 17.91 g
+Carbohydrates: 0 g
+Fat: 17.07 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.43 g
+Monounsaturated fat: 7 g
+Polyunsaturated fat: 1.35 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 249 mg
+Calcium: 9 mg
+Iron: 1.66 mg
+Magnesium: 23 mg
+Zinc: 3.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.21 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 2.5 µg
+Folate: 19 µg

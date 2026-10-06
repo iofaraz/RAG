@@ -1,0 +1,36 @@
+Food: Fish sandwich, NFS
+Food ID: 2707026
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 15.27 g
+Carbohydrates: 22.85 g
+Fat: 10.95 g
+Fiber: 0.8 g
+Sugar: 3.08 g
+
+Fats:
+Saturated fat: 4.344 g
+Monounsaturated fat: 2.837 g
+Polyunsaturated fat: 2.578 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 537 mg
+Potassium: 218 mg
+Calcium: 187 mg
+Iron: 1.69 mg
+Magnesium: 25 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.98 mg
+Vitamin K: 10.4 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 1.13 µg
+Folate: 50 µg

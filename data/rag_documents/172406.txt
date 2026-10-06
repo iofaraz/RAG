@@ -1,0 +1,32 @@
+Food: Chicken, capons, meat and skin and giblets and neck, raw
+Food ID: 172406
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 232 kcal
+Protein: 18.51 g
+Carbohydrates: 0.08 g
+Fat: 16.9 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.89 g
+Monounsaturated fat: 7.16 g
+Polyunsaturated fat: 3.6 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 213 mg
+Calcium: 11 mg
+Iron: 1.41 mg
+Magnesium: 21 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 272 µg
+Vitamin C: 2.6 mg
+Vitamin B6: 0.36 mg
+Vitamin B12: 1.01 µg
+Folate: 27 µg

@@ -1,0 +1,36 @@
+Food: Mushrooms, for use on a sandwich
+Food ID: 2710251
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 2.9 g
+Carbohydrates: 4.13 g
+Fat: 0.35 g
+Fiber: 1.7 g
+Sugar: 1.98 g
+
+Fats:
+Saturated fat: 0.05 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.16 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 371 mg
+Calcium: 5 mg
+Iron: 0.23 mg
+Magnesium: 10 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0.04 µg
+Folate: 35 µg

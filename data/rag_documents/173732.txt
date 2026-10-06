@@ -1,0 +1,37 @@
+Food: Beans, baked, canned, with pork and sweet sauce
+Food ID: 173732
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 4.52 g
+Carbohydrates: 21.57 g
+Fat: 0.89 g
+Fiber: 4.4 g
+Sugar: 8.23 g
+
+Fats:
+Saturated fat: 0.231 g
+Monounsaturated fat: 0.222 g
+Polyunsaturated fat: 0.4 g
+Trans fat: 0 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 391 mg
+Potassium: 231 mg
+Calcium: 39 mg
+Iron: 1.4 mg
+Magnesium: 30 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

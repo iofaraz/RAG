@@ -1,0 +1,36 @@
+Food: Bacon biscuit sandwich
+Food ID: 2707337
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 382 kcal
+Protein: 13.71 g
+Carbohydrates: 29.26 g
+Fat: 23.2 g
+Fiber: 1.6 g
+Sugar: 3.09 g
+
+Fats:
+Saturated fat: 12.719 g
+Monounsaturated fat: 5.205 g
+Polyunsaturated fat: 2.559 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 1090 mg
+Potassium: 190 mg
+Calcium: 224 mg
+Iron: 2.03 mg
+Magnesium: 20 mg
+Zinc: 1.39 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.51 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.45 µg
+Folate: 58 µg

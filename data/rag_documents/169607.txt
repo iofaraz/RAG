@@ -1,0 +1,33 @@
+Food: Puddings, tapioca, dry mix, prepared with whole milk
+Food ID: 169607
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 2.84 g
+Carbohydrates: 19.43 g
+Fat: 2.89 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.724 g
+Monounsaturated fat: 0.786 g
+Polyunsaturated fat: 0.107 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 120 mg
+Potassium: 131 mg
+Calcium: 103 mg
+Iron: 0.06 mg
+Magnesium: 12 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.9 µg
+Vitamin B6: 0.033 mg
+Vitamin B12: 0.25 µg
+Folate: 4 µg

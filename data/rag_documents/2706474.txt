@@ -1,0 +1,36 @@
+Food: Beef and potatoes, no sauce
+Food ID: 2706474
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 7.92 g
+Carbohydrates: 14.52 g
+Fat: 4.93 g
+Fiber: 1.3 g
+Sugar: 0.65 g
+
+Fats:
+Saturated fat: 1.15 g
+Monounsaturated fat: 2.067 g
+Polyunsaturated fat: 1.226 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 305 mg
+Potassium: 293 mg
+Calcium: 8 mg
+Iron: 0.78 mg
+Magnesium: 19 mg
+Zinc: 1.33 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.283 mg
+Vitamin B12: 0.37 µg
+Folate: 9 µg

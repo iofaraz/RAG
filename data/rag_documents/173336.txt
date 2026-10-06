@@ -1,0 +1,37 @@
+Food: Burrito, bean and cheese, frozen
+Food ID: 173336
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 7.07 g
+Carbohydrates: 34.01 g
+Fat: 6.3 g
+Fiber: 3.4 g
+Sugar: 3.21 g
+
+Fats:
+Saturated fat: 1.343 g
+Monounsaturated fat: 1.298 g
+Polyunsaturated fat: 3.104 g
+Trans fat: 0.041 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 351 mg
+Potassium: 210 mg
+Calcium: 52 mg
+Iron: 2.51 mg
+Magnesium: 31 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.37 mg
+Vitamin K: 7.6 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.08 µg
+Folate: 105 µg

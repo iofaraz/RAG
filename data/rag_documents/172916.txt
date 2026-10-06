@@ -1,0 +1,32 @@
+Food: Soup, pea, split with ham, canned, prepared with equal volume water
+Food ID: 172916
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 75 kcal
+Protein: 4.08 g
+Carbohydrates: 11.05 g
+Fat: 1.74 g
+Fiber: 0.9 g
+
+Fats:
+Saturated fat: 0.7 g
+Monounsaturated fat: 0.71 g
+Polyunsaturated fat: 0.25 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 398 mg
+Potassium: 158 mg
+Calcium: 9 mg
+Iron: 0.9 mg
+Magnesium: 19 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.6 mg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.1 µg
+Folate: 1 µg

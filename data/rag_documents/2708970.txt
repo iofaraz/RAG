@@ -1,0 +1,36 @@
+Food: Sushi, topped with shrimp
+Food ID: 2708970
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 9.1 g
+Carbohydrates: 13.91 g
+Fat: 0.7 g
+Fiber: 0.6 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 0.204 g
+Monounsaturated fat: 0.167 g
+Polyunsaturated fat: 0.246 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 65 mg
+Calcium: 33 mg
+Iron: 0.2 mg
+Magnesium: 16 mg
+Zinc: 0.81 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.79 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.57 µg
+Folate: 9 µg

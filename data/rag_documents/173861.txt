@@ -1,0 +1,37 @@
+Food: Dutch brand loaf, chicken, pork and beef
+Food ID: 173861
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 273 kcal
+Protein: 12 g
+Carbohydrates: 3.93 g
+Fat: 22.91 g
+Fiber: 0.3 g
+Sugar: 0.9 g
+
+Fats:
+Saturated fat: 8.806 g
+Monounsaturated fat: 11.132 g
+Polyunsaturated fat: 2.972 g
+Trans fat: 0 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 786 mg
+Potassium: 210 mg
+Calcium: 7 mg
+Iron: 0.16 mg
+Magnesium: 15 mg
+Zinc: 2.53 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.236 mg
+Vitamin B12: 0.9 µg
+Folate: 11 µg

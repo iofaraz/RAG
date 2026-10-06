@@ -1,0 +1,37 @@
+Food: Waffles, whole wheat, lowfat, frozen, ready-to-heat
+Food ID: 174085
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 7.14 g
+Carbohydrates: 49.16 g
+Fat: 3.57 g
+Fiber: 4.3 g
+Sugar: 4.29 g
+
+Fats:
+Saturated fat: 0.714 g
+Monounsaturated fat: 0.714 g
+Polyunsaturated fat: 1.429 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 557 mg
+Potassium: 164 mg
+Calcium: 143 mg
+Iron: 6.43 mg
+Magnesium: 65 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 155 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.571 mg
+Vitamin B12: 1.71 µg
+Folate: 57 µg

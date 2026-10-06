@@ -1,0 +1,21 @@
+Food: Tomatoes, whole, canned, solids and liquids, with salt added
+Food ID: 2685578
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.8675 g
+Carbohydrates: 4.2874 g
+Fat: 0.2063 g
+Fiber: 0.8725 g
+
+Minerals:
+Sodium: 111.5 mg
+Potassium: 202.9 mg
+Calcium: 19.83 mg
+Iron: 0.9291 mg
+Magnesium: 10.75 mg
+Zinc: 0.1198 mg
+
+Vitamins:
+Vitamin C: 7.7 mg

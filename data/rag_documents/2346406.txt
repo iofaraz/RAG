@@ -1,0 +1,20 @@
+Food: Cucumber, with peel, raw
+Food ID: 2346406
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.625 g
+Carbohydrates: 2.9525 g
+Fat: 0.1775 g
+
+Minerals:
+Sodium: 1.515 mg
+Potassium: 169.6 mg
+Calcium: 16.34 mg
+Iron: 0 mg
+Magnesium: 10.11 mg
+Zinc: 0.204 mg
+
+Vitamins:
+Vitamin K: 24 µg

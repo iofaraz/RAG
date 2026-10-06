@@ -1,0 +1,36 @@
+Food: Spices, cumin seed
+Food ID: 170923
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 375 kcal
+Protein: 17.81 g
+Carbohydrates: 44.24 g
+Fat: 22.27 g
+Fiber: 10.5 g
+Sugar: 2.25 g
+
+Fats:
+Saturated fat: 1.535 g
+Monounsaturated fat: 14.04 g
+Polyunsaturated fat: 3.279 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 168 mg
+Potassium: 1788 mg
+Calcium: 931 mg
+Iron: 66.36 mg
+Magnesium: 366 mg
+Zinc: 4.8 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 7.7 mg
+Vitamin D: 0 µg
+Vitamin E: 3.33 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.435 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

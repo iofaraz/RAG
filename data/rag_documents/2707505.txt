@@ -1,0 +1,36 @@
+Food: Mixed nuts, unroasted
+Food ID: 2707505
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 616 kcal
+Protein: 16.97 g
+Carbohydrates: 22.88 g
+Fat: 54.56 g
+Fiber: 7.2 g
+Sugar: 4.66 g
+
+Fats:
+Saturated fat: 7.039 g
+Monounsaturated fat: 29.607 g
+Polyunsaturated fat: 15.25 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 634 mg
+Calcium: 137 mg
+Iron: 4.24 mg
+Magnesium: 236 mg
+Zinc: 3.96 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 9.68 mg
+Vitamin K: 13.4 µg
+Vitamin B6: 0.317 mg
+Vitamin B12: 0 µg
+Folate: 62 µg

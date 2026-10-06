@@ -1,0 +1,36 @@
+Food: Adobo, with noodles
+Food ID: 2708809
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 16.89 g
+Carbohydrates: 8.14 g
+Fat: 7.66 g
+Fiber: 0.4 g
+Sugar: 0.03 g
+
+Fats:
+Saturated fat: 2.479 g
+Monounsaturated fat: 3.469 g
+Polyunsaturated fat: 0.973 g
+Cholesterol: 72 mg
+
+Minerals:
+Sodium: 510 mg
+Potassium: 200 mg
+Calcium: 15 mg
+Iron: 0.99 mg
+Magnesium: 18 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.216 mg
+Vitamin B12: 0.43 µg
+Folate: 3 µg

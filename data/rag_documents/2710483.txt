@@ -1,0 +1,36 @@
+Food: Coffee, instant, pre-lightened and pre-sweetened with sugar, not reconstituted
+Food ID: 2710483
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 438 kcal
+Protein: 2.4 g
+Carbohydrates: 82.96 g
+Fat: 11.29 g
+Fiber: 0 g
+Sugar: 56.07 g
+
+Fats:
+Saturated fat: 6.453 g
+Monounsaturated fat: 3.294 g
+Polyunsaturated fat: 0.162 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 680 mg
+Calcium: 19 mg
+Iron: 0.68 mg
+Magnesium: 42 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.004 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,17 @@
+Food: Sourdock, young leaves (Alaska Native)
+Food ID: 168028
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 2.3 g
+Carbohydrates: 6.5 g
+Fat: 0.7 g
+
+Minerals:
+Calcium: 2 mg
+Iron: 0.8 mg
+
+Vitamins:
+Vitamin C: 68 mg

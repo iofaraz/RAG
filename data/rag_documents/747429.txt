@@ -1,0 +1,24 @@
+Food: Cheese, American, restaurant
+Food ID: 747429
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 375 kcal
+Protein: 17.5 g
+Carbohydrates: 6.35 g
+Fat: 31.1 g
+
+Fats:
+Saturated fat: 17.7 g
+Monounsaturated fat: 6.62 g
+Polyunsaturated fat: 1.23 g
+Trans fat: 1.01 g
+
+Minerals:
+Sodium: 1600 mg
+Potassium: 173 mg
+Calcium: 508 mg
+Iron: 0.24 mg
+Magnesium: 25 mg
+Zinc: 2.45 mg

@@ -1,0 +1,30 @@
+Food: Apples, raw, golden delicious, with skin
+Food ID: 168202
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 0.28 g
+Carbohydrates: 13.6 g
+Fat: 0.15 g
+Fiber: 2.4 g
+Sugar: 10.04 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 100 mg
+Calcium: 6 mg
+Iron: 0.13 mg
+Magnesium: 5 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.051 mg
+Folate: 3 µg

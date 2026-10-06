@@ -1,0 +1,37 @@
+Food: Soybean, curd cheese
+Food ID: 169083
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 12.5 g
+Carbohydrates: 6.9 g
+Fat: 8.1 g
+Fiber: 0 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 1.172 g
+Monounsaturated fat: 1.789 g
+Polyunsaturated fat: 4.572 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 199 mg
+Calcium: 188 mg
+Iron: 5.6 mg
+Magnesium: 228 mg
+Zinc: 1.72 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

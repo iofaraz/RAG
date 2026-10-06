@@ -1,0 +1,31 @@
+Food: French toast, prepared from recipe, made with low fat (2%) milk
+Food ID: 174998
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 229 kcal
+Protein: 7.7 g
+Carbohydrates: 25 g
+Fat: 10.8 g
+
+Fats:
+Saturated fat: 2.723 g
+Monounsaturated fat: 4.524 g
+Polyunsaturated fat: 2.594 g
+Cholesterol: 116 mg
+
+Minerals:
+Sodium: 479 mg
+Potassium: 134 mg
+Calcium: 100 mg
+Iron: 1.67 mg
+Magnesium: 17 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 124 µg
+Vitamin C: 0.3 mg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.31 µg
+Folate: 43 µg

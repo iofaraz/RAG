@@ -1,0 +1,31 @@
+Food: McDONALD'S, Cheeseburger
+Food ID: 170320
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 263 kcal
+Protein: 12.97 g
+Carbohydrates: 27.81 g
+Fat: 11.79 g
+Fiber: 1.1 g
+Sugar: 6.22 g
+
+Fats:
+Saturated fat: 4.435 g
+Monounsaturated fat: 3.631 g
+Polyunsaturated fat: 0.355 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 626 mg
+Potassium: 200 mg
+Calcium: 167 mg
+Iron: 2.35 mg
+Magnesium: 20 mg
+Zinc: 1.91 mg
+
+Vitamins:
+Vitamin C: 0.6 mg
+Vitamin B12: 0.86 µg
+Folate: 59 µg

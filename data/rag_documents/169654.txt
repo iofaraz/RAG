@@ -1,0 +1,32 @@
+Food: Puddings, lemon, dry mix, instant
+Food ID: 169654
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 378 kcal
+Protein: 0 g
+Carbohydrates: 95.4 g
+Fat: 0.7 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.1 g
+Monounsaturated fat: 0.28 g
+Polyunsaturated fat: 0.25 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1332 mg
+Potassium: 8 mg
+Calcium: 2 mg
+Iron: 0.08 mg
+Magnesium: 0 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0.01 µg
+Folate: 0 µg

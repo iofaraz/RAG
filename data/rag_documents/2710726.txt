@@ -1,0 +1,36 @@
+Food: Nutritional drink or shake, high protein, ready-to-drink, NFS
+Food ID: 2710726
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 6.59 g
+Carbohydrates: 0.85 g
+Fat: 3.38 g
+Fiber: 0.4 g
+Sugar: 0.6 g
+
+Fats:
+Saturated fat: 0.508 g
+Monounsaturated fat: 2.1 g
+Polyunsaturated fat: 0.767 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 179 mg
+Calcium: 130 mg
+Iron: 0.96 mg
+Magnesium: 44 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 171 µg
+Vitamin C: 19.4 mg
+Vitamin D: 1.1 µg
+Vitamin E: 4.58 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.208 mg
+Vitamin B12: 0.6 µg
+Folate: 39 µg

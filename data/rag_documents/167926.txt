@@ -1,0 +1,32 @@
+Food: Pancakes, plain, frozen, ready-to-heat, microwave (includes buttermilk)
+Food ID: 167926
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 5.88 g
+Carbohydrates: 43.33 g
+Fat: 4.73 g
+Fiber: 2.5 g
+Sugar: 7.06 g
+
+Fats:
+Saturated fat: 0.855 g
+Monounsaturated fat: 2.453 g
+Polyunsaturated fat: 0.965 g
+
+Minerals:
+Sodium: 566 mg
+Potassium: 122 mg
+Calcium: 72 mg
+Iron: 1.64 mg
+Magnesium: 16 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 216 µg
+Vitamin E: 0.38 mg
+Vitamin K: 7.4 µg
+Vitamin B6: 0.278 mg
+Folate: 54 µg

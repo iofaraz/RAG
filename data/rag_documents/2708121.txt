@@ -1,0 +1,36 @@
+Food: Nutrition bar (Slim Fast Original Meal Bar)
+Food ID: 2708121
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 16.19 g
+Carbohydrates: 60.21 g
+Fat: 8.92 g
+Fiber: 5.1 g
+Sugar: 25 g
+
+Fats:
+Saturated fat: 5.36 g
+Monounsaturated fat: 2.428 g
+Polyunsaturated fat: 1.132 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 253 mg
+Potassium: 289 mg
+Calcium: 668 mg
+Iron: 4.98 mg
+Magnesium: 250 mg
+Zinc: 5.73 mg
+
+Vitamins:
+Vitamin A: 940 µg
+Vitamin C: 96.6 mg
+Vitamin D: 5.4 µg
+Vitamin E: 6 mg
+Vitamin K: 129.3 µg
+Vitamin B6: 2.1 mg
+Vitamin B12: 7.9 µg
+Folate: 430 µg

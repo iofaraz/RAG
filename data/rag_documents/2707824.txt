@@ -1,0 +1,36 @@
+Food: Tortilla, flour
+Food ID: 2707824
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 306 kcal
+Protein: 8.2 g
+Carbohydrates: 49.38 g
+Fat: 7.99 g
+Fiber: 3.5 g
+Sugar: 3.71 g
+
+Fats:
+Saturated fat: 2.924 g
+Monounsaturated fat: 1.751 g
+Polyunsaturated fat: 2.29 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 700 mg
+Potassium: 125 mg
+Calcium: 146 mg
+Iron: 3.63 mg
+Magnesium: 22 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 7.2 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0 µg
+Folate: 94 µg

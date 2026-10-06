@@ -1,0 +1,36 @@
+Food: Caribou
+Food ID: 2705919
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 29.53 g
+Carbohydrates: 0 g
+Fat: 4.38 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.687 g
+Monounsaturated fat: 1.319 g
+Polyunsaturated fat: 0.615 g
+Cholesterol: 108 mg
+
+Minerals:
+Sodium: 367 mg
+Potassium: 308 mg
+Calcium: 22 mg
+Iron: 6.12 mg
+Magnesium: 27 mg
+Zinc: 5.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.317 mg
+Vitamin B12: 6.59 µg
+Folate: 5 µg

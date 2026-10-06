@@ -1,0 +1,31 @@
+Food: Pokeberry shoots, (poke), raw
+Food ID: 170432
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 2.6 g
+Carbohydrates: 3.7 g
+Fat: 0.4 g
+Fiber: 1.7 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 242 mg
+Calcium: 53 mg
+Iron: 1.7 mg
+Magnesium: 18 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 435 µg
+Vitamin C: 136 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.146 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

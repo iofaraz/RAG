@@ -1,0 +1,31 @@
+Food: Pancakes, plain, dry mix, complete (includes buttermilk)
+Food ID: 172772
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 9.77 g
+Carbohydrates: 73.65 g
+Fat: 3.1 g
+Fiber: 2.9 g
+Sugar: 16.03 g
+
+Fats:
+Saturated fat: 0.822 g
+Monounsaturated fat: 1.271 g
+Polyunsaturated fat: 0.928 g
+Trans fat: 0.383 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 1082 mg
+Potassium: 191 mg
+Calcium: 344 mg
+Iron: 3.6 mg
+Magnesium: 28 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin B6: 0.171 mg
+Vitamin B12: 0.32 µg

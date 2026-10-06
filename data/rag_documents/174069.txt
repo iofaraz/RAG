@@ -1,0 +1,34 @@
+Food: Dip, TOSTITOS, salsa con queso, medium
+Food ID: 174069
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 2.92 g
+Carbohydrates: 11.72 g
+Fat: 8.26 g
+Fiber: 0.6 g
+Sugar: 1.4 g
+
+Fats:
+Saturated fat: 2.442 g
+Monounsaturated fat: 2.213 g
+Polyunsaturated fat: 3.139 g
+Trans fat: 0.097 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 773 mg
+Potassium: 88 mg
+Calcium: 90 mg
+Iron: 0.14 mg
+Magnesium: 7 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0.6 mg
+Vitamin E: 1.92 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.043 mg

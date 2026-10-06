@@ -1,0 +1,37 @@
+Food: School Lunch, pizza, cheese topping, thick crust, whole grain, frozen, cooked
+Food ID: 170779
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 254 kcal
+Protein: 14.62 g
+Carbohydrates: 28.08 g
+Fat: 9.27 g
+Fiber: 2.9 g
+Sugar: 5.02 g
+
+Fats:
+Saturated fat: 4.358 g
+Monounsaturated fat: 2.411 g
+Polyunsaturated fat: 1.095 g
+Trans fat: 0.316 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 421 mg
+Potassium: 303 mg
+Calcium: 193 mg
+Iron: 2.63 mg
+Magnesium: 40 mg
+Zinc: 1.83 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 2.1 µg
+Folate: 88 µg

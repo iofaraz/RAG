@@ -1,0 +1,37 @@
+Food: Macaroni or noodles with cheese, made from reduced fat packaged mix, unprepared
+Food ID: 169774
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 297 kcal
+Protein: 13.1 g
+Carbohydrates: 52.06 g
+Fat: 4.03 g
+Fiber: 2 g
+Sugar: 5.04 g
+
+Fats:
+Saturated fat: 0.409 g
+Monounsaturated fat: 2.291 g
+Polyunsaturated fat: 1.119 g
+Trans fat: 0 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 867 mg
+Potassium: 203 mg
+Calcium: 202 mg
+Iron: 1.81 mg
+Magnesium: 35 mg
+Zinc: 1.34 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.56 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0.4 µg
+Folate: 138 µg

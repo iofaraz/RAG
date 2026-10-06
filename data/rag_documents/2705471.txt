@@ -1,0 +1,36 @@
+Food: Chocolate milk, reduced sugar, NFS
+Food ID: 2705471
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 3.09 g
+Carbohydrates: 8.56 g
+Fat: 1.99 g
+Fiber: 0 g
+Sugar: 7.85 g
+
+Fats:
+Saturated fat: 1.092 g
+Monounsaturated fat: 0.401 g
+Polyunsaturated fat: 0.061 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 46 mg
+Potassium: 160 mg
+Calcium: 111 mg
+Iron: 0 mg
+Magnesium: 15 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.49 µg
+Folate: 1 µg

@@ -1,0 +1,37 @@
+Food: Pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted
+Food ID: 168355
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 20.54 g
+Carbohydrates: 0.84 g
+Fat: 3.13 g
+Fiber: 0 g
+Sugar: 0.81 g
+
+Fats:
+Saturated fat: 1.084 g
+Monounsaturated fat: 1.479 g
+Polyunsaturated fat: 0.452 g
+Trans fat: 0.001 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 1179 mg
+Potassium: 367 mg
+Calcium: 6 mg
+Iron: 0.84 mg
+Magnesium: 22 mg
+Zinc: 1.98 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.461 mg
+Vitamin B12: 0.42 µg
+Folate: 2 µg

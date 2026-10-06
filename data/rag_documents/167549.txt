@@ -1,0 +1,36 @@
+Food: Snacks, popcorn, oil-popped, microwave, regular flavor, no trans fat
+Food ID: 167549
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 583 kcal
+Protein: 7.29 g
+Carbohydrates: 45.06 g
+Fat: 43.55 g
+Fiber: 8.1 g
+Sugar: 0.46 g
+
+Fats:
+Saturated fat: 6.82 g
+Monounsaturated fat: 9.809 g
+Polyunsaturated fat: 23.191 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 909 mg
+Potassium: 182 mg
+Calcium: 4 mg
+Iron: 1.98 mg
+Magnesium: 79 mg
+Zinc: 3.1 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 2.43 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.109 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

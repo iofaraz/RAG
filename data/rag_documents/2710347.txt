@@ -1,0 +1,36 @@
+Food: Chocolate candy, peanut butter filled
+Food ID: 2710347
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 487 kcal
+Protein: 7.82 g
+Carbohydrates: 64.13 g
+Fat: 24.72 g
+Fiber: 2.8 g
+Sugar: 46.54 g
+
+Fats:
+Saturated fat: 10.115 g
+Monounsaturated fat: 9.11 g
+Polyunsaturated fat: 4.332 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 294 mg
+Potassium: 282 mg
+Calcium: 57 mg
+Iron: 1 mg
+Magnesium: 55 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.94 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.15 µg
+Folate: 39 µg

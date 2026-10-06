@@ -1,0 +1,36 @@
+Food: Mushrooms, pickled
+Food ID: 2710084
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 2.4 g
+Carbohydrates: 8.29 g
+Fat: 0.3 g
+Fiber: 1.4 g
+Sugar: 6.51 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.133 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 949 mg
+Potassium: 308 mg
+Calcium: 6 mg
+Iron: 0.19 mg
+Magnesium: 8 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.03 µg
+Folate: 25 µg

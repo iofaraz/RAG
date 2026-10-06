@@ -1,0 +1,32 @@
+Food: Snacks, potato chips, sour-cream-and-onion-flavor
+Food ID: 167963
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 531 kcal
+Protein: 8.1 g
+Carbohydrates: 51.5 g
+Fat: 33.9 g
+Fiber: 5.2 g
+
+Fats:
+Saturated fat: 8.89 g
+Monounsaturated fat: 6.12 g
+Polyunsaturated fat: 17.42 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 549 mg
+Potassium: 1331 mg
+Calcium: 72 mg
+Iron: 1.6 mg
+Magnesium: 74 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 37.3 mg
+Vitamin B6: 0.665 mg
+Vitamin B12: 1 µg
+Folate: 62 µg

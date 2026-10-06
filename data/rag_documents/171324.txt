@@ -1,0 +1,32 @@
+Food: Spices, fenugreek seed
+Food ID: 171324
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 23 g
+Carbohydrates: 58.35 g
+Fat: 6.41 g
+Fiber: 24.6 g
+
+Fats:
+Saturated fat: 1.46 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 770 mg
+Calcium: 176 mg
+Iron: 33.53 mg
+Magnesium: 191 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.6 mg
+Vitamin B12: 0 µg
+Folate: 57 µg

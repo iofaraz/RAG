@@ -1,0 +1,36 @@
+Food: Soup, beef and vegetables, canned, ready-to-serve
+Food ID: 171190
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 3.18 g
+Carbohydrates: 6.16 g
+Fat: 1.16 g
+Fiber: 1.2 g
+Sugar: 1.25 g
+
+Fats:
+Saturated fat: 0.407 g
+Monounsaturated fat: 0.296 g
+Polyunsaturated fat: 0.342 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 326 mg
+Potassium: 174 mg
+Calcium: 18 mg
+Iron: 0.51 mg
+Magnesium: 10 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 115 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.45 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0.17 µg
+Folate: 9 µg

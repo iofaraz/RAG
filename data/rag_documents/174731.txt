@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, ribs prepared, raw
+Food ID: 174731
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 21.31 g
+Carbohydrates: 0 g
+Fat: 6.78 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.453 g
+Monounsaturated fat: 2.279 g
+Polyunsaturated fat: 0.191 g
+Trans fat: 0.123 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 337 mg
+Calcium: 15 mg
+Iron: 1.82 mg
+Magnesium: 20 mg
+Zinc: 3.95 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.74 mg
+Vitamin B6: 0.255 mg
+Vitamin B12: 1.17 µg

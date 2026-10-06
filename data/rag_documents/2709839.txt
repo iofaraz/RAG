@@ -1,0 +1,36 @@
+Food: Asparagus, frozen, cooked, fat added, NS as to fat type
+Food ID: 2709839
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 40 kcal
+Protein: 2.86 g
+Carbohydrates: 1.86 g
+Fat: 2.95 g
+Fiber: 1.5 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 0.759 g
+Monounsaturated fat: 0.916 g
+Polyunsaturated fat: 0.909 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 124 mg
+Potassium: 167 mg
+Calcium: 18 mg
+Iron: 0.55 mg
+Magnesium: 10 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 23.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.54 mg
+Vitamin K: 79.5 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0 µg
+Folate: 131 µg

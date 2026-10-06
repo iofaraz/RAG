@@ -1,0 +1,21 @@
+Food: Wild rice, dry, raw
+Food ID: 2710821
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 12.7875 g
+Carbohydrates: 75.6695 g
+Fat: 1.704 g
+Fiber: 4.26 g
+
+Minerals:
+Sodium: 1.014 mg
+Potassium: 298.8 mg
+Calcium: 7.973 mg
+Iron: 1.53 mg
+Magnesium: 108.5 mg
+Zinc: 5.845 mg
+
+Vitamins:
+Vitamin B6: 0.3934 mg

@@ -1,0 +1,29 @@
+Food: Desserts, rennin, vanilla, dry mix
+Food ID: 168792
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 383 kcal
+Protein: 0 g
+Carbohydrates: 99 g
+Fat: 0 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 3 mg
+Calcium: 117 mg
+Iron: 0.07 mg
+Magnesium: 1 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,29 @@
+Food: Stew, moose (Alaska Native)
+Food ID: 168991
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 6.6 g
+Carbohydrates: 6 g
+Fat: 0.5 g
+Fiber: 0.5 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.02 g
+
+Minerals:
+Sodium: 222 mg
+Potassium: 100 mg
+Calcium: 12 mg
+Iron: 1.52 mg
+Magnesium: 6 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin C: 1 mg
+Vitamin B6: 0.03 mg
+Folate: 5 µg

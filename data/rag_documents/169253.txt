@@ -1,0 +1,37 @@
+Food: Mushrooms, white, stir-fried
+Food ID: 169253
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 26 kcal
+Protein: 3.58 g
+Carbohydrates: 4.04 g
+Fat: 0.33 g
+Fiber: 1.8 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0.16 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 396 mg
+Calcium: 4 mg
+Iron: 0.25 mg
+Magnesium: 11 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

@@ -1,0 +1,36 @@
+Food: Coffee, Cappuccino, with non-dairy milk
+Food ID: 2710474
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 17 kcal
+Protein: 0.6 g
+Carbohydrates: 1.82 g
+Fat: 0.84 g
+Fiber: 0.1 g
+Sugar: 1.03 g
+
+Fats:
+Saturated fat: 0.096 g
+Monounsaturated fat: 0.397 g
+Polyunsaturated fat: 0.274 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 29 mg
+Potassium: 46 mg
+Calcium: 79 mg
+Iron: 0.18 mg
+Magnesium: 19 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.05 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.006 mg
+Vitamin B12: 0.19 µg
+Folate: 2 µg

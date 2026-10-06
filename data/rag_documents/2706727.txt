@@ -1,0 +1,36 @@
+Food: Jambalaya with meat and rice
+Food ID: 2706727
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 13.76 g
+Carbohydrates: 8.65 g
+Fat: 7.97 g
+Fiber: 0.7 g
+Sugar: 0.94 g
+
+Fats:
+Saturated fat: 2.208 g
+Monounsaturated fat: 3.325 g
+Polyunsaturated fat: 1.582 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 379 mg
+Potassium: 240 mg
+Calcium: 24 mg
+Iron: 1.11 mg
+Magnesium: 19 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 7.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.77 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.23 mg
+Vitamin B12: 0.32 µg
+Folate: 22 µg

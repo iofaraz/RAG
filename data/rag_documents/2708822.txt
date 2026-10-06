@@ -1,0 +1,36 @@
+Food: Macaroni or noodles with cheese and egg
+Food ID: 2708822
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 5.91 g
+Carbohydrates: 19 g
+Fat: 9.52 g
+Fiber: 0.8 g
+Sugar: 2.96 g
+
+Fats:
+Saturated fat: 3.385 g
+Monounsaturated fat: 2.677 g
+Polyunsaturated fat: 1.786 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 62 mg
+Calcium: 57 mg
+Iron: 0.81 mg
+Magnesium: 14 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 94 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.93 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0.36 µg
+Folate: 44 µg

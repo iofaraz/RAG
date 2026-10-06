@@ -1,0 +1,33 @@
+Food: Agave, raw (Southwest)
+Food ID: 169814
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 0.52 g
+Carbohydrates: 16.23 g
+Fat: 0.15 g
+Fiber: 6.6 g
+Sugar: 2.58 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 127 mg
+Calcium: 417 mg
+Iron: 1.8 mg
+Magnesium: 55 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

@@ -1,0 +1,35 @@
+Food: Cheese, neufchatel
+Food ID: 171246
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 253 kcal
+Protein: 9.15 g
+Carbohydrates: 3.59 g
+Fat: 22.78 g
+Fiber: 0 g
+Sugar: 3.19 g
+
+Fats:
+Saturated fat: 12.79 g
+Monounsaturated fat: 5.784 g
+Polyunsaturated fat: 0.97 g
+Cholesterol: 74 mg
+
+Minerals:
+Sodium: 334 mg
+Potassium: 152 mg
+Calcium: 117 mg
+Iron: 0.13 mg
+Magnesium: 10 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 241 µg
+Vitamin C: 0 mg
+Vitamin E: 0.4 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0.3 µg
+Folate: 14 µg

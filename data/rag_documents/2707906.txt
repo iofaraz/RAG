@@ -1,0 +1,36 @@
+Food: Cookie, brownie, reduced fat, NS as to icing
+Food ID: 2707906
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 345 kcal
+Protein: 2.77 g
+Carbohydrates: 61.58 g
+Fat: 9.68 g
+Fiber: 11.1 g
+Sugar: 38.73 g
+
+Fats:
+Saturated fat: 2.766 g
+Monounsaturated fat: 3.432 g
+Polyunsaturated fat: 2.581 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 290 mg
+Potassium: 143 mg
+Calcium: 0 mg
+Iron: 1.99 mg
+Magnesium: 31 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.59 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0.02 µg
+Folate: 42 µg

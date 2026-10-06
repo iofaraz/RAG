@@ -1,0 +1,36 @@
+Food: Cereal, other, honey
+Food ID: 2708486
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 388 kcal
+Protein: 8.02 g
+Carbohydrates: 76.12 g
+Fat: 5.71 g
+Fiber: 6.1 g
+Sugar: 26.51 g
+
+Fats:
+Saturated fat: 0.669 g
+Monounsaturated fat: 2.434 g
+Polyunsaturated fat: 1.751 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 504 mg
+Potassium: 190 mg
+Calcium: 184 mg
+Iron: 19.98 mg
+Magnesium: 66 mg
+Zinc: 1.73 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 11.4 mg
+Vitamin D: 5 µg
+Vitamin E: 0.63 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 1.034 mg
+Vitamin B12: 1.34 µg
+Folate: 374 µg

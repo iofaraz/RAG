@@ -1,0 +1,36 @@
+Food: Chicken or turkey with cheese sauce
+Food ID: 2706440
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 21.77 g
+Carbohydrates: 1.64 g
+Fat: 8.9 g
+Fiber: 0 g
+Sugar: 0.06 g
+
+Fats:
+Saturated fat: 3.503 g
+Monounsaturated fat: 3.303 g
+Polyunsaturated fat: 1.071 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 527 mg
+Potassium: 237 mg
+Calcium: 103 mg
+Iron: 0.61 mg
+Magnesium: 22 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.31 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.186 mg
+Vitamin B12: 0.36 µg
+Folate: 10 µg

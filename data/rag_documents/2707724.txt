@@ -1,0 +1,36 @@
+Food: Bread, wheat or cracked wheat, with raisins
+Food ID: 2707724
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 292 kcal
+Protein: 8.66 g
+Carbohydrates: 57.73 g
+Fat: 3.72 g
+Fiber: 3.9 g
+Sugar: 18.7 g
+
+Fats:
+Saturated fat: 1.376 g
+Monounsaturated fat: 0.838 g
+Polyunsaturated fat: 0.719 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 462 mg
+Potassium: 240 mg
+Calcium: 52 mg
+Iron: 2.88 mg
+Magnesium: 42 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.34 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0.05 µg
+Folate: 61 µg

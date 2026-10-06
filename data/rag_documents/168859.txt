@@ -1,0 +1,36 @@
+Food: Tortilla chips, low fat, baked without fat
+Food ID: 168859
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 448 kcal
+Protein: 11 g
+Carbohydrates: 80.2 g
+Fat: 5.7 g
+Fiber: 5.3 g
+Sugar: 0.67 g
+
+Fats:
+Saturated fat: 0.85 g
+Monounsaturated fat: 1.66 g
+Polyunsaturated fat: 2.87 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 517 mg
+Potassium: 272 mg
+Calcium: 159 mg
+Iron: 1.6 mg
+Magnesium: 97 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.77 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

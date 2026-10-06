@@ -1,0 +1,37 @@
+Food: Plums, canned, purple, juice pack, solids and liquids
+Food ID: 169951
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 58 kcal
+Protein: 0.51 g
+Carbohydrates: 15.15 g
+Fat: 0.02 g
+Fiber: 0.9 g
+Sugar: 14.22 g
+
+Fats:
+Saturated fat: 0.002 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.005 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 154 mg
+Calcium: 10 mg
+Iron: 0.34 mg
+Magnesium: 8 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

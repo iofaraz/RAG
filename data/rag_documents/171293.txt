@@ -1,0 +1,37 @@
+Food: Ice cream, light, soft serve, chocolate
+Food ID: 171293
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 3.36 g
+Carbohydrates: 23.15 g
+Fat: 3.69 g
+Fiber: 0 g
+Sugar: 19.46 g
+
+Fats:
+Saturated fat: 2.349 g
+Monounsaturated fat: 1.033 g
+Polyunsaturated fat: 0.125 g
+Trans fat: 0.168 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 207 mg
+Calcium: 134 mg
+Iron: 0.6 mg
+Magnesium: 36 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 91 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.26 µg
+Folate: 17 µg

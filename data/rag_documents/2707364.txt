@@ -1,0 +1,36 @@
+Food: Black beans, from canned, reduced sodium
+Food ID: 2707364
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 8.54 g
+Carbohydrates: 23.43 g
+Fat: 5.92 g
+Fiber: 9.8 g
+Sugar: 0.33 g
+
+Fats:
+Saturated fat: 0.842 g
+Monounsaturated fat: 2.368 g
+Polyunsaturated fat: 2.291 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 195 mg
+Potassium: 436 mg
+Calcium: 50 mg
+Iron: 2.7 mg
+Magnesium: 50 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.92 mg
+Vitamin K: 8.8 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0 µg
+Folate: 82 µg

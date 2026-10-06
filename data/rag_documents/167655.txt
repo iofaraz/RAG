@@ -1,0 +1,33 @@
+Food: Frybread, made with lard (Apache)
+Food ID: 167655
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 8.38 g
+Carbohydrates: 46.01 g
+Fat: 10.14 g
+Fiber: 1.7 g
+Sugar: 1.54 g
+
+Fats:
+Saturated fat: 3.631 g
+Monounsaturated fat: 3.5 g
+Polyunsaturated fat: 1.306 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 671 mg
+Potassium: 75 mg
+Calcium: 52 mg
+Iron: 3.43 mg
+Magnesium: 19 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0 µg
+Folate: 112 µg

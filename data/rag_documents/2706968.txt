@@ -1,0 +1,36 @@
+Food: Ham sandwich or sub, restaurant
+Food ID: 2706968
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 13.34 g
+Carbohydrates: 22.85 g
+Fat: 3.66 g
+Fiber: 1.1 g
+Sugar: 2.46 g
+
+Fats:
+Saturated fat: 0.982 g
+Monounsaturated fat: 1.122 g
+Polyunsaturated fat: 1.156 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 687 mg
+Potassium: 283 mg
+Calcium: 100 mg
+Iron: 1.86 mg
+Magnesium: 23 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.26 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.255 mg
+Vitamin B12: 0.19 µg
+Folate: 51 µg

@@ -1,0 +1,27 @@
+Food: HOUSE FOODS Premium Firm Tofu
+Food ID: 173788
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 10.92 g
+Carbohydrates: 0.97 g
+Fat: 4.19 g
+Fiber: 0.9 g
+Sugar: 0.4 g
+
+Fats:
+Saturated fat: 0.71 g
+Monounsaturated fat: 0.97 g
+Polyunsaturated fat: 2.51 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 33 mg
+Calcium: 149 mg
+Iron: 1.69 mg
+
+Vitamins:
+Vitamin C: 1.1 mg

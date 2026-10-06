@@ -1,0 +1,26 @@
+Food: Salad dressing, KRAFT Mayo Light Mayonnaise
+Food ID: 171002
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 334 kcal
+Protein: 0.6 g
+Carbohydrates: 8.5 g
+Fat: 32.9 g
+Fiber: 0.1 g
+Sugar: 4.2 g
+
+Fats:
+Saturated fat: 5 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 633 mg
+Potassium: 52 mg
+Calcium: 6 mg
+Iron: 0.2 mg
+
+Vitamins:
+Vitamin C: 0.3 mg
+Vitamin K: 155.1 µg

@@ -1,0 +1,32 @@
+Food: Chicken, stewing, giblets, cooked, simmered
+Food ID: 173642
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 194 kcal
+Protein: 25.73 g
+Carbohydrates: 0.11 g
+Fat: 9.3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.66 g
+Monounsaturated fat: 2.94 g
+Polyunsaturated fat: 1.89 g
+Cholesterol: 355 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 154 mg
+Calcium: 13 mg
+Iron: 6.44 mg
+Magnesium: 20 mg
+Zinc: 4.28 mg
+
+Vitamins:
+Vitamin A: 2864 µg
+Vitamin C: 5.5 mg
+Vitamin B6: 0.41 mg
+Vitamin B12: 9.48 µg
+Folate: 367 µg

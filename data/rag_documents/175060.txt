@@ -1,0 +1,36 @@
+Food: Crackers, cheese, low sodium
+Food ID: 175060
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 503 kcal
+Protein: 10.1 g
+Carbohydrates: 58.2 g
+Fat: 25.3 g
+Fiber: 2.4 g
+Sugar: 0.28 g
+
+Fats:
+Saturated fat: 9.638 g
+Monounsaturated fat: 11.852 g
+Polyunsaturated fat: 2.457 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 458 mg
+Potassium: 106 mg
+Calcium: 151 mg
+Iron: 4.77 mg
+Magnesium: 36 mg
+Zinc: 1.13 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 11.2 µg
+Vitamin B6: 0.553 mg
+Vitamin B12: 0.46 µg
+Folate: 89 µg

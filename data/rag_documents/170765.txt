@@ -1,0 +1,37 @@
+Food: Fast foods, quesadilla, with chicken
+Food ID: 170765
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 294 kcal
+Protein: 15.05 g
+Carbohydrates: 24.04 g
+Fat: 15.25 g
+Fiber: 1.7 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 6.154 g
+Monounsaturated fat: 3.765 g
+Polyunsaturated fat: 4.094 g
+Trans fat: 0.322 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 745 mg
+Potassium: 183 mg
+Calcium: 269 mg
+Iron: 1.77 mg
+Magnesium: 25 mg
+Zinc: 1.42 mg
+
+Vitamins:
+Vitamin A: 72 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.29 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.19 µg
+Folate: 52 µg

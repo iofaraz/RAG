@@ -1,0 +1,36 @@
+Food: Cereal or granola bar (Kashi Crunchy)
+Food ID: 2708089
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 429 kcal
+Protein: 18.57 g
+Carbohydrates: 53.26 g
+Fat: 15.71 g
+Fiber: 11.4 g
+Sugar: 17.14 g
+
+Fats:
+Saturated fat: 1.213 g
+Monounsaturated fat: 9.486 g
+Polyunsaturated fat: 4.181 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 293 mg
+Potassium: 415 mg
+Calcium: 0 mg
+Iron: 3.39 mg
+Magnesium: 107 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 7.14 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0 µg
+Folate: 45 µg

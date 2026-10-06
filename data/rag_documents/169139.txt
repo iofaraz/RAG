@@ -1,0 +1,33 @@
+Food: Beans, navy, mature seeds, sprouted, raw
+Food ID: 169139
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 6.15 g
+Carbohydrates: 13.05 g
+Fat: 0.7 g
+
+Fats:
+Saturated fat: 0.085 g
+Monounsaturated fat: 0.052 g
+Polyunsaturated fat: 0.407 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 307 mg
+Calcium: 15 mg
+Iron: 1.93 mg
+Magnesium: 101 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 18.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.191 mg
+Vitamin B12: 0 µg
+Folate: 132 µg

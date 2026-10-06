@@ -1,0 +1,37 @@
+Food: Rice and vermicelli mix, rice pilaf flavor, unprepared
+Food ID: 168951
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 359 kcal
+Protein: 10.42 g
+Carbohydrates: 76.31 g
+Fat: 1.37 g
+Fiber: 1.2 g
+Sugar: 1.53 g
+
+Fats:
+Saturated fat: 0.307 g
+Monounsaturated fat: 0.373 g
+Polyunsaturated fat: 0.377 g
+Trans fat: 0 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 1303 mg
+Potassium: 188 mg
+Calcium: 83 mg
+Iron: 2.44 mg
+Magnesium: 32 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 4.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.4 mg
+Vitamin B12: 0.02 µg
+Folate: 212 µg

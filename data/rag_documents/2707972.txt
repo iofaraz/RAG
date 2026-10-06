@@ -1,0 +1,36 @@
+Food: Cookie, butter or sugar, with fruit and/or nuts
+Food ID: 2707972
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 470 kcal
+Protein: 6.52 g
+Carbohydrates: 65.01 g
+Fat: 21.11 g
+Fiber: 1.6 g
+Sugar: 23.97 g
+
+Fats:
+Saturated fat: 9.321 g
+Monounsaturated fat: 5.237 g
+Polyunsaturated fat: 5.136 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 227 mg
+Potassium: 204 mg
+Calcium: 38 mg
+Iron: 2.17 mg
+Magnesium: 26 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 131 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.54 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.29 µg
+Folate: 68 µg

@@ -1,0 +1,36 @@
+Food: Lasagna with meat, from restaurant
+Food ID: 2708752
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 10.83 g
+Carbohydrates: 11.36 g
+Fat: 10.69 g
+Fiber: 1.5 g
+Sugar: 3.15 g
+
+Fats:
+Saturated fat: 4.941 g
+Monounsaturated fat: 3.313 g
+Polyunsaturated fat: 0.788 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 466 mg
+Potassium: 255 mg
+Calcium: 197 mg
+Iron: 0.79 mg
+Magnesium: 22 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.91 mg
+Vitamin K: 6.8 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.66 µg
+Folate: 26 µg

@@ -1,0 +1,36 @@
+Food: Macaroni or noodles with cheese, Easy Mac type
+Food ID: 2708815
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 3.26 g
+Carbohydrates: 20.1 g
+Fat: 1.86 g
+Fiber: 0.5 g
+Sugar: 2.33 g
+
+Fats:
+Saturated fat: 0.799 g
+Monounsaturated fat: 0.462 g
+Polyunsaturated fat: 0.564 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 259 mg
+Potassium: 99 mg
+Calcium: 95 mg
+Iron: 0.67 mg
+Magnesium: 15 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0.22 µg
+Folate: 41 µg

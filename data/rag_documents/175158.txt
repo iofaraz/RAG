@@ -1,0 +1,36 @@
+Food: Fish, tuna, white, canned in water, drained solids
+Food ID: 175158
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 23.62 g
+Carbohydrates: 0 g
+Fat: 2.97 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.792 g
+Monounsaturated fat: 0.784 g
+Polyunsaturated fat: 1.109 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 377 mg
+Potassium: 237 mg
+Calcium: 14 mg
+Iron: 0.97 mg
+Magnesium: 33 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 2 µg
+Vitamin E: 0.85 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.217 mg
+Vitamin B12: 1.17 µg
+Folate: 2 µg

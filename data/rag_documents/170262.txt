@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, No Sugar Added, Butter Pecan
+Food ID: 170262
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 3.99 g
+Carbohydrates: 21.3 g
+Fat: 10.3 g
+Fiber: 0.9 g
+Sugar: 5.9 g
+
+Fats:
+Saturated fat: 4.18 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 164 mg
+Calcium: 130 mg
+Iron: 0.19 mg
+
+Vitamins:
+Vitamin C: 0.9 mg

@@ -1,0 +1,30 @@
+Food: Fish, tuna, light, canned in water, drained solids
+Food ID: 334194
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 19 g
+Carbohydrates: 0.08 g
+Fat: 0.94 g
+
+Fats:
+Saturated fat: 0.224 g
+Monounsaturated fat: 0.114 g
+Polyunsaturated fat: 0.259 g
+Trans fat: 0.002 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 219 mg
+Potassium: 176 mg
+Calcium: 18 mg
+Iron: 1.67 mg
+Magnesium: 22.7 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin D: 1.2 µg
+Vitamin B6: 0.32 mg
+Vitamin B12: 2.57 µg

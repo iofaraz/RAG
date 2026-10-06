@@ -1,0 +1,37 @@
+Food: Cream, fluid, light (coffee cream or table cream)
+Food ID: 170857
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 2.96 g
+Carbohydrates: 3.66 g
+Fat: 19.1 g
+Fiber: 0 g
+Sugar: 3.67 g
+
+Fats:
+Saturated fat: 10.176 g
+Monounsaturated fat: 4.525 g
+Polyunsaturated fat: 0.789 g
+Trans fat: 0.625 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 136 mg
+Calcium: 91 mg
+Iron: 0.05 mg
+Magnesium: 9 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 120 µg
+Vitamin C: 0.8 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.12 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.14 µg
+Folate: 2 µg

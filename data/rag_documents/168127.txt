@@ -1,0 +1,36 @@
+Food: Snacks, corn-based, extruded, chips, unsalted
+Food ID: 168127
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 557 kcal
+Protein: 6.6 g
+Carbohydrates: 57.4 g
+Fat: 33.4 g
+Fiber: 4.4 g
+Sugar: 1.41 g
+
+Fats:
+Saturated fat: 4.344 g
+Monounsaturated fat: 9.04 g
+Polyunsaturated fat: 17.093 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 185 mg
+Calcium: 124 mg
+Iron: 1.7 mg
+Magnesium: 70 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.36 mg
+Vitamin K: 33.6 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

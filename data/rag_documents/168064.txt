@@ -1,0 +1,31 @@
+Food: Restaurant, Latino, Arroz con frijoles negros (rice and black beans)
+Food ID: 168064
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 4.64 g
+Carbohydrates: 24.4 g
+Fat: 3.85 g
+Fiber: 3.4 g
+Sugar: 0.86 g
+
+Fats:
+Saturated fat: 0.729 g
+Monounsaturated fat: 0.889 g
+Polyunsaturated fat: 1.557 g
+Trans fat: 0.047 g
+
+Minerals:
+Sodium: 420 mg
+Potassium: 224 mg
+Calcium: 37 mg
+Iron: 1.57 mg
+Magnesium: 26 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin E: 0.47 mg
+Vitamin K: 10.3 µg
+Vitamin B6: 0.062 mg

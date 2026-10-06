@@ -1,0 +1,36 @@
+Food: Bread, raisin, enriched
+Food ID: 172680
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 7.9 g
+Carbohydrates: 52.3 g
+Fat: 4.4 g
+Fiber: 4.3 g
+Sugar: 5.68 g
+
+Fats:
+Saturated fat: 1.081 g
+Monounsaturated fat: 2.294 g
+Polyunsaturated fat: 0.679 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 347 mg
+Potassium: 227 mg
+Calcium: 66 mg
+Iron: 2.9 mg
+Magnesium: 26 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.28 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0 µg
+Folate: 106 µg

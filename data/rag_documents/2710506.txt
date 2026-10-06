@@ -1,0 +1,36 @@
+Food: Tea, hot, with milk
+Food ID: 2710506
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 1.58 g
+Carbohydrates: 8.95 g
+Fat: 1.05 g
+Fiber: 0.1 g
+Sugar: 8.72 g
+
+Fats:
+Saturated fat: 0.604 g
+Monounsaturated fat: 0.218 g
+Polyunsaturated fat: 0.035 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 91 mg
+Calcium: 60 mg
+Iron: 0.02 mg
+Magnesium: 7 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.26 µg
+Folate: 3 µg

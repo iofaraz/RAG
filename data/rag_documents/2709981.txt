@@ -1,0 +1,36 @@
+Food: Salsify, cooked
+Food ID: 2709981
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 2.65 g
+Carbohydrates: 14.88 g
+Fat: 2.71 g
+Fiber: 3 g
+Sugar: 2.81 g
+
+Fats:
+Saturated fat: 0.706 g
+Monounsaturated fat: 0.906 g
+Polyunsaturated fat: 0.802 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 136 mg
+Potassium: 274 mg
+Calcium: 46 mg
+Iron: 0.54 mg
+Magnesium: 17 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.56 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.227 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

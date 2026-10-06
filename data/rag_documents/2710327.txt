@@ -1,0 +1,36 @@
+Food: Chocolate candy, other, NFS
+Food ID: 2710327
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 535 kcal
+Protein: 7.65 g
+Carbohydrates: 59.4 g
+Fat: 29.66 g
+Fiber: 3.4 g
+Sugar: 51.5 g
+
+Fats:
+Saturated fat: 18.509 g
+Monounsaturated fat: 7.186 g
+Polyunsaturated fat: 1.376 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 79 mg
+Potassium: 372 mg
+Calcium: 189 mg
+Iron: 2.35 mg
+Magnesium: 63 mg
+Zinc: 2.3 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0.75 µg
+Folate: 12 µg

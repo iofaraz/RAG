@@ -1,0 +1,36 @@
+Food: Cheese, mozzarella, nonfat
+Food ID: 169051
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 31.7 g
+Carbohydrates: 3.5 g
+Fat: 0 g
+Fiber: 1.8 g
+Sugar: 1.48 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 743 mg
+Potassium: 106 mg
+Calcium: 961 mg
+Iron: 0.31 mg
+Magnesium: 33 mg
+Zinc: 3.92 mg
+
+Vitamins:
+Vitamin A: 127 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.92 µg
+Folate: 10 µg

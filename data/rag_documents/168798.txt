@@ -1,0 +1,36 @@
+Food: Puddings, tapioca, ready-to-eat, fat free
+Food ID: 168798
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 1.44 g
+Carbohydrates: 21.31 g
+Fat: 0.35 g
+Fiber: 0 g
+Sugar: 14.18 g
+
+Fats:
+Saturated fat: 0.122 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.002 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 187 mg
+Potassium: 70 mg
+Calcium: 52 mg
+Iron: 0.11 mg
+Magnesium: 5 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.31 µg
+Folate: 2 µg

@@ -1,0 +1,37 @@
+Food: Radishes, oriental, raw
+Food ID: 168451
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 18 kcal
+Protein: 0.6 g
+Carbohydrates: 4.1 g
+Fat: 0.1 g
+Fiber: 1.6 g
+Sugar: 2.5 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.017 g
+Polyunsaturated fat: 0.045 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 227 mg
+Calcium: 27 mg
+Iron: 0.4 mg
+Magnesium: 16 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 22 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

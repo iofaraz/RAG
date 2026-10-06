@@ -1,0 +1,36 @@
+Food: Hot dog sandwich, NFS, on wheat bun
+Food ID: 2707057
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 11.57 g
+Carbohydrates: 21.65 g
+Fat: 17.4 g
+Fiber: 2.4 g
+Sugar: 3 g
+
+Fats:
+Saturated fat: 6.688 g
+Monounsaturated fat: 7.049 g
+Polyunsaturated fat: 1.224 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 657 mg
+Potassium: 265 mg
+Calcium: 80 mg
+Iron: 2.03 mg
+Magnesium: 31 mg
+Zinc: 1.75 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.44 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.129 mg
+Vitamin B12: 0.46 µg
+Folate: 32 µg

@@ -1,0 +1,36 @@
+Food: Blackeyed peas, NFS
+Food ID: 2707412
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 7.18 g
+Carbohydrates: 19.29 g
+Fat: 7 g
+Fiber: 6 g
+Sugar: 3.07 g
+
+Fats:
+Saturated fat: 0.998 g
+Monounsaturated fat: 2.798 g
+Polyunsaturated fat: 2.708 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 220 mg
+Potassium: 258 mg
+Calcium: 23 mg
+Iron: 2.34 mg
+Magnesium: 49 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.5 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0 µg
+Folate: 184 µg

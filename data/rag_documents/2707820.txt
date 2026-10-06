@@ -1,0 +1,36 @@
+Food: Johnnycake
+Food ID: 2707820
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 7.98 g
+Carbohydrates: 43.82 g
+Fat: 7.46 g
+Fiber: 1.8 g
+Sugar: 9.1 g
+
+Fats:
+Saturated fat: 2.105 g
+Monounsaturated fat: 2.648 g
+Polyunsaturated fat: 1.871 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 871 mg
+Potassium: 211 mg
+Calcium: 106 mg
+Iron: 2.25 mg
+Magnesium: 25 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.52 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.23 µg
+Folate: 106 µg

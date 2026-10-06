@@ -1,0 +1,28 @@
+Food: HORMEL, Cure 81 Ham
+Food ID: 167909
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 18.43 g
+Carbohydrates: 0.21 g
+Fat: 3.59 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.17 g
+Monounsaturated fat: 1.75 g
+Polyunsaturated fat: 0.37 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 1038 mg
+Potassium: 319 mg
+Calcium: 4 mg
+Iron: 0.8 mg
+Magnesium: 20 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin C: 1.6 mg

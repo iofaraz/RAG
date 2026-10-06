@@ -1,0 +1,36 @@
+Food: Egg, white only, raw
+Food ID: 2707168
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 10.7 g
+Carbohydrates: 2.36 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0.71 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 166 mg
+Potassium: 163 mg
+Calcium: 7 mg
+Iron: 0.08 mg
+Magnesium: 11 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.005 mg
+Vitamin B12: 0.09 µg
+Folate: 4 µg

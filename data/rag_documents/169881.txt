@@ -1,0 +1,37 @@
+Food: Candies, chocolate covered, low sugar or low calorie
+Food ID: 169881
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 590 kcal
+Protein: 12.39 g
+Carbohydrates: 37.68 g
+Fat: 43.27 g
+Fiber: 3.5 g
+Sugar: 14.63 g
+
+Fats:
+Saturated fat: 21.723 g
+Monounsaturated fat: 10.884 g
+Polyunsaturated fat: 4.349 g
+Trans fat: 0.121 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 111 mg
+Potassium: 606 mg
+Calcium: 285 mg
+Iron: 1.45 mg
+Magnesium: 129 mg
+Zinc: 2.47 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.61 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0.85 µg
+Folate: 25 µg

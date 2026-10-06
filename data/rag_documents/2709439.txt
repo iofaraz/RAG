@@ -1,0 +1,36 @@
+Food: Potato chips, lightly salted
+Food ID: 2709439
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 559 kcal
+Protein: 6.71 g
+Carbohydrates: 53.43 g
+Fat: 35.32 g
+Fiber: 4.2 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 5.479 g
+Monounsaturated fat: 14.908 g
+Polyunsaturated fat: 12.391 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 264 mg
+Potassium: 1301 mg
+Calcium: 24 mg
+Iron: 1.43 mg
+Magnesium: 62 mg
+Zinc: 1.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 27.2 mg
+Vitamin D: 0 µg
+Vitamin E: 7.7 mg
+Vitamin K: 22.1 µg
+Vitamin B6: 0.65 mg
+Vitamin B12: 0 µg
+Folate: 58 µg

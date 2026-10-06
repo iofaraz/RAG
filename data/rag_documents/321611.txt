@@ -1,0 +1,18 @@
+Food: Beans, snap, green, canned, regular pack, drained solids
+Food ID: 321611
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 1.04 g
+Carbohydrates: 4.11 g
+Fat: 0.39 g
+
+Minerals:
+Sodium: 282 mg
+Potassium: 97 mg
+Calcium: 36 mg
+Iron: 0.78 mg
+Magnesium: 12.7 mg
+Zinc: 0.19 mg

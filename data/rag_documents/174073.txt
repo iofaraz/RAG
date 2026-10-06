@@ -1,0 +1,37 @@
+Food: Soup, beef barley, ready to serve
+Food ID: 174073
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 2.81 g
+Carbohydrates: 7.94 g
+Fat: 0.96 g
+Fiber: 0.9 g
+Sugar: 1.22 g
+
+Fats:
+Saturated fat: 0.329 g
+Monounsaturated fat: 0.349 g
+Polyunsaturated fat: 0.232 g
+Trans fat: 0.034 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 297 mg
+Potassium: 121 mg
+Calcium: 11 mg
+Iron: 0.45 mg
+Magnesium: 9 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.15 µg
+Folate: 11 µg

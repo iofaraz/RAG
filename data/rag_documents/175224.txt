@@ -1,0 +1,30 @@
+Food: SILK Coffee, soymilk
+Food ID: 175224
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 2.06 g
+Carbohydrates: 10.29 g
+Fat: 1.44 g
+Fiber: 0 g
+Sugar: 9.47 g
+
+Fats:
+Saturated fat: 0.206 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 132 mg
+Calcium: 123 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B12: 0.37 µg
+Folate: 7 µg

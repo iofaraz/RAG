@@ -1,0 +1,36 @@
+Food: Creamed chipped or dried beef
+Food ID: 2706383
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 7.65 g
+Carbohydrates: 7.57 g
+Fat: 8.05 g
+Fiber: 0.1 g
+Sugar: 4.58 g
+
+Fats:
+Saturated fat: 2.32 g
+Monounsaturated fat: 3.348 g
+Polyunsaturated fat: 1.857 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 478 mg
+Potassium: 174 mg
+Calcium: 110 mg
+Iron: 0.56 mg
+Magnesium: 14 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 109 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.74 mg
+Vitamin K: 7.2 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.6 µg
+Folate: 8 µg

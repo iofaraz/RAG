@@ -1,0 +1,37 @@
+Food: Egg, whole, raw, frozen, salted, pasteurized
+Food ID: 170893
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 138 kcal
+Protein: 10.97 g
+Carbohydrates: 0.83 g
+Fat: 10.07 g
+Fiber: 0 g
+Sugar: 0.07 g
+
+Fats:
+Saturated fat: 3.178 g
+Monounsaturated fat: 4 g
+Polyunsaturated fat: 1.627 g
+Trans fat: 0.09 g
+Cholesterol: 387 mg
+
+Minerals:
+Sodium: 3663 mg
+Potassium: 128 mg
+Calcium: 55 mg
+Iron: 1.71 mg
+Magnesium: 9 mg
+Zinc: 1.3 mg
+
+Vitamins:
+Vitamin A: 149 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.8 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.226 mg
+Vitamin B12: 1.21 µg
+Folate: 69 µg

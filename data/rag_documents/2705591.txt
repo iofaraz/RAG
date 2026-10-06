@@ -1,0 +1,36 @@
+Food: Strawberry beverage powder, dry mix, not reconstituted
+Food ID: 2705591
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 389 kcal
+Protein: 0.1 g
+Carbohydrates: 99.1 g
+Fat: 0.2 g
+Fiber: 0 g
+Sugar: 95.45 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 6 mg
+Calcium: 4 mg
+Iron: 0.44 mg
+Magnesium: 1 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.002 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

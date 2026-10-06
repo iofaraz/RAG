@@ -1,0 +1,37 @@
+Food: Potatoes, boiled, cooked without skin, flesh, with salt
+Food ID: 170520
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 1.71 g
+Carbohydrates: 20.01 g
+Fat: 0.1 g
+Fiber: 2 g
+Sugar: 0.89 g
+
+Fats:
+Saturated fat: 0.026 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.043 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 241 mg
+Potassium: 328 mg
+Calcium: 8 mg
+Iron: 0.31 mg
+Magnesium: 20 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.269 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

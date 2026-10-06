@@ -1,0 +1,37 @@
+Food: Beverages, fruit-flavored drink, powder, with high vitamin C with other added vitamins, low calorie
+Food ID: 167707
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 0.25 g
+Carbohydrates: 91 g
+Fat: 0.16 g
+Fiber: 2.2 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.038 g
+Polyunsaturated fat: 0.034 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 2518 mg
+Calcium: 800 mg
+Iron: 0.08 mg
+Magnesium: 245 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 5997 µg
+Vitamin C: 2400 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 8 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

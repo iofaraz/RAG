@@ -1,0 +1,37 @@
+Food: Spinach, cooked, boiled, drained, without salt
+Food ID: 168463
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 2.97 g
+Carbohydrates: 3.75 g
+Fat: 0.26 g
+Fiber: 2.4 g
+Sugar: 0.43 g
+
+Fats:
+Saturated fat: 0.043 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.109 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 466 mg
+Calcium: 136 mg
+Iron: 3.57 mg
+Magnesium: 87 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 524 µg
+Vitamin C: 9.8 mg
+Vitamin D: 0 µg
+Vitamin E: 2.08 mg
+Vitamin K: 493.6 µg
+Vitamin B6: 0.242 mg
+Vitamin B12: 0 µg
+Folate: 146 µg

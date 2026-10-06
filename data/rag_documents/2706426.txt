@@ -1,0 +1,36 @@
+Food: Chili with chicken
+Food ID: 2706426
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 14.11 g
+Carbohydrates: 2.41 g
+Fat: 3.71 g
+Fiber: 0.5 g
+Sugar: 1.37 g
+
+Fats:
+Saturated fat: 1.057 g
+Monounsaturated fat: 1.51 g
+Polyunsaturated fat: 0.816 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 218 mg
+Calcium: 10 mg
+Iron: 0.67 mg
+Magnesium: 18 mg
+Zinc: 0.76 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 5.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.375 mg
+Vitamin B12: 0.16 µg
+Folate: 5 µg

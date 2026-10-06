@@ -1,0 +1,23 @@
+Food: Babyfood, cereal, high protein, prepared with whole milk
+Food ID: 173528
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 8.7 g
+Carbohydrates: 11.6 g
+Fat: 3.8 g
+
+Minerals:
+Sodium: 49 mg
+Potassium: 349 mg
+Calcium: 218 mg
+Iron: 12.14 mg
+Magnesium: 48 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin B6: 0.113 mg
+Vitamin B12: 0.3 µg
+Folate: 35 µg

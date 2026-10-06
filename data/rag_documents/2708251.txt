@@ -1,0 +1,36 @@
+Food: Pretzels, hard, plain, unsalted
+Food ID: 2708251
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 9.1 g
+Carbohydrates: 79.2 g
+Fat: 3.5 g
+Fiber: 2.8 g
+Sugar: 2.21 g
+
+Fats:
+Saturated fat: 0.75 g
+Monounsaturated fat: 1.36 g
+Polyunsaturated fat: 1.22 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 250 mg
+Potassium: 146 mg
+Calcium: 36 mg
+Iron: 4.32 mg
+Magnesium: 35 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.35 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0 µg
+Folate: 171 µg

@@ -1,0 +1,28 @@
+Food: Lamb, Australian, imported, fresh, leg, center slice, bone-in, separable lean only, trimmed to 1/8" fat, cooked, broiled
+Food ID: 172585
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 183 kcal
+Protein: 26.75 g
+Carbohydrates: 0 g
+Fat: 7.68 g
+
+Fats:
+Saturated fat: 3.111 g
+Monounsaturated fat: 3.129 g
+Polyunsaturated fat: 0.39 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 354 mg
+Calcium: 13 mg
+Iron: 2.48 mg
+Magnesium: 26 mg
+Zinc: 5.21 mg
+
+Vitamins:
+Vitamin B6: 0.46 mg
+Vitamin B12: 3.19 µg

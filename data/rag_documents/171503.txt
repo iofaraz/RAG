@@ -1,0 +1,32 @@
+Food: Turkey roast, boneless, frozen, seasoned, light and dark meat, raw
+Food ID: 171503
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 120 kcal
+Protein: 17.6 g
+Carbohydrates: 6.4 g
+Fat: 2.2 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.73 g
+Monounsaturated fat: 0.47 g
+Polyunsaturated fat: 0.64 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 678 mg
+Potassium: 360 mg
+Calcium: 1 mg
+Iron: 2.1 mg
+Magnesium: 20 mg
+Zinc: 1.91 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.38 mg
+Vitamin B12: 0.35 µg
+Folate: 7 µg

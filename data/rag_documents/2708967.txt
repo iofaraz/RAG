@@ -1,0 +1,36 @@
+Food: Sushi, topped with crab
+Food ID: 2708967
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 3.85 g
+Carbohydrates: 18.58 g
+Fat: 0.28 g
+Fiber: 0.8 g
+Sugar: 2.97 g
+
+Fats:
+Saturated fat: 0.098 g
+Monounsaturated fat: 0.137 g
+Polyunsaturated fat: 0.091 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 474 mg
+Potassium: 37 mg
+Calcium: 6 mg
+Iron: 0.22 mg
+Magnesium: 18 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.2 µg
+Folate: 1 µg

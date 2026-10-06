@@ -1,0 +1,36 @@
+Food: Fish curry
+Food ID: 2706460
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 4.94 g
+Carbohydrates: 6.65 g
+Fat: 5.42 g
+Fiber: 1.4 g
+Sugar: 2.56 g
+
+Fats:
+Saturated fat: 1.292 g
+Monounsaturated fat: 1.923 g
+Polyunsaturated fat: 1.779 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 351 mg
+Potassium: 275 mg
+Calcium: 25 mg
+Iron: 0.62 mg
+Magnesium: 18 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 8.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.58 mg
+Vitamin K: 8.8 µg
+Vitamin B6: 0.151 mg
+Vitamin B12: 0.33 µg
+Folate: 17 µg

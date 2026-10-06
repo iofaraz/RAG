@@ -1,0 +1,36 @@
+Food: Crackers, multigrain
+Food ID: 2708170
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 482 kcal
+Protein: 7.1 g
+Carbohydrates: 67.6 g
+Fat: 20.4 g
+Fiber: 3.5 g
+Sugar: 12 g
+
+Fats:
+Saturated fat: 3.3 g
+Monounsaturated fat: 5 g
+Polyunsaturated fat: 11.8 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 883 mg
+Potassium: 171 mg
+Calcium: 14 mg
+Iron: 2.59 mg
+Magnesium: 29 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.75 mg
+Vitamin K: 36 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0 µg
+Folate: 103 µg

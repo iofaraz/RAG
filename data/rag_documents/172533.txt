@@ -1,0 +1,32 @@
+Food: Lamb, variety meats and by-products, liver, cooked, pan-fried
+Food ID: 172533
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 25.53 g
+Carbohydrates: 3.78 g
+Fat: 12.65 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.9 g
+Monounsaturated fat: 2.64 g
+Polyunsaturated fat: 1.89 g
+Cholesterol: 493 mg
+
+Minerals:
+Sodium: 124 mg
+Potassium: 352 mg
+Calcium: 9 mg
+Iron: 10.2 mg
+Magnesium: 23 mg
+Zinc: 5.63 mg
+
+Vitamins:
+Vitamin A: 7782 µg
+Vitamin C: 13 mg
+Vitamin B6: 0.95 mg
+Vitamin B12: 85.7 µg
+Folate: 400 µg

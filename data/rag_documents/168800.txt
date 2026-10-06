@@ -1,0 +1,37 @@
+Food: Frostings, chocolate, creamy, dry mix, prepared with butter
+Food ID: 168800
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 408 kcal
+Protein: 1.11 g
+Carbohydrates: 71.8 g
+Fat: 13.06 g
+Fiber: 1.9 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 8.369 g
+Monounsaturated fat: 3.425 g
+Polyunsaturated fat: 0.496 g
+Trans fat: 0.534 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 124 mg
+Potassium: 143 mg
+Calcium: 12 mg
+Iron: 0.93 mg
+Magnesium: 30 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.26 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0.02 µg
+Folate: 3 µg

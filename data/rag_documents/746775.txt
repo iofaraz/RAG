@@ -1,0 +1,12 @@
+Food: Salt, table, iodized
+Food ID: 746775
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Minerals:
+Sodium: 38700 mg
+Potassium: 2 mg
+Calcium: 50 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg

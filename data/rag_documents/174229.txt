@@ -1,0 +1,32 @@
+Food: Fish, bluefish, cooked, dry heat
+Food ID: 174229
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 25.69 g
+Carbohydrates: 0 g
+Fat: 5.44 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.172 g
+Monounsaturated fat: 2.297 g
+Polyunsaturated fat: 1.358 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 477 mg
+Calcium: 9 mg
+Iron: 0.62 mg
+Magnesium: 42 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 138 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.464 mg
+Vitamin B12: 6.22 µg
+Folate: 2 µg

@@ -1,0 +1,37 @@
+Food: Clif Z bar
+Food ID: 173477
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 416 kcal
+Protein: 5.55 g
+Carbohydrates: 74.72 g
+Fat: 9.72 g
+Fiber: 8.3 g
+Sugar: 30.56 g
+
+Fats:
+Saturated fat: 2.721 g
+Monounsaturated fat: 2.447 g
+Polyunsaturated fat: 3.319 g
+Trans fat: 0.013 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 375 mg
+Potassium: 333 mg
+Calcium: 444 mg
+Iron: 2.7 mg
+Magnesium: 82 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 39.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.98 mg
+Vitamin K: 8.7 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

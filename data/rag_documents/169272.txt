@@ -1,0 +1,33 @@
+Food: Pumpkin leaves, raw
+Food ID: 169272
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 3.15 g
+Carbohydrates: 2.33 g
+Fat: 0.4 g
+
+Fats:
+Saturated fat: 0.207 g
+Monounsaturated fat: 0.052 g
+Polyunsaturated fat: 0.022 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 436 mg
+Calcium: 39 mg
+Iron: 2.22 mg
+Magnesium: 38 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 97 µg
+Vitamin C: 11 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

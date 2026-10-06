@@ -1,0 +1,33 @@
+Food: Sausage, chicken, beef, pork, skinless, smoked
+Food ID: 174605
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 13.6 g
+Carbohydrates: 8.1 g
+Fat: 14.3 g
+Fiber: 0 g
+Sugar: 1.9 g
+
+Fats:
+Saturated fat: 4.8 g
+Monounsaturated fat: 7.165 g
+Polyunsaturated fat: 0.846 g
+Cholesterol: 120 mg
+
+Minerals:
+Sodium: 1034 mg
+Potassium: 246 mg
+Calcium: 100 mg
+Iron: 4.8 mg
+Magnesium: 14 mg
+Zinc: 2.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.213 mg
+Vitamin B12: 1.6 µg
+Folate: 6 µg

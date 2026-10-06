@@ -1,0 +1,36 @@
+Food: Oil, industrial, mid-oleic, sunflower
+Food ID: 172357
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 884 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 9.009 g
+Monounsaturated fat: 57.334 g
+Polyunsaturated fat: 28.962 g
+Trans fat: 0.219 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 0 mg
+Iron: 0.03 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 41.08 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

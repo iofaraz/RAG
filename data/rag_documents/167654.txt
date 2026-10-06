@@ -1,0 +1,33 @@
+Food: Smelt, dried (Alaska Native)
+Food ID: 167654
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 56.19 g
+Carbohydrates: 0 g
+Fat: 17.9 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.59 g
+Monounsaturated fat: 6.86 g
+Polyunsaturated fat: 2.884 g
+Cholesterol: 249 mg
+
+Minerals:
+Sodium: 420 mg
+Potassium: 1000 mg
+Calcium: 1600 mg
+Iron: 5.4 mg
+Magnesium: 89 mg
+Zinc: 6.7 mg
+
+Vitamins:
+Vitamin A: 139 µg
+Vitamin E: 4.51 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 19.1 µg

@@ -1,0 +1,37 @@
+Food: Squash, summer, crookneck and straightneck, canned, drained, solid, without salt
+Food ID: 168466
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 13 kcal
+Protein: 0.61 g
+Carbohydrates: 2.96 g
+Fat: 0.07 g
+Fiber: 1.4 g
+Sugar: 1.19 g
+
+Fats:
+Saturated fat: 0.015 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.031 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 96 mg
+Calcium: 12 mg
+Iron: 0.71 mg
+Magnesium: 13 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 2.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

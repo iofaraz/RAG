@@ -1,0 +1,25 @@
+Food: KRAFT BREAKSTONE'S FREE Fat Free Sour Cream
+Food ID: 172211
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 4.7 g
+Carbohydrates: 15.1 g
+Fat: 1.3 g
+Fiber: 0 g
+Sugar: 7.2 g
+
+Fats:
+Saturated fat: 0.8 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 219 mg
+Calcium: 141 mg
+Iron: 0.05 mg
+
+Vitamins:
+Vitamin C: 1.2 mg

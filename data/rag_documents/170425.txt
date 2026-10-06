@@ -1,0 +1,34 @@
+Food: Peas and carrots, frozen, unprepared
+Food ID: 170425
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 3.4 g
+Carbohydrates: 11.15 g
+Fat: 0.47 g
+Fiber: 3.4 g
+
+Fats:
+Saturated fat: 0.084 g
+Monounsaturated fat: 0.039 g
+Polyunsaturated fat: 0.221 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 79 mg
+Potassium: 194 mg
+Calcium: 27 mg
+Iron: 1.09 mg
+Magnesium: 18 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 475 µg
+Vitamin C: 11.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

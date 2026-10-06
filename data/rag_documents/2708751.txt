@@ -1,0 +1,36 @@
+Food: Lasagna with meat, canned
+Food ID: 2708751
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 3.24 g
+Carbohydrates: 13.26 g
+Fat: 3.41 g
+Fiber: 1.5 g
+Sugar: 1.97 g
+
+Fats:
+Saturated fat: 1.46 g
+Monounsaturated fat: 1.617 g
+Polyunsaturated fat: 0.237 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 283 mg
+Potassium: 178 mg
+Calcium: 12 mg
+Iron: 1.09 mg
+Magnesium: 12 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.15 µg
+Folate: 21 µg

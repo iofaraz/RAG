@@ -1,0 +1,36 @@
+Food: Fajita, chicken
+Food ID: 2708604
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 11.33 g
+Carbohydrates: 17.99 g
+Fat: 9.8 g
+Fiber: 1.5 g
+Sugar: 2.44 g
+
+Fats:
+Saturated fat: 2.137 g
+Monounsaturated fat: 3.63 g
+Polyunsaturated fat: 3.058 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 451 mg
+Potassium: 188 mg
+Calcium: 55 mg
+Iron: 1.47 mg
+Magnesium: 18 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 23.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.35 mg
+Vitamin K: 9 µg
+Vitamin B6: 0.165 mg
+Vitamin B12: 0.12 µg
+Folate: 41 µg

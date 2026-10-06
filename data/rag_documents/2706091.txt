@@ -1,0 +1,36 @@
+Food: Chicken, ground
+Food ID: 2706091
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 27.14 g
+Carbohydrates: 0 g
+Fat: 10.31 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.647 g
+Monounsaturated fat: 3.429 g
+Polyunsaturated fat: 2.893 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 292 mg
+Calcium: 28 mg
+Iron: 1.51 mg
+Magnesium: 30 mg
+Zinc: 3.08 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.628 mg
+Vitamin B12: 1.33 µg
+Folate: 7 µg

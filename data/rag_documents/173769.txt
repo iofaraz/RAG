@@ -1,0 +1,31 @@
+Food: Soymilk (All flavors), lowfat, with added calcium, vitamins A and D
+Food ID: 173769
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 1.65 g
+Carbohydrates: 7.2 g
+Fat: 0.62 g
+Fiber: 0.8 g
+Sugar: 3.5 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.206 g
+Polyunsaturated fat: 0.412 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 37 mg
+Potassium: 64 mg
+Calcium: 82 mg
+Iron: 0.44 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin B12: 0 µg

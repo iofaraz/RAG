@@ -1,0 +1,36 @@
+Food: Turkey bacon, reduced sodium, cooked
+Food ID: 2706136
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 253 kcal
+Protein: 13.33 g
+Carbohydrates: 4.8 g
+Fat: 20 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.667 g
+Monounsaturated fat: 8.571 g
+Polyunsaturated fat: 4.275 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 900 mg
+Potassium: 156 mg
+Calcium: 10 mg
+Iron: 0.72 mg
+Magnesium: 19 mg
+Zinc: 1.61 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 24 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.7 mg
+Vitamin K: 10.8 µg
+Vitamin B6: 0.401 mg
+Vitamin B12: 0.66 µg
+Folate: 6 µg

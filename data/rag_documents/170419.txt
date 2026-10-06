@@ -1,0 +1,37 @@
+Food: Peas, green, raw
+Food ID: 170419
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 5.42 g
+Carbohydrates: 14.45 g
+Fat: 0.4 g
+Fiber: 5.7 g
+Sugar: 5.67 g
+
+Fats:
+Saturated fat: 0.071 g
+Monounsaturated fat: 0.035 g
+Polyunsaturated fat: 0.187 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 244 mg
+Calcium: 25 mg
+Iron: 1.47 mg
+Magnesium: 33 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 40 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 24.8 µg
+Vitamin B6: 0.169 mg
+Vitamin B12: 0 µg
+Folate: 65 µg

@@ -1,0 +1,36 @@
+Food: Meat loaf made with chicken or turkey
+Food ID: 2706547
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 18.77 g
+Carbohydrates: 8.08 g
+Fat: 7.27 g
+Fiber: 0.6 g
+Sugar: 2.12 g
+
+Fats:
+Saturated fat: 1.913 g
+Monounsaturated fat: 2.376 g
+Polyunsaturated fat: 2.068 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 446 mg
+Potassium: 246 mg
+Calcium: 70 mg
+Iron: 1.51 mg
+Magnesium: 25 mg
+Zinc: 2.11 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.2 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.393 mg
+Vitamin B12: 0.85 µg
+Folate: 24 µg

@@ -1,0 +1,31 @@
+Food: Rice, white, medium-grain, raw, unenriched
+Food ID: 169760
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 360 kcal
+Protein: 6.61 g
+Carbohydrates: 79.34 g
+Fat: 0.58 g
+
+Fats:
+Saturated fat: 0.158 g
+Monounsaturated fat: 0.181 g
+Polyunsaturated fat: 0.155 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 86 mg
+Calcium: 9 mg
+Iron: 0.8 mg
+Magnesium: 35 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

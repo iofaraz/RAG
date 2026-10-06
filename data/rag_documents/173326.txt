@@ -1,0 +1,36 @@
+Food: HOT POCKETS, CROISSANT POCKETS Chicken, Broccoli, and Cheddar Stuffed Sandwich, frozen
+Food ID: 173326
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 8.9 g
+Carbohydrates: 30.4 g
+Fat: 8.6 g
+Fiber: 1.1 g
+Sugar: 7.6 g
+
+Fats:
+Saturated fat: 2.62 g
+Monounsaturated fat: 3.42 g
+Polyunsaturated fat: 1.3 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 346 mg
+Potassium: 188 mg
+Calcium: 152 mg
+Iron: 2.97 mg
+Magnesium: 18 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 4.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0.35 µg
+Folate: 54 µg

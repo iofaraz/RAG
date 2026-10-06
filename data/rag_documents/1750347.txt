@@ -1,0 +1,21 @@
+Food: Mushrooms, white button
+Food ID: 1750347
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.89062 g
+Carbohydrates: 4.07937 g
+Fat: 0.3708 g
+
+Minerals:
+Sodium: 6.443 mg
+Potassium: 373 mg
+Calcium: 5.465 mg
+Iron: 0.2267 mg
+Magnesium: 10.16 mg
+Zinc: 0.511 mg
+
+Vitamins:
+Vitamin B6: 0.07683 mg
+Folate: 34.76 µg

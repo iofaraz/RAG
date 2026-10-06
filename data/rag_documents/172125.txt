@@ -1,0 +1,36 @@
+Food: Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0" fat, choice, raw
+Food ID: 172125
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 182 kcal
+Protein: 18.75 g
+Carbohydrates: 0 g
+Fat: 11.33 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.186 g
+Monounsaturated fat: 4.408 g
+Polyunsaturated fat: 0.463 g
+Trans fat: 0.389 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 74 mg
+Potassium: 302 mg
+Calcium: 5 mg
+Iron: 2.23 mg
+Magnesium: 20 mg
+Zinc: 6.58 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.17 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.375 mg
+Vitamin B12: 4.96 µg
+Folate: 3 µg

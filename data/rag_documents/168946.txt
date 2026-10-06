@@ -1,0 +1,26 @@
+Food: Potatoes, french fried, wedge cut, frozen, unprepared
+Food ID: 168946
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 2.56 g
+Carbohydrates: 22.22 g
+Fat: 7.47 g
+Fiber: 2.4 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 1.843 g
+Trans fat: 0.147 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 380 mg
+Potassium: 381 mg
+Calcium: 14 mg
+Iron: 0.72 mg
+
+Vitamins:
+Vitamin C: 5.1 mg

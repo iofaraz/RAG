@@ -1,0 +1,36 @@
+Food: Beef, ribeye petite roast, boneless, separable lean only, trimmed to 0" fat, choice, cooked, roasted
+Food ID: 173059
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 188 kcal
+Protein: 28 g
+Carbohydrates: 0 g
+Fat: 8.42 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.053 g
+Monounsaturated fat: 3.581 g
+Polyunsaturated fat: 0.297 g
+Trans fat: 0.375 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 363 mg
+Calcium: 5 mg
+Iron: 2.65 mg
+Magnesium: 26 mg
+Zinc: 6.81 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.561 mg
+Vitamin B12: 3.72 µg
+Folate: 7 µg

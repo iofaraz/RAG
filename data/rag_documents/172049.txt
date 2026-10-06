@@ -1,0 +1,33 @@
+Food: LITTLE CAESARS 14" Original Round Meat and Vegetable Pizza, Regular Crust
+Food ID: 172049
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 12.12 g
+Carbohydrates: 23.1 g
+Fat: 11.35 g
+Fiber: 2.1 g
+Sugar: 3.74 g
+
+Fats:
+Saturated fat: 4.561 g
+Monounsaturated fat: 4.063 g
+Polyunsaturated fat: 1.72 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 578 mg
+Potassium: 195 mg
+Calcium: 167 mg
+Iron: 2.11 mg
+Magnesium: 24 mg
+Zinc: 1.55 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 0 mg
+Vitamin E: 0.9 mg
+Vitamin K: 5.7 µg
+Vitamin B12: 0.61 µg

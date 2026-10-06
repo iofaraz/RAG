@@ -1,0 +1,36 @@
+Food: Baby Toddler biscuit
+Food ID: 2708131
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 395 kcal
+Protein: 11.37 g
+Carbohydrates: 80.53 g
+Fat: 2.97 g
+Fiber: 1.5 g
+Sugar: 15.6 g
+
+Fats:
+Saturated fat: 0.381 g
+Monounsaturated fat: 1.808 g
+Polyunsaturated fat: 0.579 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 300 mg
+Potassium: 458 mg
+Calcium: 320 mg
+Iron: 4.72 mg
+Magnesium: 51 mg
+Zinc: 4.03 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.24 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.468 mg
+Vitamin B12: 0.02 µg
+Folate: 23 µg

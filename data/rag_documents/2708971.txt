@@ -1,0 +1,36 @@
+Food: Sushi, topped with tuna
+Food ID: 2708971
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 9.66 g
+Carbohydrates: 13.39 g
+Fat: 0.29 g
+Fiber: 0.6 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 0.083 g
+Monounsaturated fat: 0.082 g
+Polyunsaturated fat: 0.092 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 306 mg
+Potassium: 159 mg
+Calcium: 3 mg
+Iron: 0.35 mg
+Magnesium: 15 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.339 mg
+Vitamin B12: 0.72 µg
+Folate: 1 µg

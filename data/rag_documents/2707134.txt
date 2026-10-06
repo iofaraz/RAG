@@ -1,0 +1,36 @@
+Food: Soup, chicken
+Food ID: 2707134
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 40 kcal
+Protein: 3.44 g
+Carbohydrates: 4.04 g
+Fat: 1.14 g
+Fiber: 0.8 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 0.268 g
+Monounsaturated fat: 0.439 g
+Polyunsaturated fat: 0.305 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 249 mg
+Potassium: 151 mg
+Calcium: 11 mg
+Iron: 0.23 mg
+Magnesium: 12 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 6.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 13.6 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0.03 µg
+Folate: 11 µg

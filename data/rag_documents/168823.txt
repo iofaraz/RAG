@@ -1,0 +1,26 @@
+Food: Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Tropical fruits
+Food ID: 168823
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 409 kcal
+Protein: 0.41 g
+Carbohydrates: 82.76 g
+Fat: 8.31 g
+Fiber: 0 g
+Sugar: 58.18 g
+
+Fats:
+Saturated fat: 8.048 g
+Trans fat: 0.143 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Calcium: 0 mg
+Iron: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 59.4 mg

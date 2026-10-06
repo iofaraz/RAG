@@ -1,0 +1,23 @@
+Food: Beverages, NESTEA, tea, black, ready-to-drink, lemon
+Food ID: 174847
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 36 kcal
+Protein: 0 g
+Carbohydrates: 9.09 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 9.09 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 21 mg
+Potassium: 19 mg
+Calcium: 3 mg
+Iron: 0 mg
+Magnesium: 1 mg
+Zinc: 0.06 mg

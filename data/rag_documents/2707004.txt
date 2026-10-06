@@ -1,0 +1,36 @@
+Food: Chicken fillet sandwich, fried, from fast food, with cheese
+Food ID: 2707004
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 291 kcal
+Protein: 13.2 g
+Carbohydrates: 24.66 g
+Fat: 15.34 g
+Fiber: 1.5 g
+Sugar: 3.03 g
+
+Fats:
+Saturated fat: 4.739 g
+Monounsaturated fat: 4.238 g
+Polyunsaturated fat: 5.026 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 626 mg
+Potassium: 202 mg
+Calcium: 180 mg
+Iron: 1.61 mg
+Magnesium: 26 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.68 mg
+Vitamin K: 16.5 µg
+Vitamin B6: 0.203 mg
+Vitamin B12: 0.35 µg
+Folate: 47 µg

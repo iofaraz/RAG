@@ -1,0 +1,36 @@
+Food: Cobbler, cherry
+Food ID: 2708021
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 2.37 g
+Carbohydrates: 38.07 g
+Fat: 8.69 g
+Fiber: 1.8 g
+Sugar: 21.68 g
+
+Fats:
+Saturated fat: 2.796 g
+Monounsaturated fat: 4.083 g
+Polyunsaturated fat: 1.09 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 179 mg
+Potassium: 107 mg
+Calcium: 13 mg
+Iron: 1.04 mg
+Magnesium: 10 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

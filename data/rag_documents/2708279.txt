@@ -1,0 +1,36 @@
+Food: Pretzels, soft, from frozen, unsalted
+Food ID: 2708279
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 345 kcal
+Protein: 8.2 g
+Carbohydrates: 71.04 g
+Fat: 3.1 g
+Fiber: 1.7 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 0.695 g
+Monounsaturated fat: 1.071 g
+Polyunsaturated fat: 0.948 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 252 mg
+Potassium: 88 mg
+Calcium: 23 mg
+Iron: 3.92 mg
+Magnesium: 21 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.54 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

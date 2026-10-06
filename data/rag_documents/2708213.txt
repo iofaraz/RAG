@@ -1,0 +1,36 @@
+Food: Snack mix
+Food ID: 2708213
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 504 kcal
+Protein: 6.87 g
+Carbohydrates: 63.11 g
+Fat: 25.79 g
+Fiber: 3.1 g
+Sugar: 1.9 g
+
+Fats:
+Saturated fat: 3.034 g
+Monounsaturated fat: 7.065 g
+Polyunsaturated fat: 12.79 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 729 mg
+Potassium: 180 mg
+Calcium: 80 mg
+Iron: 2.08 mg
+Magnesium: 48 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 4.04 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.135 mg
+Vitamin B12: 0.07 µg
+Folate: 65 µg

@@ -1,0 +1,36 @@
+Food: Fried green beans
+Food ID: 2709869
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 223 kcal
+Protein: 4.04 g
+Carbohydrates: 22.86 g
+Fat: 12.86 g
+Fiber: 2 g
+Sugar: 1.25 g
+
+Fats:
+Saturated fat: 1.785 g
+Monounsaturated fat: 5.222 g
+Polyunsaturated fat: 4.856 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 314 mg
+Potassium: 156 mg
+Calcium: 40 mg
+Iron: 1.76 mg
+Magnesium: 19 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 4.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.47 mg
+Vitamin K: 29.6 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.04 µg
+Folate: 52 µg

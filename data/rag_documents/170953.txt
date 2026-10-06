@@ -1,0 +1,36 @@
+Food: Babyfood, fruit, bananas and pineapple with tapioca, junior
+Food ID: 170953
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 0.2 g
+Carbohydrates: 18.4 g
+Fat: 0.1 g
+Fiber: 1.6 g
+Sugar: 8.41 g
+
+Fats:
+Saturated fat: 0.036 g
+Monounsaturated fat: 0.009 g
+Polyunsaturated fat: 0.02 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 78 mg
+Calcium: 7 mg
+Iron: 0.13 mg
+Magnesium: 6 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 21.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

@@ -1,0 +1,14 @@
+Food: Sea cucumber, yane (Alaska Native)
+Food ID: 167618
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 13 g
+Carbohydrates: 0 g
+Fat: 0.4 g
+
+Minerals:
+Calcium: 30 mg
+Iron: 0.6 mg

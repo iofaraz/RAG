@@ -1,0 +1,36 @@
+Food: Cottonseed oil
+Food ID: 2710184
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 884 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 25.9 g
+Monounsaturated fat: 17.8 g
+Polyunsaturated fat: 51.9 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 35.3 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

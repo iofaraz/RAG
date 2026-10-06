@@ -1,0 +1,36 @@
+Food: Pasta with tomato-based sauce and seafood, restaurant
+Food ID: 2708849
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 5.16 g
+Carbohydrates: 17.98 g
+Fat: 7.97 g
+Fiber: 1.5 g
+Sugar: 2.26 g
+
+Fats:
+Saturated fat: 1.084 g
+Monounsaturated fat: 3.12 g
+Polyunsaturated fat: 3.016 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 393 mg
+Potassium: 166 mg
+Calcium: 22 mg
+Iron: 1.11 mg
+Magnesium: 18 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 2.29 mg
+Vitamin K: 11.9 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.81 µg
+Folate: 40 µg

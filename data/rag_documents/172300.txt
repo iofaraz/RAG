@@ -1,0 +1,25 @@
+Food: Babyfood, cereal, rice, with honey, prepared with whole milk
+Food ID: 172300
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 3.9 g
+Carbohydrates: 17.1 g
+Fat: 3.3 g
+
+Minerals:
+Sodium: 49 mg
+Potassium: 141 mg
+Calcium: 291 mg
+Iron: 10.81 mg
+Magnesium: 45 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.3 µg
+Folate: 8 µg

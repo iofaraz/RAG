@@ -1,0 +1,36 @@
+Food: Beef and rice with mushroom sauce
+Food ID: 2706495
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 135 kcal
+Protein: 6.25 g
+Carbohydrates: 15.53 g
+Fat: 5.18 g
+Fiber: 0.4 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 1.184 g
+Monounsaturated fat: 1.856 g
+Polyunsaturated fat: 1.716 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 313 mg
+Potassium: 84 mg
+Calcium: 21 mg
+Iron: 0.97 mg
+Magnesium: 10 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.62 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.29 µg
+Folate: 29 µg

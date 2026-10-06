@@ -1,0 +1,36 @@
+Food: Bread, crumbs, dry, grated, seasoned
+Food ID: 172806
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 383 kcal
+Protein: 14.13 g
+Carbohydrates: 68.49 g
+Fat: 5.48 g
+Fiber: 4.9 g
+Sugar: 5.74 g
+
+Fats:
+Saturated fat: 1.391 g
+Monounsaturated fat: 1.168 g
+Polyunsaturated fat: 2.3 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 2100 mg
+Potassium: 231 mg
+Calcium: 182 mg
+Iron: 4.92 mg
+Magnesium: 46 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 2.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 46 µg
+Vitamin B6: 0.171 mg
+Vitamin B12: 0.35 µg
+Folate: 119 µg

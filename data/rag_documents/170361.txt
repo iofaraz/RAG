@@ -1,0 +1,34 @@
+Food: DIGIORNO Pizza, cheese topping, cheese stuffed crust, frozen, baked
+Food ID: 170361
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 279 kcal
+Protein: 13.48 g
+Carbohydrates: 29.86 g
+Fat: 11.68 g
+Fiber: 1.9 g
+
+Fats:
+Saturated fat: 5.63 g
+Monounsaturated fat: 2.905 g
+Polyunsaturated fat: 1.79 g
+Trans fat: 0.287 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 806 mg
+Potassium: 185 mg
+Calcium: 235 mg
+Iron: 2.35 mg
+Magnesium: 27 mg
+Zinc: 1.67 mg
+
+Vitamins:
+Vitamin A: 80 µg
+Vitamin C: 0.5 mg
+Vitamin E: 0.93 mg
+Vitamin K: 8.4 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.36 µg

@@ -1,0 +1,36 @@
+Food: Pie, berry
+Food ID: 2707997
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 306 kcal
+Protein: 3.16 g
+Carbohydrates: 39.53 g
+Fat: 15.43 g
+Fiber: 3.6 g
+Sugar: 16.49 g
+
+Fats:
+Saturated fat: 5.343 g
+Monounsaturated fat: 6.435 g
+Polyunsaturated fat: 2.132 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 217 mg
+Potassium: 110 mg
+Calcium: 23 mg
+Iron: 1.49 mg
+Magnesium: 17 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.1 mg
+Vitamin K: 14.2 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0 µg
+Folate: 43 µg

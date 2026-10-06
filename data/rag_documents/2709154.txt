@@ -1,0 +1,36 @@
+Food: Ramen bowl with beef
+Food ID: 2709154
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 137 kcal
+Protein: 6.81 g
+Carbohydrates: 15.4 g
+Fat: 5.19 g
+Fiber: 1 g
+Sugar: 0.44 g
+
+Fats:
+Saturated fat: 1.328 g
+Monounsaturated fat: 2.119 g
+Polyunsaturated fat: 1.138 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 353 mg
+Potassium: 92 mg
+Calcium: 16 mg
+Iron: 1.1 mg
+Magnesium: 14 mg
+Zinc: 1.18 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 14.8 µg
+Vitamin B6: 0.097 mg
+Vitamin B12: 0.37 µg
+Folate: 43 µg

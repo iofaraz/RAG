@@ -1,0 +1,32 @@
+Food: Cake, cheesecake, prepared from mix, no-bake type
+Food ID: 172712
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 5.5 g
+Carbohydrates: 35.5 g
+Fat: 12.7 g
+Fiber: 1.9 g
+
+Fats:
+Saturated fat: 6.691 g
+Monounsaturated fat: 4.519 g
+Polyunsaturated fat: 0.808 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 380 mg
+Potassium: 211 mg
+Calcium: 172 mg
+Iron: 0.47 mg
+Magnesium: 19 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 0.5 mg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.31 µg
+Folate: 30 µg

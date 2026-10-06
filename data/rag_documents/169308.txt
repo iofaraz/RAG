@@ -1,0 +1,37 @@
+Food: Taro, raw
+Food ID: 169308
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 1.5 g
+Carbohydrates: 26.46 g
+Fat: 0.2 g
+Fiber: 4.1 g
+Sugar: 0.4 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0.016 g
+Polyunsaturated fat: 0.083 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 591 mg
+Calcium: 43 mg
+Iron: 0.55 mg
+Magnesium: 33 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0 µg
+Vitamin E: 2.38 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.283 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

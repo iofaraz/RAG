@@ -1,0 +1,17 @@
+Food: Snacks, SUNKIST, SUNKIST Fruit Roll, strawberry, with vitamins A, C, and E
+Food ID: 169635
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 342 kcal
+Protein: 0.6 g
+Carbohydrates: 82.7 g
+Fat: 1 g
+Fiber: 7.7 g
+
+Minerals:
+Sodium: 111 mg
+
+Vitamins:
+Vitamin C: 81.6 mg

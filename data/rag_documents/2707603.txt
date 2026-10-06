@@ -1,0 +1,36 @@
+Food: Bread, white with whole wheat swirl, toasted
+Food ID: 2707603
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 301 kcal
+Protein: 12.45 g
+Carbohydrates: 53.39 g
+Fat: 4.12 g
+Fiber: 4.7 g
+Sugar: 5.65 g
+
+Fats:
+Saturated fat: 0.898 g
+Monounsaturated fat: 0.771 g
+Polyunsaturated fat: 2.014 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 508 mg
+Potassium: 208 mg
+Calcium: 217 mg
+Iron: 3.44 mg
+Magnesium: 59 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.174 mg
+Vitamin B12: 0 µg
+Folate: 68 µg

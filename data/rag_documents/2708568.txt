@@ -1,0 +1,36 @@
+Food: Enchilada, chicken
+Food ID: 2708568
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 10.03 g
+Carbohydrates: 14.64 g
+Fat: 9.02 g
+Fiber: 2.3 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 3.22 g
+Monounsaturated fat: 2.753 g
+Polyunsaturated fat: 1.916 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 459 mg
+Potassium: 190 mg
+Calcium: 116 mg
+Iron: 0.86 mg
+Magnesium: 34 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.83 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 0.2 µg
+Folate: 10 µg

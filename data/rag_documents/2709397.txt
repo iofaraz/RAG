@@ -1,0 +1,36 @@
+Food: Potato, boiled, from fresh, peel eaten, made with butter
+Food ID: 2709397
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 2.41 g
+Carbohydrates: 20.07 g
+Fat: 4.02 g
+Fiber: 2.1 g
+Sugar: 1.15 g
+
+Fats:
+Saturated fat: 2.195 g
+Monounsaturated fat: 0.805 g
+Polyunsaturated fat: 0.174 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 181 mg
+Potassium: 509 mg
+Calcium: 15 mg
+Iron: 1.03 mg
+Magnesium: 27 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 9.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.295 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

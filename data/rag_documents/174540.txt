@@ -1,0 +1,37 @@
+Food: Soup, cream of mushroom, canned, prepared with equal volume low fat (2%) milk
+Food ID: 174540
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 2.36 g
+Carbohydrates: 5.76 g
+Fat: 3.58 g
+Fiber: 0.3 g
+Sugar: 2.82 g
+
+Fats:
+Saturated fat: 1.116 g
+Monounsaturated fat: 0.877 g
+Polyunsaturated fat: 1.435 g
+Trans fat: 0.055 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 103 mg
+Calcium: 68 mg
+Iron: 0.1 mg
+Magnesium: 7 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.26 mg
+Vitamin K: 9.6 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.28 µg
+Folate: 3 µg

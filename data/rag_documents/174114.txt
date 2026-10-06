@@ -1,0 +1,32 @@
+Food: Beverages, Carob-flavor beverage mix, powder
+Food ID: 174114
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 1.8 g
+Carbohydrates: 93.3 g
+Fat: 0.2 g
+Fiber: 8 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.06 g
+Polyunsaturated fat: 0.068 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 103 mg
+Potassium: 104 mg
+Calcium: 32 mg
+Iron: 4.6 mg
+Magnesium: 5 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

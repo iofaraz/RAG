@@ -1,0 +1,36 @@
+Food: Margarine, NFS
+Food ID: 2710158
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 579 kcal
+Protein: 0.17 g
+Carbohydrates: 0.82 g
+Fat: 65.04 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 12.862 g
+Monounsaturated fat: 24.23 g
+Polyunsaturated fat: 25.933 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 694 mg
+Potassium: 27 mg
+Calcium: 16 mg
+Iron: 0.02 mg
+Magnesium: 2 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 819 µg
+Vitamin C: 0.1 mg
+Vitamin D: 3.7 µg
+Vitamin E: 18.09 mg
+Vitamin K: 99.2 µg
+Vitamin B6: 2.815 mg
+Vitamin B12: 0.02 µg
+Folate: 1 µg

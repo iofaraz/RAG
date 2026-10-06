@@ -1,0 +1,36 @@
+Food: Beef, dumplings, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy
+Food ID: 2706631
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 6.15 g
+Carbohydrates: 11.7 g
+Fat: 6.36 g
+Fiber: 0.9 g
+Sugar: 1.12 g
+
+Fats:
+Saturated fat: 1.452 g
+Monounsaturated fat: 2.532 g
+Polyunsaturated fat: 1.668 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 306 mg
+Potassium: 106 mg
+Calcium: 73 mg
+Iron: 1.17 mg
+Magnesium: 10 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 86 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.92 mg
+Vitamin K: 13 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.28 µg
+Folate: 20 µg

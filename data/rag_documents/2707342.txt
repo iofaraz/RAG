@@ -1,0 +1,36 @@
+Food: Sausage griddle/pancake sandwich
+Food ID: 2707342
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 10.53 g
+Carbohydrates: 17.04 g
+Fat: 18.69 g
+Fiber: 0.6 g
+Sugar: 6.27 g
+
+Fats:
+Saturated fat: 5.57 g
+Monounsaturated fat: 7.405 g
+Polyunsaturated fat: 4.214 g
+Cholesterol: 177 mg
+
+Minerals:
+Sodium: 505 mg
+Potassium: 174 mg
+Calcium: 76 mg
+Iron: 1.25 mg
+Magnesium: 13 mg
+Zinc: 1.21 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 1.55 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.61 µg
+Folate: 30 µg

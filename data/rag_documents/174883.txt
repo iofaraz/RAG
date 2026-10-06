@@ -1,0 +1,37 @@
+Food: Veal, external fat only, cooked
+Food ID: 174883
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 540 kcal
+Protein: 15.28 g
+Carbohydrates: 0 g
+Fat: 53.23 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 17.754 g
+Monounsaturated fat: 23.864 g
+Polyunsaturated fat: 1.709 g
+Trans fat: 2.051 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 103 mg
+Potassium: 152 mg
+Calcium: 58 mg
+Iron: 1.09 mg
+Magnesium: 26 mg
+Zinc: 1.42 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 3.6 µg
+Vitamin E: 0.45 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.214 mg
+Vitamin B12: 1.61 µg
+Folate: 0 µg

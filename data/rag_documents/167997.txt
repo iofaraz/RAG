@@ -1,0 +1,37 @@
+Food: Candies, NESTLE, OH HENRY! Bar
+Food ID: 167997
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 462 kcal
+Protein: 7.7 g
+Carbohydrates: 65.5 g
+Fat: 23 g
+Fiber: 1.9 g
+Sugar: 46.2 g
+
+Fats:
+Saturated fat: 9.6 g
+Monounsaturated fat: 5.53 g
+Polyunsaturated fat: 2.706 g
+Trans fat: 0.05 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 193 mg
+Potassium: 259 mg
+Calcium: 69 mg
+Iron: 0.5 mg
+Magnesium: 51 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.21 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0.2 µg
+Folate: 44 µg

@@ -1,0 +1,37 @@
+Food: Bread, cheese
+Food ID: 167944
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 408 kcal
+Protein: 10.42 g
+Carbohydrates: 44.83 g
+Fat: 20.83 g
+Fiber: 2.1 g
+Sugar: 2.08 g
+
+Fats:
+Saturated fat: 6.25 g
+Monounsaturated fat: 4.339 g
+Polyunsaturated fat: 9.203 g
+Trans fat: 0 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 750 mg
+Potassium: 84 mg
+Calcium: 90 mg
+Iron: 2.49 mg
+Magnesium: 17 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.49 mg
+Vitamin K: 32.4 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.24 µg
+Folate: 107 µg

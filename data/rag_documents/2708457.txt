@@ -1,0 +1,36 @@
+Food: Cereal, shredded wheat, flavored
+Food ID: 2708457
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 367 kcal
+Protein: 9.52 g
+Carbohydrates: 78.92 g
+Fat: 1.41 g
+Fiber: 10.3 g
+Sugar: 20 g
+
+Fats:
+Saturated fat: 0.123 g
+Monounsaturated fat: 0.069 g
+Polyunsaturated fat: 0.328 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 119 mg
+Calcium: 18 mg
+Iron: 27.72 mg
+Magnesium: 29 mg
+Zinc: 0.91 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 316 µg

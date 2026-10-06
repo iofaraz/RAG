@@ -1,0 +1,36 @@
+Food: Quesadilla, with vegetables
+Food ID: 2708594
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 253 kcal
+Protein: 8.14 g
+Carbohydrates: 29.18 g
+Fat: 11.32 g
+Fiber: 2.2 g
+Sugar: 3.1 g
+
+Fats:
+Saturated fat: 4.585 g
+Monounsaturated fat: 2.926 g
+Polyunsaturated fat: 2.333 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 524 mg
+Potassium: 128 mg
+Calcium: 187 mg
+Iron: 2.06 mg
+Magnesium: 19 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 17.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 7.7 µg
+Vitamin B6: 0.094 mg
+Vitamin B12: 0.18 µg
+Folate: 60 µg

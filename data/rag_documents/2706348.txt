@@ -1,0 +1,36 @@
+Food: Crayfish, cooked
+Food ID: 2706348
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 20.22 g
+Carbohydrates: 0 g
+Fat: 1.2 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.201 g
+Monounsaturated fat: 0.22 g
+Polyunsaturated fat: 0.371 g
+Cholesterol: 144 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 382 mg
+Calcium: 34 mg
+Iron: 1.06 mg
+Magnesium: 34 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 3.61 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 2.15 µg
+Folate: 35 µg

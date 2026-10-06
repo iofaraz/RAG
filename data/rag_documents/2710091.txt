@@ -1,0 +1,36 @@
+Food: Olives, stuffed
+Food ID: 2710091
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 1.15 g
+Carbohydrates: 4.96 g
+Fat: 12.9 g
+Fiber: 4 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.3 g
+Monounsaturated fat: 8.86 g
+Polyunsaturated fat: 0.661 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1620 mg
+Potassium: 43 mg
+Calcium: 121 mg
+Iron: 0.31 mg
+Magnesium: 12 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.78 mg
+Vitamin K: 16.6 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

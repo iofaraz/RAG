@@ -1,0 +1,37 @@
+Food: Candies, MARS SNACKFOOD US, MILKY WAY Midnight Bar
+Food ID: 167701
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 443 kcal
+Protein: 3.2 g
+Carbohydrates: 71.22 g
+Fat: 17.5 g
+Fiber: 2.9 g
+Sugar: 57.81 g
+
+Fats:
+Saturated fat: 11.474 g
+Monounsaturated fat: 4.639 g
+Polyunsaturated fat: 0.514 g
+Trans fat: 0.176 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 168 mg
+Potassium: 196 mg
+Calcium: 53 mg
+Iron: 1.2 mg
+Magnesium: 58 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.04 µg
+Folate: 7 µg

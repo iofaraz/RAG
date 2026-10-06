@@ -1,0 +1,36 @@
+Food: Egg, whole, fried with oil
+Food ID: 2707158
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 11.56 g
+Carbohydrates: 0.9 g
+Fat: 15.81 g
+Fiber: 0 g
+Sugar: 0.19 g
+
+Fats:
+Saturated fat: 3.854 g
+Monounsaturated fat: 6.148 g
+Polyunsaturated fat: 4.202 g
+Cholesterol: 383 mg
+
+Minerals:
+Sodium: 228 mg
+Potassium: 123 mg
+Calcium: 45 mg
+Iron: 1.57 mg
+Magnesium: 10 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 168 µg
+Vitamin C: 0 mg
+Vitamin D: 2.3 µg
+Vitamin E: 2.22 mg
+Vitamin K: 6.8 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.76 µg
+Folate: 50 µg

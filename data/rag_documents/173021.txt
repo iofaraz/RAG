@@ -1,0 +1,37 @@
+Food: Figs, raw
+Food ID: 173021
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 0.75 g
+Carbohydrates: 19.18 g
+Fat: 0.3 g
+Fiber: 2.9 g
+Sugar: 16.26 g
+
+Fats:
+Saturated fat: 0.06 g
+Monounsaturated fat: 0.066 g
+Polyunsaturated fat: 0.144 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 232 mg
+Calcium: 35 mg
+Iron: 0.37 mg
+Magnesium: 17 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

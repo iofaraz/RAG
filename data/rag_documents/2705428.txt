@@ -1,0 +1,36 @@
+Food: Yogurt, nonfat milk, fruit
+Food ID: 2705428
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 3.64 g
+Carbohydrates: 7.64 g
+Fat: 0.08 g
+Fiber: 0 g
+Sugar: 7.09 g
+
+Fats:
+Saturated fat: 0.1 g
+Monounsaturated fat: 0.043 g
+Polyunsaturated fat: 0.004 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 181 mg
+Calcium: 144 mg
+Iron: 0 mg
+Magnesium: 13 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.9 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.52 µg
+Folate: 10 µg

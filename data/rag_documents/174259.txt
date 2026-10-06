@@ -1,0 +1,34 @@
+Food: Mungo beans, mature seeds, raw
+Food ID: 174259
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 25.21 g
+Carbohydrates: 58.99 g
+Fat: 1.64 g
+Fiber: 18.3 g
+
+Fats:
+Saturated fat: 0.114 g
+Monounsaturated fat: 0.085 g
+Polyunsaturated fat: 1.071 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 983 mg
+Calcium: 138 mg
+Iron: 7.57 mg
+Magnesium: 267 mg
+Zinc: 3.35 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.281 mg
+Vitamin B12: 0 µg
+Folate: 216 µg

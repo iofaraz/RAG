@@ -1,0 +1,36 @@
+Food: Coffee, decaffeinated, pre-lightened and pre-sweetened with sugar
+Food ID: 2710461
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.14 g
+Carbohydrates: 5.11 g
+Fat: 0.69 g
+Fiber: 0 g
+Sugar: 3.45 g
+
+Fats:
+Saturated fat: 0.397 g
+Monounsaturated fat: 0.203 g
+Polyunsaturated fat: 0.009 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 42 mg
+Calcium: 4 mg
+Iron: 0.04 mg
+Magnesium: 3 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

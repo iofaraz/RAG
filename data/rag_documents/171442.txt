@@ -1,0 +1,29 @@
+Food: Oil, flaxseed, contains added sliced flaxseed
+Food ID: 171442
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 878 kcal
+Protein: 0.37 g
+Carbohydrates: 0.39 g
+Fat: 99.01 g
+
+Fats:
+Saturated fat: 9.047 g
+Monounsaturated fat: 20.634 g
+Polyunsaturated fat: 64.876 g
+Trans fat: 0.184 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 31 mg
+Calcium: 9 mg
+Iron: 0.34 mg
+Magnesium: 15 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin E: 0.71 mg
+Vitamin K: 3.3 µg

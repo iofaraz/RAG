@@ -1,0 +1,32 @@
+Food: Fish, pompano, florida, cooked, dry heat
+Food ID: 173683
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 23.69 g
+Carbohydrates: 0 g
+Fat: 12.14 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.499 g
+Monounsaturated fat: 3.315 g
+Polyunsaturated fat: 1.458 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 76 mg
+Potassium: 636 mg
+Calcium: 43 mg
+Iron: 0.67 mg
+Magnesium: 31 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.23 mg
+Vitamin B12: 1.2 µg
+Folate: 17 µg

@@ -1,0 +1,23 @@
+Food: Rice, white, steamed, Chinese restaurant
+Food ID: 169712
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 3.2 g
+Carbohydrates: 33.88 g
+Fat: 0.27 g
+Fiber: 0.9 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 20 mg
+Calcium: 5 mg
+Iron: 0.39 mg
+Magnesium: 5 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin B6: 0.022 mg
+Folate: 5 µg

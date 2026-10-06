@@ -1,0 +1,36 @@
+Food: Cheese, cream, low fat
+Food ID: 169079
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 7.85 g
+Carbohydrates: 6.73 g
+Fat: 16.67 g
+Fiber: 0 g
+Sugar: 3.3 g
+
+Fats:
+Saturated fat: 10 g
+Monounsaturated fat: 3.996 g
+Polyunsaturated fat: 0.575 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 247 mg
+Calcium: 148 mg
+Iron: 0.17 mg
+Magnesium: 8 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 161 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.27 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.92 µg
+Folate: 19 µg

@@ -1,0 +1,36 @@
+Food: Egg omelet or scrambled egg, with tomatoes and dark-green vegetables, fat added
+Food ID: 2707235
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 10.34 g
+Carbohydrates: 1.44 g
+Fat: 13.11 g
+Fiber: 0.2 g
+Sugar: 0.47 g
+
+Fats:
+Saturated fat: 3.904 g
+Monounsaturated fat: 4.713 g
+Polyunsaturated fat: 2.919 g
+Cholesterol: 337 mg
+
+Minerals:
+Sodium: 222 mg
+Potassium: 155 mg
+Calcium: 45 mg
+Iron: 1.45 mg
+Magnesium: 15 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 187 µg
+Vitamin C: 3.5 mg
+Vitamin D: 2.1 µg
+Vitamin E: 1.75 mg
+Vitamin K: 31.8 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.66 µg
+Folate: 49 µg

@@ -1,0 +1,22 @@
+Food: Kiwifruit (kiwi), green, peeled, raw
+Food ID: 2710831
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.00812 g
+Carbohydrates: 13.8181 g
+Fat: 0.64 g
+Fiber: 2.129 g
+
+Minerals:
+Sodium: 2.275 mg
+Potassium: 301.5 mg
+Calcium: 24.38 mg
+Iron: 0.03663 mg
+Magnesium: 14.79 mg
+Zinc: 0.4547 mg
+
+Vitamins:
+Vitamin C: 58.78 mg
+Folate: 32.85 µg

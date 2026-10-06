@@ -1,0 +1,31 @@
+Food: Pie crust, refrigerated, regular, unbaked
+Food ID: 167932
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 445 kcal
+Protein: 2.97 g
+Carbohydrates: 51.11 g
+Fat: 25.46 g
+Fiber: 1.8 g
+
+Fats:
+Saturated fat: 9.596 g
+Monounsaturated fat: 10.206 g
+Polyunsaturated fat: 3.292 g
+
+Minerals:
+Sodium: 409 mg
+Potassium: 73 mg
+Calcium: 10 mg
+Iron: 1.02 mg
+Magnesium: 8 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin E: 0.05 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

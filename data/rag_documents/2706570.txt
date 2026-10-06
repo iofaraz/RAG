@@ -1,0 +1,36 @@
+Food: Tuna noodle casserole with cream or white sauce
+Food ID: 2706570
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 168 kcal
+Protein: 10.12 g
+Carbohydrates: 15.41 g
+Fat: 7.3 g
+Fiber: 0.7 g
+Sugar: 2.16 g
+
+Fats:
+Saturated fat: 3.262 g
+Monounsaturated fat: 1.692 g
+Polyunsaturated fat: 0.947 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 249 mg
+Potassium: 141 mg
+Calcium: 64 mg
+Iron: 1.44 mg
+Magnesium: 22 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 79 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.47 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.195 mg
+Vitamin B12: 1.08 µg
+Folate: 36 µg

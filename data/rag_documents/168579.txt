@@ -1,0 +1,31 @@
+Food: Peppers, pasilla, dried
+Food ID: 168579
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 345 kcal
+Protein: 12.35 g
+Carbohydrates: 51.13 g
+Fat: 15.85 g
+Fiber: 26.8 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 89 mg
+Potassium: 2222 mg
+Calcium: 97 mg
+Iron: 9.83 mg
+Magnesium: 130 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 1788 µg
+Vitamin C: 6.4 mg
+Vitamin D: 0 µg
+Vitamin B6: 4.228 mg
+Vitamin B12: 0 µg
+Folate: 170 µg

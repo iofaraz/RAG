@@ -1,0 +1,29 @@
+Food: KFC, Fried Chicken, EXTRA CRISPY, Thigh, meat only, skin and breading removed
+Food ID: 170742
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 179 kcal
+Protein: 22.41 g
+Carbohydrates: 0 g
+Fat: 9.96 g
+
+Fats:
+Saturated fat: 2.709 g
+Monounsaturated fat: 4.164 g
+Polyunsaturated fat: 2.267 g
+Trans fat: 0.057 g
+Cholesterol: 118 mg
+
+Minerals:
+Sodium: 558 mg
+Potassium: 271 mg
+Calcium: 21 mg
+Iron: 0.96 mg
+Magnesium: 22 mg
+Zinc: 1.9 mg
+
+Vitamins:
+Vitamin B6: 0.288 mg
+Vitamin B12: 0.53 µg

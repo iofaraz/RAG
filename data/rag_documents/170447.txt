@@ -1,0 +1,32 @@
+Food: Potatoes, au gratin, dry mix, unprepared
+Food ID: 170447
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 314 kcal
+Protein: 8.9 g
+Carbohydrates: 74.31 g
+Fat: 3.7 g
+Fiber: 4.1 g
+
+Fats:
+Saturated fat: 2.323 g
+Monounsaturated fat: 1.055 g
+Polyunsaturated fat: 0.121 g
+
+Minerals:
+Sodium: 2095 mg
+Potassium: 990 mg
+Calcium: 311 mg
+Iron: 1.63 mg
+Magnesium: 64 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 15.5 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg
+Folate: 40 µg

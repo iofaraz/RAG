@@ -1,0 +1,36 @@
+Food: Chicken, NS as to part, grilled with sauce, NS as to skin eaten
+Food ID: 2705944
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 21.98 g
+Carbohydrates: 7.31 g
+Fat: 6.36 g
+Fiber: 0.2 g
+Sugar: 5.96 g
+
+Fats:
+Saturated fat: 1.366 g
+Monounsaturated fat: 2.376 g
+Polyunsaturated fat: 1.605 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 527 mg
+Potassium: 290 mg
+Calcium: 13 mg
+Iron: 0.75 mg
+Magnesium: 23 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.89 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.537 mg
+Vitamin B12: 0.23 µg
+Folate: 5 µg

@@ -1,0 +1,36 @@
+Food: Babyfood, dessert, dutch apple, junior
+Food ID: 170977
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 0.2 g
+Carbohydrates: 19.18 g
+Fat: 0.16 g
+Fiber: 1.4 g
+Sugar: 17.89 g
+
+Fats:
+Saturated fat: 0.025 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.045 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 67 mg
+Calcium: 3 mg
+Iron: 0.11 mg
+Magnesium: 4 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 18 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

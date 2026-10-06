@@ -1,0 +1,37 @@
+Food: Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar, Caramel Nut Rush
+Food ID: 174786
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 415 kcal
+Protein: 25 g
+Carbohydrates: 50.5 g
+Fat: 12.5 g
+Fiber: 12.5 g
+Sugar: 28.75 g
+
+Fats:
+Saturated fat: 6.25 g
+Monounsaturated fat: 2.645 g
+Polyunsaturated fat: 2.892 g
+Trans fat: 0 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 238 mg
+Potassium: 188 mg
+Calcium: 625 mg
+Iron: 10.13 mg
+Magnesium: 175 mg
+Zinc: 6.56 mg
+
+Vitamins:
+Vitamin A: 652 µg
+Vitamin C: 75 mg
+Vitamin D: 3.8 µg
+Vitamin E: 16.88 mg
+Vitamin K: 10.4 µg
+Vitamin B6: 2.5 mg
+Vitamin B12: 7.5 µg
+Folate: 500 µg

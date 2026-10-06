@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, SKITTLES Tropical Bite Size Candies
+Food ID: 169667
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 405 kcal
+Protein: 0.19 g
+Carbohydrates: 90.77 g
+Fat: 4.34 g
+Fiber: 0 g
+Sugar: 75.76 g
+
+Fats:
+Trans fat: 0.074 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Calcium: 0 mg
+Iron: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 67.1 mg

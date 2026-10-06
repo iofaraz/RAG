@@ -1,0 +1,36 @@
+Food: Garlic bread, with melted cheese, from frozen
+Food ID: 2707632
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 343 kcal
+Protein: 10.36 g
+Carbohydrates: 36.86 g
+Fat: 17.1 g
+Fiber: 2.2 g
+Sugar: 3.44 g
+
+Fats:
+Saturated fat: 6.118 g
+Monounsaturated fat: 4.667 g
+Polyunsaturated fat: 4.825 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 564 mg
+Potassium: 105 mg
+Calcium: 114 mg
+Iron: 2.68 mg
+Magnesium: 24 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.09 mg
+Vitamin K: 25.8 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.27 µg
+Folate: 149 µg

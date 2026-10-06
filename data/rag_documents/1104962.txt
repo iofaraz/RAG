@@ -1,0 +1,19 @@
+Food: Onions, white, raw
+Food ID: 1104962
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 0.89 g
+Carbohydrates: 7.68 g
+Fat: 0.13 g
+Fiber: 1.2 g
+
+Minerals:
+Sodium: 2 mg
+Potassium: 141 mg
+Calcium: 21 mg
+Iron: 0.15 mg
+Magnesium: 9.3 mg
+Zinc: 0.12 mg

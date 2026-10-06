@@ -1,0 +1,20 @@
+Food: Chicken, wing, meat and skin, raw
+Food ID: 2727568
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 18.4062 g
+Carbohydrates: 0 g
+Fat: 10.64 g
+
+Fats:
+Cholesterol: 98.88 mg
+
+Minerals:
+Sodium: 84.14 mg
+Potassium: 194 mg
+Calcium: 13.55 mg
+Iron: 0.5111 mg
+Magnesium: 16.53 mg
+Zinc: 1.179 mg

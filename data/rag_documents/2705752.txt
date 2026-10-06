@@ -1,0 +1,36 @@
+Food: Cheese, cottage, with vegetables
+Food ID: 2705752
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 9.78 g
+Carbohydrates: 5.63 g
+Fat: 1.98 g
+Fiber: 0.7 g
+Sugar: 3.95 g
+
+Fats:
+Saturated fat: 1.076 g
+Monounsaturated fat: 0.4 g
+Polyunsaturated fat: 0.072 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 278 mg
+Potassium: 127 mg
+Calcium: 91 mg
+Iron: 0.23 mg
+Magnesium: 11 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 91 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.36 µg
+Folate: 11 µg

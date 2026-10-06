@@ -1,0 +1,37 @@
+Food: Veal, seam fat only, cooked
+Food ID: 172647
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 505 kcal
+Protein: 11.16 g
+Carbohydrates: 2.11 g
+Fat: 50.17 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 16.316 g
+Monounsaturated fat: 20.589 g
+Polyunsaturated fat: 2.972 g
+Trans fat: 1.671 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 87 mg
+Potassium: 155 mg
+Calcium: 43 mg
+Iron: 1.15 mg
+Magnesium: 24 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 4.5 µg
+Vitamin E: 0.52 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.203 mg
+Vitamin B12: 1.62 µg
+Folate: 0 µg

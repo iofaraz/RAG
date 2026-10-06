@@ -1,0 +1,37 @@
+Food: Nopales, cooked, without salt
+Food ID: 169388
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 15 kcal
+Protein: 1.35 g
+Carbohydrates: 3.28 g
+Fat: 0.05 g
+Fiber: 2 g
+Sugar: 1.12 g
+
+Fats:
+Saturated fat: 0.006 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.021 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 195 mg
+Calcium: 164 mg
+Iron: 0.5 mg
+Magnesium: 47 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 5.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

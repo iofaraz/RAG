@@ -1,0 +1,36 @@
+Food: Green peas, fresh, cooked with butter or margarine
+Food ID: 2709967
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 5.48 g
+Carbohydrates: 14.58 g
+Fat: 2.68 g
+Fiber: 5.7 g
+Sugar: 5.73 g
+
+Fats:
+Saturated fat: 1.055 g
+Monounsaturated fat: 0.635 g
+Polyunsaturated fat: 0.548 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 140 mg
+Potassium: 247 mg
+Calcium: 26 mg
+Iron: 1.48 mg
+Magnesium: 33 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 34.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.35 mg
+Vitamin K: 26.3 µg
+Vitamin B6: 0.187 mg
+Vitamin B12: 0 µg
+Folate: 56 µg

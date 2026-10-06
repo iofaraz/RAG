@@ -1,0 +1,36 @@
+Food: Cream cheese, light
+Food ID: 2705762
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 264 kcal
+Protein: 9.09 g
+Carbohydrates: 5.59 g
+Fat: 22.66 g
+Fiber: 0 g
+Sugar: 4.33 g
+
+Fats:
+Saturated fat: 13.348 g
+Monounsaturated fat: 4.697 g
+Polyunsaturated fat: 1.008 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 479 mg
+Potassium: 176 mg
+Calcium: 182 mg
+Iron: 0.06 mg
+Magnesium: 13 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 186 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.58 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.32 µg
+Folate: 18 µg

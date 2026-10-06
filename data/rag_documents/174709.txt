@@ -1,0 +1,36 @@
+Food: Beef, top loin petite roast, boneless, separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+Food ID: 174709
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 26.8 g
+Carbohydrates: 1.1 g
+Fat: 14.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.824 g
+Monounsaturated fat: 6.388 g
+Polyunsaturated fat: 0.506 g
+Trans fat: 0.757 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 375 mg
+Calcium: 7 mg
+Iron: 3.29 mg
+Magnesium: 27 mg
+Zinc: 10.39 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.408 mg
+Vitamin B12: 3.77 µg
+Folate: 7 µg

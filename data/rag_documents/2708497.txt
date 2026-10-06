@@ -1,0 +1,36 @@
+Food: Baby Toddler cereal, oatmeal with fruit, dry
+Food ID: 2708497
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 392 kcal
+Protein: 10.64 g
+Carbohydrates: 74.22 g
+Fat: 6.13 g
+Fiber: 7.4 g
+Sugar: 13.45 g
+
+Fats:
+Saturated fat: 0.834 g
+Monounsaturated fat: 1.493 g
+Polyunsaturated fat: 1.677 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 596 mg
+Calcium: 1103 mg
+Iron: 60.95 mg
+Magnesium: 110 mg
+Zinc: 12.08 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 55.7 mg
+Vitamin D: 12.1 µg
+Vitamin E: 11.64 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.832 mg
+Vitamin B12: 0.76 µg
+Folate: 235 µg

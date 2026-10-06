@@ -1,0 +1,35 @@
+Food: Beef, round, bottom round, roast, separable lean only, trimmed to 1/8" fat, all grades, raw
+Food ID: 174046
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 22.19 g
+Carbohydrates: 0 g
+Fat: 4.31 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.476 g
+Monounsaturated fat: 1.816 g
+Polyunsaturated fat: 0.185 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 350 mg
+Calcium: 20 mg
+Iron: 1.92 mg
+Magnesium: 24 mg
+Zinc: 4.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.29 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.656 mg
+Vitamin B12: 1.57 µg
+Folate: 13 µg

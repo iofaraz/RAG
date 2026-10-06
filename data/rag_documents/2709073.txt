@@ -1,0 +1,36 @@
+Food: Stuffed pepper, with rice and meat
+Food ID: 2709073
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 178 kcal
+Protein: 7.83 g
+Carbohydrates: 9.93 g
+Fat: 11.66 g
+Fiber: 0.7 g
+Sugar: 2.22 g
+
+Fats:
+Saturated fat: 3.493 g
+Monounsaturated fat: 4.408 g
+Polyunsaturated fat: 2.486 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 320 mg
+Potassium: 174 mg
+Calcium: 68 mg
+Iron: 0.93 mg
+Magnesium: 14 mg
+Zinc: 1.54 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 34.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.54 mg
+Vitamin K: 10.1 µg
+Vitamin B6: 0.185 mg
+Vitamin B12: 0.52 µg
+Folate: 23 µg

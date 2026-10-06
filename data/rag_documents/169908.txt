@@ -1,0 +1,33 @@
+Food: Loquats, raw
+Food ID: 169908
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 0.43 g
+Carbohydrates: 12.14 g
+Fat: 0.2 g
+Fiber: 1.7 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.091 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 266 mg
+Calcium: 16 mg
+Iron: 0.28 mg
+Magnesium: 13 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 1 mg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

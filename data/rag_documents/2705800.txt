@@ -1,0 +1,36 @@
+Food: Cheese sandwich, reduced fat cheese, on wheat bread
+Food ID: 2705800
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 254 kcal
+Protein: 13.95 g
+Carbohydrates: 31.08 g
+Fat: 8.14 g
+Fiber: 3.2 g
+Sugar: 6.36 g
+
+Fats:
+Saturated fat: 4.068 g
+Monounsaturated fat: 2.084 g
+Polyunsaturated fat: 1.09 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 753 mg
+Potassium: 247 mg
+Calcium: 313 mg
+Iron: 1.94 mg
+Magnesium: 47 mg
+Zinc: 1.77 mg
+
+Vitamins:
+Vitamin A: 103 µg
+Vitamin C: 0.1 mg
+Vitamin D: 2.2 µg
+Vitamin E: 0.32 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.127 mg
+Vitamin B12: 0.46 µg
+Folate: 50 µg

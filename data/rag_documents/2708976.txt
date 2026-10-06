@@ -1,0 +1,36 @@
+Food: Stewed rice, Puerto Rican style
+Food ID: 2708976
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 224 kcal
+Protein: 3.96 g
+Carbohydrates: 33.43 g
+Fat: 7.8 g
+Fiber: 0.7 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 1.648 g
+Monounsaturated fat: 3.467 g
+Polyunsaturated fat: 2.221 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 654 mg
+Potassium: 81 mg
+Calcium: 17 mg
+Iron: 1.79 mg
+Magnesium: 13 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.1 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.089 mg
+Vitamin B12: 0.02 µg
+Folate: 68 µg

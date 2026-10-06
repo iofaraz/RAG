@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, Intermuscular fat, cooked
+Food ID: 172609
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 596 kcal
+Protein: 8.53 g
+Carbohydrates: 0 g
+Fat: 62.44 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 26.327 g
+Monounsaturated fat: 17.839 g
+Polyunsaturated fat: 2.114 g
+Trans fat: 3.611 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 198 mg
+Calcium: 6 mg
+Iron: 1.39 mg
+Magnesium: 12 mg
+Zinc: 1.77 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.94 mg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.7 µg

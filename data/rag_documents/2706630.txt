@@ -1,0 +1,36 @@
+Food: Pot pie, beef
+Food ID: 2706630
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 8.92 g
+Carbohydrates: 23.95 g
+Fat: 15.37 g
+Fiber: 2 g
+Sugar: 3.33 g
+
+Fats:
+Saturated fat: 5.454 g
+Monounsaturated fat: 6.716 g
+Polyunsaturated fat: 1.652 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 374 mg
+Potassium: 173 mg
+Calcium: 41 mg
+Iron: 1.71 mg
+Magnesium: 16 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 121 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.46 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0.6 µg
+Folate: 36 µg

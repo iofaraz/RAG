@@ -1,0 +1,36 @@
+Food: Lambsquarter, cooked
+Food ID: 2709605
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 3.11 g
+Carbohydrates: 4.85 g
+Fat: 3.22 g
+Fiber: 2 g
+Sugar: 0.6 g
+
+Fats:
+Saturated fat: 0.716 g
+Monounsaturated fat: 1.03 g
+Polyunsaturated fat: 1.027 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 149 mg
+Potassium: 279 mg
+Calcium: 250 mg
+Iron: 0.68 mg
+Magnesium: 22 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 390 µg
+Vitamin C: 35.8 mg
+Vitamin D: 0 µg
+Vitamin E: 2.17 mg
+Vitamin K: 480.5 µg
+Vitamin B6: 0.185 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

@@ -1,0 +1,37 @@
+Food: Garlic bread, frozen
+Food ID: 167939
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 350 kcal
+Protein: 8.36 g
+Carbohydrates: 41.72 g
+Fat: 16.61 g
+Fiber: 2.5 g
+Sugar: 3.69 g
+
+Fats:
+Saturated fat: 5.281 g
+Monounsaturated fat: 4.669 g
+Polyunsaturated fat: 5.437 g
+Trans fat: 0.24 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 544 mg
+Potassium: 103 mg
+Calcium: 27 mg
+Iron: 3.05 mg
+Magnesium: 23 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.18 mg
+Vitamin K: 29.5 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.08 µg
+Folate: 186 µg

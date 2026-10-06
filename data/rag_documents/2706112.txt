@@ -1,0 +1,36 @@
+Food: Turkey, dark meat, roasted, skin eaten
+Food ID: 2706112
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 26.46 g
+Carbohydrates: 0.05 g
+Fat: 10.16 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.978 g
+Monounsaturated fat: 3.663 g
+Polyunsaturated fat: 2.921 g
+Cholesterol: 125 mg
+
+Minerals:
+Sodium: 461 mg
+Potassium: 227 mg
+Calcium: 17 mg
+Iron: 1.31 mg
+Magnesium: 26 mg
+Zinc: 3.26 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.421 mg
+Vitamin B12: 1.64 µg
+Folate: 9 µg

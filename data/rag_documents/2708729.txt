@@ -1,0 +1,36 @@
+Food: Spanakopita
+Food ID: 2708729
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 8.27 g
+Carbohydrates: 10.35 g
+Fat: 15.15 g
+Fiber: 1 g
+Sugar: 0.64 g
+
+Fats:
+Saturated fat: 6.55 g
+Monounsaturated fat: 5.297 g
+Polyunsaturated fat: 1.037 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 392 mg
+Potassium: 264 mg
+Calcium: 132 mg
+Iron: 1.25 mg
+Magnesium: 48 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 233 µg
+Vitamin C: 9.4 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.75 mg
+Vitamin K: 211.4 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0.25 µg
+Folate: 58 µg

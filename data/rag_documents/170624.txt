@@ -1,0 +1,32 @@
+Food: Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 0" fat, choice, cooked, broiled
+Food ID: 170624
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 28.04 g
+Carbohydrates: 0 g
+Fat: 11.7 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.73 g
+Monounsaturated fat: 4.94 g
+Polyunsaturated fat: 0.33 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 394 mg
+Calcium: 13 mg
+Iron: 2.57 mg
+Magnesium: 27 mg
+Zinc: 6.99 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.4 mg
+Vitamin B12: 3.32 µg
+Folate: 8 µg

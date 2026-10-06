@@ -1,0 +1,18 @@
+Food: Tomatoes, canned, red, ripe, diced
+Food ID: 333281
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 18 kcal
+Protein: 0.84 g
+Carbohydrates: 3.32 g
+Fat: 0.5 g
+
+Minerals:
+Sodium: 125 mg
+Potassium: 198 mg
+Calcium: 30 mg
+Iron: 0.57 mg
+Magnesium: 9.8 mg
+Zinc: 0.12 mg

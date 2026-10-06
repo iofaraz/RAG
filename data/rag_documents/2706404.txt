@@ -1,0 +1,36 @@
+Food: Ham or pork with tomato-based sauce
+Food ID: 2706404
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 20.3 g
+Carbohydrates: 1.59 g
+Fat: 6.8 g
+Fiber: 0.4 g
+Sugar: 1.06 g
+
+Fats:
+Saturated fat: 2.458 g
+Monounsaturated fat: 3.024 g
+Polyunsaturated fat: 0.566 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 352 mg
+Potassium: 385 mg
+Calcium: 17 mg
+Iron: 1.05 mg
+Magnesium: 24 mg
+Zinc: 1.83 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 2.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.57 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.413 mg
+Vitamin B12: 0.51 µg
+Folate: 3 µg

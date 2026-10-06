@@ -1,0 +1,36 @@
+Food: Fish, pickled
+Food ID: 2706262
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 262 kcal
+Protein: 14.19 g
+Carbohydrates: 9.64 g
+Fat: 18 g
+Fiber: 0 g
+Sugar: 7.71 g
+
+Fats:
+Saturated fat: 2.381 g
+Monounsaturated fat: 11.947 g
+Polyunsaturated fat: 1.679 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 870 mg
+Potassium: 69 mg
+Calcium: 77 mg
+Iron: 1.22 mg
+Magnesium: 8 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 258 µg
+Vitamin C: 0 mg
+Vitamin D: 2.8 µg
+Vitamin E: 1.71 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 4.27 µg
+Folate: 2 µg

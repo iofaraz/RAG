@@ -1,0 +1,36 @@
+Food: Cream of rice
+Food ID: 2708415
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 1.17 g
+Carbohydrates: 15.28 g
+Fat: 0.09 g
+Fiber: 0.1 g
+Sugar: 0.06 g
+
+Fats:
+Saturated fat: 0.025 g
+Monounsaturated fat: 0.029 g
+Polyunsaturated fat: 0.025 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 25 mg
+Calcium: 4 mg
+Iron: 5.01 mg
+Magnesium: 5 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.033 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

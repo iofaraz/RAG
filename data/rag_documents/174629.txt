@@ -1,0 +1,34 @@
+Food: Cereals, QUAKER, hominy grits, white, quick, dry
+Food ID: 174629
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 348 kcal
+Protein: 8.8 g
+Carbohydrates: 79.6 g
+Fat: 1.2 g
+Fiber: 4.8 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 0.16 g
+Monounsaturated fat: 0.29 g
+Polyunsaturated fat: 0.51 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 137 mg
+Calcium: 2 mg
+Iron: 4.42 mg
+Magnesium: 27 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.12 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg
+Folate: 205 µg

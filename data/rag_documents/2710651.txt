@@ -1,0 +1,36 @@
+Food: Seabreeze
+Food ID: 2710651
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 0.21 g
+Carbohydrates: 8.23 g
+Fat: 0.22 g
+Fiber: 0.1 g
+Sugar: 7.26 g
+
+Fats:
+Saturated fat: 0.034 g
+Monounsaturated fat: 0.042 g
+Polyunsaturated fat: 0.088 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 56 mg
+Calcium: 6 mg
+Iron: 0.06 mg
+Magnesium: 4 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 27.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.004 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

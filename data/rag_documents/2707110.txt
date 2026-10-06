@@ -1,0 +1,36 @@
+Food: Chicken with rice and vegetable, diet frozen meal
+Food ID: 2707110
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 9.81 g
+Carbohydrates: 10.99 g
+Fat: 3.03 g
+Fiber: 0.8 g
+Sugar: 1.86 g
+
+Fats:
+Saturated fat: 0.607 g
+Monounsaturated fat: 0.923 g
+Polyunsaturated fat: 1.128 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 410 mg
+Potassium: 189 mg
+Calcium: 15 mg
+Iron: 0.58 mg
+Magnesium: 16 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 7.4 µg
+Vitamin B6: 0.151 mg
+Vitamin B12: 0.09 µg
+Folate: 27 µg

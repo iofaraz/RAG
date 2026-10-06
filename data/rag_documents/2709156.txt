@@ -1,0 +1,36 @@
+Food: Ramen bowl with fish
+Food ID: 2709156
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 5.78 g
+Carbohydrates: 15.4 g
+Fat: 2.87 g
+Fiber: 1 g
+Sugar: 0.44 g
+
+Fats:
+Saturated fat: 0.417 g
+Monounsaturated fat: 1.061 g
+Polyunsaturated fat: 1.089 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 94 mg
+Calcium: 15 mg
+Iron: 0.77 mg
+Magnesium: 14 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.59 mg
+Vitamin K: 14.6 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.29 µg
+Folate: 43 µg

@@ -1,0 +1,32 @@
+Food: Fish, pout, ocean, cooked, dry heat
+Food ID: 174238
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 102 kcal
+Protein: 21.33 g
+Carbohydrates: 0 g
+Fat: 1.17 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.41 g
+Monounsaturated fat: 0.422 g
+Polyunsaturated fat: 0.041 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 513 mg
+Calcium: 13 mg
+Iron: 0.36 mg
+Magnesium: 17 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.277 mg
+Vitamin B12: 1.04 µg
+Folate: 8 µg

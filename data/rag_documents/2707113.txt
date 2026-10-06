@@ -1,0 +1,36 @@
+Food: Chicken with noodles and cheese sauce, diet frozen meal
+Food ID: 2707113
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 10.07 g
+Carbohydrates: 11.66 g
+Fat: 2.86 g
+Fiber: 0.7 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 0.558 g
+Monounsaturated fat: 1.078 g
+Polyunsaturated fat: 0.803 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 171 mg
+Potassium: 97 mg
+Calcium: 10 mg
+Iron: 0.6 mg
+Magnesium: 14 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.08 µg
+Folate: 28 µg

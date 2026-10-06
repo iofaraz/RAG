@@ -1,0 +1,32 @@
+Food: Turkey thigh, pre-basted, meat and skin, cooked, roasted
+Food ID: 171502
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 18.8 g
+Carbohydrates: 0 g
+Fat: 8.54 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.65 g
+Monounsaturated fat: 2.53 g
+Polyunsaturated fat: 2.35 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 437 mg
+Potassium: 241 mg
+Calcium: 8 mg
+Iron: 1.51 mg
+Magnesium: 17 mg
+Zinc: 4.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.23 mg
+Vitamin B12: 0.24 µg
+Folate: 6 µg

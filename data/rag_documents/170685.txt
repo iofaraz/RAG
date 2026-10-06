@@ -1,0 +1,33 @@
+Food: Buckwheat groats, roasted, dry
+Food ID: 170685
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 346 kcal
+Protein: 11.73 g
+Carbohydrates: 74.95 g
+Fat: 2.71 g
+Fiber: 10.3 g
+
+Fats:
+Saturated fat: 0.591 g
+Monounsaturated fat: 0.828 g
+Polyunsaturated fat: 0.828 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 320 mg
+Calcium: 17 mg
+Iron: 2.47 mg
+Magnesium: 221 mg
+Zinc: 2.42 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.353 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

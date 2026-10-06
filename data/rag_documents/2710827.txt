@@ -1,0 +1,21 @@
+Food: Einkorn, grain, dry, raw
+Food ID: 2710827
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 15.1172 g
+Carbohydrates: 68.6538 g
+Fat: 3.811 g
+Fiber: 8.913 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 431.8 mg
+Calcium: 41.41 mg
+Iron: 3.69 mg
+Magnesium: 140.4 mg
+Zinc: 5.231 mg
+
+Vitamins:
+Vitamin B6: 0.264 mg

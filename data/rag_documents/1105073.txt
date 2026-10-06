@@ -1,0 +1,18 @@
+Food: Bananas, overripe, raw
+Food ID: 1105073
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 0.73 g
+Carbohydrates: 20.1 g
+Fat: 0.22 g
+Fiber: 1.7 g
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 9.7 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.234 mg
+Folate: 25 µg

@@ -1,0 +1,36 @@
+Food: Baby Toddler fruit and vegetables, with yogurt
+Food ID: 2709360
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 2.1 g
+Carbohydrates: 11.29 g
+Fat: 1.84 g
+Fiber: 1 g
+Sugar: 6.55 g
+
+Fats:
+Saturated fat: 0.917 g
+Monounsaturated fat: 0.351 g
+Polyunsaturated fat: 0.074 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 178 mg
+Calcium: 57 mg
+Iron: 0.23 mg
+Magnesium: 13 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 11 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.29 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.14 µg
+Folate: 12 µg

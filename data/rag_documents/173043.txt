@@ -1,0 +1,23 @@
+Food: Groundcherries, (cape-gooseberries or poha), raw
+Food ID: 173043
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 1.9 g
+Carbohydrates: 11.2 g
+Fat: 0.7 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Calcium: 9 mg
+Iron: 1 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 11 mg
+Vitamin B12: 0 µg

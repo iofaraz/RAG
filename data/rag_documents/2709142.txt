@@ -1,0 +1,36 @@
+Food: Spaghetti with meat sauce, diet frozen meal
+Food ID: 2709142
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 5.58 g
+Carbohydrates: 15.06 g
+Fat: 3.39 g
+Fiber: 1.5 g
+Sugar: 2.88 g
+
+Fats:
+Saturated fat: 1.008 g
+Monounsaturated fat: 1.403 g
+Polyunsaturated fat: 0.545 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 295 mg
+Potassium: 179 mg
+Calcium: 23 mg
+Iron: 0.93 mg
+Magnesium: 16 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 6.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 6.6 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0.28 µg
+Folate: 36 µg

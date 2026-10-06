@@ -1,0 +1,36 @@
+Food: Crackers, sandwich, peanut butter filled (Ritz)
+Food ID: 2708173
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 482 kcal
+Protein: 7.5 g
+Carbohydrates: 57.14 g
+Fat: 25 g
+Fiber: 2.5 g
+Sugar: 10 g
+
+Fats:
+Saturated fat: 5.06 g
+Monounsaturated fat: 10.8 g
+Polyunsaturated fat: 7.45 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 575 mg
+Potassium: 110 mg
+Calcium: 0 mg
+Iron: 2.7 mg
+Magnesium: 27 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.29 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0 µg
+Folate: 100 µg

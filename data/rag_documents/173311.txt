@@ -1,0 +1,33 @@
+Food: McDONALD'S, Hotcakes (with 2 pats margarine & syrup)
+Food ID: 173311
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 4.05 g
+Carbohydrates: 46.08 g
+Fat: 8.06 g
+Fiber: 0.9 g
+Sugar: 20.58 g
+
+Fats:
+Saturated fat: 0.818 g
+Monounsaturated fat: 0.863 g
+Polyunsaturated fat: 2.087 g
+Trans fat: 1.788 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 283 mg
+Potassium: 125 mg
+Calcium: 57 mg
+Iron: 1.28 mg
+Magnesium: 13 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.01 µg
+Folate: 65 µg

@@ -1,0 +1,32 @@
+Food: Soup, cream of onion, canned, prepared with equal volume water
+Food ID: 174559
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 1.13 g
+Carbohydrates: 5.2 g
+Fat: 2.16 g
+Fiber: 0.4 g
+
+Fats:
+Saturated fat: 0.6 g
+Monounsaturated fat: 0.86 g
+Polyunsaturated fat: 0.6 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 380 mg
+Potassium: 49 mg
+Calcium: 14 mg
+Iron: 0.26 mg
+Magnesium: 2 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0.5 mg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.02 µg
+Folate: 3 µg

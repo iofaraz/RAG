@@ -1,0 +1,32 @@
+Food: Pasta, gluten-free, corn, dry
+Food ID: 168899
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 7.46 g
+Carbohydrates: 79.26 g
+Fat: 2.08 g
+Fiber: 11 g
+
+Fats:
+Saturated fat: 0.29 g
+Monounsaturated fat: 0.543 g
+Polyunsaturated fat: 0.924 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 294 mg
+Calcium: 4 mg
+Iron: 0.93 mg
+Magnesium: 119 mg
+Zinc: 1.79 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.206 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

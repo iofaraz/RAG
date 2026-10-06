@@ -1,0 +1,31 @@
+Food: Pie, pumpkin, prepared from recipe
+Food ID: 172788
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 204 kcal
+Protein: 4.5 g
+Carbohydrates: 26.4 g
+Fat: 9.3 g
+
+Fats:
+Saturated fat: 3.171 g
+Monounsaturated fat: 3.697 g
+Polyunsaturated fat: 1.81 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 225 mg
+Potassium: 186 mg
+Calcium: 94 mg
+Iron: 1.27 mg
+Magnesium: 19 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 426 µg
+Vitamin C: 1.7 mg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.09 µg
+Folate: 21 µg

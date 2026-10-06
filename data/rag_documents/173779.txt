@@ -1,0 +1,25 @@
+Food: SILK Peach soy yogurt
+Food ID: 173779
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 2.35 g
+Carbohydrates: 18.82 g
+Fat: 1.18 g
+Fiber: 0.6 g
+Sugar: 14.71 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Calcium: 176 mg
+Iron: 0.64 mg
+
+Vitamins:
+Vitamin C: 17.6 mg

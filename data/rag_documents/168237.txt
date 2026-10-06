@@ -1,0 +1,37 @@
+Food: Pork, fresh, loin, blade (roasts), bone-in, separable lean only, cooked, roasted
+Food ID: 168237
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 25.7 g
+Carbohydrates: 0 g
+Fat: 11.89 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.934 g
+Monounsaturated fat: 4.572 g
+Polyunsaturated fat: 1.524 g
+Trans fat: 0.071 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 337 mg
+Calcium: 27 mg
+Iron: 0.85 mg
+Magnesium: 19 mg
+Zinc: 3.41 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.46 mg
+Vitamin B12: 0.8 µg
+Folate: 0 µg

@@ -1,0 +1,26 @@
+Food: Glutino, Gluten Free Cookies, Vanilla Creme
+Food ID: 167593
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 487 kcal
+Protein: 2.19 g
+Carbohydrates: 77.34 g
+Fat: 18.79 g
+Fiber: 0 g
+Sugar: 49.43 g
+
+Fats:
+Saturated fat: 8.094 g
+Monounsaturated fat: 6.253 g
+Polyunsaturated fat: 1.917 g
+Trans fat: 0.079 g
+
+Minerals:
+Sodium: 189 mg
+Potassium: 67 mg
+Calcium: 11 mg
+Iron: 0.23 mg
+Magnesium: 9 mg
+Zinc: 0.18 mg

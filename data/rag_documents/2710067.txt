@@ -1,0 +1,36 @@
+Food: Vegetable curry
+Food ID: 2710067
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 1.6 g
+Carbohydrates: 8.81 g
+Fat: 5.27 g
+Fiber: 1.8 g
+Sugar: 3.18 g
+
+Fats:
+Saturated fat: 1.256 g
+Monounsaturated fat: 1.893 g
+Polyunsaturated fat: 1.732 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 388 mg
+Potassium: 286 mg
+Calcium: 21 mg
+Iron: 0.68 mg
+Magnesium: 16 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 12.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.41 mg
+Vitamin K: 10.4 µg
+Vitamin B6: 0.137 mg
+Vitamin B12: 0.01 µg
+Folate: 19 µg

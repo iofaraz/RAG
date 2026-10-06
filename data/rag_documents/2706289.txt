@@ -1,0 +1,36 @@
+Food: Fish, salmon, fried
+Food ID: 2706289
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 307 kcal
+Protein: 17.45 g
+Carbohydrates: 11.72 g
+Fat: 20.68 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 3.562 g
+Monounsaturated fat: 7.461 g
+Polyunsaturated fat: 7.003 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 391 mg
+Potassium: 301 mg
+Calcium: 21 mg
+Iron: 1.16 mg
+Magnesium: 25 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 1.8 mg
+Vitamin D: 8.4 µg
+Vitamin E: 4.36 mg
+Vitamin K: 12.3 µg
+Vitamin B6: 0.443 mg
+Vitamin B12: 2.39 µg
+Folate: 38 µg

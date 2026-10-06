@@ -1,0 +1,33 @@
+Food: McDONALD'S, Sausage McMUFFIN
+Food ID: 173308
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 12.66 g
+Carbohydrates: 24.52 g
+Fat: 21.06 g
+Fiber: 1.4 g
+Sugar: 1.93 g
+
+Fats:
+Saturated fat: 7.253 g
+Monounsaturated fat: 7.749 g
+Polyunsaturated fat: 3.234 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 693 mg
+Potassium: 188 mg
+Calcium: 224 mg
+Iron: 2.04 mg
+Magnesium: 21 mg
+Zinc: 1.28 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.28 mg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0.45 µg
+Folate: 69 µg

@@ -1,0 +1,21 @@
+Food: Flour, sorghum
+Food ID: 2512373
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 8.27277 g
+Carbohydrates: 77.3912 g
+Fat: 3.586 g
+Fiber: 6.019 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 335.1 mg
+Calcium: 11.41 mg
+Iron: 3.721 mg
+Magnesium: 116.4 mg
+Zinc: 1.66 mg
+
+Vitamins:
+Vitamin B6: 0.1656 mg

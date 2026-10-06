@@ -1,0 +1,36 @@
+Food: Strawberry milk, whole
+Food ID: 2705496
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 3.03 g
+Carbohydrates: 11.79 g
+Fat: 2.97 g
+Fiber: 0 g
+Sugar: 11.68 g
+
+Fats:
+Saturated fat: 1.719 g
+Monounsaturated fat: 0.636 g
+Polyunsaturated fat: 0.1 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 139 mg
+Calcium: 114 mg
+Iron: 0.03 mg
+Magnesium: 11 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.057 mg
+Vitamin B12: 0.5 µg
+Folate: 0 µg

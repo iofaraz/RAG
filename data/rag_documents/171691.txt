@@ -1,0 +1,36 @@
+Food: Apples, dried, sulfured, uncooked
+Food ID: 171691
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 0.93 g
+Carbohydrates: 65.89 g
+Fat: 0.32 g
+Fiber: 8.7 g
+Sugar: 57.19 g
+
+Fats:
+Saturated fat: 0.052 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.093 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 87 mg
+Potassium: 450 mg
+Calcium: 14 mg
+Iron: 1.4 mg
+Magnesium: 16 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.125 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

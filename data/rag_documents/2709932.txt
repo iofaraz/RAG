@@ -1,0 +1,36 @@
+Food: Garlic, cooked
+Food ID: 2709932
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 6.58 g
+Carbohydrates: 28.03 g
+Fat: 0.38 g
+Fiber: 2.7 g
+Sugar: 0.99 g
+
+Fats:
+Saturated fat: 0.088 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.248 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 248 mg
+Potassium: 399 mg
+Calcium: 180 mg
+Iron: 1.69 mg
+Magnesium: 25 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 1.166 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

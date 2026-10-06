@@ -1,0 +1,36 @@
+Food: Light ice cream sandwich, vanilla
+Food ID: 2705668
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 4.93 g
+Carbohydrates: 37.26 g
+Fat: 8.15 g
+Fiber: 1 g
+Sugar: 20.08 g
+
+Fats:
+Saturated fat: 3.676 g
+Monounsaturated fat: 2.392 g
+Polyunsaturated fat: 1.398 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 209 mg
+Potassium: 204 mg
+Calcium: 119 mg
+Iron: 1.14 mg
+Magnesium: 22 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.33 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.39 µg
+Folate: 16 µg

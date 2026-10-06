@@ -1,0 +1,36 @@
+Food: Turnip, pickled
+Food ID: 2710102
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 0.75 g
+Carbohydrates: 10.19 g
+Fat: 0.1 g
+Fiber: 1.5 g
+Sugar: 8.02 g
+
+Fats:
+Saturated fat: 0.009 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.044 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1000 mg
+Potassium: 159 mg
+Calcium: 27 mg
+Iron: 0.25 mg
+Magnesium: 9 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 14.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

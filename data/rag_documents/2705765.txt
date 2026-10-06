@@ -1,0 +1,36 @@
+Food: Cheese, American, reduced fat
+Food ID: 2705765
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 17.6 g
+Carbohydrates: 10.6 g
+Fat: 14.1 g
+Fiber: 0 g
+Sugar: 8.02 g
+
+Fats:
+Saturated fat: 8.85 g
+Monounsaturated fat: 4.13 g
+Polyunsaturated fat: 0.41 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 1201 mg
+Potassium: 330 mg
+Calcium: 529 mg
+Iron: 0.2 mg
+Magnesium: 33 mg
+Zinc: 2.36 mg
+
+Vitamins:
+Vitamin A: 250 µg
+Vitamin C: 0 mg
+Vitamin D: 5.3 µg
+Vitamin E: 0.27 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 1.11 µg
+Folate: 18 µg

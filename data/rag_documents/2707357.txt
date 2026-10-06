@@ -1,0 +1,36 @@
+Food: White beans, from canned, no added fat
+Food ID: 2707357
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 168 kcal
+Protein: 10.84 g
+Carbohydrates: 30.91 g
+Fat: 0.57 g
+Fiber: 7.2 g
+Sugar: 2.07 g
+
+Fats:
+Saturated fat: 0.176 g
+Monounsaturated fat: 0.026 g
+Polyunsaturated fat: 0.237 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 345 mg
+Potassium: 516 mg
+Calcium: 78 mg
+Iron: 2.31 mg
+Magnesium: 75 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.16 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0 µg
+Folate: 113 µg

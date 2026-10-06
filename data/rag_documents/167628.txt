@@ -1,0 +1,32 @@
+Food: Cornmeal, blue (Navajo)
+Food ID: 167628
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 398 kcal
+Protein: 10.4 g
+Carbohydrates: 76.93 g
+Fat: 5.44 g
+Fiber: 8.7 g
+Sugar: 1.81 g
+
+Fats:
+Saturated fat: 0.886 g
+Monounsaturated fat: 1.679 g
+Polyunsaturated fat: 2.465 g
+
+Minerals:
+Sodium: 7 mg
+Potassium: 393 mg
+Calcium: 5 mg
+Iron: 2.91 mg
+Magnesium: 133 mg
+Zinc: 2.91 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.73 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.593 mg
+Folate: 58 µg

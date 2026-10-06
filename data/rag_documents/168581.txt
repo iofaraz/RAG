@@ -1,0 +1,31 @@
+Food: Fungi, Cloud ears, dried
+Food ID: 168581
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 284 kcal
+Protein: 9.25 g
+Carbohydrates: 73.01 g
+Fat: 0.73 g
+Fiber: 70.1 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 754 mg
+Calcium: 159 mg
+Iron: 5.88 mg
+Magnesium: 83 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

@@ -1,0 +1,26 @@
+Food: Sweet Potatoes, french fried, crosscut, frozen, unprepared
+Food ID: 168015
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 209 kcal
+Protein: 1.7 g
+Carbohydrates: 25.52 g
+Fat: 11.1 g
+Fiber: 3.4 g
+Sugar: 6.46 g
+
+Fats:
+Saturated fat: 0.93 g
+Trans fat: 0.21 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 214 mg
+Potassium: 244 mg
+Calcium: 39 mg
+Iron: 0.44 mg
+
+Vitamins:
+Vitamin C: 4.2 mg

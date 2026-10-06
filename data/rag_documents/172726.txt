@@ -1,0 +1,32 @@
+Food: Cookies, oatmeal, commercially prepared, soft-type
+Food ID: 172726
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 409 kcal
+Protein: 6.1 g
+Carbohydrates: 65.7 g
+Fat: 14.7 g
+Fiber: 2.7 g
+
+Fats:
+Saturated fat: 3.63 g
+Monounsaturated fat: 7.988 g
+Polyunsaturated fat: 2.204 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 349 mg
+Potassium: 135 mg
+Calcium: 90 mg
+Iron: 2.79 mg
+Magnesium: 30 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.01 µg
+Folate: 34 µg

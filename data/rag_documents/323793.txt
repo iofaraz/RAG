@@ -1,0 +1,24 @@
+Food: Egg, white, dried
+Food ID: 323793
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 376 kcal
+Protein: 79.9 g
+Carbohydrates: 6.02 g
+Fat: 0.65 g
+
+Fats:
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 1250 mg
+Potassium: 959 mg
+Calcium: 104 mg
+Iron: 0 mg
+Magnesium: 87.6 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin D: 0 µg

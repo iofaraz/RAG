@@ -1,0 +1,37 @@
+Food: Beef, chuck eye Country-Style ribs, boneless, separable lean and fat, trimmed to 0" fat, choice, raw
+Food ID: 170832
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 210 kcal
+Protein: 18.87 g
+Carbohydrates: 0 g
+Fat: 14.99 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.387 g
+Monounsaturated fat: 7.274 g
+Polyunsaturated fat: 0.614 g
+Trans fat: 0.906 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 76 mg
+Potassium: 302 mg
+Calcium: 15 mg
+Iron: 2.16 mg
+Magnesium: 16 mg
+Zinc: 7.02 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.337 mg
+Vitamin B12: 2.94 µg
+Folate: 3 µg

@@ -1,0 +1,36 @@
+Food: Spinach and artichoke dip
+Food ID: 2705783
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 329 kcal
+Protein: 4.21 g
+Carbohydrates: 5.07 g
+Fat: 32.76 g
+Fiber: 1.2 g
+Sugar: 1.52 g
+
+Fats:
+Saturated fat: 8.476 g
+Monounsaturated fat: 7.261 g
+Polyunsaturated fat: 15.211 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 620 mg
+Potassium: 148 mg
+Calcium: 120 mg
+Iron: 0.44 mg
+Magnesium: 22 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 151 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.74 mg
+Vitamin K: 128.2 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0.15 µg
+Folate: 32 µg

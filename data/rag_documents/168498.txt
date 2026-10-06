@@ -1,0 +1,36 @@
+Food: Lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, with salt
+Food ID: 168498
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 6.07 g
+Carbohydrates: 19.32 g
+Fat: 0.34 g
+Fiber: 5.3 g
+Sugar: 1.34 g
+
+Fats:
+Saturated fat: 0.077 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.163 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 289 mg
+Potassium: 304 mg
+Calcium: 30 mg
+Iron: 1.82 mg
+Magnesium: 42 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 12.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

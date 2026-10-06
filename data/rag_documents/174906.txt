@@ -1,0 +1,32 @@
+Food: Bread, banana, prepared from recipe, made with margarine
+Food ID: 174906
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 326 kcal
+Protein: 4.3 g
+Carbohydrates: 54.6 g
+Fat: 10.5 g
+Fiber: 1.1 g
+
+Fats:
+Saturated fat: 2.237 g
+Monounsaturated fat: 4.48 g
+Polyunsaturated fat: 3.13 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 302 mg
+Potassium: 134 mg
+Calcium: 21 mg
+Iron: 1.4 mg
+Magnesium: 14 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 106 µg
+Vitamin C: 1.7 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.1 µg
+Folate: 33 µg

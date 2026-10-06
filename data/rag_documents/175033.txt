@@ -1,0 +1,31 @@
+Food: Sweet rolls, cheese
+Food ID: 175033
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 360 kcal
+Protein: 7.1 g
+Carbohydrates: 43.7 g
+Fat: 18.3 g
+Fiber: 1.2 g
+
+Fats:
+Saturated fat: 6.059 g
+Monounsaturated fat: 9.057 g
+Polyunsaturated fat: 2.032 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 137 mg
+Calcium: 118 mg
+Iron: 0.76 mg
+Magnesium: 19 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0.3 µg
+Folate: 43 µg

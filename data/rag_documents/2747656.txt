@@ -1,0 +1,20 @@
+Food: Halibut, frozen, wild caught
+Food ID: 2747656
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 19.0625 g
+Carbohydrates: 0 g
+Fat: 0.5917 g
+
+Minerals:
+Sodium: 108.3 mg
+Potassium: 430.2 mg
+Calcium: 4.103 mg
+Iron: 0 mg
+Magnesium: 23.06 mg
+Zinc: 0.3272 mg
+
+Vitamins:
+Vitamin B12: 0.5817 µg

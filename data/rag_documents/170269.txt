@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, 98% Fat Free Chocolate
+Food ID: 170269
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 3.89 g
+Carbohydrates: 30.18 g
+Fat: 2.17 g
+Fiber: 5.8 g
+Sugar: 20.29 g
+
+Fats:
+Saturated fat: 1.38 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 75 mg
+Calcium: 126 mg
+Iron: 0.84 mg
+
+Vitamins:
+Vitamin C: 0.7 mg

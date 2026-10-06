@@ -1,0 +1,32 @@
+Food: Bratwurst, pork, beef and turkey, lite, smoked
+Food ID: 172958
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 186 kcal
+Protein: 14.45 g
+Carbohydrates: 1.62 g
+Fat: 13.53 g
+Fiber: 0 g
+Sugar: 1.57 g
+
+Fats:
+Monounsaturated fat: 7.165 g
+Polyunsaturated fat: 0.846 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 982 mg
+Potassium: 246 mg
+Calcium: 14 mg
+Iron: 0.94 mg
+Magnesium: 14 mg
+Zinc: 2.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.213 mg
+Vitamin B12: 1.6 µg
+Folate: 5 µg

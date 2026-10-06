@@ -1,0 +1,36 @@
+Food: Carrot juice, 100%
+Food ID: 2709683
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 40 kcal
+Protein: 0.95 g
+Carbohydrates: 9.28 g
+Fat: 0.15 g
+Fiber: 0.8 g
+Sugar: 3.91 g
+
+Fats:
+Saturated fat: 0.027 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.071 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 292 mg
+Calcium: 24 mg
+Iron: 0.46 mg
+Magnesium: 14 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 956 µg
+Vitamin C: 8.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.16 mg
+Vitamin K: 15.5 µg
+Vitamin B6: 0.217 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

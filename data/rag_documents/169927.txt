@@ -1,0 +1,32 @@
+Food: Papaya, canned, heavy syrup, drained
+Food ID: 169927
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 0.14 g
+Carbohydrates: 55.83 g
+Fat: 0.55 g
+Fiber: 1.5 g
+Sugar: 52.2 g
+
+Fats:
+Saturated fat: 0.268 g
+Monounsaturated fat: 0.076 g
+Polyunsaturated fat: 0.096 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 9 mg
+Potassium: 67 mg
+Calcium: 21 mg
+Iron: 0.29 mg
+Magnesium: 6 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.5 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.015 mg

@@ -1,0 +1,35 @@
+Food: Fish, salmon, coho (silver), raw (Alaska Native)
+Food ID: 167639
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 140 kcal
+Protein: 22.56 g
+Carbohydrates: 0 g
+Fat: 5.57 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.904 g
+Monounsaturated fat: 1.79 g
+Polyunsaturated fat: 2.41 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 380 mg
+Calcium: 5 mg
+Iron: 0.55 mg
+Magnesium: 28 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin E: 0.81 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 8.52 µg
+Folate: 13 µg

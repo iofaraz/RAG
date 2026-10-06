@@ -1,0 +1,33 @@
+Food: Soybeans, mature seeds, sprouted, cooked, stir-fried
+Food ID: 168461
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 13.1 g
+Carbohydrates: 9.4 g
+Fat: 7.1 g
+Fiber: 0.8 g
+
+Fats:
+Saturated fat: 0.985 g
+Monounsaturated fat: 1.609 g
+Polyunsaturated fat: 4.009 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 567 mg
+Calcium: 82 mg
+Iron: 0.4 mg
+Magnesium: 96 mg
+Zinc: 2.1 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 12 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 0 µg
+Folate: 127 µg

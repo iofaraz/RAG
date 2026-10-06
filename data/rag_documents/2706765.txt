@@ -1,0 +1,36 @@
+Food: Pork and onions with soy-based sauce
+Food ID: 2706765
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 11.06 g
+Carbohydrates: 5.43 g
+Fat: 9.14 g
+Fiber: 0.8 g
+Sugar: 2.17 g
+
+Fats:
+Saturated fat: 2.001 g
+Monounsaturated fat: 3.921 g
+Polyunsaturated fat: 2.491 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 245 mg
+Potassium: 261 mg
+Calcium: 24 mg
+Iron: 0.66 mg
+Magnesium: 19 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 3.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.18 mg
+Vitamin K: 16 µg
+Vitamin B6: 0.276 mg
+Vitamin B12: 0.26 µg
+Folate: 10 µg

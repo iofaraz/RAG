@@ -1,0 +1,36 @@
+Food: Turnover or lean pocket
+Food ID: 2708742
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 10.61 g
+Carbohydrates: 24.38 g
+Fat: 7.5 g
+Fiber: 1.4 g
+Sugar: 2.85 g
+
+Fats:
+Saturated fat: 2.117 g
+Monounsaturated fat: 2.968 g
+Polyunsaturated fat: 1.827 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 378 mg
+Potassium: 168 mg
+Calcium: 85 mg
+Iron: 1.72 mg
+Magnesium: 20 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.205 mg
+Vitamin B12: 0.08 µg
+Folate: 49 µg

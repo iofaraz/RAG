@@ -1,0 +1,36 @@
+Food: Frankfurter, beef, low fat
+Food ID: 167696
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 140 kcal
+Protein: 12 g
+Carbohydrates: 1.6 g
+Fat: 9.5 g
+Fiber: 0 g
+Sugar: 0.85 g
+
+Fats:
+Saturated fat: 1.526 g
+Monounsaturated fat: 3.806 g
+Polyunsaturated fat: 0.233 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 744 mg
+Potassium: 129 mg
+Calcium: 8 mg
+Iron: 1.15 mg
+Magnesium: 11 mg
+Zinc: 1.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 1.4 µg
+Folate: 4 µg

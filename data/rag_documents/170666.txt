@@ -1,0 +1,24 @@
+Food: Frozen novelties, KLONDIKE, SLIM-A-BEAR Vanilla Sandwich
+Food ID: 170666
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 3.9 g
+Carbohydrates: 42.75 g
+Fat: 5.85 g
+Fiber: 4.3 g
+Sugar: 21.82 g
+
+Fats:
+Saturated fat: 3.25 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 191 mg
+Calcium: 142 mg
+Iron: 0.38 mg
+
+Vitamins:
+Vitamin C: 0.7 mg

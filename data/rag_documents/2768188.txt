@@ -1,0 +1,32 @@
+Food: Alaska Pollock, raw
+Food ID: 2768188
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 17.33 g
+Carbohydrates: 0.0565 g
+Fat: 0.9925 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.2374 g
+Monounsaturated fat: 0.1477 g
+Polyunsaturated fat: 0.4577 g
+Trans fat: 0.008173 g
+Cholesterol: 59.95 mg
+
+Minerals:
+Sodium: 114.8 mg
+Potassium: 353 mg
+Calcium: 40.36 mg
+Iron: 0.2402 mg
+Magnesium: 22.82 mg
+Zinc: 0.4313 mg
+
+Vitamins:
+Vitamin A: 2.61 µg
+Vitamin D: 0 µg
+Vitamin B6: 0.1213 mg
+Vitamin B12: 1.759 µg
+Folate: 9.573 µg

@@ -1,0 +1,27 @@
+Food: Beverages, WENDY'S, tea, ready-to-drink, unsweetened
+Food ID: 171924
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 1 kcal
+Protein: 0.22 g
+Carbohydrates: 0 g
+Fat: 0 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 3 mg
+Potassium: 14 mg
+Calcium: 2 mg
+Iron: 0 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin B6: 0 mg

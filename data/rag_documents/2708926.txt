@@ -1,0 +1,36 @@
+Food: Pasta, whole grain, with cream sauce, seafood, and added vegetables, ready-to-heat
+Food ID: 2708926
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 5.8 g
+Carbohydrates: 16.53 g
+Fat: 7.23 g
+Fiber: 2.1 g
+Sugar: 0.93 g
+
+Fats:
+Saturated fat: 2.888 g
+Monounsaturated fat: 1.786 g
+Polyunsaturated fat: 1.226 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 348 mg
+Potassium: 119 mg
+Calcium: 36 mg
+Iron: 1.13 mg
+Magnesium: 33 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.69 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.88 µg
+Folate: 14 µg

@@ -1,0 +1,36 @@
+Food: Ramen bowl with chicken
+Food ID: 2709155
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 7.04 g
+Carbohydrates: 15.4 g
+Fat: 3.86 g
+Fiber: 1 g
+Sugar: 0.44 g
+
+Fats:
+Saturated fat: 0.705 g
+Monounsaturated fat: 1.491 g
+Polyunsaturated fat: 1.284 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 354 mg
+Potassium: 91 mg
+Calcium: 14 mg
+Iron: 0.85 mg
+Magnesium: 15 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.54 mg
+Vitamin K: 15.1 µg
+Vitamin B6: 0.135 mg
+Vitamin B12: 0.05 µg
+Folate: 42 µg

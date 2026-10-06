@@ -1,0 +1,33 @@
+Food: Lamb, New Zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, cooked, roasted
+Food ID: 174343
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 246 kcal
+Protein: 24.81 g
+Carbohydrates: 0 g
+Fat: 15.56 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.61 g
+Monounsaturated fat: 6.01 g
+Polyunsaturated fat: 0.75 g
+Cholesterol: 101 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 167 mg
+Calcium: 10 mg
+Iron: 2.1 mg
+Magnesium: 20 mg
+Zinc: 3.58 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.15 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 2.6 µg
+Folate: 1 µg

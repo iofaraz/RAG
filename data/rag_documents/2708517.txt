@@ -1,0 +1,36 @@
+Food: Taco, corn tortilla, pork, cheese
+Food ID: 2708517
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 14.82 g
+Carbohydrates: 15.3 g
+Fat: 14.5 g
+Fiber: 2.1 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 4.576 g
+Monounsaturated fat: 5.907 g
+Polyunsaturated fat: 2.963 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 369 mg
+Potassium: 212 mg
+Calcium: 72 mg
+Iron: 1.25 mg
+Magnesium: 37 mg
+Zinc: 2.9 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.89 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.29 mg
+Vitamin B12: 0.5 µg
+Folate: 2 µg

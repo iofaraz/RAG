@@ -1,0 +1,32 @@
+Food: Spices, coriander seed
+Food ID: 170922
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 298 kcal
+Protein: 12.37 g
+Carbohydrates: 54.99 g
+Fat: 17.77 g
+Fiber: 41.9 g
+
+Fats:
+Saturated fat: 0.99 g
+Monounsaturated fat: 13.58 g
+Polyunsaturated fat: 1.75 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 1267 mg
+Calcium: 709 mg
+Iron: 16.32 mg
+Magnesium: 330 mg
+Zinc: 4.7 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin B12: 0 µg
+Folate: 0 µg

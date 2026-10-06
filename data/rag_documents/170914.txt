@@ -1,0 +1,30 @@
+Food: Yogurt, Greek, Blueberry, CHOBANI
+Food ID: 170914
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 7.23 g
+Carbohydrates: 12.78 g
+Fat: 0.24 g
+Fiber: 0.5 g
+Sugar: 10.3 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.037 g
+Polyunsaturated fat: 0.037 g
+Trans fat: 0.007 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 32 mg
+Potassium: 128 mg
+Calcium: 90 mg
+Iron: 0.15 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg

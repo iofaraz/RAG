@@ -1,0 +1,37 @@
+Food: Bologna, beef and pork
+Food ID: 172013
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 308 kcal
+Protein: 15.2 g
+Carbohydrates: 5.49 g
+Fat: 24.59 g
+Fiber: 0 g
+Sugar: 4.42 g
+
+Fats:
+Saturated fat: 9.301 g
+Monounsaturated fat: 10.526 g
+Polyunsaturated fat: 1.12 g
+Trans fat: 0 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 960 mg
+Potassium: 315 mg
+Calcium: 85 mg
+Iron: 1.21 mg
+Magnesium: 17 mg
+Zinc: 2.3 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.297 mg
+Vitamin B12: 1.82 µg
+Folate: 6 µg

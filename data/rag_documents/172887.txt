@@ -1,0 +1,36 @@
+Food: Soup, cream of mushroom, canned, condensed, reduced sodium
+Food ID: 172887
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 1.21 g
+Carbohydrates: 8.1 g
+Fat: 1.69 g
+Fiber: 0.6 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 0.53 g
+Monounsaturated fat: 0.44 g
+Polyunsaturated fat: 0.56 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 383 mg
+Potassium: 374 mg
+Calcium: 13 mg
+Iron: 0.48 mg
+Magnesium: 5 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.02 µg
+Folate: 10 µg

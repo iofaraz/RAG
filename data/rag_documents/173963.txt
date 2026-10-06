@@ -1,0 +1,32 @@
+Food: Currants, european black, raw
+Food ID: 173963
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 1.4 g
+Carbohydrates: 15.38 g
+Fat: 0.41 g
+
+Fats:
+Saturated fat: 0.034 g
+Monounsaturated fat: 0.058 g
+Polyunsaturated fat: 0.179 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 322 mg
+Calcium: 55 mg
+Iron: 1.54 mg
+Magnesium: 24 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 181 mg
+Vitamin E: 1 mg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0 µg

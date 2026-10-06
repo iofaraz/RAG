@@ -1,0 +1,36 @@
+Food: Snacks, candy bits, yogurt covered with vitamin C
+Food ID: 174798
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 415 kcal
+Protein: 0 g
+Carbohydrates: 86.9 g
+Fat: 7.5 g
+Fiber: 0.2 g
+Sugar: 65 g
+
+Fats:
+Saturated fat: 1.389 g
+Monounsaturated fat: 0.983 g
+Polyunsaturated fat: 3.886 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 338 mg
+Calcium: 500 mg
+Iron: 0.19 mg
+Magnesium: 23 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 180 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 13.5 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0.76 µg
+Folate: 10 µg

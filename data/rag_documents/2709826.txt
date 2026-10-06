@@ -1,0 +1,36 @@
+Food: Lettuce, salad with egg, tomato, and/or carrots, with or without other vegetables, no dressing
+Food ID: 2709826
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 3.4 g
+Carbohydrates: 3.88 g
+Fat: 2.31 g
+Fiber: 1.2 g
+Sugar: 1.74 g
+
+Fats:
+Saturated fat: 0.688 g
+Monounsaturated fat: 0.836 g
+Polyunsaturated fat: 0.361 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 242 mg
+Calcium: 35 mg
+Iron: 0.48 mg
+Magnesium: 17 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 221 µg
+Vitamin C: 7.7 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.56 mg
+Vitamin K: 70.3 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0.22 µg
+Folate: 40 µg

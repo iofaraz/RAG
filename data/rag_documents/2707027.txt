@@ -1,0 +1,36 @@
+Food: Fish sandwich, fried, on white bun
+Food ID: 2707027
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 14.48 g
+Carbohydrates: 25.74 g
+Fat: 8.16 g
+Fiber: 0.9 g
+Sugar: 3.13 g
+
+Fats:
+Saturated fat: 2.43 g
+Monounsaturated fat: 2.271 g
+Polyunsaturated fat: 2.826 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 403 mg
+Potassium: 230 mg
+Calcium: 73 mg
+Iron: 1.89 mg
+Magnesium: 24 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.03 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.181 mg
+Vitamin B12: 1.06 µg
+Folate: 56 µg

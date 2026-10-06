@@ -1,0 +1,17 @@
+Food: Beans, cannellini, canned, sodium added, drained and rinsed
+Food ID: 2644287
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 7.4125 g
+Carbohydrates: 18.8185 g
+Fat: 1.169 g
+
+Minerals:
+Sodium: 164 mg
+Potassium: 202.6 mg
+Calcium: 69.19 mg
+Iron: 1.405 mg
+Magnesium: 29.29 mg
+Zinc: 0.5155 mg

@@ -1,0 +1,35 @@
+Food: Pudding, lemon, dry mix, regular, prepared with sugar, egg yolk and water
+Food ID: 168832
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 0.65 g
+Carbohydrates: 24.2 g
+Fat: 1.12 g
+Fiber: 0 g
+Sugar: 13.51 g
+
+Fats:
+Saturated fat: 0.382 g
+Monounsaturated fat: 0.47 g
+Polyunsaturated fat: 0.168 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 6 mg
+Calcium: 8 mg
+Iron: 0.13 mg
+Magnesium: 1 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin E: 0.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.012 mg
+Vitamin B12: 0.06 µg
+Folate: 4 µg

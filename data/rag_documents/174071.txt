@@ -1,0 +1,36 @@
+Food: Soup, chunky vegetable, reduced sodium, canned, ready-to-serve
+Food ID: 174071
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.16 g
+Carbohydrates: 10.28 g
+Fat: 0.51 g
+Fiber: 1.1 g
+Sugar: 2.78 g
+
+Fats:
+Saturated fat: 0.217 g
+Monounsaturated fat: 0.111 g
+Polyunsaturated fat: 0.097 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 138 mg
+Potassium: 349 mg
+Calcium: 25 mg
+Iron: 0.4 mg
+Magnesium: 12 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.02 µg
+Folate: 10 µg

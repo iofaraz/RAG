@@ -1,0 +1,32 @@
+Food: Fish, tuna, fresh, bluefin, cooked, dry heat
+Food ID: 173707
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 184 kcal
+Protein: 29.91 g
+Carbohydrates: 0 g
+Fat: 6.28 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.612 g
+Monounsaturated fat: 2.053 g
+Polyunsaturated fat: 1.844 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 323 mg
+Calcium: 10 mg
+Iron: 1.31 mg
+Magnesium: 64 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 757 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.525 mg
+Vitamin B12: 10.88 µg
+Folate: 2 µg

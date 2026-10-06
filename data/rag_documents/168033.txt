@@ -1,0 +1,23 @@
+Food: Fish, whitefish, mixed species, raw (Alaska Native)
+Food ID: 168033
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 18.9 g
+Carbohydrates: 0 g
+Fat: 6.1 g
+
+Fats:
+Saturated fat: 1.37 g
+Monounsaturated fat: 2.56 g
+Polyunsaturated fat: 1.82 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 317 mg
+Iron: 0.29 mg
+Magnesium: 33 mg
+Zinc: 0.99 mg

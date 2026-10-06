@@ -1,0 +1,36 @@
+Food: Frozen yogurt cone, vanilla
+Food ID: 2705460
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 3.2 g
+Carbohydrates: 23.9 g
+Fat: 3.73 g
+Fiber: 0.1 g
+Sugar: 19.36 g
+
+Fats:
+Saturated fat: 2.282 g
+Monounsaturated fat: 1.02 g
+Polyunsaturated fat: 0.227 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 154 mg
+Calcium: 97 mg
+Iron: 0.59 mg
+Magnesium: 11 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.07 µg
+Folate: 11 µg

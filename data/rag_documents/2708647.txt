@@ -1,0 +1,36 @@
+Food: Pizza with meat other than pepperoni, from frozen, medium crust
+Food ID: 2708647
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 11.55 g
+Carbohydrates: 27.33 g
+Fat: 12.54 g
+Fiber: 2.4 g
+Sugar: 3.51 g
+
+Fats:
+Saturated fat: 5.224 g
+Monounsaturated fat: 4.113 g
+Polyunsaturated fat: 1.987 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 477 mg
+Potassium: 184 mg
+Calcium: 192 mg
+Iron: 2.15 mg
+Magnesium: 23 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.87 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.72 µg
+Folate: 59 µg

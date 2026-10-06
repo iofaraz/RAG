@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, SIMILAC NEOSURE, ready-to-feed, with ARA and DHA
+Food ID: 172323
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 69 kcal
+Protein: 1.92 g
+Carbohydrates: 6.94 g
+Fat: 3.77 g
+Fiber: 0 g
+Sugar: 6.9 g
+
+Fats:
+Saturated fat: 2.447 g
+Monounsaturated fat: 0.387 g
+Polyunsaturated fat: 0.844 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 97 mg
+Calcium: 72 mg
+Iron: 1.23 mg
+Magnesium: 6 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 94 µg
+Vitamin C: 10.3 mg
+Vitamin D: 1.2 µg
+Vitamin E: 1.11 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.27 µg
+Folate: 17 µg

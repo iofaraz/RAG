@@ -1,0 +1,33 @@
+Food: BURGER KING, DOUBLE WHOPPER, with cheese
+Food ID: 170730
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 14.47 g
+Carbohydrates: 13.52 g
+Fat: 17.06 g
+Fiber: 1.6 g
+Sugar: 3.61 g
+
+Fats:
+Saturated fat: 6.998 g
+Monounsaturated fat: 6.298 g
+Polyunsaturated fat: 2.987 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 387 mg
+Potassium: 189 mg
+Calcium: 78 mg
+Iron: 5.3 mg
+Magnesium: 19 mg
+Zinc: 3.5 mg
+
+Vitamins:
+Vitamin C: 0.2 mg
+Vitamin E: 0.06 mg
+Vitamin K: 11.5 µg
+Vitamin B6: 0.112 mg
+Folate: 27 µg

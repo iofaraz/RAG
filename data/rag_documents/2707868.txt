@@ -1,0 +1,36 @@
+Food: Cake or cupcake, chocolate, no icing
+Food ID: 2707868
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 303 kcal
+Protein: 5.08 g
+Carbohydrates: 43.28 g
+Fat: 13.24 g
+Fiber: 2.3 g
+Sugar: 21.52 g
+
+Fats:
+Saturated fat: 2.976 g
+Monounsaturated fat: 5.051 g
+Polyunsaturated fat: 3.934 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 387 mg
+Potassium: 117 mg
+Calcium: 120 mg
+Iron: 1.98 mg
+Magnesium: 30 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 2.37 mg
+Vitamin K: 10.6 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.2 µg
+Folate: 35 µg

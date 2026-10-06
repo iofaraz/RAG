@@ -1,0 +1,36 @@
+Food: Fish, haddock, baked or broiled
+Food ID: 2706255
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 20.26 g
+Carbohydrates: 0.01 g
+Fat: 5.1 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.302 g
+Monounsaturated fat: 1.68 g
+Polyunsaturated fat: 1.503 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 300 mg
+Potassium: 356 mg
+Calcium: 14 mg
+Iron: 0.22 mg
+Magnesium: 26 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.24 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.343 mg
+Vitamin B12: 2.04 µg
+Folate: 13 µg

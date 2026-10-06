@@ -1,0 +1,36 @@
+Food: Fish, NS as to type, baked or broiled, coated
+Food ID: 2706226
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 223 kcal
+Protein: 20.73 g
+Carbohydrates: 7.79 g
+Fat: 11.67 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 2.822 g
+Monounsaturated fat: 3.832 g
+Polyunsaturated fat: 3.13 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 340 mg
+Potassium: 353 mg
+Calcium: 19 mg
+Iron: 0.96 mg
+Magnesium: 29 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 1 mg
+Vitamin D: 5.7 µg
+Vitamin E: 2.25 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.364 mg
+Vitamin B12: 2.57 µg
+Folate: 33 µg

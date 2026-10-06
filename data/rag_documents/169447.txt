@@ -1,0 +1,36 @@
+Food: Beef, ground, patties, frozen, cooked, broiled
+Food ID: 169447
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 295 kcal
+Protein: 23.05 g
+Carbohydrates: 0 g
+Fat: 21.83 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.805 g
+Monounsaturated fat: 9.358 g
+Polyunsaturated fat: 0.656 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 305 mg
+Calcium: 11 mg
+Iron: 2.42 mg
+Magnesium: 19 mg
+Zinc: 4.84 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.435 mg
+Vitamin B12: 2.65 µg
+Folate: 21 µg

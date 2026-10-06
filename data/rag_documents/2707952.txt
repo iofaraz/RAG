@@ -1,0 +1,36 @@
+Food: Cookie, peanut butter
+Food ID: 2707952
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 473 kcal
+Protein: 8.92 g
+Carbohydrates: 58.15 g
+Fat: 23.82 g
+Fiber: 2.1 g
+Sugar: 28.58 g
+
+Fats:
+Saturated fat: 6.751 g
+Monounsaturated fat: 10.8 g
+Polyunsaturated fat: 3.61 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 463 mg
+Potassium: 202 mg
+Calcium: 41 mg
+Iron: 2.11 mg
+Magnesium: 44 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.53 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.04 µg
+Folate: 57 µg

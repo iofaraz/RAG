@@ -1,0 +1,36 @@
+Food: Rolls, dinner, egg
+Food ID: 175027
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 307 kcal
+Protein: 9.5 g
+Carbohydrates: 52 g
+Fat: 6.4 g
+Fiber: 3.7 g
+Sugar: 4.3 g
+
+Fats:
+Saturated fat: 1.577 g
+Monounsaturated fat: 2.93 g
+Polyunsaturated fat: 1.128 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 566 mg
+Potassium: 104 mg
+Calcium: 59 mg
+Iron: 3.52 mg
+Magnesium: 25 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.24 µg
+Folate: 184 µg

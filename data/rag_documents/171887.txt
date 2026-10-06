@@ -1,0 +1,26 @@
+Food: Cocoa mix, NESTLE, Rich Chocolate Hot Cocoa Mix
+Food ID: 171887
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 400 kcal
+Protein: 3 g
+Carbohydrates: 75 g
+Fat: 15 g
+Fiber: 4 g
+Sugar: 60 g
+
+Fats:
+Saturated fat: 10 g
+Trans fat: 0.25 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 850 mg
+Potassium: 0 mg
+Calcium: 100 mg
+Iron: 1.8 mg
+
+Vitamins:
+Vitamin C: 0 mg

@@ -1,0 +1,32 @@
+Food: Pineapple, raw, extra sweet variety
+Food ID: 168194
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 0.53 g
+Carbohydrates: 13.5 g
+Fat: 0.11 g
+Fiber: 1.4 g
+Sugar: 10.32 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 108 mg
+Calcium: 13 mg
+Iron: 0.28 mg
+Magnesium: 12 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 56.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.114 mg
+Folate: 19 µg

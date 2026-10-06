@@ -1,0 +1,32 @@
+Food: Veal, variety meats and by-products, heart, cooked, braised
+Food ID: 172530
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 186 kcal
+Protein: 29.12 g
+Carbohydrates: 0.13 g
+Fat: 6.75 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.82 g
+Monounsaturated fat: 1.42 g
+Polyunsaturated fat: 1.78 g
+Cholesterol: 176 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 199 mg
+Calcium: 8 mg
+Iron: 4.32 mg
+Magnesium: 18 mg
+Zinc: 2.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 10 mg
+Vitamin B6: 0.21 mg
+Vitamin B12: 14.46 µg
+Folate: 2 µg

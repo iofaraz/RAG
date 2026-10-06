@@ -1,0 +1,36 @@
+Food: Greens with ham or pork
+Food ID: 2706759
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 4.91 g
+Carbohydrates: 4.68 g
+Fat: 1.41 g
+Fiber: 3.6 g
+Sugar: 0.84 g
+
+Fats:
+Saturated fat: 0.277 g
+Monounsaturated fat: 0.317 g
+Polyunsaturated fat: 0.407 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 303 mg
+Calcium: 205 mg
+Iron: 1.1 mg
+Magnesium: 30 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 222 µg
+Vitamin C: 40.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.46 mg
+Vitamin K: 363.7 µg
+Vitamin B6: 0.193 mg
+Vitamin B12: 0.05 µg
+Folate: 65 µg

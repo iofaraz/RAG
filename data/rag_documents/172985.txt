@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, QUAKER, MOTHER'S PEANUT BUTTER BUMPERS Cereal
+Food ID: 172985
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 407 kcal
+Protein: 7.62 g
+Carbohydrates: 79.68 g
+Fat: 7.33 g
+Fiber: 2.5 g
+Sugar: 29.29 g
+
+Fats:
+Saturated fat: 1.45 g
+Monounsaturated fat: 3.11 g
+Polyunsaturated fat: 2.25 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 774 mg
+Potassium: 296 mg
+Calcium: 23 mg
+Iron: 1.97 mg
+Magnesium: 74 mg
+Zinc: 1.42 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.71 mg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

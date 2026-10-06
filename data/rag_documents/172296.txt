@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, barley, prepared with whole milk
+Food ID: 172296
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 3.73 g
+Carbohydrates: 9.94 g
+Fat: 3.26 g
+Fiber: 0.6 g
+Sugar: 5.1 g
+
+Fats:
+Saturated fat: 1.76 g
+Monounsaturated fat: 0.802 g
+Polyunsaturated fat: 0.309 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 151 mg
+Calcium: 162 mg
+Iron: 3.49 mg
+Magnesium: 18 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0.2 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.43 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.42 µg
+Folate: 7 µg

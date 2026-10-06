@@ -1,0 +1,36 @@
+Food: Chicken tenders or strips, NFS
+Food ID: 2706098
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 19.22 g
+Carbohydrates: 17.25 g
+Fat: 13.95 g
+Fiber: 1.2 g
+Sugar: 0.4 g
+
+Fats:
+Saturated fat: 2.493 g
+Monounsaturated fat: 4.83 g
+Polyunsaturated fat: 5.783 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 769 mg
+Potassium: 373 mg
+Calcium: 17 mg
+Iron: 0.73 mg
+Magnesium: 28 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 3.17 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.426 mg
+Vitamin B12: 0.16 µg
+Folate: 19 µg

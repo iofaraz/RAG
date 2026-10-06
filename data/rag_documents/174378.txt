@@ -1,0 +1,32 @@
+Food: Lamb, rib, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled
+Food ID: 174378
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 23.06 g
+Carbohydrates: 0 g
+Fat: 26.82 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.36 g
+Monounsaturated fat: 10.97 g
+Polyunsaturated fat: 2.17 g
+Cholesterol: 98 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 277 mg
+Calcium: 18 mg
+Iron: 1.93 mg
+Magnesium: 24 mg
+Zinc: 4.21 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.11 mg
+Vitamin B12: 2.56 µg
+Folate: 15 µg

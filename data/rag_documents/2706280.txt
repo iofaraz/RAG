@@ -1,0 +1,36 @@
+Food: Fish, pompano, baked or broiled, coated
+Food ID: 2706280
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 20.65 g
+Carbohydrates: 7.79 g
+Fat: 14.77 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 4.929 g
+Monounsaturated fat: 4.38 g
+Polyunsaturated fat: 2.58 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 331 mg
+Potassium: 416 mg
+Calcium: 33 mg
+Iron: 1.22 mg
+Magnesium: 32 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 0 mg
+Vitamin D: 11.6 µg
+Vitamin E: 0.88 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.226 mg
+Vitamin B12: 1.24 µg
+Folate: 30 µg

@@ -1,0 +1,36 @@
+Food: Babyfood, meat, chicken sticks, junior
+Food ID: 172249
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 188 kcal
+Protein: 14.6 g
+Carbohydrates: 1.5 g
+Fat: 14.4 g
+Fiber: 0.2 g
+Sugar: 1.4 g
+
+Fats:
+Saturated fat: 4.094 g
+Monounsaturated fat: 6.267 g
+Polyunsaturated fat: 2.986 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 267 mg
+Potassium: 106 mg
+Calcium: 73 mg
+Iron: 1.56 mg
+Magnesium: 14 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.37 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.4 µg
+Folate: 11 µg

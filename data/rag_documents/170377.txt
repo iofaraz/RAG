@@ -1,0 +1,34 @@
+Food: Broadbeans, immature seeds, raw
+Food ID: 170377
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 5.6 g
+Carbohydrates: 11.7 g
+Fat: 0.6 g
+Fiber: 4.2 g
+
+Fats:
+Saturated fat: 0.138 g
+Monounsaturated fat: 0.017 g
+Polyunsaturated fat: 0.31 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 250 mg
+Calcium: 22 mg
+Iron: 1.9 mg
+Magnesium: 38 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 33 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0 µg
+Folate: 96 µg

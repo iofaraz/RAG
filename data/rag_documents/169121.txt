@@ -1,0 +1,36 @@
+Food: Pears, dried, sulfured, uncooked
+Food ID: 169121
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 262 kcal
+Protein: 1.87 g
+Carbohydrates: 69.7 g
+Fat: 0.63 g
+Fiber: 7.5 g
+Sugar: 62.2 g
+
+Fats:
+Saturated fat: 0.035 g
+Monounsaturated fat: 0.132 g
+Polyunsaturated fat: 0.148 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 533 mg
+Calcium: 34 mg
+Iron: 2.1 mg
+Magnesium: 33 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 20.4 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

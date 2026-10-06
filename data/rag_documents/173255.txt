@@ -1,0 +1,19 @@
+Food: Keebler, Keebler Chocolate Graham SELECTS
+Food ID: 173255
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 465 kcal
+Protein: 7.1 g
+Carbohydrates: 71.8 g
+Fat: 16.6 g
+Sugar: 26.5 g
+
+Fats:
+Saturated fat: 3.15 g
+Monounsaturated fat: 8.431 g
+Polyunsaturated fat: 2.201 g
+
+Minerals:
+Sodium: 357 mg

@@ -1,0 +1,32 @@
+Food: Chicken, roasting, giblets, raw
+Food ID: 172396
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 18.14 g
+Carbohydrates: 1.14 g
+Fat: 5.04 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.54 g
+Monounsaturated fat: 1.28 g
+Polyunsaturated fat: 1.26 g
+Cholesterol: 236 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 227 mg
+Calcium: 10 mg
+Iron: 5.4 mg
+Magnesium: 17 mg
+Zinc: 3.39 mg
+
+Vitamins:
+Vitamin A: 2880 µg
+Vitamin C: 13.1 mg
+Vitamin B6: 0.36 mg
+Vitamin B12: 9.4 µg
+Folate: 276 µg

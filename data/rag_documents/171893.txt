@@ -1,0 +1,37 @@
+Food: Beverages, coffee, instant, regular, powder
+Food ID: 171893
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 12.2 g
+Carbohydrates: 75.4 g
+Fat: 0.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.197 g
+Monounsaturated fat: 0.041 g
+Polyunsaturated fat: 0.196 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 37 mg
+Potassium: 3535 mg
+Calcium: 141 mg
+Iron: 4.41 mg
+Magnesium: 327 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

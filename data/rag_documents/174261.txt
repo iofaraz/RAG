@@ -1,0 +1,36 @@
+Food: Peanuts, all types, oil-roasted, with salt
+Food ID: 174261
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 599 kcal
+Protein: 28.03 g
+Carbohydrates: 15.26 g
+Fat: 52.5 g
+Fiber: 9.4 g
+Sugar: 4.18 g
+
+Fats:
+Saturated fat: 8.655 g
+Monounsaturated fat: 25.995 g
+Polyunsaturated fat: 15.303 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 320 mg
+Potassium: 726 mg
+Calcium: 61 mg
+Iron: 1.52 mg
+Magnesium: 176 mg
+Zinc: 3.28 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 6.94 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.461 mg
+Vitamin B12: 0 µg
+Folate: 120 µg

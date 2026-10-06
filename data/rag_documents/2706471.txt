@@ -1,0 +1,36 @@
+Food: Spaghetti sauce with meat and added vegetables
+Food ID: 2706471
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 6.03 g
+Carbohydrates: 6.05 g
+Fat: 4.13 g
+Fiber: 1.4 g
+Sugar: 4.03 g
+
+Fats:
+Saturated fat: 1.329 g
+Monounsaturated fat: 1.641 g
+Polyunsaturated fat: 0.434 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 333 mg
+Potassium: 314 mg
+Calcium: 23 mg
+Iron: 1.02 mg
+Magnesium: 18 mg
+Zinc: 1.36 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 9.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.6 mg
+Vitamin K: 9.8 µg
+Vitamin B6: 0.209 mg
+Vitamin B12: 0.51 µg
+Folate: 16 µg

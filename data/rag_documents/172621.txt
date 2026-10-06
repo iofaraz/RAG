@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, tongue - swiss cut, raw
+Food ID: 172621
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 14.27 g
+Carbohydrates: 0 g
+Fat: 18.61 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.896 g
+Monounsaturated fat: 6.404 g
+Polyunsaturated fat: 1.041 g
+Trans fat: 0.658 g
+Cholesterol: 88 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 207 mg
+Calcium: 6 mg
+Iron: 1.25 mg
+Magnesium: 15 mg
+Zinc: 1.55 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.57 mg
+Vitamin B6: 0.097 mg
+Vitamin B12: 6.1 µg

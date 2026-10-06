@@ -1,0 +1,36 @@
+Food: Porcupine balls with mushroom sauce
+Food ID: 2706496
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 10.34 g
+Carbohydrates: 10.71 g
+Fat: 7.76 g
+Fiber: 0.5 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 2.632 g
+Monounsaturated fat: 3.087 g
+Polyunsaturated fat: 1.118 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 601 mg
+Potassium: 151 mg
+Calcium: 18 mg
+Iron: 1.35 mg
+Magnesium: 12 mg
+Zinc: 2.37 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.21 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0.96 µg
+Folate: 21 µg

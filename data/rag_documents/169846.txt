@@ -1,0 +1,37 @@
+Food: Restaurant, family style, fish fillet, battered or breaded, fried
+Food ID: 169846
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 13.49 g
+Carbohydrates: 16.89 g
+Fat: 10.79 g
+Fiber: 0.9 g
+Sugar: 0.45 g
+
+Fats:
+Saturated fat: 1.876 g
+Monounsaturated fat: 2.311 g
+Polyunsaturated fat: 5.334 g
+Trans fat: 0.095 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 561 mg
+Potassium: 251 mg
+Calcium: 14 mg
+Iron: 0.38 mg
+Magnesium: 23 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.94 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.231 mg
+Vitamin B12: 1.17 µg
+Folate: 17 µg

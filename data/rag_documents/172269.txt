@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, turkey and rice, strained
+Food ID: 172269
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 2.27 g
+Carbohydrates: 7.94 g
+Fat: 1.24 g
+Fiber: 0.9 g
+Sugar: 1.66 g
+
+Fats:
+Saturated fat: 0.338 g
+Monounsaturated fat: 0.446 g
+Polyunsaturated fat: 0.308 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 91 mg
+Calcium: 18 mg
+Iron: 0.29 mg
+Magnesium: 8 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.02 µg
+Folate: 4 µg

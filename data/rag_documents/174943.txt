@@ -1,0 +1,37 @@
+Food: Cake, snack cakes, creme-filled, sponge
+Food ID: 174943
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 3.47 g
+Carbohydrates: 64.03 g
+Fat: 11.54 g
+Fiber: 1 g
+Sugar: 37.3 g
+
+Fats:
+Saturated fat: 4.139 g
+Monounsaturated fat: 4.906 g
+Polyunsaturated fat: 1.86 g
+Trans fat: 1.621 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 470 mg
+Potassium: 71 mg
+Calcium: 24 mg
+Iron: 1.36 mg
+Magnesium: 8 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.62 mg
+Vitamin K: 9.7 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.19 µg
+Folate: 38 µg

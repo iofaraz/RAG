@@ -1,0 +1,36 @@
+Food: Nutritional drink or shake, ready-to-drink (Carnation Instant Breakfast)
+Food ID: 2710716
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 5.51 g
+Carbohydrates: 12.91 g
+Fat: 2.04 g
+Fiber: 0.1 g
+Sugar: 12.9 g
+
+Fats:
+Saturated fat: 1.158 g
+Monounsaturated fat: 0.439 g
+Polyunsaturated fat: 0.097 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 84 mg
+Potassium: 260 mg
+Calcium: 146 mg
+Iron: 1.69 mg
+Magnesium: 40 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 132 µg
+Vitamin C: 10.2 mg
+Vitamin D: 1 µg
+Vitamin E: 1.26 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.203 mg
+Vitamin B12: 0.71 µg
+Folate: 39 µg

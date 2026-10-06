@@ -1,0 +1,36 @@
+Food: Shrimp and noodles with cheese sauce
+Food ID: 2706558
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 8.18 g
+Carbohydrates: 13.45 g
+Fat: 5.37 g
+Fiber: 0.6 g
+Sugar: 0.24 g
+
+Fats:
+Saturated fat: 2.511 g
+Monounsaturated fat: 1.643 g
+Polyunsaturated fat: 0.729 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 192 mg
+Potassium: 81 mg
+Calcium: 106 mg
+Iron: 0.83 mg
+Magnesium: 20 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.41 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.37 µg
+Folate: 45 µg

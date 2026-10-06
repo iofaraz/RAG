@@ -1,0 +1,36 @@
+Food: Peach nectar
+Food ID: 2709346
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 0.1 g
+Carbohydrates: 11.61 g
+Fat: 0.57 g
+Fiber: 0.1 g
+Sugar: 12.08 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.008 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 30 mg
+Calcium: 6 mg
+Iron: 0.07 mg
+Magnesium: 4 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

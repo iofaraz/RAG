@@ -1,0 +1,13 @@
+Food: Mayonnaise, Regular
+Food ID: 2758986
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 11.3 g
+Monounsaturated fat: 16.77 g
+Polyunsaturated fat: 41.67 g
+Trans fat: 0.2125 g
+
+Vitamins:
+Vitamin B6: 0 mg

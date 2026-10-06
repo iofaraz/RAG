@@ -1,0 +1,17 @@
+Food: Beans, cannellini, dry
+Food ID: 2644281
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 21.5625 g
+Carbohydrates: 59.7955 g
+Fat: 2.199 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 1424 mg
+Calcium: 142.9 mg
+Iron: 6.673 mg
+Magnesium: 153.6 mg
+Zinc: 2.72 mg

@@ -1,0 +1,33 @@
+Food: Beerwurst, beer salami, pork
+Food ID: 171616
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 14.24 g
+Carbohydrates: 2.06 g
+Fat: 18.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 6.28 g
+Monounsaturated fat: 8.98 g
+Polyunsaturated fat: 2.36 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 1240 mg
+Potassium: 253 mg
+Calcium: 8 mg
+Iron: 0.76 mg
+Magnesium: 13 mg
+Zinc: 1.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin B6: 0.35 mg
+Vitamin B12: 0.87 µg
+Folate: 3 µg

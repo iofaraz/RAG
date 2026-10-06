@@ -1,0 +1,31 @@
+Food: Biscuits, mixed grain, refrigerated dough
+Food ID: 172671
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 263 kcal
+Protein: 6.1 g
+Carbohydrates: 47.4 g
+Fat: 5.6 g
+
+Fats:
+Saturated fat: 1.366 g
+Monounsaturated fat: 2.932 g
+Polyunsaturated fat: 0.88 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 670 mg
+Potassium: 456 mg
+Calcium: 17 mg
+Iron: 2.75 mg
+Magnesium: 30 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0 µg
+Folate: 83 µg

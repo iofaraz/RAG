@@ -1,0 +1,22 @@
+Food: Potatoes, russet, without skin, raw
+Food ID: 2346401
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.27375 g
+Carbohydrates: 17.7712 g
+Fat: 0.36 g
+
+Minerals:
+Sodium: 2.743 mg
+Potassium: 450.1 mg
+Calcium: 7.801 mg
+Iron: 0.3835 mg
+Magnesium: 25.64 mg
+Zinc: 0.3781 mg
+
+Vitamins:
+Vitamin C: 10.9 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.1573 mg

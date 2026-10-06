@@ -1,0 +1,36 @@
+Food: Cookie, chocolate chip, made from home recipe or purchased at a bakery
+Food ID: 2707910
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 505 kcal
+Protein: 5.83 g
+Carbohydrates: 59.24 g
+Fat: 28.96 g
+Fiber: 2.5 g
+Sugar: 41.21 g
+
+Fats:
+Saturated fat: 12.009 g
+Monounsaturated fat: 6.303 g
+Polyunsaturated fat: 6.853 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 261 mg
+Potassium: 194 mg
+Calcium: 41 mg
+Iron: 2.3 mg
+Magnesium: 51 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 128 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.23 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0.06 µg
+Folate: 39 µg

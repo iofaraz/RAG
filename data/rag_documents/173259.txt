@@ -1,0 +1,26 @@
+Food: Pillsbury, Buttermilk Biscuits, Artificial Flavor, refrigerated dough
+Food ID: 173259
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 6.4 g
+Carbohydrates: 47.07 g
+Fat: 2.79 g
+Fiber: 1.6 g
+Sugar: 4.46 g
+
+Fats:
+Saturated fat: 0.42 g
+Trans fat: 0.59 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 854 mg
+Calcium: 23 mg
+Iron: 2.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

@@ -1,0 +1,37 @@
+Food: Pork, fresh, separable fat, cooked
+Food ID: 168221
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 626 kcal
+Protein: 7.06 g
+Carbohydrates: 0 g
+Fat: 66.1 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 23.856 g
+Monounsaturated fat: 28.987 g
+Polyunsaturated fat: 11.538 g
+Trans fat: 0.475 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 125 mg
+Calcium: 22 mg
+Iron: 0.46 mg
+Magnesium: 9 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin D: 1.8 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.192 mg
+Vitamin B12: 0.54 µg
+Folate: 0 µg

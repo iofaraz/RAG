@@ -1,0 +1,36 @@
+Food: Popcorn, microwave, cheese flavored
+Food ID: 2708229
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 516 kcal
+Protein: 9.1 g
+Carbohydrates: 54.77 g
+Fat: 30.44 g
+Fiber: 10.2 g
+Sugar: 0.61 g
+
+Fats:
+Saturated fat: 14.247 g
+Monounsaturated fat: 6.75 g
+Polyunsaturated fat: 7.387 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 916 mg
+Potassium: 231 mg
+Calcium: 6 mg
+Iron: 2.25 mg
+Magnesium: 101 mg
+Zinc: 2.17 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.06 mg
+Vitamin K: 28.3 µg
+Vitamin B6: 0.111 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

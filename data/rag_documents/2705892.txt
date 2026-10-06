@@ -1,0 +1,36 @@
+Food: Fat back, cooked
+Food ID: 2705892
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 750 kcal
+Protein: 2.68 g
+Carbohydrates: 0 g
+Fat: 81.93 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 31.339 g
+Monounsaturated fat: 36.64 g
+Polyunsaturated fat: 10.744 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 2039 mg
+Potassium: 47 mg
+Calcium: 11 mg
+Iron: 0.17 mg
+Magnesium: 3 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 2.1 µg
+Vitamin E: 0.34 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.2 µg
+Folate: 0 µg

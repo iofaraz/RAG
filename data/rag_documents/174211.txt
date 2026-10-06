@@ -1,0 +1,32 @@
+Food: Crustaceans, spiny lobster, mixed species, raw
+Food ID: 174211
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 20.6 g
+Carbohydrates: 2.43 g
+Fat: 1.51 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.237 g
+Monounsaturated fat: 0.275 g
+Polyunsaturated fat: 0.59 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 177 mg
+Potassium: 180 mg
+Calcium: 49 mg
+Iron: 1.22 mg
+Magnesium: 40 mg
+Zinc: 5.67 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 2 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 3.5 µg
+Folate: 1 µg

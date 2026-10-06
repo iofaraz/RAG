@@ -1,0 +1,36 @@
+Food: Beets, canned, cooked, fat added
+Food ID: 2709876
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 0.89 g
+Carbohydrates: 7 g
+Fat: 2.69 g
+Fiber: 1.7 g
+Sugar: 5.36 g
+
+Fats:
+Saturated fat: 0.689 g
+Monounsaturated fat: 0.932 g
+Polyunsaturated fat: 0.78 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 197 mg
+Potassium: 144 mg
+Calcium: 15 mg
+Iron: 1.77 mg
+Magnesium: 17 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

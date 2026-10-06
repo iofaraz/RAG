@@ -1,0 +1,32 @@
+Food: Cake, pudding-type, white, unenriched, dry mix
+Food ID: 175054
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 423 kcal
+Protein: 3.9 g
+Carbohydrates: 81 g
+Fat: 9.5 g
+Fiber: 0.7 g
+
+Fats:
+Saturated fat: 2.34 g
+Monounsaturated fat: 4.092 g
+Polyunsaturated fat: 2.544 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 665 mg
+Potassium: 72 mg
+Calcium: 77 mg
+Iron: 0.52 mg
+Magnesium: 9 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.018 mg
+Vitamin B12: 0.04 µg
+Folate: 9 µg

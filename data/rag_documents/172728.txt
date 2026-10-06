@@ -1,0 +1,32 @@
+Food: Cookies, peanut butter, commercially prepared, soft-type
+Food ID: 172728
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 457 kcal
+Protein: 5.3 g
+Carbohydrates: 57.7 g
+Fat: 24.4 g
+Fiber: 1.7 g
+
+Fats:
+Saturated fat: 6.149 g
+Monounsaturated fat: 13.844 g
+Polyunsaturated fat: 3.181 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 336 mg
+Potassium: 107 mg
+Calcium: 12 mg
+Iron: 0.89 mg
+Magnesium: 32 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0 µg
+Folate: 67 µg

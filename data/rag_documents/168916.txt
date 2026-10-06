@@ -1,0 +1,31 @@
+Food: Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, cooked
+Food ID: 168916
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 5.82 g
+Carbohydrates: 31.51 g
+Fat: 1.5 g
+Fiber: 4.6 g
+Sugar: 0.85 g
+
+Fats:
+Saturated fat: 0.239 g
+Monounsaturated fat: 0.171 g
+Polyunsaturated fat: 0.584 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 6 mg
+Potassium: 77 mg
+Calcium: 12 mg
+Iron: 1.65 mg
+Magnesium: 45 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin E: 0.1 mg
+Vitamin B6: 0.097 mg
+Folate: 20 µg

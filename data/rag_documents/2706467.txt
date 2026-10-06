@@ -1,0 +1,36 @@
+Food: Meatballs, NS as to type of meat, with sauce
+Food ID: 2706467
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 186 kcal
+Protein: 18.02 g
+Carbohydrates: 0.15 g
+Fat: 12.02 g
+Fiber: 0 g
+Sugar: 0.07 g
+
+Fats:
+Saturated fat: 4.556 g
+Monounsaturated fat: 5.282 g
+Polyunsaturated fat: 0.501 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 801 mg
+Potassium: 212 mg
+Calcium: 22 mg
+Iron: 1.79 mg
+Magnesium: 15 mg
+Zinc: 4.19 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.18 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.245 mg
+Vitamin B12: 1.86 µg
+Folate: 12 µg

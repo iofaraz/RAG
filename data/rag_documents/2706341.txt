@@ -1,0 +1,36 @@
+Food: Clams, fried
+Food ID: 2706341
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 13.07 g
+Carbohydrates: 14.43 g
+Fat: 12.9 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.805 g
+Monounsaturated fat: 5.14 g
+Polyunsaturated fat: 4.77 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 386 mg
+Potassium: 59 mg
+Calcium: 44 mg
+Iron: 2.13 mg
+Magnesium: 19 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.76 mg
+Vitamin K: 12.1 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 7.31 µg
+Folate: 27 µg

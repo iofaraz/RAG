@@ -1,0 +1,28 @@
+Food: HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork
+Food ID: 168319
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 167 kcal
+Protein: 18.74 g
+Carbohydrates: 0.84 g
+Fat: 9.62 g
+Sugar: 0.28 g
+
+Fats:
+Saturated fat: 3.6 g
+Monounsaturated fat: 4.43 g
+Polyunsaturated fat: 0.83 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 378 mg
+Potassium: 307 mg
+Calcium: 14 mg
+Iron: 0.6 mg
+Magnesium: 21 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin C: 1.7 mg

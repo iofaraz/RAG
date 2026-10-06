@@ -1,0 +1,37 @@
+Food: Pasta mix, classic beef, unprepared
+Food ID: 168954
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 354 kcal
+Protein: 12.32 g
+Carbohydrates: 72.2 g
+Fat: 1.78 g
+Fiber: 2 g
+Sugar: 4.95 g
+
+Fats:
+Saturated fat: 0.439 g
+Monounsaturated fat: 0.501 g
+Polyunsaturated fat: 0.808 g
+Trans fat: 0.106 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1537 mg
+Potassium: 342 mg
+Calcium: 21 mg
+Iron: 2.71 mg
+Magnesium: 39 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.33 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 0.01 µg
+Folate: 127 µg

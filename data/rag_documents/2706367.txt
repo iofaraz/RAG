@@ -1,0 +1,36 @@
+Food: Shrimp, canned
+Food ID: 2706367
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 20.42 g
+Carbohydrates: 0 g
+Fat: 1.36 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.188 g
+Monounsaturated fat: 0.108 g
+Polyunsaturated fat: 0.684 g
+Cholesterol: 252 mg
+
+Minerals:
+Sodium: 870 mg
+Potassium: 80 mg
+Calcium: 145 mg
+Iron: 2.13 mg
+Magnesium: 33 mg
+Zinc: 1.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.74 µg
+Folate: 9 µg

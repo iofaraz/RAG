@@ -1,0 +1,36 @@
+Food: Sandwich, NFS
+Food ID: 2706880
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 12.75 g
+Carbohydrates: 33.83 g
+Fat: 12.03 g
+Fiber: 1.9 g
+Sugar: 8.88 g
+
+Fats:
+Saturated fat: 3.357 g
+Monounsaturated fat: 4.846 g
+Polyunsaturated fat: 2.894 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 542 mg
+Potassium: 240 mg
+Calcium: 180 mg
+Iron: 2.05 mg
+Magnesium: 44 mg
+Zinc: 1.34 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.52 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.196 mg
+Vitamin B12: 0.19 µg
+Folate: 68 µg

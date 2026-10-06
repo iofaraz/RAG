@@ -1,0 +1,20 @@
+Food: Squid (calamari), frozen, tubes only
+Food ID: 2747671
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 8.80625 g
+Carbohydrates: 0.93215 g
+Fat: 0.5508 g
+
+Minerals:
+Sodium: 271.9 mg
+Potassium: 9.483 mg
+Calcium: 10.56 mg
+Iron: 0 mg
+Magnesium: 10.52 mg
+Zinc: 0.5268 mg
+
+Vitamins:
+Vitamin B12: 1.125 µg

@@ -1,0 +1,22 @@
+Food: Flour, bread, white, enriched, unbleached
+Food ID: 790146
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 363 kcal
+Protein: 14.3 g
+Carbohydrates: 72.8 g
+Fat: 1.65 g
+
+Minerals:
+Sodium: 3 mg
+Potassium: 127 mg
+Calcium: 19 mg
+Iron: 5.55 mg
+Magnesium: 35.9 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin B6: 0.079 mg
+Folate: 145 µg

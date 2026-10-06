@@ -1,0 +1,23 @@
+Food: Apples, gala, with skin, raw
+Food ID: 1750341
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.132812 g
+Carbohydrates: 14.7681 g
+Fat: 0.15 g
+Fiber: 2.109 g
+Sugar: 11.83 g
+
+Minerals:
+Sodium: 0.2788 mg
+Potassium: 105.9 mg
+Calcium: 6.639 mg
+Iron: 0.06013 mg
+Magnesium: 4.947 mg
+Zinc: 0.02349 mg
+
+Vitamins:
+Vitamin B6: 0.03175 mg
+Folate: 0.8125 µg

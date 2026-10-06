@@ -1,0 +1,36 @@
+Food: Pie fillings, blueberry, canned
+Food ID: 167738
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 181 kcal
+Protein: 0.41 g
+Carbohydrates: 44.38 g
+Fat: 0.2 g
+Fiber: 2.6 g
+Sugar: 37.75 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 115 mg
+Calcium: 27 mg
+Iron: 0.8 mg
+Magnesium: 10 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

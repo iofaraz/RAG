@@ -1,0 +1,36 @@
+Food: Tortellini, cheese-filled, meatless, with tomato sauce, canned
+Food ID: 2708788
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 3.48 g
+Carbohydrates: 15.98 g
+Fat: 1.5 g
+Fiber: 0.8 g
+Sugar: 1.74 g
+
+Fats:
+Saturated fat: 0.537 g
+Monounsaturated fat: 0.415 g
+Polyunsaturated fat: 0.328 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 305 mg
+Potassium: 39 mg
+Calcium: 27 mg
+Iron: 0.66 mg
+Magnesium: 12 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.08 µg
+Folate: 33 µg

@@ -1,0 +1,36 @@
+Food: Chicken "wings", plain, from precooked
+Food ID: 2706075
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 294 kcal
+Protein: 18.62 g
+Carbohydrates: 7.15 g
+Fat: 20.59 g
+Fiber: 0.3 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 4.77 g
+Monounsaturated fat: 9.068 g
+Polyunsaturated fat: 5.759 g
+Cholesterol: 107 mg
+
+Minerals:
+Sodium: 461 mg
+Potassium: 170 mg
+Calcium: 22 mg
+Iron: 1.16 mg
+Magnesium: 17 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.03 mg
+Vitamin K: 8.3 µg
+Vitamin B6: 0.417 mg
+Vitamin B12: 0.27 µg
+Folate: 21 µg

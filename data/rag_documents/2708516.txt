@@ -1,0 +1,36 @@
+Food: Taco, corn tortilla, beef, with beans, cheese
+Food ID: 2708516
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 10.63 g
+Carbohydrates: 19.14 g
+Fat: 10.61 g
+Fiber: 3.2 g
+Sugar: 0.49 g
+
+Fats:
+Saturated fat: 3.156 g
+Monounsaturated fat: 4.042 g
+Polyunsaturated fat: 2.269 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 397 mg
+Potassium: 232 mg
+Calcium: 72 mg
+Iron: 1.43 mg
+Magnesium: 41 mg
+Zinc: 2.25 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.9 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 0.66 µg
+Folate: 12 µg

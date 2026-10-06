@@ -1,0 +1,37 @@
+Food: Turkey, back, from whole bird, meat only, with added solution, roasted
+Food ID: 174521
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 26.97 g
+Carbohydrates: 0 g
+Fat: 2.08 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.593 g
+Monounsaturated fat: 0.626 g
+Polyunsaturated fat: 0.528 g
+Trans fat: 0.024 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 238 mg
+Potassium: 249 mg
+Calcium: 13 mg
+Iron: 0.55 mg
+Magnesium: 30 mg
+Zinc: 1.49 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.697 mg
+Vitamin B12: 1.7 µg
+Folate: 6 µg

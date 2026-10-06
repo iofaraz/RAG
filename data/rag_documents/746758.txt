@@ -1,0 +1,29 @@
+Food: Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0" fat, select, cooked, roasted
+Food ID: 746758
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 176 kcal
+Protein: 27.7 g
+Carbohydrates: 0 g
+Fat: 6.36 g
+
+Fats:
+Saturated fat: 2.47 g
+Monounsaturated fat: 2.26 g
+Polyunsaturated fat: 0.472 g
+Trans fat: 0.359 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 352 mg
+Calcium: 13 mg
+Iron: 3.04 mg
+Magnesium: 13.7 mg
+Zinc: 3.7 mg
+
+Vitamins:
+Vitamin B6: 0.67 mg
+Vitamin B12: 4.21 µg

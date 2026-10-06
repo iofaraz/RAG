@@ -1,0 +1,15 @@
+Food: Bread, mulitgrain, commercial
+Food ID: 2758995
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Minerals:
+Sodium: 400.5 mg
+Potassium: 197.7 mg
+Calcium: 106.5 mg
+Iron: 2.413 mg
+Magnesium: 67.34 mg
+Zinc: 1.53 mg
+
+Vitamins:
+Folate: 64.45 µg

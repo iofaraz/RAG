@@ -1,0 +1,37 @@
+Food: Beverages, Energy Drink with carbonated water and high fructose corn syrup
+Food ID: 174821
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 0.42 g
+Carbohydrates: 15 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 13.75 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 10 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 25 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.833 mg
+Vitamin B12: 2.5 µg
+Folate: 167 µg

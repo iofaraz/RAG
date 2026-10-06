@@ -1,0 +1,31 @@
+Food: Potatoes, hash brown, refrigerated, unprepared
+Food ID: 167604
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 1.75 g
+Carbohydrates: 19.16 g
+Fat: 0.08 g
+Fiber: 1.8 g
+Sugar: 0.91 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 42 mg
+Potassium: 425 mg
+Calcium: 6 mg
+Iron: 0.48 mg
+Magnesium: 19 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin C: 4.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.257 mg
+Vitamin B12: 0 µg

@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, testes, cooked, soaked and fried
+Food ID: 172618
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 21.01 g
+Carbohydrates: 0 g
+Fat: 4.56 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.461 g
+Monounsaturated fat: 0.731 g
+Polyunsaturated fat: 1.022 g
+Trans fat: 0.039 g
+Cholesterol: 523 mg
+
+Minerals:
+Sodium: 118 mg
+Potassium: 265 mg
+Calcium: 8 mg
+Iron: 1.69 mg
+Magnesium: 16 mg
+Zinc: 2.12 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.85 mg
+Vitamin B6: 0.038 mg
+Vitamin B12: 8.88 µg

@@ -1,0 +1,36 @@
+Food: Egg sandwich on wheat bread, with meat and cheese
+Food ID: 2707314
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 13.75 g
+Carbohydrates: 16.46 g
+Fat: 17.29 g
+Fiber: 1.8 g
+Sugar: 2.36 g
+
+Fats:
+Saturated fat: 6.229 g
+Monounsaturated fat: 6.056 g
+Polyunsaturated fat: 3.143 g
+Cholesterol: 150 mg
+
+Minerals:
+Sodium: 506 mg
+Potassium: 192 mg
+Calcium: 177 mg
+Iron: 1.85 mg
+Magnesium: 29 mg
+Zinc: 1.69 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 0.94 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.138 mg
+Vitamin B12: 0.62 µg
+Folate: 42 µg

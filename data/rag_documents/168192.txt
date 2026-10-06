@@ -1,0 +1,30 @@
+Food: Durian, raw or frozen
+Food ID: 168192
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 1.47 g
+Carbohydrates: 27.09 g
+Fat: 5.33 g
+Fiber: 3.8 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 436 mg
+Calcium: 6 mg
+Iron: 0.43 mg
+Magnesium: 30 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 19.7 mg
+Vitamin B6: 0.316 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

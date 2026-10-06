@@ -1,0 +1,33 @@
+Food: Succotash, (corn and limas), cooked, boiled, drained, with salt
+Food ID: 170540
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 5.07 g
+Carbohydrates: 24.37 g
+Fat: 0.8 g
+
+Fats:
+Saturated fat: 0.148 g
+Monounsaturated fat: 0.155 g
+Polyunsaturated fat: 0.381 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 253 mg
+Potassium: 410 mg
+Calcium: 17 mg
+Iron: 1.52 mg
+Magnesium: 53 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 8.2 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

@@ -1,0 +1,36 @@
+Food: Frescavena
+Food ID: 2710604
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 0.25 g
+Carbohydrates: 10.59 g
+Fat: 0.15 g
+Fiber: 0.2 g
+Sugar: 9.36 g
+
+Fats:
+Saturated fat: 0.021 g
+Monounsaturated fat: 0.037 g
+Polyunsaturated fat: 0.043 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 7 mg
+Calcium: 4 mg
+Iron: 0.08 mg
+Magnesium: 3 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.002 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

@@ -1,0 +1,26 @@
+Food: Seasoning mix, dry, chili, original
+Food ID: 173476
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 335 kcal
+Protein: 10.82 g
+Carbohydrates: 56.56 g
+Fat: 7.3 g
+Fiber: 10.8 g
+Sugar: 8.67 g
+
+Fats:
+Saturated fat: 0 g
+Polyunsaturated fat: 5.556 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4616 mg
+Calcium: 0 mg
+Iron: 3.9 mg
+
+Vitamins:
+Vitamin C: 5.9 mg

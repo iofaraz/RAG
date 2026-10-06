@@ -1,0 +1,36 @@
+Food: Iced Tea / Lemonade juice drink, light
+Food ID: 2710513
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 0.22 g
+Carbohydrates: 6.12 g
+Fat: 0.04 g
+Fiber: 0.3 g
+Sugar: 3.86 g
+
+Fats:
+Saturated fat: 0.014 g
+Monounsaturated fat: 0.003 g
+Polyunsaturated fat: 0.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 72 mg
+Calcium: 5 mg
+Iron: 0.04 mg
+Magnesium: 5 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 7.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.018 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

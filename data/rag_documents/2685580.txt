@@ -1,0 +1,21 @@
+Food: Tomato, paste, canned, without salt added
+Food ID: 2685580
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 4.23438 g
+Carbohydrates: 20.1881 g
+Fat: 0.7325 g
+Fiber: 4.704 g
+
+Minerals:
+Sodium: 61.15 mg
+Potassium: 971.6 mg
+Calcium: 36.85 mg
+Iron: 3.185 mg
+Magnesium: 49.61 mg
+Zinc: 0.5113 mg
+
+Vitamins:
+Vitamin C: 18.4 mg

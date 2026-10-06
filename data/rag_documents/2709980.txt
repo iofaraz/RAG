@@ -1,0 +1,36 @@
+Food: Rutabaga, cooked
+Food ID: 2709980
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 1.13 g
+Carbohydrates: 8.98 g
+Fat: 2.9 g
+Fiber: 2.4 g
+Sugar: 4.65 g
+
+Fats:
+Saturated fat: 0.744 g
+Monounsaturated fat: 0.997 g
+Polyunsaturated fat: 0.877 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 143 mg
+Potassium: 318 mg
+Calcium: 45 mg
+Iron: 0.46 mg
+Magnesium: 21 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 22.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.111 mg
+Vitamin B12: 0 µg
+Folate: 19 µg

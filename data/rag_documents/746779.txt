@@ -1,0 +1,32 @@
+Food: Sausage, breakfast sausage, beef, pre-cooked, unprepared
+Food ID: 746779
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 328 kcal
+Protein: 13.3 g
+Carbohydrates: 3.37 g
+Fat: 28.7 g
+
+Fats:
+Saturated fat: 11.3 g
+Monounsaturated fat: 12.7 g
+Polyunsaturated fat: 1.91 g
+Trans fat: 1.18 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 866 mg
+Potassium: 263 mg
+Calcium: 35 mg
+Iron: 1.55 mg
+Magnesium: 19.7 mg
+Zinc: 2.14 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 19.2 mg
+Vitamin E: 0.33 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 1.13 µg

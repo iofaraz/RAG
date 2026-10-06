@@ -1,0 +1,36 @@
+Food: Pizza, cheese, with fruit, medium crust
+Food ID: 2708633
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 9.96 g
+Carbohydrates: 30.81 g
+Fat: 8.45 g
+Fiber: 2.1 g
+Sugar: 4.61 g
+
+Fats:
+Saturated fat: 3.881 g
+Monounsaturated fat: 2.268 g
+Polyunsaturated fat: 1.466 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 469 mg
+Potassium: 166 mg
+Calcium: 165 mg
+Iron: 2.16 mg
+Magnesium: 23 mg
+Zinc: 1.18 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 7.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0.36 µg
+Folate: 82 µg

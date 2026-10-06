@@ -1,0 +1,28 @@
+Food: Sesbania flower, raw
+Food ID: 168459
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 1.28 g
+Carbohydrates: 6.73 g
+Fat: 0.04 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 184 mg
+Calcium: 19 mg
+Iron: 0.84 mg
+Magnesium: 12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 73 mg
+Vitamin D: 0 µg
+Vitamin B12: 0 µg
+Folate: 102 µg

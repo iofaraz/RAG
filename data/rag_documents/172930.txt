@@ -1,0 +1,32 @@
+Food: Pate, liver, not specified, canned
+Food ID: 172930
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 319 kcal
+Protein: 14.2 g
+Carbohydrates: 1.5 g
+Fat: 28 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 9.57 g
+Monounsaturated fat: 12.36 g
+Polyunsaturated fat: 3.16 g
+Cholesterol: 255 mg
+
+Minerals:
+Sodium: 697 mg
+Potassium: 138 mg
+Calcium: 70 mg
+Iron: 5.5 mg
+Magnesium: 13 mg
+Zinc: 2.85 mg
+
+Vitamins:
+Vitamin A: 991 µg
+Vitamin C: 2 mg
+Vitamin B6: 0.06 mg
+Vitamin B12: 3.2 µg
+Folate: 60 µg

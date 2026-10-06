@@ -1,0 +1,36 @@
+Food: Fish fillet, fried as ingredient in sandwiches
+Food ID: 2710784
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 18.16 g
+Carbohydrates: 8.27 g
+Fat: 10.08 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 3.198 g
+Monounsaturated fat: 3.01 g
+Polyunsaturated fat: 3.214 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 312 mg
+Calcium: 22 mg
+Iron: 0.8 mg
+Magnesium: 25 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.46 mg
+Vitamin K: 14.7 µg
+Vitamin B6: 0.27 mg
+Vitamin B12: 1.72 µg
+Folate: 28 µg

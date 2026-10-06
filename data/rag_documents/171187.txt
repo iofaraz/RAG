@@ -1,0 +1,27 @@
+Food: Sauce, hot chile, sriracha, CHA! BY TEXAS PETE
+Food ID: 171187
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 2.02 g
+Carbohydrates: 22.73 g
+Fat: 0.98 g
+Fiber: 2.1 g
+Sugar: 15.65 g
+
+Minerals:
+Sodium: 2903 mg
+Potassium: 302 mg
+Calcium: 15 mg
+Iron: 1.46 mg
+Magnesium: 16 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 139 µg
+Vitamin C: 4.8 mg
+Vitamin E: 4.34 mg
+Vitamin B6: 0.47 mg
+Folate: 17 µg

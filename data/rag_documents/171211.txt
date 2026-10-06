@@ -1,0 +1,37 @@
+Food: Beef, chuck, under blade center steak, boneless, Denver Cut, separable lean and fat, trimmed to 0" fat, choice, cooked, grilled
+Food ID: 171211
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 26.1 g
+Carbohydrates: 0.4 g
+Fat: 14.41 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.963 g
+Monounsaturated fat: 7.02 g
+Polyunsaturated fat: 0.806 g
+Trans fat: 0.882 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 313 mg
+Calcium: 12 mg
+Iron: 3.27 mg
+Magnesium: 23 mg
+Zinc: 9.66 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.09 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.395 mg
+Vitamin B12: 3.46 µg
+Folate: 6 µg

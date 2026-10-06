@@ -1,0 +1,37 @@
+Food: Beans, snap, green, cooked, boiled, drained, with salt
+Food ID: 169321
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 1.89 g
+Carbohydrates: 7.88 g
+Fat: 0.28 g
+Fiber: 3.2 g
+Sugar: 3.63 g
+
+Fats:
+Saturated fat: 0.064 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.145 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 239 mg
+Potassium: 146 mg
+Calcium: 44 mg
+Iron: 0.65 mg
+Magnesium: 18 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 9.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 47.9 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

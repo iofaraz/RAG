@@ -1,0 +1,35 @@
+Food: Candies, dark chocolate coated coffee beans
+Food ID: 169634
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 540 kcal
+Protein: 7.5 g
+Carbohydrates: 59.95 g
+Fat: 30 g
+Fiber: 7.5 g
+Sugar: 42.5 g
+
+Fats:
+Saturated fat: 15 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 342 mg
+Calcium: 100 mg
+Iron: 2.7 mg
+Magnesium: 107 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.23 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

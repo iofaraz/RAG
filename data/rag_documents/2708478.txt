@@ -1,0 +1,36 @@
+Food: Cereal, plain puffs
+Food ID: 2708478
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 9.5 g
+Carbohydrates: 77.2 g
+Fat: 1.66 g
+Fiber: 8.7 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 0.32 g
+Monounsaturated fat: 0.325 g
+Polyunsaturated fat: 0.549 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 101 mg
+Calcium: 13 mg
+Iron: 0.86 mg
+Magnesium: 36 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

@@ -1,0 +1,36 @@
+Food: Coffee, Iced Cafe Mocha, nonfat
+Food ID: 2710444
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 1.61 g
+Carbohydrates: 8.96 g
+Fat: 0.07 g
+Fiber: 0 g
+Sugar: 8.07 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.017 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 108 mg
+Calcium: 63 mg
+Iron: 0.02 mg
+Magnesium: 22 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.028 mg
+Vitamin B12: 0.27 µg
+Folate: 1 µg

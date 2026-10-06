@@ -1,0 +1,36 @@
+Food: Cookie, sugar wafer, chocolate-covered
+Food ID: 2707919
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 526 kcal
+Protein: 3.45 g
+Carbohydrates: 65.99 g
+Fat: 27.59 g
+Fiber: 3.4 g
+Sugar: 51.72 g
+
+Fats:
+Saturated fat: 17.241 g
+Monounsaturated fat: 4.866 g
+Polyunsaturated fat: 4.176 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 138 mg
+Potassium: 311 mg
+Calcium: 0 mg
+Iron: 1.24 mg
+Magnesium: 45 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.16 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.15 µg
+Folate: 15 µg

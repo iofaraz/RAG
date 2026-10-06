@@ -1,0 +1,36 @@
+Food: Cake or cupcake, gingerbread
+Food ID: 2707876
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 3.64 g
+Carbohydrates: 45.34 g
+Fat: 9.16 g
+Fiber: 1 g
+Sugar: 28.3 g
+
+Fats:
+Saturated fat: 2.351 g
+Monounsaturated fat: 5.013 g
+Polyunsaturated fat: 1.238 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 411 mg
+Potassium: 217 mg
+Calcium: 62 mg
+Iron: 2.98 mg
+Magnesium: 14 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.2 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.06 µg
+Folate: 26 µg

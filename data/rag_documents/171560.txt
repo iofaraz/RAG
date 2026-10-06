@@ -1,0 +1,36 @@
+Food: Soup, beef broth or bouillon, powder, dry
+Food ID: 171560
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 15.97 g
+Carbohydrates: 17.4 g
+Fat: 8.89 g
+Fiber: 0 g
+Sugar: 16.71 g
+
+Fats:
+Saturated fat: 4.32 g
+Monounsaturated fat: 3.616 g
+Polyunsaturated fat: 0.332 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 26000 mg
+Potassium: 446 mg
+Calcium: 60 mg
+Iron: 1 mg
+Magnesium: 51 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.17 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.2 mg
+Vitamin B12: 1 µg
+Folate: 32 µg

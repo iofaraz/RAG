@@ -1,0 +1,36 @@
+Food: Beef, sliced, with gravy, potatoes, vegetable, frozen meal
+Food ID: 2707102
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 8.12 g
+Carbohydrates: 6.59 g
+Fat: 7.28 g
+Fiber: 0.7 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 2.013 g
+Monounsaturated fat: 3.206 g
+Polyunsaturated fat: 1.262 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 296 mg
+Potassium: 224 mg
+Calcium: 10 mg
+Iron: 0.91 mg
+Magnesium: 14 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 138 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.58 mg
+Vitamin K: 6.6 µg
+Vitamin B6: 0.162 mg
+Vitamin B12: 0.82 µg
+Folate: 8 µg

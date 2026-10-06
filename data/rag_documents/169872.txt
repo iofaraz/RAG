@@ -1,0 +1,36 @@
+Food: Babyfood, dessert, banana pudding, strained
+Food ID: 169872
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 1 g
+Carbohydrates: 14.14 g
+Fat: 0.8 g
+Fiber: 0.8 g
+Sugar: 10.55 g
+
+Fats:
+Saturated fat: 0.264 g
+Monounsaturated fat: 0.277 g
+Polyunsaturated fat: 0.111 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 90 mg
+Calcium: 11 mg
+Iron: 0.3 mg
+Magnesium: 5 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 12 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.01 µg
+Folate: 6 µg

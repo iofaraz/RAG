@@ -1,0 +1,36 @@
+Food: Snack mix, plain (Chex Mix)
+Food ID: 2708291
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 417 kcal
+Protein: 8.74 g
+Carbohydrates: 72.2 g
+Fat: 10.34 g
+Fiber: 4.6 g
+Sugar: 7.98 g
+
+Fats:
+Saturated fat: 1.912 g
+Monounsaturated fat: 3.244 g
+Polyunsaturated fat: 4.265 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 707 mg
+Potassium: 141 mg
+Calcium: 121 mg
+Iron: 4.88 mg
+Magnesium: 27 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 6.1 mg
+Vitamin D: 1.2 µg
+Vitamin E: 1.34 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.266 mg
+Vitamin B12: 0.3 µg
+Folate: 118 µg

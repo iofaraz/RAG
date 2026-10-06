@@ -1,0 +1,37 @@
+Food: Beans, black, mature seeds, cooked, boiled, with salt
+Food ID: 175237
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 8.86 g
+Carbohydrates: 23.71 g
+Fat: 0.54 g
+Fiber: 8.7 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 0.139 g
+Monounsaturated fat: 0.047 g
+Polyunsaturated fat: 0.231 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 237 mg
+Potassium: 355 mg
+Calcium: 27 mg
+Iron: 2.1 mg
+Magnesium: 70 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0 µg
+Folate: 149 µg

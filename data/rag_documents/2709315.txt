@@ -1,0 +1,36 @@
+Food: Fruit juice, NFS
+Food ID: 2709315
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 0.29 g
+Carbohydrates: 12.1 g
+Fat: 0.26 g
+Fiber: 0.2 g
+Sugar: 10.4 g
+
+Fats:
+Saturated fat: 0.02 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.033 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 104 mg
+Calcium: 21 mg
+Iron: 0.08 mg
+Magnesium: 7 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 34.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

@@ -1,0 +1,31 @@
+Food: Sweet rolls, cinnamon, refrigerated dough with frosting, baked
+Food ID: 172799
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 362 kcal
+Protein: 5.4 g
+Carbohydrates: 56.1 g
+Fat: 13.2 g
+
+Fats:
+Saturated fat: 3.348 g
+Monounsaturated fat: 7.421 g
+Polyunsaturated fat: 1.728 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 832 mg
+Potassium: 63 mg
+Calcium: 34 mg
+Iron: 2.65 mg
+Magnesium: 12 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.05 µg
+Folate: 55 µg

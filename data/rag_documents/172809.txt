@@ -1,0 +1,36 @@
+Food: Bread, protein, (includes gluten), toasted
+Food ID: 172809
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 13.2 g
+Carbohydrates: 48.1 g
+Fat: 2.4 g
+Fiber: 3.3 g
+Sugar: 1.44 g
+
+Fats:
+Saturated fat: 0.364 g
+Monounsaturated fat: 0.201 g
+Polyunsaturated fat: 1.109 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 444 mg
+Potassium: 346 mg
+Calcium: 136 mg
+Iron: 4.56 mg
+Magnesium: 56 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 99 µg

@@ -1,0 +1,36 @@
+Food: Fish shish kabob with vegetables, excluding potatoes
+Food ID: 2706867
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 9.41 g
+Carbohydrates: 5.06 g
+Fat: 1.05 g
+Fiber: 0.8 g
+Sugar: 2.37 g
+
+Fats:
+Saturated fat: 0.164 g
+Monounsaturated fat: 0.348 g
+Polyunsaturated fat: 0.416 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 250 mg
+Potassium: 255 mg
+Calcium: 15 mg
+Iron: 0.26 mg
+Magnesium: 18 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 15 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.56 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.151 mg
+Vitamin B12: 1.05 µg
+Folate: 16 µg

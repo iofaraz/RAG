@@ -1,0 +1,37 @@
+Food: Candies, confectioner's coating, butterscotch
+Food ID: 167980
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 539 kcal
+Protein: 2.2 g
+Carbohydrates: 67.1 g
+Fat: 29.05 g
+Fiber: 0 g
+Sugar: 67.1 g
+
+Fats:
+Saturated fat: 24.1 g
+Monounsaturated fat: 2.271 g
+Polyunsaturated fat: 1.041 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 89 mg
+Potassium: 64 mg
+Calcium: 34 mg
+Iron: 0.08 mg
+Magnesium: 5 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 0.1 µg
+Folate: 1 µg

@@ -1,0 +1,36 @@
+Food: Salad dressing, mayonnaise-type, light
+Food ID: 171444
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 0.65 g
+Carbohydrates: 16.4 g
+Fat: 10 g
+Fiber: 0 g
+Sugar: 6.67 g
+
+Fats:
+Saturated fat: 1.484 g
+Monounsaturated fat: 2.335 g
+Polyunsaturated fat: 5.638 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 833 mg
+Potassium: 36 mg
+Calcium: 5 mg
+Iron: 0.12 mg
+Magnesium: 2 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 19.5 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0.04 µg
+Folate: 6 µg

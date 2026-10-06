@@ -1,0 +1,31 @@
+Food: Pears, raw, green anjou (Includes foods for USDA's Food Distribution Program)
+Food ID: 167779
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 0.44 g
+Carbohydrates: 15.79 g
+Fat: 0.1 g
+Fiber: 3.1 g
+Sugar: 9.73 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 127 mg
+Calcium: 11 mg
+Iron: 0.24 mg
+Magnesium: 7 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 4.4 mg
+Vitamin E: 0.12 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.026 mg
+Folate: 9 µg

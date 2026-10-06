@@ -1,0 +1,29 @@
+Food: Game meat, antelope, raw
+Food ID: 175292
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 22.38 g
+Carbohydrates: 0 g
+Fat: 2.03 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.74 g
+Monounsaturated fat: 0.48 g
+Polyunsaturated fat: 0.44 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 353 mg
+Calcium: 3 mg
+Iron: 3.19 mg
+Magnesium: 27 mg
+Zinc: 1.28 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

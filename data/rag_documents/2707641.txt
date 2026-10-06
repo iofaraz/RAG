@@ -1,0 +1,36 @@
+Food: Bread, high protein, toasted
+Food ID: 2707641
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 13.3 g
+Carbohydrates: 48.13 g
+Fat: 2.42 g
+Fiber: 3.3 g
+Sugar: 1.58 g
+
+Fats:
+Saturated fat: 0.365 g
+Monounsaturated fat: 0.201 g
+Polyunsaturated fat: 1.109 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 444 mg
+Potassium: 354 mg
+Calcium: 136 mg
+Iron: 4.56 mg
+Magnesium: 71 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0 µg
+Folate: 108 µg

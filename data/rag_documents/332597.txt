@@ -1,0 +1,26 @@
+Food: Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)
+Food ID: 332597
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 0.38 g
+Carbohydrates: 15.1 g
+Fat: 0.16 g
+Fiber: 3.1 g
+
+Minerals:
+Sodium: 7 mg
+Potassium: 87 mg
+Calcium: 8 mg
+Iron: 0.17 mg
+Magnesium: 5.7 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 4.4 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.026 mg
+Folate: 6 µg

@@ -1,0 +1,35 @@
+Food: Soup, chicken gumbo, canned, condensed
+Food ID: 171147
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 2.1 g
+Carbohydrates: 6.67 g
+Fat: 1.14 g
+Fiber: 1.6 g
+Sugar: 1.93 g
+
+Fats:
+Saturated fat: 0.26 g
+Monounsaturated fat: 0.52 g
+Polyunsaturated fat: 0.28 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 693 mg
+Potassium: 60 mg
+Calcium: 19 mg
+Iron: 0.71 mg
+Magnesium: 3 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 4 mg
+Vitamin E: 0.36 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.02 µg
+Folate: 5 µg

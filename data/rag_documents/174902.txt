@@ -1,0 +1,36 @@
+Food: Biscuits, plain or buttermilk, dry mix
+Food ID: 174902
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 428 kcal
+Protein: 8 g
+Carbohydrates: 63.4 g
+Fat: 15.4 g
+Fiber: 2.1 g
+Sugar: 11.65 g
+
+Fats:
+Saturated fat: 3.965 g
+Monounsaturated fat: 8.584 g
+Polyunsaturated fat: 2.011 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 1276 mg
+Potassium: 163 mg
+Calcium: 179 mg
+Iron: 2.77 mg
+Magnesium: 25 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.39 µg
+Folate: 125 µg

@@ -1,0 +1,36 @@
+Food: Shrimp, cake or patty
+Food ID: 2706565
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 218 kcal
+Protein: 13.93 g
+Carbohydrates: 5.26 g
+Fat: 15.34 g
+Fiber: 0.3 g
+Sugar: 0.66 g
+
+Fats:
+Saturated fat: 2.56 g
+Monounsaturated fat: 4.593 g
+Polyunsaturated fat: 7.277 g
+Cholesterol: 156 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 133 mg
+Calcium: 63 mg
+Iron: 0.65 mg
+Magnesium: 23 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 2.6 mg
+Vitamin K: 23.1 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 0.93 µg
+Folate: 24 µg

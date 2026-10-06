@@ -1,0 +1,33 @@
+Food: Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt
+Food ID: 169235
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 2.95 g
+Carbohydrates: 9.2 g
+Fat: 0.27 g
+
+Fats:
+Saturated fat: 0.119 g
+Monounsaturated fat: 0.129 g
+Polyunsaturated fat: 0.01 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 262 mg
+Calcium: 41 mg
+Iron: 0.76 mg
+Magnesium: 42 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 5.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0 µg
+Folate: 47 µg

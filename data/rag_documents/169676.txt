@@ -1,0 +1,32 @@
+Food: Snacks, granola bars, soft, uncoated, nut and raisin
+Food ID: 169676
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 454 kcal
+Protein: 8 g
+Carbohydrates: 63.6 g
+Fat: 20.4 g
+Fiber: 5.6 g
+
+Fats:
+Saturated fat: 9.54 g
+Monounsaturated fat: 4.22 g
+Polyunsaturated fat: 5.52 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 254 mg
+Potassium: 392 mg
+Calcium: 84 mg
+Iron: 2.18 mg
+Magnesium: 91 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.24 µg
+Folate: 30 µg

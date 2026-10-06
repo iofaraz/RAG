@@ -1,0 +1,31 @@
+Food: Beef, round, top round roast, boneless, separable lean only, trimmed to 0" fat, select, raw
+Food ID: 746761
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 23.7 g
+Carbohydrates: 0 g
+Fat: 2.41 g
+
+Fats:
+Saturated fat: 0.924 g
+Monounsaturated fat: 0.886 g
+Polyunsaturated fat: 0.208 g
+Trans fat: 0.125 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 55 mg
+Potassium: 316 mg
+Calcium: 13 mg
+Iron: 2.34 mg
+Magnesium: 11.9 mg
+Zinc: 3.54 mg
+
+Vitamins:
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin B6: 0.626 mg
+Vitamin B12: 1.62 µg

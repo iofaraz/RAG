@@ -1,0 +1,31 @@
+Food: Dip, FRITO'S, bean, original flavor
+Food ID: 171834
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 5.44 g
+Carbohydrates: 15.89 g
+Fat: 3.7 g
+Fiber: 4.9 g
+Sugar: 0.99 g
+
+Fats:
+Saturated fat: 0.529 g
+Monounsaturated fat: 0.859 g
+Polyunsaturated fat: 1.957 g
+Trans fat: 0.008 g
+
+Minerals:
+Sodium: 443 mg
+Potassium: 368 mg
+Calcium: 26 mg
+Iron: 1.6 mg
+Magnesium: 40 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin K: 1.6 µg
+Vitamin B6: 0.115 mg
+Folate: 21 µg

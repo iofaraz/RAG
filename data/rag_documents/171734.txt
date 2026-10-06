@@ -1,0 +1,28 @@
+Food: Beef, Australian, imported, grass-fed, loin, top sirloin cap-off steak/roast, boneless, separable lean only, raw
+Food ID: 171734
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 21.9 g
+Carbohydrates: 0 g
+Fat: 3.87 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.601 g
+Monounsaturated fat: 1.495 g
+Polyunsaturated fat: 0.338 g
+Trans fat: 0.126 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 60 mg
+Calcium: 5 mg
+Iron: 2.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

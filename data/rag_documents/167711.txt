@@ -1,0 +1,36 @@
+Food: Beverages, Chocolate-flavored drink, whey and milk based
+Food ID: 167711
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 0.64 g
+Carbohydrates: 10.68 g
+Fat: 0.4 g
+Fiber: 0.6 g
+Sugar: 8.68 g
+
+Fats:
+Saturated fat: 0.31 g
+Monounsaturated fat: 0.049 g
+Polyunsaturated fat: 0.009 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 91 mg
+Potassium: 79 mg
+Calcium: 100 mg
+Iron: 0.33 mg
+Magnesium: 11 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 2 mg
+Vitamin D: 1.3 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0.06 µg
+Folate: 1 µg

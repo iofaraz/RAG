@@ -1,0 +1,26 @@
+Food: Pillsbury Grands, Buttermilk Biscuits, refrigerated dough
+Food ID: 167921
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 293 kcal
+Protein: 6.16 g
+Carbohydrates: 42.41 g
+Fat: 11.34 g
+Fiber: 1.5 g
+Sugar: 4.6 g
+
+Fats:
+Saturated fat: 4.07 g
+Trans fat: 0.88 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1066 mg
+Calcium: 23 mg
+Iron: 2.34 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

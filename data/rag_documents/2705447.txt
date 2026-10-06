@@ -1,0 +1,36 @@
+Food: Spinach dip, yogurt based
+Food ID: 2705447
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 159 kcal
+Protein: 7.02 g
+Carbohydrates: 3.59 g
+Fat: 12.96 g
+Fiber: 0.3 g
+Sugar: 3.04 g
+
+Fats:
+Saturated fat: 2.734 g
+Monounsaturated fat: 2.931 g
+Polyunsaturated fat: 6.893 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 514 mg
+Potassium: 136 mg
+Calcium: 103 mg
+Iron: 0.21 mg
+Magnesium: 15 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 112 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.8 mg
+Vitamin K: 66.2 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.42 µg
+Folate: 17 µg

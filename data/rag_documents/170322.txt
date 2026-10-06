@@ -1,0 +1,31 @@
+Food: WENDY'S, CLASSIC SINGLE Hamburger, with cheese
+Food ID: 170322
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 14.87 g
+Carbohydrates: 14.2 g
+Fat: 11.6 g
+Fiber: 1.4 g
+
+Fats:
+Saturated fat: 5.191 g
+Monounsaturated fat: 4.407 g
+Polyunsaturated fat: 1.405 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 476 mg
+Potassium: 187 mg
+Calcium: 75 mg
+Iron: 2.34 mg
+Magnesium: 19 mg
+Zinc: 2.58 mg
+
+Vitamins:
+Vitamin C: 0.5 mg
+Vitamin K: 9.3 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 1.54 µg

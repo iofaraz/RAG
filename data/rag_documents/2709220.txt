@@ -1,0 +1,36 @@
+Food: Apple, baked
+Food ID: 2709220
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 0.32 g
+Carbohydrates: 22.7 g
+Fat: 3.08 g
+Fiber: 2.5 g
+Sugar: 19.01 g
+
+Fats:
+Saturated fat: 1.639 g
+Monounsaturated fat: 0.604 g
+Polyunsaturated fat: 0.143 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 114 mg
+Calcium: 14 mg
+Iron: 0.19 mg
+Magnesium: 6 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 3.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

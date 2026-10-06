@@ -1,0 +1,33 @@
+Food: Bratwurst, beef and pork, smoked
+Food ID: 172956
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 297 kcal
+Protein: 12.2 g
+Carbohydrates: 2 g
+Fat: 26.34 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.08 g
+Monounsaturated fat: 8 g
+Polyunsaturated fat: 1.58 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 848 mg
+Potassium: 283 mg
+Calcium: 7 mg
+Iron: 1 mg
+Magnesium: 15 mg
+Zinc: 2.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.2 mg
+Vitamin B12: 2.67 µg
+Folate: 4 µg

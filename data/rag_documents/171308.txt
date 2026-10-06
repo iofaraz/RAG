@@ -1,0 +1,37 @@
+Food: Cream, half and half, lowfat
+Food ID: 171308
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 3.33 g
+Carbohydrates: 3.33 g
+Fat: 5 g
+Fiber: 0 g
+Sugar: 3.33 g
+
+Fats:
+Saturated fat: 3.276 g
+Monounsaturated fat: 1.526 g
+Polyunsaturated fat: 0.257 g
+Trans fat: 0 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 132 mg
+Calcium: 133 mg
+Iron: 0 mg
+Magnesium: 10 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.19 µg
+Folate: 3 µg

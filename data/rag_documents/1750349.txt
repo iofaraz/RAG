@@ -1,0 +1,14 @@
+Food: Oil, sunflower
+Food ID: 1750349
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Fats:
+Saturated fat: 8.991 g
+Monounsaturated fat: 63.37 g
+Polyunsaturated fat: 20.71 g
+Trans fat: 0.1163 g
+
+Vitamins:
+Vitamin E: 68.48 mg
+Vitamin K: 6.925 µg

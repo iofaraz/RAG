@@ -1,0 +1,37 @@
+Food: Onions, canned, solids and liquids
+Food ID: 170003
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 0.85 g
+Carbohydrates: 4.02 g
+Fat: 0.09 g
+Fiber: 1.2 g
+Sugar: 2.2 g
+
+Fats:
+Saturated fat: 0.016 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.036 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 371 mg
+Potassium: 111 mg
+Calcium: 45 mg
+Iron: 0.13 mg
+Magnesium: 6 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.137 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

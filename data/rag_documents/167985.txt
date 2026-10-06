@@ -1,0 +1,36 @@
+Food: Candies, 5TH AVENUE Candy Bar
+Food ID: 167985
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 482 kcal
+Protein: 8.78 g
+Carbohydrates: 62.68 g
+Fat: 23.98 g
+Fiber: 3.1 g
+Sugar: 47.19 g
+
+Fats:
+Saturated fat: 6.65 g
+Monounsaturated fat: 10.6 g
+Polyunsaturated fat: 3.39 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 225 mg
+Potassium: 347 mg
+Calcium: 73 mg
+Iron: 1.2 mg
+Magnesium: 62 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 2.7 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.18 µg
+Folate: 36 µg

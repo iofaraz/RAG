@@ -1,0 +1,36 @@
+Food: Rice, white, with corn, no added fat
+Food ID: 2708997
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 2.64 g
+Carbohydrates: 25.76 g
+Fat: 0.38 g
+Fiber: 0.9 g
+Sugar: 0.83 g
+
+Fats:
+Saturated fat: 0.083 g
+Monounsaturated fat: 0.116 g
+Polyunsaturated fat: 0.138 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 182 mg
+Potassium: 86 mg
+Calcium: 8 mg
+Iron: 1.01 mg
+Magnesium: 16 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.094 mg
+Vitamin B12: 0 µg
+Folate: 52 µg

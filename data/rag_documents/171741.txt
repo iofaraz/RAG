@@ -1,0 +1,28 @@
+Food: Beef, Australian, imported, Wagyu, rib, small end rib steak/roast, boneless, separable lean and fat, Aust. marble score 9, raw
+Food ID: 171741
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 404 kcal
+Protein: 14.54 g
+Carbohydrates: 0.28 g
+Fat: 38.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 13.942 g
+Monounsaturated fat: 19.576 g
+Polyunsaturated fat: 1.153 g
+Trans fat: 1.423 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 57 mg
+Calcium: 3 mg
+Iron: 1.82 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg

@@ -1,0 +1,23 @@
+Food: Flour, corn, yellow, fine meal, enriched
+Food ID: 790276
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 364 kcal
+Protein: 6.2 g
+Carbohydrates: 80.8 g
+Fat: 1.74 g
+Fiber: 4.3 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 144 mg
+Calcium: 0 mg
+Iron: 4.44 mg
+Magnesium: 30.1 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin B6: 0.13 mg
+Folate: 155 µg

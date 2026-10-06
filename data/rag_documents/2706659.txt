@@ -1,0 +1,36 @@
+Food: Stuffed grape leaves with lamb and rice
+Food ID: 2706659
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 8.17 g
+Carbohydrates: 11.89 g
+Fat: 21.52 g
+Fiber: 3.3 g
+Sugar: 2.39 g
+
+Fats:
+Saturated fat: 5.562 g
+Monounsaturated fat: 11.733 g
+Polyunsaturated fat: 2.508 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 191 mg
+Calcium: 105 mg
+Iron: 1.83 mg
+Magnesium: 38 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 359 µg
+Vitamin C: 8 mg
+Vitamin D: 0 µg
+Vitamin E: 3.24 mg
+Vitamin K: 72.6 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0.6 µg
+Folate: 35 µg

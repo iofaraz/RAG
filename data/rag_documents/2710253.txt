@@ -1,0 +1,36 @@
+Food: Pepper, for use on a sandwich
+Food ID: 2710253
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.81 g
+Carbohydrates: 5.72 g
+Fat: 0.12 g
+Fiber: 1 g
+Sugar: 3.3 g
+
+Fats:
+Saturated fat: 0.058 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.109 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 188 mg
+Calcium: 6 mg
+Iron: 0.27 mg
+Magnesium: 10 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 88 µg
+Vitamin C: 120.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.98 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.275 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

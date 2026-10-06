@@ -1,0 +1,37 @@
+Food: Beverages, coffee, instant, mocha, sweetened
+Food ID: 174135
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 460 kcal
+Protein: 5.29 g
+Carbohydrates: 74.04 g
+Fat: 15.87 g
+Fiber: 1.9 g
+Sugar: 58.2 g
+
+Fats:
+Saturated fat: 4.934 g
+Monounsaturated fat: 8.934 g
+Polyunsaturated fat: 1.053 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 1033 mg
+Calcium: 271 mg
+Iron: 0 mg
+Magnesium: 68 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.45 µg
+Folate: 9 µg

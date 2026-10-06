@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST SELECTS Maple Pecan Crunch
+Food ID: 174653
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 413 kcal
+Protein: 8.5 g
+Carbohydrates: 77.4 g
+Fat: 8.7 g
+Fiber: 7.4 g
+Sugar: 22.5 g
+
+Fats:
+Saturated fat: 1 g
+Monounsaturated fat: 4.4 g
+Polyunsaturated fat: 2.6 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 239 mg
+Potassium: 274 mg
+Calcium: 39 mg
+Iron: 3.5 mg
+Magnesium: 85 mg
+Zinc: 2.9 mg
+
+Vitamins:
+Vitamin A: 431 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.9 µg
+Vitamin E: 0.99 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 1 mg
+Vitamin B12: 2.9 µg
+Folate: 192 µg

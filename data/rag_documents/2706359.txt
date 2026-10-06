@@ -1,0 +1,36 @@
+Food: Scallops, fried
+Food ID: 2706359
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 217 kcal
+Protein: 11.08 g
+Carbohydrates: 14.14 g
+Fat: 12.54 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.76 g
+Monounsaturated fat: 5.085 g
+Polyunsaturated fat: 4.723 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 466 mg
+Potassium: 180 mg
+Calcium: 19 mg
+Iron: 1.18 mg
+Magnesium: 22 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.25 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0.94 µg
+Folate: 33 µg

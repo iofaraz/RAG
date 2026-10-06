@@ -1,0 +1,36 @@
+Food: Lemonade, frozen concentrate, white, prepared with water
+Food ID: 173217
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 40 kcal
+Protein: 0.07 g
+Carbohydrates: 10.42 g
+Fat: 0.04 g
+Fiber: 0 g
+Sugar: 9.98 g
+
+Fats:
+Saturated fat: 0.006 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.013 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 15 mg
+Calcium: 4 mg
+Iron: 0.16 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.9 mg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.006 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

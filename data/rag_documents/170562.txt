@@ -1,0 +1,36 @@
+Food: Seeds, sunflower seed kernels, dried
+Food ID: 170562
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 584 kcal
+Protein: 20.78 g
+Carbohydrates: 20 g
+Fat: 51.46 g
+Fiber: 8.6 g
+Sugar: 2.62 g
+
+Fats:
+Saturated fat: 4.455 g
+Monounsaturated fat: 18.528 g
+Polyunsaturated fat: 23.137 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 645 mg
+Calcium: 78 mg
+Iron: 5.25 mg
+Magnesium: 325 mg
+Zinc: 5 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 35.17 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.345 mg
+Vitamin B12: 0 µg
+Folate: 227 µg

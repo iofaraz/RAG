@@ -1,0 +1,35 @@
+Food: Beef, top sirloin, steak, separable lean and fat, trimmed to 0" fat, choice, cooked, broiled
+Food ID: 169458
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 29.02 g
+Carbohydrates: 0 g
+Fat: 10.54 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.09 g
+Monounsaturated fat: 4.314 g
+Polyunsaturated fat: 0.391 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 355 mg
+Calcium: 19 mg
+Iron: 1.96 mg
+Magnesium: 24 mg
+Zinc: 5.21 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.43 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.578 mg
+Vitamin B12: 1.91 µg
+Folate: 9 µg

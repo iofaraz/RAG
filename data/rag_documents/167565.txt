@@ -1,0 +1,37 @@
+Food: Candies, NESTLE, BUTTERFINGER Bar
+Food ID: 167565
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 459 kcal
+Protein: 5.4 g
+Carbohydrates: 72.9 g
+Fat: 18.9 g
+Fiber: 2 g
+Sugar: 45.9 g
+
+Fats:
+Saturated fat: 9.5 g
+Monounsaturated fat: 5.119 g
+Polyunsaturated fat: 3.164 g
+Trans fat: 0.04 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 230 mg
+Potassium: 220 mg
+Calcium: 36 mg
+Iron: 0.79 mg
+Magnesium: 48 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.72 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0.04 µg
+Folate: 28 µg

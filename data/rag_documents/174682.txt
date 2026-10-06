@@ -1,0 +1,37 @@
+Food: Grapes, american type (slip skin), raw
+Food ID: 174682
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 0.63 g
+Carbohydrates: 17.15 g
+Fat: 0.35 g
+Fiber: 0.9 g
+Sugar: 16.25 g
+
+Fats:
+Saturated fat: 0.114 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.102 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 191 mg
+Calcium: 14 mg
+Iron: 0.29 mg
+Magnesium: 5 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 14.6 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

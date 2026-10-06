@@ -1,0 +1,36 @@
+Food: Chicken or turkey,stuffing, and vegetables excluding carrots, broccoli, and dark green leafy; no sauce
+Food ID: 2706705
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 7.17 g
+Carbohydrates: 14.85 g
+Fat: 8.75 g
+Fiber: 1.2 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 1.747 g
+Monounsaturated fat: 4.101 g
+Polyunsaturated fat: 2.424 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 142 mg
+Calcium: 27 mg
+Iron: 0.86 mg
+Magnesium: 17 mg
+Zinc: 0.55 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 12.9 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.08 µg
+Folate: 32 µg

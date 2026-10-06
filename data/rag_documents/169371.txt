@@ -1,0 +1,30 @@
+Food: Dock, cooked, boiled, drained, with salt
+Food ID: 169371
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 20 kcal
+Protein: 1.83 g
+Carbohydrates: 2.93 g
+Fat: 0.64 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 239 mg
+Potassium: 321 mg
+Calcium: 38 mg
+Iron: 2.08 mg
+Magnesium: 89 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 174 µg
+Vitamin C: 26.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

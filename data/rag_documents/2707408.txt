@@ -1,0 +1,36 @@
+Food: Falafel
+Food ID: 2707408
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 514 kcal
+Protein: 8.28 g
+Carbohydrates: 28.96 g
+Fat: 41.19 g
+Fiber: 4.8 g
+Sugar: 4.52 g
+
+Fats:
+Saturated fat: 5.427 g
+Monounsaturated fat: 17.014 g
+Polyunsaturated fat: 15.928 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 499 mg
+Potassium: 259 mg
+Calcium: 86 mg
+Iron: 2.31 mg
+Magnesium: 31 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 7.3 mg
+Vitamin D: 0 µg
+Vitamin E: 7.74 mg
+Vitamin K: 72.2 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0 µg
+Folate: 79 µg

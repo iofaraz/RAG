@@ -1,0 +1,36 @@
+Food: Spinach, fresh, cooked, no added fat
+Food ID: 2709615
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 3.41 g
+Carbohydrates: 3.1 g
+Fat: 0.7 g
+Fiber: 1.9 g
+Sugar: 0.49 g
+
+Fats:
+Saturated fat: 0.074 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.194 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 262 mg
+Potassium: 540 mg
+Calcium: 79 mg
+Iron: 1.23 mg
+Magnesium: 109 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 341 µg
+Vitamin C: 24.9 mg
+Vitamin D: 0 µg
+Vitamin E: 2.38 mg
+Vitamin K: 566.4 µg
+Vitamin B6: 0.238 mg
+Vitamin B12: 0 µg
+Folate: 99 µg

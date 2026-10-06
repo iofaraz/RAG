@@ -1,0 +1,29 @@
+Food: Yogurt, Greek, nonfat, Fruit on Bottom, Blackberry, CHOBANI
+Food ID: 170916
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 7.54 g
+Carbohydrates: 15.43 g
+Fat: 0.37 g
+Fiber: 0.4 g
+Sugar: 14.93 g
+
+Fats:
+Saturated fat: 0.19 g
+Monounsaturated fat: 0.06 g
+Polyunsaturated fat: 0.123 g
+Trans fat: 0.01 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 94 mg
+Iron: 0 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.4 mg

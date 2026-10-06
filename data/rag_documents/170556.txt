@@ -1,0 +1,37 @@
+Food: Seeds, pumpkin and squash seed kernels, dried
+Food ID: 170556
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 559 kcal
+Protein: 30.23 g
+Carbohydrates: 10.71 g
+Fat: 49.05 g
+Fiber: 6 g
+Sugar: 1.4 g
+
+Fats:
+Saturated fat: 8.659 g
+Monounsaturated fat: 16.242 g
+Polyunsaturated fat: 20.976 g
+Trans fat: 0.064 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 809 mg
+Calcium: 46 mg
+Iron: 8.82 mg
+Magnesium: 592 mg
+Zinc: 7.81 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 2.18 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 0 µg
+Folate: 58 µg

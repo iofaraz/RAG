@@ -1,0 +1,32 @@
+Food: McDONALD'S, Fruit 'n Yogurt Parfait (without granola)
+Food ID: 173313
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 2.47 g
+Carbohydrates: 17.67 g
+Fat: 1.13 g
+Fiber: 0.9 g
+Sugar: 11.9 g
+
+Fats:
+Saturated fat: 0.004 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.033 g
+Trans fat: 0.054 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 38 mg
+Potassium: 165 mg
+Calcium: 87 mg
+Iron: 0.36 mg
+Magnesium: 12 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin C: 14.5 mg
+Vitamin B12: 0.2 µg
+Folate: 11 µg

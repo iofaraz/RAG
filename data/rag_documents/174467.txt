@@ -1,0 +1,32 @@
+Food: Duck, domesticated, liver, raw
+Food ID: 174467
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 18.74 g
+Carbohydrates: 3.53 g
+Fat: 4.64 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.44 g
+Monounsaturated fat: 0.71 g
+Polyunsaturated fat: 0.63 g
+Cholesterol: 515 mg
+
+Minerals:
+Sodium: 140 mg
+Potassium: 230 mg
+Calcium: 11 mg
+Iron: 30.53 mg
+Magnesium: 24 mg
+Zinc: 3.07 mg
+
+Vitamins:
+Vitamin A: 11984 µg
+Vitamin C: 4.5 mg
+Vitamin B6: 0.76 mg
+Vitamin B12: 54 µg
+Folate: 738 µg

@@ -1,0 +1,36 @@
+Food: Quesadilla, beef or pork, with vegetables
+Food ID: 2708595
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 279 kcal
+Protein: 11.1 g
+Carbohydrates: 28.22 g
+Fat: 13.22 g
+Fiber: 2.1 g
+Sugar: 2.63 g
+
+Fats:
+Saturated fat: 5.319 g
+Monounsaturated fat: 3.781 g
+Polyunsaturated fat: 2.384 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 592 mg
+Potassium: 142 mg
+Calcium: 187 mg
+Iron: 2.32 mg
+Magnesium: 20 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 8.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.62 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0.48 µg
+Folate: 58 µg

@@ -1,0 +1,21 @@
+Food: Khorasan, grain, dry, raw
+Food ID: 2710830
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 14.7557 g
+Carbohydrates: 71.7943 g
+Fat: 2.8 g
+Fiber: 10.52 g
+
+Minerals:
+Sodium: 3.936 mg
+Potassium: 450.5 mg
+Calcium: 24.08 mg
+Iron: 3.874 mg
+Magnesium: 130.1 mg
+Zinc: 4.46 mg
+
+Vitamins:
+Vitamin B6: 0.2585 mg

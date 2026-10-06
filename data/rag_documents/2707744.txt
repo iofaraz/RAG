@@ -1,0 +1,36 @@
+Food: Muffin, English, whole grain white
+Food ID: 2707744
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 223 kcal
+Protein: 8.7 g
+Carbohydrates: 44.8 g
+Fat: 2 g
+Fiber: 4.6 g
+Sugar: 1.56 g
+
+Fats:
+Saturated fat: 0.287 g
+Monounsaturated fat: 0.28 g
+Polyunsaturated fat: 0.834 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 353 mg
+Potassium: 186 mg
+Calcium: 178 mg
+Iron: 2.87 mg
+Magnesium: 37 mg
+Zinc: 1.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.45 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0 µg
+Folate: 64 µg

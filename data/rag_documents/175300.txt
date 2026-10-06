@@ -1,0 +1,32 @@
+Food: Game meat, buffalo, water, cooked, roasted
+Food ID: 175300
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 26.83 g
+Carbohydrates: 0 g
+Fat: 1.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.6 g
+Monounsaturated fat: 0.55 g
+Polyunsaturated fat: 0.36 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 313 mg
+Calcium: 15 mg
+Iron: 2.12 mg
+Magnesium: 33 mg
+Zinc: 2.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.46 mg
+Vitamin B12: 1.75 µg
+Folate: 9 µg

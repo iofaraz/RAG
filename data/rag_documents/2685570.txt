@@ -1,0 +1,22 @@
+Food: Squash, winter, butternut, raw
+Food ID: 2685570
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.14875 g
+Carbohydrates: 10.5075 g
+Fat: 0.1675 g
+Fiber: 1.959 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 329.1 mg
+Calcium: 21.74 mg
+Iron: 0.2129 mg
+Magnesium: 14.95 mg
+Zinc: 0.193 mg
+
+Vitamins:
+Vitamin C: 7.6 mg
+Folate: 55 µg

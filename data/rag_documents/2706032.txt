@@ -1,0 +1,36 @@
+Food: Chicken thigh, baked or broiled, skin not eaten, from pre-cooked
+Food ID: 2706032
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 193 kcal
+Protein: 24.09 g
+Carbohydrates: 0 g
+Fat: 10.74 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.777 g
+Monounsaturated fat: 4.727 g
+Polyunsaturated fat: 1.621 g
+Cholesterol: 128 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 262 mg
+Calcium: 13 mg
+Iron: 0.97 mg
+Magnesium: 21 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.48 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 0.45 µg
+Folate: 8 µg

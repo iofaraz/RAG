@@ -1,0 +1,36 @@
+Food: Crackers, matzo, reduced sodium
+Food ID: 2708142
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 395 kcal
+Protein: 10 g
+Carbohydrates: 83.7 g
+Fat: 1.4 g
+Fiber: 3 g
+Sugar: 0.29 g
+
+Fats:
+Saturated fat: 0.226 g
+Monounsaturated fat: 0.127 g
+Polyunsaturated fat: 0.603 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 112 mg
+Calcium: 13 mg
+Iron: 3.16 mg
+Magnesium: 25 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

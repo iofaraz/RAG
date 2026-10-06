@@ -1,0 +1,36 @@
+Food: Potato, mashed, from school lunch
+Food ID: 2709502
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 2.14 g
+Carbohydrates: 13.2 g
+Fat: 1.89 g
+Fiber: 1 g
+Sugar: 1.85 g
+
+Fats:
+Saturated fat: 0.491 g
+Monounsaturated fat: 0.644 g
+Polyunsaturated fat: 0.655 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 201 mg
+Potassium: 203 mg
+Calcium: 41 mg
+Iron: 0.18 mg
+Magnesium: 13 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 11.7 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.45 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.193 mg
+Vitamin B12: 0.17 µg
+Folate: 7 µg

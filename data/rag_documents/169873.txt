@@ -1,0 +1,36 @@
+Food: Babyfood, fruit, tutti frutti, strained
+Food ID: 169873
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 0.4 g
+Carbohydrates: 15.48 g
+Fat: 0.3 g
+Fiber: 0.6 g
+Sugar: 9.29 g
+
+Fats:
+Saturated fat: 0.087 g
+Monounsaturated fat: 0.113 g
+Polyunsaturated fat: 0.043 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 46 mg
+Calcium: 15 mg
+Iron: 0.2 mg
+Magnesium: 4 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 12.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.01 µg
+Folate: 3 µg

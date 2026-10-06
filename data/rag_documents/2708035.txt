@@ -1,0 +1,36 @@
+Food: Sopaipilla with syrup or honey
+Food ID: 2708035
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 361 kcal
+Protein: 4.38 g
+Carbohydrates: 51.7 g
+Fat: 16.25 g
+Fiber: 1.1 g
+Sugar: 20.88 g
+
+Fats:
+Saturated fat: 3.976 g
+Monounsaturated fat: 6.489 g
+Polyunsaturated fat: 4.567 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 670 mg
+Potassium: 67 mg
+Calcium: 75 mg
+Iron: 2.46 mg
+Magnesium: 12 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.98 mg
+Vitamin K: 8.5 µg
+Vitamin B6: 0.03 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

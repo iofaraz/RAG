@@ -1,0 +1,36 @@
+Food: Shrimp gumbo
+Food ID: 2707142
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 6.52 g
+Carbohydrates: 4.63 g
+Fat: 1.89 g
+Fiber: 0.9 g
+Sugar: 1.78 g
+
+Fats:
+Saturated fat: 0.782 g
+Monounsaturated fat: 0.335 g
+Polyunsaturated fat: 0.351 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 377 mg
+Potassium: 194 mg
+Calcium: 67 mg
+Iron: 1.1 mg
+Magnesium: 20 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.76 mg
+Vitamin K: 8.7 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.2 µg
+Folate: 21 µg

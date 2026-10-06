@@ -1,0 +1,36 @@
+Food: Beef, loin, top sirloin petite roast/filet, boneless, separable lean only, trimmed to 0" fat, select, raw
+Food ID: 174695
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 23.05 g
+Carbohydrates: 0 g
+Fat: 3.35 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.125 g
+Monounsaturated fat: 1.384 g
+Polyunsaturated fat: 0.096 g
+Trans fat: 0.157 g
+Cholesterol: 69 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 388 mg
+Calcium: 5 mg
+Iron: 2.39 mg
+Magnesium: 25 mg
+Zinc: 5.78 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.653 mg
+Vitamin B12: 2.38 µg
+Folate: 4 µg

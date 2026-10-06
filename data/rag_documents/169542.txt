@@ -1,0 +1,35 @@
+Food: Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+Food ID: 169542
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 247 kcal
+Protein: 19.61 g
+Carbohydrates: 0 g
+Fat: 18.16 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.41 g
+Monounsaturated fat: 8.93 g
+Polyunsaturated fat: 0.79 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 302 mg
+Calcium: 23 mg
+Iron: 1.42 mg
+Magnesium: 20 mg
+Zinc: 3.41 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.41 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.535 mg
+Vitamin B12: 1.01 µg
+Folate: 11 µg

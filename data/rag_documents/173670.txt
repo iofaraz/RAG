@@ -1,0 +1,32 @@
+Food: Fish, ling, raw
+Food ID: 173670
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 87 kcal
+Protein: 18.99 g
+Carbohydrates: 0 g
+Fat: 0.64 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.12 g
+Monounsaturated fat: 0.09 g
+Polyunsaturated fat: 0.22 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 135 mg
+Potassium: 379 mg
+Calcium: 34 mg
+Iron: 0.65 mg
+Magnesium: 63 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.304 mg
+Vitamin B12: 0.56 µg
+Folate: 7 µg

@@ -1,0 +1,36 @@
+Food: Soy protein concentrate, produced by acid wash
+Food ID: 174301
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 328 kcal
+Protein: 63.63 g
+Carbohydrates: 25.41 g
+Fat: 0.46 g
+Fiber: 5.5 g
+Sugar: 20 g
+
+Fats:
+Saturated fat: 0.052 g
+Monounsaturated fat: 0.079 g
+Polyunsaturated fat: 0.201 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 900 mg
+Potassium: 450 mg
+Calcium: 363 mg
+Iron: 10.78 mg
+Magnesium: 140 mg
+Zinc: 4.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin K: 0 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0 µg
+Folate: 340 µg

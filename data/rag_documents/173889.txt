@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST, Honeycomb Cereal
+Food ID: 173889
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 394 kcal
+Protein: 6.01 g
+Carbohydrates: 86.63 g
+Fat: 2.93 g
+Fiber: 3.2 g
+Sugar: 31.51 g
+
+Fats:
+Saturated fat: 1.29 g
+Monounsaturated fat: 0.6 g
+Polyunsaturated fat: 0.91 g
+Trans fat: 0.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 553 mg
+Potassium: 142 mg
+Calcium: 11 mg
+Iron: 8.44 mg
+Magnesium: 45 mg
+Zinc: 4.69 mg
+
+Vitamins:
+Vitamin A: 678 µg
+Vitamin C: 0 mg
+Vitamin D: 7.8 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 1.56 mg
+Vitamin B12: 4.69 µg
+Folate: 313 µg

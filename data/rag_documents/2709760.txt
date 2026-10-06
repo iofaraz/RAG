@@ -1,0 +1,36 @@
+Food: Soup, tomato, canned / carton, reduced sodium
+Food ID: 2709760
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 0.64 g
+Carbohydrates: 7.67 g
+Fat: 0.33 g
+Fiber: 0.6 g
+Sugar: 4.17 g
+
+Fats:
+Saturated fat: 0.051 g
+Monounsaturated fat: 0.12 g
+Polyunsaturated fat: 0.122 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 191 mg
+Potassium: 113 mg
+Calcium: 8 mg
+Iron: 0.44 mg
+Magnesium: 7 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

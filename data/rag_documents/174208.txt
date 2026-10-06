@@ -1,0 +1,37 @@
+Food: Crustaceans, lobster, northern, raw
+Food ID: 174208
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 16.52 g
+Carbohydrates: 0 g
+Fat: 0.75 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.181 g
+Monounsaturated fat: 0.22 g
+Polyunsaturated fat: 0.296 g
+Trans fat: 0.011 g
+Cholesterol: 127 mg
+
+Minerals:
+Sodium: 423 mg
+Potassium: 200 mg
+Calcium: 84 mg
+Iron: 0.26 mg
+Magnesium: 38 mg
+Zinc: 3.53 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 1.25 µg
+Folate: 10 µg

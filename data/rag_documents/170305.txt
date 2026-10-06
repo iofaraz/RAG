@@ -1,0 +1,32 @@
+Food: School Lunch, pizza, BIG DADDY'S LS 16" 51% Whole Grain Rolled Edge Cheese Pizza, frozen
+Food ID: 170305
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 13.89 g
+Carbohydrates: 27.1 g
+Fat: 8.81 g
+Fiber: 2.7 g
+Sugar: 4.77 g
+
+Fats:
+Saturated fat: 4.14 g
+Monounsaturated fat: 2.29 g
+Polyunsaturated fat: 1.04 g
+Trans fat: 0.3 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 288 mg
+Calcium: 183 mg
+Iron: 2.5 mg
+Magnesium: 38 mg
+Zinc: 1.74 mg
+
+Vitamins:
+Vitamin C: 0.4 mg
+Vitamin B6: 0.099 mg
+Vitamin B12: 2 µg

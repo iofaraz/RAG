@@ -1,0 +1,36 @@
+Food: Bread, reduced calorie and/or high fiber, white or NFS
+Food ID: 2707635
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 8.7 g
+Carbohydrates: 44.3 g
+Fat: 2.5 g
+Fiber: 9.7 g
+Sugar: 4.76 g
+
+Fats:
+Saturated fat: 0.549 g
+Monounsaturated fat: 1.077 g
+Polyunsaturated fat: 0.559 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 479 mg
+Potassium: 76 mg
+Calcium: 94 mg
+Iron: 3.19 mg
+Magnesium: 23 mg
+Zinc: 1.34 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.28 µg
+Folate: 95 µg

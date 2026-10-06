@@ -1,0 +1,26 @@
+Food: KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product
+Food ID: 173449
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 222 kcal
+Protein: 19.6 g
+Carbohydrates: 11.8 g
+Fat: 10.6 g
+Fiber: 0 g
+Sugar: 8.5 g
+
+Fats:
+Saturated fat: 7.1 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 1586 mg
+Potassium: 345 mg
+Calcium: 574 mg
+Iron: 0.14 mg
+Zinc: 2.49 mg
+
+Vitamins:
+Vitamin C: 0.1 mg

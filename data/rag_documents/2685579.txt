@@ -1,0 +1,21 @@
+Food: Tomato, sauce, canned, with salt added
+Food ID: 2685579
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.35187 g
+Carbohydrates: 6.33162 g
+Fat: 0.3825 g
+Fiber: 1.636 g
+
+Minerals:
+Sodium: 416.9 mg
+Potassium: 355.5 mg
+Calcium: 17.1 mg
+Iron: 1.107 mg
+Magnesium: 18.73 mg
+Zinc: 0.183 mg
+
+Vitamins:
+Vitamin C: 9.2 mg

@@ -1,0 +1,34 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, Honey BUZZERS
+Food ID: 174642
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 3.45 g
+Carbohydrates: 89.66 g
+Fat: 1.72 g
+Fiber: 3.4 g
+Sugar: 37.93 g
+
+Fats:
+Saturated fat: 0.585 g
+Monounsaturated fat: 0.495 g
+Polyunsaturated fat: 0.585 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 759 mg
+Potassium: 121 mg
+Calcium: 14 mg
+Iron: 31.03 mg
+Magnesium: 28 mg
+Zinc: 12.93 mg
+
+Vitamins:
+Vitamin C: 20.7 mg
+Vitamin D: 3.4 µg
+Vitamin B6: 1.724 mg
+Vitamin B12: 5.17 µg
+Folate: 690 µg

@@ -1,0 +1,37 @@
+Food: Pork, ground, 72% lean / 28% fat, cooked, crumbles
+Food ID: 169191
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 393 kcal
+Protein: 22.83 g
+Carbohydrates: 1.39 g
+Fat: 32.93 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 11.345 g
+Monounsaturated fat: 29.613 g
+Polyunsaturated fat: 8.327 g
+Trans fat: 0.229 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 94 mg
+Potassium: 280 mg
+Calcium: 20 mg
+Iron: 1.15 mg
+Magnesium: 19 mg
+Zinc: 2.58 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.35 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.508 mg
+Vitamin B12: 1.17 µg
+Folate: 2 µg

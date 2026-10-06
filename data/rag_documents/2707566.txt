@@ -1,0 +1,36 @@
+Food: Nutella sandwich on white bread
+Food ID: 2707566
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 362 kcal
+Protein: 8.03 g
+Carbohydrates: 53.78 g
+Fat: 12.68 g
+Fiber: 3.4 g
+Sugar: 22.28 g
+
+Fats:
+Saturated fat: 10.422 g
+Monounsaturated fat: 0.468 g
+Polyunsaturated fat: 1.22 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 308 mg
+Potassium: 218 mg
+Calcium: 175 mg
+Iron: 3.72 mg
+Magnesium: 40 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.87 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.089 mg
+Vitamin B12: 0.09 µg
+Folate: 77 µg

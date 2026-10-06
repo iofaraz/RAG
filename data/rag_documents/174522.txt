@@ -1,0 +1,36 @@
+Food: Soup, chicken mushroom, canned, condensed
+Food ID: 174522
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 1.61 g
+Carbohydrates: 11.95 g
+Fat: 4.84 g
+Fiber: 3.2 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 1.246 g
+Monounsaturated fat: 2.125 g
+Polyunsaturated fat: 1.226 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 669 mg
+Potassium: 56 mg
+Calcium: 23 mg
+Iron: 0.7 mg
+Magnesium: 7 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.64 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.05 µg
+Folate: 2 µg

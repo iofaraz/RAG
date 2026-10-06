@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, mechanically separated, raw
+Food ID: 168272
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 304 kcal
+Protein: 15.03 g
+Carbohydrates: 0 g
+Fat: 26.54 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 9.82 g
+Monounsaturated fat: 12.26 g
+Polyunsaturated fat: 2.44 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 298 mg
+Calcium: 315 mg
+Iron: 4.25 mg
+Magnesium: 16 mg
+Zinc: 2.44 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.7 mg
+Vitamin B6: 0.37 mg
+Vitamin B12: 0.58 µg
+Folate: 3 µg

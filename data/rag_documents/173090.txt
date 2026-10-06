@@ -1,0 +1,33 @@
+Food: Beef, New Zealand, imported, subcutaneous fat, cooked
+Food ID: 173090
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 731 kcal
+Protein: 6.5 g
+Carbohydrates: 0 g
+Fat: 78.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 30.256 g
+Monounsaturated fat: 25.342 g
+Polyunsaturated fat: 1.702 g
+Trans fat: 2.698 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 129 mg
+Calcium: 17 mg
+Iron: 0.47 mg
+Magnesium: 7 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin B6: 0.057 mg
+Vitamin B12: 0.34 µg

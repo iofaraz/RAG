@@ -1,0 +1,36 @@
+Food: Chicken or turkey salad, made with mayonnaise
+Food ID: 2706799
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 13.92 g
+Carbohydrates: 2.88 g
+Fat: 18.76 g
+Fiber: 0.4 g
+Sugar: 2.1 g
+
+Fats:
+Saturated fat: 3.233 g
+Monounsaturated fat: 4.874 g
+Polyunsaturated fat: 9.739 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 484 mg
+Potassium: 207 mg
+Calcium: 20 mg
+Iron: 0.46 mg
+Magnesium: 15 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.98 mg
+Vitamin K: 45.1 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.21 µg
+Folate: 14 µg

@@ -1,0 +1,36 @@
+Food: Vegetables as ingredient in stews
+Food ID: 2710812
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 1.77 g
+Carbohydrates: 12.67 g
+Fat: 0.3 g
+Fiber: 2.6 g
+Sugar: 3.16 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.089 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 325 mg
+Calcium: 21 mg
+Iron: 0.46 mg
+Magnesium: 19 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 259 µg
+Vitamin C: 14 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 10.9 µg
+Vitamin B6: 0.136 mg
+Vitamin B12: 0 µg
+Folate: 25 µg

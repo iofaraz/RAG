@@ -1,0 +1,36 @@
+Food: Pie, oatmeal
+Food ID: 2708016
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 396 kcal
+Protein: 6.14 g
+Carbohydrates: 56.92 g
+Fat: 16.02 g
+Fiber: 2.2 g
+Sugar: 32.08 g
+
+Fats:
+Saturated fat: 5.827 g
+Monounsaturated fat: 6.317 g
+Polyunsaturated fat: 1.941 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 315 mg
+Potassium: 105 mg
+Calcium: 24 mg
+Iron: 1.76 mg
+Magnesium: 22 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 67 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.44 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.17 µg
+Folate: 38 µg

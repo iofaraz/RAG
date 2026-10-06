@@ -1,0 +1,36 @@
+Food: Cheese, provolone, reduced fat
+Food ID: 2705734
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 24.7 g
+Carbohydrates: 3.5 g
+Fat: 17.6 g
+Fiber: 0 g
+Sugar: 0.55 g
+
+Fats:
+Saturated fat: 11.3 g
+Monounsaturated fat: 4.89 g
+Polyunsaturated fat: 0.51 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 615 mg
+Potassium: 138 mg
+Calcium: 756 mg
+Iron: 0.52 mg
+Magnesium: 28 mg
+Zinc: 3.23 mg
+
+Vitamins:
+Vitamin A: 141 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.15 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 1.46 µg
+Folate: 10 µg

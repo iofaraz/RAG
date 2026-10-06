@@ -1,0 +1,31 @@
+Food: Soup, lentil with ham, canned, ready-to-serve
+Food ID: 171549
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 3.74 g
+Carbohydrates: 8.16 g
+Fat: 1.12 g
+
+Fats:
+Saturated fat: 0.45 g
+Monounsaturated fat: 0.52 g
+Polyunsaturated fat: 0.13 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 532 mg
+Potassium: 144 mg
+Calcium: 17 mg
+Iron: 1.07 mg
+Magnesium: 9 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 1.7 mg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.12 µg
+Folate: 20 µg

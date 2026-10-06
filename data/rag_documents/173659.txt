@@ -1,0 +1,31 @@
+Food: Beverages, drink mix, QUAKER OATS, GATORADE, orange flavor, powder
+Food ID: 173659
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 388 kcal
+Protein: 0 g
+Carbohydrates: 94.11 g
+Fat: 1.23 g
+Fiber: 0 g
+Sugar: 80.5 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 30 mg
+Calcium: 40 mg
+Iron: 0.34 mg
+Magnesium: 1 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin C: 0.4 mg
+Vitamin B6: 0.022 mg

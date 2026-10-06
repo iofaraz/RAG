@@ -1,0 +1,36 @@
+Food: Fish, mackerel, Atlantic, raw
+Food ID: 175119
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 205 kcal
+Protein: 18.6 g
+Carbohydrates: 0 g
+Fat: 13.89 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.257 g
+Monounsaturated fat: 5.456 g
+Polyunsaturated fat: 3.35 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 90 mg
+Potassium: 314 mg
+Calcium: 12 mg
+Iron: 1.63 mg
+Magnesium: 76 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 0.4 mg
+Vitamin D: 16.1 µg
+Vitamin E: 1.52 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.399 mg
+Vitamin B12: 8.71 µg
+Folate: 1 µg

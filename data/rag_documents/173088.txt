@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, oyster blade, separable lean only, raw
+Food ID: 173088
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 21.83 g
+Carbohydrates: 0 g
+Fat: 7.56 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.589 g
+Monounsaturated fat: 2.648 g
+Polyunsaturated fat: 0.268 g
+Trans fat: 0.079 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 297 mg
+Calcium: 4 mg
+Iron: 1.95 mg
+Magnesium: 18 mg
+Zinc: 4.64 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.38 mg
+Vitamin B6: 0.156 mg
+Vitamin B12: 2.33 µg

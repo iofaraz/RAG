@@ -1,0 +1,36 @@
+Food: Chicken breast, NS as to cooking method, skin eaten
+Food ID: 2705953
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 175 kcal
+Protein: 26.37 g
+Carbohydrates: 0.09 g
+Fat: 7.67 g
+Fiber: 0 g
+Sugar: 0.09 g
+
+Fats:
+Saturated fat: 1.958 g
+Monounsaturated fat: 3.131 g
+Polyunsaturated fat: 0.945 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 276 mg
+Calcium: 16 mg
+Iron: 0.51 mg
+Magnesium: 25 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.33 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.307 mg
+Vitamin B12: 0.3 µg
+Folate: 11 µg

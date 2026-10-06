@@ -1,0 +1,28 @@
+Food: Formulated bar, MARS SNACKFOOD US, COCOAVIA, Chocolate Almond Snack Bar
+Food ID: 174782
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 347 kcal
+Protein: 7.72 g
+Carbohydrates: 51.68 g
+Fat: 14.19 g
+Fiber: 5.2 g
+Sugar: 27.03 g
+
+Fats:
+Saturated fat: 4.326 g
+Trans fat: 0.037 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 260 mg
+Calcium: 1209 mg
+Iron: 2.21 mg
+
+Vitamins:
+Vitamin C: 42.5 mg
+Vitamin B6: 0.909 mg
+Vitamin B12: 2.73 µg
+Folate: 182 µg

@@ -1,0 +1,20 @@
+Food: Pork, chop, center cut, raw
+Food ID: 2727575
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 22.8125 g
+Carbohydrates: 0 g
+Fat: 5.475 g
+
+Fats:
+Cholesterol: 57.3 mg
+
+Minerals:
+Sodium: 39.3 mg
+Potassium: 366.5 mg
+Calcium: 4.124 mg
+Iron: 0.4213 mg
+Magnesium: 23.44 mg
+Zinc: 1.325 mg

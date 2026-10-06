@@ -1,0 +1,37 @@
+Food: Lemon peel, raw
+Food ID: 167749
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 1.5 g
+Carbohydrates: 16 g
+Fat: 0.3 g
+Fiber: 10.6 g
+Sugar: 4.17 g
+
+Fats:
+Saturated fat: 0.039 g
+Monounsaturated fat: 0.011 g
+Polyunsaturated fat: 0.089 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 160 mg
+Calcium: 134 mg
+Iron: 0.8 mg
+Magnesium: 15 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 129 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.172 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

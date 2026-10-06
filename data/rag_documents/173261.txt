@@ -1,0 +1,26 @@
+Food: Pillsbury, Crusty French Loaf, refrigerated dough
+Food ID: 173261
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 8.59 g
+Carbohydrates: 46.35 g
+Fat: 2.88 g
+Fiber: 2.6 g
+Sugar: 5.06 g
+
+Fats:
+Saturated fat: 0.67 g
+Trans fat: 0.64 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 575 mg
+Calcium: 19 mg
+Iron: 2.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

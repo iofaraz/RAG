@@ -1,0 +1,36 @@
+Food: Soup, hot and sour
+Food ID: 2707136
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 39 kcal
+Protein: 2.58 g
+Carbohydrates: 4.35 g
+Fat: 1.21 g
+Fiber: 0.5 g
+Sugar: 0.42 g
+
+Fats:
+Saturated fat: 0.229 g
+Monounsaturated fat: 0.288 g
+Polyunsaturated fat: 0.311 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 376 mg
+Potassium: 55 mg
+Calcium: 19 mg
+Iron: 0.64 mg
+Magnesium: 9 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.39 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.1 µg
+Folate: 8 µg

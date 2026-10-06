@@ -1,0 +1,36 @@
+Food: Moo Shu pork, without Chinese pancake
+Food ID: 2706764
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 10.41 g
+Carbohydrates: 4.01 g
+Fat: 10.7 g
+Fiber: 0.9 g
+Sugar: 1.76 g
+
+Fats:
+Saturated fat: 1.93 g
+Monounsaturated fat: 4.307 g
+Polyunsaturated fat: 3.605 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 815 mg
+Potassium: 264 mg
+Calcium: 43 mg
+Iron: 1.12 mg
+Magnesium: 25 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 10 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.8 mg
+Vitamin K: 33.9 µg
+Vitamin B6: 0.254 mg
+Vitamin B12: 0.31 µg
+Folate: 33 µg

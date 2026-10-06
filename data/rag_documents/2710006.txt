@@ -1,0 +1,36 @@
+Food: Yeast extract spread
+Food ID: 2710006
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 23.88 g
+Carbohydrates: 20.42 g
+Fat: 0.9 g
+Fiber: 6.5 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3380 mg
+Potassium: 2100 mg
+Calcium: 67 mg
+Iron: 4.04 mg
+Magnesium: 180 mg
+Zinc: 4.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.5 µg
+Folate: 3786 µg

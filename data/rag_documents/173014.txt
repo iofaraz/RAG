@@ -1,0 +1,33 @@
+Food: Cereals ready-to-eat, QUAKER Oatmeal Squares, Golden Maple
+Food ID: 173014
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 380 kcal
+Protein: 11.3 g
+Carbohydrates: 78.04 g
+Fat: 4.83 g
+Fiber: 8.3 g
+Sugar: 16.82 g
+
+Fats:
+Saturated fat: 0.874 g
+Monounsaturated fat: 1.595 g
+Polyunsaturated fat: 1.524 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 347 mg
+Potassium: 358 mg
+Calcium: 201 mg
+Iron: 29 mg
+Magnesium: 115 mg
+Zinc: 7.18 mg
+
+Vitamins:
+Vitamin C: 11.5 mg
+Vitamin B6: 0.88 mg
+Vitamin B12: 0 µg
+Folate: 723 µg

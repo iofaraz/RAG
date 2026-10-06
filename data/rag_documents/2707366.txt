@@ -1,0 +1,36 @@
+Food: Black beans with meat
+Food ID: 2707366
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 177 kcal
+Protein: 10.61 g
+Carbohydrates: 19.06 g
+Fat: 6.81 g
+Fiber: 7 g
+Sugar: 0.36 g
+
+Fats:
+Saturated fat: 1.155 g
+Monounsaturated fat: 2.793 g
+Polyunsaturated fat: 2.403 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 275 mg
+Potassium: 328 mg
+Calcium: 24 mg
+Iron: 1.95 mg
+Magnesium: 59 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.78 mg
+Vitamin K: 8.4 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.22 µg
+Folate: 114 µg

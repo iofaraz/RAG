@@ -1,0 +1,13 @@
+Food: Walrus, liver, raw (Alaska Native)
+Food ID: 168031
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 21 g
+Carbohydrates: 3.5 g
+Fat: 3 g
+
+Minerals:
+Iron: 14.4 mg

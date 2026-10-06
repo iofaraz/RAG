@@ -1,0 +1,37 @@
+Food: Beverages, fruit punch drink, without added nutrients, canned
+Food ID: 171914
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 0 g
+Carbohydrates: 11.97 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 11.29 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 25 mg
+Calcium: 8 mg
+Iron: 0.09 mg
+Magnesium: 3 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

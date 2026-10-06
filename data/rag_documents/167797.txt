@@ -1,0 +1,31 @@
+Food: Fruit juice smoothie, BOLTHOUSE FARMS, BERRY BOOST
+Food ID: 167797
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 0.63 g
+Carbohydrates: 10.9 g
+Fat: 0.02 g
+Fiber: 0 g
+Sugar: 9.3 g
+
+Fats:
+Saturated fat: 0.003 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.011 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 116 mg
+Calcium: 10 mg
+Iron: 0.21 mg
+
+Vitamins:
+Vitamin C: 108.6 mg
+Vitamin E: 5.03 mg
+Vitamin B6: 0.4 mg
+Vitamin B12: 0.9 µg

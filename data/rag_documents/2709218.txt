@@ -1,0 +1,36 @@
+Food: Applesauce, flavored
+Food ID: 2709218
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 75 kcal
+Protein: 0.25 g
+Carbohydrates: 17.97 g
+Fat: 0.17 g
+Fiber: 1 g
+Sugar: 15.56 g
+
+Fats:
+Saturated fat: 0.007 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.013 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 101 mg
+Calcium: 4 mg
+Iron: 0.04 mg
+Magnesium: 4 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 40.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.025 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

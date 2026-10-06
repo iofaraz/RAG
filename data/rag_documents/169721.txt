@@ -1,0 +1,32 @@
+Food: Wheat, durum
+Food ID: 169721
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 13.68 g
+Carbohydrates: 71.13 g
+Fat: 2.47 g
+
+Fats:
+Saturated fat: 0.454 g
+Monounsaturated fat: 0.344 g
+Polyunsaturated fat: 0.978 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 431 mg
+Calcium: 34 mg
+Iron: 3.52 mg
+Magnesium: 144 mg
+Zinc: 4.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.419 mg
+Vitamin B12: 0 µg
+Folate: 43 µg

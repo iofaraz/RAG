@@ -1,0 +1,36 @@
+Food: Ginger root, pickled
+Food ID: 2710082
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 20 kcal
+Protein: 0.33 g
+Carbohydrates: 4.83 g
+Fat: 0.1 g
+Fiber: 2.6 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.034 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 906 mg
+Potassium: 36 mg
+Calcium: 74 mg
+Iron: 0.28 mg
+Magnesium: 4 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

@@ -1,0 +1,36 @@
+Food: Chicken or turkey, rice, corn, and cheese, with gravy
+Food ID: 2706694
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 5.62 g
+Carbohydrates: 14.43 g
+Fat: 7.85 g
+Fiber: 0.7 g
+Sugar: 1.02 g
+
+Fats:
+Saturated fat: 1.842 g
+Monounsaturated fat: 3.177 g
+Polyunsaturated fat: 1.796 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 424 mg
+Potassium: 142 mg
+Calcium: 44 mg
+Iron: 0.7 mg
+Magnesium: 16 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.53 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0.12 µg
+Folate: 21 µg

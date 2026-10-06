@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, MILKY WAY Caramels. dark chocolate covered
+Food ID: 168807
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 458 kcal
+Protein: 3.82 g
+Carbohydrates: 67.56 g
+Fat: 20.42 g
+Fiber: 2.8 g
+Sugar: 54.08 g
+
+Fats:
+Saturated fat: 13.814 g
+Trans fat: 0.274 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 246 mg
+Calcium: 83 mg
+Iron: 1.2 mg
+
+Vitamins:
+Vitamin C: 0.4 mg

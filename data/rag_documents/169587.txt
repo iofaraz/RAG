@@ -1,0 +1,25 @@
+Food: Candies, NESTLE, RAISINETS Chocolate Covered Raisins
+Food ID: 169587
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 422 kcal
+Protein: 4.4 g
+Carbohydrates: 71 g
+Fat: 17 g
+Fiber: 2.2 g
+Sugar: 59 g
+
+Fats:
+Saturated fat: 11 g
+Trans fat: 0.08 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 33 mg
+Calcium: 85 mg
+Iron: 1.2 mg
+
+Vitamins:
+Vitamin C: 1.6 mg

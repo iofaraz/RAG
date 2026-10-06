@@ -1,0 +1,36 @@
+Food: Milk, chocolate, lowfat, with added vitamin A and vitamin D
+Food ID: 170881
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 3.46 g
+Carbohydrates: 10.15 g
+Fat: 1.11 g
+Fiber: 0.1 g
+Sugar: 9.94 g
+
+Fats:
+Saturated fat: 0.616 g
+Monounsaturated fat: 0.3 g
+Polyunsaturated fat: 0.049 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 172 mg
+Calcium: 129 mg
+Iron: 0.23 mg
+Magnesium: 13 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0.4 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.23 µg
+Folate: 3 µg

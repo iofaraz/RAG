@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, M&M's MINIs Milk Chocolate Candies
+Food ID: 169591
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 502 kcal
+Protein: 4.78 g
+Carbohydrates: 68.4 g
+Fat: 23.36 g
+Fiber: 2.7 g
+Sugar: 62.54 g
+
+Fats:
+Saturated fat: 14.466 g
+Trans fat: 0.184 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 68 mg
+Calcium: 116 mg
+Iron: 1.23 mg
+
+Vitamins:
+Vitamin C: 0.6 mg

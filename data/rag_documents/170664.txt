@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, No Sugar Added, Vanilla Chocolate Strawberry
+Food ID: 170664
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 3.71 g
+Carbohydrates: 21.7 g
+Fat: 6.26 g
+Fiber: 0.7 g
+Sugar: 6.15 g
+
+Fats:
+Saturated fat: 3.94 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 68 mg
+Calcium: 132 mg
+Iron: 0.27 mg
+
+Vitamins:
+Vitamin C: 0.8 mg

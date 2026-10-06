@@ -1,0 +1,36 @@
+Food: Infant formula, Enfamil ProSobee, ready-to-feed
+Food ID: 2705565
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1.64 g
+Carbohydrates: 7.07 g
+Fat: 3.49 g
+Fiber: 0 g
+Sugar: 6.86 g
+
+Fats:
+Saturated fat: 1.462 g
+Monounsaturated fat: 1.204 g
+Polyunsaturated fat: 0.66 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 79 mg
+Calcium: 69 mg
+Iron: 1.23 mg
+Magnesium: 5 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 7.9 mg
+Vitamin D: 1 µg
+Vitamin E: 0.6 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.2 µg
+Folate: 10 µg

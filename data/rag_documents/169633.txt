@@ -1,0 +1,36 @@
+Food: Ice creams, chocolate, light, no sugar added
+Food ID: 169633
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 3.54 g
+Carbohydrates: 26.79 g
+Fat: 5.74 g
+Fiber: 0.9 g
+Sugar: 5.65 g
+
+Fats:
+Saturated fat: 3.61 g
+Monounsaturated fat: 0.93 g
+Polyunsaturated fat: 0.527 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 196 mg
+Calcium: 121 mg
+Iron: 0.48 mg
+Magnesium: 15 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.3 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.38 µg
+Folate: 5 µg

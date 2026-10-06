@@ -1,0 +1,36 @@
+Food: Cheese, mexican, queso chihuahua
+Food ID: 173438
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 21.56 g
+Carbohydrates: 5.56 g
+Fat: 29.68 g
+Fiber: 0 g
+Sugar: 5.56 g
+
+Fats:
+Saturated fat: 18.843 g
+Monounsaturated fat: 8.443 g
+Polyunsaturated fat: 0.892 g
+Cholesterol: 105 mg
+
+Minerals:
+Sodium: 617 mg
+Potassium: 52 mg
+Calcium: 651 mg
+Iron: 0.47 mg
+Magnesium: 23 mg
+Zinc: 3.5 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.26 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 1.03 µg
+Folate: 2 µg

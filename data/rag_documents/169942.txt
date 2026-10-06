@@ -1,0 +1,28 @@
+Food: Persimmons, japanese, dried
+Food ID: 169942
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 1.38 g
+Carbohydrates: 73.43 g
+Fat: 0.59 g
+Fiber: 14.5 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 802 mg
+Calcium: 25 mg
+Iron: 0.74 mg
+Magnesium: 31 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B12: 0 µg

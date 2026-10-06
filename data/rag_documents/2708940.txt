@@ -1,0 +1,36 @@
+Food: Macaroni or pasta salad, made with any type of fat free dressing
+Food ID: 2708940
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 4.25 g
+Carbohydrates: 26.54 g
+Fat: 1.14 g
+Fiber: 1.7 g
+Sugar: 3.42 g
+
+Fats:
+Saturated fat: 0.23 g
+Monounsaturated fat: 0.413 g
+Polyunsaturated fat: 0.252 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 239 mg
+Potassium: 53 mg
+Calcium: 8 mg
+Iron: 0.98 mg
+Magnesium: 14 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 54 µg

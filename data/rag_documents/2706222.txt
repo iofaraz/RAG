@@ -1,0 +1,36 @@
+Food: Ham salad spread
+Food ID: 2706222
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 8.68 g
+Carbohydrates: 10.64 g
+Fat: 15.53 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.049 g
+Monounsaturated fat: 7.171 g
+Polyunsaturated fat: 2.689 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 1075 mg
+Potassium: 150 mg
+Calcium: 8 mg
+Iron: 0.59 mg
+Magnesium: 10 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 1.74 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.76 µg
+Folate: 1 µg

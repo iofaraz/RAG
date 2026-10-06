@@ -1,0 +1,36 @@
+Food: Cereals, QUAKER, Instant Oatmeal, raisins, dates and walnuts, dry
+Food ID: 174625
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 8.82 g
+Carbohydrates: 72.41 g
+Fat: 6.98 g
+Fiber: 6.9 g
+Sugar: 30.85 g
+
+Fats:
+Saturated fat: 1.07 g
+Monounsaturated fat: 1.903 g
+Polyunsaturated fat: 3.24 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 516 mg
+Potassium: 374 mg
+Calcium: 297 mg
+Iron: 10.7 mg
+Magnesium: 92 mg
+Zinc: 1.94 mg
+
+Vitamins:
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 2 µg
+Vitamin B6: 1.197 mg
+Vitamin B12: 0 µg
+Folate: 239 µg

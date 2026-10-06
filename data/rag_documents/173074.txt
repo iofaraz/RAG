@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, brisket point end, separable lean only, raw
+Food ID: 173074
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 20.92 g
+Carbohydrates: 0 g
+Fat: 4.62 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.648 g
+Monounsaturated fat: 2.279 g
+Polyunsaturated fat: 0.264 g
+Trans fat: 0.074 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 321 mg
+Calcium: 4 mg
+Iron: 2.06 mg
+Magnesium: 21 mg
+Zinc: 2.66 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.48 mg
+Vitamin B6: 0.322 mg
+Vitamin B12: 1.39 µg

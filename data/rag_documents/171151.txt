@@ -1,0 +1,36 @@
+Food: Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve
+Food ID: 171151
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 3.02 g
+Carbohydrates: 7.84 g
+Fat: 1.41 g
+Fiber: 1.2 g
+Sugar: 1.67 g
+
+Fats:
+Saturated fat: 0.88 g
+Monounsaturated fat: 0.41 g
+Polyunsaturated fat: 0.05 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 417 mg
+Potassium: 160 mg
+Calcium: 28 mg
+Iron: 1.1 mg
+Magnesium: 8 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 5.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.67 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 3.3 µg
+Folate: 4 µg

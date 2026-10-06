@@ -1,0 +1,36 @@
+Food: Melon, frozen
+Food ID: 2709227
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 0.66 g
+Carbohydrates: 8.27 g
+Fat: 0.16 g
+Fiber: 0.7 g
+Sugar: 7.4 g
+
+Fats:
+Saturated fat: 0.035 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.063 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 166 mg
+Calcium: 7 mg
+Iron: 0.26 mg
+Magnesium: 11 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 88 µg
+Vitamin C: 12.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

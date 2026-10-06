@@ -1,0 +1,33 @@
+Food: Picnic loaf, pork, beef
+Food ID: 172933
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 232 kcal
+Protein: 14.92 g
+Carbohydrates: 4.76 g
+Fat: 16.64 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 6.07 g
+Monounsaturated fat: 7.68 g
+Polyunsaturated fat: 1.89 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 1164 mg
+Potassium: 267 mg
+Calcium: 47 mg
+Iron: 1.02 mg
+Magnesium: 15 mg
+Zinc: 2.18 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin B6: 0.3 mg
+Vitamin B12: 1.5 µg
+Folate: 2 µg

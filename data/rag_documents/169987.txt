@@ -1,0 +1,31 @@
+Food: Celeriac, cooked, boiled, drained, without salt
+Food ID: 169987
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.96 g
+Carbohydrates: 5.9 g
+Fat: 0.19 g
+Fiber: 1.2 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 173 mg
+Calcium: 26 mg
+Iron: 0.43 mg
+Magnesium: 12 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 3.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.101 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

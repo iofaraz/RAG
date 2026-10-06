@@ -1,0 +1,32 @@
+Food: BURGER KING, french fries
+Food ID: 170327
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 280 kcal
+Protein: 3.23 g
+Carbohydrates: 38.7 g
+Fat: 12.48 g
+Fiber: 2.9 g
+Sugar: 0.51 g
+
+Fats:
+Saturated fat: 2.137 g
+Monounsaturated fat: 3.27 g
+Polyunsaturated fat: 5.946 g
+Trans fat: 0.046 g
+
+Minerals:
+Sodium: 279 mg
+Potassium: 467 mg
+Calcium: 17 mg
+Iron: 0.73 mg
+Magnesium: 27 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin C: 2.2 mg
+Vitamin E: 2.45 mg
+Vitamin K: 11.1 µg
+Vitamin B6: 0.327 mg

@@ -1,0 +1,36 @@
+Food: Kung Pao beef
+Food ID: 2706743
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 17.93 g
+Carbohydrates: 4.55 g
+Fat: 14.44 g
+Fiber: 1 g
+Sugar: 1.43 g
+
+Fats:
+Saturated fat: 3.154 g
+Monounsaturated fat: 6.5 g
+Polyunsaturated fat: 3.275 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 175 mg
+Potassium: 225 mg
+Calcium: 16 mg
+Iron: 1.57 mg
+Magnesium: 29 mg
+Zinc: 2.93 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 11.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.7 mg
+Vitamin K: 14.4 µg
+Vitamin B6: 0.285 mg
+Vitamin B12: 0.87 µg
+Folate: 20 µg

@@ -1,0 +1,32 @@
+Food: Fish, wolffish, Atlantic, cooked, dry heat
+Food ID: 174247
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 22.44 g
+Carbohydrates: 0 g
+Fat: 3.06 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.468 g
+Monounsaturated fat: 1.072 g
+Polyunsaturated fat: 1.083 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 109 mg
+Potassium: 385 mg
+Calcium: 8 mg
+Iron: 0.12 mg
+Magnesium: 38 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 130 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.462 mg
+Vitamin B12: 2.35 µg
+Folate: 6 µg

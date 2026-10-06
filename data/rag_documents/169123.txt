@@ -1,0 +1,33 @@
+Food: Pears, dried, sulfured, stewed, with added sugar
+Food ID: 169123
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 140 kcal
+Protein: 0.86 g
+Carbohydrates: 37.14 g
+Fat: 0.29 g
+Fiber: 5.8 g
+
+Fats:
+Saturated fat: 0.016 g
+Monounsaturated fat: 0.061 g
+Polyunsaturated fat: 0.068 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 245 mg
+Calcium: 15 mg
+Iron: 0.97 mg
+Magnesium: 15 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.033 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

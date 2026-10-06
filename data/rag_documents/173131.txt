@@ -1,0 +1,37 @@
+Food: Snacks, popcorn, microwave, 94% fat free
+Food ID: 173131
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 402 kcal
+Protein: 10.72 g
+Carbohydrates: 76.04 g
+Fat: 6.1 g
+Fiber: 13.6 g
+Sugar: 0.65 g
+
+Fats:
+Saturated fat: 1.184 g
+Monounsaturated fat: 2.767 g
+Polyunsaturated fat: 2.216 g
+Trans fat: 0.885 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 571 mg
+Potassium: 284 mg
+Calcium: 14 mg
+Iron: 2.87 mg
+Magnesium: 124 mg
+Zinc: 2.8 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

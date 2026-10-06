@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, heart, raw
+Food ID: 174444
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 18.09 g
+Carbohydrates: 0 g
+Fat: 3.68 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.995 g
+Monounsaturated fat: 0.517 g
+Polyunsaturated fat: 0.646 g
+Trans fat: 0.078 g
+Cholesterol: 119 mg
+
+Minerals:
+Sodium: 94 mg
+Potassium: 277 mg
+Calcium: 5 mg
+Iron: 3.29 mg
+Magnesium: 20 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin B6: 0.144 mg
+Vitamin B12: 8.4 µg

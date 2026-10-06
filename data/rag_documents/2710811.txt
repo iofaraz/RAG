@@ -1,0 +1,36 @@
+Food: Vegetables as ingredient in soups
+Food ID: 2710811
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 1.87 g
+Carbohydrates: 10.56 g
+Fat: 0.33 g
+Fiber: 2 g
+Sugar: 2.34 g
+
+Fats:
+Saturated fat: 0.05 g
+Monounsaturated fat: 0.036 g
+Polyunsaturated fat: 0.103 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 331 mg
+Calcium: 17 mg
+Iron: 0.45 mg
+Magnesium: 24 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 21 mg
+Vitamin D: 0 µg
+Vitamin E: 0.35 mg
+Vitamin K: 39.5 µg
+Vitamin B6: 0.132 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

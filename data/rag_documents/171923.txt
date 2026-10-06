@@ -1,0 +1,37 @@
+Food: Beverages, Powerade Zero Ion4, calorie-free, assorted flavors
+Food ID: 171923
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 0 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 42 mg
+Potassium: 10 mg
+Calcium: 2 mg
+Iron: 0.05 mg
+Magnesium: 1 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.57 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.17 µg
+Folate: 0 µg

@@ -1,0 +1,27 @@
+Food: Cottage cheese, full fat, large or small curd
+Food ID: 2346384
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 11.6244 g
+Carbohydrates: 4.59964 g
+Fat: 4.225 g
+
+Fats:
+Saturated fat: 2.601 g
+Monounsaturated fat: 0.916 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 349.8 mg
+Potassium: 123.6 mg
+Calcium: 88.27 mg
+Iron: 0 mg
+Magnesium: 9.189 mg
+Zinc: 0.4538 mg
+
+Vitamins:
+Vitamin K: 0.2 µg
+Vitamin B6: 0.0466 mg
+Vitamin B12: 0.6617 µg

@@ -1,0 +1,36 @@
+Food: Cabbage, green, raw
+Food ID: 2709773
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 31 kcal
+Protein: 0.96 g
+Carbohydrates: 6.38 g
+Fat: 0.23 g
+Fiber: 2.5 g
+Sugar: 3.2 g
+
+Fats:
+Saturated fat: 0.034 g
+Monounsaturated fat: 0.017 g
+Polyunsaturated fat: 0.017 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 207 mg
+Calcium: 42 mg
+Iron: 0.07 mg
+Magnesium: 14 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 40.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 59.4 µg
+Vitamin B6: 0.138 mg
+Vitamin B12: 0 µg
+Folate: 43 µg

@@ -1,0 +1,37 @@
+Food: Candies, WHATCHAMACALLIT Candy Bar
+Food ID: 168770
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 494 kcal
+Protein: 8.04 g
+Carbohydrates: 63.23 g
+Fat: 23.68 g
+Fiber: 1.9 g
+Sugar: 48.86 g
+
+Fats:
+Saturated fat: 17.04 g
+Monounsaturated fat: 3.78 g
+Polyunsaturated fat: 0.83 g
+Trans fat: 0.12 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 299 mg
+Potassium: 303 mg
+Calcium: 118 mg
+Iron: 1.13 mg
+Magnesium: 28 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.27 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.37 µg
+Folate: 18 µg

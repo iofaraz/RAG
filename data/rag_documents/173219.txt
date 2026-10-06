@@ -1,0 +1,34 @@
+Food: Beverages, Malted drink mix, natural, with added nutrients, powder, prepared with whole milk
+Food ID: 173219
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 3.67 g
+Carbohydrates: 10.67 g
+Fat: 3.21 g
+Fiber: 0 g
+Sugar: 8.37 g
+
+Fats:
+Saturated fat: 1.83 g
+Monounsaturated fat: 0.802 g
+Polyunsaturated fat: 0.213 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 200 mg
+Calcium: 123 mg
+Iron: 1.36 mg
+Magnesium: 15 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 281 µg
+Vitamin C: 10.4 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.325 mg
+Vitamin B12: 0.4 µg
+Folate: 6 µg

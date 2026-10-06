@@ -1,0 +1,36 @@
+Food: Curry sauce
+Food ID: 2710178
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 1.39 g
+Carbohydrates: 5.03 g
+Fat: 8.22 g
+Fiber: 1.4 g
+Sugar: 3.37 g
+
+Fats:
+Saturated fat: 2.477 g
+Monounsaturated fat: 2.711 g
+Polyunsaturated fat: 2.426 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 383 mg
+Potassium: 268 mg
+Calcium: 21 mg
+Iron: 0.89 mg
+Magnesium: 15 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 5.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.31 mg
+Vitamin K: 8.3 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.03 µg
+Folate: 9 µg

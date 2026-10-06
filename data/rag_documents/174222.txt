@@ -1,0 +1,32 @@
+Food: Mollusks, scallop, mixed species, imitation, made from surimi
+Food ID: 174222
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 12.77 g
+Carbohydrates: 10.62 g
+Fat: 0.41 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.08 g
+Monounsaturated fat: 0.06 g
+Polyunsaturated fat: 0.21 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 795 mg
+Potassium: 103 mg
+Calcium: 8 mg
+Iron: 0.31 mg
+Magnesium: 43 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.03 mg
+Vitamin B12: 1.6 µg
+Folate: 2 µg

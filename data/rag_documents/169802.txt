@@ -1,0 +1,17 @@
+Food: Cloudberries, raw (Alaska Native)
+Food ID: 169802
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 2.4 g
+Carbohydrates: 8.6 g
+Fat: 0.8 g
+
+Minerals:
+Calcium: 18 mg
+Iron: 0.7 mg
+
+Vitamins:
+Vitamin C: 158 mg

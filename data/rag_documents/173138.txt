@@ -1,0 +1,28 @@
+Food: Formulated bar, MARS SNACKFOOD US, COCOAVIA, Chocolate Blueberry Snack Bar
+Food ID: 173138
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 325 kcal
+Protein: 6.21 g
+Carbohydrates: 57.87 g
+Fat: 9.27 g
+Fiber: 4.6 g
+Sugar: 33.4 g
+
+Fats:
+Saturated fat: 3.87 g
+Trans fat: 0.037 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 260 mg
+Calcium: 1207 mg
+Iron: 1.88 mg
+
+Vitamins:
+Vitamin C: 42.4 mg
+Vitamin B6: 1.364 mg
+Vitamin B12: 4.09 µg
+Folate: 273 µg

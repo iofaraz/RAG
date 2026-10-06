@@ -1,0 +1,32 @@
+Food: DOMINO'S 14" Sausage Pizza, Ultimate Deep Dish Crust
+Food ID: 170767
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 277 kcal
+Protein: 11.03 g
+Carbohydrates: 31.17 g
+Fat: 12.03 g
+Fiber: 2.6 g
+Sugar: 3.82 g
+
+Fats:
+Saturated fat: 4.755 g
+Monounsaturated fat: 3.608 g
+Polyunsaturated fat: 2.711 g
+Trans fat: 0.261 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 677 mg
+Potassium: 188 mg
+Calcium: 154 mg
+Iron: 2.5 mg
+Magnesium: 24 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin C: 0.4 mg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.5 µg

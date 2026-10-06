@@ -1,0 +1,31 @@
+Food: Pancakes, special dietary, dry mix
+Food ID: 172775
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 349 kcal
+Protein: 8.9 g
+Carbohydrates: 73.9 g
+Fat: 1.4 g
+
+Fats:
+Saturated fat: 0.202 g
+Monounsaturated fat: 0.276 g
+Polyunsaturated fat: 0.611 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 456 mg
+Potassium: 676 mg
+Calcium: 99 mg
+Iron: 3.05 mg
+Magnesium: 47 mg
+Zinc: 1.19 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 107 µg

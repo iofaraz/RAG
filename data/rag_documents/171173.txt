@@ -1,0 +1,36 @@
+Food: Gravy, pork, dry, powder
+Food ID: 171173
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 367 kcal
+Protein: 8.78 g
+Carbohydrates: 63.57 g
+Fat: 8.63 g
+Fiber: 2.4 g
+Sugar: 24.73 g
+
+Fats:
+Saturated fat: 4.29 g
+Monounsaturated fat: 3.881 g
+Polyunsaturated fat: 0.454 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 5356 mg
+Potassium: 235 mg
+Calcium: 139 mg
+Iron: 3.94 mg
+Magnesium: 34 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0.51 µg
+Folate: 31 µg

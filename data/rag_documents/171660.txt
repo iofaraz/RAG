@@ -1,0 +1,36 @@
+Food: Cereals, CREAM OF WHEAT, instant, dry
+Food ID: 171660
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 10.6 g
+Carbohydrates: 75.5 g
+Fat: 1.4 g
+Fiber: 3.3 g
+Sugar: 0.4 g
+
+Fats:
+Saturated fat: 0.222 g
+Monounsaturated fat: 0.192 g
+Polyunsaturated fat: 0.774 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 571 mg
+Potassium: 115 mg
+Calcium: 357 mg
+Iron: 28.6 mg
+Magnesium: 34 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 1341 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 1.786 mg
+Vitamin B12: 0 µg
+Folate: 357 µg

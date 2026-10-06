@@ -1,0 +1,36 @@
+Food: Lau lau
+Food ID: 2706873
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 140 kcal
+Protein: 15.25 g
+Carbohydrates: 0 g
+Fat: 8.32 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.668 g
+Monounsaturated fat: 3.304 g
+Polyunsaturated fat: 1.045 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 231 mg
+Potassium: 223 mg
+Calcium: 14 mg
+Iron: 0.52 mg
+Magnesium: 18 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.7 µg
+Vitamin E: 0.37 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0.78 µg
+Folate: 3 µg

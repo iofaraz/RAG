@@ -1,0 +1,36 @@
+Food: Cheese, mozzarella, part skim milk
+Food ID: 170847
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 254 kcal
+Protein: 24.26 g
+Carbohydrates: 2.77 g
+Fat: 15.92 g
+Fiber: 0 g
+Sugar: 1.13 g
+
+Fats:
+Saturated fat: 10.114 g
+Monounsaturated fat: 4.51 g
+Polyunsaturated fat: 0.472 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 619 mg
+Potassium: 84 mg
+Calcium: 782 mg
+Iron: 0.22 mg
+Magnesium: 23 mg
+Zinc: 2.76 mg
+
+Vitamins:
+Vitamin A: 127 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.14 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.82 µg
+Folate: 9 µg

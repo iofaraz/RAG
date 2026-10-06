@@ -1,0 +1,37 @@
+Food: Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink
+Food ID: 168751
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 38 kcal
+Protein: 0.42 g
+Carbohydrates: 6.59 g
+Fat: 1.04 g
+Fiber: 0.4 g
+Sugar: 6.25 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.625 g
+Polyunsaturated fat: 0.208 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 50 mg
+Calcium: 188 mg
+Iron: 0.3 mg
+Magnesium: 7 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 2.81 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 1.25 µg
+Folate: 1 µg

@@ -1,0 +1,36 @@
+Food: Coffee, Cafe Mocha, decaffeinated
+Food ID: 2710413
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 2.56 g
+Carbohydrates: 10.23 g
+Fat: 1.47 g
+Fiber: 0 g
+Sugar: 9.3 g
+
+Fats:
+Saturated fat: 0.855 g
+Monounsaturated fat: 0.303 g
+Polyunsaturated fat: 0.058 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 46 mg
+Potassium: 149 mg
+Calcium: 96 mg
+Iron: 0.02 mg
+Magnesium: 25 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.33 µg
+Folate: 2 µg

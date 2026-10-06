@@ -1,0 +1,36 @@
+Food: Turnover or hot pocket, NFS
+Food ID: 2708734
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 10.26 g
+Carbohydrates: 27.9 g
+Fat: 11.92 g
+Fiber: 1.6 g
+Sugar: 3.9 g
+
+Fats:
+Saturated fat: 4.8 g
+Monounsaturated fat: 4.205 g
+Polyunsaturated fat: 1.66 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 536 mg
+Potassium: 157 mg
+Calcium: 218 mg
+Iron: 1.88 mg
+Magnesium: 22 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 44 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.76 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0.39 µg
+Folate: 58 µg

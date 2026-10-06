@@ -1,0 +1,36 @@
+Food: Fast Foods, biscuit, with egg and sausage
+Food ID: 172028
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 312 kcal
+Protein: 11.13 g
+Carbohydrates: 21.05 g
+Fat: 20.77 g
+Fiber: 0.2 g
+Sugar: 0.95 g
+
+Fats:
+Saturated fat: 6.449 g
+Monounsaturated fat: 9.985 g
+Polyunsaturated fat: 2.967 g
+Cholesterol: 161 mg
+
+Minerals:
+Sodium: 672 mg
+Potassium: 149 mg
+Calcium: 51 mg
+Iron: 1.9 mg
+Magnesium: 13 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.95 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.75 µg
+Folate: 42 µg

@@ -1,0 +1,29 @@
+Food: Candies, MARS SNACKFOOD US, COCOAVIA Crispy Chocolate Bar
+Food ID: 169653
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 517 kcal
+Protein: 8.21 g
+Carbohydrates: 62.06 g
+Fat: 26.23 g
+Fiber: 7.8 g
+Sugar: 34.96 g
+
+Fats:
+Saturated fat: 14.007 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 40 mg
+Calcium: 1070 mg
+Iron: 3.45 mg
+
+Vitamins:
+Vitamin C: 37.9 mg
+Vitamin E: 10.13 mg
+Vitamin B6: 1.5 mg
+Vitamin B12: 3 µg
+Folate: 200 µg

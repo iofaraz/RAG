@@ -1,0 +1,28 @@
+Food: Veal, Australian, separable fat, raw
+Food ID: 173849
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 509 kcal
+Protein: 9.91 g
+Carbohydrates: 0 g
+Fat: 52.17 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 23.564 g
+Monounsaturated fat: 20.777 g
+Polyunsaturated fat: 1.652 g
+Trans fat: 3.212 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 44 mg
+Calcium: 2 mg
+Iron: 0.93 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 0 mg

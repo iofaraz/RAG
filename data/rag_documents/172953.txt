@@ -1,0 +1,33 @@
+Food: Sausage, Polish, beef with chicken, hot
+Food ID: 172953
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 259 kcal
+Protein: 17.6 g
+Carbohydrates: 3.6 g
+Fat: 19.4 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.01 g
+Monounsaturated fat: 9.7 g
+Polyunsaturated fat: 0.79 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 1540 mg
+Potassium: 237 mg
+Calcium: 12 mg
+Iron: 0.88 mg
+Magnesium: 14 mg
+Zinc: 1.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0.98 µg
+Folate: 2 µg

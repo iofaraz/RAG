@@ -1,0 +1,32 @@
+Food: Crustaceans, crab, blue, crab cakes, home recipe
+Food ID: 171967
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 20.21 g
+Carbohydrates: 0.48 g
+Fat: 7.52 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.483 g
+Monounsaturated fat: 2.815 g
+Polyunsaturated fat: 2.273 g
+Cholesterol: 150 mg
+
+Minerals:
+Sodium: 330 mg
+Potassium: 324 mg
+Calcium: 105 mg
+Iron: 1.08 mg
+Magnesium: 33 mg
+Zinc: 4.09 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 2.8 mg
+Vitamin B6: 0.17 mg
+Vitamin B12: 5.94 µg
+Folate: 53 µg

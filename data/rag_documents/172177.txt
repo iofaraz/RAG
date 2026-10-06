@@ -1,0 +1,36 @@
+Food: Cheese, brie
+Food ID: 172177
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 334 kcal
+Protein: 20.75 g
+Carbohydrates: 0.45 g
+Fat: 27.68 g
+Fiber: 0 g
+Sugar: 0.45 g
+
+Fats:
+Saturated fat: 17.41 g
+Monounsaturated fat: 8.013 g
+Polyunsaturated fat: 0.826 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 629 mg
+Potassium: 152 mg
+Calcium: 184 mg
+Iron: 0.5 mg
+Magnesium: 20 mg
+Zinc: 2.38 mg
+
+Vitamins:
+Vitamin A: 174 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.24 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.235 mg
+Vitamin B12: 1.65 µg
+Folate: 65 µg

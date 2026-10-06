@@ -1,0 +1,36 @@
+Food: Soup, egg drop
+Food ID: 2707282
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 1.16 g
+Carbohydrates: 4.29 g
+Fat: 0.61 g
+Fiber: 0.4 g
+Sugar: 0.09 g
+
+Fats:
+Saturated fat: 0.166 g
+Monounsaturated fat: 0.191 g
+Polyunsaturated fat: 0.129 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 22 mg
+Calcium: 7 mg
+Iron: 0.26 mg
+Magnesium: 2 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 6.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.13 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.03 µg
+Folate: 7 µg

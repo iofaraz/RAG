@@ -1,0 +1,25 @@
+Food: Oat milk, unsweetened, plain, refrigerated
+Food ID: 2257046
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.796875 g
+Carbohydrates: 5.10032 g
+Fat: 2.749 g
+Fiber: 0 g
+
+Minerals:
+Sodium: 41.98 mg
+Potassium: 148.4 mg
+Calcium: 148.5 mg
+Iron: 0.2612 mg
+Magnesium: 5.909 mg
+Zinc: 0.09062 mg
+
+Vitamins:
+Vitamin D: 1.7 µg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.0065 mg
+Vitamin B12: 0.5064 µg
+Folate: 0 µg

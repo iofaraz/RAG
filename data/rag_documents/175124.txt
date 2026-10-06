@@ -1,0 +1,32 @@
+Food: Fish, mullet, striped, cooked, dry heat
+Food ID: 175124
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 150 kcal
+Protein: 24.81 g
+Carbohydrates: 0 g
+Fat: 4.86 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.431 g
+Monounsaturated fat: 1.382 g
+Polyunsaturated fat: 0.917 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 458 mg
+Calcium: 31 mg
+Iron: 1.41 mg
+Magnesium: 33 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 1.2 mg
+Vitamin B6: 0.49 mg
+Vitamin B12: 0.25 µg
+Folate: 10 µg

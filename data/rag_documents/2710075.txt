@@ -1,0 +1,36 @@
+Food: Cabbage, green, pickled
+Food ID: 2710075
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 0.8 g
+Carbohydrates: 10.15 g
+Fat: 0.21 g
+Fiber: 2.1 g
+Sugar: 7.52 g
+
+Fats:
+Saturated fat: 0.028 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.014 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 957 mg
+Potassium: 172 mg
+Calcium: 37 mg
+Iron: 0.06 mg
+Magnesium: 12 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 28.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 49.3 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

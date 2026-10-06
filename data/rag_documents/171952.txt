@@ -1,0 +1,36 @@
+Food: Fish, carp, raw
+Food ID: 171952
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 17.83 g
+Carbohydrates: 0 g
+Fat: 5.6 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.083 g
+Monounsaturated fat: 2.328 g
+Polyunsaturated fat: 1.431 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 333 mg
+Calcium: 41 mg
+Iron: 1.24 mg
+Magnesium: 29 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 1.6 mg
+Vitamin D: 24.7 µg
+Vitamin E: 0.63 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.19 mg
+Vitamin B12: 1.53 µg
+Folate: 15 µg

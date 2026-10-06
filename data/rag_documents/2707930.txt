@@ -1,0 +1,36 @@
+Food: Cookie, fortune
+Food ID: 2707930
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 378 kcal
+Protein: 4.2 g
+Carbohydrates: 84 g
+Fat: 2.7 g
+Fiber: 1.6 g
+Sugar: 45.42 g
+
+Fats:
+Saturated fat: 0.669 g
+Monounsaturated fat: 1.345 g
+Polyunsaturated fat: 0.466 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 31 mg
+Potassium: 41 mg
+Calcium: 12 mg
+Iron: 1.44 mg
+Magnesium: 7 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.013 mg
+Vitamin B12: 0.01 µg
+Folate: 66 µg

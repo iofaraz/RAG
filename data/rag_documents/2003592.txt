@@ -1,0 +1,22 @@
+Food: Grape juice, purple, with added vitamin C, from concentrate, shelf stable
+Food ID: 2003592
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.257812 g
+Carbohydrates: 15.6228 g
+Fat: 0.2875 g
+
+Minerals:
+Sodium: 4.019 mg
+Potassium: 49.78 mg
+Calcium: 9.741 mg
+Iron: 0.04092 mg
+Magnesium: 7.873 mg
+Zinc: 0.0571 mg
+
+Vitamins:
+Vitamin C: 45.61 mg
+Vitamin B6: 0.03869 mg
+Folate: 0.6644 µg

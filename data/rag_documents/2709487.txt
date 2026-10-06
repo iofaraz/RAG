@@ -1,0 +1,36 @@
+Food: Potato, hash brown, ready-to-heat, with cheese
+Food ID: 2709487
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 6.04 g
+Carbohydrates: 23.96 g
+Fat: 15.2 g
+Fiber: 2.6 g
+Sugar: 0.28 g
+
+Fats:
+Saturated fat: 3.945 g
+Monounsaturated fat: 7.259 g
+Polyunsaturated fat: 2.497 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 440 mg
+Potassium: 423 mg
+Calcium: 131 mg
+Iron: 0.47 mg
+Magnesium: 28 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 5.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.93 mg
+Vitamin K: 15.4 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 0.17 µg
+Folate: 17 µg

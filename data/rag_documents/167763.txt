@@ -1,0 +1,37 @@
+Food: Tamarinds, raw
+Food ID: 167763
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 2.8 g
+Carbohydrates: 62.5 g
+Fat: 0.6 g
+Fiber: 5.1 g
+Sugar: 38.8 g
+
+Fats:
+Saturated fat: 0.272 g
+Monounsaturated fat: 0.181 g
+Polyunsaturated fat: 0.059 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 628 mg
+Calcium: 74 mg
+Iron: 2.8 mg
+Magnesium: 92 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

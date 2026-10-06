@@ -1,0 +1,36 @@
+Food: Guisada, pork
+Food ID: 2706407
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 10.31 g
+Carbohydrates: 2.52 g
+Fat: 7.09 g
+Fiber: 0.5 g
+Sugar: 0.63 g
+
+Fats:
+Saturated fat: 2.623 g
+Monounsaturated fat: 3.177 g
+Polyunsaturated fat: 0.841 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 300 mg
+Potassium: 186 mg
+Calcium: 16 mg
+Iron: 0.79 mg
+Magnesium: 13 mg
+Zinc: 1.99 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.12 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.205 mg
+Vitamin B12: 0.37 µg
+Folate: 5 µg

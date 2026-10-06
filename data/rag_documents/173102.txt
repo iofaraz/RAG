@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, cube roll, separable lean and fat, raw
+Food ID: 173102
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 18.22 g
+Carbohydrates: 1.26 g
+Fat: 16.31 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.734 g
+Monounsaturated fat: 5.524 g
+Polyunsaturated fat: 0.422 g
+Trans fat: 0.488 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 297 mg
+Calcium: 5 mg
+Iron: 1.91 mg
+Magnesium: 18 mg
+Zinc: 3.32 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.34 mg
+Vitamin B6: 0.254 mg
+Vitamin B12: 1.39 µg

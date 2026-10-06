@@ -1,0 +1,36 @@
+Food: Sausage with tomato-based sauce
+Food ID: 2706405
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 13.28 g
+Carbohydrates: 2.58 g
+Fat: 19.09 g
+Fiber: 0.4 g
+Sugar: 1.82 g
+
+Fats:
+Saturated fat: 6.166 g
+Monounsaturated fat: 8.06 g
+Polyunsaturated fat: 3.602 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 863 mg
+Potassium: 327 mg
+Calcium: 11 mg
+Iron: 1.12 mg
+Magnesium: 16 mg
+Zinc: 1.77 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 2 mg
+Vitamin D: 1 µg
+Vitamin E: 1.06 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.164 mg
+Vitamin B12: 0.68 µg
+Folate: 3 µg

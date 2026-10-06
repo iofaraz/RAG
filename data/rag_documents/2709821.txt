@@ -1,0 +1,36 @@
+Food: Cucumber salad made with cucumber and vinegar
+Food ID: 2709821
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 0.5 g
+Carbohydrates: 6.79 g
+Fat: 0.13 g
+Fiber: 0.5 g
+Sugar: 5.33 g
+
+Fats:
+Saturated fat: 0.027 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.021 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 236 mg
+Potassium: 137 mg
+Calcium: 14 mg
+Iron: 0.07 mg
+Magnesium: 8 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 14.6 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

@@ -1,0 +1,32 @@
+Food: CRACKER BARREL, grilled sirloin steak
+Food ID: 167670
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 31.52 g
+Carbohydrates: 0 g
+Fat: 8.52 g
+
+Fats:
+Saturated fat: 3.045 g
+Monounsaturated fat: 3.405 g
+Polyunsaturated fat: 0.742 g
+Trans fat: 0.426 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 180 mg
+Potassium: 408 mg
+Calcium: 7 mg
+Iron: 2.75 mg
+Magnesium: 28 mg
+Zinc: 5.42 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.691 mg
+Vitamin B12: 3 µg

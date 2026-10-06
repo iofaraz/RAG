@@ -1,0 +1,36 @@
+Food: Classic mixed vegetables, frozen, cooked with butter or margarine
+Food ID: 2710019
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 2.78 g
+Carbohydrates: 12.68 g
+Fat: 2.33 g
+Fiber: 4.3 g
+Sugar: 3.03 g
+
+Fats:
+Saturated fat: 0.974 g
+Monounsaturated fat: 0.586 g
+Polyunsaturated fat: 0.415 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 163 mg
+Potassium: 164 mg
+Calcium: 25 mg
+Iron: 0.8 mg
+Magnesium: 21 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 230 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.58 mg
+Vitamin K: 24 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

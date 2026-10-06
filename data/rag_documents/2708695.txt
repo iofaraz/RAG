@@ -1,0 +1,36 @@
+Food: Pizza, with meat, gluten-free thin crust
+Food ID: 2708695
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 10.58 g
+Carbohydrates: 21.88 g
+Fat: 17.36 g
+Fiber: 2.1 g
+Sugar: 2.78 g
+
+Fats:
+Saturated fat: 5.908 g
+Monounsaturated fat: 7.632 g
+Polyunsaturated fat: 1.747 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 594 mg
+Potassium: 154 mg
+Calcium: 213 mg
+Iron: 1.54 mg
+Magnesium: 17 mg
+Zinc: 1.46 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.73 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.4 µg
+Folate: 20 µg

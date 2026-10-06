@@ -1,0 +1,33 @@
+Food: Millet flour
+Food ID: 172023
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 382 kcal
+Protein: 10.75 g
+Carbohydrates: 75.12 g
+Fat: 4.25 g
+Fiber: 3.5 g
+Sugar: 1.66 g
+
+Fats:
+Saturated fat: 0.536 g
+Monounsaturated fat: 0.924 g
+Polyunsaturated fat: 2.618 g
+Trans fat: 0.002 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 224 mg
+Calcium: 14 mg
+Iron: 3.94 mg
+Magnesium: 119 mg
+Zinc: 2.63 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0.11 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.372 mg
+Folate: 42 µg

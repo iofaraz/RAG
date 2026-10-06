@@ -1,0 +1,36 @@
+Food: Pastry, cookie type, fried
+Food ID: 2708051
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 397 kcal
+Protein: 5.97 g
+Carbohydrates: 35.48 g
+Fat: 25.7 g
+Fiber: 1 g
+Sugar: 12.88 g
+
+Fats:
+Saturated fat: 7.131 g
+Monounsaturated fat: 9.024 g
+Polyunsaturated fat: 6.559 g
+Cholesterol: 104 mg
+
+Minerals:
+Sodium: 67 mg
+Potassium: 127 mg
+Calcium: 74 mg
+Iron: 1.82 mg
+Magnesium: 14 mg
+Zinc: 0.61 mg
+
+Vitamins:
+Vitamin A: 117 µg
+Vitamin C: 1 mg
+Vitamin D: 0.9 µg
+Vitamin E: 3.37 mg
+Vitamin K: 16.2 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.31 µg
+Folate: 49 µg

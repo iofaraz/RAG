@@ -1,0 +1,37 @@
+Food: Snacks, granola bar, QUAKER, chewy, 90 Calorie Bar
+Food ID: 174800
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 408 kcal
+Protein: 4.17 g
+Carbohydrates: 79.17 g
+Fat: 8.33 g
+Fiber: 4.2 g
+Sugar: 29.17 g
+
+Fats:
+Saturated fat: 2.083 g
+Monounsaturated fat: 2.945 g
+Polyunsaturated fat: 1.929 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 313 mg
+Potassium: 224 mg
+Calcium: 333 mg
+Iron: 1.5 mg
+Magnesium: 71 mg
+Zinc: 1.23 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 2.23 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.03 µg
+Folate: 17 µg

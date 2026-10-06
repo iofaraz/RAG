@@ -1,0 +1,36 @@
+Food: Chicken, broilers or fryers, rotisserie, original seasoning, back, meat only, cooked
+Food ID: 171517
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 205 kcal
+Protein: 25.34 g
+Carbohydrates: 0 g
+Fat: 11.54 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.007 g
+Monounsaturated fat: 4.898 g
+Polyunsaturated fat: 1.701 g
+Trans fat: 0.146 g
+Cholesterol: 123 mg
+
+Minerals:
+Sodium: 661 mg
+Potassium: 309 mg
+Calcium: 38 mg
+Iron: 0.97 mg
+Magnesium: 21 mg
+Zinc: 2.04 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin E: 0.25 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.71 µg
+Folate: 8 µg

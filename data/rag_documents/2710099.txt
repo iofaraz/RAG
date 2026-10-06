@@ -1,0 +1,36 @@
+Food: Radishes, pickled
+Food ID: 2710099
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 0.56 g
+Carbohydrates: 7.68 g
+Fat: 0.1 g
+Fiber: 1.3 g
+Sugar: 6.41 g
+
+Fats:
+Saturated fat: 0.027 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.04 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 977 mg
+Potassium: 194 mg
+Calcium: 22 mg
+Iron: 0.29 mg
+Magnesium: 8 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 10.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

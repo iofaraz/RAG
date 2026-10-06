@@ -1,0 +1,36 @@
+Food: Bread, cornbread, dry mix, enriched (includes corn muffin mix)
+Food ID: 174908
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 418 kcal
+Protein: 7 g
+Carbohydrates: 69.5 g
+Fat: 12.2 g
+Fiber: 6.5 g
+Sugar: 20.34 g
+
+Fats:
+Saturated fat: 3.091 g
+Monounsaturated fat: 6.719 g
+Polyunsaturated fat: 1.682 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 817 mg
+Potassium: 113 mg
+Calcium: 57 mg
+Iron: 2.5 mg
+Magnesium: 24 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.128 mg
+Vitamin B12: 0.09 µg
+Folate: 93 µg

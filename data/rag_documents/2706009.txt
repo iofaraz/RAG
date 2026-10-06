@@ -1,0 +1,36 @@
+Food: Chicken drumstick, rotisserie, skin not eaten
+Food ID: 2706009
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 27.71 g
+Carbohydrates: 0 g
+Fat: 6.76 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.573 g
+Monounsaturated fat: 2.827 g
+Polyunsaturated fat: 1.029 g
+Cholesterol: 155 mg
+
+Minerals:
+Sodium: 403 mg
+Potassium: 291 mg
+Calcium: 20 mg
+Iron: 1.05 mg
+Magnesium: 23 mg
+Zinc: 2.86 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.54 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.184 mg
+Vitamin B12: 0.47 µg
+Folate: 9 µg

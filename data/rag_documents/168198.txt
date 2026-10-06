@@ -1,0 +1,37 @@
+Food: Juice, apple, grape and pear blend, with added ascorbic acid and calcium
+Food ID: 168198
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 0.17 g
+Carbohydrates: 12.96 g
+Fat: 0.12 g
+Fiber: 0.2 g
+Sugar: 9.95 g
+
+Fats:
+Saturated fat: 0.021 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.04 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 89 mg
+Calcium: 72 mg
+Iron: 0.14 mg
+Magnesium: 6 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 50.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.018 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

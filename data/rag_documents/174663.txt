@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST, HONEY BUNCHES OF OATS, pecan bunches
+Food ID: 174663
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 399 kcal
+Protein: 7 g
+Carbohydrates: 82 g
+Fat: 5.4 g
+Fiber: 5.2 g
+Sugar: 21.9 g
+
+Fats:
+Saturated fat: 0.7 g
+Monounsaturated fat: 2.7 g
+Polyunsaturated fat: 1.7 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 177 mg
+Calcium: 19 mg
+Iron: 15.5 mg
+Magnesium: 36 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 748 µg
+Vitamin C: 0.2 mg
+Vitamin D: 3.4 µg
+Vitamin E: 0.5 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 1.7 mg
+Vitamin B12: 5.2 µg
+Folate: 690 µg

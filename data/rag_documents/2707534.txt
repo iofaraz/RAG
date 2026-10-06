@@ -1,0 +1,36 @@
+Food: Almond butter, lower sodium
+Food ID: 2707534
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 645 kcal
+Protein: 20.79 g
+Carbohydrates: 21.24 g
+Fat: 53.04 g
+Fiber: 9.7 g
+Sugar: 4.43 g
+
+Fats:
+Saturated fat: 4.25 g
+Monounsaturated fat: 34.7 g
+Polyunsaturated fat: 12.6 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 745 mg
+Calcium: 264 mg
+Iron: 4.11 mg
+Magnesium: 268 mg
+Zinc: 3.18 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 16.67 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

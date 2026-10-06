@@ -1,0 +1,36 @@
+Food: Tortilla chips, plain
+Food ID: 2708202
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 472 kcal
+Protein: 7.1 g
+Carbohydrates: 67.78 g
+Fat: 20.68 g
+Fiber: 5.4 g
+Sugar: 0.78 g
+
+Fats:
+Saturated fat: 2.811 g
+Monounsaturated fat: 5.664 g
+Polyunsaturated fat: 10.769 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 328 mg
+Potassium: 182 mg
+Calcium: 106 mg
+Iron: 1.52 mg
+Magnesium: 84 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.53 mg
+Vitamin K: 20.9 µg
+Vitamin B6: 0.179 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

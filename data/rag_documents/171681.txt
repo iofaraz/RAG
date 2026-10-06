@@ -1,0 +1,35 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, Honey Nut SCOOTERS
+Food ID: 171681
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 8.59 g
+Carbohydrates: 79.62 g
+Fat: 4.51 g
+Fiber: 6.3 g
+Sugar: 29.97 g
+
+Fats:
+Saturated fat: 0.63 g
+Monounsaturated fat: 1.11 g
+Polyunsaturated fat: 1.32 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 695 mg
+Potassium: 241 mg
+Calcium: 333 mg
+Iron: 30 mg
+Magnesium: 92 mg
+Zinc: 12.5 mg
+
+Vitamins:
+Vitamin C: 20 mg
+Vitamin D: 3.3 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.66 mg
+Vitamin B12: 5 µg
+Folate: 667 µg

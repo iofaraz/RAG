@@ -1,0 +1,24 @@
+Food: Beef, ribeye, steak, boneless, choice, raw
+Food ID: 2646172
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 18.7437 g
+Carbohydrates: 0 g
+Fat: 20.04 g
+
+Fats:
+Saturated fat: 7.966 g
+Monounsaturated fat: 7.731 g
+Polyunsaturated fat: 0.6286 g
+Trans fat: 0.9743 g
+Cholesterol: 62.66 mg
+
+Minerals:
+Sodium: 42.54 mg
+Potassium: 288 mg
+Calcium: 4.173 mg
+Iron: 1.641 mg
+Magnesium: 16.68 mg
+Zinc: 4.063 mg

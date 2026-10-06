@@ -1,0 +1,36 @@
+Food: Yokan
+Food ID: 2710315
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 2.4 g
+Carbohydrates: 30.63 g
+Fat: 0.24 g
+Fiber: 2 g
+Sugar: 24.72 g
+
+Fats:
+Saturated fat: 0.057 g
+Monounsaturated fat: 0.068 g
+Polyunsaturated fat: 0.08 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 119 mg
+Potassium: 120 mg
+Calcium: 15 mg
+Iron: 0.59 mg
+Magnesium: 14 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

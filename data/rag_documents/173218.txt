@@ -1,0 +1,26 @@
+Food: Beverages, SNAPPLE, tea, black and green, ready to drink, lemon, diet
+Food ID: 173218
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 2 kcal
+Protein: 0.1 g
+Carbohydrates: 0.1 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 20 mg
+Calcium: 0 mg
+Iron: 0 mg
+
+Vitamins:
+Vitamin C: 0 mg

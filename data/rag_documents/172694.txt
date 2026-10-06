@@ -1,0 +1,32 @@
+Food: Cake, angelfood, commercially prepared
+Food ID: 172694
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 258 kcal
+Protein: 5.9 g
+Carbohydrates: 57.8 g
+Fat: 0.8 g
+Fiber: 1.5 g
+
+Fats:
+Saturated fat: 0.121 g
+Monounsaturated fat: 0.071 g
+Polyunsaturated fat: 0.367 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 749 mg
+Potassium: 93 mg
+Calcium: 140 mg
+Iron: 0.52 mg
+Magnesium: 12 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.06 µg
+Folate: 35 µg

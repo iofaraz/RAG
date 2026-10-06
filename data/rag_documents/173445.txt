@@ -1,0 +1,36 @@
+Food: Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener
+Food ID: 173445
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 3.86 g
+Carbohydrates: 7.5 g
+Fat: 0.18 g
+Fiber: 0 g
+Sugar: 7.5 g
+
+Fats:
+Saturated fat: 0.116 g
+Monounsaturated fat: 0.049 g
+Polyunsaturated fat: 0.005 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 177 mg
+Calcium: 143 mg
+Iron: 0.12 mg
+Magnesium: 13 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.43 µg
+Folate: 8 µg

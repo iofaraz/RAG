@@ -1,0 +1,36 @@
+Food: Lobster gumbo
+Food ID: 2707141
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 6.19 g
+Carbohydrates: 4.63 g
+Fat: 1.78 g
+Fiber: 0.9 g
+Sugar: 1.78 g
+
+Fats:
+Saturated fat: 0.787 g
+Monounsaturated fat: 0.368 g
+Polyunsaturated fat: 0.271 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 288 mg
+Potassium: 229 mg
+Calcium: 55 mg
+Iron: 0.67 mg
+Magnesium: 22 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 3.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.74 mg
+Vitamin K: 8.7 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.38 µg
+Folate: 22 µg

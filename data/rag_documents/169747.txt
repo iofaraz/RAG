@@ -1,0 +1,31 @@
+Food: Teff, uncooked
+Food ID: 169747
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 367 kcal
+Protein: 13.3 g
+Carbohydrates: 73.13 g
+Fat: 2.38 g
+Fiber: 8 g
+Sugar: 1.84 g
+
+Fats:
+Saturated fat: 0.449 g
+Monounsaturated fat: 0.589 g
+Polyunsaturated fat: 1.071 g
+
+Minerals:
+Sodium: 12 mg
+Potassium: 427 mg
+Calcium: 180 mg
+Iron: 7.63 mg
+Magnesium: 184 mg
+Zinc: 3.63 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.482 mg

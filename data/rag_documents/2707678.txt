@@ -1,0 +1,36 @@
+Food: Croissant
+Food ID: 2707678
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 406 kcal
+Protein: 8.2 g
+Carbohydrates: 45.8 g
+Fat: 21 g
+Fiber: 2.6 g
+Sugar: 11.26 g
+
+Fats:
+Saturated fat: 11.659 g
+Monounsaturated fat: 5.525 g
+Polyunsaturated fat: 1.094 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 300 mg
+Potassium: 118 mg
+Calcium: 37 mg
+Iron: 2.03 mg
+Magnesium: 16 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 206 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.84 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.16 µg
+Folate: 88 µg

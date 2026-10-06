@@ -1,0 +1,31 @@
+Food: Snacks, potato chips, plain, made with partially hydrogenated soybean oil, salted
+Food ID: 170248
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 536 kcal
+Protein: 7 g
+Carbohydrates: 52.9 g
+Fat: 34.6 g
+Fiber: 4.8 g
+
+Fats:
+Saturated fat: 5.43 g
+Monounsaturated fat: 18 g
+Polyunsaturated fat: 9.16 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 594 mg
+Potassium: 1275 mg
+Calcium: 24 mg
+Iron: 1.63 mg
+Magnesium: 67 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 31.1 mg
+Vitamin B6: 0.66 mg
+Folate: 45 µg

@@ -1,0 +1,23 @@
+Food: Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated
+Food ID: 2684446
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 18.65 g
+Carbohydrates: 0 g
+Fat: 0.8075 g
+
+Fats:
+Cholesterol: 113.5 mg
+
+Minerals:
+Sodium: 331.3 mg
+Potassium: 234.8 mg
+Calcium: 110.9 mg
+Iron: 0.6319 mg
+Magnesium: 43.08 mg
+Zinc: 3.478 mg
+
+Vitamins:
+Vitamin B12: 3.116 µg

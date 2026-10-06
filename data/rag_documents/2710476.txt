@@ -1,0 +1,36 @@
+Food: Coffee, Cappuccino, decaffeinated, nonfat
+Food ID: 2710476
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 1.75 g
+Carbohydrates: 2.77 g
+Fat: 0.07 g
+Fiber: 0 g
+Sugar: 2.56 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.009 g
+Polyunsaturated fat: 0.018 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 24 mg
+Potassium: 104 mg
+Calcium: 68 mg
+Iron: 0.02 mg
+Magnesium: 20 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.24 µg
+Folate: 1 µg

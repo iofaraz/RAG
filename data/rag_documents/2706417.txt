@@ -1,0 +1,36 @@
+Food: Veal parmigiana
+Food ID: 2706417
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 204 kcal
+Protein: 15.33 g
+Carbohydrates: 8.33 g
+Fat: 11.92 g
+Fiber: 0.8 g
+Sugar: 1.68 g
+
+Fats:
+Saturated fat: 4.107 g
+Monounsaturated fat: 4.604 g
+Polyunsaturated fat: 1.755 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 436 mg
+Potassium: 248 mg
+Calcium: 122 mg
+Iron: 1.26 mg
+Magnesium: 33 mg
+Zinc: 1.73 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 2 mg
+Vitamin D: 1.1 µg
+Vitamin E: 1.31 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.241 mg
+Vitamin B12: 1.04 µg
+Folate: 16 µg

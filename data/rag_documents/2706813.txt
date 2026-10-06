@@ -1,0 +1,36 @@
+Food: Chicken or turkey, breaded, fried, garden salad with bacon and cheese, chicken and/or turkey, bacon, cheese, lettuce and/or greens, tomato and/or carrots, other vegetables, no dressing
+Food ID: 2706813
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 6.78 g
+Carbohydrates: 6.36 g
+Fat: 7.72 g
+Fiber: 1.2 g
+Sugar: 1.21 g
+
+Fats:
+Saturated fat: 2.311 g
+Monounsaturated fat: 2.675 g
+Polyunsaturated fat: 1.758 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 256 mg
+Potassium: 271 mg
+Calcium: 65 mg
+Iron: 0.46 mg
+Magnesium: 22 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 192 µg
+Vitamin C: 7.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.62 mg
+Vitamin K: 72.8 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0.17 µg
+Folate: 33 µg

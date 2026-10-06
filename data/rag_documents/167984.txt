@@ -1,0 +1,27 @@
+Food: Candies, SYMPHONY Milk Chocolate Bar
+Food ID: 167984
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 531 kcal
+Protein: 8.51 g
+Carbohydrates: 58.01 g
+Fat: 30.57 g
+Fiber: 1.7 g
+Sugar: 53.96 g
+
+Fats:
+Saturated fat: 18.34 g
+Monounsaturated fat: 7.91 g
+Polyunsaturated fat: 0.69 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 101 mg
+Potassium: 438 mg
+Calcium: 251 mg
+Iron: 0.91 mg
+
+Vitamins:
+Vitamin C: 2.2 mg

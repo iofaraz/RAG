@@ -1,0 +1,36 @@
+Food: Fajita, beef or pork
+Food ID: 2708605
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 231 kcal
+Protein: 12.07 g
+Carbohydrates: 17.99 g
+Fat: 12.24 g
+Fiber: 1.5 g
+Sugar: 2.44 g
+
+Fats:
+Saturated fat: 3.219 g
+Monounsaturated fat: 4.739 g
+Polyunsaturated fat: 2.955 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 459 mg
+Potassium: 193 mg
+Calcium: 53 mg
+Iron: 2 mg
+Magnesium: 18 mg
+Zinc: 2.74 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 23.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.25 mg
+Vitamin K: 9.5 µg
+Vitamin B6: 0.239 mg
+Vitamin B12: 0.91 µg
+Folate: 40 µg

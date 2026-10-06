@@ -1,0 +1,36 @@
+Food: Egg white omelet, scrambled, or fried, made with cooking spray
+Food ID: 2707287
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 10.56 g
+Carbohydrates: 2.53 g
+Fat: 0.78 g
+Fiber: 0 g
+Sugar: 0.7 g
+
+Fats:
+Saturated fat: 0.05 g
+Monounsaturated fat: 0.492 g
+Polyunsaturated fat: 0.219 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 279 mg
+Potassium: 161 mg
+Calcium: 7 mg
+Iron: 0.08 mg
+Magnesium: 11 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.005 mg
+Vitamin B12: 0.08 µg
+Folate: 3 µg

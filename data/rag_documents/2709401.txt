@@ -1,0 +1,36 @@
+Food: Potato, canned, no added fat
+Food ID: 2709401
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 1.39 g
+Carbohydrates: 13.55 g
+Fat: 0.2 g
+Fiber: 2.4 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 0.051 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.085 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 159 mg
+Potassium: 228 mg
+Calcium: 5 mg
+Iron: 1.25 mg
+Magnesium: 14 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.189 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

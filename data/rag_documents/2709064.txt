@@ -1,0 +1,36 @@
+Food: Grape leaves stuffed with rice
+Food ID: 2709064
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 168 kcal
+Protein: 2.28 g
+Carbohydrates: 13.88 g
+Fat: 11.95 g
+Fiber: 3.1 g
+Sugar: 2.78 g
+
+Fats:
+Saturated fat: 1.871 g
+Monounsaturated fat: 7.872 g
+Polyunsaturated fat: 1.313 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 166 mg
+Potassium: 152 mg
+Calcium: 89 mg
+Iron: 1.25 mg
+Magnesium: 26 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 241 µg
+Vitamin C: 5.6 mg
+Vitamin D: 0 µg
+Vitamin E: 2.87 mg
+Vitamin K: 58.5 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

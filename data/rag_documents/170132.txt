@@ -1,0 +1,31 @@
+Food: Water convolvulus, cooked, boiled, drained, with salt
+Food ID: 170132
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 20 kcal
+Protein: 2.08 g
+Carbohydrates: 3.7 g
+Fat: 0.24 g
+Fiber: 1.9 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 358 mg
+Potassium: 284 mg
+Calcium: 54 mg
+Iron: 1.32 mg
+Magnesium: 30 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 260 µg
+Vitamin C: 16 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

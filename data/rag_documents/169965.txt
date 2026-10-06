@@ -1,0 +1,28 @@
+Food: Beans, snap, green, microwaved
+Food ID: 169965
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 33 kcal
+Protein: 2.31 g
+Carbohydrates: 6.41 g
+Fat: 0.5 g
+Fiber: 3.4 g
+Sugar: 3.22 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 3 mg
+Potassium: 323 mg
+Calcium: 55 mg
+Iron: 0.83 mg
+Magnesium: 28 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin C: 7.3 mg
+Vitamin B6: 0.124 mg
+Folate: 47 µg

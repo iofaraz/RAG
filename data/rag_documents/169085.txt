@@ -1,0 +1,37 @@
+Food: Vegetables, mixed (corn, lima beans, peas, green beans, carrots) canned, no salt added
+Food ID: 169085
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 1.4 g
+Carbohydrates: 7.31 g
+Fat: 0.2 g
+Fiber: 3.1 g
+Sugar: 2.41 g
+
+Fats:
+Saturated fat: 0.039 g
+Monounsaturated fat: 0.022 g
+Polyunsaturated fat: 0.098 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 138 mg
+Calcium: 21 mg
+Iron: 0.65 mg
+Magnesium: 15 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 583 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 18.2 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

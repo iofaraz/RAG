@@ -1,0 +1,25 @@
+Food: Beverages, Horchata, as served in restaurant
+Food ID: 171941
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 0.48 g
+Carbohydrates: 11.52 g
+Fat: 0.71 g
+Fiber: 0 g
+Sugar: 9.36 g
+
+Minerals:
+Sodium: 14 mg
+Potassium: 34 mg
+Calcium: 18 mg
+Iron: 0.01 mg
+Magnesium: 3 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin E: 0.24 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.017 mg

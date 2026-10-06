@@ -1,0 +1,36 @@
+Food: Chicken or turkey salad, made with light Italian dressing
+Food ID: 2706808
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 13.56 g
+Carbohydrates: 4.93 g
+Fat: 4.71 g
+Fiber: 0.4 g
+Sugar: 3.97 g
+
+Fats:
+Saturated fat: 0.983 g
+Monounsaturated fat: 1.748 g
+Polyunsaturated fat: 1.207 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 543 mg
+Potassium: 219 mg
+Calcium: 21 mg
+Iron: 0.47 mg
+Magnesium: 15 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.25 mg
+Vitamin K: 14 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0.18 µg
+Folate: 14 µg

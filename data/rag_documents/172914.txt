@@ -1,0 +1,32 @@
+Food: Soup, mushroom barley, canned, prepared with equal volume water
+Food ID: 172914
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 30 kcal
+Protein: 0.77 g
+Carbohydrates: 4.8 g
+Fat: 0.93 g
+Fiber: 0.3 g
+
+Fats:
+Saturated fat: 0.18 g
+Monounsaturated fat: 0.41 g
+Polyunsaturated fat: 0.29 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 365 mg
+Potassium: 38 mg
+Calcium: 5 mg
+Iron: 0.21 mg
+Magnesium: 4 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

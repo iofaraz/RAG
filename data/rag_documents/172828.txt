@@ -1,0 +1,32 @@
+Food: English muffins, plain, unenriched, with calcium propionate (includes sourdough)
+Food ID: 172828
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 7.7 g
+Carbohydrates: 46 g
+Fat: 1.8 g
+Fiber: 2.7 g
+
+Fats:
+Saturated fat: 0.259 g
+Monounsaturated fat: 0.302 g
+Polyunsaturated fat: 0.888 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 464 mg
+Potassium: 131 mg
+Calcium: 174 mg
+Iron: 0.89 mg
+Magnesium: 21 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.04 µg
+Folate: 37 µg

@@ -1,0 +1,35 @@
+Food: Beef, New Zealand, imported, sweetbread, raw
+Food ID: 173093
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 303 kcal
+Protein: 11.51 g
+Carbohydrates: 0 g
+Fat: 28.6 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 12.294 g
+Monounsaturated fat: 8.072 g
+Polyunsaturated fat: 0.646 g
+Trans fat: 0.595 g
+Cholesterol: 217 mg
+
+Minerals:
+Sodium: 64 mg
+Potassium: 318 mg
+Calcium: 4 mg
+Iron: 1.15 mg
+Magnesium: 15 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.69 mg
+Vitamin B6: 0.041 mg
+Vitamin B12: 2.1 µg

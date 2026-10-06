@@ -1,0 +1,37 @@
+Food: Corn, sweet, white, canned, whole kernel, drained solids
+Food ID: 169361
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 2.29 g
+Carbohydrates: 14.34 g
+Fat: 1.22 g
+Fiber: 2 g
+Sugar: 4.44 g
+
+Fats:
+Saturated fat: 0.245 g
+Monounsaturated fat: 0.374 g
+Polyunsaturated fat: 0.519 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 205 mg
+Potassium: 132 mg
+Calcium: 3 mg
+Iron: 0.27 mg
+Magnesium: 13 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 39 µg

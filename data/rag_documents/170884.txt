@@ -1,0 +1,36 @@
+Food: Milk shakes, thick vanilla
+Food ID: 170884
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 3.86 g
+Carbohydrates: 17.75 g
+Fat: 3.03 g
+Fiber: 0 g
+Sugar: 17.75 g
+
+Fats:
+Saturated fat: 1.886 g
+Monounsaturated fat: 0.875 g
+Polyunsaturated fat: 0.113 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 95 mg
+Potassium: 183 mg
+Calcium: 146 mg
+Iron: 0.1 mg
+Magnesium: 12 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.52 µg
+Folate: 7 µg

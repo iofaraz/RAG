@@ -1,0 +1,36 @@
+Food: Wheat, soft white
+Food ID: 169720
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 10.69 g
+Carbohydrates: 75.36 g
+Fat: 1.99 g
+Fiber: 12.7 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.368 g
+Monounsaturated fat: 0.227 g
+Polyunsaturated fat: 0.837 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 435 mg
+Calcium: 34 mg
+Iron: 5.37 mg
+Magnesium: 90 mg
+Zinc: 3.46 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.01 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.378 mg
+Vitamin B12: 0 µg
+Folate: 41 µg

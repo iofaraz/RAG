@@ -1,0 +1,37 @@
+Food: Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)
+Food ID: 169917
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 49 kcal
+Protein: 0.91 g
+Carbohydrates: 12.54 g
+Fat: 0.15 g
+Fiber: 2.2 g
+Sugar: 8.5 g
+
+Fats:
+Saturated fat: 0.017 g
+Monounsaturated fat: 0.03 g
+Polyunsaturated fat: 0.031 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 166 mg
+Calcium: 43 mg
+Iron: 0.13 mg
+Magnesium: 11 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 59.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

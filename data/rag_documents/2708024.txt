@@ -1,0 +1,36 @@
+Food: Fritter, plain
+Food ID: 2708024
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 378 kcal
+Protein: 6.56 g
+Carbohydrates: 27.46 g
+Fat: 26.93 g
+Fiber: 0.9 g
+Sugar: 2.06 g
+
+Fats:
+Saturated fat: 5.577 g
+Monounsaturated fat: 10.274 g
+Polyunsaturated fat: 8.586 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 340 mg
+Potassium: 125 mg
+Calcium: 64 mg
+Iron: 2.1 mg
+Magnesium: 15 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 4.17 mg
+Vitamin K: 21.6 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.23 µg
+Folate: 44 µg

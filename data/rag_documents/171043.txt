@@ -1,0 +1,36 @@
+Food: Salad dressing, honey mustard, regular
+Food ID: 171043
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 464 kcal
+Protein: 0.87 g
+Carbohydrates: 23.33 g
+Fat: 40.83 g
+Fiber: 0.4 g
+Sugar: 15.84 g
+
+Fats:
+Saturated fat: 5 g
+Monounsaturated fat: 11.458 g
+Polyunsaturated fat: 22.839 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 512 mg
+Potassium: 20 mg
+Calcium: 12 mg
+Iron: 0.29 mg
+Magnesium: 5 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 3.53 mg
+Vitamin K: 70 µg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0.05 µg
+Folate: 5 µg

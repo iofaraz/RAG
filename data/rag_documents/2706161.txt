@@ -1,0 +1,36 @@
+Food: Tongue pot roast, Puerto Rican style
+Food ID: 2706161
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 317 kcal
+Protein: 21.03 g
+Carbohydrates: 0.32 g
+Fat: 25.04 g
+Fiber: 0.1 g
+Sugar: 0.02 g
+
+Fats:
+Saturated fat: 8.96 g
+Monounsaturated fat: 11.522 g
+Polyunsaturated fat: 0.89 g
+Cholesterol: 144 mg
+
+Minerals:
+Sodium: 1245 mg
+Potassium: 206 mg
+Calcium: 16 mg
+Iron: 2.94 mg
+Magnesium: 18 mg
+Zinc: 4.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.54 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 2.55 µg
+Folate: 6 µg

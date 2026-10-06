@@ -1,0 +1,32 @@
+Food: Fish, sablefish, smoked
+Food ID: 173685
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 17.65 g
+Carbohydrates: 0 g
+Fat: 20.14 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.213 g
+Monounsaturated fat: 10.605 g
+Polyunsaturated fat: 2.688 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 737 mg
+Potassium: 471 mg
+Calcium: 50 mg
+Iron: 1.69 mg
+Magnesium: 74 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 122 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.39 mg
+Vitamin B12: 2 µg
+Folate: 20 µg

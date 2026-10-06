@@ -1,0 +1,36 @@
+Food: Pork and rice with tomato-based sauce
+Food ID: 2706509
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 140 kcal
+Protein: 6.42 g
+Carbohydrates: 16.78 g
+Fat: 5 g
+Fiber: 0.7 g
+Sugar: 1.17 g
+
+Fats:
+Saturated fat: 1.047 g
+Monounsaturated fat: 2.116 g
+Polyunsaturated fat: 1.435 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 311 mg
+Potassium: 182 mg
+Calcium: 13 mg
+Iron: 1.13 mg
+Magnesium: 16 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.12 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0.12 µg
+Folate: 34 µg

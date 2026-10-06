@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, Frosted Mini SPOONERS
+Food ID: 173000
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 354 kcal
+Protein: 9.09 g
+Carbohydrates: 81.81 g
+Fat: 1.94 g
+Fiber: 10.9 g
+Sugar: 20 g
+
+Fats:
+Saturated fat: 0.228 g
+Monounsaturated fat: 0.797 g
+Polyunsaturated fat: 0.721 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 18 mg
+Potassium: 327 mg
+Calcium: 29 mg
+Iron: 29.45 mg
+Magnesium: 100 mg
+Zinc: 6.82 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.91 mg
+Vitamin B12: 2.73 µg
+Folate: 727 µg

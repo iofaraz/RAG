@@ -1,0 +1,36 @@
+Food: Macaroni or noodles with cheese and meat, prepared from Hamburger Helper mix
+Food ID: 2708819
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 8.24 g
+Carbohydrates: 10.27 g
+Fat: 7.59 g
+Fiber: 0.3 g
+Sugar: 2.33 g
+
+Fats:
+Saturated fat: 2.99 g
+Monounsaturated fat: 3.118 g
+Polyunsaturated fat: 0.256 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 284 mg
+Potassium: 129 mg
+Calcium: 53 mg
+Iron: 0.97 mg
+Magnesium: 12 mg
+Zinc: 1.63 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0.57 µg
+Folate: 12 µg

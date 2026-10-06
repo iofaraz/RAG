@@ -1,0 +1,36 @@
+Food: Snacks, popcorn, air-popped
+Food ID: 167959
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 12.94 g
+Carbohydrates: 77.78 g
+Fat: 4.54 g
+Fiber: 14.5 g
+Sugar: 0.87 g
+
+Fats:
+Saturated fat: 0.637 g
+Monounsaturated fat: 0.95 g
+Polyunsaturated fat: 2.318 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 329 mg
+Calcium: 7 mg
+Iron: 3.19 mg
+Magnesium: 144 mg
+Zinc: 3.08 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.157 mg
+Vitamin B12: 0 µg
+Folate: 31 µg

@@ -1,0 +1,18 @@
+Food: Seeds, sunflower seed, kernel, raw
+Food ID: 2515381
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 18.8733 g
+Carbohydrates: 24.5007 g
+Fat: 48.44 g
+Fiber: 7.215 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 656.8 mg
+Calcium: 115.6 mg
+Iron: 4.37 mg
+Magnesium: 301.9 mg
+Zinc: 5.578 mg

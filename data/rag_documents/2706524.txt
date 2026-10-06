@@ -1,0 +1,36 @@
+Food: Lamb or mutton and noodles with gravy
+Food ID: 2706524
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 141 kcal
+Protein: 6.8 g
+Carbohydrates: 15.63 g
+Fat: 5.48 g
+Fiber: 0.7 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 1.904 g
+Monounsaturated fat: 2.12 g
+Polyunsaturated fat: 0.689 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 314 mg
+Potassium: 86 mg
+Calcium: 13 mg
+Iron: 1.15 mg
+Magnesium: 16 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.15 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0.47 µg
+Folate: 50 µg

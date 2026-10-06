@@ -1,0 +1,26 @@
+Food: Babyfood, dinner, vegetables and noodles and turkey, junior
+Food ID: 172268
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 52 kcal
+Protein: 1.8 g
+Carbohydrates: 7.6 g
+Fat: 1.5 g
+Fiber: 1.1 g
+
+Minerals:
+Sodium: 17 mg
+Potassium: 73 mg
+Calcium: 32 mg
+Iron: 0.26 mg
+Magnesium: 9 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 0.8 mg
+Vitamin B6: 0.018 mg
+Vitamin B12: 0.12 µg
+Folate: 3 µg

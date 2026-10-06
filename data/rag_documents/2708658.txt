@@ -1,0 +1,36 @@
+Food: Pizza with extra meat, medium crust
+Food ID: 2708658
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 13.85 g
+Carbohydrates: 26.62 g
+Fat: 12.4 g
+Fiber: 1.8 g
+Sugar: 2.92 g
+
+Fats:
+Saturated fat: 5.273 g
+Monounsaturated fat: 4.153 g
+Polyunsaturated fat: 1.87 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 571 mg
+Potassium: 202 mg
+Calcium: 153 mg
+Iron: 2.28 mg
+Magnesium: 24 mg
+Zinc: 1.7 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.78 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.6 µg
+Folate: 75 µg

@@ -1,0 +1,31 @@
+Food: Hormel Pillow Pak Sliced Turkey Pepperoni
+Food ID: 174593
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 30.99 g
+Carbohydrates: 3.78 g
+Fat: 11.52 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.52 g
+Monounsaturated fat: 4.65 g
+Polyunsaturated fat: 3.32 g
+Cholesterol: 123 mg
+
+Minerals:
+Sodium: 1858 mg
+Potassium: 449 mg
+Calcium: 26 mg
+Iron: 2.7 mg
+Magnesium: 41 mg
+Zinc: 4.3 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Asparagus, fresh, cooked, fat added, NS as to fat type
+Food ID: 2709838
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 2.3 g
+Carbohydrates: 4.04 g
+Fat: 2.86 g
+Fiber: 2.2 g
+Sugar: 1.96 g
+
+Fats:
+Saturated fat: 0.758 g
+Monounsaturated fat: 0.971 g
+Polyunsaturated fat: 0.837 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 132 mg
+Potassium: 211 mg
+Calcium: 25 mg
+Iron: 2.23 mg
+Magnesium: 15 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.59 mg
+Vitamin K: 45.6 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0 µg
+Folate: 46 µg

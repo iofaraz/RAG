@@ -1,0 +1,36 @@
+Food: Chicken or turkey fricassee, with sauce, no potatoes, potatoes reported separately, Puerto Rican style
+Food ID: 2706822
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 183 kcal
+Protein: 14 g
+Carbohydrates: 2.54 g
+Fat: 13.12 g
+Fiber: 0.7 g
+Sugar: 1.19 g
+
+Fats:
+Saturated fat: 2.357 g
+Monounsaturated fat: 8.169 g
+Polyunsaturated fat: 1.411 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 593 mg
+Potassium: 219 mg
+Calcium: 17 mg
+Iron: 0.71 mg
+Magnesium: 17 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 10.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.53 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.199 mg
+Vitamin B12: 0.22 µg
+Folate: 9 µg

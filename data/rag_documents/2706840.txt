@@ -1,0 +1,36 @@
+Food: Tuna salad with egg
+Food ID: 2706840
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 10.28 g
+Carbohydrates: 2.74 g
+Fat: 15.4 g
+Fiber: 0.4 g
+Sugar: 1.99 g
+
+Fats:
+Saturated fat: 2.583 g
+Monounsaturated fat: 3.568 g
+Polyunsaturated fat: 8.623 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 393 mg
+Potassium: 152 mg
+Calcium: 24 mg
+Iron: 0.97 mg
+Magnesium: 14 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.94 mg
+Vitamin K: 40.9 µg
+Vitamin B6: 0.173 mg
+Vitamin B12: 1.32 µg
+Folate: 14 µg

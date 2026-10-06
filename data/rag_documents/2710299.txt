@@ -1,0 +1,36 @@
+Food: Jam or jelly, NFS
+Food ID: 2710299
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 261 kcal
+Protein: 0.18 g
+Carbohydrates: 67.12 g
+Fat: 0.03 g
+Fiber: 1 g
+Sugar: 49.16 g
+
+Fats:
+Saturated fat: 0.006 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 61 mg
+Calcium: 11 mg
+Iron: 0.29 mg
+Magnesium: 5 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

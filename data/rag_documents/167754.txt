@@ -1,0 +1,29 @@
+Food: Pummelo, raw
+Food ID: 167754
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 38 kcal
+Protein: 0.76 g
+Carbohydrates: 9.62 g
+Fat: 0.04 g
+Fiber: 1 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 216 mg
+Calcium: 4 mg
+Iron: 0.11 mg
+Magnesium: 6 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 61 mg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0 µg

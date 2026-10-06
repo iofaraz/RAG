@@ -1,0 +1,36 @@
+Food: Rice, white, with vegetables, soy-based sauce, fat added
+Food ID: 2709118
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 106 kcal
+Protein: 2.18 g
+Carbohydrates: 19.82 g
+Fat: 1.79 g
+Fiber: 1.1 g
+Sugar: 1.65 g
+
+Fats:
+Saturated fat: 0.285 g
+Monounsaturated fat: 0.726 g
+Polyunsaturated fat: 0.649 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 393 mg
+Potassium: 60 mg
+Calcium: 12 mg
+Iron: 0.82 mg
+Magnesium: 12 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0.01 µg
+Folate: 34 µg

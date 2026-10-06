@@ -1,0 +1,27 @@
+Food: Java-plum, (jambolan), raw
+Food ID: 168150
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 0.72 g
+Carbohydrates: 15.56 g
+Fat: 0.23 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 79 mg
+Calcium: 19 mg
+Iron: 0.19 mg
+Magnesium: 15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 14.3 mg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0 µg

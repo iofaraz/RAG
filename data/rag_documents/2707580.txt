@@ -1,0 +1,36 @@
+Food: Pumpkin seeds, salted
+Food ID: 2707580
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 567 kcal
+Protein: 29.49 g
+Carbohydrates: 14.54 g
+Fat: 48.47 g
+Fiber: 6.4 g
+Sugar: 1.27 g
+
+Fats:
+Saturated fat: 8.443 g
+Monounsaturated fat: 15.547 g
+Polyunsaturated fat: 19.621 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 477 mg
+Potassium: 779 mg
+Calcium: 52 mg
+Iron: 7.97 mg
+Magnesium: 543 mg
+Zinc: 7.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.55 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0 µg
+Folate: 56 µg

@@ -1,0 +1,36 @@
+Food: Popcorn, microwave, low fat and sodium
+Food ID: 168139
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 429 kcal
+Protein: 12.6 g
+Carbohydrates: 73.39 g
+Fat: 9.5 g
+Fiber: 14.2 g
+Sugar: 0.54 g
+
+Fats:
+Saturated fat: 1.415 g
+Monounsaturated fat: 4.085 g
+Polyunsaturated fat: 3.572 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 490 mg
+Potassium: 241 mg
+Calcium: 11 mg
+Iron: 2.28 mg
+Magnesium: 151 mg
+Zinc: 3.83 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5.01 mg
+Vitamin K: 15.7 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

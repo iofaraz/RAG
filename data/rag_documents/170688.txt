@@ -1,0 +1,36 @@
+Food: Bulgur, dry
+Food ID: 170688
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 342 kcal
+Protein: 12.29 g
+Carbohydrates: 75.87 g
+Fat: 1.33 g
+Fiber: 12.5 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.232 g
+Monounsaturated fat: 0.173 g
+Polyunsaturated fat: 0.541 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 410 mg
+Calcium: 35 mg
+Iron: 2.46 mg
+Magnesium: 164 mg
+Zinc: 1.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.342 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

@@ -1,0 +1,36 @@
+Food: Taco, meat, no cheese
+Food ID: 2708530
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 15.15 g
+Carbohydrates: 15.94 g
+Fat: 13.18 g
+Fiber: 2.2 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 3.867 g
+Monounsaturated fat: 5.579 g
+Polyunsaturated fat: 2.305 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 220 mg
+Calcium: 40 mg
+Iron: 1.69 mg
+Magnesium: 36 mg
+Zinc: 3.57 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.94 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.286 mg
+Vitamin B12: 1.27 µg
+Folate: 6 µg

@@ -1,0 +1,36 @@
+Food: Mixed vegetable juice
+Food ID: 2709810
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 28 kcal
+Protein: 0.72 g
+Carbohydrates: 6.3 g
+Fat: 0.16 g
+Fiber: 1.2 g
+Sugar: 2.62 g
+
+Fats:
+Saturated fat: 0.034 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.075 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 82 mg
+Potassium: 278 mg
+Calcium: 35 mg
+Iron: 0.23 mg
+Magnesium: 12 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 489 µg
+Vitamin C: 5.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 22.4 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

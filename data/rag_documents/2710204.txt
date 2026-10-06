@@ -1,0 +1,36 @@
+Food: Mayonnaise, regular
+Food ID: 2710204
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 680 kcal
+Protein: 0.96 g
+Carbohydrates: 0.57 g
+Fat: 74.85 g
+Fiber: 0 g
+Sugar: 0.57 g
+
+Fats:
+Saturated fat: 11.703 g
+Monounsaturated fat: 16.843 g
+Polyunsaturated fat: 44.69 g
+Cholesterol: 42 mg
+
+Minerals:
+Sodium: 635 mg
+Potassium: 20 mg
+Calcium: 8 mg
+Iron: 0.21 mg
+Magnesium: 1 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 3.28 mg
+Vitamin K: 163 µg
+Vitamin B6: 0.008 mg
+Vitamin B12: 0.12 µg
+Folate: 5 µg

@@ -1,0 +1,33 @@
+Food: Soup, tomato beef with noodle, canned, condensed
+Food ID: 171160
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 3.55 g
+Carbohydrates: 16.87 g
+Fat: 3.42 g
+Fiber: 1.2 g
+
+Fats:
+Saturated fat: 1.27 g
+Monounsaturated fat: 1.38 g
+Polyunsaturated fat: 0.54 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 731 mg
+Potassium: 176 mg
+Calcium: 14 mg
+Iron: 0.89 mg
+Magnesium: 6 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin E: 0.62 mg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.15 µg
+Folate: 15 µg

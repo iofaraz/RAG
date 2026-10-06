@@ -1,0 +1,36 @@
+Food: Nuts, pine nuts, dried
+Food ID: 170591
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 673 kcal
+Protein: 13.69 g
+Carbohydrates: 13.08 g
+Fat: 68.37 g
+Fiber: 3.7 g
+Sugar: 3.59 g
+
+Fats:
+Saturated fat: 4.899 g
+Monounsaturated fat: 18.764 g
+Polyunsaturated fat: 34.071 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 597 mg
+Calcium: 16 mg
+Iron: 5.53 mg
+Magnesium: 251 mg
+Zinc: 6.45 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 9.33 mg
+Vitamin K: 53.9 µg
+Vitamin B6: 0.094 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

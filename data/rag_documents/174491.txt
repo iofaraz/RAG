@@ -1,0 +1,36 @@
+Food: Chicken, liver, all classes, cooked, pan-fried
+Food ID: 174491
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 25.78 g
+Carbohydrates: 1.11 g
+Fat: 6.43 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.033 g
+Monounsaturated fat: 1.387 g
+Polyunsaturated fat: 1.265 g
+Trans fat: 0.098 g
+Cholesterol: 564 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 315 mg
+Calcium: 10 mg
+Iron: 12.88 mg
+Magnesium: 27 mg
+Zinc: 4.01 mg
+
+Vitamins:
+Vitamin A: 4296 µg
+Vitamin C: 2.7 mg
+Vitamin E: 0.77 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.84 mg
+Vitamin B12: 21.13 µg
+Folate: 560 µg

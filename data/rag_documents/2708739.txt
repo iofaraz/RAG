@@ -1,0 +1,36 @@
+Food: Turnover or hot pocket, pizza pocket
+Food ID: 2708739
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 9.66 g
+Carbohydrates: 29.68 g
+Fat: 9.62 g
+Fiber: 1.7 g
+Sugar: 4.16 g
+
+Fats:
+Saturated fat: 3.939 g
+Monounsaturated fat: 3.1 g
+Polyunsaturated fat: 1.473 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 466 mg
+Potassium: 149 mg
+Calcium: 231 mg
+Iron: 1.91 mg
+Magnesium: 22 mg
+Zinc: 1.18 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.74 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0.33 µg
+Folate: 61 µg

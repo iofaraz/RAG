@@ -1,0 +1,36 @@
+Food: Turkey, ground
+Food ID: 2706133
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 26.87 g
+Carbohydrates: 0 g
+Fat: 11.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.945 g
+Monounsaturated fat: 3.749 g
+Polyunsaturated fat: 3.461 g
+Cholesterol: 103 mg
+
+Minerals:
+Sodium: 412 mg
+Potassium: 301 mg
+Calcium: 31 mg
+Iron: 1.55 mg
+Magnesium: 29 mg
+Zinc: 3.74 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.18 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.493 mg
+Vitamin B12: 1.88 µg
+Folate: 7 µg

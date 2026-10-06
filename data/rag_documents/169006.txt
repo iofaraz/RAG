@@ -1,0 +1,33 @@
+Food: Stew, pinto bean and hominy, badufsuki (Hopi)
+Food ID: 169006
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 1.42 g
+Carbohydrates: 5.38 g
+Fat: 0.54 g
+Fiber: 1.5 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.085 g
+Monounsaturated fat: 0.08 g
+Polyunsaturated fat: 0.122 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 86 mg
+Calcium: 7 mg
+Iron: 0.37 mg
+Magnesium: 11 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.036 mg

@@ -1,0 +1,37 @@
+Food: Beef, ground, 90% lean meat / 10% fat, crumbles, cooked, pan-browned
+Food ID: 171794
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 28.45 g
+Carbohydrates: 0 g
+Fat: 12.04 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.712 g
+Monounsaturated fat: 5.033 g
+Polyunsaturated fat: 0.428 g
+Trans fat: 0.359 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 87 mg
+Potassium: 433 mg
+Calcium: 16 mg
+Iron: 3.08 mg
+Magnesium: 27 mg
+Zinc: 6.84 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.428 mg
+Vitamin B12: 2.8 µg
+Folate: 8 µg

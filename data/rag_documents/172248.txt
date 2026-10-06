@@ -1,0 +1,36 @@
+Food: Babyfood, meat, chicken, junior
+Food ID: 172248
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 14 g
+Carbohydrates: 0 g
+Fat: 9.6 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.47 g
+Monounsaturated fat: 4.33 g
+Polyunsaturated fat: 2.33 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 122 mg
+Calcium: 55 mg
+Iron: 0.99 mg
+Magnesium: 11 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.188 mg
+Vitamin B12: 0.4 µg
+Folate: 11 µg

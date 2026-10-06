@@ -1,0 +1,36 @@
+Food: Fish, smelt, rainbow, raw
+Food ID: 175146
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 17.63 g
+Carbohydrates: 0 g
+Fat: 2.42 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.452 g
+Monounsaturated fat: 0.641 g
+Polyunsaturated fat: 0.885 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 290 mg
+Calcium: 60 mg
+Iron: 0.9 mg
+Magnesium: 30 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.5 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 3.44 µg
+Folate: 4 µg

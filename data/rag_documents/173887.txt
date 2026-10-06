@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, RALSTON CRISP RICE
+Food ID: 173887
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 383 kcal
+Protein: 6.69 g
+Carbohydrates: 86.22 g
+Fat: 1.26 g
+Fiber: 0.7 g
+Sugar: 12.12 g
+
+Fats:
+Saturated fat: 0.36 g
+Monounsaturated fat: 0.243 g
+Polyunsaturated fat: 0.293 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 545 mg
+Potassium: 106 mg
+Calcium: 5 mg
+Iron: 32.73 mg
+Magnesium: 23 mg
+Zinc: 1.3 mg
+
+Vitamins:
+Vitamin A: 1136 µg
+Vitamin C: 64.5 mg
+Vitamin D: 7.6 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.937 mg
+Vitamin B12: 5.45 µg
+Folate: 606 µg

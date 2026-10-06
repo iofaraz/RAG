@@ -1,0 +1,37 @@
+Food: Waffles, chocolate chip, frozen, ready-to-heat
+Food ID: 167524
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 297 kcal
+Protein: 5.8 g
+Carbohydrates: 45.68 g
+Fat: 10.1 g
+Fiber: 1.5 g
+Sugar: 13.1 g
+
+Fats:
+Saturated fat: 3.567 g
+Monounsaturated fat: 2.564 g
+Polyunsaturated fat: 3.272 g
+Trans fat: 0.2 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 529 mg
+Potassium: 74 mg
+Calcium: 357 mg
+Iron: 6.4 mg
+Magnesium: 16 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 429 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0 mg
+Vitamin K: 9.3 µg
+Vitamin B6: 0.57 mg
+Vitamin B12: 1.7 µg
+Folate: 75 µg

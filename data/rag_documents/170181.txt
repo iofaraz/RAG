@@ -1,0 +1,30 @@
+Food: Nuts, mixed nuts, dry roasted, with peanuts, salt added, CHOSEN ROASTER
+Food ID: 170181
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 608 kcal
+Protein: 18 g
+Carbohydrates: 24.62 g
+Fat: 53.2 g
+Fiber: 7.1 g
+Sugar: 3.9 g
+
+Fats:
+Saturated fat: 7.023 g
+Monounsaturated fat: 27.596 g
+Polyunsaturated fat: 19.479 g
+Trans fat: 0.033 g
+
+Minerals:
+Sodium: 113 mg
+Potassium: 585 mg
+Calcium: 106 mg
+Iron: 3.22 mg
+Magnesium: 202 mg
+Zinc: 3.76 mg
+
+Vitamins:
+Vitamin K: 4.3 µg
+Folate: 60 µg

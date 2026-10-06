@@ -1,0 +1,36 @@
+Food: Macaroni or pasta salad, made with light creamy dressing
+Food ID: 2708939
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 3.82 g
+Carbohydrates: 20.22 g
+Fat: 2.92 g
+Fiber: 1.6 g
+Sugar: 1.78 g
+
+Fats:
+Saturated fat: 0.493 g
+Monounsaturated fat: 0.897 g
+Polyunsaturated fat: 1.233 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 210 mg
+Potassium: 95 mg
+Calcium: 15 mg
+Iron: 1.16 mg
+Magnesium: 14 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 5.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.56 mg
+Vitamin K: 6.2 µg
+Vitamin B6: 0.061 mg
+Vitamin B12: 0.01 µg
+Folate: 49 µg

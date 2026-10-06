@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, QUAKER, QUAKER CRUNCHY BRAN
+Food ID: 173886
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 6.37 g
+Carbohydrates: 83.68 g
+Fat: 4.06 g
+Fiber: 15.3 g
+Sugar: 20.66 g
+
+Fats:
+Saturated fat: 2.03 g
+Monounsaturated fat: 0.776 g
+Polyunsaturated fat: 1.23 g
+Trans fat: 0.01 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 759 mg
+Potassium: 239 mg
+Calcium: 71 mg
+Iron: 30.98 mg
+Magnesium: 61 mg
+Zinc: 15.3 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.67 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 2.038 mg
+Vitamin B12: 0 µg
+Folate: 1554 µg

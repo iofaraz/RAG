@@ -1,0 +1,37 @@
+Food: Chicken, dark meat, drumstick, meat and skin, with added solution, raw
+Food ID: 172860
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 18.03 g
+Carbohydrates: 0 g
+Fat: 8.24 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.334 g
+Monounsaturated fat: 3.561 g
+Polyunsaturated fat: 1.864 g
+Trans fat: 0.051 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 150 mg
+Potassium: 179 mg
+Calcium: 8 mg
+Iron: 0.69 mg
+Magnesium: 15 mg
+Zinc: 1.8 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.4 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.346 mg
+Vitamin B12: 0.45 µg
+Folate: 3 µg

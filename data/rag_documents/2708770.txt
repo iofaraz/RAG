@@ -1,0 +1,36 @@
+Food: Ravioli, cheese-filled, with meat sauce
+Food ID: 2708770
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 137 kcal
+Protein: 6.37 g
+Carbohydrates: 14.31 g
+Fat: 6.14 g
+Fiber: 0.8 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 2.506 g
+Monounsaturated fat: 2.129 g
+Polyunsaturated fat: 0.781 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 598 mg
+Potassium: 176 mg
+Calcium: 64 mg
+Iron: 1.43 mg
+Magnesium: 15 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.76 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.35 µg
+Folate: 24 µg

@@ -1,0 +1,36 @@
+Food: Beef, round, top round, separable lean and fat, trimmed to 1/8" fat, all grades, cooked, braised
+Food ID: 169530
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 34.34 g
+Carbohydrates: 0 g
+Fat: 10.13 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.78 g
+Monounsaturated fat: 4.15 g
+Polyunsaturated fat: 0.42 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 45 mg
+Potassium: 319 mg
+Calcium: 5 mg
+Iron: 3.16 mg
+Magnesium: 24 mg
+Zinc: 4.34 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.17 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.27 mg
+Vitamin B12: 2.62 µg
+Folate: 9 µg

@@ -1,0 +1,23 @@
+Food: Watermelon, seedless, rind only, raw
+Food ID: 2747676
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.53125 g
+Carbohydrates: 4.166 g
+Fat: 0.07 g
+Fiber: 1.535 g
+
+Minerals:
+Sodium: 3.763 mg
+Potassium: 272.5 mg
+Calcium: 16.93 mg
+Iron: 0 mg
+Magnesium: 9.673 mg
+Zinc: 0.121 mg
+
+Vitamins:
+Vitamin C: 7.094 mg
+Vitamin B6: 0.02888 mg
+Folate: 29.68 µg

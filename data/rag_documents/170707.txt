@@ -1,0 +1,37 @@
+Food: Fast foods, submarine sandwich, ham on white bread with lettuce and tomato
+Food ID: 170707
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 9.12 g
+Carbohydrates: 22.91 g
+Fat: 2.53 g
+Fiber: 1.3 g
+Sugar: 3.54 g
+
+Fats:
+Saturated fat: 0.626 g
+Monounsaturated fat: 0.763 g
+Polyunsaturated fat: 0.831 g
+Trans fat: 0.013 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 396 mg
+Potassium: 367 mg
+Calcium: 169 mg
+Iron: 1.78 mg
+Magnesium: 20 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.29 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.174 mg
+Vitamin B12: 0.12 µg
+Folate: 72 µg

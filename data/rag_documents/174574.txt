@@ -1,0 +1,36 @@
+Food: Peppered loaf, pork, beef
+Food ID: 174574
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 17.3 g
+Carbohydrates: 4.53 g
+Fat: 6.37 g
+Fiber: 0 g
+Sugar: 4.61 g
+
+Fats:
+Saturated fat: 2.28 g
+Monounsaturated fat: 3 g
+Polyunsaturated fat: 0.5 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 732 mg
+Potassium: 394 mg
+Calcium: 54 mg
+Iron: 1.07 mg
+Magnesium: 20 mg
+Zinc: 3.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.22 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.27 mg
+Vitamin B12: 1.96 µg
+Folate: 2 µg

@@ -1,0 +1,36 @@
+Food: Waffle, cinnamon
+Food ID: 2708328
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 8.7 g
+Carbohydrates: 41.67 g
+Fat: 18.78 g
+Fiber: 2.7 g
+Sugar: 8.27 g
+
+Fats:
+Saturated fat: 4.144 g
+Monounsaturated fat: 7.005 g
+Polyunsaturated fat: 5.898 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 596 mg
+Potassium: 205 mg
+Calcium: 245 mg
+Iron: 1.74 mg
+Magnesium: 24 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.1 µg
+Vitamin E: 3.01 mg
+Vitamin K: 14.7 µg
+Vitamin B6: 0.158 mg
+Vitamin B12: 0.45 µg
+Folate: 54 µg

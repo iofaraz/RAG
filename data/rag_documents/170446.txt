@@ -1,0 +1,37 @@
+Food: Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added
+Food ID: 170446
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 1.77 g
+Carbohydrates: 10.87 g
+Fat: 5.13 g
+Fiber: 0.8 g
+Sugar: 1.61 g
+
+Fats:
+Saturated fat: 3.191 g
+Monounsaturated fat: 1.31 g
+Polyunsaturated fat: 0.222 g
+Trans fat: 0.175 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 164 mg
+Potassium: 164 mg
+Calcium: 32 mg
+Iron: 0.16 mg
+Magnesium: 11 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 9.7 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.14 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.11 µg
+Folate: 7 µg

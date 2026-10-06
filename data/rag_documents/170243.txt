@@ -1,0 +1,29 @@
+Food: Puddings, tapioca, dry mix, with no added salt
+Food ID: 170243
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 369 kcal
+Protein: 0.1 g
+Carbohydrates: 94.3 g
+Fat: 0.1 g
+Fiber: 0.2 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 5 mg
+Calcium: 4 mg
+Iron: 0.12 mg
+Magnesium: 2 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Pork, cured, ham, center slice, country-style, separable lean only, raw
+Food ID: 168282
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 27.8 g
+Carbohydrates: 0.3 g
+Fat: 8.32 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.78 g
+Monounsaturated fat: 3.821 g
+Polyunsaturated fat: 0.97 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 2695 mg
+Potassium: 510 mg
+Calcium: 10 mg
+Iron: 1.11 mg
+Magnesium: 25 mg
+Zinc: 2.81 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.28 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.42 mg
+Vitamin B12: 0.88 µg
+Folate: 5 µg

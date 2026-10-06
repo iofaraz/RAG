@@ -1,0 +1,36 @@
+Food: Sour cream, reduced fat
+Food ID: 173442
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 181 kcal
+Protein: 7 g
+Carbohydrates: 7 g
+Fat: 14.1 g
+Fiber: 0 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 8.7 g
+Monounsaturated fat: 4.1 g
+Polyunsaturated fat: 0.5 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 211 mg
+Calcium: 141 mg
+Iron: 0.06 mg
+Magnesium: 11 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 119 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.4 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.3 µg
+Folate: 11 µg

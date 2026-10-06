@@ -1,0 +1,36 @@
+Food: Cashews, lightly salted
+Food ID: 2707496
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 581 kcal
+Protein: 14.78 g
+Carbohydrates: 31.55 g
+Fat: 47.72 g
+Fiber: 2.9 g
+Sugar: 4.84 g
+
+Fats:
+Saturated fat: 9.237 g
+Monounsaturated fat: 27.631 g
+Polyunsaturated fat: 8.71 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 208 mg
+Potassium: 545 mg
+Calcium: 44 mg
+Iron: 5.8 mg
+Magnesium: 251 mg
+Zinc: 5.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.46 mg
+Vitamin K: 36.5 µg
+Vitamin B6: 0.247 mg
+Vitamin B12: 0 µg
+Folate: 67 µg

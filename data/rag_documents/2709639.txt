@@ -1,0 +1,36 @@
+Food: Watercress, raw
+Food ID: 2709639
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 11 kcal
+Protein: 2.3 g
+Carbohydrates: 1.29 g
+Fat: 0.1 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 0.027 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.035 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 330 mg
+Calcium: 120 mg
+Iron: 0.2 mg
+Magnesium: 21 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 160 µg
+Vitamin C: 43 mg
+Vitamin D: 0 µg
+Vitamin E: 1 mg
+Vitamin K: 250 µg
+Vitamin B6: 0.129 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

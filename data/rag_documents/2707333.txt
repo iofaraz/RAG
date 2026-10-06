@@ -1,0 +1,36 @@
+Food: Egg sandwich on griddle/pancake, with meat
+Food ID: 2707333
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 11.69 g
+Carbohydrates: 15.62 g
+Fat: 19.84 g
+Fiber: 0.5 g
+Sugar: 5.86 g
+
+Fats:
+Saturated fat: 6.84 g
+Monounsaturated fat: 7.287 g
+Polyunsaturated fat: 3.842 g
+Cholesterol: 166 mg
+
+Minerals:
+Sodium: 565 mg
+Potassium: 171 mg
+Calcium: 174 mg
+Iron: 1.15 mg
+Magnesium: 15 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 116 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 1.45 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.71 µg
+Folate: 28 µg

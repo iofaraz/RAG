@@ -1,0 +1,36 @@
+Food: Pastrami, turkey
+Food ID: 172927
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 16.3 g
+Carbohydrates: 3.34 g
+Fat: 6.21 g
+Fiber: 0.1 g
+Sugar: 3.34 g
+
+Fats:
+Saturated fat: 1.395 g
+Monounsaturated fat: 1.93 g
+Polyunsaturated fat: 1.42 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 1123 mg
+Potassium: 345 mg
+Calcium: 11 mg
+Iron: 4.2 mg
+Magnesium: 14 mg
+Zinc: 2.16 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 8.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.27 mg
+Vitamin B12: 0.24 µg
+Folate: 5 µg

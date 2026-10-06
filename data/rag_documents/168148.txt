@@ -1,0 +1,36 @@
+Food: Frog legs, raw
+Food ID: 168148
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 73 kcal
+Protein: 16.4 g
+Carbohydrates: 0 g
+Fat: 0.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.076 g
+Monounsaturated fat: 0.053 g
+Polyunsaturated fat: 0.102 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 285 mg
+Calcium: 18 mg
+Iron: 1.5 mg
+Magnesium: 20 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.12 mg
+Vitamin B12: 0.4 µg
+Folate: 15 µg

@@ -1,0 +1,32 @@
+Food: Beverages, coffee substitute, cereal grain beverage, powder, prepared with whole milk
+Food ID: 173648
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 3.3 g
+Carbohydrates: 5.6 g
+Fat: 3.3 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 2.061 g
+Monounsaturated fat: 0.958 g
+Polyunsaturated fat: 0.144 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 49 mg
+Potassium: 172 mg
+Calcium: 119 mg
+Iron: 0.11 mg
+Magnesium: 16 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0.9 mg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.35 µg
+Folate: 5 µg

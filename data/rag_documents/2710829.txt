@@ -1,0 +1,21 @@
+Food: Fonio, grain, dry, raw
+Food ID: 2710829
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 7.16875 g
+Carbohydrates: 81.3053 g
+Fat: 1.693 g
+Fiber: 2.197 g
+
+Minerals:
+Sodium: 2.967 mg
+Potassium: 43.79 mg
+Calcium: 11.65 mg
+Iron: 2.663 mg
+Magnesium: 39.1 mg
+Zinc: 1.849 mg
+
+Vitamins:
+Vitamin B6: 0.02529 mg

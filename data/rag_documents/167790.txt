@@ -1,0 +1,31 @@
+Food: Naranjilla (lulo) pulp, frozen, unsweetened
+Food ID: 167790
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 25 kcal
+Protein: 0.44 g
+Carbohydrates: 5.9 g
+Fat: 0.22 g
+Fiber: 1.1 g
+Sugar: 3.74 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 200 mg
+Calcium: 8 mg
+Iron: 0.35 mg
+Magnesium: 11 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 3.2 mg
+Vitamin E: 0.75 mg
+Vitamin K: 14.6 µg
+Vitamin B6: 0.107 mg
+Folate: 3 µg

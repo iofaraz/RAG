@@ -1,0 +1,36 @@
+Food: Pizza with meat and fruit, thin crust
+Food ID: 2708669
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 10.88 g
+Carbohydrates: 27.01 g
+Fat: 8.34 g
+Fiber: 1.8 g
+Sugar: 4.12 g
+
+Fats:
+Saturated fat: 3.683 g
+Monounsaturated fat: 2.449 g
+Polyunsaturated fat: 1.38 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 565 mg
+Potassium: 182 mg
+Calcium: 143 mg
+Iron: 1.98 mg
+Magnesium: 22 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 6.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.65 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0.41 µg
+Folate: 71 µg

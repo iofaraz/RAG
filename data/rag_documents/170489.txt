@@ -1,0 +1,37 @@
+Food: Squash, winter, all varieties, raw
+Food ID: 170489
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 0.95 g
+Carbohydrates: 8.59 g
+Fat: 0.13 g
+Fiber: 1.5 g
+Sugar: 2.2 g
+
+Fats:
+Saturated fat: 0.027 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.056 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 350 mg
+Calcium: 28 mg
+Iron: 0.58 mg
+Magnesium: 14 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 12.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.156 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

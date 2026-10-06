@@ -1,0 +1,36 @@
+Food: Cheese, gouda
+Food ID: 171241
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 356 kcal
+Protein: 24.94 g
+Carbohydrates: 2.22 g
+Fat: 27.44 g
+Fiber: 0 g
+Sugar: 2.22 g
+
+Fats:
+Saturated fat: 17.614 g
+Monounsaturated fat: 7.747 g
+Polyunsaturated fat: 0.657 g
+Cholesterol: 114 mg
+
+Minerals:
+Sodium: 819 mg
+Potassium: 121 mg
+Calcium: 700 mg
+Iron: 0.24 mg
+Magnesium: 29 mg
+Zinc: 3.9 mg
+
+Vitamins:
+Vitamin A: 165 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.24 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 1.54 µg
+Folate: 21 µg

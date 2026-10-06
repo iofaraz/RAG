@@ -1,0 +1,14 @@
+Food: Prickly pears, broiled (Northern Plains Indians)
+Food ID: 169817
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 0.39 g
+Carbohydrates: 21.57 g
+Fat: 0.31 g
+
+Vitamins:
+Vitamin C: 6.2 mg
+Vitamin B6: 0.146 mg

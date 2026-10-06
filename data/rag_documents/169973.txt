@@ -1,0 +1,37 @@
+Food: Brussels sprouts, frozen, cooked, boiled, drained, without salt
+Food ID: 169973
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 3.64 g
+Carbohydrates: 8.32 g
+Fat: 0.39 g
+Fiber: 4.1 g
+Sugar: 2.08 g
+
+Fats:
+Saturated fat: 0.081 g
+Monounsaturated fat: 0.03 g
+Polyunsaturated fat: 0.2 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 290 mg
+Calcium: 26 mg
+Iron: 0.48 mg
+Magnesium: 18 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 45.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.51 mg
+Vitamin K: 193.5 µg
+Vitamin B6: 0.289 mg
+Vitamin B12: 0 µg
+Folate: 101 µg

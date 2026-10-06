@@ -1,0 +1,24 @@
+Food: Vitasoy USA Azumaya, Silken Tofu
+Food ID: 173786
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 4.82 g
+Carbohydrates: 0.58 g
+Fat: 2.4 g
+Fiber: 0.2 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 0.3 g
+Monounsaturated fat: 0.5 g
+Polyunsaturated fat: 1.1 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Calcium: 66 mg
+Iron: 0.8 mg

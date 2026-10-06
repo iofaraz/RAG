@@ -1,0 +1,31 @@
+Food: Game meat, bison, top sirloin, separable lean only, trimmed to 0" fat, raw
+Food ID: 172564
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 21.4 g
+Carbohydrates: 0 g
+Fat: 2.4 g
+
+Fats:
+Saturated fat: 0.885 g
+Monounsaturated fat: 0.986 g
+Polyunsaturated fat: 0.217 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 335 mg
+Calcium: 5 mg
+Iron: 3 mg
+Magnesium: 24 mg
+Zinc: 3.4 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin E: 0.05 mg
+Vitamin B6: 0.259 mg
+Vitamin B12: 2.3 µg

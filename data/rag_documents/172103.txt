@@ -1,0 +1,36 @@
+Food: Egg rolls, pork, refrigerated, heated
+Food ID: 172103
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 227 kcal
+Protein: 9.94 g
+Carbohydrates: 28.49 g
+Fat: 8.18 g
+Fiber: 0 g
+Sugar: 1.67 g
+
+Fats:
+Saturated fat: 1.65 g
+Monounsaturated fat: 2.35 g
+Polyunsaturated fat: 2.464 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 407 mg
+Potassium: 212 mg
+Calcium: 34 mg
+Iron: 1.55 mg
+Magnesium: 20 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 390 µg
+Vitamin C: 29.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.27 mg
+Vitamin K: 22.6 µg
+Vitamin B6: 0.173 mg
+Vitamin B12: 0.15 µg
+Folate: 80 µg

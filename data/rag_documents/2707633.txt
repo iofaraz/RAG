@@ -1,0 +1,36 @@
+Food: Bread, onion
+Food ID: 2707633
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 238 kcal
+Protein: 8.81 g
+Carbohydrates: 44.32 g
+Fat: 2.95 g
+Fiber: 1.7 g
+Sugar: 3.33 g
+
+Fats:
+Saturated fat: 0.994 g
+Monounsaturated fat: 0.687 g
+Polyunsaturated fat: 0.681 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 482 mg
+Potassium: 124 mg
+Calcium: 36 mg
+Iron: 3.11 mg
+Magnesium: 24 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.28 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.072 mg
+Vitamin B12: 0.05 µg
+Folate: 70 µg

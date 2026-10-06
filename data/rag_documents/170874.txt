@@ -1,0 +1,36 @@
+Food: Milk, buttermilk, fluid, cultured, lowfat
+Food ID: 170874
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 40 kcal
+Protein: 3.31 g
+Carbohydrates: 4.79 g
+Fat: 1.07 g
+Fiber: 0 g
+Sugar: 5.36 g
+
+Fats:
+Saturated fat: 0.66 g
+Monounsaturated fat: 0.254 g
+Polyunsaturated fat: 0.033 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 148 mg
+Potassium: 151 mg
+Calcium: 116 mg
+Iron: 0.05 mg
+Magnesium: 11 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.22 µg
+Folate: 5 µg

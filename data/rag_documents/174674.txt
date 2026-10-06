@@ -1,0 +1,33 @@
+Food: Grapefruit, raw, pink and red, California and Arizona
+Food ID: 174674
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 0.5 g
+Carbohydrates: 9.69 g
+Fat: 0.1 g
+
+Fats:
+Saturated fat: 0.014 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.024 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 147 mg
+Calcium: 11 mg
+Iron: 0.08 mg
+Magnesium: 9 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 38.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

@@ -1,0 +1,27 @@
+Food: Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil
+Food ID: 172371
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 583 kcal
+Protein: 0.14 g
+Carbohydrates: 0.14 g
+Fat: 64.63 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 16.69 g
+Monounsaturated fat: 26.207 g
+Polyunsaturated fat: 17.822 g
+Trans fat: 0.425 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 646 mg
+Potassium: 28 mg
+
+Vitamins:
+Vitamin E: 19.34 mg
+Vitamin K: 55.5 µg

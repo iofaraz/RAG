@@ -1,0 +1,26 @@
+Food: KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product
+Food ID: 173446
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 16.3 g
+Carbohydrates: 16.2 g
+Fat: 9.5 g
+Fiber: 0.2 g
+Sugar: 8.2 g
+
+Fats:
+Saturated fat: 6.4 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 1705 mg
+Potassium: 297 mg
+Calcium: 418 mg
+Iron: 0.16 mg
+Zinc: 2.36 mg
+
+Vitamins:
+Vitamin C: 0.4 mg

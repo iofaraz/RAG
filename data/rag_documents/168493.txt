@@ -1,0 +1,30 @@
+Food: Arrowhead, cooked, boiled, drained, with salt
+Food ID: 168493
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 78 kcal
+Protein: 4.49 g
+Carbohydrates: 16.14 g
+Fat: 0.1 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 254 mg
+Potassium: 881 mg
+Calcium: 7 mg
+Iron: 1.21 mg
+Magnesium: 49 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.206 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

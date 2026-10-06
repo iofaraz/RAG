@@ -1,0 +1,37 @@
+Food: Spinach souffle
+Food ID: 170494
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 7.89 g
+Carbohydrates: 5.9 g
+Fat: 12.95 g
+Fiber: 0.7 g
+Sugar: 1.85 g
+
+Fats:
+Saturated fat: 6.091 g
+Monounsaturated fat: 3.021 g
+Polyunsaturated fat: 0.61 g
+Trans fat: 0.188 g
+Cholesterol: 118 mg
+
+Minerals:
+Sodium: 566 mg
+Potassium: 231 mg
+Calcium: 165 mg
+Iron: 1.19 mg
+Magnesium: 30 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 244 µg
+Vitamin C: 7.3 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.93 mg
+Vitamin K: 126.5 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.4 µg
+Folate: 73 µg

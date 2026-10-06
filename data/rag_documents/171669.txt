@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, QUAKER, QUAKER Puffed Wheat
+Food ID: 171669
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 16.26 g
+Carbohydrates: 76.39 g
+Fat: 2.15 g
+Fiber: 9.4 g
+Sugar: 1.37 g
+
+Fats:
+Saturated fat: 0.413 g
+Monounsaturated fat: 0.313 g
+Polyunsaturated fat: 1.073 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 364 mg
+Calcium: 24 mg
+Iron: 4.41 mg
+Magnesium: 133 mg
+Zinc: 3.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0.42 µg
+Folate: 154 µg

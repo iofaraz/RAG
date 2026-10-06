@@ -1,0 +1,36 @@
+Food: Lefse
+Food ID: 2709553
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 218 kcal
+Protein: 4.37 g
+Carbohydrates: 36.39 g
+Fat: 6.34 g
+Fiber: 2 g
+Sugar: 2.31 g
+
+Fats:
+Saturated fat: 2.717 g
+Monounsaturated fat: 1.536 g
+Polyunsaturated fat: 0.921 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 172 mg
+Potassium: 271 mg
+Calcium: 18 mg
+Iron: 1.75 mg
+Magnesium: 22 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.47 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.271 mg
+Vitamin B12: 0.01 µg
+Folate: 37 µg

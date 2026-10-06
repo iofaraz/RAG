@@ -1,0 +1,36 @@
+Food: Burrito, beef, with beans and rice, cheese
+Food ID: 2708538
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 10.78 g
+Carbohydrates: 26.05 g
+Fat: 8.29 g
+Fiber: 2 g
+Sugar: 1.61 g
+
+Fats:
+Saturated fat: 3.398 g
+Monounsaturated fat: 2.58 g
+Polyunsaturated fat: 1.168 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 465 mg
+Potassium: 169 mg
+Calcium: 102 mg
+Iron: 2.34 mg
+Magnesium: 21 mg
+Zinc: 1.79 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.57 µg
+Folate: 52 µg

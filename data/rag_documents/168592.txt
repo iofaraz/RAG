@@ -1,0 +1,33 @@
+Food: Nuts, almonds, honey roasted, unblanched
+Food ID: 168592
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 594 kcal
+Protein: 18.17 g
+Carbohydrates: 27.9 g
+Fat: 49.9 g
+Fiber: 13.7 g
+
+Fats:
+Saturated fat: 4.73 g
+Monounsaturated fat: 32.402 g
+Polyunsaturated fat: 10.472 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 130 mg
+Potassium: 560 mg
+Calcium: 263 mg
+Iron: 2.83 mg
+Magnesium: 240 mg
+Zinc: 2.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

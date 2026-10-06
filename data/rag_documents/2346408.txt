@@ -1,0 +1,22 @@
+Food: Cabbage, red, raw
+Food ID: 2346408
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.2425 g
+Carbohydrates: 6.7899 g
+Fat: 0.2138 g
+
+Minerals:
+Sodium: 11.72 mg
+Potassium: 269.1 mg
+Calcium: 30.99 mg
+Iron: 0 mg
+Magnesium: 13.3 mg
+Zinc: 0.245 mg
+
+Vitamins:
+Vitamin C: 53.88 mg
+Vitamin K: 32.3 µg
+Vitamin B6: 0.1789 mg

@@ -1,0 +1,35 @@
+Food: Beans, navy, mature seeds, raw
+Food ID: 173745
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 337 kcal
+Protein: 22.33 g
+Carbohydrates: 60.75 g
+Fat: 1.5 g
+Fiber: 15.3 g
+Sugar: 3.88 g
+
+Fats:
+Saturated fat: 0.17 g
+Monounsaturated fat: 0.128 g
+Polyunsaturated fat: 0.873 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 1185 mg
+Calcium: 147 mg
+Iron: 5.49 mg
+Magnesium: 175 mg
+Zinc: 3.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.428 mg
+Vitamin B12: 0 µg
+Folate: 364 µg

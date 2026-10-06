@@ -1,0 +1,36 @@
+Food: Spices, pepper, red or cayenne
+Food ID: 170932
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 318 kcal
+Protein: 12.01 g
+Carbohydrates: 56.63 g
+Fat: 17.27 g
+Fiber: 27.2 g
+Sugar: 10.34 g
+
+Fats:
+Saturated fat: 3.26 g
+Monounsaturated fat: 2.75 g
+Polyunsaturated fat: 8.37 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 2014 mg
+Calcium: 148 mg
+Iron: 7.8 mg
+Magnesium: 152 mg
+Zinc: 2.48 mg
+
+Vitamins:
+Vitamin A: 2081 µg
+Vitamin C: 76.4 mg
+Vitamin D: 0 µg
+Vitamin E: 29.83 mg
+Vitamin K: 80.3 µg
+Vitamin B6: 2.45 mg
+Vitamin B12: 0 µg
+Folate: 106 µg

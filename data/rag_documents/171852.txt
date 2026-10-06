@@ -1,0 +1,37 @@
+Food: Bagels, multigrain
+Food ID: 171852
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 9.9 g
+Carbohydrates: 47.47 g
+Fat: 1.24 g
+Fiber: 6.2 g
+Sugar: 8.66 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0.314 g
+Polyunsaturated fat: 0.7 g
+Trans fat: 0 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 204 mg
+Calcium: 124 mg
+Iron: 2.23 mg
+Magnesium: 85 mg
+Zinc: 1.52 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.66 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0 µg
+Folate: 81 µg

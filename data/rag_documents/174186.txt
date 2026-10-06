@@ -1,0 +1,33 @@
+Food: Fish, catfish, channel, wild, raw
+Food ID: 174186
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 16.38 g
+Carbohydrates: 0 g
+Fat: 2.82 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.722 g
+Monounsaturated fat: 0.844 g
+Polyunsaturated fat: 0.865 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 358 mg
+Calcium: 14 mg
+Iron: 0.3 mg
+Magnesium: 23 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.7 mg
+Vitamin D: 12.5 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 2.23 µg
+Folate: 10 µg

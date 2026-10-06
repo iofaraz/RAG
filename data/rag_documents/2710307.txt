@@ -1,0 +1,36 @@
+Food: Guava paste
+Food ID: 2710307
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 292 kcal
+Protein: 0.1 g
+Carbohydrates: 72.56 g
+Fat: 0.27 g
+Fiber: 1.1 g
+Sugar: 71.62 g
+
+Fats:
+Saturated fat: 0.012 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.018 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 69 mg
+Calcium: 3 mg
+Iron: 0.09 mg
+Magnesium: 2 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 43.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

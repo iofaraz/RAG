@@ -1,0 +1,36 @@
+Food: Turkey and ham sandwich on white
+Food ID: 2707089
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 172 kcal
+Protein: 13.12 g
+Carbohydrates: 21.22 g
+Fat: 3.68 g
+Fiber: 1 g
+Sugar: 2.49 g
+
+Fats:
+Saturated fat: 0.933 g
+Monounsaturated fat: 1.061 g
+Polyunsaturated fat: 1.237 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 683 mg
+Potassium: 281 mg
+Calcium: 93 mg
+Iron: 1.69 mg
+Magnesium: 22 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.21 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.273 mg
+Vitamin B12: 0.21 µg
+Folate: 47 µg

@@ -1,0 +1,36 @@
+Food: Chocolate milk, reduced sugar, low fat (1%)
+Food ID: 2705481
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 3.13 g
+Carbohydrates: 8.87 g
+Fat: 0.95 g
+Fiber: 0 g
+Sugar: 7.92 g
+
+Fats:
+Saturated fat: 0.497 g
+Monounsaturated fat: 0.184 g
+Polyunsaturated fat: 0.028 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 163 mg
+Calcium: 112 mg
+Iron: 0 mg
+Magnesium: 15 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0.53 µg
+Folate: 2 µg

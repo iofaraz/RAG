@@ -1,0 +1,33 @@
+Food: Barbecue loaf, pork, beef
+Food ID: 171601
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 15.84 g
+Carbohydrates: 6.4 g
+Fat: 8.9 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.17 g
+Monounsaturated fat: 4.14 g
+Polyunsaturated fat: 0.81 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 1334 mg
+Potassium: 329 mg
+Calcium: 55 mg
+Iron: 1.16 mg
+Magnesium: 17 mg
+Zinc: 2.46 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 1.68 µg
+Folate: 9 µg

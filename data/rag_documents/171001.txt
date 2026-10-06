@@ -1,0 +1,36 @@
+Food: Babyfood, Baby MUM MUM Rice Biscuits
+Food ID: 171001
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 391 kcal
+Protein: 12.5 g
+Carbohydrates: 83.21 g
+Fat: 0.87 g
+Fiber: 0 g
+Sugar: 12.5 g
+
+Fats:
+Saturated fat: 0.238 g
+Monounsaturated fat: 0.224 g
+Polyunsaturated fat: 0.255 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 313 mg
+Potassium: 504 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 47 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.17 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.571 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

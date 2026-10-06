@@ -1,0 +1,36 @@
+Food: Potato chips, without salt, reduced fat
+Food ID: 170253
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 487 kcal
+Protein: 7.1 g
+Carbohydrates: 67.8 g
+Fat: 20.8 g
+Fiber: 6.1 g
+Sugar: 0.22 g
+
+Fats:
+Saturated fat: 4.16 g
+Monounsaturated fat: 4.8 g
+Polyunsaturated fat: 10.94 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 1744 mg
+Calcium: 21 mg
+Iron: 1.35 mg
+Magnesium: 89 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 25.7 mg
+Vitamin D: 0 µg
+Vitamin E: 5.47 mg
+Vitamin K: 13.3 µg
+Vitamin B6: 0.67 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

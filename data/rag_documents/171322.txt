@@ -1,0 +1,31 @@
+Food: Spices, dill weed, dried
+Food ID: 171322
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 253 kcal
+Protein: 19.96 g
+Carbohydrates: 55.82 g
+Fat: 4.36 g
+Fiber: 13.6 g
+
+Fats:
+Saturated fat: 0.234 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 208 mg
+Potassium: 3308 mg
+Calcium: 1784 mg
+Iron: 48.78 mg
+Magnesium: 451 mg
+Zinc: 3.3 mg
+
+Vitamins:
+Vitamin A: 293 µg
+Vitamin C: 50 mg
+Vitamin D: 0 µg
+Vitamin B6: 1.71 mg
+Vitamin B12: 0 µg

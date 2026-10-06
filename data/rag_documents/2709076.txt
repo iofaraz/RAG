@@ -1,0 +1,36 @@
+Food: Stuffed tomato, with rice, meatless
+Food ID: 2709076
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 77 kcal
+Protein: 1.59 g
+Carbohydrates: 13.05 g
+Fat: 2.15 g
+Fiber: 1.1 g
+Sugar: 2.27 g
+
+Fats:
+Saturated fat: 0.309 g
+Monounsaturated fat: 0.864 g
+Polyunsaturated fat: 0.819 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 123 mg
+Potassium: 182 mg
+Calcium: 13 mg
+Iron: 0.6 mg
+Magnesium: 12 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 14.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 0 µg
+Folate: 27 µg

@@ -1,0 +1,36 @@
+Food: Potato, home fries, with vegetables
+Food ID: 2709476
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 173 kcal
+Protein: 1.72 g
+Carbohydrates: 15.6 g
+Fat: 11.77 g
+Fiber: 1.5 g
+Sugar: 1.84 g
+
+Fats:
+Saturated fat: 1.587 g
+Monounsaturated fat: 4.942 g
+Polyunsaturated fat: 4.528 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 382 mg
+Potassium: 345 mg
+Calcium: 11 mg
+Iron: 0.58 mg
+Magnesium: 20 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 22.1 mg
+Vitamin D: 0 µg
+Vitamin E: 2.31 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.258 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

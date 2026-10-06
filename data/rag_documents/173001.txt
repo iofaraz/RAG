@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, Fruity DYNO-BITES
+Food ID: 173001
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 404 kcal
+Protein: 3.9 g
+Carbohydrates: 90.1 g
+Fat: 3.15 g
+Fiber: 1 g
+Sugar: 42.6 g
+
+Fats:
+Saturated fat: 0.64 g
+Monounsaturated fat: 2.12 g
+Polyunsaturated fat: 0.258 g
+Trans fat: 0.14 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 630 mg
+Potassium: 76 mg
+Calcium: 3 mg
+Iron: 7.62 mg
+Magnesium: 15 mg
+Zinc: 5.99 mg
+
+Vitamins:
+Vitamin A: 1090 µg
+Vitamin C: 1 mg
+Vitamin D: 4.9 µg
+Vitamin E: 1.27 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 2.74 mg
+Vitamin B12: 6.9 µg
+Folate: 496 µg

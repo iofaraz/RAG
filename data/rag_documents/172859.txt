@@ -1,0 +1,37 @@
+Food: Chicken, dark meat, thigh, meat only, with added solution, raw
+Food ID: 172859
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 19.11 g
+Carbohydrates: 0 g
+Fat: 3.69 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.899 g
+Monounsaturated fat: 1.222 g
+Polyunsaturated fat: 0.767 g
+Trans fat: 0.017 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 156 mg
+Potassium: 234 mg
+Calcium: 8 mg
+Iron: 0.6 mg
+Magnesium: 21 mg
+Zinc: 1.53 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.26 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.433 mg
+Vitamin B12: 0.56 µg
+Folate: 3 µg

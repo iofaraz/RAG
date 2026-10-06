@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, MALT-O-MEAL, COLOSSAL CRUNCH
+Food ID: 174631
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 401 kcal
+Protein: 3.64 g
+Carbohydrates: 81.59 g
+Fat: 5.28 g
+Fiber: 1.7 g
+Sugar: 42.5 g
+
+Fats:
+Saturated fat: 2.24 g
+Monounsaturated fat: 1.47 g
+Polyunsaturated fat: 0.69 g
+Trans fat: 0.48 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 806 mg
+Potassium: 110 mg
+Calcium: 0 mg
+Iron: 30 mg
+Magnesium: 5 mg
+Zinc: 12.5 mg
+
+Vitamins:
+Vitamin A: 479 µg
+Vitamin C: 20 mg
+Vitamin D: 3.3 µg
+Vitamin E: 0.15 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.66 mg
+Vitamin B12: 5 µg
+Folate: 667 µg

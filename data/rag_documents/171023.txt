@@ -1,0 +1,35 @@
+Food: Salad dressing, italian dressing, reduced fat, without salt
+Food ID: 171023
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 0.47 g
+Carbohydrates: 4.57 g
+Fat: 6.38 g
+Fiber: 0 g
+Sugar: 4.55 g
+
+Fats:
+Saturated fat: 0.451 g
+Monounsaturated fat: 2.19 g
+Polyunsaturated fat: 1.704 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 85 mg
+Calcium: 9 mg
+Iron: 0.65 mg
+Magnesium: 4 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin E: 0.59 mg
+Vitamin K: 12.5 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

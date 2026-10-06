@@ -1,0 +1,33 @@
+Food: Corn, sweet, yellow, canned, drained solids, rinsed with tap water
+Food ID: 168397
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 2.18 g
+Carbohydrates: 13.02 g
+Fat: 1.43 g
+Fiber: 1.7 g
+Sugar: 4.11 g
+
+Fats:
+Saturated fat: 0.219 g
+Monounsaturated fat: 0.42 g
+Polyunsaturated fat: 0.682 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 163 mg
+Potassium: 116 mg
+Calcium: 2 mg
+Iron: 0.22 mg
+Magnesium: 11 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin C: 1.7 mg
+Vitamin D: 0 µg
+Vitamin B12: 0 µg
+Folate: 29 µg

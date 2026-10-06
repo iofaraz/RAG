@@ -1,0 +1,36 @@
+Food: Cake, white, prepared from recipe with coconut frosting
+Food ID: 172698
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 356 kcal
+Protein: 4.4 g
+Carbohydrates: 63.2 g
+Fat: 10.3 g
+Fiber: 1 g
+Sugar: 57.39 g
+
+Fats:
+Saturated fat: 3.897 g
+Monounsaturated fat: 3.692 g
+Polyunsaturated fat: 2.162 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 284 mg
+Potassium: 99 mg
+Calcium: 90 mg
+Iron: 1.16 mg
+Magnesium: 12 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.12 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.06 µg
+Folate: 31 µg

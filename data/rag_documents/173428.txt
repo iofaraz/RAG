@@ -1,0 +1,37 @@
+Food: Egg, yolk, dried
+Food ID: 173428
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 669 kcal
+Protein: 33.63 g
+Carbohydrates: 0.66 g
+Fat: 59.13 g
+Fiber: 0 g
+Sugar: 0.23 g
+
+Fats:
+Saturated fat: 20.334 g
+Monounsaturated fat: 23.377 g
+Polyunsaturated fat: 10.32 g
+Trans fat: 0.346 g
+Cholesterol: 2307 mg
+
+Minerals:
+Sodium: 149 mg
+Potassium: 264 mg
+Calcium: 289 mg
+Iron: 9.56 mg
+Magnesium: 26 mg
+Zinc: 7.73 mg
+
+Vitamins:
+Vitamin A: 483 µg
+Vitamin C: 0 mg
+Vitamin D: 10.4 µg
+Vitamin E: 4.81 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.742 mg
+Vitamin B12: 5.11 µg
+Folate: 209 µg

@@ -1,0 +1,37 @@
+Food: Pickles, cucumber, sour
+Food ID: 169379
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 11 kcal
+Protein: 0.33 g
+Carbohydrates: 2.26 g
+Fat: 0.2 g
+Fiber: 1.2 g
+Sugar: 1.06 g
+
+Fats:
+Saturated fat: 0.052 g
+Monounsaturated fat: 0.003 g
+Polyunsaturated fat: 0.081 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1208 mg
+Potassium: 23 mg
+Calcium: 0 mg
+Iron: 0.4 mg
+Magnesium: 4 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 47 µg
+Vitamin B6: 0.009 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

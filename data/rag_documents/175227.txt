@@ -1,0 +1,25 @@
+Food: SILK Plain soy yogurt
+Food ID: 175227
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 2.64 g
+Carbohydrates: 9.69 g
+Fat: 1.76 g
+Fiber: 0.4 g
+Sugar: 5.29 g
+
+Fats:
+Saturated fat: 0.22 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Calcium: 132 mg
+
+Vitamins:
+Vitamin C: 13.2 mg
+Vitamin D: 1.3 µg

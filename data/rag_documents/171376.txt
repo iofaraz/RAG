@@ -1,0 +1,36 @@
+Food: Babyfood, dessert, peach cobbler, junior
+Food ID: 171376
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 0.3 g
+Carbohydrates: 18.3 g
+Fat: 0 g
+Fiber: 0.7 g
+Sugar: 11.89 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 56 mg
+Calcium: 4 mg
+Iron: 0.1 mg
+Magnesium: 2 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 20.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.007 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

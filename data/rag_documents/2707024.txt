@@ -1,0 +1,36 @@
+Food: Fried seafood sandwich
+Food ID: 2707024
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 11.32 g
+Carbohydrates: 24.67 g
+Fat: 9.82 g
+Fiber: 1.1 g
+Sugar: 1.91 g
+
+Fats:
+Saturated fat: 1.514 g
+Monounsaturated fat: 3.696 g
+Polyunsaturated fat: 3.855 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 439 mg
+Potassium: 113 mg
+Calcium: 107 mg
+Iron: 1.82 mg
+Magnesium: 23 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.24 mg
+Vitamin K: 8.2 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0.5 µg
+Folate: 60 µg

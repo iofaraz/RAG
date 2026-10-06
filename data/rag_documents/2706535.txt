@@ -1,0 +1,36 @@
+Food: Chicken or turkey and noodles with tomato-based sauce
+Food ID: 2706535
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 137 kcal
+Protein: 7.12 g
+Carbohydrates: 15.17 g
+Fat: 5.44 g
+Fiber: 1.1 g
+Sugar: 1.36 g
+
+Fats:
+Saturated fat: 0.92 g
+Monounsaturated fat: 2.121 g
+Polyunsaturated fat: 1.718 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 343 mg
+Potassium: 161 mg
+Calcium: 13 mg
+Iron: 1.22 mg
+Magnesium: 20 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 2.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.23 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.096 mg
+Vitamin B12: 0.11 µg
+Folate: 49 µg

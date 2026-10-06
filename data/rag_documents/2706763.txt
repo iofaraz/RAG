@@ -1,0 +1,36 @@
+Food: Kung Pao pork
+Food ID: 2706763
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 16.89 g
+Carbohydrates: 4.55 g
+Fat: 14.76 g
+Fiber: 1 g
+Sugar: 1.43 g
+
+Fats:
+Saturated fat: 3.202 g
+Monounsaturated fat: 6.745 g
+Polyunsaturated fat: 3.474 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 183 mg
+Potassium: 313 mg
+Calcium: 22 mg
+Iron: 0.84 mg
+Magnesium: 33 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 12 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.59 mg
+Vitamin K: 13.7 µg
+Vitamin B6: 0.361 mg
+Vitamin B12: 0.38 µg
+Folate: 15 µg

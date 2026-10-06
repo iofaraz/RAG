@@ -1,0 +1,37 @@
+Food: Beans, white, mature seeds, cooked, boiled, without salt
+Food ID: 175203
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 9.73 g
+Carbohydrates: 25.09 g
+Fat: 0.35 g
+Fiber: 6.3 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 0.091 g
+Monounsaturated fat: 0.031 g
+Polyunsaturated fat: 0.152 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 561 mg
+Calcium: 90 mg
+Iron: 3.7 mg
+Magnesium: 63 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.94 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0 µg
+Folate: 81 µg

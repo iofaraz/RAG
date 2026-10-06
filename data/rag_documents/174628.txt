@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, Post, Waffle Crisp
+Food ID: 174628
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 6.6 g
+Carbohydrates: 83 g
+Fat: 5 g
+Fiber: 4.4 g
+Sugar: 34.7 g
+
+Fats:
+Saturated fat: 0.9 g
+Monounsaturated fat: 1.7 g
+Polyunsaturated fat: 1.7 g
+Trans fat: 0.5 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 596 mg
+Potassium: 212 mg
+Calcium: 24 mg
+Iron: 9 mg
+Magnesium: 72 mg
+Zinc: 7.5 mg
+
+Vitamins:
+Vitamin A: 740 µg
+Vitamin C: 0 mg
+Vitamin D: 3.3 µg
+Vitamin E: 0.4 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 1.7 mg
+Vitamin B12: 5 µg
+Folate: 333 µg

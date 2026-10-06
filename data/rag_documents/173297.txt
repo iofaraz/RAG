@@ -1,0 +1,31 @@
+Food: McDONALD'S, Chicken McNUGGETS
+Food ID: 173297
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 302 kcal
+Protein: 15.79 g
+Carbohydrates: 15.09 g
+Fat: 19.81 g
+Sugar: 0.08 g
+
+Fats:
+Saturated fat: 3.261 g
+Monounsaturated fat: 8.134 g
+Polyunsaturated fat: 5.61 g
+Trans fat: 0.114 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 566 mg
+Potassium: 252 mg
+Calcium: 11 mg
+Iron: 0.89 mg
+Magnesium: 24 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin C: 1.2 mg
+Vitamin B6: 0.398 mg
+Vitamin B12: 0.33 µg

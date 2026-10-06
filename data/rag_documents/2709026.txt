@@ -1,0 +1,36 @@
+Food: Rice, white, with other vegetables, NS as to fat
+Food ID: 2709026
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 2.3 g
+Carbohydrates: 22.68 g
+Fat: 2.41 g
+Fiber: 0.8 g
+Sugar: 0.9 g
+
+Fats:
+Saturated fat: 0.359 g
+Monounsaturated fat: 0.985 g
+Polyunsaturated fat: 0.902 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 181 mg
+Potassium: 76 mg
+Calcium: 14 mg
+Iron: 0.97 mg
+Magnesium: 13 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 7.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 0 µg
+Folate: 48 µg

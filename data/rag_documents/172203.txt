@@ -1,0 +1,37 @@
+Food: Egg, white, raw, frozen, pasteurized
+Food ID: 172203
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 10.2 g
+Carbohydrates: 1.04 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 169 mg
+Potassium: 169 mg
+Calcium: 8 mg
+Iron: 0.04 mg
+Magnesium: 11 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.005 mg
+Vitamin B12: 0.03 µg
+Folate: 10 µg

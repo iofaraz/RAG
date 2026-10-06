@@ -1,0 +1,37 @@
+Food: Shallots, raw
+Food ID: 170499
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 2.5 g
+Carbohydrates: 16.8 g
+Fat: 0.1 g
+Fiber: 3.2 g
+Sugar: 7.87 g
+
+Fats:
+Saturated fat: 0.017 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.039 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 334 mg
+Calcium: 37 mg
+Iron: 1.2 mg
+Magnesium: 21 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.345 mg
+Vitamin B12: 0 µg
+Folate: 34 µg

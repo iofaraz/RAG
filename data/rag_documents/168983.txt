@@ -1,0 +1,14 @@
+Food: Caribou, liver, raw (Alaska Native)
+Food ID: 168983
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 15 g
+Carbohydrates: 6.8 g
+Fat: 3.9 g
+
+Minerals:
+Calcium: 4 mg
+Iron: 15.7 mg

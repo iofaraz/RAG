@@ -1,0 +1,36 @@
+Food: Fish, sturgeon, mixed species, raw
+Food ID: 173701
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 16.14 g
+Carbohydrates: 0 g
+Fat: 4.04 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.915 g
+Monounsaturated fat: 1.939 g
+Polyunsaturated fat: 0.69 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 284 mg
+Calcium: 13 mg
+Iron: 0.7 mg
+Magnesium: 35 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 210 µg
+Vitamin C: 0 mg
+Vitamin D: 10.3 µg
+Vitamin E: 0.5 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.2 mg
+Vitamin B12: 2.2 µg
+Folate: 15 µg

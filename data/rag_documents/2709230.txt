@@ -1,0 +1,36 @@
+Food: Cherry pie filling
+Food ID: 2709230
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 0.6 g
+Carbohydrates: 28.59 g
+Fat: 0.91 g
+Fiber: 0.9 g
+Sugar: 24.96 g
+
+Fats:
+Saturated fat: 0.163 g
+Monounsaturated fat: 0.392 g
+Polyunsaturated fat: 0.255 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 76 mg
+Calcium: 9 mg
+Iron: 1.08 mg
+Magnesium: 5 mg
+Zinc: 0.06 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.26 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

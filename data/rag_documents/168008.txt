@@ -1,0 +1,30 @@
+Food: Schar, Gluten-Free, Classic White Rolls
+Food ID: 168008
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 3.34 g
+Carbohydrates: 50.47 g
+Fat: 2.65 g
+Fiber: 5.1 g
+Sugar: 6.87 g
+
+Fats:
+Saturated fat: 0.215 g
+Monounsaturated fat: 1.353 g
+Polyunsaturated fat: 0.637 g
+Trans fat: 0.008 g
+
+Minerals:
+Sodium: 593 mg
+Potassium: 76 mg
+Calcium: 180 mg
+Iron: 3.57 mg
+Magnesium: 13 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin B6: 0.037 mg
+Folate: 8 µg

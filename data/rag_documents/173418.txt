@@ -1,0 +1,37 @@
+Food: Cheese, cream
+Food ID: 173418
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 350 kcal
+Protein: 6.15 g
+Carbohydrates: 5.52 g
+Fat: 34.44 g
+Fiber: 0 g
+Sugar: 3.76 g
+
+Fats:
+Saturated fat: 20.213 g
+Monounsaturated fat: 8.907 g
+Polyunsaturated fat: 1.483 g
+Trans fat: 1.173 g
+Cholesterol: 101 mg
+
+Minerals:
+Sodium: 314 mg
+Potassium: 132 mg
+Calcium: 97 mg
+Iron: 0.11 mg
+Magnesium: 9 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 308 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.22 µg
+Folate: 9 µg

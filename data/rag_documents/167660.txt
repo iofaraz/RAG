@@ -1,0 +1,37 @@
+Food: Restaurant, Latino, empanadas, beef, prepared
+Food ID: 167660
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 335 kcal
+Protein: 11.31 g
+Carbohydrates: 31.19 g
+Fat: 18.37 g
+Fiber: 2 g
+Sugar: 1.84 g
+
+Fats:
+Saturated fat: 5.156 g
+Monounsaturated fat: 7.121 g
+Polyunsaturated fat: 4.268 g
+Trans fat: 0.826 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 440 mg
+Potassium: 190 mg
+Calcium: 20 mg
+Iron: 2.7 mg
+Magnesium: 21 mg
+Zinc: 1.86 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.73 mg
+Vitamin K: 6.1 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0.76 µg
+Folate: 45 µg

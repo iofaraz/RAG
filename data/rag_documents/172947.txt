@@ -1,0 +1,34 @@
+Food: Oscar Mayer, Salami (hard)
+Food ID: 172947
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 25.9 g
+Carbohydrates: 1.6 g
+Fat: 28.7 g
+Fiber: 0 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 11.085 g
+Monounsaturated fat: 15.011 g
+Polyunsaturated fat: 2.856 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 1976 mg
+Potassium: 356 mg
+Calcium: 12 mg
+Iron: 1.83 mg
+Magnesium: 21 mg
+Zinc: 3.16 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 1.6 µg
+Vitamin B6: 0.44 mg
+Vitamin B12: 1.88 µg
+Folate: 3 µg

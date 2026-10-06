@@ -1,0 +1,36 @@
+Food: Chicken "wings", boneless, with hot sauce, from fast food / restaurant
+Food ID: 2706079
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 12.36 g
+Carbohydrates: 20.03 g
+Fat: 16.87 g
+Fiber: 0.9 g
+Sugar: 5.72 g
+
+Fats:
+Saturated fat: 3.33 g
+Monounsaturated fat: 6.191 g
+Polyunsaturated fat: 5.134 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 877 mg
+Potassium: 232 mg
+Calcium: 17 mg
+Iron: 0.89 mg
+Magnesium: 21 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.12 mg
+Vitamin K: 6.4 µg
+Vitamin B6: 0.149 mg
+Vitamin B12: 0.25 µg
+Folate: 13 µg

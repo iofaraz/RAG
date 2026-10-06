@@ -1,0 +1,36 @@
+Food: Pakora
+Food ID: 2710066
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 125 kcal
+Protein: 4.92 g
+Carbohydrates: 16.24 g
+Fat: 4.77 g
+Fiber: 3.2 g
+Sugar: 2.97 g
+
+Fats:
+Saturated fat: 0.598 g
+Monounsaturated fat: 1.739 g
+Polyunsaturated fat: 1.922 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 380 mg
+Potassium: 214 mg
+Calcium: 19 mg
+Iron: 1.12 mg
+Magnesium: 22 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.152 mg
+Vitamin B12: 0 µg
+Folate: 129 µg

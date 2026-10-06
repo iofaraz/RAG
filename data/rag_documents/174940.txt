@@ -1,0 +1,32 @@
+Food: Cake, pound, commercially prepared, other than all butter, enriched
+Food ID: 174940
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 389 kcal
+Protein: 5.2 g
+Carbohydrates: 52.5 g
+Fat: 17.9 g
+Fiber: 1 g
+
+Fats:
+Saturated fat: 4.647 g
+Monounsaturated fat: 9.935 g
+Polyunsaturated fat: 2.251 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 106 mg
+Calcium: 64 mg
+Iron: 1.62 mg
+Magnesium: 13 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0.14 µg
+Folate: 36 µg

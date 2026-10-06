@@ -1,0 +1,36 @@
+Food: Rice, white, with vegetables, cheese and/or cream based sauce, no added fat
+Food ID: 2709111
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 4.77 g
+Carbohydrates: 18.92 g
+Fat: 4.2 g
+Fiber: 1.1 g
+Sugar: 0.71 g
+
+Fats:
+Saturated fat: 2.211 g
+Monounsaturated fat: 1.324 g
+Polyunsaturated fat: 0.431 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 269 mg
+Potassium: 91 mg
+Calcium: 94 mg
+Iron: 0.89 mg
+Magnesium: 16 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.12 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.076 mg
+Vitamin B12: 0.09 µg
+Folate: 37 µg

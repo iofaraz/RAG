@@ -1,0 +1,36 @@
+Food: Fish, salmon, canned
+Food ID: 2706291
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 24.62 g
+Carbohydrates: 0 g
+Fat: 4.21 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.749 g
+Monounsaturated fat: 0.971 g
+Polyunsaturated fat: 1.298 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 378 mg
+Potassium: 326 mg
+Calcium: 60 mg
+Iron: 0.57 mg
+Magnesium: 24 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin D: 14.1 µg
+Vitamin E: 1.28 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 4.96 µg
+Folate: 4 µg

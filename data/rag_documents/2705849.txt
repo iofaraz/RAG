@@ -1,0 +1,36 @@
+Food: Beef, stew meat
+Food ID: 2705849
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 28.39 g
+Carbohydrates: 0 g
+Fat: 15.35 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.083 g
+Monounsaturated fat: 7.215 g
+Polyunsaturated fat: 0.683 g
+Cholesterol: 101 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 282 mg
+Calcium: 14 mg
+Iron: 2.91 mg
+Magnesium: 20 mg
+Zinc: 10.15 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.304 mg
+Vitamin B12: 3.18 µg
+Folate: 7 µg

@@ -1,0 +1,33 @@
+Food: APPLEBEE'S, KRAFT, Macaroni & Cheese, from kid's menu
+Food ID: 169010
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 5.01 g
+Carbohydrates: 21.08 g
+Fat: 4.34 g
+Fiber: 1.3 g
+Sugar: 3.7 g
+
+Fats:
+Saturated fat: 1.312 g
+Monounsaturated fat: 1.951 g
+Polyunsaturated fat: 0.952 g
+Trans fat: 0.071 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 288 mg
+Potassium: 163 mg
+Calcium: 79 mg
+Iron: 0.84 mg
+Magnesium: 22 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin E: 0.52 mg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0.24 µg

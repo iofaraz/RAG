@@ -1,0 +1,36 @@
+Food: Calzone, with meat and cheese
+Food ID: 2708685
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 343 kcal
+Protein: 14.84 g
+Carbohydrates: 31.31 g
+Fat: 17.69 g
+Fiber: 1.4 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 5.718 g
+Monounsaturated fat: 6.821 g
+Polyunsaturated fat: 3.55 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 434 mg
+Potassium: 169 mg
+Calcium: 177 mg
+Iron: 2.64 mg
+Magnesium: 22 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 113 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.38 mg
+Vitamin K: 9.6 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0.53 µg
+Folate: 87 µg

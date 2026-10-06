@@ -1,0 +1,36 @@
+Food: Bread, oatmeal
+Food ID: 172678
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 8.4 g
+Carbohydrates: 48.5 g
+Fat: 4.4 g
+Fiber: 4 g
+Sugar: 8.14 g
+
+Fats:
+Saturated fat: 0.703 g
+Monounsaturated fat: 1.578 g
+Polyunsaturated fat: 1.702 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 447 mg
+Potassium: 142 mg
+Calcium: 66 mg
+Iron: 2.7 mg
+Magnesium: 37 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.48 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.03 µg
+Folate: 62 µg

@@ -1,0 +1,36 @@
+Food: Tortellini, cheese-filled, with cream sauce
+Food ID: 2708791
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 5.82 g
+Carbohydrates: 16.66 g
+Fat: 6.99 g
+Fiber: 0.5 g
+Sugar: 1.63 g
+
+Fats:
+Saturated fat: 3.374 g
+Monounsaturated fat: 1.831 g
+Polyunsaturated fat: 0.766 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 576 mg
+Potassium: 132 mg
+Calcium: 99 mg
+Iron: 1.17 mg
+Magnesium: 14 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 88 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.5 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.31 µg
+Folate: 27 µg

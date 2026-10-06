@@ -1,0 +1,36 @@
+Food: Stewed goat, Puerto Rican style
+Food ID: 2706414
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 22.32 g
+Carbohydrates: 1.98 g
+Fat: 18.08 g
+Fiber: 0.5 g
+Sugar: 0.88 g
+
+Fats:
+Saturated fat: 3.754 g
+Monounsaturated fat: 11.204 g
+Polyunsaturated fat: 1.743 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 752 mg
+Potassium: 385 mg
+Calcium: 21 mg
+Iron: 3.05 mg
+Magnesium: 5 mg
+Zinc: 4.16 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 3.04 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.93 µg
+Folate: 7 µg

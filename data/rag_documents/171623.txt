@@ -1,0 +1,36 @@
+Food: Cheesefurter, cheese smokie, pork, beef
+Food ID: 171623
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 328 kcal
+Protein: 14.1 g
+Carbohydrates: 1.51 g
+Fat: 29 g
+Fiber: 0 g
+Sugar: 1.51 g
+
+Fats:
+Saturated fat: 10.47 g
+Monounsaturated fat: 13.64 g
+Polyunsaturated fat: 3.02 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 1082 mg
+Potassium: 206 mg
+Calcium: 58 mg
+Iron: 1.08 mg
+Magnesium: 13 mg
+Zinc: 2.25 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.24 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 1.73 µg
+Folate: 3 µg

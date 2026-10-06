@@ -1,0 +1,37 @@
+Food: Cranberry juice blend, 100% juice, bottled, with added vitamin C and calcium
+Food ID: 168212
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 0.27 g
+Carbohydrates: 10.91 g
+Fat: 0.12 g
+Fiber: 0.1 g
+Sugar: 9.8 g
+
+Fats:
+Saturated fat: 0.002 g
+Monounsaturated fat: 0.002 g
+Polyunsaturated fat: 0.002 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 76 mg
+Calcium: 19 mg
+Iron: 0.08 mg
+Magnesium: 5 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 31.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.018 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

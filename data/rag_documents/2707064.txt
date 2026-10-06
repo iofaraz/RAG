@@ -1,0 +1,36 @@
+Food: Hot dog sandwich, meat and poultry, on white bun
+Food ID: 2707064
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 9.74 g
+Carbohydrates: 24.92 g
+Fat: 15.24 g
+Fiber: 0.8 g
+Sugar: 4.75 g
+
+Fats:
+Saturated fat: 4.609 g
+Monounsaturated fat: 5.879 g
+Polyunsaturated fat: 3.795 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 681 mg
+Potassium: 244 mg
+Calcium: 123 mg
+Iron: 2.09 mg
+Magnesium: 16 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 10.6 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.36 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.42 µg
+Folate: 44 µg

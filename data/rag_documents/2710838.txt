@@ -1,0 +1,21 @@
+Food: Rice, red, unenriched, dry, raw
+Food ID: 2710838
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 8.5625 g
+Carbohydrates: 76.1545 g
+Fat: 3.44 g
+Fiber: 4.198 g
+
+Minerals:
+Sodium: 0.4375 mg
+Potassium: 245.1 mg
+Calcium: 9.224 mg
+Iron: 1.198 mg
+Magnesium: 125.5 mg
+Zinc: 2.563 mg
+
+Vitamins:
+Vitamin B6: 0.1368 mg

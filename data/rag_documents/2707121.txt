@@ -1,0 +1,36 @@
+Food: Meat loaf dinner, NFS, frozen meal
+Food ID: 2707121
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 6.66 g
+Carbohydrates: 10.13 g
+Fat: 7.4 g
+Fiber: 1.2 g
+Sugar: 3.02 g
+
+Fats:
+Saturated fat: 2.202 g
+Monounsaturated fat: 3.081 g
+Polyunsaturated fat: 1.418 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 392 mg
+Potassium: 221 mg
+Calcium: 46 mg
+Iron: 1.05 mg
+Magnesium: 16 mg
+Zinc: 1.41 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 9.4 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0.57 µg
+Folate: 14 µg

@@ -1,0 +1,35 @@
+Food: Wheat, soft red winter
+Food ID: 168891
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 331 kcal
+Protein: 10.35 g
+Carbohydrates: 74.24 g
+Fat: 1.56 g
+Fiber: 12.5 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.289 g
+Monounsaturated fat: 0.178 g
+Polyunsaturated fat: 0.656 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 397 mg
+Calcium: 27 mg
+Iron: 3.21 mg
+Magnesium: 126 mg
+Zinc: 2.63 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.01 mg
+Vitamin B6: 0.272 mg
+Vitamin B12: 0 µg
+Folate: 41 µg

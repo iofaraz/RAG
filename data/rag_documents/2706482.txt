@@ -1,0 +1,36 @@
+Food: Beef and noodles with tomato-based sauce
+Food ID: 2706482
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 8.74 g
+Carbohydrates: 10.67 g
+Fat: 3.93 g
+Fiber: 0.4 g
+Sugar: 2.02 g
+
+Fats:
+Saturated fat: 1.537 g
+Monounsaturated fat: 1.553 g
+Polyunsaturated fat: 0.183 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 274 mg
+Potassium: 114 mg
+Calcium: 24 mg
+Iron: 1.17 mg
+Magnesium: 11 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.17 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.53 µg
+Folate: 12 µg

@@ -1,0 +1,36 @@
+Food: Ham or pork and rice, no sauce
+Food ID: 2706515
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 6.73 g
+Carbohydrates: 16.8 g
+Fat: 4.99 g
+Fiber: 0.2 g
+Sugar: 0.03 g
+
+Fats:
+Saturated fat: 1.089 g
+Monounsaturated fat: 2.14 g
+Polyunsaturated fat: 1.373 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 307 mg
+Potassium: 97 mg
+Calcium: 10 mg
+Iron: 0.92 mg
+Magnesium: 12 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.65 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.154 mg
+Vitamin B12: 0.13 µg
+Folate: 35 µg

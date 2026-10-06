@@ -1,0 +1,36 @@
+Food: Fried summer squash, yellow or green
+Food ID: 2710058
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 3.76 g
+Carbohydrates: 21.5 g
+Fat: 12.88 g
+Fiber: 1.2 g
+Sugar: 1.53 g
+
+Fats:
+Saturated fat: 1.804 g
+Monounsaturated fat: 5.223 g
+Polyunsaturated fat: 4.85 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 149 mg
+Calcium: 33 mg
+Iron: 1.69 mg
+Magnesium: 17 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 2.37 mg
+Vitamin K: 14 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.04 µg
+Folate: 49 µg

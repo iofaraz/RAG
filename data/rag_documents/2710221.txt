@@ -1,0 +1,36 @@
+Food: Mayonnaise, reduced fat,  with olive oil
+Food ID: 2710221
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 361 kcal
+Protein: 0.37 g
+Carbohydrates: 0 g
+Fat: 40 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.37 g
+Monounsaturated fat: 29.542 g
+Polyunsaturated fat: 4.006 g
+Cholesterol: 33 mg
+
+Minerals:
+Sodium: 800 mg
+Potassium: 31 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 2 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.19 mg
+Vitamin K: 53.7 µg
+Vitamin B6: 0.002 mg
+Vitamin B12: 0.12 µg
+Folate: 0 µg

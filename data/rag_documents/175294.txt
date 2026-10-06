@@ -1,0 +1,22 @@
+Food: Game meat, beaver, raw
+Food ID: 175294
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 24.05 g
+Carbohydrates: 0 g
+Fat: 4.8 g
+Fiber: 0 g
+
+Minerals:
+Sodium: 51 mg
+Potassium: 348 mg
+Calcium: 15 mg
+Iron: 6.9 mg
+Magnesium: 25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2 mg

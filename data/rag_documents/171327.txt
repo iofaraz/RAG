@@ -1,0 +1,37 @@
+Food: Spices, onion powder
+Food ID: 171327
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 341 kcal
+Protein: 10.41 g
+Carbohydrates: 79.12 g
+Fat: 1.04 g
+Fiber: 15.2 g
+Sugar: 6.63 g
+
+Fats:
+Saturated fat: 0.219 g
+Monounsaturated fat: 0.202 g
+Polyunsaturated fat: 0.31 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 985 mg
+Calcium: 384 mg
+Iron: 3.9 mg
+Magnesium: 113 mg
+Zinc: 4.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 23.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.718 mg
+Vitamin B12: 0 µg
+Folate: 64 µg

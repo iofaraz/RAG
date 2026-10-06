@@ -1,0 +1,36 @@
+Food: Babyfood, yogurt, whole milk, with fruit, multigrain cereal and added DHA fortified
+Food ID: 170987
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 98 kcal
+Protein: 3.4 g
+Carbohydrates: 13.22 g
+Fat: 3.53 g
+Fiber: 0.3 g
+Sugar: 11.46 g
+
+Fats:
+Saturated fat: 1.84 g
+Monounsaturated fat: 0.916 g
+Polyunsaturated fat: 0.367 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 149 mg
+Calcium: 107 mg
+Iron: 0.15 mg
+Magnesium: 15 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0.32 µg
+Folate: 8 µg

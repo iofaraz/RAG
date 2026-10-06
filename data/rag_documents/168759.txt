@@ -1,0 +1,36 @@
+Food: Candies, MOUNDS Candy Bar
+Food ID: 168759
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 493 kcal
+Protein: 4.6 g
+Carbohydrates: 58.88 g
+Fat: 26.6 g
+Fiber: 3.7 g
+Sugar: 46.19 g
+
+Fats:
+Saturated fat: 20.58 g
+Monounsaturated fat: 0.39 g
+Polyunsaturated fat: 0.14 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 145 mg
+Potassium: 321 mg
+Calcium: 21 mg
+Iron: 2.09 mg
+Magnesium: 55 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

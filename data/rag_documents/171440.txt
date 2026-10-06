@@ -1,0 +1,37 @@
+Food: Oil, industrial, soy, fully hydrogenated
+Food ID: 171440
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 884 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 93.966 g
+Monounsaturated fat: 1.341 g
+Polyunsaturated fat: 0.383 g
+Trans fat: 1.148 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 0 mg
+Iron: 0.05 mg
+Magnesium: 0 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 8.18 mg
+Vitamin K: 183.9 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

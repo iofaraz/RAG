@@ -1,0 +1,36 @@
+Food: Shrimp in garlic sauce, Puerto Rican style
+Food ID: 2706465
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 281 kcal
+Protein: 11.56 g
+Carbohydrates: 2.45 g
+Fat: 24.96 g
+Fiber: 0.2 g
+Sugar: 0.47 g
+
+Fats:
+Saturated fat: 4.318 g
+Monounsaturated fat: 14.453 g
+Polyunsaturated fat: 4.762 g
+Cholesterol: 104 mg
+
+Minerals:
+Sodium: 476 mg
+Potassium: 133 mg
+Calcium: 52 mg
+Iron: 0.41 mg
+Magnesium: 21 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 162 µg
+Vitamin C: 12 mg
+Vitamin D: 0.6 µg
+Vitamin E: 5.19 mg
+Vitamin K: 39.8 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 0.89 µg
+Folate: 21 µg

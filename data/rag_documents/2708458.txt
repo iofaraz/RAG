@@ -1,0 +1,36 @@
+Food: Cereal, rice crispy, flavored
+Food ID: 2708458
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 4.95 g
+Carbohydrates: 86.01 g
+Fat: 0.92 g
+Fiber: 0.3 g
+Sugar: 39.21 g
+
+Fats:
+Saturated fat: 0.231 g
+Monounsaturated fat: 0.266 g
+Polyunsaturated fat: 0.239 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 355 mg
+Potassium: 46 mg
+Calcium: 6 mg
+Iron: 9.12 mg
+Magnesium: 14 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.657 mg
+Vitamin B12: 0.88 µg
+Folate: 129 µg

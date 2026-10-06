@@ -1,0 +1,36 @@
+Food: Butter, tub
+Food ID: 2710156
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 731 kcal
+Protein: 0.49 g
+Carbohydrates: 0 g
+Fat: 78.3 g
+Fiber: 0 g
+Sugar: 0.06 g
+
+Fats:
+Saturated fat: 45.39 g
+Monounsaturated fat: 19.874 g
+Polyunsaturated fat: 3.331 g
+Cholesterol: 225 mg
+
+Minerals:
+Sodium: 583 mg
+Potassium: 41 mg
+Calcium: 23 mg
+Iron: 0.05 mg
+Magnesium: 1 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 683 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.37 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.008 mg
+Vitamin B12: 0.07 µg
+Folate: 4 µg

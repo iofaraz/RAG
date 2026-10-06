@@ -1,0 +1,36 @@
+Food: Cake or cupcake, chocolate with white icing, from mix
+Food ID: 2707865
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 349 kcal
+Protein: 3.05 g
+Carbohydrates: 53.13 g
+Fat: 14.43 g
+Fiber: 1.4 g
+Sugar: 38.15 g
+
+Fats:
+Saturated fat: 2.975 g
+Monounsaturated fat: 4.975 g
+Polyunsaturated fat: 5.541 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 306 mg
+Potassium: 84 mg
+Calcium: 73 mg
+Iron: 1.25 mg
+Magnesium: 18 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 2.03 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.12 µg
+Folate: 24 µg

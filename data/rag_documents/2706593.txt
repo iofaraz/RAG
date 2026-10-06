@@ -1,0 +1,36 @@
+Food: Stew, beef, with pasta
+Food ID: 2706593
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 9.76 g
+Carbohydrates: 10.81 g
+Fat: 5.23 g
+Fiber: 1.1 g
+Sugar: 0.92 g
+
+Fats:
+Saturated fat: 1.96 g
+Monounsaturated fat: 2.23 g
+Polyunsaturated fat: 0.267 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 299 mg
+Potassium: 184 mg
+Calcium: 14 mg
+Iron: 1.18 mg
+Magnesium: 15 mg
+Zinc: 2.07 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.171 mg
+Vitamin B12: 0.76 µg
+Folate: 27 µg

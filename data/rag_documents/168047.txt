@@ -1,0 +1,35 @@
+Food: Fish, salmon, king (chinook), raw (Alaska Native)
+Food ID: 168047
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 20.25 g
+Carbohydrates: 0 g
+Fat: 11.73 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.87 g
+Monounsaturated fat: 4.09 g
+Polyunsaturated fat: 1.599 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 370 mg
+Calcium: 42 mg
+Iron: 0.79 mg
+Magnesium: 24 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 136 µg
+Vitamin C: 0 mg
+Vitamin E: 1.49 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.271 mg
+Vitamin B12: 7.38 µg
+Folate: 15 µg

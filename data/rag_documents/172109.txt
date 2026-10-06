@@ -1,0 +1,33 @@
+Food: Lean Pockets, Meatballs & Mozzarella
+Food ID: 172109
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 10.49 g
+Carbohydrates: 32.28 g
+Fat: 7.7 g
+Fiber: 2 g
+Sugar: 8.81 g
+
+Fats:
+Saturated fat: 3.087 g
+Monounsaturated fat: 1.971 g
+Polyunsaturated fat: 1.479 g
+Trans fat: 0.148 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 557 mg
+Potassium: 221 mg
+Calcium: 196 mg
+Iron: 2.06 mg
+Magnesium: 23 mg
+Zinc: 0.98 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.102 mg
+Vitamin B12: 0.46 µg

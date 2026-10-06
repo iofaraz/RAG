@@ -1,0 +1,32 @@
+Food: Fish, mackerel, Atlantic, cooked, dry heat
+Food ID: 175120
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 262 kcal
+Protein: 23.85 g
+Carbohydrates: 0 g
+Fat: 17.81 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.176 g
+Monounsaturated fat: 7.006 g
+Polyunsaturated fat: 4.3 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 83 mg
+Potassium: 401 mg
+Calcium: 15 mg
+Iron: 1.57 mg
+Magnesium: 97 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 0.4 mg
+Vitamin B6: 0.46 mg
+Vitamin B12: 19 µg
+Folate: 2 µg

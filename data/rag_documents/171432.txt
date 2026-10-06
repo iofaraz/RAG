@@ -1,0 +1,22 @@
+Food: Margarine, 80% fat, tub, CANOLA HARVEST Soft Spread (canola, palm and palm kernel oils)
+Food ID: 171432
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 730 kcal
+Protein: 0.41 g
+Carbohydrates: 1.39 g
+Fat: 80.32 g
+
+Fats:
+Saturated fat: 11.648 g
+Monounsaturated fat: 45.262 g
+Polyunsaturated fat: 21.344 g
+Trans fat: 0.303 g
+
+Minerals:
+Sodium: 714 mg
+
+Vitamins:
+Vitamin E: 26.63 mg

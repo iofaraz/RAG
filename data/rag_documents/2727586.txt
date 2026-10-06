@@ -1,0 +1,19 @@
+Food: Shallots, bulb, peeled, root removed, raw
+Food ID: 2727586
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.3775 g
+Fiber: 2.2 g
+
+Minerals:
+Sodium: 3.636 mg
+Potassium: 251.5 mg
+Calcium: 26.06 mg
+Iron: 0.3323 mg
+Magnesium: 15.1 mg
+Zinc: 0.2816 mg
+
+Vitamins:
+Vitamin B6: 0.1769 mg

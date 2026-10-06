@@ -1,0 +1,32 @@
+Food: Bagels, egg
+Food ID: 174901
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 10.6 g
+Carbohydrates: 53 g
+Fat: 2.1 g
+Fiber: 2.3 g
+
+Fats:
+Saturated fat: 0.421 g
+Monounsaturated fat: 0.42 g
+Polyunsaturated fat: 0.642 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 505 mg
+Potassium: 68 mg
+Calcium: 13 mg
+Iron: 3.98 mg
+Magnesium: 25 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0.6 mg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.16 µg
+Folate: 88 µg

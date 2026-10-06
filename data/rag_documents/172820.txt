@@ -1,0 +1,32 @@
+Food: Cookies, chocolate chip, commercially prepared, regular, higher fat, unenriched
+Food ID: 172820
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 481 kcal
+Protein: 5.4 g
+Carbohydrates: 66.8 g
+Fat: 22.6 g
+Fiber: 2.5 g
+
+Fats:
+Saturated fat: 7.476 g
+Monounsaturated fat: 11.671 g
+Polyunsaturated fat: 2.367 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 315 mg
+Potassium: 135 mg
+Calcium: 25 mg
+Iron: 1 mg
+Magnesium: 31 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.01 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Beef, variety meats and by-products, brain, raw
+Food ID: 168622
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 10.86 g
+Carbohydrates: 1.05 g
+Fat: 10.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.3 g
+Monounsaturated fat: 1.89 g
+Polyunsaturated fat: 1.586 g
+Trans fat: 0.61 g
+Cholesterol: 3010 mg
+
+Minerals:
+Sodium: 126 mg
+Potassium: 274 mg
+Calcium: 43 mg
+Iron: 2.55 mg
+Magnesium: 13 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 10.7 mg
+Vitamin E: 0.99 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.226 mg
+Vitamin B12: 9.51 µg
+Folate: 3 µg

@@ -1,0 +1,37 @@
+Food: Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, light syrup, solids and liquids
+Food ID: 173027
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 0.4 g
+Carbohydrates: 14.93 g
+Fat: 0.07 g
+Fiber: 1 g
+Sugar: 13.93 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.031 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 89 mg
+Calcium: 6 mg
+Iron: 0.29 mg
+Magnesium: 5 mg
+Zinc: 0.09 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

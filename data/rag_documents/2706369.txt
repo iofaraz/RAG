@@ -1,0 +1,36 @@
+Food: Barbecue meat, NFS
+Food ID: 2706369
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 18.14 g
+Carbohydrates: 12.23 g
+Fat: 11.17 g
+Fiber: 0.3 g
+Sugar: 9.97 g
+
+Fats:
+Saturated fat: 4.02 g
+Monounsaturated fat: 4.934 g
+Polyunsaturated fat: 1.394 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 601 mg
+Potassium: 289 mg
+Calcium: 23 mg
+Iron: 1.36 mg
+Magnesium: 19 mg
+Zinc: 3.51 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.36 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.28 mg
+Vitamin B12: 0.92 µg
+Folate: 3 µg

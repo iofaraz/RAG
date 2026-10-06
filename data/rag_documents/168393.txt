@@ -1,0 +1,31 @@
+Food: Balsam-pear (bitter gourd), pods, raw
+Food ID: 168393
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 17 kcal
+Protein: 1 g
+Carbohydrates: 3.7 g
+Fat: 0.17 g
+Fiber: 2.8 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 296 mg
+Calcium: 19 mg
+Iron: 0.43 mg
+Magnesium: 17 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 84 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0 µg
+Folate: 72 µg

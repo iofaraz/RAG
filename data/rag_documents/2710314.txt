@@ -1,0 +1,36 @@
+Food: Gelatin dessert, sugar free, with fruit
+Food ID: 2710314
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 0.77 g
+Carbohydrates: 4.86 g
+Fat: 0.01 g
+Fiber: 0.2 g
+Sugar: 1.13 g
+
+Fats:
+Saturated fat: 0.001 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.003 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 15 mg
+Calcium: 3 mg
+Iron: 0.05 mg
+Magnesium: 2 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.008 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

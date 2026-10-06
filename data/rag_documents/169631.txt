@@ -1,0 +1,36 @@
+Food: Ice creams, vanilla, light, no sugar added
+Food ID: 169631
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 169 kcal
+Protein: 3.97 g
+Carbohydrates: 21.42 g
+Fat: 7.45 g
+Fiber: 0 g
+Sugar: 6.46 g
+
+Fats:
+Saturated fat: 4.048 g
+Monounsaturated fat: 1.855 g
+Polyunsaturated fat: 0.74 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 96 mg
+Potassium: 196 mg
+Calcium: 136 mg
+Iron: 0.19 mg
+Magnesium: 9 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 86 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.29 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.52 µg
+Folate: 4 µg

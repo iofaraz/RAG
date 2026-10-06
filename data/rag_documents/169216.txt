@@ -1,0 +1,37 @@
+Food: Corn, sweet, yellow, canned, vacuum pack, regular pack
+Food ID: 169216
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 2.41 g
+Carbohydrates: 19.44 g
+Fat: 0.5 g
+Fiber: 2 g
+Sugar: 5.59 g
+
+Fats:
+Saturated fat: 0.077 g
+Monounsaturated fat: 0.147 g
+Polyunsaturated fat: 0.237 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 272 mg
+Potassium: 186 mg
+Calcium: 5 mg
+Iron: 0.42 mg
+Magnesium: 23 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 8.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

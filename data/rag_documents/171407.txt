@@ -1,0 +1,33 @@
+Food: Salad dressing, mayonnaise, imitation, milk cream
+Food ID: 171407
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 2.1 g
+Carbohydrates: 11.1 g
+Fat: 5.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.8 g
+Monounsaturated fat: 1.7 g
+Polyunsaturated fat: 0.3 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 504 mg
+Potassium: 97 mg
+Calcium: 72 mg
+Iron: 0.5 mg
+Magnesium: 7 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.3 mg
+Vitamin E: 0.4 mg
+Vitamin B6: 0.021 mg
+Vitamin B12: 0.23 µg
+Folate: 3 µg

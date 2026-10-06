@@ -1,0 +1,36 @@
+Food: Ham or pork, noodles and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce
+Food ID: 2706634
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 8.42 g
+Carbohydrates: 18.31 g
+Fat: 4.91 g
+Fiber: 1.4 g
+Sugar: 0.84 g
+
+Fats:
+Saturated fat: 1.149 g
+Monounsaturated fat: 1.926 g
+Polyunsaturated fat: 1.215 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 313 mg
+Potassium: 147 mg
+Calcium: 16 mg
+Iron: 1.23 mg
+Magnesium: 23 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.5 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.147 mg
+Vitamin B12: 0.19 µg
+Folate: 58 µg

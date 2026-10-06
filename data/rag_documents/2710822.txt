@@ -1,0 +1,22 @@
+Food: Arugula, baby, raw
+Food ID: 2710822
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.64875 g
+Carbohydrates: 5.36825 g
+Fat: 0.325 g
+Fiber: 2.28 g
+
+Minerals:
+Sodium: 86.93 mg
+Potassium: 406.8 mg
+Calcium: 203.7 mg
+Iron: 1.393 mg
+Magnesium: 42.65 mg
+Zinc: 0.3483 mg
+
+Vitamins:
+Vitamin C: 101.4 mg
+Folate: 149.2 µg

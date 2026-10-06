@@ -1,0 +1,36 @@
+Food: Cucumber, raw
+Food ID: 2709784
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 0.62 g
+Carbohydrates: 2.95 g
+Fat: 0.18 g
+Fiber: 0.5 g
+Sugar: 1.67 g
+
+Fats:
+Saturated fat: 0.037 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.032 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 170 mg
+Calcium: 16 mg
+Iron: 0 mg
+Magnesium: 10 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 24 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

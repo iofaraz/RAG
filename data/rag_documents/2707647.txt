@@ -1,0 +1,36 @@
+Food: Bread, sour dough, toasted
+Food ID: 2707647
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 11.81 g
+Carbohydrates: 57.01 g
+Fat: 2.66 g
+Fiber: 2.4 g
+Sugar: 5.08 g
+
+Fats:
+Saturated fat: 0.581 g
+Monounsaturated fat: 0.398 g
+Polyunsaturated fat: 0.94 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 662 mg
+Potassium: 129 mg
+Calcium: 57 mg
+Iron: 4.3 mg
+Magnesium: 35 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0 µg
+Folate: 115 µg

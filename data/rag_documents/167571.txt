@@ -1,0 +1,37 @@
+Food: Candies, white chocolate
+Food ID: 167571
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 539 kcal
+Protein: 5.87 g
+Carbohydrates: 59.24 g
+Fat: 32.09 g
+Fiber: 0.2 g
+Sugar: 59 g
+
+Fats:
+Saturated fat: 19.412 g
+Monounsaturated fat: 9.097 g
+Polyunsaturated fat: 1.013 g
+Trans fat: 0 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 90 mg
+Potassium: 286 mg
+Calcium: 199 mg
+Iron: 0.24 mg
+Magnesium: 12 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 9.1 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0.56 µg
+Folate: 7 µg

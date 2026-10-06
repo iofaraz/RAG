@@ -1,0 +1,29 @@
+Food: Candies, MARS SNACKFOOD US, COCOAVIA Chocolate Bar
+Food ID: 169651
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 539 kcal
+Protein: 5.81 g
+Carbohydrates: 62.99 g
+Fat: 29.3 g
+Fiber: 8.7 g
+Sugar: 39.19 g
+
+Fats:
+Saturated fat: 15.703 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Calcium: 1164 mg
+Iron: 3.47 mg
+
+Vitamins:
+Vitamin C: 42.6 mg
+Vitamin E: 12.27 mg
+Vitamin B6: 1.364 mg
+Vitamin B12: 4.09 µg
+Folate: 273 µg

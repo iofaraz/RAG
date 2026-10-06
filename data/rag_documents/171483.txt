@@ -1,0 +1,37 @@
+Food: Turkey, all classes, gizzard, cooked, simmered
+Food ID: 171483
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 26.45 g
+Carbohydrates: 0 g
+Fat: 4.64 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.059 g
+Monounsaturated fat: 1.598 g
+Polyunsaturated fat: 1.359 g
+Trans fat: 0.026 g
+Cholesterol: 452 mg
+
+Minerals:
+Sodium: 127 mg
+Potassium: 193 mg
+Calcium: 17 mg
+Iron: 3.68 mg
+Magnesium: 21 mg
+Zinc: 3.92 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 6.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.175 mg
+Vitamin B12: 3.91 µg
+Folate: 13 µg

@@ -1,0 +1,37 @@
+Food: Yogurt, Greek, strawberry, lowfat
+Food ID: 171300
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 8.17 g
+Carbohydrates: 12.29 g
+Fat: 2.57 g
+Fiber: 1 g
+Sugar: 11.23 g
+
+Fats:
+Saturated fat: 1.599 g
+Monounsaturated fat: 0.65 g
+Polyunsaturated fat: 0.113 g
+Trans fat: 0.074 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 129 mg
+Calcium: 88 mg
+Iron: 0.07 mg
+Magnesium: 10 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0.5 µg
+Folate: 9 µg

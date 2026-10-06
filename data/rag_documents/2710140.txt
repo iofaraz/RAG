@@ -1,0 +1,36 @@
+Food: Ripe plantain meat pie, Puerto Rican style
+Food ID: 2710140
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 315 kcal
+Protein: 12.81 g
+Carbohydrates: 22.03 g
+Fat: 20.22 g
+Fiber: 2.1 g
+Sugar: 11.4 g
+
+Fats:
+Saturated fat: 4.894 g
+Monounsaturated fat: 8.512 g
+Polyunsaturated fat: 4.72 g
+Cholesterol: 125 mg
+
+Minerals:
+Sodium: 584 mg
+Potassium: 554 mg
+Calcium: 34 mg
+Iron: 1.9 mg
+Magnesium: 42 mg
+Zinc: 2.31 mg
+
+Vitamins:
+Vitamin A: 79 µg
+Vitamin C: 13.1 mg
+Vitamin D: 0.7 µg
+Vitamin E: 2.58 mg
+Vitamin K: 39.2 µg
+Vitamin B6: 0.278 mg
+Vitamin B12: 0.8 µg
+Folate: 29 µg

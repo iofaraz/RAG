@@ -1,0 +1,36 @@
+Food: Cake or cupcake, Black Forest
+Food ID: 2707857
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 3.49 g
+Carbohydrates: 31.32 g
+Fat: 10.66 g
+Fiber: 1.7 g
+Sugar: 18.26 g
+
+Fats:
+Saturated fat: 3.719 g
+Monounsaturated fat: 3.75 g
+Polyunsaturated fat: 2.298 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 214 mg
+Potassium: 123 mg
+Calcium: 84 mg
+Iron: 1.2 mg
+Magnesium: 21 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.46 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.16 µg
+Folate: 21 µg

@@ -1,0 +1,27 @@
+Food: Seasoning mix, dry, taco, original
+Food ID: 172243
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 322 kcal
+Protein: 4.5 g
+Carbohydrates: 58 g
+Fat: 0 g
+Fiber: 13.3 g
+Sugar: 10.83 g
+
+Fats:
+Saturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7203 mg
+Potassium: 1000 mg
+Calcium: 0 mg
+Iron: 7.2 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Folate: 0 µg

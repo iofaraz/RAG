@@ -1,0 +1,36 @@
+Food: Fast foods, english muffin, with egg, cheese, and sausage
+Food ID: 172034
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 286 kcal
+Protein: 13.38 g
+Carbohydrates: 17.44 g
+Fat: 18.1 g
+Fiber: 0.2 g
+Sugar: 1.49 g
+
+Fats:
+Saturated fat: 6.928 g
+Monounsaturated fat: 6.765 g
+Polyunsaturated fat: 2.772 g
+Cholesterol: 163 mg
+
+Minerals:
+Sodium: 548 mg
+Potassium: 147 mg
+Calcium: 168 mg
+Iron: 2.63 mg
+Magnesium: 17 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.94 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.95 µg
+Folate: 57 µg

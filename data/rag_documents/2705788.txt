@@ -1,0 +1,36 @@
+Food: Topping from vegetable pizza
+Food ID: 2705788
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 247 kcal
+Protein: 15.59 g
+Carbohydrates: 12.18 g
+Fat: 15.61 g
+Fiber: 1.9 g
+Sugar: 5.75 g
+
+Fats:
+Saturated fat: 7.622 g
+Monounsaturated fat: 4.803 g
+Polyunsaturated fat: 0.891 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 805 mg
+Potassium: 311 mg
+Calcium: 455 mg
+Iron: 2.18 mg
+Magnesium: 31 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin A: 146 µg
+Vitamin C: 17.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.03 mg
+Vitamin K: 10.6 µg
+Vitamin B6: 0.212 mg
+Vitamin B12: 0.54 µg
+Folate: 25 µg

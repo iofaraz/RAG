@@ -1,0 +1,36 @@
+Food: Ribs, NFS
+Food ID: 2705893
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 254 kcal
+Protein: 16.52 g
+Carbohydrates: 12.13 g
+Fat: 14.97 g
+Fiber: 0.3 g
+Sugar: 9.89 g
+
+Fats:
+Saturated fat: 5.44 g
+Monounsaturated fat: 6.378 g
+Polyunsaturated fat: 2.193 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 674 mg
+Potassium: 244 mg
+Calcium: 39 mg
+Iron: 0.91 mg
+Magnesium: 16 mg
+Zinc: 2.35 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.44 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.322 mg
+Vitamin B12: 0.6 µg
+Folate: 1 µg

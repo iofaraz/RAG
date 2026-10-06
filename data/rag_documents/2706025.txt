@@ -1,0 +1,36 @@
+Food: Chicken drumstick, baked, coated, skin / coating eaten
+Food ID: 2706025
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 205 kcal
+Protein: 21.04 g
+Carbohydrates: 3.98 g
+Fat: 11.01 g
+Fiber: 0.2 g
+Sugar: 0.07 g
+
+Fats:
+Saturated fat: 2.691 g
+Monounsaturated fat: 4.5 g
+Polyunsaturated fat: 2.626 g
+Cholesterol: 116 mg
+
+Minerals:
+Sodium: 439 mg
+Potassium: 224 mg
+Calcium: 15 mg
+Iron: 1.27 mg
+Magnesium: 21 mg
+Zinc: 2.11 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.55 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.339 mg
+Vitamin B12: 0.35 µg
+Folate: 12 µg

@@ -1,0 +1,36 @@
+Food: Potato, french fries, with cheese, fast food / restaurant
+Food ID: 2709465
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 3.33 g
+Carbohydrates: 29.76 g
+Fat: 14.22 g
+Fiber: 2.6 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 2.595 g
+Monounsaturated fat: 5.611 g
+Polyunsaturated fat: 4.931 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 365 mg
+Potassium: 387 mg
+Calcium: 37 mg
+Iron: 0.72 mg
+Magnesium: 25 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.78 mg
+Vitamin K: 11 µg
+Vitamin B6: 0.248 mg
+Vitamin B12: 0.03 µg
+Folate: 25 µg

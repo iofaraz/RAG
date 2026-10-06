@@ -1,0 +1,36 @@
+Food: Chicken nuggets, from other sources
+Food ID: 2706097
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 304 kcal
+Protein: 15.15 g
+Carbohydrates: 15.81 g
+Fat: 20.02 g
+Fiber: 1.2 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 3.696 g
+Monounsaturated fat: 7.256 g
+Polyunsaturated fat: 6.828 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 596 mg
+Potassium: 244 mg
+Calcium: 23 mg
+Iron: 0.9 mg
+Magnesium: 25 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.42 mg
+Vitamin K: 8.2 µg
+Vitamin B6: 0.174 mg
+Vitamin B12: 0.3 µg
+Folate: 19 µg

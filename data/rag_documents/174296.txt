@@ -1,0 +1,30 @@
+Food: Refried beans, canned, vegetarian
+Food ID: 174296
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 5.28 g
+Carbohydrates: 13.5 g
+Fat: 0.87 g
+Fiber: 4.7 g
+Sugar: 0.59 g
+
+Fats:
+Saturated fat: 0.142 g
+Monounsaturated fat: 0.206 g
+Polyunsaturated fat: 0.471 g
+Trans fat: 0.003 g
+
+Minerals:
+Sodium: 430 mg
+Potassium: 344 mg
+Calcium: 35 mg
+Iron: 1.7 mg
+Magnesium: 38 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin E: 0.09 mg
+Vitamin B6: 0.107 mg

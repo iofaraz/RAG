@@ -1,0 +1,32 @@
+Food: Margarine, 80% fat, stick, includes regular and hydrogenated corn and soybean oils
+Food ID: 173587
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 717 kcal
+Protein: 0.16 g
+Carbohydrates: 0.7 g
+Fat: 80.71 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 15.189 g
+Monounsaturated fat: 38.877 g
+Polyunsaturated fat: 24.302 g
+Trans fat: 14.89 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 654 mg
+Potassium: 18 mg
+Calcium: 3 mg
+Iron: 0.12 mg
+Magnesium: 1 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin E: 5.23 mg
+Vitamin K: 75 µg
+Vitamin B6: 0 mg
+Folate: 1 µg

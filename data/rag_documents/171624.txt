@@ -1,0 +1,37 @@
+Food: Frankfurter, chicken
+Food ID: 171624
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 223 kcal
+Protein: 15.51 g
+Carbohydrates: 2.74 g
+Fat: 16.19 g
+Fiber: 0 g
+Sugar: 2.98 g
+
+Fats:
+Saturated fat: 3.856 g
+Monounsaturated fat: 5.932 g
+Polyunsaturated fat: 3.873 g
+Trans fat: 0.149 g
+Cholesterol: 96 mg
+
+Minerals:
+Sodium: 1027 mg
+Potassium: 202 mg
+Calcium: 74 mg
+Iron: 1.17 mg
+Magnesium: 20 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.323 mg
+Vitamin B12: 0.54 µg
+Folate: 7 µg

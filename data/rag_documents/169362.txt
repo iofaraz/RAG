@@ -1,0 +1,37 @@
+Food: Corn, sweet, white, canned, cream style, regular pack
+Food ID: 169362
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 1.74 g
+Carbohydrates: 18.62 g
+Fat: 0.42 g
+Fiber: 1.2 g
+Sugar: 6.09 g
+
+Fats:
+Saturated fat: 0.065 g
+Monounsaturated fat: 0.123 g
+Polyunsaturated fat: 0.199 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 261 mg
+Potassium: 119 mg
+Calcium: 4 mg
+Iron: 0.31 mg
+Magnesium: 15 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0 µg
+Folate: 45 µg

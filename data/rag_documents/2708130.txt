@@ -1,0 +1,36 @@
+Food: Baby Toddler cookie
+Food ID: 2708130
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 420 kcal
+Protein: 9.88 g
+Carbohydrates: 69.79 g
+Fat: 11.24 g
+Fiber: 3 g
+Sugar: 24.55 g
+
+Fats:
+Saturated fat: 1.581 g
+Monounsaturated fat: 6.274 g
+Polyunsaturated fat: 2.214 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 280 mg
+Potassium: 410 mg
+Calcium: 690 mg
+Iron: 11.52 mg
+Magnesium: 56 mg
+Zinc: 7.62 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.46 mg
+Vitamin K: 7.6 µg
+Vitamin B6: 3.03 mg
+Vitamin B12: 0.26 µg
+Folate: 71 µg

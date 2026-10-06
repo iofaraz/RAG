@@ -1,0 +1,33 @@
+Food: Sapodilla, raw
+Food ID: 167759
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 0.44 g
+Carbohydrates: 19.96 g
+Fat: 1.1 g
+Fiber: 5.3 g
+
+Fats:
+Saturated fat: 0.194 g
+Monounsaturated fat: 0.521 g
+Polyunsaturated fat: 0.011 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 193 mg
+Calcium: 21 mg
+Iron: 0.8 mg
+Magnesium: 12 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 14.7 mg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

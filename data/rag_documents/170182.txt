@@ -1,0 +1,36 @@
+Food: Nuts, pecans
+Food ID: 170182
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 691 kcal
+Protein: 9.17 g
+Carbohydrates: 13.86 g
+Fat: 71.97 g
+Fiber: 9.6 g
+Sugar: 3.97 g
+
+Fats:
+Saturated fat: 6.18 g
+Monounsaturated fat: 40.801 g
+Polyunsaturated fat: 21.614 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 410 mg
+Calcium: 70 mg
+Iron: 2.53 mg
+Magnesium: 121 mg
+Zinc: 4.53 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.4 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

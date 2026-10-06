@@ -1,0 +1,36 @@
+Food: Rice, fried, with pork
+Food ID: 2708954
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 179 kcal
+Protein: 7.56 g
+Carbohydrates: 27.62 g
+Fat: 4.16 g
+Fiber: 0.9 g
+Sugar: 0.53 g
+
+Fats:
+Saturated fat: 0.946 g
+Monounsaturated fat: 1.148 g
+Polyunsaturated fat: 1.074 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 122 mg
+Calcium: 12 mg
+Iron: 0.55 mg
+Magnesium: 13 mg
+Zinc: 0.97 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 3.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.14 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.11 µg
+Folate: 5 µg

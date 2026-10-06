@@ -1,0 +1,36 @@
+Food: Fruit juice drink (Capri Sun)
+Food ID: 2710600
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 39 kcal
+Protein: 0 g
+Carbohydrates: 10 g
+Fat: 0.07 g
+Fiber: 0 g
+Sugar: 9 g
+
+Fats:
+Saturated fat: 0.008 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.014 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 11 mg
+Calcium: 5 mg
+Iron: 0.04 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

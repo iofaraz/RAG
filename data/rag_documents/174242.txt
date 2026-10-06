@@ -1,0 +1,32 @@
+Food: Fish, seatrout, mixed species, cooked, dry heat
+Food ID: 174242
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 21.46 g
+Carbohydrates: 0 g
+Fat: 4.63 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.293 g
+Monounsaturated fat: 1.133 g
+Polyunsaturated fat: 0.929 g
+Cholesterol: 106 mg
+
+Minerals:
+Sodium: 74 mg
+Potassium: 437 mg
+Calcium: 22 mg
+Iron: 0.35 mg
+Magnesium: 40 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.462 mg
+Vitamin B12: 3.46 µg
+Folate: 6 µg

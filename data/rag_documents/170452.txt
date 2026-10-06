@@ -1,0 +1,36 @@
+Food: Potatoes, french fried, shoestring, salt added in processing, frozen, oven-heated
+Food ID: 170452
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 194 kcal
+Protein: 2.9 g
+Carbohydrates: 31.66 g
+Fat: 6.76 g
+Fiber: 2.8 g
+Sugar: 0.31 g
+
+Fats:
+Saturated fat: 1.267 g
+Monounsaturated fat: 4.058 g
+Polyunsaturated fat: 0.345 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 400 mg
+Potassium: 505 mg
+Calcium: 12 mg
+Iron: 0.8 mg
+Magnesium: 25 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 14.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.192 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

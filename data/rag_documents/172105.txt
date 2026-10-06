@@ -1,0 +1,37 @@
+Food: Egg rolls, vegetable, frozen, prepared
+Food ID: 172105
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 5.95 g
+Carbohydrates: 31.77 g
+Fat: 6.97 g
+Fiber: 2.4 g
+Sugar: 5.96 g
+
+Fats:
+Saturated fat: 1.138 g
+Monounsaturated fat: 1.811 g
+Polyunsaturated fat: 3.406 g
+Trans fat: 0.05 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 490 mg
+Potassium: 222 mg
+Calcium: 50 mg
+Iron: 1.95 mg
+Magnesium: 23 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 6.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.75 mg
+Vitamin K: 39.4 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 0 µg
+Folate: 71 µg

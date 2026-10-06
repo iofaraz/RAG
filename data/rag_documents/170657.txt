@@ -1,0 +1,36 @@
+Food: Cocoa, dry powder, hi-fat or breakfast, processed with alkali
+Food ID: 170657
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 479 kcal
+Protein: 16.8 g
+Carbohydrates: 49.71 g
+Fat: 23.71 g
+Fiber: 33.9 g
+Sugar: 1.53 g
+
+Fats:
+Saturated fat: 12.64 g
+Monounsaturated fat: 7.38 g
+Polyunsaturated fat: 0.769 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 2509 mg
+Calcium: 122 mg
+Iron: 14.5 mg
+Magnesium: 476 mg
+Zinc: 6.7 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.19 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

@@ -1,0 +1,37 @@
+Food: Broccoli, cooked, boiled, drained, without salt
+Food ID: 169967
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 2.38 g
+Carbohydrates: 7.18 g
+Fat: 0.41 g
+Fiber: 3.3 g
+Sugar: 1.39 g
+
+Fats:
+Saturated fat: 0.079 g
+Monounsaturated fat: 0.04 g
+Polyunsaturated fat: 0.17 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 293 mg
+Calcium: 40 mg
+Iron: 0.67 mg
+Magnesium: 21 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 77 µg
+Vitamin C: 64.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.45 mg
+Vitamin K: 141.1 µg
+Vitamin B6: 0.2 mg
+Vitamin B12: 0 µg
+Folate: 108 µg

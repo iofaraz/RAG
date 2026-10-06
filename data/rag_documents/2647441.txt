@@ -1,0 +1,25 @@
+Food: Cheese, oaxaca, solid
+Food ID: 2647441
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 22.145 g
+Carbohydrates: 2.40202 g
+Fat: 22.1 g
+
+Fats:
+Saturated fat: 12.71 g
+Monounsaturated fat: 4.736 g
+Cholesterol: 65.53 mg
+
+Minerals:
+Sodium: 734.2 mg
+Potassium: 80.73 mg
+Calcium: 532.3 mg
+Iron: 0 mg
+Magnesium: 21.58 mg
+Zinc: 3.506 mg
+
+Vitamins:
+Vitamin D: 0 µg

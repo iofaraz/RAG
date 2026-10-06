@@ -1,0 +1,25 @@
+Food: Sauce, barbecue, OPEN PIT, original
+Food ID: 171830
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 132 kcal
+Protein: 0.44 g
+Carbohydrates: 29.45 g
+Fat: 1.41 g
+Fiber: 0.5 g
+Sugar: 23.49 g
+
+Minerals:
+Sodium: 1517 mg
+Potassium: 56 mg
+Calcium: 20 mg
+Iron: 0.15 mg
+Magnesium: 5 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin E: 0.21 mg
+Vitamin B6: 0.015 mg

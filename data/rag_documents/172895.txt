@@ -1,0 +1,32 @@
+Food: Soup, oyster stew, canned, prepared with equal volume milk
+Food ID: 172895
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 2.51 g
+Carbohydrates: 3.99 g
+Fat: 3.24 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.06 g
+Monounsaturated fat: 0.85 g
+Polyunsaturated fat: 0.13 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 425 mg
+Potassium: 96 mg
+Calcium: 68 mg
+Iron: 0.43 mg
+Magnesium: 8 mg
+Zinc: 4.22 mg
+
+Vitamins:
+Vitamin A: 23 µg
+Vitamin C: 1.8 mg
+Vitamin B6: 0.026 mg
+Vitamin B12: 1.07 µg
+Folate: 4 µg

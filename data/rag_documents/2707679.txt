@@ -1,0 +1,36 @@
+Food: Croissant, cheese
+Food ID: 2707679
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 414 kcal
+Protein: 9.2 g
+Carbohydrates: 47 g
+Fat: 20.9 g
+Fiber: 2.6 g
+Sugar: 11.35 g
+
+Fats:
+Saturated fat: 10.628 g
+Monounsaturated fat: 6.509 g
+Polyunsaturated fat: 2.384 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 132 mg
+Calcium: 53 mg
+Iron: 2.15 mg
+Magnesium: 24 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 204 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.44 mg
+Vitamin K: 10.9 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.32 µg
+Folate: 74 µg

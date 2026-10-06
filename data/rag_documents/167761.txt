@@ -1,0 +1,37 @@
+Food: Soursop, raw
+Food ID: 167761
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1 g
+Carbohydrates: 16.84 g
+Fat: 0.3 g
+Fiber: 3.3 g
+Sugar: 13.54 g
+
+Fats:
+Saturated fat: 0.051 g
+Monounsaturated fat: 0.09 g
+Polyunsaturated fat: 0.069 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 278 mg
+Calcium: 14 mg
+Iron: 0.6 mg
+Magnesium: 21 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 20.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.059 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

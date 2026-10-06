@@ -1,0 +1,33 @@
+Food: Frankfurter, meat, heated
+Food ID: 174615
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 9.77 g
+Carbohydrates: 4.9 g
+Fat: 24.31 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.22 g
+Monounsaturated fat: 10.743 g
+Polyunsaturated fat: 3.963 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 1013 mg
+Potassium: 141 mg
+Calcium: 99 mg
+Iron: 1.22 mg
+Magnesium: 15 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.18 mg
+Vitamin B6: 0.165 mg
+Vitamin B12: 1.57 µg
+Folate: 6 µg

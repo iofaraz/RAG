@@ -1,0 +1,36 @@
+Food: Game meat, deer, ground, cooked, pan-broiled
+Food ID: 172603
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 26.45 g
+Carbohydrates: 0 g
+Fat: 8.22 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.993 g
+Monounsaturated fat: 1.939 g
+Polyunsaturated fat: 0.444 g
+Cholesterol: 98 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 364 mg
+Calcium: 14 mg
+Iron: 3.35 mg
+Magnesium: 24 mg
+Zinc: 5.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.468 mg
+Vitamin B12: 2.32 µg
+Folate: 8 µg

@@ -1,0 +1,37 @@
+Food: Onions, young green, tops only
+Food ID: 170006
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 0.97 g
+Carbohydrates: 5.74 g
+Fat: 0.47 g
+Fiber: 1.8 g
+Sugar: 3.91 g
+
+Fats:
+Saturated fat: 0.165 g
+Monounsaturated fat: 0.042 g
+Polyunsaturated fat: 0.121 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 159 mg
+Calcium: 52 mg
+Iron: 0.51 mg
+Magnesium: 16 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 200 µg
+Vitamin C: 13.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 156.3 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0 µg
+Folate: 30 µg

@@ -1,0 +1,17 @@
+Food: Seal, bearded (Oogruk), meat, raw (Alaska Native)
+Food ID: 167610
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 26.7 g
+Carbohydrates: 0 g
+Fat: 0.4 g
+
+Fats:
+Cholesterol: 100 mg
+
+Minerals:
+Calcium: 10 mg
+Iron: 12.9 mg

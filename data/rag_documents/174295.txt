@@ -1,0 +1,37 @@
+Food: Soymilk, chocolate, with added calcium, vitamins A and D
+Food ID: 174295
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 2.26 g
+Carbohydrates: 9.95 g
+Fat: 1.53 g
+Fiber: 0.4 g
+Sugar: 7.86 g
+
+Fats:
+Saturated fat: 0.24 g
+Monounsaturated fat: 0.379 g
+Polyunsaturated fat: 0.836 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 143 mg
+Calcium: 126 mg
+Iron: 0.48 mg
+Magnesium: 15 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 1.7 mg
+Vitamin D: 1 µg
+Vitamin E: 0.11 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.7 µg
+Folate: 11 µg

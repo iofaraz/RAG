@@ -1,0 +1,25 @@
+Food: Babyfood, dinner, mixed vegetable, strained
+Food ID: 173514
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 1.2 g
+Carbohydrates: 9.5 g
+Fat: 0.1 g
+
+Minerals:
+Sodium: 38 mg
+Potassium: 121 mg
+Calcium: 22 mg
+Iron: 0.33 mg
+Magnesium: 11 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 136 µg
+Vitamin C: 2.8 mg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

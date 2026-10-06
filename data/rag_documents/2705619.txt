@@ -1,0 +1,36 @@
+Food: Chipotle dip, regular
+Food ID: 2705619
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 426 kcal
+Protein: 1.99 g
+Carbohydrates: 3.15 g
+Fat: 45.08 g
+Fiber: 0 g
+Sugar: 2.04 g
+
+Fats:
+Saturated fat: 10.876 g
+Monounsaturated fat: 10.021 g
+Polyunsaturated fat: 22.087 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 708 mg
+Potassium: 91 mg
+Calcium: 57 mg
+Iron: 0.12 mg
+Magnesium: 6 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 3.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.79 mg
+Vitamin K: 80.1 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0.09 µg
+Folate: 6 µg

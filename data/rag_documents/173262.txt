@@ -1,0 +1,29 @@
+Food: Sorghum flour, refined, unenriched
+Food ID: 173262
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 9.53 g
+Carbohydrates: 76.85 g
+Fat: 1.24 g
+Fiber: 1.9 g
+
+Fats:
+Saturated fat: 0.303 g
+Monounsaturated fat: 0.385 g
+Polyunsaturated fat: 0.475 g
+Trans fat: 0.001 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 145 mg
+Calcium: 6 mg
+Iron: 0.97 mg
+Magnesium: 31 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin C: 0.6 mg
+Vitamin B6: 0.068 mg

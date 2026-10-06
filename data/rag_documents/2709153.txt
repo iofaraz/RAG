@@ -1,0 +1,36 @@
+Food: Ramen bowl, NFS
+Food ID: 2709153
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 7.13 g
+Carbohydrates: 13.95 g
+Fat: 4.57 g
+Fiber: 0.9 g
+Sugar: 0.42 g
+
+Fats:
+Saturated fat: 1.055 g
+Monounsaturated fat: 1.764 g
+Polyunsaturated fat: 1.235 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 333 mg
+Potassium: 96 mg
+Calcium: 18 mg
+Iron: 0.98 mg
+Magnesium: 14 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.6 mg
+Vitamin K: 13.4 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.32 µg
+Folate: 46 µg

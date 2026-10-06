@@ -1,0 +1,33 @@
+Food: Fat, goose
+Food ID: 173572
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 900 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 99.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 27.7 g
+Monounsaturated fat: 56.7 g
+Polyunsaturated fat: 11 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 2.7 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Stuffed shells, cheese-filled, with tomato sauce, meatless
+Food ID: 2708780
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 7 g
+Carbohydrates: 16.88 g
+Fat: 5.76 g
+Fiber: 0.9 g
+Sugar: 1.76 g
+
+Fats:
+Saturated fat: 2.994 g
+Monounsaturated fat: 1.417 g
+Polyunsaturated fat: 0.48 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 422 mg
+Potassium: 192 mg
+Calcium: 122 mg
+Iron: 1.43 mg
+Magnesium: 17 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 71 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.65 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.36 µg
+Folate: 27 µg

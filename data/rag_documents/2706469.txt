@@ -1,0 +1,36 @@
+Food: Meat with tomato-based sauce
+Food ID: 2706469
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 149 kcal
+Protein: 21.72 g
+Carbohydrates: 1.58 g
+Fat: 6.36 g
+Fiber: 0.4 g
+Sugar: 1.06 g
+
+Fats:
+Saturated fat: 2.391 g
+Monounsaturated fat: 2.687 g
+Polyunsaturated fat: 0.292 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 355 mg
+Potassium: 264 mg
+Calcium: 9 mg
+Iron: 2.05 mg
+Magnesium: 18 mg
+Zinc: 3.69 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.73 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.309 mg
+Vitamin B12: 1.19 µg
+Folate: 9 µg

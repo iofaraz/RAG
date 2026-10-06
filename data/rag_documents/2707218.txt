@@ -1,0 +1,36 @@
+Food: Egg omelet or scrambled egg, with meat, made with cooking spray
+Food ID: 2707218
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 13.35 g
+Carbohydrates: 1.21 g
+Fat: 11.54 g
+Fiber: 0 g
+Sugar: 0.29 g
+
+Fats:
+Saturated fat: 3.544 g
+Monounsaturated fat: 4.522 g
+Polyunsaturated fat: 2.175 g
+Cholesterol: 363 mg
+
+Minerals:
+Sodium: 353 mg
+Potassium: 161 mg
+Calcium: 43 mg
+Iron: 1.58 mg
+Magnesium: 12 mg
+Zinc: 1.37 mg
+
+Vitamins:
+Vitamin A: 157 µg
+Vitamin C: 0 mg
+Vitamin D: 2.3 µg
+Vitamin E: 0.97 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.8 µg
+Folate: 46 µg

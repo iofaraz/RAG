@@ -1,0 +1,36 @@
+Food: Cornbread muffin, stick, round
+Food ID: 2707813
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 305 kcal
+Protein: 5.9 g
+Carbohydrates: 51 g
+Fat: 8.4 g
+Fiber: 3.4 g
+Sugar: 17.78 g
+
+Fats:
+Saturated fat: 1.354 g
+Monounsaturated fat: 2.104 g
+Polyunsaturated fat: 3.215 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 385 mg
+Potassium: 69 mg
+Calcium: 74 mg
+Iron: 2.81 mg
+Magnesium: 32 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.8 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.09 µg
+Folate: 62 µg

@@ -1,0 +1,25 @@
+Food: Cheese, monterey jack, solid
+Food ID: 2647438
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 22.6171 g
+Carbohydrates: 1.8979 g
+Fat: 32.63 g
+
+Fats:
+Saturated fat: 19.16 g
+Monounsaturated fat: 6.679 g
+Cholesterol: 99.76 mg
+
+Minerals:
+Sodium: 662.2 mg
+Potassium: 82.94 mg
+Calcium: 714.6 mg
+Iron: 0 mg
+Magnesium: 29.6 mg
+Zinc: 3.785 mg
+
+Vitamins:
+Vitamin D: 0 µg

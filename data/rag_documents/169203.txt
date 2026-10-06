@@ -1,0 +1,30 @@
+Food: Arrowhead, raw
+Food ID: 169203
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 99 kcal
+Protein: 5.33 g
+Carbohydrates: 20.23 g
+Fat: 0.29 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 22 mg
+Potassium: 922 mg
+Calcium: 10 mg
+Iron: 2.57 mg
+Magnesium: 51 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

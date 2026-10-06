@@ -1,0 +1,37 @@
+Food: Raspberries, frozen, red, sweetened
+Food ID: 167757
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 0.7 g
+Carbohydrates: 26.16 g
+Fat: 0.16 g
+Fiber: 4.4 g
+Sugar: 21.76 g
+
+Fats:
+Saturated fat: 0.005 g
+Monounsaturated fat: 0.015 g
+Polyunsaturated fat: 0.089 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 114 mg
+Calcium: 15 mg
+Iron: 0.65 mg
+Magnesium: 13 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 16.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.72 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.034 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

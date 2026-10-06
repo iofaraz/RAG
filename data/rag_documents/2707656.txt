@@ -1,0 +1,36 @@
+Food: Roll, white, hot dog bun
+Food ID: 2707656
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 267 kcal
+Protein: 9.43 g
+Carbohydrates: 49.2 g
+Fat: 3.59 g
+Fiber: 2.3 g
+Sugar: 5.34 g
+
+Fats:
+Saturated fat: 0.821 g
+Monounsaturated fat: 0.717 g
+Polyunsaturated fat: 1.87 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 450 mg
+Potassium: 117 mg
+Calcium: 211 mg
+Iron: 3.36 mg
+Magnesium: 27 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0 µg
+Folate: 111 µg

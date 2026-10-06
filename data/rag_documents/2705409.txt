@@ -1,0 +1,36 @@
+Food: Almond milk, unsweetened
+Food ID: 2705409
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 15 kcal
+Protein: 0.55 g
+Carbohydrates: 0.34 g
+Fat: 1.22 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.104 g
+Monounsaturated fat: 0.729 g
+Polyunsaturated fat: 0.276 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 31 mg
+Calcium: 173 mg
+Iron: 0.29 mg
+Magnesium: 7 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 3.32 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.34 µg
+Folate: 0 µg

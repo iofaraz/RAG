@@ -1,0 +1,37 @@
+Food: Veal, leg, top round, cap off, cutlet, boneless, raw
+Food ID: 172643
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 107 kcal
+Protein: 22.07 g
+Carbohydrates: 0 g
+Fat: 2.07 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.805 g
+Monounsaturated fat: 0.986 g
+Polyunsaturated fat: 0.107 g
+Trans fat: 0.09 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 86 mg
+Potassium: 273 mg
+Calcium: 4 mg
+Iron: 0.81 mg
+Magnesium: 30 mg
+Zinc: 1.97 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.31 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.599 mg
+Vitamin B12: 2.08 µg
+Folate: 4 µg

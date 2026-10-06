@@ -1,0 +1,34 @@
+Food: McDONALD'S, Sausage Biscuit
+Food ID: 172070
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 376 kcal
+Protein: 9.62 g
+Carbohydrates: 27.2 g
+Fat: 25.4 g
+Fiber: 1.2 g
+Sugar: 1.97 g
+
+Fats:
+Saturated fat: 10.659 g
+Monounsaturated fat: 8.832 g
+Polyunsaturated fat: 3.42 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 875 mg
+Potassium: 177 mg
+Calcium: 55 mg
+Iron: 2.01 mg
+Magnesium: 13 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin E: 0.75 mg
+Vitamin B6: 0.128 mg
+Vitamin B12: 0.39 µg
+Folate: 91 µg

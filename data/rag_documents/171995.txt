@@ -1,0 +1,29 @@
+Food: Fish, milkfish, cooked, dry heat
+Food ID: 171995
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 190 kcal
+Protein: 26.32 g
+Carbohydrates: 0 g
+Fat: 8.63 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 92 mg
+Potassium: 374 mg
+Calcium: 65 mg
+Iron: 0.41 mg
+Magnesium: 38 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.488 mg
+Vitamin B12: 3.27 µg
+Folate: 18 µg

@@ -1,0 +1,35 @@
+Food: Chicken, broilers or fryers, light meat, meat and skin, raw
+Food ID: 171062
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 186 kcal
+Protein: 20.27 g
+Carbohydrates: 0 g
+Fat: 11.07 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.16 g
+Monounsaturated fat: 4.52 g
+Polyunsaturated fat: 2.34 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 204 mg
+Calcium: 11 mg
+Iron: 0.79 mg
+Magnesium: 23 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 0 mg
+Vitamin E: 0.27 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.48 mg
+Vitamin B12: 0.34 µg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Bread, sweet potato
+Food ID: 2707648
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 8.64 g
+Carbohydrates: 45.38 g
+Fat: 2.87 g
+Fiber: 1.7 g
+Sugar: 3.53 g
+
+Fats:
+Saturated fat: 0.96 g
+Monounsaturated fat: 0.662 g
+Polyunsaturated fat: 0.67 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 474 mg
+Potassium: 157 mg
+Calcium: 36 mg
+Iron: 3.14 mg
+Magnesium: 26 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 86 µg
+Vitamin C: 4.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.05 µg
+Folate: 67 µg

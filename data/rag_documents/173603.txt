@@ -1,0 +1,36 @@
+Food: Oil, industrial, palm kernel (hydrogenated), filling fat
+Food ID: 173603
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 884 kcal
+Protein: 0 g
+Carbohydrates: 0 g
+Fat: 100 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 88.209 g
+Monounsaturated fat: 5.705 g
+Polyunsaturated fat: 0 g
+Trans fat: 4.658 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 1 mg
+Calcium: 2 mg
+Iron: 0.15 mg
+Magnesium: 0 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 3.81 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

@@ -1,0 +1,33 @@
+Food: Nuts, chestnuts, european, raw, unpeeled
+Food ID: 170574
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 2.42 g
+Carbohydrates: 45.54 g
+Fat: 2.26 g
+Fiber: 8.1 g
+
+Fats:
+Saturated fat: 0.425 g
+Monounsaturated fat: 0.78 g
+Polyunsaturated fat: 0.894 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 518 mg
+Calcium: 27 mg
+Iron: 1.01 mg
+Magnesium: 32 mg
+Zinc: 0.52 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 43 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.376 mg
+Vitamin B12: 0 µg
+Folate: 62 µg

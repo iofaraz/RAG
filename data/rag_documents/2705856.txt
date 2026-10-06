@@ -1,0 +1,36 @@
+Food: Beef, bacon, cooked
+Food ID: 2705856
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 449 kcal
+Protein: 31.3 g
+Carbohydrates: 1.4 g
+Fat: 34.4 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 14.35 g
+Monounsaturated fat: 16.85 g
+Polyunsaturated fat: 1.58 g
+Cholesterol: 119 mg
+
+Minerals:
+Sodium: 1500 mg
+Potassium: 412 mg
+Calcium: 9 mg
+Iron: 3.14 mg
+Magnesium: 27 mg
+Zinc: 6.37 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.29 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.31 mg
+Vitamin B12: 3.45 µg
+Folate: 8 µg

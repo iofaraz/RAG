@@ -1,0 +1,37 @@
+Food: Restaurant, Chinese, kung pao chicken
+Food ID: 167676
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 129 kcal
+Protein: 9.76 g
+Carbohydrates: 6.87 g
+Fat: 6.98 g
+Fiber: 1.5 g
+Sugar: 3.03 g
+
+Fats:
+Saturated fat: 1.352 g
+Monounsaturated fat: 2.173 g
+Polyunsaturated fat: 3.02 g
+Trans fat: 0.034 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 402 mg
+Potassium: 218 mg
+Calcium: 20 mg
+Iron: 0.76 mg
+Magnesium: 24 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 7.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.02 mg
+Vitamin K: 13.6 µg
+Vitamin B6: 0.243 mg
+Vitamin B12: 0.11 µg
+Folate: 16 µg

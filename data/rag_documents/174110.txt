@@ -1,0 +1,29 @@
+Food: Alcoholic beverage, wine, table, white, Chardonnay
+Food ID: 174110
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 0.07 g
+Carbohydrates: 2.16 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0.96 g
+
+Fats:
+Trans fat: 0 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 71 mg
+Calcium: 9 mg
+Iron: 0.27 mg
+Magnesium: 10 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

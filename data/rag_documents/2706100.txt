@@ -1,0 +1,36 @@
+Food: Chicken tenders or strips, breaded, from restaurant
+Food ID: 2706100
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 283 kcal
+Protein: 18.82 g
+Carbohydrates: 16.9 g
+Fat: 15.62 g
+Fiber: 1.2 g
+Sugar: 0.39 g
+
+Fats:
+Saturated fat: 3.025 g
+Monounsaturated fat: 5.606 g
+Polyunsaturated fat: 6.073 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 791 mg
+Potassium: 365 mg
+Calcium: 17 mg
+Iron: 0.72 mg
+Magnesium: 27 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.3 µg
+Vitamin E: 3.16 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.417 mg
+Vitamin B12: 0.16 µg
+Folate: 19 µg

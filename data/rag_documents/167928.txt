@@ -1,0 +1,33 @@
+Food: Toaster pastries, fruit, toasted (include apple, blueberry, cherry, strawberry)
+Food ID: 167928
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 409 kcal
+Protein: 4.7 g
+Carbohydrates: 72.7 g
+Fat: 11.03 g
+Fiber: 1 g
+Sugar: 28.99 g
+
+Fats:
+Saturated fat: 2.637 g
+Monounsaturated fat: 6.55 g
+Polyunsaturated fat: 1.281 g
+
+Minerals:
+Sodium: 354 mg
+Potassium: 81 mg
+Calcium: 11 mg
+Iron: 3.92 mg
+Magnesium: 12 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 467 µg
+Vitamin C: 0 mg
+Vitamin E: 0.9 mg
+Vitamin K: 6.6 µg
+Vitamin B6: 0.465 mg
+Folate: 48 µg

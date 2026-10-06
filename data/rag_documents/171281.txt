@@ -1,0 +1,36 @@
+Food: Whey, acid, dried
+Food ID: 171281
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 11.73 g
+Carbohydrates: 73.45 g
+Fat: 0.54 g
+Fiber: 0 g
+Sugar: 73.45 g
+
+Fats:
+Saturated fat: 0.342 g
+Monounsaturated fat: 0.149 g
+Polyunsaturated fat: 0.021 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 968 mg
+Potassium: 2289 mg
+Calcium: 2054 mg
+Iron: 1.24 mg
+Magnesium: 199 mg
+Zinc: 6.31 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.62 mg
+Vitamin B12: 2.5 µg
+Folate: 33 µg

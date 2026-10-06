@@ -1,0 +1,29 @@
+Food: Pepperidge Farm, Goldfish, Baked Snack Crackers, Parmesan
+Food ID: 167595
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 459 kcal
+Protein: 11.16 g
+Carbohydrates: 64.7 g
+Fat: 17.29 g
+Fiber: 3.5 g
+Sugar: 0.83 g
+
+Fats:
+Saturated fat: 2.614 g
+Monounsaturated fat: 9.223 g
+Polyunsaturated fat: 3.431 g
+Trans fat: 0.084 g
+
+Minerals:
+Sodium: 1187 mg
+Potassium: 168 mg
+Calcium: 101 mg
+Iron: 4.45 mg
+Magnesium: 24 mg
+Zinc: 1.32 mg
+
+Vitamins:
+Vitamin B6: 0.08 mg

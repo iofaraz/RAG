@@ -1,0 +1,36 @@
+Food: Beef curry
+Food ID: 2706388
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 7.57 g
+Carbohydrates: 6.53 g
+Fat: 6.57 g
+Fiber: 1.4 g
+Sugar: 2.56 g
+
+Fats:
+Saturated fat: 1.794 g
+Monounsaturated fat: 2.574 g
+Polyunsaturated fat: 1.809 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 359 mg
+Potassium: 288 mg
+Calcium: 20 mg
+Iron: 1.15 mg
+Magnesium: 17 mg
+Zinc: 1.83 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 8.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.38 mg
+Vitamin K: 9 µg
+Vitamin B6: 0.202 mg
+Vitamin B12: 0.54 µg
+Folate: 16 µg

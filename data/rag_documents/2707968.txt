@@ -1,0 +1,36 @@
+Food: Cookie, animal
+Food ID: 2707968
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 446 kcal
+Protein: 6.9 g
+Carbohydrates: 74.1 g
+Fat: 13.8 g
+Fiber: 1.1 g
+Sugar: 23.3 g
+
+Fats:
+Saturated fat: 3.463 g
+Monounsaturated fat: 7.666 g
+Polyunsaturated fat: 1.873 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 100 mg
+Calcium: 43 mg
+Iron: 2.75 mg
+Magnesium: 18 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.022 mg
+Vitamin B12: 0.05 µg
+Folate: 103 µg

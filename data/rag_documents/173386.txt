@@ -1,0 +1,37 @@
+Food: Beef, rib eye steak, bone-in, lip-on, separable lean and fat, trimmed to 1/8" fat, select, cooked, grilled
+Food ID: 173386
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 304 kcal
+Protein: 23.19 g
+Carbohydrates: 0 g
+Fat: 23.47 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 10.723 g
+Monounsaturated fat: 11.609 g
+Polyunsaturated fat: 1.105 g
+Trans fat: 1.654 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 246 mg
+Calcium: 22 mg
+Iron: 2.29 mg
+Magnesium: 21 mg
+Zinc: 5.03 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.07 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.477 mg
+Vitamin B12: 2.02 µg
+Folate: 6 µg

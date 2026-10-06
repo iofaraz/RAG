@@ -1,0 +1,37 @@
+Food: Babyfood, cookies
+Food ID: 170975
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 433 kcal
+Protein: 11.8 g
+Carbohydrates: 67.1 g
+Fat: 13.2 g
+Fiber: 0.2 g
+Sugar: 24.2 g
+
+Fats:
+Saturated fat: 2.352 g
+Monounsaturated fat: 5.99 g
+Polyunsaturated fat: 2.878 g
+Trans fat: 0.02 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 300 mg
+Potassium: 501 mg
+Calcium: 101 mg
+Iron: 4.18 mg
+Magnesium: 49 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 5.899 mg
+Vitamin B12: 0.46 µg
+Folate: 93 µg

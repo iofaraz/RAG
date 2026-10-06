@@ -1,0 +1,37 @@
+Food: Beverages, lemonade-flavor drink, powder
+Food ID: 174860
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 380 kcal
+Protein: 0 g
+Carbohydrates: 97.9 g
+Fat: 1.01 g
+Fiber: 0 g
+Sugar: 97.15 g
+
+Fats:
+Saturated fat: 0.183 g
+Monounsaturated fat: 0.129 g
+Polyunsaturated fat: 0.531 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 130 mg
+Potassium: 39 mg
+Calcium: 11 mg
+Iron: 0.17 mg
+Magnesium: 165 mg
+Zinc: 0.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 40.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

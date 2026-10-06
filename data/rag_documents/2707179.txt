@@ -1,0 +1,36 @@
+Food: Egg, creamed
+Food ID: 2707179
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 7.79 g
+Carbohydrates: 5.52 g
+Fat: 10.35 g
+Fiber: 0.1 g
+Sugar: 3.02 g
+
+Fats:
+Saturated fat: 4.023 g
+Monounsaturated fat: 3.243 g
+Polyunsaturated fat: 1.385 g
+Cholesterol: 182 mg
+
+Minerals:
+Sodium: 363 mg
+Potassium: 143 mg
+Calcium: 89 mg
+Iron: 0.72 mg
+Magnesium: 12 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 143 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 0.91 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.73 µg
+Folate: 24 µg

@@ -1,0 +1,32 @@
+Food: Soup, cream of potato, canned, prepared with equal volume water
+Food ID: 172917
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 30 kcal
+Protein: 0.72 g
+Carbohydrates: 4.7 g
+Fat: 0.97 g
+Fiber: 0.2 g
+
+Fats:
+Saturated fat: 0.5 g
+Monounsaturated fat: 0.23 g
+Polyunsaturated fat: 0.17 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 238 mg
+Potassium: 56 mg
+Calcium: 8 mg
+Iron: 0.2 mg
+Magnesium: 1 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.015 mg
+Vitamin B12: 0.02 µg
+Folate: 1 µg

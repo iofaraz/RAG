@@ -1,0 +1,36 @@
+Food: Chocolate dip
+Food ID: 2710294
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 393 kcal
+Protein: 3.33 g
+Carbohydrates: 65.31 g
+Fat: 13.22 g
+Fiber: 2 g
+Sugar: 45.5 g
+
+Fats:
+Saturated fat: 6.619 g
+Monounsaturated fat: 4.14 g
+Polyunsaturated fat: 0.407 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 289 mg
+Potassium: 204 mg
+Calcium: 37 mg
+Iron: 0.94 mg
+Magnesium: 34 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.86 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.014 mg
+Vitamin B12: 0.04 µg
+Folate: 3 µg

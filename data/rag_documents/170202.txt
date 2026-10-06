@@ -1,0 +1,32 @@
+Food: Beef, cured, luncheon meat, jellied
+Food ID: 170202
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 111 kcal
+Protein: 19 g
+Carbohydrates: 0 g
+Fat: 3.3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.41 g
+Monounsaturated fat: 1.45 g
+Polyunsaturated fat: 0.17 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 1322 mg
+Potassium: 402 mg
+Calcium: 10 mg
+Iron: 3.45 mg
+Magnesium: 18 mg
+Zinc: 3.55 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.25 mg
+Vitamin B12: 5.14 µg
+Folate: 7 µg

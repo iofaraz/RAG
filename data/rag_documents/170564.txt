@@ -1,0 +1,37 @@
+Food: Seeds, sunflower seed kernels, oil roasted, without salt
+Food ID: 170564
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 592 kcal
+Protein: 20.06 g
+Carbohydrates: 22.89 g
+Fat: 51.3 g
+Fiber: 10.6 g
+Sugar: 3.11 g
+
+Fats:
+Saturated fat: 7.068 g
+Monounsaturated fat: 8.063 g
+Polyunsaturated fat: 34.294 g
+Trans fat: 0.158 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 483 mg
+Calcium: 87 mg
+Iron: 4.28 mg
+Magnesium: 127 mg
+Zinc: 5.21 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 36.33 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.792 mg
+Vitamin B12: 0 µg
+Folate: 234 µg

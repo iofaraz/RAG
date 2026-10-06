@@ -1,0 +1,36 @@
+Food: Beef, ground, unspecified fat content, cooked
+Food ID: 172161
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 25.07 g
+Carbohydrates: 0.62 g
+Fat: 14.53 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.6 g
+Monounsaturated fat: 6.398 g
+Polyunsaturated fat: 0.486 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 85 mg
+Potassium: 353 mg
+Calcium: 25 mg
+Iron: 2.67 mg
+Magnesium: 22 mg
+Zinc: 6.19 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.43 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.38 mg
+Vitamin B12: 2.73 µg
+Folate: 9 µg

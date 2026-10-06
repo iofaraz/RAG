@@ -1,0 +1,37 @@
+Food: Rutabagas, raw
+Food ID: 168454
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 1.08 g
+Carbohydrates: 8.62 g
+Fat: 0.16 g
+Fiber: 2.3 g
+Sugar: 4.46 g
+
+Fats:
+Saturated fat: 0.027 g
+Monounsaturated fat: 0.025 g
+Polyunsaturated fat: 0.088 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 305 mg
+Calcium: 43 mg
+Iron: 0.44 mg
+Magnesium: 20 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 25 mg
+Vitamin D: 0 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

@@ -1,0 +1,36 @@
+Food: Hayacas, Puerto Rican style
+Food ID: 2708718
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 5.82 g
+Carbohydrates: 9.37 g
+Fat: 10.83 g
+Fiber: 1.1 g
+Sugar: 3.38 g
+
+Fats:
+Saturated fat: 1.825 g
+Monounsaturated fat: 3.417 g
+Polyunsaturated fat: 4.787 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 174 mg
+Calcium: 19 mg
+Iron: 0.92 mg
+Magnesium: 13 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 10.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.23 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.16 µg
+Folate: 14 µg

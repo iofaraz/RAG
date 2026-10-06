@@ -1,0 +1,22 @@
+Food: Onions, red, raw
+Food ID: 790577
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 0.94 g
+Carbohydrates: 9.93 g
+Fat: 0.1 g
+Fiber: 2.2 g
+
+Minerals:
+Sodium: 1 mg
+Potassium: 197 mg
+Calcium: 17 mg
+Iron: 0.24 mg
+Magnesium: 11.4 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin C: 8.1 mg

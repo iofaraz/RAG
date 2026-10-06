@@ -1,0 +1,36 @@
+Food: Quesadilla, egg, with meat
+Food ID: 2708598
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 11.43 g
+Carbohydrates: 19.09 g
+Fat: 13.93 g
+Fiber: 1.3 g
+Sugar: 1.71 g
+
+Fats:
+Saturated fat: 4.501 g
+Monounsaturated fat: 4.619 g
+Polyunsaturated fat: 3.224 g
+Cholesterol: 205 mg
+
+Minerals:
+Sodium: 504 mg
+Potassium: 139 mg
+Calcium: 141 mg
+Iron: 2.22 mg
+Magnesium: 17 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 105 µg
+Vitamin C: 0 mg
+Vitamin D: 1.5 µg
+Vitamin E: 1.2 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.53 µg
+Folate: 61 µg

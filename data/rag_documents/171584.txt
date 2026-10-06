@@ -1,0 +1,33 @@
+Food: Sauce, cheese sauce mix, dry
+Food ID: 171584
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 438 kcal
+Protein: 7.68 g
+Carbohydrates: 60.52 g
+Fat: 18.33 g
+Fiber: 1 g
+Sugar: 10.26 g
+
+Fats:
+Saturated fat: 8.44 g
+Monounsaturated fat: 6.868 g
+Polyunsaturated fat: 0.983 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 3202 mg
+Potassium: 428 mg
+Calcium: 204 mg
+Iron: 0.5 mg
+Magnesium: 36 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 56 µg
+Vitamin C: 0.9 mg
+Vitamin B6: 0.182 mg
+Vitamin B12: 0.46 µg
+Folate: 134 µg

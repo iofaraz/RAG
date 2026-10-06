@@ -1,0 +1,36 @@
+Food: Whey, sweet, dried
+Food ID: 171283
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 12.93 g
+Carbohydrates: 74.46 g
+Fat: 1.07 g
+Fiber: 0 g
+Sugar: 74.46 g
+
+Fats:
+Saturated fat: 0.684 g
+Monounsaturated fat: 0.297 g
+Polyunsaturated fat: 0.034 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 1079 mg
+Potassium: 2080 mg
+Calcium: 796 mg
+Iron: 0.88 mg
+Magnesium: 176 mg
+Zinc: 1.97 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.584 mg
+Vitamin B12: 2.37 µg
+Folate: 12 µg

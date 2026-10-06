@@ -1,0 +1,36 @@
+Food: Queso cotija
+Food ID: 2705746
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 351 kcal
+Protein: 23.84 g
+Carbohydrates: 2.72 g
+Fat: 27.24 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 15.9 g
+Monounsaturated fat: 5.93 g
+Polyunsaturated fat: 1.187 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 1625 mg
+Potassium: 117 mg
+Calcium: 700 mg
+Iron: 0 mg
+Magnesium: 30 mg
+Zinc: 3.6 mg
+
+Vitamins:
+Vitamin A: 166 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 2.26 µg
+Folate: 10 µg

@@ -1,0 +1,32 @@
+Food: Mollusks, oyster, Pacific, raw
+Food ID: 174219
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 9.45 g
+Carbohydrates: 4.95 g
+Fat: 2.3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.51 g
+Monounsaturated fat: 0.358 g
+Polyunsaturated fat: 0.894 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 106 mg
+Potassium: 168 mg
+Calcium: 8 mg
+Iron: 5.11 mg
+Magnesium: 22 mg
+Zinc: 16.62 mg
+
+Vitamins:
+Vitamin A: 81 µg
+Vitamin C: 8 mg
+Vitamin B6: 0.05 mg
+Vitamin B12: 16 µg
+Folate: 10 µg

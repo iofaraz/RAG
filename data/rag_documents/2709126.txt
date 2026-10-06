@@ -1,0 +1,36 @@
+Food: Rice, brown, with vegetables, soy-based sauce, no added fat
+Food ID: 2709126
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 2.3 g
+Carbohydrates: 19.51 g
+Fat: 0.66 g
+Fiber: 1.7 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 0.186 g
+Monounsaturated fat: 0.241 g
+Polyunsaturated fat: 0.23 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 88 mg
+Calcium: 8 mg
+Iron: 0.5 mg
+Magnesium: 28 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0.01 µg
+Folate: 9 µg

@@ -1,0 +1,36 @@
+Food: Babyfood, cereal, barley, dry fortified
+Food ID: 171358
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 376 kcal
+Protein: 13.2 g
+Carbohydrates: 69.4 g
+Fat: 6.6 g
+Fiber: 6.6 g
+Sugar: 13.2 g
+
+Fats:
+Saturated fat: 0.894 g
+Monounsaturated fat: 1.45 g
+Polyunsaturated fat: 3.859 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 33 mg
+Potassium: 467 mg
+Calcium: 643 mg
+Iron: 48.21 mg
+Magnesium: 115 mg
+Zinc: 3.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 7.1 µg
+Vitamin E: 5 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.714 mg
+Vitamin B12: 3.57 µg
+Folate: 179 µg

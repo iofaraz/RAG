@@ -1,0 +1,32 @@
+Food: DOMINO'S 14" Pepperoni Pizza, Crunchy Thin Crust
+Food ID: 170370
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 328 kcal
+Protein: 13.88 g
+Carbohydrates: 25.35 g
+Fat: 19.05 g
+Fiber: 2.6 g
+Sugar: 3.65 g
+
+Fats:
+Saturated fat: 7.557 g
+Monounsaturated fat: 5.941 g
+Polyunsaturated fat: 4.102 g
+Trans fat: 0.506 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 783 mg
+Potassium: 224 mg
+Calcium: 236 mg
+Iron: 1.13 mg
+Magnesium: 25 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin C: 1.2 mg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.81 µg

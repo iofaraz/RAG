@@ -1,0 +1,32 @@
+Food: Soy milk, unsweetened, plain, shelf stable
+Food ID: 1999630
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 3.54688 g
+Carbohydrates: 1.29313 g
+Fat: 2.125 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.3138 g
+Monounsaturated fat: 0.4163 g
+Polyunsaturated fat: 1.154 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 34.28 mg
+Potassium: 158.2 mg
+Calcium: 101 mg
+Iron: 0.5416 mg
+Magnesium: 21.54 mg
+Zinc: 0.3118 mg
+
+Vitamins:
+Vitamin A: 58.2 µg
+Vitamin D: 0.681 µg
+Vitamin E: 0.1557 mg
+Vitamin B6: 0.05525 mg
+Vitamin B12: 0.3931 µg
+Folate: 19.69 µg

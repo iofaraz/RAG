@@ -1,0 +1,37 @@
+Food: Beverages, Water with added vitamins and minerals, bottles, sweetened, assorted fruit flavors
+Food ID: 174161
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 0 g
+Carbohydrates: 5.49 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 5.49 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 0 mg
+Calcium: 17 mg
+Iron: 0 mg
+Magnesium: 3 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 12.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.9 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.25 µg
+Folate: 8 µg

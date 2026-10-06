@@ -1,0 +1,31 @@
+Food: Lamb, variety meats and by-products, mechanically separated, raw
+Food ID: 172537
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 14.97 g
+Carbohydrates: 0 g
+Fat: 23.54 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.79 g
+Monounsaturated fat: 8.45 g
+Polyunsaturated fat: 0.76 g
+Cholesterol: 213 mg
+
+Minerals:
+Sodium: 59 mg
+Potassium: 288 mg
+Calcium: 162 mg
+Iron: 5.9 mg
+Magnesium: 18 mg
+Zinc: 3.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 2.56 µg
+Folate: 5 µg

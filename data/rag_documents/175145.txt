@@ -1,0 +1,32 @@
+Food: Fish, sheepshead, cooked, dry heat
+Food ID: 175145
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 26.02 g
+Carbohydrates: 0 g
+Fat: 1.63 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.36 g
+Monounsaturated fat: 0.35 g
+Polyunsaturated fat: 0.382 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 512 mg
+Calcium: 37 mg
+Iron: 0.67 mg
+Magnesium: 35 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.35 mg
+Vitamin B12: 2.3 µg
+Folate: 17 µg

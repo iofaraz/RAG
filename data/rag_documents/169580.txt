@@ -1,0 +1,36 @@
+Food: Candies, truffles, prepared-from-recipe
+Food ID: 169580
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 510 kcal
+Protein: 6.21 g
+Carbohydrates: 44.88 g
+Fat: 33.76 g
+Fiber: 2.5 g
+Sugar: 38.31 g
+
+Fats:
+Saturated fat: 18.488 g
+Monounsaturated fat: 12.636 g
+Polyunsaturated fat: 1.013 g
+Trans fat: 0 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 68 mg
+Potassium: 297 mg
+Calcium: 157 mg
+Iron: 1.75 mg
+Magnesium: 48 mg
+Zinc: 1.55 mg
+
+Vitamins:
+Vitamin A: 144 µg
+Vitamin C: 0.1 mg
+Vitamin E: 1.82 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0.49 µg
+Folate: 9 µg

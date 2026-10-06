@@ -1,0 +1,36 @@
+Food: Salad dressing, peppercorn dressing, commercial, regular
+Food ID: 168093
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 564 kcal
+Protein: 1.2 g
+Carbohydrates: 3.5 g
+Fat: 61.4 g
+Fiber: 0 g
+Sugar: 2.45 g
+
+Fats:
+Saturated fat: 10.527 g
+Monounsaturated fat: 14.84 g
+Polyunsaturated fat: 32.972 g
+Cholesterol: 49 mg
+
+Minerals:
+Sodium: 1103 mg
+Potassium: 176 mg
+Calcium: 22 mg
+Iron: 0.35 mg
+Magnesium: 2 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 4.23 mg
+Vitamin K: 125.2 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.12 µg
+Folate: 4 µg

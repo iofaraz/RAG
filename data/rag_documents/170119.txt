@@ -1,0 +1,37 @@
+Food: Pumpkin, flowers, cooked, boiled, drained, with salt
+Food ID: 170119
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 15 kcal
+Protein: 1.09 g
+Carbohydrates: 3.18 g
+Fat: 0.08 g
+Fiber: 0.9 g
+Sugar: 2.4 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.004 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 242 mg
+Potassium: 106 mg
+Calcium: 37 mg
+Iron: 0.88 mg
+Magnesium: 25 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 87 µg
+Vitamin C: 5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0 µg
+Folate: 41 µg

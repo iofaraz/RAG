@@ -1,0 +1,36 @@
+Food: Doughnuts, yeast-leavened, with creme filling
+Food ID: 172757
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 361 kcal
+Protein: 6.4 g
+Carbohydrates: 30 g
+Fat: 24.5 g
+Fiber: 0.8 g
+Sugar: 14.55 g
+
+Fats:
+Saturated fat: 5.43 g
+Monounsaturated fat: 12.08 g
+Polyunsaturated fat: 3.082 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 309 mg
+Potassium: 80 mg
+Calcium: 25 mg
+Iron: 1.83 mg
+Magnesium: 20 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 8.6 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.14 µg
+Folate: 70 µg

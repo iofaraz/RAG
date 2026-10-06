@@ -1,0 +1,36 @@
+Food: Almond butter
+Food ID: 2707533
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 641 kcal
+Protein: 20.67 g
+Carbohydrates: 21.11 g
+Fat: 52.72 g
+Fiber: 9.6 g
+Sugar: 4.4 g
+
+Fats:
+Saturated fat: 4.225 g
+Monounsaturated fat: 34.493 g
+Polyunsaturated fat: 12.525 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 232 mg
+Potassium: 741 mg
+Calcium: 263 mg
+Iron: 4.08 mg
+Magnesium: 266 mg
+Zinc: 3.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 16.57 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

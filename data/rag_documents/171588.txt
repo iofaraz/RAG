@@ -1,0 +1,36 @@
+Food: Gravy, brown instant, dry
+Food ID: 171588
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 380 kcal
+Protein: 8.53 g
+Carbohydrates: 59.78 g
+Fat: 11.85 g
+Fiber: 3.2 g
+Sugar: 9.23 g
+
+Fats:
+Saturated fat: 5.866 g
+Monounsaturated fat: 5.488 g
+Polyunsaturated fat: 0.499 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 5053 mg
+Potassium: 367 mg
+Calcium: 116 mg
+Iron: 7.4 mg
+Magnesium: 32 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.282 mg
+Vitamin B12: 0.33 µg
+Folate: 69 µg

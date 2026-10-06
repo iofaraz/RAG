@@ -1,0 +1,37 @@
+Food: Fast Foods, Fried Chicken, Breast, meat and skin and breading
+Food ID: 170756
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 23.51 g
+Carbohydrates: 6.03 g
+Fat: 12.44 g
+Fiber: 0.1 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.316 g
+Monounsaturated fat: 6.011 g
+Polyunsaturated fat: 2.066 g
+Trans fat: 0.192 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 657 mg
+Potassium: 282 mg
+Calcium: 45 mg
+Iron: 0.72 mg
+Magnesium: 26 mg
+Zinc: 0.92 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.48 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.263 mg
+Vitamin B12: 0.31 µg
+Folate: 21 µg

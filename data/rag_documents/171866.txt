@@ -1,0 +1,36 @@
+Food: Cookies, chocolate cream covered biscuit sticks
+Food ID: 171866
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 447 kcal
+Protein: 10 g
+Carbohydrates: 51.08 g
+Fat: 22.5 g
+Fiber: 5 g
+Sugar: 25 g
+
+Fats:
+Saturated fat: 12.584 g
+Monounsaturated fat: 2.065 g
+Polyunsaturated fat: 6.717 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 213 mg
+Potassium: 181 mg
+Calcium: 50 mg
+Iron: 0.9 mg
+Magnesium: 36 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 8.87 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.4 µg
+Folate: 17 µg

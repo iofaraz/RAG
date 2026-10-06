@@ -1,0 +1,32 @@
+Food: Mollusks, whelk, unspecified, cooked, moist heat
+Food ID: 171984
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 275 kcal
+Protein: 47.68 g
+Carbohydrates: 15.52 g
+Fat: 0.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.062 g
+Monounsaturated fat: 0.056 g
+Polyunsaturated fat: 0.046 g
+Cholesterol: 130 mg
+
+Minerals:
+Sodium: 412 mg
+Potassium: 694 mg
+Calcium: 113 mg
+Iron: 10.06 mg
+Magnesium: 172 mg
+Zinc: 3.26 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 6.8 mg
+Vitamin B6: 0.65 mg
+Vitamin B12: 18.14 µg
+Folate: 11 µg

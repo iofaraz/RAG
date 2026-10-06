@@ -1,0 +1,22 @@
+Food: Brussels sprouts, raw
+Food ID: 2685575
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 3.98438 g
+Carbohydrates: 9.61562 g
+Fat: 0.565 g
+Fiber: 4.785 g
+
+Minerals:
+Sodium: 25.74 mg
+Potassium: 476.8 mg
+Calcium: 38.64 mg
+Iron: 0.7305 mg
+Magnesium: 25 mg
+Zinc: 0.3663 mg
+
+Vitamins:
+Vitamin C: 142.9 mg
+Folate: 86 µg

@@ -1,0 +1,37 @@
+Food: Fish, haddock, cooked, dry heat
+Food ID: 174198
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 19.99 g
+Carbohydrates: 0 g
+Fat: 0.55 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.111 g
+Monounsaturated fat: 0.074 g
+Polyunsaturated fat: 0.204 g
+Trans fat: 0.005 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 261 mg
+Potassium: 351 mg
+Calcium: 14 mg
+Iron: 0.21 mg
+Magnesium: 26 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.55 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.327 mg
+Vitamin B12: 2.13 µg
+Folate: 13 µg

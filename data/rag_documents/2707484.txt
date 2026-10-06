@@ -1,0 +1,36 @@
+Food: Nuts, NFS
+Food ID: 2707484
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 610 kcal
+Protein: 19.59 g
+Carbohydrates: 20.9 g
+Fat: 53.82 g
+Fiber: 7.4 g
+Sugar: 4.53 g
+
+Fats:
+Saturated fat: 7.591 g
+Monounsaturated fat: 28.311 g
+Polyunsaturated fat: 13.555 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 313 mg
+Potassium: 601 mg
+Calcium: 93 mg
+Iron: 2.76 mg
+Magnesium: 196 mg
+Zinc: 3.18 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 7.76 mg
+Vitamin K: 10.8 µg
+Vitamin B6: 0.371 mg
+Vitamin B12: 0 µg
+Folate: 75 µg

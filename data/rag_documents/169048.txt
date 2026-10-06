@@ -1,0 +1,37 @@
+Food: Babyfood, cereal, brown rice, dry, instant
+Food ID: 169048
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 406 kcal
+Protein: 8.7 g
+Carbohydrates: 85.98 g
+Fat: 3 g
+Fiber: 6.5 g
+Sugar: 0.72 g
+
+Fats:
+Saturated fat: 0.61 g
+Monounsaturated fat: 1.085 g
+Polyunsaturated fat: 1.072 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 386 mg
+Calcium: 55 mg
+Iron: 47.6 mg
+Magnesium: 28 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.65 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.98 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

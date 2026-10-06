@@ -1,0 +1,36 @@
+Food: Tripe
+Food ID: 2706162
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 12.6 g
+Carbohydrates: 0 g
+Fat: 3.85 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.348 g
+Monounsaturated fat: 1.601 g
+Polyunsaturated fat: 0.188 g
+Cholesterol: 127 mg
+
+Minerals:
+Sodium: 425 mg
+Potassium: 70 mg
+Calcium: 72 mg
+Iron: 0.62 mg
+Magnesium: 14 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.008 mg
+Vitamin B12: 1.09 µg
+Folate: 4 µg

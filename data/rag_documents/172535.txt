@@ -1,0 +1,36 @@
+Food: Veal, variety meats and by-products, liver, cooked, braised
+Food ID: 172535
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 28.42 g
+Carbohydrates: 3.77 g
+Fat: 6.26 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.986 g
+Monounsaturated fat: 1.146 g
+Polyunsaturated fat: 1.069 g
+Trans fat: 0.305 g
+Cholesterol: 511 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 329 mg
+Calcium: 6 mg
+Iron: 5.11 mg
+Magnesium: 20 mg
+Zinc: 11.23 mg
+
+Vitamins:
+Vitamin A: 21145 µg
+Vitamin C: 1.1 mg
+Vitamin E: 0.68 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.918 mg
+Vitamin B12: 84.6 µg
+Folate: 331 µg

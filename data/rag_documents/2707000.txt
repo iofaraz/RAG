@@ -1,0 +1,36 @@
+Food: Chicken fillet sandwich, NFS
+Food ID: 2707000
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 281 kcal
+Protein: 12.17 g
+Carbohydrates: 27.48 g
+Fat: 13.46 g
+Fiber: 1.7 g
+Sugar: 3.07 g
+
+Fats:
+Saturated fat: 3.072 g
+Monounsaturated fat: 3.928 g
+Polyunsaturated fat: 5.596 g
+Cholesterol: 21 mg
+
+Minerals:
+Sodium: 571 mg
+Potassium: 209 mg
+Calcium: 77 mg
+Iron: 1.78 mg
+Magnesium: 25 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.82 mg
+Vitamin K: 18.5 µg
+Vitamin B6: 0.22 mg
+Vitamin B12: 0.18 µg
+Folate: 52 µg

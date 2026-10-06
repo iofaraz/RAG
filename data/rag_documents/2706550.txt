@@ -1,0 +1,36 @@
+Food: Fish, cake or patty
+Food ID: 2706550
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 13.63 g
+Carbohydrates: 10.4 g
+Fat: 12.64 g
+Fiber: 1.2 g
+Sugar: 1.01 g
+
+Fats:
+Saturated fat: 3.944 g
+Monounsaturated fat: 4.577 g
+Polyunsaturated fat: 3.109 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 429 mg
+Potassium: 430 mg
+Calcium: 34 mg
+Iron: 0.72 mg
+Magnesium: 30 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 47 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1.17 mg
+Vitamin K: 6.1 µg
+Vitamin B6: 0.194 mg
+Vitamin B12: 0.64 µg
+Folate: 14 µg

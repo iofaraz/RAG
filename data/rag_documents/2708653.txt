@@ -1,0 +1,36 @@
+Food: Pizza, with meat other than pepperoni, stuffed crust
+Food ID: 2708653
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 12.81 g
+Carbohydrates: 27.28 g
+Fat: 13.05 g
+Fiber: 1.5 g
+Sugar: 2.76 g
+
+Fats:
+Saturated fat: 6.149 g
+Monounsaturated fat: 3.632 g
+Polyunsaturated fat: 1.88 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 630 mg
+Potassium: 237 mg
+Calcium: 216 mg
+Iron: 1.97 mg
+Magnesium: 22 mg
+Zinc: 1.58 mg
+
+Vitamins:
+Vitamin A: 108 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.68 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.141 mg
+Vitamin B12: 0.46 µg
+Folate: 81 µg

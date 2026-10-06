@@ -1,0 +1,36 @@
+Food: Chicken or turkey and rice with soy-based sauce
+Food ID: 2706542
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 162 kcal
+Protein: 11.97 g
+Carbohydrates: 8.01 g
+Fat: 9.21 g
+Fiber: 0.5 g
+Sugar: 0.94 g
+
+Fats:
+Saturated fat: 1.529 g
+Monounsaturated fat: 3.873 g
+Polyunsaturated fat: 2.928 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 395 mg
+Potassium: 186 mg
+Calcium: 20 mg
+Iron: 0.74 mg
+Magnesium: 18 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.46 mg
+Vitamin K: 18.3 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 0.15 µg
+Folate: 20 µg

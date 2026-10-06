@@ -1,0 +1,36 @@
+Food: Classic mixed vegetables, canned, cooked with butter or margarine
+Food ID: 2710021
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 2.07 g
+Carbohydrates: 8.59 g
+Fat: 2.83 g
+Fiber: 2.5 g
+Sugar: 2.73 g
+
+Fats:
+Saturated fat: 1.073 g
+Monounsaturated fat: 0.692 g
+Polyunsaturated fat: 0.636 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 260 mg
+Potassium: 125 mg
+Calcium: 22 mg
+Iron: 0.7 mg
+Magnesium: 13 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 174 µg
+Vitamin C: 2.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.51 mg
+Vitamin K: 22 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

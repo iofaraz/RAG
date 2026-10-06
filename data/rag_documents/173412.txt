@@ -1,0 +1,36 @@
+Food: Butter oil, anhydrous
+Food ID: 173412
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 876 kcal
+Protein: 0.28 g
+Carbohydrates: 0 g
+Fat: 99.48 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 61.924 g
+Monounsaturated fat: 28.732 g
+Polyunsaturated fat: 3.694 g
+Cholesterol: 256 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 5 mg
+Calcium: 4 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 840 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.8 mg
+Vitamin K: 8.6 µg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0.01 µg
+Folate: 0 µg

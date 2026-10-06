@@ -1,0 +1,36 @@
+Food: Sausage English muffin sandwich
+Food ID: 2707341
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 300 kcal
+Protein: 13.48 g
+Carbohydrates: 22.81 g
+Fat: 17.2 g
+Fiber: 1.7 g
+Sugar: 2.51 g
+
+Fats:
+Saturated fat: 7.017 g
+Monounsaturated fat: 6.213 g
+Polyunsaturated fat: 2.535 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 615 mg
+Potassium: 183 mg
+Calcium: 237 mg
+Iron: 2.39 mg
+Magnesium: 22 mg
+Zinc: 1.78 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 0.9 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.53 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 0.58 µg
+Folate: 49 µg

@@ -1,0 +1,36 @@
+Food: Biscuits, plain or buttermilk, refrigerated dough, lower fat, baked
+Food ID: 174905
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 319 kcal
+Protein: 7.8 g
+Carbohydrates: 51.6 g
+Fat: 9.1 g
+Fiber: 2.3 g
+Sugar: 8.14 g
+
+Fats:
+Saturated fat: 3.648 g
+Monounsaturated fat: 2.797 g
+Polyunsaturated fat: 0.78 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 962 mg
+Potassium: 185 mg
+Calcium: 19 mg
+Iron: 3.09 mg
+Magnesium: 17 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0 µg
+Folate: 83 µg

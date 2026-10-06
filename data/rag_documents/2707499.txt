@@ -1,0 +1,36 @@
+Food: Chestnuts
+Food ID: 2707499
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 245 kcal
+Protein: 3.17 g
+Carbohydrates: 52.96 g
+Fat: 2.2 g
+Fiber: 5.1 g
+Sugar: 10.6 g
+
+Fats:
+Saturated fat: 0.414 g
+Monounsaturated fat: 0.759 g
+Polyunsaturated fat: 0.869 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 592 mg
+Calcium: 29 mg
+Iron: 0.91 mg
+Magnesium: 33 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 26 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.497 mg
+Vitamin B12: 0 µg
+Folate: 70 µg

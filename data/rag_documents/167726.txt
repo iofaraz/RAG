@@ -1,0 +1,36 @@
+Food: Babyfood, mixed fruit yogurt, strained
+Food ID: 167726
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 75 kcal
+Protein: 0.8 g
+Carbohydrates: 16.23 g
+Fat: 0.8 g
+Fiber: 0.4 g
+Sugar: 11.74 g
+
+Fats:
+Saturated fat: 0.517 g
+Monounsaturated fat: 0.219 g
+Polyunsaturated fat: 0.022 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 62 mg
+Calcium: 28 mg
+Iron: 0.2 mg
+Magnesium: 4 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 11.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

@@ -1,0 +1,36 @@
+Food: Meat loaf made with beef and pork
+Food ID: 2706581
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 196 kcal
+Protein: 17.27 g
+Carbohydrates: 7.18 g
+Fat: 10.5 g
+Fiber: 0.4 g
+Sugar: 1.8 g
+
+Fats:
+Saturated fat: 3.888 g
+Monounsaturated fat: 4.428 g
+Polyunsaturated fat: 0.723 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 412 mg
+Potassium: 269 mg
+Calcium: 63 mg
+Iron: 1.86 mg
+Magnesium: 19 mg
+Zinc: 3.5 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.254 mg
+Vitamin B12: 1.38 µg
+Folate: 19 µg

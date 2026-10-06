@@ -1,0 +1,36 @@
+Food: Cheese, NFS
+Food ID: 2705704
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 20.7 g
+Carbohydrates: 4.33 g
+Fat: 31.26 g
+Fiber: 0 g
+Sugar: 2.08 g
+
+Fats:
+Saturated fat: 17.763 g
+Monounsaturated fat: 6.91 g
+Polyunsaturated fat: 1.138 g
+Cholesterol: 95 mg
+
+Minerals:
+Sodium: 964 mg
+Potassium: 129 mg
+Calcium: 849 mg
+Iron: 0.39 mg
+Magnesium: 28 mg
+Zinc: 3.15 mg
+
+Vitamins:
+Vitamin A: 294 µg
+Vitamin C: 0 mg
+Vitamin D: 3 µg
+Vitamin E: 0.78 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 1.23 µg
+Folate: 18 µg

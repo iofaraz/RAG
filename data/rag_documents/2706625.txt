@@ -1,0 +1,36 @@
+Food: Beef, rice, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce
+Food ID: 2706625
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 8.18 g
+Carbohydrates: 15.85 g
+Fat: 5.24 g
+Fiber: 0.7 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 2.576 g
+Monounsaturated fat: 1.784 g
+Polyunsaturated fat: 0.478 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 302 mg
+Potassium: 119 mg
+Calcium: 90 mg
+Iron: 1.04 mg
+Magnesium: 17 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.11 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 0.31 µg
+Folate: 34 µg

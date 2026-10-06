@@ -1,0 +1,37 @@
+Food: Candies, milk chocolate coated coffee beans
+Food ID: 169637
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 549 kcal
+Protein: 7.41 g
+Carbohydrates: 55.25 g
+Fat: 33.18 g
+Fiber: 5.7 g
+Sugar: 50.75 g
+
+Fats:
+Saturated fat: 18.138 g
+Monounsaturated fat: 13.735 g
+Polyunsaturated fat: 1.31 g
+Trans fat: 0 g
+Cholesterol: 20 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 413 mg
+Calcium: 169 mg
+Iron: 2.29 mg
+Magnesium: 64 mg
+Zinc: 2.02 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.44 mg
+Vitamin K: 5.4 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.65 µg
+Folate: 10 µg

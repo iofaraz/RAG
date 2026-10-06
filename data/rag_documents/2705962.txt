@@ -1,0 +1,36 @@
+Food: Chicken breast, baked, broiled, or roasted with marinade, skin not eaten, from raw
+Food ID: 2705962
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 175 kcal
+Protein: 29.13 g
+Carbohydrates: 0.31 g
+Fat: 5.38 g
+Fiber: 0 g
+Sugar: 0.28 g
+
+Fats:
+Saturated fat: 0.993 g
+Monounsaturated fat: 1.737 g
+Polyunsaturated fat: 1.315 g
+Cholesterol: 94 mg
+
+Minerals:
+Sodium: 423 mg
+Potassium: 349 mg
+Calcium: 7 mg
+Iron: 0.47 mg
+Magnesium: 28 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.1 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.839 mg
+Vitamin B12: 0.18 µg
+Folate: 7 µg

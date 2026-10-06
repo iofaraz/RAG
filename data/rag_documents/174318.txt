@@ -1,0 +1,33 @@
+Food: Lamb, leg, sirloin half, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+Food ID: 174318
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 204 kcal
+Protein: 28.35 g
+Carbohydrates: 0 g
+Fat: 9.17 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 3.28 g
+Monounsaturated fat: 4.02 g
+Polyunsaturated fat: 0.6 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 333 mg
+Calcium: 8 mg
+Iron: 2.2 mg
+Magnesium: 25 mg
+Zinc: 4.85 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.17 mg
+Vitamin B6: 0.17 mg
+Vitamin B12: 2.58 µg
+Folate: 21 µg

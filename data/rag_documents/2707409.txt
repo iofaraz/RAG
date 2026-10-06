@@ -1,0 +1,36 @@
+Food: Bean cake
+Food ID: 2707409
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 414 kcal
+Protein: 5.8 g
+Carbohydrates: 49.88 g
+Fat: 21.41 g
+Fiber: 3 g
+Sugar: 20.37 g
+
+Fats:
+Saturated fat: 2.842 g
+Monounsaturated fat: 8.834 g
+Polyunsaturated fat: 8.176 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 186 mg
+Potassium: 160 mg
+Calcium: 15 mg
+Iron: 2.58 mg
+Magnesium: 21 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 3.97 mg
+Vitamin K: 23.4 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0 µg
+Folate: 70 µg

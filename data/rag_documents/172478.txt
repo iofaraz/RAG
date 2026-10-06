@@ -1,0 +1,28 @@
+Food: Veal, Australian, rib, rib roast, separable lean only, raw
+Food ID: 172478
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 21.7 g
+Carbohydrates: 1.4 g
+Fat: 4.63 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.053 g
+Monounsaturated fat: 1.813 g
+Polyunsaturated fat: 0.357 g
+Trans fat: 0.245 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 83 mg
+Calcium: 10 mg
+Iron: 1.58 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

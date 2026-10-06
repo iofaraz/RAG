@@ -1,0 +1,37 @@
+Food: Corn, sweet, yellow, raw
+Food ID: 169998
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 3.27 g
+Carbohydrates: 18.7 g
+Fat: 1.35 g
+Fiber: 2 g
+Sugar: 6.26 g
+
+Fats:
+Saturated fat: 0.325 g
+Monounsaturated fat: 0.432 g
+Polyunsaturated fat: 0.487 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 270 mg
+Calcium: 2 mg
+Iron: 0.52 mg
+Magnesium: 37 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 6.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

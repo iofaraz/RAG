@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, POST GREAT GRAINS Banana Nut Crunch
+Food ID: 169870
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 9.8 g
+Carbohydrates: 70.9 g
+Fat: 8.8 g
+Fiber: 11.2 g
+Sugar: 17.5 g
+
+Fats:
+Saturated fat: 1.1 g
+Monounsaturated fat: 3.78 g
+Polyunsaturated fat: 3.44 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 238 mg
+Potassium: 349 mg
+Calcium: 44 mg
+Iron: 28 mg
+Magnesium: 98 mg
+Zinc: 2.5 mg
+
+Vitamins:
+Vitamin A: 378 µg
+Vitamin C: 0.1 mg
+Vitamin D: 1.7 µg
+Vitamin E: 1.64 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.8 mg
+Vitamin B12: 2.5 µg
+Folate: 339 µg

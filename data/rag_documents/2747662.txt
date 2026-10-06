@@ -1,0 +1,23 @@
+Food: Peppers, poblano, seeded, raw
+Food ID: 2747662
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.42562 g
+Carbohydrates: 5.14318 g
+Fat: 0.1906 g
+Fiber: 2.07 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 191.6 mg
+Calcium: 8.366 mg
+Iron: 0.1171 mg
+Magnesium: 10.73 mg
+Zinc: 0.1284 mg
+
+Vitamins:
+Vitamin C: 128.4 mg
+Vitamin B6: 0.309 mg
+Folate: 26.05 µg

@@ -1,0 +1,36 @@
+Food: Cheese, romano
+Food ID: 171249
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 387 kcal
+Protein: 31.8 g
+Carbohydrates: 3.63 g
+Fat: 26.94 g
+Fiber: 0 g
+Sugar: 0.73 g
+
+Fats:
+Saturated fat: 17.115 g
+Monounsaturated fat: 7.838 g
+Polyunsaturated fat: 0.593 g
+Cholesterol: 104 mg
+
+Minerals:
+Sodium: 1433 mg
+Potassium: 86 mg
+Calcium: 1064 mg
+Iron: 0.77 mg
+Magnesium: 41 mg
+Zinc: 2.58 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.23 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 1.12 µg
+Folate: 7 µg

@@ -1,0 +1,20 @@
+Food: Pan Dulce, La Ricura, Salpora de Arroz con Azucar, cookie-like, contains wheat flour and rice flour
+Food ID: 167938
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 445 kcal
+Protein: 8.81 g
+Carbohydrates: 66.28 g
+Fat: 16.11 g
+Fiber: 1.2 g
+Sugar: 21.86 g
+
+Minerals:
+Sodium: 445 mg
+Potassium: 94 mg
+Calcium: 52 mg
+Iron: 2.52 mg
+Magnesium: 22 mg
+Zinc: 0.82 mg

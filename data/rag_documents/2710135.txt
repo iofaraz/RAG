@@ -1,0 +1,36 @@
+Food: Toddler meal, rice and vegetables
+Food ID: 2710135
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 4.02 g
+Carbohydrates: 13.43 g
+Fat: 1.4 g
+Fiber: 0.9 g
+Sugar: 1.47 g
+
+Fats:
+Saturated fat: 0.392 g
+Monounsaturated fat: 0.558 g
+Polyunsaturated fat: 0.34 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 180 mg
+Potassium: 132 mg
+Calcium: 23 mg
+Iron: 0.82 mg
+Magnesium: 14 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 117 µg
+Vitamin C: 3.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.24 mg
+Vitamin K: 8.3 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0.15 µg
+Folate: 27 µg

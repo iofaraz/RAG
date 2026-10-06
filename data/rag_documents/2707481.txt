@@ -1,0 +1,36 @@
+Food: Veggie burger, on bun
+Food ID: 2707481
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 224 kcal
+Protein: 12.96 g
+Carbohydrates: 30.82 g
+Fat: 5.2 g
+Fiber: 3.5 g
+Sugar: 3.94 g
+
+Fats:
+Saturated fat: 1.164 g
+Monounsaturated fat: 1.303 g
+Polyunsaturated fat: 1.911 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 534 mg
+Potassium: 236 mg
+Calcium: 140 mg
+Iron: 2.88 mg
+Magnesium: 41 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.192 mg
+Vitamin B12: 1.18 µg
+Folate: 110 µg

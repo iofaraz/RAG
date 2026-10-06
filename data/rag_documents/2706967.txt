@@ -1,0 +1,36 @@
+Food: Ham sandwich on wheat, with cheese
+Food ID: 2706967
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 212 kcal
+Protein: 14.94 g
+Carbohydrates: 20.78 g
+Fat: 7.62 g
+Fiber: 2.4 g
+Sugar: 2.71 g
+
+Fats:
+Saturated fat: 3.279 g
+Monounsaturated fat: 1.867 g
+Polyunsaturated fat: 1.07 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 711 mg
+Potassium: 279 mg
+Calcium: 211 mg
+Iron: 1.68 mg
+Magnesium: 37 mg
+Zinc: 1.69 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.38 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.244 mg
+Vitamin B12: 0.38 µg
+Folate: 34 µg

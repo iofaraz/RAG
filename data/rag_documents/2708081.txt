@@ -1,0 +1,36 @@
+Food: Coffee cake, crumb or quick-bread type, cheese-filled
+Food ID: 2708081
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 365 kcal
+Protein: 6.8 g
+Carbohydrates: 45.07 g
+Fat: 17.55 g
+Fiber: 1.2 g
+Sugar: 22.86 g
+
+Fats:
+Saturated fat: 7.006 g
+Monounsaturated fat: 3.327 g
+Polyunsaturated fat: 4.379 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 291 mg
+Potassium: 150 mg
+Calcium: 150 mg
+Iron: 1.93 mg
+Magnesium: 25 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 126 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.19 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 0.18 µg
+Folate: 42 µg

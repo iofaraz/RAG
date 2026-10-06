@@ -1,0 +1,36 @@
+Food: Milk, dry, whole, without added vitamin D
+Food ID: 173454
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 496 kcal
+Protein: 26.32 g
+Carbohydrates: 38.42 g
+Fat: 26.71 g
+Fiber: 0 g
+Sugar: 38.42 g
+
+Fats:
+Saturated fat: 16.742 g
+Monounsaturated fat: 7.924 g
+Polyunsaturated fat: 0.665 g
+Cholesterol: 97 mg
+
+Minerals:
+Sodium: 371 mg
+Potassium: 1330 mg
+Calcium: 912 mg
+Iron: 0.47 mg
+Magnesium: 85 mg
+Zinc: 3.34 mg
+
+Vitamins:
+Vitamin A: 258 µg
+Vitamin C: 8.6 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.58 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.302 mg
+Vitamin B12: 3.25 µg
+Folate: 37 µg

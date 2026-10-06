@@ -1,0 +1,36 @@
+Food: Cookie, oatmeal, reduced sugar
+Food ID: 2707986
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 449 kcal
+Protein: 4.8 g
+Carbohydrates: 69.9 g
+Fat: 18 g
+Fiber: 2.9 g
+Sugar: 31.65 g
+
+Fats:
+Saturated fat: 2.693 g
+Monounsaturated fat: 7.55 g
+Polyunsaturated fat: 6.784 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 273 mg
+Potassium: 175 mg
+Calcium: 54 mg
+Iron: 4.07 mg
+Magnesium: 17 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.52 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0 µg
+Folate: 46 µg

@@ -1,0 +1,33 @@
+Food: Lentils, sprouted, cooked, stir-fried, with salt
+Food ID: 168551
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 101 kcal
+Protein: 8.8 g
+Carbohydrates: 21.25 g
+Fat: 0.45 g
+
+Fats:
+Saturated fat: 0.053 g
+Monounsaturated fat: 0.095 g
+Polyunsaturated fat: 0.201 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 246 mg
+Potassium: 284 mg
+Calcium: 14 mg
+Iron: 3.1 mg
+Magnesium: 35 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 12.6 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.164 mg
+Vitamin B12: 0 µg
+Folate: 67 µg

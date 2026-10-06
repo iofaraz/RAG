@@ -1,0 +1,27 @@
+Food: Heinz, Weight Watcher, Chocolate Eclair, frozen
+Food ID: 167922
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 4.4 g
+Carbohydrates: 40.3 g
+Fat: 6.9 g
+Fiber: 2.1 g
+Sugar: 16.8 g
+
+Fats:
+Saturated fat: 1.4 g
+Monounsaturated fat: 2 g
+Polyunsaturated fat: 2.9 g
+Trans fat: 0.2 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 300 mg
+Calcium: 48 mg
+Iron: 0.7 mg
+
+Vitamins:
+Vitamin C: 0 mg

@@ -1,0 +1,36 @@
+Food: Ice creams, chocolate, rich
+Food ID: 168136
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 4.72 g
+Carbohydrates: 19.78 g
+Fat: 16.98 g
+Fiber: 0.9 g
+Sugar: 17.35 g
+
+Fats:
+Saturated fat: 10.377 g
+Monounsaturated fat: 4.794 g
+Polyunsaturated fat: 0.658 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 238 mg
+Calcium: 142 mg
+Iron: 1.02 mg
+Magnesium: 32 mg
+Zinc: 0.64 mg
+
+Vitamins:
+Vitamin A: 201 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.46 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.033 mg
+Vitamin B12: 0.18 µg
+Folate: 5 µg

@@ -1,0 +1,36 @@
+Food: Empanada, NFS
+Food ID: 2708709
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 291 kcal
+Protein: 7.19 g
+Carbohydrates: 29.91 g
+Fat: 16 g
+Fiber: 2 g
+Sugar: 2.75 g
+
+Fats:
+Saturated fat: 5.655 g
+Monounsaturated fat: 7.139 g
+Polyunsaturated fat: 1.75 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 446 mg
+Potassium: 176 mg
+Calcium: 47 mg
+Iron: 1.62 mg
+Magnesium: 18 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.35 mg
+Vitamin K: 4.7 µg
+Vitamin B6: 0.116 mg
+Vitamin B12: 0.32 µg
+Folate: 38 µg

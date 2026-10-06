@@ -1,0 +1,32 @@
+Food: Candies, REESE'S, FAST BREAK, milk chocolate peanut butter and soft nougats
+Food ID: 169630
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 474 kcal
+Protein: 8.66 g
+Carbohydrates: 61.6 g
+Fat: 23.42 g
+Fiber: 2.9 g
+Sugar: 53.08 g
+
+Fats:
+Saturated fat: 8.23 g
+Monounsaturated fat: 8.94 g
+Polyunsaturated fat: 4.33 g
+Trans fat: 0 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 330 mg
+Potassium: 284 mg
+Calcium: 61 mg
+Iron: 0.96 mg
+Magnesium: 48 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin C: 0.4 mg
+Vitamin B6: 0.07 mg
+Folate: 39 µg

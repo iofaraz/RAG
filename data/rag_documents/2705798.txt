@@ -1,0 +1,36 @@
+Food: Cheese sandwich, cheddar cheese, on wheat bread
+Food ID: 2705798
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 323 kcal
+Protein: 16.3 g
+Carbohydrates: 27.72 g
+Fat: 16.34 g
+Fiber: 3.2 g
+Sugar: 3.2 g
+
+Fats:
+Saturated fat: 8.329 g
+Monounsaturated fat: 3.447 g
+Polyunsaturated fat: 1.407 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 528 mg
+Potassium: 143 mg
+Calcium: 386 mg
+Iron: 1.92 mg
+Magnesium: 44 mg
+Zinc: 2.31 mg
+
+Vitamins:
+Vitamin A: 130 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.51 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 0.44 µg
+Folate: 51 µg

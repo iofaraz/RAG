@@ -1,0 +1,36 @@
+Food: Tuna salad with cheese
+Food ID: 2706839
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 11.33 g
+Carbohydrates: 2.85 g
+Fat: 17.58 g
+Fiber: 0.4 g
+Sugar: 1.91 g
+
+Fats:
+Saturated fat: 4.11 g
+Monounsaturated fat: 3.894 g
+Polyunsaturated fat: 8.519 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 440 mg
+Potassium: 147 mg
+Calcium: 87 mg
+Iron: 0.87 mg
+Magnesium: 16 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.92 mg
+Vitamin K: 40.7 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 1.32 µg
+Folate: 12 µg

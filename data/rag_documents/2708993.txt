@@ -1,0 +1,36 @@
+Food: Kidney beans and white rice
+Food ID: 2708993
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 5.9 g
+Carbohydrates: 23.91 g
+Fat: 4.29 g
+Fiber: 4.3 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 0.592 g
+Monounsaturated fat: 1.711 g
+Polyunsaturated fat: 1.683 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 229 mg
+Potassium: 239 mg
+Calcium: 20 mg
+Iron: 2.12 mg
+Magnesium: 30 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.77 mg
+Vitamin K: 8.6 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 92 µg

@@ -1,0 +1,36 @@
+Food: Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D
+Food ID: 172217
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 61 kcal
+Protein: 3.15 g
+Carbohydrates: 4.78 g
+Fat: 3.27 g
+Fiber: 0 g
+Sugar: 5.05 g
+
+Fats:
+Saturated fat: 1.865 g
+Monounsaturated fat: 0.812 g
+Polyunsaturated fat: 0.195 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 132 mg
+Calcium: 113 mg
+Iron: 0.03 mg
+Magnesium: 10 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0.45 µg
+Folate: 5 µg

@@ -1,0 +1,37 @@
+Food: Edamame, frozen, prepared
+Food ID: 168411
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 11.91 g
+Carbohydrates: 8.91 g
+Fat: 5.2 g
+Fiber: 5.2 g
+Sugar: 2.18 g
+
+Fats:
+Saturated fat: 0.62 g
+Monounsaturated fat: 1.282 g
+Polyunsaturated fat: 2.156 g
+Trans fat: 0.009 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 436 mg
+Calcium: 63 mg
+Iron: 2.27 mg
+Magnesium: 64 mg
+Zinc: 1.37 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 6.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 26.7 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0 µg
+Folate: 311 µg

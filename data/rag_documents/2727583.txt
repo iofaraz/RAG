@@ -1,0 +1,19 @@
+Food: Cabbage, napa, leaf, destemmed, raw
+Food ID: 2727583
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.06375 g
+Fiber: 1.2 g
+
+Minerals:
+Sodium: 12.65 mg
+Potassium: 234.6 mg
+Calcium: 35.05 mg
+Iron: 0.2554 mg
+Magnesium: 11.26 mg
+Zinc: 0.2526 mg
+
+Vitamins:
+Vitamin B6: 0.08563 mg

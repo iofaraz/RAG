@@ -1,0 +1,37 @@
+Food: Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise
+Food ID: 170318
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 10.94 g
+Carbohydrates: 27.4 g
+Fat: 13.59 g
+Fiber: 1.4 g
+Sugar: 3.4 g
+
+Fats:
+Saturated fat: 2.461 g
+Monounsaturated fat: 4.077 g
+Polyunsaturated fat: 5.631 g
+Trans fat: 0.078 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 617 mg
+Potassium: 179 mg
+Calcium: 72 mg
+Iron: 1.71 mg
+Magnesium: 20 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.69 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0.33 µg
+Folate: 29 µg

@@ -1,0 +1,36 @@
+Food: Shellfish mixture and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce
+Food ID: 2706860
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 9.73 g
+Carbohydrates: 5.63 g
+Fat: 6.62 g
+Fiber: 1 g
+Sugar: 1.56 g
+
+Fats:
+Saturated fat: 0.969 g
+Monounsaturated fat: 2.596 g
+Polyunsaturated fat: 2.466 g
+Cholesterol: 46 mg
+
+Minerals:
+Sodium: 242 mg
+Potassium: 292 mg
+Calcium: 44 mg
+Iron: 0.86 mg
+Magnesium: 23 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 13.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.85 mg
+Vitamin K: 21.6 µg
+Vitamin B6: 0.145 mg
+Vitamin B12: 3.66 µg
+Folate: 18 µg

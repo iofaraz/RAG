@@ -1,0 +1,36 @@
+Food: Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, liquid concentrate
+Food ID: 173542
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 3.13 g
+Carbohydrates: 13.21 g
+Fat: 6.98 g
+Fiber: 0 g
+Sugar: 13.1 g
+
+Fats:
+Saturated fat: 2.262 g
+Monounsaturated fat: 2.66 g
+Polyunsaturated fat: 1.625 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 138 mg
+Calcium: 134 mg
+Iron: 2.3 mg
+Magnesium: 10 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 114 µg
+Vitamin C: 11.5 mg
+Vitamin D: 1.9 µg
+Vitamin E: 1.2 mg
+Vitamin K: 14.1 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.58 µg
+Folate: 19 µg

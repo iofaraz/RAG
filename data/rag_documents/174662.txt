@@ -1,0 +1,34 @@
+Food: Cereals, QUAKER, Instant Oatmeal, Apple and Cinnamon, reduced sugar
+Food ID: 174662
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 10.29 g
+Carbohydrates: 72.17 g
+Fat: 5.64 g
+Fiber: 9.7 g
+Sugar: 17.78 g
+
+Fats:
+Saturated fat: 1.026 g
+Monounsaturated fat: 1.957 g
+Polyunsaturated fat: 1.638 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 535 mg
+Potassium: 389 mg
+Calcium: 355 mg
+Iron: 12.77 mg
+Magnesium: 104 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin C: 1.3 mg
+Vitamin E: 0.49 mg
+Vitamin B6: 1.42 mg
+Vitamin B12: 0 µg
+Folate: 284 µg

@@ -1,0 +1,36 @@
+Food: Egg sandwich on biscuit, with sausage
+Food ID: 2707324
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 310 kcal
+Protein: 10.96 g
+Carbohydrates: 18.55 g
+Fat: 21.35 g
+Fiber: 1 g
+Sugar: 1.92 g
+
+Fats:
+Saturated fat: 9.272 g
+Monounsaturated fat: 6.459 g
+Polyunsaturated fat: 3.576 g
+Cholesterol: 150 mg
+
+Minerals:
+Sodium: 665 mg
+Potassium: 173 mg
+Calcium: 47 mg
+Iron: 1.94 mg
+Magnesium: 13 mg
+Zinc: 1.14 mg
+
+Vitamins:
+Vitamin A: 78 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.99 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0.48 µg
+Folate: 52 µg

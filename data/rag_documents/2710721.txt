@@ -1,0 +1,36 @@
+Food: Nutritional drink or shake, ready-to-drink, light (Muscle Milk)
+Food ID: 2710721
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 38 kcal
+Protein: 4.78 g
+Carbohydrates: 2.1 g
+Fat: 1.15 g
+Fiber: 0.2 g
+Sugar: 0.38 g
+
+Fats:
+Saturated fat: 0.104 g
+Monounsaturated fat: 0.809 g
+Polyunsaturated fat: 0.118 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 80 mg
+Calcium: 117 mg
+Iron: 1.15 mg
+Magnesium: 28 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 100 µg
+Vitamin C: 4 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.9 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.4 µg
+Folate: 27 µg

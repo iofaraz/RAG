@@ -1,0 +1,36 @@
+Food: Cheese, Muenster, reduced fat
+Food ID: 2705727
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 24.7 g
+Carbohydrates: 3.5 g
+Fat: 17.6 g
+Fiber: 0 g
+Sugar: 3.5 g
+
+Fats:
+Saturated fat: 10.95 g
+Monounsaturated fat: 5.09 g
+Polyunsaturated fat: 0.65 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 600 mg
+Potassium: 134 mg
+Calcium: 529 mg
+Iron: 0.41 mg
+Magnesium: 27 mg
+Zinc: 2.81 mg
+
+Vitamins:
+Vitamin A: 175 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.15 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 1.47 µg
+Folate: 12 µg

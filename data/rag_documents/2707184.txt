@@ -1,0 +1,36 @@
+Food: Egg salad, made with mayonnaise-type salad dressing
+Food ID: 2707184
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 10.07 g
+Carbohydrates: 3.93 g
+Fat: 12.83 g
+Fiber: 0 g
+Sugar: 2.95 g
+
+Fats:
+Saturated fat: 3.281 g
+Monounsaturated fat: 4.262 g
+Polyunsaturated fat: 3.63 g
+Cholesterol: 299 mg
+
+Minerals:
+Sodium: 385 mg
+Potassium: 107 mg
+Calcium: 41 mg
+Iron: 0.96 mg
+Magnesium: 8 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 119 µg
+Vitamin C: 0 mg
+Vitamin D: 1.7 µg
+Vitamin E: 1.13 mg
+Vitamin K: 8.9 µg
+Vitamin B6: 0.097 mg
+Vitamin B12: 0.88 µg
+Folate: 36 µg

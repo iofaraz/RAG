@@ -1,0 +1,32 @@
+Food: Crustaceans, crab, alaska king, cooked, moist heat
+Food ID: 174202
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 19.35 g
+Carbohydrates: 0 g
+Fat: 1.54 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.133 g
+Monounsaturated fat: 0.185 g
+Polyunsaturated fat: 0.536 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 1072 mg
+Potassium: 262 mg
+Calcium: 59 mg
+Iron: 0.76 mg
+Magnesium: 63 mg
+Zinc: 7.62 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 7.6 mg
+Vitamin B6: 0.18 mg
+Vitamin B12: 11.5 µg
+Folate: 51 µg

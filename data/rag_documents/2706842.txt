@@ -1,0 +1,36 @@
+Food: Shrimp garden salad, shrimp, lettuce, eggs, vegetables excluding tomato and carrots, no dressing
+Food ID: 2706842
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 8.8 g
+Carbohydrates: 2.39 g
+Fat: 2.14 g
+Fiber: 0.7 g
+Sugar: 1.01 g
+
+Fats:
+Saturated fat: 0.579 g
+Monounsaturated fat: 0.664 g
+Polyunsaturated fat: 0.477 g
+Cholesterol: 134 mg
+
+Minerals:
+Sodium: 303 mg
+Potassium: 192 mg
+Calcium: 69 mg
+Iron: 1 mg
+Magnesium: 22 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 119 µg
+Vitamin C: 9.8 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.7 mg
+Vitamin K: 52.3 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.4 µg
+Folate: 32 µg

@@ -1,0 +1,36 @@
+Food: Corn flour, masa, unenriched, white
+Food ID: 169696
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 363 kcal
+Protein: 8.46 g
+Carbohydrates: 76.59 g
+Fat: 3.69 g
+Fiber: 6.4 g
+Sugar: 1.61 g
+
+Fats:
+Saturated fat: 0.532 g
+Monounsaturated fat: 0.997 g
+Polyunsaturated fat: 1.724 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 262 mg
+Calcium: 138 mg
+Iron: 1.47 mg
+Magnesium: 93 mg
+Zinc: 1.8 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.475 mg
+Vitamin B12: 0 µg
+Folate: 29 µg

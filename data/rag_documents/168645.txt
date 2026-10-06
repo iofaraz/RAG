@@ -1,0 +1,37 @@
+Food: Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8" fat, select, raw
+Food ID: 168645
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 144 kcal
+Protein: 22.41 g
+Carbohydrates: 0 g
+Fat: 5.34 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.152 g
+Monounsaturated fat: 2.282 g
+Polyunsaturated fat: 0.298 g
+Trans fat: 0.274 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 284 mg
+Calcium: 23 mg
+Iron: 1.77 mg
+Magnesium: 12 mg
+Zinc: 4.01 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.644 mg
+Vitamin B12: 1.84 µg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Beans, from dried, NS as to type, no added fat
+Food ID: 2707349
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 8.92 g
+Carbohydrates: 25.44 g
+Fat: 0.62 g
+Fiber: 8.9 g
+Sugar: 0.33 g
+
+Fats:
+Saturated fat: 0.136 g
+Monounsaturated fat: 0.111 g
+Polyunsaturated fat: 0.233 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 232 mg
+Potassium: 413 mg
+Calcium: 41 mg
+Iron: 2.08 mg
+Magnesium: 55 mg
+Zinc: 1.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.92 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.178 mg
+Vitamin B12: 0 µg
+Folate: 157 µg

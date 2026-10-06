@@ -1,0 +1,36 @@
+Food: Candies, milk chocolate coated raisins
+Food ID: 169576
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 390 kcal
+Protein: 4.1 g
+Carbohydrates: 68.4 g
+Fat: 14.8 g
+Fiber: 3.1 g
+Sugar: 62.22 g
+
+Fats:
+Saturated fat: 10.272 g
+Monounsaturated fat: 3.134 g
+Polyunsaturated fat: 0.571 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 514 mg
+Calcium: 86 mg
+Iron: 1.71 mg
+Magnesium: 45 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.074 mg
+Vitamin B12: 0.37 µg
+Folate: 8 µg

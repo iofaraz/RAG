@@ -1,0 +1,35 @@
+Food: Beef, rib eye steak, boneless, lip off, separable lean and fat, trimmed to 0" fat, all grades, raw
+Food ID: 173402
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 19.26 g
+Carbohydrates: 0.12 g
+Fat: 16.71 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.363 g
+Monounsaturated fat: 7.88 g
+Polyunsaturated fat: 0.794 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 246 mg
+Calcium: 8 mg
+Iron: 1.81 mg
+Magnesium: 20 mg
+Zinc: 4.96 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.407 mg
+Vitamin B12: 1.73 µg
+Folate: 3 µg

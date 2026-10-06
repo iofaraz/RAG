@@ -1,0 +1,28 @@
+Food: Syrup, maple, Canadian
+Food ID: 170276
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 270 kcal
+Protein: 0 g
+Carbohydrates: 67.38 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 59.92 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 225 mg
+Calcium: 109 mg
+Iron: 0.11 mg
+Magnesium: 21 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B12: 0 µg

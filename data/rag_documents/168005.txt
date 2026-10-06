@@ -1,0 +1,19 @@
+Food: Pepperidge Farm, Goldfish, Baked Snack Crackers, Cheddar
+Food ID: 168005
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 457 kcal
+Protein: 11.71 g
+Carbohydrates: 66.2 g
+Fat: 16.11 g
+Sugar: 0.69 g
+
+Minerals:
+Sodium: 874 mg
+Potassium: 199 mg
+Calcium: 114 mg
+Iron: 4.26 mg
+Magnesium: 26 mg
+Zinc: 1.45 mg

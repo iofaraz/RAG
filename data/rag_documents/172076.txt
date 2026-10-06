@@ -1,0 +1,33 @@
+Food: BURGER KING, CROISSAN'WICH with Egg and Cheese
+Food ID: 172076
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 283 kcal
+Protein: 10.35 g
+Carbohydrates: 24.79 g
+Fat: 15.78 g
+Fiber: 0.7 g
+Sugar: 4.03 g
+
+Fats:
+Saturated fat: 4.766 g
+Monounsaturated fat: 6.668 g
+Polyunsaturated fat: 2.93 g
+Cholesterol: 139 mg
+
+Minerals:
+Sodium: 650 mg
+Potassium: 168 mg
+Calcium: 231 mg
+Iron: 1.9 mg
+Magnesium: 17 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 1.11 mg
+Vitamin K: 9.5 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0.53 µg

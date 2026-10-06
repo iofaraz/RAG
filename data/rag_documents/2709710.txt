@@ -1,0 +1,36 @@
+Food: Sweet potato chips
+Food ID: 2709710
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 529 kcal
+Protein: 2.92 g
+Carbohydrates: 56.54 g
+Fat: 32.19 g
+Fiber: 8.8 g
+Sugar: 8.78 g
+
+Fats:
+Saturated fat: 2.926 g
+Monounsaturated fat: 9.109 g
+Polyunsaturated fat: 12.163 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 227 mg
+Potassium: 920 mg
+Calcium: 59 mg
+Iron: 2.11 mg
+Magnesium: 65 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 1178 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 9.77 mg
+Vitamin K: 24.4 µg
+Vitamin B6: 0.532 mg
+Vitamin B12: 0 µg
+Folate: 37 µg

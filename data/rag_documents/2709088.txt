@@ -1,0 +1,36 @@
+Food: Spanish rice with ground beef
+Food ID: 2709088
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 163 kcal
+Protein: 9.68 g
+Carbohydrates: 14.79 g
+Fat: 6.91 g
+Fiber: 0.8 g
+Sugar: 1.17 g
+
+Fats:
+Saturated fat: 2.277 g
+Monounsaturated fat: 2.988 g
+Polyunsaturated fat: 0.761 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 346 mg
+Potassium: 181 mg
+Calcium: 23 mg
+Iron: 1.56 mg
+Magnesium: 14 mg
+Zinc: 2.11 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 8.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.48 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.188 mg
+Vitamin B12: 0.82 µg
+Folate: 29 µg

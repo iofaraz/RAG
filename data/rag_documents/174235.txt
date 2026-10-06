@@ -1,0 +1,32 @@
+Food: Fish, lingcod, cooked, dry heat
+Food ID: 174235
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 22.64 g
+Carbohydrates: 0 g
+Fat: 1.36 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.255 g
+Monounsaturated fat: 0.447 g
+Polyunsaturated fat: 0.383 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 76 mg
+Potassium: 560 mg
+Calcium: 18 mg
+Iron: 0.41 mg
+Magnesium: 33 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.346 mg
+Vitamin B12: 4.15 µg
+Folate: 10 µg

@@ -1,0 +1,36 @@
+Food: Pretzels, hard, multigrain
+Food ID: 2708253
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 381 kcal
+Protein: 10.15 g
+Carbohydrates: 80.08 g
+Fat: 2.96 g
+Fiber: 4.2 g
+Sugar: 2.17 g
+
+Fats:
+Saturated fat: 0.396 g
+Monounsaturated fat: 0.725 g
+Polyunsaturated fat: 1.309 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1098 mg
+Potassium: 242 mg
+Calcium: 28 mg
+Iron: 4.7 mg
+Magnesium: 40 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.49 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0 µg
+Folate: 169 µg

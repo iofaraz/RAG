@@ -1,0 +1,36 @@
+Food: Candies, HERSHEY'S SKOR Toffee Bar
+Food ID: 168757
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 541 kcal
+Protein: 3.13 g
+Carbohydrates: 63.73 g
+Fat: 30.37 g
+Fiber: 1.3 g
+Sugar: 59.89 g
+
+Fats:
+Saturated fat: 18.78 g
+Monounsaturated fat: 9.714 g
+Polyunsaturated fat: 1.191 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 153 mg
+Calcium: 30 mg
+Iron: 0.57 mg
+Magnesium: 10 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.58 mg
+Vitamin K: 8.6 µg
+Vitamin B6: 0.022 mg
+Vitamin B12: 0.21 µg
+Folate: 2 µg

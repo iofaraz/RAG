@@ -1,0 +1,36 @@
+Food: Pizza with pepperoni, from frozen, thin crust
+Food ID: 2708635
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 274 kcal
+Protein: 12.25 g
+Carbohydrates: 27.52 g
+Fat: 12.71 g
+Fiber: 2.9 g
+Sugar: 3.54 g
+
+Fats:
+Saturated fat: 6.257 g
+Monounsaturated fat: 3.853 g
+Polyunsaturated fat: 1.824 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 523 mg
+Potassium: 204 mg
+Calcium: 218 mg
+Iron: 2.1 mg
+Magnesium: 24 mg
+Zinc: 1.53 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.75 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.65 µg
+Folate: 83 µg

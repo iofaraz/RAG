@@ -1,0 +1,36 @@
+Food: Mustard greens, fresh, cooked, fat added
+Food ID: 2709610
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 2.99 g
+Carbohydrates: 4.87 g
+Fat: 3.18 g
+Fiber: 3.3 g
+Sugar: 1.38 g
+
+Fats:
+Saturated fat: 0.727 g
+Monounsaturated fat: 1.067 g
+Polyunsaturated fat: 0.825 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 151 mg
+Potassium: 400 mg
+Calcium: 120 mg
+Iron: 1.71 mg
+Magnesium: 33 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 162 µg
+Vitamin C: 51 mg
+Vitamin D: 0 µg
+Vitamin E: 2.5 mg
+Vitamin K: 270.3 µg
+Vitamin B6: 0.196 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

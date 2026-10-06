@@ -1,0 +1,32 @@
+Food: Gravy, brown, dry
+Food ID: 171565
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 367 kcal
+Protein: 10.74 g
+Carbohydrates: 59.38 g
+Fat: 9.61 g
+Fiber: 2 g
+
+Fats:
+Saturated fat: 3.319 g
+Monounsaturated fat: 4.452 g
+Polyunsaturated fat: 0.405 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 4843 mg
+Potassium: 262 mg
+Calcium: 132 mg
+Iron: 1.72 mg
+Magnesium: 34 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.3 mg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.7 µg
+Folate: 31 µg

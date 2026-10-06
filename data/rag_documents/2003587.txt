@@ -1,0 +1,22 @@
+Food: Flour, spelt, whole grain
+Food ID: 2003587
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 14.475 g
+Carbohydrates: 70.723 g
+Fat: 2.543 g
+Fiber: 9.339 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 349.8 mg
+Calcium: 30.04 mg
+Iron: 3.769 mg
+Magnesium: 123.8 mg
+Zinc: 3.591 mg
+
+Vitamins:
+Vitamin B6: 0.2355 mg
+Folate: 38.42 µg

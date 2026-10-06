@@ -1,0 +1,36 @@
+Food: Cheeseburger, NFS
+Food ID: 2706888
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 17.87 g
+Carbohydrates: 18.71 g
+Fat: 16.15 g
+Fiber: 0.6 g
+Sugar: 2.98 g
+
+Fats:
+Saturated fat: 6.864 g
+Monounsaturated fat: 5.858 g
+Polyunsaturated fat: 1.11 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 438 mg
+Potassium: 219 mg
+Calcium: 171 mg
+Iron: 2.53 mg
+Magnesium: 22 mg
+Zinc: 3.12 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.19 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.255 mg
+Vitamin B12: 1.62 µg
+Folate: 47 µg

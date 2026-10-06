@@ -1,0 +1,31 @@
+Food: Tortilla, blue corn, Sakwavikaviki (Hopi)
+Food ID: 169829
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 7.83 g
+Carbohydrates: 58.12 g
+Fat: 1.4 g
+Fiber: 3.4 g
+Sugar: 2.97 g
+
+Fats:
+Saturated fat: 0.287 g
+Monounsaturated fat: 0.229 g
+Polyunsaturated fat: 0.689 g
+Trans fat: 0 g
+
+Minerals:
+Sodium: 663 mg
+Potassium: 132 mg
+Calcium: 174 mg
+Iron: 2.89 mg
+Magnesium: 32 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 0.17 mg
+Vitamin B6: 0.111 mg

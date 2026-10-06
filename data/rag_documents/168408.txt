@@ -1,0 +1,37 @@
+Food: Cress, garden, cooked, boiled, drained, without salt
+Food ID: 168408
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 1.9 g
+Carbohydrates: 3.8 g
+Fat: 0.6 g
+Fiber: 0.7 g
+Sugar: 3.11 g
+
+Fats:
+Saturated fat: 0.02 g
+Monounsaturated fat: 0.205 g
+Polyunsaturated fat: 0.196 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 353 mg
+Calcium: 61 mg
+Iron: 0.8 mg
+Magnesium: 26 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 232 µg
+Vitamin C: 23 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 383.4 µg
+Vitamin B6: 0.157 mg
+Vitamin B12: 0 µg
+Folate: 37 µg

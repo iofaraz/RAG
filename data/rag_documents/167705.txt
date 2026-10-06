@@ -1,0 +1,36 @@
+Food: Cheese, parmesan, low sodium
+Food ID: 167705
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 451 kcal
+Protein: 41.6 g
+Carbohydrates: 3.7 g
+Fat: 29.99 g
+Fiber: 0 g
+Sugar: 0.85 g
+
+Fats:
+Saturated fat: 19.051 g
+Monounsaturated fat: 8.721 g
+Polyunsaturated fat: 0.659 g
+Cholesterol: 79 mg
+
+Minerals:
+Sodium: 63 mg
+Potassium: 107 mg
+Calcium: 800 mg
+Iron: 0.95 mg
+Magnesium: 51 mg
+Zinc: 3.19 mg
+
+Vitamins:
+Vitamin A: 125 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.27 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 1.4 µg
+Folate: 10 µg

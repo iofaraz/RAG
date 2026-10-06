@@ -1,0 +1,36 @@
+Food: Fat free ice cream, no sugar added, flavors other than chocolate
+Food ID: 173467
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 133 kcal
+Protein: 4.41 g
+Carbohydrates: 28.86 g
+Fat: 0 g
+Fiber: 7.4 g
+Sugar: 8.82 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 110 mg
+Potassium: 196 mg
+Calcium: 147 mg
+Iron: 0 mg
+Magnesium: 9 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 133 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.52 µg
+Folate: 4 µg

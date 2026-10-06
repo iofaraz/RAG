@@ -1,0 +1,33 @@
+Food: LITTLE CAESARS 14" Cheese Pizza, Large Deep Dish Crust
+Food ID: 172050
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 263 kcal
+Protein: 12.63 g
+Carbohydrates: 30.1 g
+Fat: 10.22 g
+Fiber: 1.3 g
+Sugar: 3.66 g
+
+Fats:
+Saturated fat: 4.237 g
+Monounsaturated fat: 2.757 g
+Polyunsaturated fat: 1.728 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 432 mg
+Potassium: 160 mg
+Calcium: 224 mg
+Iron: 2.31 mg
+Magnesium: 27 mg
+Zinc: 1.52 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 0 mg
+Vitamin E: 0.81 mg
+Vitamin K: 6.8 µg
+Vitamin B12: 0.43 µg

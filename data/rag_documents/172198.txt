@@ -1,0 +1,36 @@
+Food: Cheese substitute, mozzarella
+Food ID: 172198
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 248 kcal
+Protein: 11.47 g
+Carbohydrates: 23.67 g
+Fat: 12.22 g
+Fiber: 0 g
+Sugar: 23.67 g
+
+Fats:
+Saturated fat: 3.711 g
+Monounsaturated fat: 6.243 g
+Polyunsaturated fat: 1.738 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 685 mg
+Potassium: 455 mg
+Calcium: 610 mg
+Iron: 0.4 mg
+Magnesium: 41 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 437 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.81 µg
+Folate: 11 µg

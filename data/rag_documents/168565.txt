@@ -1,0 +1,34 @@
+Food: Squash, zucchini, baby, raw
+Food ID: 168565
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 2.71 g
+Carbohydrates: 3.11 g
+Fat: 0.4 g
+Fiber: 1.1 g
+
+Fats:
+Saturated fat: 0.083 g
+Monounsaturated fat: 0.031 g
+Polyunsaturated fat: 0.169 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 459 mg
+Calcium: 21 mg
+Iron: 0.79 mg
+Magnesium: 33 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 34.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

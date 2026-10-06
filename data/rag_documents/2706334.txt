@@ -1,0 +1,36 @@
+Food: Calamari, fried
+Food ID: 2706334
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 13.76 g
+Carbohydrates: 14.06 g
+Fat: 13.22 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.935 g
+Monounsaturated fat: 5.13 g
+Polyunsaturated fat: 5.023 g
+Cholesterol: 183 mg
+
+Minerals:
+Sodium: 377 mg
+Potassium: 211 mg
+Calcium: 39 mg
+Iron: 1.41 mg
+Magnesium: 30 mg
+Zinc: 1.31 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 2.9 mg
+Vitamin D: 0 µg
+Vitamin E: 3.16 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0.86 µg
+Folate: 27 µg

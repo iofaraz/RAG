@@ -1,0 +1,37 @@
+Food: Turkey, dark meat, meat and skin, raw
+Food ID: 171488
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 19.81 g
+Carbohydrates: 0.15 g
+Fat: 8.97 g
+Fiber: 0 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 2.413 g
+Monounsaturated fat: 3.091 g
+Polyunsaturated fat: 2.443 g
+Trans fat: 0.099 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 113 mg
+Potassium: 208 mg
+Calcium: 11 mg
+Iron: 1 mg
+Magnesium: 22 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.11 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.391 mg
+Vitamin B12: 1.84 µg
+Folate: 6 µg

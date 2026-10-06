@@ -1,0 +1,32 @@
+Food: Fish, smelt, rainbow, cooked, dry heat
+Food ID: 175147
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 124 kcal
+Protein: 22.6 g
+Carbohydrates: 0 g
+Fat: 3.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.579 g
+Monounsaturated fat: 0.822 g
+Polyunsaturated fat: 1.135 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 372 mg
+Calcium: 77 mg
+Iron: 1.15 mg
+Magnesium: 38 mg
+Zinc: 2.12 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.17 mg
+Vitamin B12: 3.97 µg
+Folate: 5 µg

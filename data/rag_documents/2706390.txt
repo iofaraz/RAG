@@ -1,0 +1,36 @@
+Food: Barbecue beef, with sauce
+Food ID: 2706390
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 19.83 g
+Carbohydrates: 12.23 g
+Fat: 10.79 g
+Fiber: 0.3 g
+Sugar: 9.97 g
+
+Fats:
+Saturated fat: 4.138 g
+Monounsaturated fat: 4.925 g
+Polyunsaturated fat: 0.431 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 596 mg
+Potassium: 259 mg
+Calcium: 17 mg
+Iron: 2.1 mg
+Magnesium: 18 mg
+Zinc: 5.61 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.32 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.226 mg
+Vitamin B12: 1.95 µg
+Folate: 5 µg

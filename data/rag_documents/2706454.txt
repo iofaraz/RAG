@@ -1,0 +1,36 @@
+Food: Spaghetti sauce with seafood and added vegetables
+Food ID: 2706454
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 5.43 g
+Carbohydrates: 6.6 g
+Fat: 1.25 g
+Fiber: 1.4 g
+Sugar: 4.03 g
+
+Fats:
+Saturated fat: 0.165 g
+Monounsaturated fat: 0.263 g
+Polyunsaturated fat: 0.435 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 353 mg
+Potassium: 323 mg
+Calcium: 39 mg
+Iron: 1.01 mg
+Magnesium: 20 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 10.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.79 mg
+Vitamin K: 9.5 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 1.82 µg
+Folate: 15 µg

@@ -1,0 +1,29 @@
+Food: Fish, yellowtail, mixed species, cooked, dry heat
+Food ID: 174248
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 187 kcal
+Protein: 29.67 g
+Carbohydrates: 0 g
+Fat: 6.72 g
+Fiber: 0 g
+
+Fats:
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 538 mg
+Calcium: 29 mg
+Iron: 0.63 mg
+Magnesium: 38 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 2.9 mg
+Vitamin B6: 0.185 mg
+Vitamin B12: 1.25 µg
+Folate: 4 µg

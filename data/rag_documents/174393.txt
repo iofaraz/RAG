@@ -1,0 +1,29 @@
+Food: Veal, breast, whole, boneless, separable lean and fat, cooked, braised
+Food ID: 174393
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 26.97 g
+Carbohydrates: 0 g
+Fat: 16.77 g
+
+Fats:
+Saturated fat: 6.55 g
+Monounsaturated fat: 8.012 g
+Polyunsaturated fat: 1.12 g
+Cholesterol: 113 mg
+
+Minerals:
+Sodium: 65 mg
+Potassium: 272 mg
+Calcium: 9 mg
+Iron: 0.77 mg
+Magnesium: 20 mg
+Zinc: 3.64 mg
+
+Vitamins:
+Vitamin B6: 0.261 mg
+Vitamin B12: 1.33 µg
+Folate: 13 µg

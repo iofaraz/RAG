@@ -1,0 +1,32 @@
+Food: Fish, sablefish, cooked, dry heat
+Food ID: 174240
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 250 kcal
+Protein: 17.19 g
+Carbohydrates: 0 g
+Fat: 19.62 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 4.099 g
+Monounsaturated fat: 10.328 g
+Polyunsaturated fat: 2.618 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 72 mg
+Potassium: 459 mg
+Calcium: 45 mg
+Iron: 1.64 mg
+Magnesium: 71 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 102 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.346 mg
+Vitamin B12: 1.44 µg
+Folate: 17 µg

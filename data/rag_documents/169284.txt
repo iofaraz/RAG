@@ -1,0 +1,34 @@
+Food: Soybeans, mature seeds, sprouted, raw
+Food ID: 169284
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 13.09 g
+Carbohydrates: 9.57 g
+Fat: 6.7 g
+Fiber: 1.1 g
+
+Fats:
+Saturated fat: 0.929 g
+Monounsaturated fat: 1.518 g
+Polyunsaturated fat: 3.783 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 14 mg
+Potassium: 484 mg
+Calcium: 67 mg
+Iron: 2.1 mg
+Magnesium: 72 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 15.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.176 mg
+Vitamin B12: 0 µg
+Folate: 172 µg

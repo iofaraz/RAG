@@ -1,0 +1,20 @@
+Food: Mary's Gone Crackers, Original Crackers, Organic Gluten Free
+Food ID: 168004
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 446 kcal
+Protein: 12.06 g
+Carbohydrates: 64.29 g
+Fat: 15.63 g
+Fiber: 16.2 g
+Sugar: 1 g
+
+Minerals:
+Sodium: 587 mg
+Potassium: 477 mg
+Calcium: 223 mg
+Iron: 3.17 mg
+Magnesium: 198 mg
+Zinc: 2.95 mg

@@ -1,0 +1,36 @@
+Food: Spaghetti sauce with seafood
+Food ID: 2706453
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 64 kcal
+Protein: 5.33 g
+Carbohydrates: 7.09 g
+Fat: 1.48 g
+Fiber: 1.5 g
+Sugar: 4.47 g
+
+Fats:
+Saturated fat: 0.185 g
+Monounsaturated fat: 0.334 g
+Polyunsaturated fat: 0.503 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 432 mg
+Potassium: 326 mg
+Calcium: 42 mg
+Iron: 1.08 mg
+Magnesium: 21 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 2.16 mg
+Vitamin K: 11.3 µg
+Vitamin B6: 0.143 mg
+Vitamin B12: 1.82 µg
+Folate: 12 µg

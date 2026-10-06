@@ -1,0 +1,27 @@
+Food: Cream cheese, full fat, block
+Food ID: 2346385
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 5.78985 g
+Carbohydrates: 4.55615 g
+Fat: 33.49 g
+
+Fats:
+Saturated fat: 19.73 g
+Monounsaturated fat: 6.924 g
+Cholesterol: 101 mg
+
+Minerals:
+Sodium: 367.8 mg
+Potassium: 124.8 mg
+Calcium: 97.11 mg
+Iron: 0 mg
+Magnesium: 8.914 mg
+Zinc: 0.5891 mg
+
+Vitamins:
+Vitamin K: 2.4 µg
+Vitamin B6: 0.03925 mg
+Vitamin B12: 0 µg

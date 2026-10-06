@@ -1,0 +1,37 @@
+Food: Chicken, skin (drumsticks and thighs), cooked, braised
+Food ID: 172854
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 443 kcal
+Protein: 14.61 g
+Carbohydrates: 0 g
+Fat: 42.76 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 11.914 g
+Monounsaturated fat: 18.697 g
+Polyunsaturated fat: 8.615 g
+Trans fat: 0.225 g
+Cholesterol: 130 mg
+
+Minerals:
+Sodium: 75 mg
+Potassium: 161 mg
+Calcium: 9 mg
+Iron: 1 mg
+Magnesium: 14 mg
+Zinc: 0.74 mg
+
+Vitamins:
+Vitamin A: 48 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.179 mg
+Vitamin B12: 0.45 µg
+Folate: 3 µg

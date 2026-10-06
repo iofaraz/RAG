@@ -1,0 +1,31 @@
+Food: Cookies, oatmeal, dry mix
+Food ID: 174960
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 462 kcal
+Protein: 6.5 g
+Carbohydrates: 67.3 g
+Fat: 19.2 g
+
+Fats:
+Saturated fat: 4.755 g
+Monounsaturated fat: 10.567 g
+Polyunsaturated fat: 2.792 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 473 mg
+Potassium: 183 mg
+Calcium: 25 mg
+Iron: 2.22 mg
+Magnesium: 48 mg
+Zinc: 0.8 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 50 µg

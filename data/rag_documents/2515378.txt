@@ -1,0 +1,18 @@
+Food: Nuts, macadamia nuts, raw
+Food ID: 2515378
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 7.7857 g
+Carbohydrates: 24.0943 g
+Fat: 64.93 g
+Fiber: 7.563 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 372.6 mg
+Calcium: 52.71 mg
+Iron: 1.881 mg
+Magnesium: 106.8 mg
+Zinc: 1.2 mg

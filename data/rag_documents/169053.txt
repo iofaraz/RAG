@@ -1,0 +1,36 @@
+Food: Margarine-like, vegetable oil-butter spread, reduced calorie, tub, with salt
+Food ID: 169053
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 450 kcal
+Protein: 1 g
+Carbohydrates: 1 g
+Fat: 50 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 16.669 g
+Monounsaturated fat: 19.722 g
+Polyunsaturated fat: 11.299 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 607 mg
+Potassium: 37 mg
+Calcium: 28 mg
+Iron: 0.09 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 819 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 5.7 mg
+Vitamin K: 57.6 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.1 µg
+Folate: 2 µg

@@ -1,0 +1,36 @@
+Food: Pie, strawberry
+Food ID: 2708003
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 289 kcal
+Protein: 2.88 g
+Carbohydrates: 44.22 g
+Fat: 11.6 g
+Fiber: 2.2 g
+Sugar: 22.59 g
+
+Fats:
+Saturated fat: 3.718 g
+Monounsaturated fat: 5.443 g
+Polyunsaturated fat: 1.492 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 189 mg
+Potassium: 89 mg
+Calcium: 15 mg
+Iron: 1.37 mg
+Magnesium: 11 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 15.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 41 µg

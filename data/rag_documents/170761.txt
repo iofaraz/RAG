@@ -1,0 +1,34 @@
+Food: DIGIORNO Pizza, pepperoni topping, thin crispy crust, frozen, baked
+Food ID: 170761
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 283 kcal
+Protein: 13.22 g
+Carbohydrates: 28.67 g
+Fat: 12.86 g
+Fiber: 2.8 g
+
+Fats:
+Saturated fat: 4.973 g
+Monounsaturated fat: 4.354 g
+Polyunsaturated fat: 1.827 g
+Trans fat: 0.508 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 663 mg
+Potassium: 268 mg
+Calcium: 209 mg
+Iron: 0.9 mg
+Magnesium: 28 mg
+Zinc: 1.64 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0.9 mg
+Vitamin E: 0.77 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0.55 µg

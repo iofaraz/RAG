@@ -1,0 +1,36 @@
+Food: Cereal, rice crispy, plain
+Food ID: 2708455
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 358 kcal
+Protein: 6.96 g
+Carbohydrates: 79.81 g
+Fat: 1.21 g
+Fiber: 0.4 g
+Sugar: 9.85 g
+
+Fats:
+Saturated fat: 0.343 g
+Monounsaturated fat: 0.395 g
+Polyunsaturated fat: 0.349 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 505 mg
+Potassium: 67 mg
+Calcium: 8 mg
+Iron: 26.69 mg
+Magnesium: 21 mg
+Zinc: 1.09 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.291 mg
+Vitamin B12: 1.76 µg
+Folate: 592 µg

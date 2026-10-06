@@ -1,0 +1,36 @@
+Food: Chard, cooked
+Food ID: 2709575
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 1.88 g
+Carbohydrates: 3.9 g
+Fat: 2.95 g
+Fiber: 1.7 g
+Sugar: 1.15 g
+
+Fats:
+Saturated fat: 0.747 g
+Monounsaturated fat: 1.013 g
+Polyunsaturated fat: 0.858 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 352 mg
+Potassium: 395 mg
+Calcium: 54 mg
+Iron: 1.88 mg
+Magnesium: 84 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 315 µg
+Vitamin C: 21.9 mg
+Vitamin D: 0 µg
+Vitamin E: 2.38 mg
+Vitamin K: 866.2 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0 µg
+Folate: 11 µg

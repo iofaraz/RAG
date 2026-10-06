@@ -1,0 +1,37 @@
+Food: Margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin D
+Food ID: 171434
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 0.51 g
+Carbohydrates: 0.66 g
+Fat: 37.77 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.637 g
+Monounsaturated fat: 13.958 g
+Polyunsaturated fat: 12.735 g
+Trans fat: 1.687 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 589 mg
+Potassium: 34 mg
+Calcium: 6 mg
+Iron: 0.02 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1297 µg
+Vitamin C: 0.1 mg
+Vitamin D: 10.7 µg
+Vitamin E: 13.45 mg
+Vitamin K: 74.6 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.06 µg
+Folate: 1 µg

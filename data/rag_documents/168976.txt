@@ -1,0 +1,31 @@
+Food: Agutuk, fish/berry with seal oil (Alaskan ice cream) (Alaska Native)
+Food ID: 168976
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 3.4 g
+Carbohydrates: 13.4 g
+Fat: 31.8 g
+Fiber: 0.5 g
+
+Fats:
+Saturated fat: 7.7 g
+Monounsaturated fat: 14.4 g
+Polyunsaturated fat: 8.4 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 70 mg
+Calcium: 8 mg
+Iron: 0.3 mg
+Magnesium: 7 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin C: 2.9 mg
+Vitamin E: 2.36 mg
+Vitamin B6: 0.01 mg
+Folate: 3 µg

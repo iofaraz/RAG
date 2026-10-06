@@ -1,0 +1,36 @@
+Food: Vodka sauce with tomatoes and cream
+Food ID: 2709749
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 75 kcal
+Protein: 1.15 g
+Carbohydrates: 3.56 g
+Fat: 6.57 g
+Fiber: 1.3 g
+Sugar: 2.49 g
+
+Fats:
+Saturated fat: 3.02 g
+Monounsaturated fat: 2.103 g
+Polyunsaturated fat: 0.439 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 247 mg
+Potassium: 190 mg
+Calcium: 29 mg
+Iron: 0.58 mg
+Magnesium: 10 mg
+Zinc: 0.16 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 7.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.1 mg
+Vitamin K: 10 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.01 µg
+Folate: 6 µg

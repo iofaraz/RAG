@@ -1,0 +1,32 @@
+Food: Nuts, ginkgo nuts, dried
+Food ID: 170175
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 348 kcal
+Protein: 10.35 g
+Carbohydrates: 72.45 g
+Fat: 2 g
+
+Fats:
+Saturated fat: 0.381 g
+Monounsaturated fat: 0.739 g
+Polyunsaturated fat: 0.737 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 998 mg
+Calcium: 20 mg
+Iron: 1.6 mg
+Magnesium: 53 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 55 µg
+Vitamin C: 29.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.641 mg
+Vitamin B12: 0 µg
+Folate: 106 µg

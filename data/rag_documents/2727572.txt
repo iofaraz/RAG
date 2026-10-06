@@ -1,0 +1,20 @@
+Food: Beef, short loin (NY strip steak), raw
+Food ID: 2727572
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 21.325 g
+Carbohydrates: 0.2212 g
+Fat: 11.54 g
+
+Fats:
+Cholesterol: 57.6 mg
+
+Minerals:
+Sodium: 43.09 mg
+Potassium: 323 mg
+Calcium: 5.043 mg
+Iron: 1.608 mg
+Magnesium: 19.5 mg
+Zinc: 3.284 mg

@@ -1,0 +1,33 @@
+Food: Restaurant, family style, onion rings
+Food ID: 169027
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 356 kcal
+Protein: 4.89 g
+Carbohydrates: 40.72 g
+Fat: 19.28 g
+Fiber: 2.6 g
+Sugar: 4.68 g
+
+Fats:
+Saturated fat: 3.415 g
+Monounsaturated fat: 4.217 g
+Polyunsaturated fat: 9.83 g
+Trans fat: 0.183 g
+
+Minerals:
+Sodium: 692 mg
+Potassium: 142 mg
+Calcium: 21 mg
+Iron: 0.71 mg
+Magnesium: 19 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin E: 1.27 mg
+Vitamin K: 42.6 µg
+Vitamin B6: 0.083 mg
+Folate: 14 µg

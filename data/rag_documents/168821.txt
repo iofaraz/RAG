@@ -1,0 +1,32 @@
+Food: Pectin, unsweetened, dry mix
+Food ID: 168821
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 325 kcal
+Protein: 0.3 g
+Carbohydrates: 90.4 g
+Fat: 0.3 g
+Fiber: 8.6 g
+
+Fats:
+Saturated fat: 0.05 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.09 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 7 mg
+Calcium: 7 mg
+Iron: 2.71 mg
+Magnesium: 1 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

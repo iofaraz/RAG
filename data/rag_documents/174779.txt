@@ -1,0 +1,36 @@
+Food: Snacks, candy rolls, yogurt-covered, fruit flavored with high vitamin C
+Food ID: 174779
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 359 kcal
+Protein: 0.46 g
+Carbohydrates: 74.64 g
+Fat: 6.53 g
+Fiber: 3.3 g
+Sugar: 39.15 g
+
+Fats:
+Saturated fat: 5.096 g
+Monounsaturated fat: 0.753 g
+Polyunsaturated fat: 0.238 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 100 mg
+Calcium: 430 mg
+Iron: 0.56 mg
+Magnesium: 9 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 260.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

@@ -1,0 +1,36 @@
+Food: Yogurt, low fat milk, flavors other than fruit
+Food ID: 2705435
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 4.51 g
+Carbohydrates: 13.02 g
+Fat: 1.36 g
+Fiber: 0 g
+Sugar: 13.04 g
+
+Fats:
+Saturated fat: 0.86 g
+Monounsaturated fat: 0.366 g
+Polyunsaturated fat: 0.038 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 201 mg
+Calcium: 158 mg
+Iron: 0.07 mg
+Magnesium: 15 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.7 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.48 µg
+Folate: 9 µg

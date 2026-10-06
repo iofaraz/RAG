@@ -1,0 +1,36 @@
+Food: Baby Toddler puffs, vegetable
+Food ID: 2708192
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 344 kcal
+Protein: 6.19 g
+Carbohydrates: 85.79 g
+Fat: 2.3 g
+Fiber: 3.8 g
+Sugar: 17.84 g
+
+Fats:
+Saturated fat: 0.143 g
+Monounsaturated fat: 0.306 g
+Polyunsaturated fat: 0.527 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 196 mg
+Calcium: 535 mg
+Iron: 24.74 mg
+Magnesium: 60 mg
+Zinc: 17.46 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0 µg
+Vitamin E: 10.33 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 1.8 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

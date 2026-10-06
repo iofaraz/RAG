@@ -1,0 +1,36 @@
+Food: Olive loaf, pork
+Food ID: 172926
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 235 kcal
+Protein: 11.8 g
+Carbohydrates: 9.2 g
+Fat: 16.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.85 g
+Monounsaturated fat: 7.87 g
+Polyunsaturated fat: 1.93 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 964 mg
+Potassium: 297 mg
+Calcium: 109 mg
+Iron: 0.54 mg
+Magnesium: 19 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.25 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.23 mg
+Vitamin B12: 1.26 µg
+Folate: 2 µg

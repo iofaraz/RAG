@@ -1,0 +1,37 @@
+Food: Bread, multi-grain (includes whole-grain)
+Food ID: 168013
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 13.36 g
+Carbohydrates: 43.34 g
+Fat: 4.23 g
+Fiber: 7.4 g
+Sugar: 6.39 g
+
+Fats:
+Saturated fat: 0.872 g
+Monounsaturated fat: 0.76 g
+Polyunsaturated fat: 1.872 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 381 mg
+Potassium: 230 mg
+Calcium: 103 mg
+Iron: 2.5 mg
+Magnesium: 78 mg
+Zinc: 1.7 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.37 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.263 mg
+Vitamin B12: 0 µg
+Folate: 75 µg

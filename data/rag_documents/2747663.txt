@@ -1,0 +1,23 @@
+Food: Peppers, serrano, seeded, raw
+Food ID: 2747663
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.855625 g
+Carbohydrates: 6.13628 g
+Fat: 0.1406 g
+Fiber: 2.521 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 224.5 mg
+Calcium: 12.86 mg
+Iron: 0.05725 mg
+Magnesium: 12.68 mg
+Zinc: 0.138 mg
+
+Vitamins:
+Vitamin C: 94.61 mg
+Vitamin B6: 0.3904 mg
+Folate: 28.23 µg

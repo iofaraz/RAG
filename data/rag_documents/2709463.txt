@@ -1,0 +1,36 @@
+Food: Potato, french fries, from frozen, fried
+Food ID: 2709463
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 2.5 g
+Carbohydrates: 23.23 g
+Fat: 14.07 g
+Fiber: 1.8 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 1.986 g
+Monounsaturated fat: 5.556 g
+Polyunsaturated fat: 4.857 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 295 mg
+Potassium: 435 mg
+Calcium: 11 mg
+Iron: 0.53 mg
+Magnesium: 22 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7.8 mg
+Vitamin D: 0 µg
+Vitamin E: 2.08 mg
+Vitamin K: 15.9 µg
+Vitamin B6: 0.237 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

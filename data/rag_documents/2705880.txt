@@ -1,0 +1,36 @@
+Food: Ham, canned
+Food ID: 2705880
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 167 kcal
+Protein: 20.94 g
+Carbohydrates: 0.49 g
+Fat: 8.43 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.81 g
+Monounsaturated fat: 4.06 g
+Polyunsaturated fat: 0.9 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 1068 mg
+Potassium: 351 mg
+Calcium: 7 mg
+Iron: 1.07 mg
+Magnesium: 20 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.4 mg
+Vitamin B12: 0.83 µg
+Folate: 5 µg

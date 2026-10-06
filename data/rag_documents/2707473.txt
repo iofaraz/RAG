@@ -1,0 +1,36 @@
+Food: Veggie burger patty, no bun
+Food ID: 2707473
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 177 kcal
+Protein: 15.7 g
+Carbohydrates: 14.27 g
+Fat: 6.3 g
+Fiber: 4.9 g
+Sugar: 1.07 g
+
+Fats:
+Saturated fat: 1.44 g
+Monounsaturated fat: 1.778 g
+Polyunsaturated fat: 2.023 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 569 mg
+Potassium: 333 mg
+Calcium: 136 mg
+Iron: 2.41 mg
+Magnesium: 56 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.303 mg
+Vitamin B12: 2.01 µg
+Folate: 124 µg

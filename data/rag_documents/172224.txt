@@ -1,0 +1,34 @@
+Food: Cheese, white, queso blanco
+Food ID: 172224
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 310 kcal
+Protein: 20.38 g
+Carbohydrates: 2.53 g
+Fat: 24.31 g
+Sugar: 1.76 g
+
+Fats:
+Saturated fat: 13.661 g
+Monounsaturated fat: 6.459 g
+Polyunsaturated fat: 1.149 g
+Trans fat: 0.89 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 704 mg
+Potassium: 126 mg
+Calcium: 690 mg
+Iron: 0.18 mg
+Magnesium: 29 mg
+Zinc: 3.06 mg
+
+Vitamins:
+Vitamin A: 157 µg
+Vitamin D: 0.7 µg
+Vitamin E: 0.47 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 1.75 µg

@@ -1,0 +1,26 @@
+Food: Prairie Turnips, raw (Northern Plains Indians)
+Food ID: 169818
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 156 kcal
+Protein: 2.62 g
+Carbohydrates: 35.67 g
+Fat: 0.36 g
+Fiber: 8 g
+Sugar: 0.82 g
+
+Minerals:
+Sodium: 5 mg
+Potassium: 156 mg
+Calcium: 130 mg
+Iron: 1.27 mg
+Magnesium: 63 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin C: 5.5 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.47 mg
+Folate: 10 µg

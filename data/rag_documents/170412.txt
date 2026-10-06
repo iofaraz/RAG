@@ -1,0 +1,37 @@
+Food: Onions, frozen, whole, unprepared
+Food ID: 170412
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 35 kcal
+Protein: 0.89 g
+Carbohydrates: 8.45 g
+Fat: 0.06 g
+Fiber: 1.7 g
+Sugar: 3.81 g
+
+Fats:
+Saturated fat: 0.011 g
+Monounsaturated fat: 0.009 g
+Polyunsaturated fat: 0.025 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 142 mg
+Calcium: 36 mg
+Iron: 0.46 mg
+Magnesium: 10 mg
+Zinc: 0.12 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

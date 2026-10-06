@@ -1,0 +1,32 @@
+Food: Beef, variety meats and by-products, thymus, raw
+Food ID: 170194
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 12.18 g
+Carbohydrates: 0 g
+Fat: 20.35 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.01 g
+Monounsaturated fat: 7.05 g
+Polyunsaturated fat: 3.8 g
+Cholesterol: 223 mg
+
+Minerals:
+Sodium: 96 mg
+Potassium: 360 mg
+Calcium: 7 mg
+Iron: 2.1 mg
+Magnesium: 14 mg
+Zinc: 2.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 34 mg
+Vitamin B6: 0.16 mg
+Vitamin B12: 2.13 µg
+Folate: 2 µg

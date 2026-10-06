@@ -1,0 +1,36 @@
+Food: Beef, ground
+Food ID: 2705854
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 261 kcal
+Protein: 25.55 g
+Carbohydrates: 0 g
+Fat: 16.82 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.455 g
+Monounsaturated fat: 7.5 g
+Polyunsaturated fat: 0.495 g
+Cholesterol: 87 mg
+
+Minerals:
+Sodium: 381 mg
+Potassium: 302 mg
+Calcium: 24 mg
+Iron: 2.47 mg
+Magnesium: 20 mg
+Zinc: 6.2 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.364 mg
+Vitamin B12: 2.7 µg
+Folate: 10 µg

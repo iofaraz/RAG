@@ -1,0 +1,30 @@
+Food: Martha White Foods, Martha White's Buttermilk Biscuit Mix, dry
+Food ID: 175081
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 388 kcal
+Protein: 7.81 g
+Carbohydrates: 59.41 g
+Fat: 13.23 g
+Fiber: 1.5 g
+Sugar: 4.46 g
+
+Fats:
+Saturated fat: 4.07 g
+Trans fat: 3.77 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 1295 mg
+Potassium: 212 mg
+Calcium: 168 mg
+Iron: 4.06 mg
+Zinc: 0.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.16 µg

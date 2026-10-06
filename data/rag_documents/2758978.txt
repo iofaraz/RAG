@@ -1,0 +1,19 @@
+Food: Plums, dried (prunes), uncooked
+Food ID: 2758978
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 6.251 g
+
+Minerals:
+Sodium: 0.85 mg
+Potassium: 787.9 mg
+Calcium: 44.05 mg
+Iron: 0.7474 mg
+Magnesium: 43.54 mg
+Zinc: 0.4205 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin B6: 0.2883 mg

@@ -1,0 +1,36 @@
+Food: Cheese, cottage, creamed, large or small curd
+Food ID: 2705748
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 11.62 g
+Carbohydrates: 4.6 g
+Fat: 4.22 g
+Fiber: 0 g
+Sugar: 2.67 g
+
+Fats:
+Saturated fat: 2.6 g
+Monounsaturated fat: 0.916 g
+Polyunsaturated fat: 0.123 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 124 mg
+Calcium: 88 mg
+Iron: 0 mg
+Magnesium: 9 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.66 µg
+Folate: 12 µg

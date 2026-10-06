@@ -1,0 +1,36 @@
+Food: Chicken wing, baked, broiled, or roasted, from raw
+Food ID: 2706057
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 23.6 g
+Carbohydrates: 0 g
+Fat: 16.74 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.937 g
+Monounsaturated fat: 7.645 g
+Polyunsaturated fat: 3.562 g
+Cholesterol: 140 mg
+
+Minerals:
+Sodium: 404 mg
+Potassium: 210 mg
+Calcium: 18 mg
+Iron: 0.83 mg
+Magnesium: 19 mg
+Zinc: 1.63 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.68 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.554 mg
+Vitamin B12: 0.35 µg
+Folate: 9 µg

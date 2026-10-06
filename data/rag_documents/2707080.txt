@@ -1,0 +1,36 @@
+Food: Chili hot dog sandwich, on white bread
+Food ID: 2707080
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 215 kcal
+Protein: 9.89 g
+Carbohydrates: 15.45 g
+Fat: 12.71 g
+Fiber: 1.8 g
+Sugar: 2.14 g
+
+Fats:
+Saturated fat: 4.994 g
+Monounsaturated fat: 5.308 g
+Polyunsaturated fat: 0.84 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 553 mg
+Potassium: 263 mg
+Calcium: 56 mg
+Iron: 1.88 mg
+Magnesium: 20 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 2.6 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.42 mg
+Vitamin K: 2.7 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0.52 µg
+Folate: 45 µg

@@ -1,0 +1,37 @@
+Food: Snacks, plantain chips, salted
+Food ID: 173142
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 531 kcal
+Protein: 2.28 g
+Carbohydrates: 63.84 g
+Fat: 29.59 g
+Fiber: 3.5 g
+Sugar: 0.92 g
+
+Fats:
+Saturated fat: 8.337 g
+Monounsaturated fat: 5.632 g
+Polyunsaturated fat: 11.739 g
+Trans fat: 0.185 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 202 mg
+Potassium: 786 mg
+Calcium: 9 mg
+Iron: 0.97 mg
+Magnesium: 71 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 32.1 mg
+Vitamin D: 0 µg
+Vitamin E: 5.04 mg
+Vitamin K: 28.6 µg
+Vitamin B6: 0.46 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

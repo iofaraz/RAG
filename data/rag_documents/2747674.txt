@@ -1,0 +1,23 @@
+Food: Turnips, raw
+Food ID: 2747674
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.953125 g
+Carbohydrates: 7.27498 g
+Fat: 0.1188 g
+Fiber: 1.915 g
+
+Minerals:
+Sodium: 12.8 mg
+Potassium: 262.1 mg
+Calcium: 32.7 mg
+Iron: 0 mg
+Magnesium: 10.39 mg
+Zinc: 0.1561 mg
+
+Vitamins:
+Vitamin C: 26.78 mg
+Vitamin B6: 0.1185 mg
+Folate: 60.24 µg

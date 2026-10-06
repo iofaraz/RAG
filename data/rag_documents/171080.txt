@@ -1,0 +1,32 @@
+Food: Squab, (pigeon), light meat without skin, raw
+Food ID: 171080
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 21.76 g
+Carbohydrates: 0 g
+Fat: 4.52 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.18 g
+Monounsaturated fat: 1.61 g
+Polyunsaturated fat: 0.96 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 55 mg
+Potassium: 260 mg
+Calcium: 10 mg
+Iron: 2.31 mg
+Magnesium: 28 mg
+Zinc: 2.7 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 5.1 mg
+Vitamin B6: 0.53 mg
+Vitamin B12: 0.47 µg
+Folate: 4 µg

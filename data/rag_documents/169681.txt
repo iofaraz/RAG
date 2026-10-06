@@ -1,0 +1,32 @@
+Food: Snacks, granola bars, hard, peanut butter
+Food ID: 169681
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 483 kcal
+Protein: 9.8 g
+Carbohydrates: 62.3 g
+Fat: 23.8 g
+Fiber: 2.9 g
+
+Fats:
+Saturated fat: 3.2 g
+Monounsaturated fat: 7 g
+Polyunsaturated fat: 12.08 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 283 mg
+Potassium: 291 mg
+Calcium: 41 mg
+Iron: 2.4 mg
+Magnesium: 55 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.096 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

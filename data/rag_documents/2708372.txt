@@ -1,0 +1,36 @@
+Food: Grits, instant, made with water, NS as to fat
+Food ID: 2708372
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 1.36 g
+Carbohydrates: 14.36 g
+Fat: 2.85 g
+Fiber: 0.8 g
+Sugar: 0.29 g
+
+Fats:
+Saturated fat: 1.129 g
+Monounsaturated fat: 0.72 g
+Polyunsaturated fat: 0.565 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 228 mg
+Potassium: 26 mg
+Calcium: 72 mg
+Iron: 7.09 mg
+Magnesium: 6 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.25 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0 µg
+Folate: 32 µg

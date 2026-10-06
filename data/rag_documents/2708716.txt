@@ -1,0 +1,36 @@
+Food: Kibby, Puerto Rican style
+Food ID: 2708716
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 168 kcal
+Protein: 8.76 g
+Carbohydrates: 17.99 g
+Fat: 7.2 g
+Fiber: 3.1 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 2.673 g
+Monounsaturated fat: 3.089 g
+Polyunsaturated fat: 0.302 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 558 mg
+Potassium: 206 mg
+Calcium: 22 mg
+Iron: 1.25 mg
+Magnesium: 44 mg
+Zinc: 1.89 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.141 mg
+Vitamin B12: 0.55 µg
+Folate: 8 µg

@@ -1,0 +1,36 @@
+Food: Okra, pickled
+Food ID: 2710087
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 1.6 g
+Carbohydrates: 11.04 g
+Fat: 0.17 g
+Fiber: 2.7 g
+Sugar: 6.1 g
+
+Fats:
+Saturated fat: 0.022 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.022 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 950 mg
+Potassium: 248 mg
+Calcium: 70 mg
+Iron: 0.52 mg
+Magnesium: 47 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 16.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.22 mg
+Vitamin K: 26 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0 µg
+Folate: 42 µg

@@ -1,0 +1,36 @@
+Food: Corn chips, reduced sodium
+Food ID: 2708205
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 549 kcal
+Protein: 6.84 g
+Carbohydrates: 56.75 g
+Fat: 33.63 g
+Fiber: 3.9 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 4.454 g
+Monounsaturated fat: 9.281 g
+Polyunsaturated fat: 17.065 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 295 mg
+Potassium: 164 mg
+Calcium: 126 mg
+Iron: 1.16 mg
+Magnesium: 70 mg
+Zinc: 1.08 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 8.11 mg
+Vitamin K: 10.2 µg
+Vitamin B6: 0.149 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

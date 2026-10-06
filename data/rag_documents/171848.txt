@@ -1,0 +1,37 @@
+Food: Crackers, sandwich-type, peanut butter filled, reduced fat
+Food ID: 171848
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 437 kcal
+Protein: 8.33 g
+Carbohydrates: 63.49 g
+Fat: 16.67 g
+Fiber: 2.8 g
+Sugar: 11.11 g
+
+Fats:
+Saturated fat: 2.778 g
+Monounsaturated fat: 5.556 g
+Polyunsaturated fat: 6.944 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 639 mg
+Potassium: 122 mg
+Calcium: 0 mg
+Iron: 3 mg
+Magnesium: 30 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.86 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0 µg
+Folate: 111 µg

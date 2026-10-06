@@ -1,0 +1,36 @@
+Food: Couscous, cooked
+Food ID: 169700
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 3.79 g
+Carbohydrates: 23.22 g
+Fat: 0.16 g
+Fiber: 1.4 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 0.029 g
+Monounsaturated fat: 0.022 g
+Polyunsaturated fat: 0.064 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 58 mg
+Calcium: 8 mg
+Iron: 0.38 mg
+Magnesium: 8 mg
+Zinc: 0.26 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.13 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.051 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

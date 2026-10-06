@@ -1,0 +1,36 @@
+Food: Stuffed cabbage, with meat and rice, Syrian dish, Puerto Rican style
+Food ID: 2710143
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 3.14 g
+Carbohydrates: 11.14 g
+Fat: 2.95 g
+Fiber: 1.8 g
+Sugar: 2.31 g
+
+Fats:
+Saturated fat: 0.798 g
+Monounsaturated fat: 1.519 g
+Polyunsaturated fat: 0.198 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 147 mg
+Potassium: 183 mg
+Calcium: 31 mg
+Iron: 0.69 mg
+Magnesium: 14 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 20.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.52 mg
+Vitamin K: 35.9 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0.16 µg
+Folate: 32 µg

@@ -1,0 +1,33 @@
+Food: Mother's loaf, pork
+Food ID: 172932
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 282 kcal
+Protein: 12.07 g
+Carbohydrates: 7.53 g
+Fat: 22.3 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 7.95 g
+Monounsaturated fat: 10.34 g
+Polyunsaturated fat: 2.58 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 1127 mg
+Potassium: 225 mg
+Calcium: 43 mg
+Iron: 1.32 mg
+Magnesium: 16 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1 mg
+Vitamin D: 1 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 1.05 µg
+Folate: 8 µg

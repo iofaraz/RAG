@@ -1,0 +1,36 @@
+Food: Infant formula, Gerber Good Start Gentle, Stage 1, powder, made with tap water
+Food ID: 2705551
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 1.45 g
+Carbohydrates: 7.3 g
+Fat: 3.34 g
+Fiber: 0 g
+Sugar: 7.3 g
+
+Fats:
+Saturated fat: 1.401 g
+Monounsaturated fat: 1.216 g
+Polyunsaturated fat: 0.648 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 71 mg
+Calcium: 47 mg
+Iron: 0.99 mg
+Magnesium: 5 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 6.5 mg
+Vitamin D: 1 µg
+Vitamin E: 0.58 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0.22 µg
+Folate: 10 µg

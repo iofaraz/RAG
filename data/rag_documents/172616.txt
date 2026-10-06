@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, ground lamb, cooked, braised
+Food ID: 172616
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 192 kcal
+Protein: 22.6 g
+Carbohydrates: 0 g
+Fat: 11.34 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.378 g
+Monounsaturated fat: 2.769 g
+Polyunsaturated fat: 0.489 g
+Trans fat: 0.38 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 162 mg
+Calcium: 4 mg
+Iron: 1.27 mg
+Magnesium: 15 mg
+Zinc: 3.38 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.4 mg
+Vitamin B6: 0.134 mg
+Vitamin B12: 0.96 µg

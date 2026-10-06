@@ -1,0 +1,32 @@
+Food: Lamb, Australian, imported, fresh, seam fat, cooked
+Food ID: 172656
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 554 kcal
+Protein: 13.81 g
+Carbohydrates: 1.55 g
+Fat: 54.72 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 28.619 g
+Monounsaturated fat: 21.229 g
+Polyunsaturated fat: 3.324 g
+Trans fat: 4.438 g
+Cholesterol: 110 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 164 mg
+Calcium: 8 mg
+Iron: 1.39 mg
+Magnesium: 12 mg
+Zinc: 1.8 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.233 mg

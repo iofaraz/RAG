@@ -1,0 +1,36 @@
+Food: Potato salad with egg, made with any type of fat free dressing
+Food ID: 2709540
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 2.67 g
+Carbohydrates: 16 g
+Fat: 1.74 g
+Fiber: 1.6 g
+Sugar: 2.69 g
+
+Fats:
+Saturated fat: 0.488 g
+Monounsaturated fat: 0.786 g
+Polyunsaturated fat: 0.215 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 205 mg
+Potassium: 245 mg
+Calcium: 15 mg
+Iron: 0.39 mg
+Magnesium: 15 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.15 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.191 mg
+Vitamin B12: 0.13 µg
+Folate: 12 µg

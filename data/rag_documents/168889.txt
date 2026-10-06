@@ -1,0 +1,36 @@
+Food: Wheat, hard red spring
+Food ID: 168889
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 329 kcal
+Protein: 15.4 g
+Carbohydrates: 68.03 g
+Fat: 1.92 g
+Fiber: 12.2 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.314 g
+Monounsaturated fat: 0.303 g
+Polyunsaturated fat: 0.765 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 340 mg
+Calcium: 25 mg
+Iron: 3.6 mg
+Magnesium: 124 mg
+Zinc: 2.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.01 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.336 mg
+Vitamin B12: 0 µg
+Folate: 43 µg

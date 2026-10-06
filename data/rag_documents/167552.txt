@@ -1,0 +1,37 @@
+Food: Snacks, popcorn, caramel-coated, without peanuts
+Food ID: 167552
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 431 kcal
+Protein: 3.8 g
+Carbohydrates: 79.1 g
+Fat: 12.8 g
+Fiber: 5.2 g
+Sugar: 53.19 g
+
+Fats:
+Saturated fat: 3.61 g
+Monounsaturated fat: 2.88 g
+Polyunsaturated fat: 4.48 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 206 mg
+Potassium: 109 mg
+Calcium: 43 mg
+Iron: 1.74 mg
+Magnesium: 35 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.2 mg
+Vitamin K: 12.5 µg
+Vitamin B6: 0.028 mg
+Vitamin B12: 0.01 µg
+Folate: 5 µg

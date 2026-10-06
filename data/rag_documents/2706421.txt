@@ -1,0 +1,36 @@
+Food: Chicken or turkey cacciatore
+Food ID: 2706421
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 13.19 g
+Carbohydrates: 6.92 g
+Fat: 10.62 g
+Fiber: 1.1 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 2.573 g
+Monounsaturated fat: 4.743 g
+Polyunsaturated fat: 2.364 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 664 mg
+Potassium: 290 mg
+Calcium: 42 mg
+Iron: 1.02 mg
+Magnesium: 21 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 5.4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.15 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.193 mg
+Vitamin B12: 0.24 µg
+Folate: 16 µg

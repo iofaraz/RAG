@@ -1,0 +1,37 @@
+Food: Fast Food, Pizza Chain, 14" pizza, cheese topping, thin crust
+Food ID: 173294
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 302 kcal
+Protein: 12.85 g
+Carbohydrates: 31.2 g
+Fat: 13.95 g
+Fiber: 2.5 g
+Sugar: 3.61 g
+
+Fats:
+Saturated fat: 6.224 g
+Monounsaturated fat: 3.507 g
+Polyunsaturated fat: 3.044 g
+Trans fat: 0.354 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 742 mg
+Potassium: 199 mg
+Calcium: 288 mg
+Iron: 1.71 mg
+Magnesium: 24 mg
+Zinc: 1.59 mg
+
+Vitamins:
+Vitamin A: 72 µg
+Vitamin C: 3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.29 mg
+Vitamin K: 9.7 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0.57 µg
+Folate: 96 µg

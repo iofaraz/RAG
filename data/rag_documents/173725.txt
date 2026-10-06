@@ -1,0 +1,25 @@
+Food: Fish, pollock, Alaska, raw
+Food ID: 173725
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 76 kcal
+Protein: 17.17 g
+Carbohydrates: 0 g
+Fat: 0.82 g
+
+Fats:
+Saturated fat: 0.148 g
+Monounsaturated fat: 0.095 g
+Polyunsaturated fat: 0.261 g
+Trans fat: 0.003 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 159 mg
+Potassium: 331 mg
+Calcium: 12 mg
+Iron: 0.27 mg
+Magnesium: 34 mg
+Zinc: 0.4 mg

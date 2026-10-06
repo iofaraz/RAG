@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, QUAKER, HONEY GRAHAM OH!S
+Food ID: 174621
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 412 kcal
+Protein: 3.92 g
+Carbohydrates: 83.65 g
+Fat: 7.63 g
+Fiber: 2.1 g
+Sugar: 43.23 g
+
+Fats:
+Saturated fat: 5.709 g
+Monounsaturated fat: 0.704 g
+Polyunsaturated fat: 0.722 g
+Trans fat: 0.041 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 679 mg
+Potassium: 167 mg
+Calcium: 11 mg
+Iron: 19.52 mg
+Magnesium: 43 mg
+Zinc: 5.99 mg
+
+Vitamins:
+Vitamin A: 436 µg
+Vitamin C: 36.4 mg
+Vitamin D: 0 µg
+Vitamin E: 5.39 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.321 mg
+Vitamin B12: 0 µg
+Folate: 563 µg

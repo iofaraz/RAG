@@ -1,0 +1,36 @@
+Food: Fish, catfish, fried
+Food ID: 2706238
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 255 kcal
+Protein: 13.49 g
+Carbohydrates: 11.72 g
+Fat: 16.68 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 2.658 g
+Monounsaturated fat: 7.005 g
+Polyunsaturated fat: 5.475 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 418 mg
+Potassium: 254 mg
+Calcium: 21 mg
+Iron: 1.07 mg
+Magnesium: 19 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 2.86 mg
+Vitamin K: 13.6 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 2 µg
+Folate: 31 µg

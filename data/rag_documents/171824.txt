@@ -1,0 +1,36 @@
+Food: Sauce, salsa, verde, ready-to-serve
+Food ID: 171824
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 38 kcal
+Protein: 1.13 g
+Carbohydrates: 6.36 g
+Fat: 0.89 g
+Fiber: 1.9 g
+Sugar: 3.5 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 906 mg
+Potassium: 259 mg
+Calcium: 9 mg
+Iron: 0.65 mg
+Magnesium: 19 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 12.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin K: 13.6 µg
+Vitamin B6: 0.083 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

@@ -1,0 +1,35 @@
+Food: Millet, raw
+Food ID: 169702
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 378 kcal
+Protein: 11.02 g
+Carbohydrates: 72.85 g
+Fat: 4.22 g
+Fiber: 8.5 g
+
+Fats:
+Saturated fat: 0.723 g
+Monounsaturated fat: 0.773 g
+Polyunsaturated fat: 2.134 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 195 mg
+Calcium: 8 mg
+Iron: 3.01 mg
+Magnesium: 114 mg
+Zinc: 1.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.384 mg
+Vitamin B12: 0 µg
+Folate: 85 µg

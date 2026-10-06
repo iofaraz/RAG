@@ -1,0 +1,36 @@
+Food: Chicken or turkey and potatoes with gravy
+Food ID: 2706528
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 7.47 g
+Carbohydrates: 9.04 g
+Fat: 6.35 g
+Fiber: 0.9 g
+Sugar: 0.57 g
+
+Fats:
+Saturated fat: 1.014 g
+Monounsaturated fat: 2.637 g
+Polyunsaturated fat: 2.065 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 428 mg
+Potassium: 239 mg
+Calcium: 11 mg
+Iron: 0.66 mg
+Magnesium: 15 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 6.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.02 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 0.09 µg
+Folate: 10 µg

@@ -1,0 +1,22 @@
+Food: Eggplant, raw
+Food ID: 2685577
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.851875 g
+Carbohydrates: 5.39933 g
+Fat: 0.12 g
+Fiber: 2.448 g
+
+Minerals:
+Sodium: 0.4425 mg
+Potassium: 222.1 mg
+Calcium: 11.06 mg
+Iron: 0 mg
+Magnesium: 13.54 mg
+Zinc: 0.1189 mg
+
+Vitamins:
+Vitamin C: 0.8 mg
+Folate: 20 µg

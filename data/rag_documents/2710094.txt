@@ -1,0 +1,36 @@
+Food: Peppers, sweet, pickled
+Food ID: 2710094
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 0.67 g
+Carbohydrates: 9.6 g
+Fat: 0.12 g
+Fiber: 0.9 g
+Sugar: 7.61 g
+
+Fats:
+Saturated fat: 0.048 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.09 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 944 mg
+Potassium: 156 mg
+Calcium: 7 mg
+Iron: 0.23 mg
+Magnesium: 8 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 69 µg
+Vitamin C: 85 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.205 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

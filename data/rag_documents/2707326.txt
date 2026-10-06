@@ -1,0 +1,36 @@
+Food: Egg sandwich on biscuit, with bacon
+Food ID: 2707326
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 11.88 g
+Carbohydrates: 21.8 g
+Fat: 19.23 g
+Fiber: 1.2 g
+Sugar: 2 g
+
+Fats:
+Saturated fat: 8.964 g
+Monounsaturated fat: 5.108 g
+Polyunsaturated fat: 3.087 g
+Cholesterol: 163 mg
+
+Minerals:
+Sodium: 774 mg
+Potassium: 170 mg
+Calcium: 54 mg
+Iron: 2.09 mg
+Magnesium: 15 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 86 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 1 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0.42 µg
+Folate: 61 µg

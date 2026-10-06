@@ -1,0 +1,32 @@
+Food: Fish, bass, fresh water, mixed species, raw
+Food ID: 174184
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 114 kcal
+Protein: 18.86 g
+Carbohydrates: 0 g
+Fat: 3.69 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.78 g
+Monounsaturated fat: 1.431 g
+Polyunsaturated fat: 1.062 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 356 mg
+Calcium: 80 mg
+Iron: 1.49 mg
+Magnesium: 30 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 2 mg
+Vitamin B6: 0.12 mg
+Vitamin B12: 2 µg
+Folate: 15 µg

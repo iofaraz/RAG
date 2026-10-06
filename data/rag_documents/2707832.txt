@@ -1,0 +1,36 @@
+Food: Muffin, chocolate chip
+Food ID: 2707832
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 402 kcal
+Protein: 5.77 g
+Carbohydrates: 55.4 g
+Fat: 19.04 g
+Fiber: 1.8 g
+Sugar: 32.92 g
+
+Fats:
+Saturated fat: 5.395 g
+Monounsaturated fat: 7.256 g
+Polyunsaturated fat: 5 g
+Cholesterol: 45 mg
+
+Minerals:
+Sodium: 306 mg
+Potassium: 175 mg
+Calcium: 146 mg
+Iron: 2.49 mg
+Magnesium: 33 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 2.41 mg
+Vitamin K: 13 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.16 µg
+Folate: 38 µg

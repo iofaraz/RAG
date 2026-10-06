@@ -1,0 +1,37 @@
+Food: Okra, cooked, boiled, drained, without salt
+Food ID: 169261
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 1.87 g
+Carbohydrates: 4.51 g
+Fat: 0.21 g
+Fiber: 2.5 g
+Sugar: 2.4 g
+
+Fats:
+Saturated fat: 0.045 g
+Monounsaturated fat: 0.028 g
+Polyunsaturated fat: 0.046 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 135 mg
+Calcium: 77 mg
+Iron: 0.28 mg
+Magnesium: 36 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 16.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 40 µg
+Vitamin B6: 0.187 mg
+Vitamin B12: 0 µg
+Folate: 46 µg

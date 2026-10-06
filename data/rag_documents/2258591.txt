@@ -1,0 +1,22 @@
+Food: Peppers, bell, orange, raw
+Food ID: 2258591
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.881875 g
+Carbohydrates: 6.70312 g
+Fat: 0.1556 g
+Fiber: 0.9674 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 200.8 mg
+Calcium: 4.899 mg
+Iron: 0.3652 mg
+Magnesium: 10.43 mg
+Zinc: 0.2422 mg
+
+Vitamins:
+Vitamin C: 158.3 mg
+Vitamin B6: 0.3324 mg

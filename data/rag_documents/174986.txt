@@ -1,0 +1,36 @@
+Food: Cream puff shell, prepared from recipe
+Food ID: 174986
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 360 kcal
+Protein: 9 g
+Carbohydrates: 22.8 g
+Fat: 25.9 g
+Fiber: 0.8 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 5.599 g
+Monounsaturated fat: 11.128 g
+Polyunsaturated fat: 7.38 g
+Cholesterol: 171 mg
+
+Minerals:
+Sodium: 483 mg
+Potassium: 97 mg
+Calcium: 36 mg
+Iron: 2.02 mg
+Magnesium: 12 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 288 µg
+Vitamin C: 0 mg
+Vitamin D: 1.4 µg
+Vitamin E: 2.85 mg
+Vitamin K: 24.5 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.39 µg
+Folate: 53 µg

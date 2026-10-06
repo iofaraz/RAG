@@ -1,0 +1,36 @@
+Food: Potato salad, made with Italian dressing
+Food ID: 2709549
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 1.44 g
+Carbohydrates: 17.86 g
+Fat: 3.56 g
+Fiber: 1.5 g
+Sugar: 2.59 g
+
+Fats:
+Saturated fat: 0.507 g
+Monounsaturated fat: 0.929 g
+Polyunsaturated fat: 1.803 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 225 mg
+Potassium: 282 mg
+Calcium: 11 mg
+Iron: 0.29 mg
+Magnesium: 17 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 6.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.224 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

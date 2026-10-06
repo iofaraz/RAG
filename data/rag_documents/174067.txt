@@ -1,0 +1,36 @@
+Food: Sauce, cocktail, ready-to-serve
+Food ID: 174067
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 128 kcal
+Protein: 1.36 g
+Carbohydrates: 28.22 g
+Fat: 1.05 g
+Fiber: 1.8 g
+Sugar: 11.83 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1262 mg
+Potassium: 309 mg
+Calcium: 26 mg
+Iron: 0.83 mg
+Magnesium: 17 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 11.6 mg
+Vitamin D: 0 µg
+Vitamin E: 1.08 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

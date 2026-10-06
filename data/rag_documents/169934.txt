@@ -1,0 +1,36 @@
+Food: Peaches, dried, sulfured, uncooked
+Food ID: 169934
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 3.61 g
+Carbohydrates: 61.33 g
+Fat: 0.76 g
+Fiber: 8.2 g
+Sugar: 41.74 g
+
+Fats:
+Saturated fat: 0.082 g
+Monounsaturated fat: 0.278 g
+Polyunsaturated fat: 0.367 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 996 mg
+Calcium: 28 mg
+Iron: 4.06 mg
+Magnesium: 42 mg
+Zinc: 0.57 mg
+
+Vitamins:
+Vitamin A: 108 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 15.7 µg
+Vitamin B6: 0.067 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

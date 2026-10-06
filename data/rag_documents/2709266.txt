@@ -1,0 +1,36 @@
+Food: Plum, canned
+Food ID: 2709266
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 0.52 g
+Carbohydrates: 13.54 g
+Fat: 0.23 g
+Fiber: 1 g
+Sugar: 12.43 g
+
+Fats:
+Saturated fat: 0.013 g
+Monounsaturated fat: 0.1 g
+Polyunsaturated fat: 0.033 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 106 mg
+Calcium: 5 mg
+Iron: 0.13 mg
+Magnesium: 5 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 5.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.2 mg
+Vitamin K: 4.8 µg
+Vitamin B6: 0.021 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

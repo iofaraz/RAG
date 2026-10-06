@@ -1,0 +1,31 @@
+Food: Pie crust, deep dish, frozen, unbaked, made with enriched flour
+Food ID: 167523
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 468 kcal
+Protein: 5.52 g
+Carbohydrates: 46.79 g
+Fat: 28.74 g
+Fiber: 1.4 g
+
+Fats:
+Saturated fat: 8.129 g
+Monounsaturated fat: 14.489 g
+Polyunsaturated fat: 3.53 g
+
+Minerals:
+Sodium: 353 mg
+Potassium: 91 mg
+Calcium: 20 mg
+Iron: 2.26 mg
+Magnesium: 15 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin E: 1.24 mg
+Vitamin K: 15 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0 µg
+Folate: 77 µg

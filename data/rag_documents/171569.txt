@@ -1,0 +1,31 @@
+Food: Gravy, turkey, dry
+Food ID: 171569
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 367 kcal
+Protein: 10.42 g
+Carbohydrates: 65.12 g
+Fat: 7.19 g
+
+Fats:
+Saturated fat: 1.975 g
+Monounsaturated fat: 2.575 g
+Polyunsaturated fat: 2.196 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 4392 mg
+Potassium: 428 mg
+Calcium: 146 mg
+Iron: 3.29 mg
+Magnesium: 44 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.204 mg
+Vitamin B12: 0.58 µg
+Folate: 82 µg

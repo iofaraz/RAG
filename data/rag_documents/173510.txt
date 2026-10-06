@@ -1,0 +1,36 @@
+Food: Babyfood, vegetable, butternut squash and corn
+Food ID: 173510
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 2 g
+Carbohydrates: 9.26 g
+Fat: 0.6 g
+Fiber: 2 g
+Sugar: 2.93 g
+
+Fats:
+Saturated fat: 0.095 g
+Monounsaturated fat: 0.166 g
+Polyunsaturated fat: 0.28 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 352 mg
+Calcium: 32 mg
+Iron: 0.4 mg
+Magnesium: 26 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 140 µg
+Vitamin C: 4.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

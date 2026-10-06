@@ -1,0 +1,36 @@
+Food: Steak sandwich or sub on white
+Food ID: 2706958
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 17.91 g
+Carbohydrates: 25.45 g
+Fat: 8.07 g
+Fiber: 1.2 g
+Sugar: 2.76 g
+
+Fats:
+Saturated fat: 2.977 g
+Monounsaturated fat: 3.185 g
+Polyunsaturated fat: 1.265 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 411 mg
+Potassium: 215 mg
+Calcium: 117 mg
+Iron: 3.02 mg
+Magnesium: 24 mg
+Zinc: 2.91 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.364 mg
+Vitamin B12: 0.99 µg
+Folate: 60 µg

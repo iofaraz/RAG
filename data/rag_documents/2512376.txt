@@ -1,0 +1,21 @@
+Food: Flour, barley
+Food ID: 2512376
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 8.72168 g
+Carbohydrates: 77.3983 g
+Fat: 2.45 g
+Fiber: 12.79 g
+
+Minerals:
+Sodium: 20.33 mg
+Potassium: 366.6 mg
+Calcium: 35.56 mg
+Iron: 3.301 mg
+Magnesium: 88.04 mg
+Zinc: 2.144 mg
+
+Vitamins:
+Vitamin B6: 0.1995 mg

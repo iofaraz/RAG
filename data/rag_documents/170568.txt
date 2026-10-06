@@ -1,0 +1,37 @@
+Food: Nuts, almonds, blanched
+Food ID: 170568
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 590 kcal
+Protein: 21.4 g
+Carbohydrates: 18.67 g
+Fat: 52.52 g
+Fiber: 9.9 g
+Sugar: 4.63 g
+
+Fats:
+Saturated fat: 3.953 g
+Monounsaturated fat: 33.415 g
+Polyunsaturated fat: 12.368 g
+Trans fat: 0.019 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 19 mg
+Potassium: 659 mg
+Calcium: 236 mg
+Iron: 3.28 mg
+Magnesium: 268 mg
+Zinc: 2.97 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 23.75 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0 µg
+Folate: 49 µg

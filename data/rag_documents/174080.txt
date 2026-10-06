@@ -1,0 +1,37 @@
+Food: Cookie, chocolate, with icing or coating
+Food ID: 174080
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 507 kcal
+Protein: 4.5 g
+Carbohydrates: 67.87 g
+Fat: 24.2 g
+Fiber: 2.3 g
+Sugar: 32 g
+
+Fats:
+Saturated fat: 16.5 g
+Monounsaturated fat: 2.6 g
+Polyunsaturated fat: 3.6 g
+Trans fat: 0.37 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 380 mg
+Potassium: 95 mg
+Calcium: 15 mg
+Iron: 3 mg
+Magnesium: 25 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.79 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.023 mg
+Vitamin B12: 0.02 µg
+Folate: 58 µg

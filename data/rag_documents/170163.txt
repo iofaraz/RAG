@@ -1,0 +1,33 @@
+Food: Nuts, cashew butter, plain, without salt added
+Food ID: 170163
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 587 kcal
+Protein: 17.56 g
+Carbohydrates: 27.57 g
+Fat: 49.41 g
+Fiber: 2 g
+
+Fats:
+Saturated fat: 9.763 g
+Monounsaturated fat: 29.122 g
+Polyunsaturated fat: 8.354 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 546 mg
+Calcium: 43 mg
+Iron: 5.03 mg
+Magnesium: 258 mg
+Zinc: 5.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.252 mg
+Vitamin B12: 0 µg
+Folate: 68 µg

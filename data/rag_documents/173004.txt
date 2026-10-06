@@ -1,0 +1,35 @@
+Food: Cereals, MALT-O-MEAL, chocolate, prepared with water, without salt
+Food ID: 173004
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 47 kcal
+Protein: 1.37 g
+Carbohydrates: 9.22 g
+Fat: 0.1 g
+Fiber: 0.4 g
+Sugar: 2.17 g
+
+Fats:
+Saturated fat: 0.03 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.02 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 32 mg
+Calcium: 49 mg
+Iron: 5.59 mg
+Magnesium: 4 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.27 mg
+Vitamin B12: 0 µg

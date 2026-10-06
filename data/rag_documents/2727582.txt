@@ -1,0 +1,20 @@
+Food: Tomatillos, dehusked, raw
+Food ID: 2727582
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.06438 g
+Fiber: 1.7 g
+
+Minerals:
+Sodium: 0.3113 mg
+Potassium: 239.1 mg
+Calcium: 7.141 mg
+Iron: 0.245 mg
+Magnesium: 13.51 mg
+Zinc: 0.1594 mg
+
+Vitamins:
+Vitamin C: 2.181 mg
+Folate: 16.39 µg

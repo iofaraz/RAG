@@ -1,0 +1,36 @@
+Food: Corned beef sandwich on white
+Food ID: 2706948
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 259 kcal
+Protein: 13.65 g
+Carbohydrates: 25.68 g
+Fat: 11.02 g
+Fiber: 1.2 g
+Sugar: 2.76 g
+
+Fats:
+Saturated fat: 3.485 g
+Monounsaturated fat: 4.822 g
+Polyunsaturated fat: 1.291 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 702 mg
+Potassium: 131 mg
+Calcium: 113 mg
+Iron: 2.64 mg
+Magnesium: 20 mg
+Zinc: 2.67 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0.79 µg
+Folate: 60 µg

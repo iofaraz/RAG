@@ -1,0 +1,36 @@
+Food: Crackers, oatmeal
+Food ID: 2708136
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 455 kcal
+Protein: 7.3 g
+Carbohydrates: 70.73 g
+Fat: 16.4 g
+Fiber: 6.9 g
+Sugar: 15.48 g
+
+Fats:
+Saturated fat: 3.21 g
+Monounsaturated fat: 3.47 g
+Polyunsaturated fat: 8.474 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 699 mg
+Potassium: 283 mg
+Calcium: 92 mg
+Iron: 2.64 mg
+Magnesium: 72 mg
+Zinc: 1.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.55 mg
+Vitamin K: 14.2 µg
+Vitamin B6: 0.244 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

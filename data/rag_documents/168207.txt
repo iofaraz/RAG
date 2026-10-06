@@ -1,0 +1,37 @@
+Food: Grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium
+Food ID: 168207
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 0.37 g
+Carbohydrates: 14.77 g
+Fat: 0.13 g
+Fiber: 0.2 g
+Sugar: 14.2 g
+
+Fats:
+Saturated fat: 0.025 g
+Monounsaturated fat: 0.003 g
+Polyunsaturated fat: 0.022 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 104 mg
+Calcium: 42 mg
+Iron: 0.25 mg
+Magnesium: 10 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 25 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

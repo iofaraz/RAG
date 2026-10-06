@@ -1,0 +1,36 @@
+Food: Pork, ham hocks
+Food ID: 2705900
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 268 kcal
+Protein: 14.64 g
+Carbohydrates: 1.09 g
+Fat: 22.79 g
+Fiber: 0 g
+Sugar: 1.09 g
+
+Fats:
+Saturated fat: 8.113 g
+Monounsaturated fat: 10.034 g
+Polyunsaturated fat: 3.822 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 1040 mg
+Potassium: 257 mg
+Calcium: 13 mg
+Iron: 0.71 mg
+Magnesium: 16 mg
+Zinc: 1.49 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 0 mg
+Vitamin D: 1 µg
+Vitamin E: 0.14 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.332 mg
+Vitamin B12: 0.44 µg
+Folate: 1 µg

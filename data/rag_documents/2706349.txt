@@ -1,0 +1,36 @@
+Food: Lobster
+Food ID: 2706349
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 20.91 g
+Carbohydrates: 0 g
+Fat: 0.95 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.229 g
+Monounsaturated fat: 0.278 g
+Polyunsaturated fat: 0.375 g
+Cholesterol: 161 mg
+
+Minerals:
+Sodium: 535 mg
+Potassium: 253 mg
+Calcium: 106 mg
+Iron: 0.33 mg
+Magnesium: 48 mg
+Zinc: 4.47 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.118 mg
+Vitamin B12: 1.34 µg
+Folate: 9 µg

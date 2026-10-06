@@ -1,0 +1,35 @@
+Food: SUBWAY, tuna sub on white bread with lettuce and tomato
+Food ID: 170316
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 221 kcal
+Protein: 12.33 g
+Carbohydrates: 15.95 g
+Fat: 12.04 g
+Fiber: 0.7 g
+Sugar: 1.93 g
+
+Fats:
+Saturated fat: 2.192 g
+Monounsaturated fat: 2.835 g
+Polyunsaturated fat: 6.897 g
+Trans fat: 0.046 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 177 mg
+Calcium: 136 mg
+Iron: 1.57 mg
+Magnesium: 22 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin E: 1.57 mg
+Vitamin B6: 0.271 mg
+Vitamin B12: 1.06 µg
+Folate: 51 µg

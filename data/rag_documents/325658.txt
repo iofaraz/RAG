@@ -1,0 +1,33 @@
+Food: Sausage, Italian, pork, mild, cooked, pan-fried
+Food ID: 325658
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 322 kcal
+Protein: 18.2 g
+Carbohydrates: 2.15 g
+Fat: 26.2 g
+
+Fats:
+Saturated fat: 9.15 g
+Monounsaturated fat: 11.6 g
+Polyunsaturated fat: 4.96 g
+Trans fat: 0.1 g
+Cholesterol: 80 mg
+
+Minerals:
+Sodium: 766 mg
+Potassium: 310 mg
+Calcium: 12 mg
+Iron: 1.29 mg
+Magnesium: 18.6 mg
+Zinc: 2.41 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin E: 0.8 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.343 mg
+Vitamin B12: 1.06 µg
+Folate: 0 µg

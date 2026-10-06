@@ -1,0 +1,31 @@
+Food: Cranberry sauce, whole, canned, OCEAN SPRAY
+Food ID: 167803
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 0.75 g
+Carbohydrates: 40.4 g
+Fat: 0.05 g
+Fiber: 1.2 g
+Sugar: 31.3 g
+
+Fats:
+Saturated fat: 0.007 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.034 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 21 mg
+Calcium: 3 mg
+Iron: 0.2 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 1 mg

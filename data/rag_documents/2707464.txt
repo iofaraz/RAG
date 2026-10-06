@@ -1,0 +1,36 @@
+Food: Soup, mulligatawany
+Food ID: 2707464
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 1.68 g
+Carbohydrates: 7 g
+Fat: 1.67 g
+Fiber: 1.8 g
+Sugar: 2.27 g
+
+Fats:
+Saturated fat: 0.432 g
+Monounsaturated fat: 0.547 g
+Polyunsaturated fat: 0.527 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 259 mg
+Potassium: 187 mg
+Calcium: 14 mg
+Iron: 0.59 mg
+Magnesium: 14 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

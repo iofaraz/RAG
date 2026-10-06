@@ -1,0 +1,36 @@
+Food: Hot chocolate / cocoa, dry mix, made with water, with whipped cream
+Food ID: 2705487
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 0.94 g
+Carbohydrates: 11.2 g
+Fat: 1.83 g
+Fiber: 0.5 g
+Sugar: 8.81 g
+
+Fats:
+Saturated fat: 1.063 g
+Monounsaturated fat: 0.443 g
+Polyunsaturated fat: 0.073 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 96 mg
+Calcium: 22 mg
+Iron: 0.15 mg
+Magnesium: 12 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 0.04 µg
+Folate: 1 µg

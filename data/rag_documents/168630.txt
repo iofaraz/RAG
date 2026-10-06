@@ -1,0 +1,32 @@
+Food: Beef, variety meats and by-products, mechanically separated beef, raw
+Food ID: 168630
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 14.97 g
+Carbohydrates: 0 g
+Fat: 23.52 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.78 g
+Monounsaturated fat: 8.44 g
+Polyunsaturated fat: 0.76 g
+Cholesterol: 209 mg
+
+Minerals:
+Sodium: 57 mg
+Potassium: 277 mg
+Calcium: 485 mg
+Iron: 5.67 mg
+Magnesium: 17 mg
+Zinc: 3.58 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.29 mg
+Vitamin B12: 2.56 µg
+Folate: 5 µg

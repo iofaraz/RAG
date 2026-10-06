@@ -1,0 +1,36 @@
+Food: Beef and vegetables, Hawaiian style
+Food ID: 2706746
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 4.79 g
+Carbohydrates: 14.24 g
+Fat: 2.24 g
+Fiber: 1.8 g
+Sugar: 5.6 g
+
+Fats:
+Saturated fat: 0.711 g
+Monounsaturated fat: 0.947 g
+Polyunsaturated fat: 0.402 g
+Cholesterol: 10 mg
+
+Minerals:
+Sodium: 679 mg
+Potassium: 259 mg
+Calcium: 47 mg
+Iron: 1.1 mg
+Magnesium: 39 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 95 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.163 mg
+Vitamin B12: 0.36 µg
+Folate: 35 µg

@@ -1,0 +1,36 @@
+Food: Fish, sardine, Pacific, canned in tomato sauce, drained solids with bone
+Food ID: 175140
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 20.86 g
+Carbohydrates: 0.54 g
+Fat: 10.45 g
+Fiber: 0.1 g
+Sugar: 0.43 g
+
+Fats:
+Saturated fat: 2.684 g
+Monounsaturated fat: 4.818 g
+Polyunsaturated fat: 2.111 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 341 mg
+Calcium: 240 mg
+Iron: 2.3 mg
+Magnesium: 34 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 34 µg
+Vitamin C: 1 mg
+Vitamin D: 4.8 µg
+Vitamin E: 1.38 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.123 mg
+Vitamin B12: 9 µg
+Folate: 24 µg

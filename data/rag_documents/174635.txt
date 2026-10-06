@@ -1,0 +1,33 @@
+Food: Cereals ready-to-eat, SUN COUNTRY, KRETSCHMER Toasted Wheat Bran
+Food ID: 174635
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 200 kcal
+Protein: 17.56 g
+Carbohydrates: 59.51 g
+Fat: 5.16 g
+Fiber: 41.3 g
+
+Fats:
+Saturated fat: 0.77 g
+Monounsaturated fat: 0.8 g
+Polyunsaturated fat: 2.72 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 1284 mg
+Calcium: 66 mg
+Iron: 13.88 mg
+Magnesium: 606 mg
+Zinc: 11.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.68 mg
+Vitamin B12: 0.23 µg
+Folate: 193 µg

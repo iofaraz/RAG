@@ -1,0 +1,36 @@
+Food: Ham stroganoff
+Food ID: 2706402
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 131 kcal
+Protein: 7.62 g
+Carbohydrates: 5.19 g
+Fat: 8.85 g
+Fiber: 0.7 g
+Sugar: 1.9 g
+
+Fats:
+Saturated fat: 3.558 g
+Monounsaturated fat: 2.539 g
+Polyunsaturated fat: 1.818 g
+Cholesterol: 28 mg
+
+Minerals:
+Sodium: 703 mg
+Potassium: 175 mg
+Calcium: 35 mg
+Iron: 0.43 mg
+Magnesium: 12 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.59 mg
+Vitamin K: 7.9 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0.17 µg
+Folate: 6 µg

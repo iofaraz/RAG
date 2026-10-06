@@ -1,0 +1,37 @@
+Food: Spices, marjoram, dried
+Food ID: 170928
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 12.66 g
+Carbohydrates: 60.56 g
+Fat: 7.04 g
+Fiber: 40.3 g
+Sugar: 4.09 g
+
+Fats:
+Saturated fat: 0.529 g
+Monounsaturated fat: 0.94 g
+Polyunsaturated fat: 4.405 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 1522 mg
+Calcium: 1990 mg
+Iron: 82.71 mg
+Magnesium: 346 mg
+Zinc: 3.6 mg
+
+Vitamins:
+Vitamin A: 403 µg
+Vitamin C: 51.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.69 mg
+Vitamin K: 621.7 µg
+Vitamin B6: 1.19 mg
+Vitamin B12: 0 µg
+Folate: 274 µg

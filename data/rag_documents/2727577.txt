@@ -1,0 +1,20 @@
+Food: Pawpaw, peeled, seeded, raw
+Food ID: 2727577
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.15187 g
+Fiber: 3.3 g
+
+Minerals:
+Sodium: 0.3514 mg
+Potassium: 220.9 mg
+Calcium: 9.91 mg
+Iron: 0.07471 mg
+Magnesium: 10.61 mg
+Zinc: 0.08486 mg
+
+Vitamins:
+Vitamin C: 27.6 mg
+Folate: 116.1 µg

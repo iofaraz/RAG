@@ -1,0 +1,32 @@
+Food: Raspberries, puree, seedless
+Food ID: 167808
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 1.02 g
+Carbohydrates: 7.99 g
+Fat: 0.87 g
+Fiber: 0.9 g
+Sugar: 6.04 g
+
+Fats:
+Saturated fat: 0.064 g
+Monounsaturated fat: 0.016 g
+Polyunsaturated fat: 0.09 g
+
+Minerals:
+Sodium: 4 mg
+Potassium: 169 mg
+Calcium: 14 mg
+Iron: 1.08 mg
+Magnesium: 15 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 6.4 mg
+Vitamin E: 1.54 mg
+Vitamin B6: 0.06 mg
+Folate: 29 µg

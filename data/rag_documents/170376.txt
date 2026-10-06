@@ -1,0 +1,37 @@
+Food: Beet greens, cooked, boiled, drained, without salt
+Food ID: 170376
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 27 kcal
+Protein: 2.57 g
+Carbohydrates: 5.46 g
+Fat: 0.2 g
+Fiber: 2.9 g
+Sugar: 0.6 g
+
+Fats:
+Saturated fat: 0.031 g
+Monounsaturated fat: 0.038 g
+Polyunsaturated fat: 0.07 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 241 mg
+Potassium: 909 mg
+Calcium: 114 mg
+Iron: 1.9 mg
+Magnesium: 68 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 383 µg
+Vitamin C: 24.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.81 mg
+Vitamin K: 484 µg
+Vitamin B6: 0.132 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

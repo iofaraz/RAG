@@ -1,0 +1,32 @@
+Food: Pie, coconut cream, prepared from mix, no-bake type
+Food ID: 175017
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 2.8 g
+Carbohydrates: 28.5 g
+Fat: 17.6 g
+Fiber: 0.5 g
+
+Fats:
+Saturated fat: 8.934 g
+Monounsaturated fat: 6.554 g
+Polyunsaturated fat: 1.217 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 329 mg
+Potassium: 141 mg
+Calcium: 72 mg
+Iron: 0.4 mg
+Magnesium: 17 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 95 µg
+Vitamin C: 0.6 mg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.21 µg
+Folate: 15 µg

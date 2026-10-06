@@ -1,0 +1,36 @@
+Food: Clams, raw
+Food ID: 2706338
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 14.67 g
+Carbohydrates: 3.57 g
+Fat: 0.96 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.187 g
+Monounsaturated fat: 0.12 g
+Polyunsaturated fat: 0.192 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 56 mg
+Potassium: 46 mg
+Calcium: 39 mg
+Iron: 1.62 mg
+Magnesium: 19 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.68 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 11.28 µg
+Folate: 5 µg

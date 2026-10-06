@@ -1,0 +1,36 @@
+Food: Sauce, homemade, white, medium
+Food ID: 174525
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 3.84 g
+Carbohydrates: 9.17 g
+Fat: 10.63 g
+Fiber: 0.2 g
+Sugar: 4.38 g
+
+Fats:
+Saturated fat: 2.854 g
+Monounsaturated fat: 4.42 g
+Polyunsaturated fat: 2.862 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 354 mg
+Potassium: 156 mg
+Calcium: 118 mg
+Iron: 0.33 mg
+Magnesium: 14 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 104 µg
+Vitamin C: 0.8 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.04 mg
+Vitamin B12: 0.28 µg
+Folate: 8 µg

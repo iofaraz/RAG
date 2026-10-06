@@ -1,0 +1,36 @@
+Food: TACO BELL, Bean Burrito
+Food ID: 170734
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 209 kcal
+Protein: 7.35 g
+Carbohydrates: 31.23 g
+Fat: 6.05 g
+Fiber: 4.2 g
+Sugar: 1.73 g
+
+Fats:
+Saturated fat: 2.309 g
+Monounsaturated fat: 1.258 g
+Polyunsaturated fat: 2.229 g
+Trans fat: 0.106 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 563 mg
+Potassium: 261 mg
+Calcium: 124 mg
+Iron: 2.37 mg
+Magnesium: 34 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0.4 mg
+Vitamin E: 0.5 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.16 µg
+Folate: 50 µg

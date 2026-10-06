@@ -1,0 +1,36 @@
+Food: Coffee, Latte, nonfat, flavored
+Food ID: 2710390
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 42 kcal
+Protein: 2.78 g
+Carbohydrates: 7.51 g
+Fat: 0.1 g
+Fiber: 0 g
+Sugar: 7.35 g
+
+Fats:
+Saturated fat: 0.054 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.02 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 35 mg
+Potassium: 153 mg
+Calcium: 106 mg
+Iron: 0.02 mg
+Magnesium: 23 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 51 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.37 µg
+Folate: 2 µg

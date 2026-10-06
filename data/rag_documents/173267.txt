@@ -1,0 +1,36 @@
+Food: Fast foods, biscuit, with egg and ham
+Food ID: 173267
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 233 kcal
+Protein: 10.64 g
+Carbohydrates: 16.37 g
+Fat: 14.08 g
+Fiber: 0.4 g
+Sugar: 2.2 g
+
+Fats:
+Saturated fat: 3.08 g
+Monounsaturated fat: 5.71 g
+Polyunsaturated fat: 4.01 g
+Cholesterol: 156 mg
+
+Minerals:
+Sodium: 1093 mg
+Potassium: 166 mg
+Calcium: 115 mg
+Iron: 2.37 mg
+Magnesium: 16 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 1.1 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.62 µg
+Folate: 34 µg

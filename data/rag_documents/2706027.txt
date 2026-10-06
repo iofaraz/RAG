@@ -1,0 +1,36 @@
+Food: Chicken thigh, NS as to cooking method, skin eaten
+Food ID: 2706027
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 22.51 g
+Carbohydrates: 0.12 g
+Fat: 15.08 g
+Fiber: 0 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 3.927 g
+Monounsaturated fat: 6.446 g
+Polyunsaturated fat: 2.038 g
+Cholesterol: 127 mg
+
+Minerals:
+Sodium: 335 mg
+Potassium: 255 mg
+Calcium: 16 mg
+Iron: 0.95 mg
+Magnesium: 21 mg
+Zinc: 1.78 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.191 mg
+Vitamin B12: 0.47 µg
+Folate: 8 µg

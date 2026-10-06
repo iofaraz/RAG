@@ -1,0 +1,36 @@
+Food: Chiles rellenos, cheese-filled
+Food ID: 2710043
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 7.84 g
+Carbohydrates: 10.38 g
+Fat: 17.2 g
+Fiber: 0.7 g
+Sugar: 1.5 g
+
+Fats:
+Saturated fat: 6.103 g
+Monounsaturated fat: 5.426 g
+Polyunsaturated fat: 3.651 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 445 mg
+Potassium: 119 mg
+Calcium: 203 mg
+Iron: 0.67 mg
+Magnesium: 15 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 71 µg
+Vitamin C: 39.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.92 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 0.36 µg
+Folate: 28 µg

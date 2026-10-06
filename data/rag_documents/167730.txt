@@ -1,0 +1,36 @@
+Food: Milk, imitation, non-soy
+Food ID: 167730
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 1.6 g
+Carbohydrates: 5.3 g
+Fat: 2 g
+Fiber: 0 g
+Sugar: 5.3 g
+
+Fats:
+Saturated fat: 0.254 g
+Monounsaturated fat: 0.484 g
+Polyunsaturated fat: 1.174 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 55 mg
+Potassium: 150 mg
+Calcium: 82 mg
+Iron: 0.1 mg
+Magnesium: 1 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

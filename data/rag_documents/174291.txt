@@ -1,0 +1,33 @@
+Food: Tofu, hard, prepared with nigari
+Food ID: 174291
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 145 kcal
+Protein: 12.68 g
+Carbohydrates: 4.39 g
+Fat: 9.99 g
+Fiber: 0.6 g
+
+Fats:
+Saturated fat: 1.445 g
+Monounsaturated fat: 2.205 g
+Polyunsaturated fat: 5.638 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 146 mg
+Calcium: 345 mg
+Iron: 2.75 mg
+Magnesium: 53 mg
+Zinc: 1.66 mg
+
+Vitamins:
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.039 mg
+Vitamin B12: 0 µg
+Folate: 22 µg

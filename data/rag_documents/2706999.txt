@@ -1,0 +1,36 @@
+Food: Barbecue chicken sandwich, on wheat bun
+Food ID: 2706999
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 199 kcal
+Protein: 16.47 g
+Carbohydrates: 23.3 g
+Fat: 4.42 g
+Fiber: 2 g
+Sugar: 8.38 g
+
+Fats:
+Saturated fat: 0.986 g
+Monounsaturated fat: 1.497 g
+Polyunsaturated fat: 0.979 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 513 mg
+Potassium: 239 mg
+Calcium: 67 mg
+Iron: 1.52 mg
+Magnesium: 32 mg
+Zinc: 1.24 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.47 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.183 mg
+Vitamin B12: 0.17 µg
+Folate: 29 µg

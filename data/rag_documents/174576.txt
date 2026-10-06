@@ -1,0 +1,36 @@
+Food: Pickle and pimiento loaf, pork
+Food ID: 174576
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 225 kcal
+Protein: 11.23 g
+Carbohydrates: 8.46 g
+Fat: 15.95 g
+Fiber: 1.5 g
+Sugar: 8.46 g
+
+Fats:
+Saturated fat: 5.287 g
+Monounsaturated fat: 7.06 g
+Polyunsaturated fat: 2.804 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 1040 mg
+Potassium: 371 mg
+Calcium: 109 mg
+Iron: 1.33 mg
+Magnesium: 34 mg
+Zinc: 1.68 mg
+
+Vitamins:
+Vitamin A: 78 µg
+Vitamin C: 7.8 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.4 mg
+Vitamin K: 5.1 µg
+Vitamin B6: 0.418 mg
+Vitamin B12: 0.54 µg
+Folate: 37 µg

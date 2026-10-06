@@ -1,0 +1,33 @@
+Food: Veal, sirloin, separable lean and fat, cooked, braised
+Food ID: 175287
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 252 kcal
+Protein: 31.26 g
+Carbohydrates: 0 g
+Fat: 13.14 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 5.18 g
+Monounsaturated fat: 5.15 g
+Polyunsaturated fat: 0.87 g
+Cholesterol: 108 mg
+
+Minerals:
+Sodium: 79 mg
+Potassium: 321 mg
+Calcium: 17 mg
+Iron: 1.2 mg
+Magnesium: 27 mg
+Zinc: 4.32 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.41 mg
+Vitamin B6: 0.35 mg
+Vitamin B12: 1.48 µg
+Folate: 15 µg

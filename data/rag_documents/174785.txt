@@ -1,0 +1,37 @@
+Food: Snacks, popcorn, microwave, regular (butter) flavor, made with partially hydrogenated oil
+Food ID: 174785
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 557 kcal
+Protein: 7.5 g
+Carbohydrates: 55.16 g
+Fat: 34.02 g
+Fiber: 10 g
+Sugar: 0.55 g
+
+Fats:
+Saturated fat: 7.216 g
+Monounsaturated fat: 21.143 g
+Polyunsaturated fat: 2.392 g
+Trans fat: 9.802 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 764 mg
+Potassium: 240 mg
+Calcium: 20 mg
+Iron: 1.85 mg
+Magnesium: 94 mg
+Zinc: 2.16 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 2.62 mg
+Vitamin K: 3.5 µg
+Vitamin B6: 0.282 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

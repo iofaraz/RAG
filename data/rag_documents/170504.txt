@@ -1,0 +1,37 @@
+Food: Mustard greens, frozen, cooked, boiled, drained, with salt
+Food ID: 170504
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 2.27 g
+Carbohydrates: 3.11 g
+Fat: 0.25 g
+Fiber: 2.8 g
+Sugar: 0.32 g
+
+Fats:
+Saturated fat: 0.013 g
+Monounsaturated fat: 0.113 g
+Polyunsaturated fat: 0.047 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 261 mg
+Potassium: 139 mg
+Calcium: 101 mg
+Iron: 1.12 mg
+Magnesium: 13 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 354 µg
+Vitamin C: 13.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1.35 mg
+Vitamin K: 335.1 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0 µg
+Folate: 70 µg

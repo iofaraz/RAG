@@ -1,0 +1,36 @@
+Food: Yogurt, liquid
+Food ID: 2705442
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 3.65 g
+Carbohydrates: 12.55 g
+Fat: 1.07 g
+Fiber: 0.1 g
+Sugar: 10.27 g
+
+Fats:
+Saturated fat: 0.689 g
+Monounsaturated fat: 0.298 g
+Polyunsaturated fat: 0.03 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 170 mg
+Calcium: 129 mg
+Iron: 0.11 mg
+Magnesium: 12 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 1.5 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0.39 µg
+Folate: 9 µg

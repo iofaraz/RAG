@@ -1,0 +1,37 @@
+Food: Carrots, canned, no salt added, solids and liquids
+Food ID: 169340
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 23 kcal
+Protein: 0.59 g
+Carbohydrates: 5.36 g
+Fat: 0.14 g
+Fiber: 1.8 g
+Sugar: 2.46 g
+
+Fats:
+Saturated fat: 0.024 g
+Monounsaturated fat: 0.007 g
+Polyunsaturated fat: 0.068 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 34 mg
+Potassium: 158 mg
+Calcium: 31 mg
+Iron: 0.52 mg
+Magnesium: 9 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 558 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.73 mg
+Vitamin K: 9.8 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

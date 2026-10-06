@@ -1,0 +1,23 @@
+Food: Octopus (Alaska Native)
+Food ID: 168019
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 12.3 g
+Carbohydrates: 0 g
+Fat: 0.8 g
+
+Fats:
+Saturated fat: 0.2 g
+Polyunsaturated fat: 0.2 g
+Cholesterol: 41 mg
+
+Minerals:
+Calcium: 35 mg
+Iron: 4.9 mg
+Zinc: 1.43 mg
+
+Vitamins:
+Vitamin C: 0 mg

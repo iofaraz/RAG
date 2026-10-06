@@ -1,0 +1,36 @@
+Food: Cake or cupcake, lemon
+Food ID: 2707879
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 339 kcal
+Protein: 2.42 g
+Carbohydrates: 51.9 g
+Fat: 13.53 g
+Fiber: 0.4 g
+Sugar: 38.23 g
+
+Fats:
+Saturated fat: 2.669 g
+Monounsaturated fat: 4.627 g
+Polyunsaturated fat: 5.34 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 304 mg
+Potassium: 47 mg
+Calcium: 70 mg
+Iron: 0.87 mg
+Magnesium: 5 mg
+Zinc: 0.24 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 1.9 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.94 mg
+Vitamin K: 11.1 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.12 µg
+Folate: 24 µg

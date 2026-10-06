@@ -1,0 +1,36 @@
+Food: Meatball sandwich or sub
+Food ID: 2706945
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 11.3 g
+Carbohydrates: 21.31 g
+Fat: 8.23 g
+Fiber: 1.2 g
+Sugar: 4.65 g
+
+Fats:
+Saturated fat: 3.423 g
+Monounsaturated fat: 2.483 g
+Polyunsaturated fat: 1.019 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 511 mg
+Potassium: 221 mg
+Calcium: 178 mg
+Iron: 2.01 mg
+Magnesium: 21 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.81 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.156 mg
+Vitamin B12: 0.76 µg
+Folate: 42 µg

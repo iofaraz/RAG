@@ -1,0 +1,37 @@
+Food: Cake, snack cakes, not chocolate, with icing or filling, low-fat, with added fiber
+Food ID: 171839
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 412 kcal
+Protein: 3.71 g
+Carbohydrates: 74.3 g
+Fat: 11.14 g
+Fiber: 14.9 g
+Sugar: 29.71 g
+
+Fats:
+Saturated fat: 3.713 g
+Monounsaturated fat: 3.406 g
+Polyunsaturated fat: 3.179 g
+Trans fat: 0 g
+Cholesterol: 93 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 73 mg
+Calcium: 223 mg
+Iron: 1.34 mg
+Magnesium: 11 mg
+Zinc: 0.49 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.06 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.22 µg
+Folate: 75 µg

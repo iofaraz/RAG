@@ -1,0 +1,36 @@
+Food: Seaweed, raw
+Food ID: 2709805
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 3.51 g
+Carbohydrates: 7.94 g
+Fat: 0.49 g
+Fiber: 0.7 g
+Sugar: 0.58 g
+
+Fats:
+Saturated fat: 0.146 g
+Monounsaturated fat: 0.06 g
+Polyunsaturated fat: 0.125 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 384 mg
+Potassium: 165 mg
+Calcium: 129 mg
+Iron: 2.28 mg
+Magnesium: 77 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 95 µg
+Vitamin C: 15 mg
+Vitamin D: 0 µg
+Vitamin E: 0.96 mg
+Vitamin K: 25.1 µg
+Vitamin B6: 0.054 mg
+Vitamin B12: 0 µg
+Folate: 174 µg

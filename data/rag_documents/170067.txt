@@ -1,0 +1,37 @@
+Food: Waterchestnuts, chinese, canned, solids and liquids
+Food ID: 170067
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 50 kcal
+Protein: 0.88 g
+Carbohydrates: 12.3 g
+Fat: 0.06 g
+Fiber: 2.5 g
+Sugar: 2.46 g
+
+Fats:
+Saturated fat: 0.016 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.026 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 8 mg
+Potassium: 118 mg
+Calcium: 4 mg
+Iron: 0.87 mg
+Magnesium: 5 mg
+Zinc: 0.38 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.5 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

@@ -1,0 +1,36 @@
+Food: French or Catalina dressing, light
+Food ID: 2710218
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 222 kcal
+Protein: 0.58 g
+Carbohydrates: 31.22 g
+Fat: 11.52 g
+Fiber: 1.5 g
+Sugar: 16.86 g
+
+Fats:
+Saturated fat: 0.842 g
+Monounsaturated fat: 4.518 g
+Polyunsaturated fat: 3.852 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 838 mg
+Potassium: 107 mg
+Calcium: 11 mg
+Iron: 0.73 mg
+Magnesium: 8 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0 µg
+Vitamin E: 1 mg
+Vitamin K: 17.8 µg
+Vitamin B6: 0.055 mg
+Vitamin B12: 0 µg
+Folate: 2 µg

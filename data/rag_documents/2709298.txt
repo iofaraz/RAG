@@ -1,0 +1,36 @@
+Food: Fruit salad, excluding citrus fruits, with nondairy whipped topping
+Food ID: 2709298
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 1.93 g
+Carbohydrates: 17.28 g
+Fat: 8.67 g
+Fiber: 1.7 g
+Sugar: 13.09 g
+
+Fats:
+Saturated fat: 2.303 g
+Monounsaturated fat: 1.038 g
+Polyunsaturated fat: 4.692 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 205 mg
+Calcium: 16 mg
+Iron: 0.28 mg
+Magnesium: 25 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 19.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.159 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

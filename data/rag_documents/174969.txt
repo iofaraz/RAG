@@ -1,0 +1,31 @@
+Food: Cookies, peanut butter sandwich, special dietary
+Food ID: 174969
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 535 kcal
+Protein: 10 g
+Carbohydrates: 50.8 g
+Fat: 34 g
+
+Fats:
+Saturated fat: 4.937 g
+Monounsaturated fat: 15.391 g
+Polyunsaturated fat: 12.026 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 412 mg
+Potassium: 294 mg
+Calcium: 43 mg
+Iron: 2.55 mg
+Magnesium: 51 mg
+Zinc: 1.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.01 µg
+Folate: 54 µg

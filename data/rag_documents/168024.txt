@@ -1,0 +1,14 @@
+Food: Fish, salmon, king, chinook, kippered, canned (Alaska Native)
+Food ID: 168024
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 266 kcal
+Protein: 30.7 g
+Carbohydrates: 0 g
+Fat: 15.9 g
+
+Minerals:
+Calcium: 38 mg
+Iron: 1.7 mg

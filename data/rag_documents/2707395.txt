@@ -1,0 +1,36 @@
+Food: Black bean salad
+Food ID: 2707395
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 94 kcal
+Protein: 3.08 g
+Carbohydrates: 12.61 g
+Fat: 3.85 g
+Fiber: 3.4 g
+Sugar: 3.53 g
+
+Fats:
+Saturated fat: 0.567 g
+Monounsaturated fat: 1.011 g
+Polyunsaturated fat: 1.927 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 211 mg
+Calcium: 20 mg
+Iron: 0.9 mg
+Magnesium: 20 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 4.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.71 mg
+Vitamin K: 11.4 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

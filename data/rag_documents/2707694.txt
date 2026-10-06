@@ -1,0 +1,36 @@
+Food: Breadsticks, soft, frozen
+Food ID: 2707694
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 313 kcal
+Protein: 11.09 g
+Carbohydrates: 46.37 g
+Fat: 9.16 g
+Fiber: 2.4 g
+Sugar: 2.8 g
+
+Fats:
+Saturated fat: 2.108 g
+Monounsaturated fat: 1.954 g
+Polyunsaturated fat: 4.444 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 503 mg
+Potassium: 126 mg
+Calcium: 137 mg
+Iron: 4.13 mg
+Magnesium: 24 mg
+Zinc: 0.96 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.62 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.08 µg
+Folate: 128 µg

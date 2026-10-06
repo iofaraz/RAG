@@ -1,0 +1,29 @@
+Food: Sesame butter, creamy
+Food ID: 2262073
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 19.7054 g
+Carbohydrates: 14.179 g
+Fat: 62.4 g
+Fiber: 8.372 g
+
+Fats:
+Saturated fat: 8.966 g
+Monounsaturated fat: 22.57 g
+Polyunsaturated fat: 26.37 g
+
+Minerals:
+Sodium: 63.63 mg
+Potassium: 407.7 mg
+Calcium: 115.8 mg
+Iron: 7.003 mg
+Magnesium: 356.8 mg
+Zinc: 6.039 mg
+
+Vitamins:
+Vitamin E: 0 mg
+Vitamin K: 1.713 µg
+Vitamin B6: 0.5953 mg
+Folate: 108.4 µg

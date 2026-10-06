@@ -1,0 +1,36 @@
+Food: Broccoli slaw salad
+Food ID: 2709813
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 1.97 g
+Carbohydrates: 10.41 g
+Fat: 8.11 g
+Fiber: 1.9 g
+Sugar: 6.32 g
+
+Fats:
+Saturated fat: 1.245 g
+Monounsaturated fat: 1.694 g
+Polyunsaturated fat: 4.426 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 295 mg
+Potassium: 233 mg
+Calcium: 35 mg
+Iron: 0.54 mg
+Magnesium: 16 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 59.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 81.6 µg
+Vitamin B6: 0.142 mg
+Vitamin B12: 0.02 µg
+Folate: 47 µg

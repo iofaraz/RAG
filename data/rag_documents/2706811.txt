@@ -1,0 +1,36 @@
+Food: Chicken or turkey garden salad, chicken and/or turkey, other vegetables excluding tomato and carrots, no dressing
+Food ID: 2706811
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 66 kcal
+Protein: 10.85 g
+Carbohydrates: 2.62 g
+Fat: 1.41 g
+Fiber: 0.8 g
+Sugar: 0.99 g
+
+Fats:
+Saturated fat: 0.335 g
+Monounsaturated fat: 0.526 g
+Polyunsaturated fat: 0.238 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 140 mg
+Potassium: 277 mg
+Calcium: 25 mg
+Iron: 0.37 mg
+Magnesium: 22 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 115 µg
+Vitamin C: 10.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 61.7 µg
+Vitamin B6: 0.174 mg
+Vitamin B12: 0.1 µg
+Folate: 30 µg

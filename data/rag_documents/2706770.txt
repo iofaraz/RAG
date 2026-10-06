@@ -1,0 +1,36 @@
+Food: Pork, tofu, and vegetables, excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce
+Food ID: 2706770
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 7.21 g
+Carbohydrates: 4.45 g
+Fat: 8.05 g
+Fiber: 1 g
+Sugar: 1.66 g
+
+Fats:
+Saturated fat: 1.435 g
+Monounsaturated fat: 3.233 g
+Polyunsaturated fat: 2.799 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 232 mg
+Potassium: 227 mg
+Calcium: 44 mg
+Iron: 0.76 mg
+Magnesium: 20 mg
+Zinc: 0.7 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 12.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.23 mg
+Vitamin K: 21.2 µg
+Vitamin B6: 0.188 mg
+Vitamin B12: 0.12 µg
+Folate: 22 µg

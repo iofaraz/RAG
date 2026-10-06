@@ -1,0 +1,36 @@
+Food: Cake, pound
+Food ID: 2707882
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 5 g
+Carbohydrates: 53.64 g
+Fat: 13.96 g
+Fiber: 0.6 g
+Sugar: 33.36 g
+
+Fats:
+Saturated fat: 4.811 g
+Monounsaturated fat: 3.02 g
+Polyunsaturated fat: 3.419 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 377 mg
+Potassium: 149 mg
+Calcium: 47 mg
+Iron: 1.48 mg
+Magnesium: 8 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 70 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.65 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0.36 µg
+Folate: 42 µg

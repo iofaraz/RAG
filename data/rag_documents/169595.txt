@@ -1,0 +1,35 @@
+Food: Desserts, egg custard, baked, prepared-from-recipe
+Food ID: 169595
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 104 kcal
+Protein: 5.02 g
+Carbohydrates: 11 g
+Fat: 4.58 g
+Fiber: 0 g
+Sugar: 11 g
+
+Fats:
+Saturated fat: 2.164 g
+Monounsaturated fat: 1.379 g
+Polyunsaturated fat: 0.41 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 148 mg
+Calcium: 107 mg
+Iron: 0.35 mg
+Magnesium: 11 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 49 µg
+Vitamin C: 0 mg
+Vitamin E: 0.22 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.39 µg
+Folate: 10 µg

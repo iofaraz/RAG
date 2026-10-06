@@ -1,0 +1,36 @@
+Food: Light ice cream, chocolate
+Food ID: 2705666
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 180 kcal
+Protein: 4.27 g
+Carbohydrates: 26.24 g
+Fat: 6.46 g
+Fiber: 0.8 g
+Sugar: 15.18 g
+
+Fats:
+Saturated fat: 3.995 g
+Monounsaturated fat: 1.493 g
+Polyunsaturated fat: 0.384 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 183 mg
+Calcium: 140 mg
+Iron: 0.58 mg
+Magnesium: 18 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 73 µg
+Vitamin C: 1 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.25 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0.26 µg
+Folate: 4 µg

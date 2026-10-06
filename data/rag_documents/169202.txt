@@ -1,0 +1,33 @@
+Food: Amaranth leaves, cooked, boiled, drained, without salt
+Food ID: 169202
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 2.11 g
+Carbohydrates: 4.11 g
+Fat: 0.18 g
+
+Fats:
+Saturated fat: 0.05 g
+Monounsaturated fat: 0.041 g
+Polyunsaturated fat: 0.08 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 641 mg
+Calcium: 209 mg
+Iron: 2.26 mg
+Magnesium: 55 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 139 µg
+Vitamin C: 41.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.177 mg
+Vitamin B12: 0 µg
+Folate: 57 µg

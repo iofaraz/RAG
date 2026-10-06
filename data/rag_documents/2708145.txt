@@ -1,0 +1,36 @@
+Food: Crackers, woven wheat, reduced sodium
+Food ID: 2708145
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 443 kcal
+Protein: 8.8 g
+Carbohydrates: 68.6 g
+Fat: 17.2 g
+Fiber: 10.5 g
+Sugar: 0.37 g
+
+Fats:
+Saturated fat: 3.393 g
+Monounsaturated fat: 5.88 g
+Polyunsaturated fat: 6.596 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 186 mg
+Potassium: 297 mg
+Calcium: 50 mg
+Iron: 3.08 mg
+Magnesium: 99 mg
+Zinc: 2.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 8.3 µg
+Vitamin B6: 0.183 mg
+Vitamin B12: 0 µg
+Folate: 28 µg

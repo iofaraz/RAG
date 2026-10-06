@@ -1,0 +1,36 @@
+Food: Beef and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce
+Food ID: 2706729
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 10.03 g
+Carbohydrates: 5.16 g
+Fat: 7.09 g
+Fiber: 1.1 g
+Sugar: 0.99 g
+
+Fats:
+Saturated fat: 1.619 g
+Monounsaturated fat: 2.98 g
+Polyunsaturated fat: 1.808 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 324 mg
+Potassium: 154 mg
+Calcium: 12 mg
+Iron: 0.99 mg
+Magnesium: 16 mg
+Zinc: 1.74 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.95 mg
+Vitamin K: 12.4 µg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0.51 µg
+Folate: 15 µg

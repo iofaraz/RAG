@@ -1,0 +1,36 @@
+Food: Cookie, peanut butter, sugar free
+Food ID: 2707990
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 523 kcal
+Protein: 10.34 g
+Carbohydrates: 50.52 g
+Fat: 31.03 g
+Fiber: 3.4 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 8.621 g
+Monounsaturated fat: 7.735 g
+Polyunsaturated fat: 11.486 g
+Cholesterol: 17 mg
+
+Minerals:
+Sodium: 448 mg
+Potassium: 202 mg
+Calcium: 0 mg
+Iron: 2.48 mg
+Magnesium: 49 mg
+Zinc: 1.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 3.51 mg
+Vitamin K: 34.8 µg
+Vitamin B6: 0.112 mg
+Vitamin B12: 0 µg
+Folate: 83 µg

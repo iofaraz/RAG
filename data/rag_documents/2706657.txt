@@ -1,0 +1,36 @@
+Food: Lamb or mutton, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce
+Food ID: 2706657
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 130 kcal
+Protein: 5.13 g
+Carbohydrates: 15.15 g
+Fat: 5.31 g
+Fiber: 1.1 g
+Sugar: 1.47 g
+
+Fats:
+Saturated fat: 1.537 g
+Monounsaturated fat: 2.18 g
+Polyunsaturated fat: 1.16 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 166 mg
+Calcium: 17 mg
+Iron: 1.15 mg
+Magnesium: 15 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 86 µg
+Vitamin C: 5.7 mg
+Vitamin D: 0 µg
+Vitamin E: 1.05 mg
+Vitamin K: 12.7 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0.34 µg
+Folate: 37 µg

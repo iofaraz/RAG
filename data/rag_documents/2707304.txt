@@ -1,0 +1,36 @@
+Food: Egg substitute, omelet, scrambled, or fried, with cheese and vegetables
+Food ID: 2707304
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 118 kcal
+Protein: 9.85 g
+Carbohydrates: 2.51 g
+Fat: 7.64 g
+Fiber: 0.2 g
+Sugar: 1.9 g
+
+Fats:
+Saturated fat: 2.962 g
+Monounsaturated fat: 2.286 g
+Polyunsaturated fat: 1.413 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 365 mg
+Potassium: 222 mg
+Calcium: 159 mg
+Iron: 1.61 mg
+Magnesium: 23 mg
+Zinc: 1.1 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 4.1 mg
+Vitamin D: 1.6 µg
+Vitamin E: 2.09 mg
+Vitamin K: 49.3 µg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0.36 µg
+Folate: 19 µg

@@ -1,0 +1,36 @@
+Food: Beef, steak, round
+Food ID: 2705831
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 166 kcal
+Protein: 29.72 g
+Carbohydrates: 0 g
+Fat: 4.25 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.774 g
+Monounsaturated fat: 2.04 g
+Polyunsaturated fat: 0.328 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 382 mg
+Potassium: 430 mg
+Calcium: 18 mg
+Iron: 3.21 mg
+Magnesium: 17 mg
+Zinc: 5.08 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.871 mg
+Vitamin B12: 2.26 µg
+Folate: 5 µg

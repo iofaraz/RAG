@@ -1,0 +1,36 @@
+Food: Guisada, beef
+Food ID: 2706372
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 10.85 g
+Carbohydrates: 2.52 g
+Fat: 6.62 g
+Fiber: 0.5 g
+Sugar: 0.63 g
+
+Fats:
+Saturated fat: 2.55 g
+Monounsaturated fat: 2.927 g
+Polyunsaturated fat: 0.237 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 305 mg
+Potassium: 188 mg
+Calcium: 14 mg
+Iron: 1.08 mg
+Magnesium: 12 mg
+Zinc: 2.55 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.193 mg
+Vitamin B12: 1.02 µg
+Folate: 8 µg

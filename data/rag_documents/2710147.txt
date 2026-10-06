@@ -1,0 +1,36 @@
+Food: Fruit and vegetable smoothie, added protein
+Food ID: 2710147
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 86 kcal
+Protein: 7.49 g
+Carbohydrates: 12.24 g
+Fat: 0.78 g
+Fiber: 1.1 g
+Sugar: 8.47 g
+
+Fats:
+Saturated fat: 0.338 g
+Monounsaturated fat: 0.113 g
+Polyunsaturated fat: 0.093 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 36 mg
+Potassium: 311 mg
+Calcium: 84 mg
+Iron: 0.29 mg
+Magnesium: 43 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 15.3 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.39 mg
+Vitamin K: 71.6 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0.29 µg
+Folate: 32 µg

@@ -1,0 +1,36 @@
+Food: Stewed, seasoned, ground beef and pork, Mexican style
+Food ID: 2706472
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 16.7 g
+Carbohydrates: 1.45 g
+Fat: 6.98 g
+Fiber: 0.2 g
+Sugar: 0.46 g
+
+Fats:
+Saturated fat: 2.562 g
+Monounsaturated fat: 3.064 g
+Polyunsaturated fat: 0.383 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 338 mg
+Potassium: 279 mg
+Calcium: 18 mg
+Iron: 1.23 mg
+Magnesium: 19 mg
+Zinc: 2.78 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.17 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.314 mg
+Vitamin B12: 0.98 µg
+Folate: 6 µg

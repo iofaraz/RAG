@@ -1,0 +1,36 @@
+Food: Breadsticks, soft, fast food / restaurant
+Food ID: 2707693
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 342 kcal
+Protein: 12.18 g
+Carbohydrates: 44.39 g
+Fat: 12.85 g
+Fiber: 2.4 g
+Sugar: 1.11 g
+
+Fats:
+Saturated fat: 2.96 g
+Monounsaturated fat: 2.772 g
+Polyunsaturated fat: 6.148 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 615 mg
+Potassium: 132 mg
+Calcium: 87 mg
+Iron: 4.64 mg
+Magnesium: 22 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.88 mg
+Vitamin K: 21.1 µg
+Vitamin B6: 0.103 mg
+Vitamin B12: 0.13 µg
+Folate: 147 µg

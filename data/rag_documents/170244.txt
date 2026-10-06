@@ -1,0 +1,37 @@
+Food: Snacks, corn-based, extruded, puffs or twists, cheese-flavor, unenriched
+Food ID: 170244
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 558 kcal
+Protein: 5.76 g
+Carbohydrates: 54.1 g
+Fat: 35.76 g
+Fiber: 2.2 g
+Sugar: 2.76 g
+
+Fats:
+Saturated fat: 5.512 g
+Monounsaturated fat: 10.437 g
+Polyunsaturated fat: 18.649 g
+Trans fat: 0.806 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 896 mg
+Potassium: 197 mg
+Calcium: 58 mg
+Iron: 1.1 mg
+Magnesium: 20 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 5.12 mg
+Vitamin K: 36.1 µg
+Vitamin B6: 0.064 mg
+Vitamin B12: 0.48 µg
+Folate: 120 µg

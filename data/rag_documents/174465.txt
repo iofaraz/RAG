@@ -1,0 +1,32 @@
+Food: Chicken, capons, giblets, raw
+Food ID: 174465
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 130 kcal
+Protein: 18.28 g
+Carbohydrates: 1.42 g
+Fat: 5.18 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.64 g
+Monounsaturated fat: 1.32 g
+Polyunsaturated fat: 1.19 g
+Cholesterol: 292 mg
+
+Minerals:
+Sodium: 77 mg
+Potassium: 226 mg
+Calcium: 10 mg
+Iron: 6.25 mg
+Magnesium: 18 mg
+Zinc: 3.38 mg
+
+Vitamins:
+Vitamin A: 4374 µg
+Vitamin C: 18.4 mg
+Vitamin B6: 0.47 mg
+Vitamin B12: 12.95 µg
+Folate: 394 µg

@@ -1,0 +1,36 @@
+Food: Asian chicken or turkey garden salad, chicken and/or turkey, lettuce, fruit, nuts, no dressing
+Food ID: 2706816
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 130 kcal
+Protein: 11.44 g
+Carbohydrates: 9.5 g
+Fat: 5.46 g
+Fiber: 1.9 g
+Sugar: 2.99 g
+
+Fats:
+Saturated fat: 0.946 g
+Monounsaturated fat: 2.767 g
+Polyunsaturated fat: 1.055 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 176 mg
+Potassium: 280 mg
+Calcium: 39 mg
+Iron: 0.96 mg
+Magnesium: 35 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 108 µg
+Vitamin C: 10 mg
+Vitamin D: 0 µg
+Vitamin E: 1.78 mg
+Vitamin K: 51.8 µg
+Vitamin B6: 0.156 mg
+Vitamin B12: 0.09 µg
+Folate: 36 µg

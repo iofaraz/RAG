@@ -1,0 +1,36 @@
+Food: Beverages, coffee, instant, vanilla, sweetened, decaffeinated, with non dairy creamer
+Food ID: 174154
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 465 kcal
+Protein: 0 g
+Carbohydrates: 86.28 g
+Fat: 13.33 g
+Fiber: 0 g
+Sugar: 66.67 g
+
+Fats:
+Saturated fat: 13.333 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 333 mg
+Potassium: 57 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

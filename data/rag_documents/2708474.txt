@@ -1,0 +1,36 @@
+Food: Cereal, corn flakes, flavored
+Food ID: 2708474
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 375 kcal
+Protein: 4.77 g
+Carbohydrates: 84.68 g
+Fat: 1.27 g
+Fiber: 2.6 g
+Sugar: 32.53 g
+
+Fats:
+Saturated fat: 0.148 g
+Monounsaturated fat: 0.262 g
+Polyunsaturated fat: 0.555 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 516 mg
+Potassium: 96 mg
+Calcium: 3 mg
+Iron: 9.9 mg
+Magnesium: 21 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 0 mg
+Vitamin D: 5.1 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.77 mg
+Vitamin B12: 0.92 µg
+Folate: 142 µg

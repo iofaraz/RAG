@@ -1,0 +1,28 @@
+Food: Lamb, Australian, imported, fresh, shoulder, arm, separable lean and fat, trimmed to 1/8" fat, cooked, braised
+Food ID: 174418
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 311 kcal
+Protein: 29.7 g
+Carbohydrates: 0 g
+Fat: 20.38 g
+
+Fats:
+Saturated fat: 9.696 g
+Monounsaturated fat: 8.173 g
+Polyunsaturated fat: 0.83 g
+Cholesterol: 106 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 268 mg
+Calcium: 27 mg
+Iron: 2.42 mg
+Magnesium: 23 mg
+Zinc: 6.64 mg
+
+Vitamins:
+Vitamin B6: 0.203 mg
+Vitamin B12: 3.25 µg

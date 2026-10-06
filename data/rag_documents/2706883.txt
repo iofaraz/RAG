@@ -1,0 +1,36 @@
+Food: Sloppy joe sandwich, on white bun
+Food ID: 2706883
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 185 kcal
+Protein: 11.32 g
+Carbohydrates: 19.95 g
+Fat: 6.42 g
+Fiber: 1.1 g
+Sugar: 4.94 g
+
+Fats:
+Saturated fat: 2.239 g
+Monounsaturated fat: 2.523 g
+Polyunsaturated fat: 0.748 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 360 mg
+Potassium: 232 mg
+Calcium: 59 mg
+Iron: 2.24 mg
+Magnesium: 19 mg
+Zinc: 2.2 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 5.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.54 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.168 mg
+Vitamin B12: 0.88 µg
+Folate: 37 µg

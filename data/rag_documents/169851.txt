@@ -1,0 +1,35 @@
+Food: OLIVE GARDEN, lasagna classico
+Food ID: 169851
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 184 kcal
+Protein: 11.28 g
+Carbohydrates: 10.33 g
+Fat: 10.84 g
+Fiber: 1.6 g
+Sugar: 3.53 g
+
+Fats:
+Saturated fat: 5.347 g
+Monounsaturated fat: 3.203 g
+Polyunsaturated fat: 0.789 g
+Trans fat: 0.335 g
+Cholesterol: 40 mg
+
+Minerals:
+Sodium: 450 mg
+Potassium: 258 mg
+Calcium: 211 mg
+Iron: 0.75 mg
+Magnesium: 22 mg
+Zinc: 1.31 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 0.7 mg
+Vitamin E: 0.86 mg
+Vitamin K: 6.8 µg
+Vitamin B12: 0.55 µg
+Folate: 35 µg

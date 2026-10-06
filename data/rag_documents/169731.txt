@@ -1,0 +1,37 @@
+Food: Noodles, egg, dry, enriched
+Food ID: 169731
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 14.16 g
+Carbohydrates: 71.27 g
+Fat: 4.44 g
+Fiber: 3.3 g
+Sugar: 1.88 g
+
+Fats:
+Saturated fat: 1.18 g
+Monounsaturated fat: 1.252 g
+Polyunsaturated fat: 1.331 g
+Trans fat: 0.061 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 244 mg
+Calcium: 35 mg
+Iron: 4.01 mg
+Magnesium: 58 mg
+Zinc: 1.92 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.37 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.216 mg
+Vitamin B12: 0.29 µg
+Folate: 230 µg

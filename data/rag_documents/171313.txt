@@ -1,0 +1,27 @@
+Food: Yogurt, Greek, nonfat, raspberry, CHOBANI
+Food ID: 171313
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 7.65 g
+Carbohydrates: 11.98 g
+Fat: 0.22 g
+Fiber: 0.5 g
+
+Fats:
+Saturated fat: 0.13 g
+Monounsaturated fat: 0.05 g
+Polyunsaturated fat: 0 g
+Trans fat: 0.007 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 30 mg
+Calcium: 98 mg
+Iron: 0.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.6 mg

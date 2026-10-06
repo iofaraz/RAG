@@ -1,0 +1,36 @@
+Food: Sushi roll, salmon
+Food ID: 2708963
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 103 kcal
+Protein: 6.88 g
+Carbohydrates: 15.3 g
+Fat: 1.28 g
+Fiber: 0.7 g
+Sugar: 0.92 g
+
+Fats:
+Saturated fat: 0.226 g
+Monounsaturated fat: 0.383 g
+Polyunsaturated fat: 0.32 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 101 mg
+Calcium: 5 mg
+Iron: 0.22 mg
+Magnesium: 11 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.5 mg
+Vitamin D: 3.4 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.198 mg
+Vitamin B12: 1.14 µg
+Folate: 4 µg

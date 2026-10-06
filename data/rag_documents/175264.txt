@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, square-cut shoulder, separable lean only, raw
+Food ID: 175264
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 19.72 g
+Carbohydrates: 0 g
+Fat: 8.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.371 g
+Monounsaturated fat: 2.584 g
+Polyunsaturated fat: 0.553 g
+Trans fat: 0.296 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 73 mg
+Potassium: 307 mg
+Calcium: 12 mg
+Iron: 1.12 mg
+Magnesium: 20 mg
+Zinc: 3.57 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.4 mg
+Vitamin B6: 0.14 mg
+Vitamin B12: 2.3 µg

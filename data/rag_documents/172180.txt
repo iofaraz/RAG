@@ -1,0 +1,36 @@
+Food: Cheese, cottage, creamed, with fruit
+Food ID: 172180
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 97 kcal
+Protein: 10.69 g
+Carbohydrates: 4.61 g
+Fat: 3.85 g
+Fiber: 0.2 g
+Sugar: 2.38 g
+
+Fats:
+Saturated fat: 2.311 g
+Monounsaturated fat: 1.036 g
+Polyunsaturated fat: 0.124 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 344 mg
+Potassium: 90 mg
+Calcium: 53 mg
+Iron: 0.16 mg
+Magnesium: 7 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.068 mg
+Vitamin B12: 0.53 µg
+Folate: 11 µg

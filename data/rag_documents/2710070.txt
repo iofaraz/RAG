@@ -1,0 +1,36 @@
+Food: Green beans, pickled
+Food ID: 2710070
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 54 kcal
+Protein: 1.63 g
+Carbohydrates: 11 g
+Fat: 0.25 g
+Fiber: 2.5 g
+Sugar: 6.8 g
+
+Fats:
+Saturated fat: 0.041 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.094 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 944 mg
+Potassium: 241 mg
+Calcium: 35 mg
+Iron: 0.54 mg
+Magnesium: 23 mg
+Zinc: 0.29 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 8.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 36.4 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

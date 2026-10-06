@@ -1,0 +1,36 @@
+Food: Cookies, molasses
+Food ID: 172724
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 430 kcal
+Protein: 5.6 g
+Carbohydrates: 73.8 g
+Fat: 12.8 g
+Fiber: 1 g
+Sugar: 17.6 g
+
+Fats:
+Saturated fat: 3.212 g
+Monounsaturated fat: 7.13 g
+Polyunsaturated fat: 1.729 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 459 mg
+Potassium: 346 mg
+Calcium: 74 mg
+Iron: 6.43 mg
+Magnesium: 52 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 5.5 µg
+Vitamin B6: 0.104 mg
+Vitamin B12: 0 µg
+Folate: 89 µg

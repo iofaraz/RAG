@@ -1,0 +1,36 @@
+Food: Pina Colada
+Food ID: 2710662
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 0.36 g
+Carbohydrates: 19.48 g
+Fat: 2.14 g
+Fiber: 0.1 g
+Sugar: 17.58 g
+
+Fats:
+Saturated fat: 1.955 g
+Monounsaturated fat: 0.094 g
+Polyunsaturated fat: 0.045 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 90 mg
+Calcium: 8 mg
+Iron: 0.21 mg
+Magnesium: 9 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 5.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

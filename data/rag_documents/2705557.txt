@@ -1,0 +1,36 @@
+Food: Infant formula, premature, ready-to-feed
+Food ID: 2705557
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 71 kcal
+Protein: 1.96 g
+Carbohydrates: 7.34 g
+Fat: 3.78 g
+Fiber: 0 g
+Sugar: 7.15 g
+
+Fats:
+Saturated fat: 2.013 g
+Monounsaturated fat: 0.858 g
+Polyunsaturated fat: 0.853 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 86 mg
+Calcium: 79 mg
+Iron: 1.25 mg
+Magnesium: 6 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 10.9 mg
+Vitamin D: 1.3 µg
+Vitamin E: 1.22 mg
+Vitamin K: 7 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.24 µg
+Folate: 18 µg

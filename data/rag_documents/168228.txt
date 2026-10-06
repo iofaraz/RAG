@@ -1,0 +1,37 @@
+Food: Pork, fresh, leg (ham), shank half, separable lean only, raw
+Food ID: 168228
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 119 kcal
+Protein: 21.66 g
+Carbohydrates: 0 g
+Fat: 2.95 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.917 g
+Monounsaturated fat: 1.214 g
+Polyunsaturated fat: 0.605 g
+Trans fat: 0.011 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 90 mg
+Potassium: 329 mg
+Calcium: 12 mg
+Iron: 0.77 mg
+Magnesium: 21 mg
+Zinc: 2.25 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.29 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.531 mg
+Vitamin B12: 0.51 µg
+Folate: 0 µg

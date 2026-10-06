@@ -1,0 +1,32 @@
+Food: Lamb, New Zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, cooked, braised
+Food ID: 175263
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 357 kcal
+Protein: 28.21 g
+Carbohydrates: 0 g
+Fat: 26.27 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 12.74 g
+Monounsaturated fat: 10.22 g
+Polyunsaturated fat: 1.33 g
+Cholesterol: 123 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 147 mg
+Calcium: 27 mg
+Iron: 2.11 mg
+Magnesium: 18 mg
+Zinc: 4.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.07 mg
+Vitamin B12: 3.4 µg
+Folate: 1 µg

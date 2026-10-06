@@ -1,0 +1,33 @@
+Food: Mothbeans, mature seeds, cooked, boiled, without salt
+Food ID: 172426
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 7.81 g
+Carbohydrates: 20.96 g
+Fat: 0.55 g
+
+Fats:
+Saturated fat: 0.124 g
+Monounsaturated fat: 0.044 g
+Polyunsaturated fat: 0.256 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 10 mg
+Potassium: 304 mg
+Calcium: 3 mg
+Iron: 3.14 mg
+Magnesium: 104 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.093 mg
+Vitamin B12: 0 µg
+Folate: 143 µg

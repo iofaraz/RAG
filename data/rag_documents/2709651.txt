@@ -1,0 +1,36 @@
+Food: Broccoli, fresh, cooked with butter or margarine
+Food ID: 2709651
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 2.61 g
+Carbohydrates: 6.33 g
+Fat: 2.62 g
+Fiber: 2.4 g
+Sugar: 1.42 g
+
+Fats:
+Saturated fat: 1.023 g
+Monounsaturated fat: 0.611 g
+Polyunsaturated fat: 0.377 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 171 mg
+Potassium: 306 mg
+Calcium: 47 mg
+Iron: 0.7 mg
+Magnesium: 21 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 78.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.37 mg
+Vitamin K: 104.2 µg
+Vitamin B6: 0.207 mg
+Vitamin B12: 0 µg
+Folate: 56 µg

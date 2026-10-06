@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, POP'ABLES SNICKERS Brand Bite Size Candies
+Food ID: 169643
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 480 kcal
+Protein: 7.15 g
+Carbohydrates: 61.07 g
+Fat: 24.32 g
+Fiber: 2.3 g
+Sugar: 51.69 g
+
+Fats:
+Saturated fat: 9.891 g
+Trans fat: 0.405 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 224 mg
+Calcium: 96 mg
+Iron: 0.72 mg
+
+Vitamins:
+Vitamin C: 0.5 mg

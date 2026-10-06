@@ -1,0 +1,25 @@
+Food: Fish, cod, Pacific, cooked
+Food ID: 175178
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 84 kcal
+Protein: 20.42 g
+Carbohydrates: 0 g
+Fat: 0.25 g
+
+Fats:
+Saturated fat: 0.048 g
+Monounsaturated fat: 0.055 g
+Polyunsaturated fat: 0.108 g
+Trans fat: 0.001 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 134 mg
+Potassium: 372 mg
+Calcium: 17 mg
+Iron: 0.16 mg
+Magnesium: 35 mg
+Zinc: 0.43 mg

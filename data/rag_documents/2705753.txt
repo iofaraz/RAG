@@ -1,0 +1,36 @@
+Food: Cheese, cottage, dry curd
+Food ID: 2705753
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 72 kcal
+Protein: 10.34 g
+Carbohydrates: 6.66 g
+Fat: 0.29 g
+Fiber: 0 g
+Sugar: 1.85 g
+
+Fats:
+Saturated fat: 0.169 g
+Monounsaturated fat: 0.079 g
+Polyunsaturated fat: 0.003 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 372 mg
+Potassium: 137 mg
+Calcium: 86 mg
+Iron: 0.15 mg
+Magnesium: 11 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 0.46 µg
+Folate: 9 µg

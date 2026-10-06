@@ -1,0 +1,36 @@
+Food: Meatballs, Swedish, in gravy, with noodles, diet frozen meal
+Food ID: 2707103
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 9.88 g
+Carbohydrates: 10.31 g
+Fat: 3.35 g
+Fiber: 0.8 g
+Sugar: 1.18 g
+
+Fats:
+Saturated fat: 1.175 g
+Monounsaturated fat: 1.347 g
+Polyunsaturated fat: 0.299 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 255 mg
+Potassium: 157 mg
+Calcium: 24 mg
+Iron: 1.13 mg
+Magnesium: 12 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.097 mg
+Vitamin B12: 0.45 µg
+Folate: 30 µg

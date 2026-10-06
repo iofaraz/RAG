@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, beef noodle, strained
+Food ID: 172258
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 2.44 g
+Carbohydrates: 8.18 g
+Fat: 2.26 g
+Fiber: 1.3 g
+Sugar: 1.42 g
+
+Fats:
+Saturated fat: 0.937 g
+Monounsaturated fat: 0.941 g
+Polyunsaturated fat: 0.141 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 87 mg
+Calcium: 10 mg
+Iron: 0.41 mg
+Magnesium: 10 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 36 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.31 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0.19 µg
+Folate: 8 µg

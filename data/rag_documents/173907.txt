@@ -1,0 +1,35 @@
+Food: Cereals, QUAKER, Instant Oatmeal, maple and brown sugar, dry
+Food ID: 173907
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 368 kcal
+Protein: 9.2 g
+Carbohydrates: 76.91 g
+Fat: 4.63 g
+Fiber: 7.2 g
+Sugar: 30.02 g
+
+Fats:
+Saturated fat: 0.793 g
+Monounsaturated fat: 1.454 g
+Polyunsaturated fat: 1.622 g
+Trans fat: 0.002 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 506 mg
+Potassium: 424 mg
+Calcium: 226 mg
+Iron: 8.22 mg
+Magnesium: 88 mg
+Zinc: 1.7 mg
+
+Vitamins:
+Vitamin A: 520 µg
+Vitamin C: 0 mg
+Vitamin E: 0.44 mg
+Vitamin B6: 1.2 mg
+Vitamin B12: 0 µg
+Folate: 128 µg

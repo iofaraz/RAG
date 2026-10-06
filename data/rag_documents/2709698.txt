@@ -1,0 +1,36 @@
+Food: Sweet potato, baked, NS as to fat
+Food ID: 2709698
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 1.58 g
+Carbohydrates: 17.14 g
+Fat: 4.53 g
+Fiber: 3 g
+Sugar: 6 g
+
+Fats:
+Saturated fat: 1.106 g
+Monounsaturated fat: 1.477 g
+Polyunsaturated fat: 1.207 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 161 mg
+Potassium: 481 mg
+Calcium: 22 mg
+Iron: 0.4 mg
+Magnesium: 19 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 684 µg
+Vitamin C: 12.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.88 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.137 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

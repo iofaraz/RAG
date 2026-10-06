@@ -1,0 +1,37 @@
+Food: Snacks, granola bar, KASHI GOLEAN, crunchy, mixed flavors
+Food ID: 173144
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 393 kcal
+Protein: 17.88 g
+Carbohydrates: 59.58 g
+Fat: 9.23 g
+Fiber: 5.9 g
+Sugar: 27.3 g
+
+Fats:
+Saturated fat: 4.687 g
+Monounsaturated fat: 2.498 g
+Polyunsaturated fat: 1.268 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 486 mg
+Potassium: 300 mg
+Calcium: 434 mg
+Iron: 5.2 mg
+Magnesium: 86 mg
+Zinc: 4.83 mg
+
+Vitamins:
+Vitamin A: 50 µg
+Vitamin C: 19.3 mg
+Vitamin D: 0 µg
+Vitamin E: 10.27 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 1.073 mg
+Vitamin B12: 3.22 µg
+Folate: 215 µg

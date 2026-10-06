@@ -1,0 +1,34 @@
+Food: Restaurant, Italian, chicken parmesan without pasta
+Food ID: 168062
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 204 kcal
+Protein: 16.17 g
+Carbohydrates: 10.92 g
+Fat: 10.64 g
+Fiber: 0.9 g
+Sugar: 2.79 g
+
+Fats:
+Saturated fat: 2.55 g
+Monounsaturated fat: 4.87 g
+Polyunsaturated fat: 1.951 g
+Trans fat: 0.108 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 536 mg
+Potassium: 293 mg
+Calcium: 106 mg
+Iron: 0.68 mg
+Magnesium: 26 mg
+Zinc: 0.95 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin E: 1.74 mg
+Vitamin B6: 0.205 mg
+Vitamin B12: 0.4 µg
+Folate: 19 µg

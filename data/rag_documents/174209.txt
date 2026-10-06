@@ -1,0 +1,37 @@
+Food: Crustaceans, lobster, northern, cooked, moist heat
+Food ID: 174209
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 89 kcal
+Protein: 19 g
+Carbohydrates: 0 g
+Fat: 0.86 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.208 g
+Monounsaturated fat: 0.253 g
+Polyunsaturated fat: 0.34 g
+Trans fat: 0.013 g
+Cholesterol: 146 mg
+
+Minerals:
+Sodium: 486 mg
+Potassium: 230 mg
+Calcium: 96 mg
+Iron: 0.29 mg
+Magnesium: 43 mg
+Zinc: 4.05 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 1.43 µg
+Folate: 11 µg

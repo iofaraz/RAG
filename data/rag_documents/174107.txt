@@ -1,0 +1,37 @@
+Food: Rolls, dinner, sweet
+Food ID: 174107
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 321 kcal
+Protein: 10.04 g
+Carbohydrates: 53.58 g
+Fat: 7.37 g
+Fiber: 3.1 g
+Sugar: 15.38 g
+
+Fats:
+Saturated fat: 3.516 g
+Monounsaturated fat: 1.851 g
+Polyunsaturated fat: 0.855 g
+Trans fat: 0.168 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 253 mg
+Potassium: 149 mg
+Calcium: 62 mg
+Iron: 2.74 mg
+Magnesium: 24 mg
+Zinc: 0.85 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.11 mg
+Vitamin B12: 0.21 µg
+Folate: 91 µg

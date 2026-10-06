@@ -1,0 +1,36 @@
+Food: Fish, whiting, NFS
+Food ID: 2706312
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 233 kcal
+Protein: 15.84 g
+Carbohydrates: 11.72 g
+Fat: 13.17 g
+Fiber: 0.5 g
+Sugar: 0.2 g
+
+Fats:
+Saturated fat: 1.85 g
+Monounsaturated fat: 5.261 g
+Polyunsaturated fat: 4.945 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 398 mg
+Potassium: 214 mg
+Calcium: 51 mg
+Iron: 1.15 mg
+Magnesium: 21 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 2.47 mg
+Vitamin K: 12 µg
+Vitamin B6: 0.119 mg
+Vitamin B12: 1.6 µg
+Folate: 33 µg

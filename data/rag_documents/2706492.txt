@@ -1,0 +1,36 @@
+Food: Porcupine balls with tomato-based sauce
+Food ID: 2706492
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 153 kcal
+Protein: 10.36 g
+Carbohydrates: 13.39 g
+Fat: 6.21 g
+Fiber: 0.6 g
+Sugar: 3 g
+
+Fats:
+Saturated fat: 2.358 g
+Monounsaturated fat: 2.737 g
+Polyunsaturated fat: 0.245 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 501 mg
+Potassium: 310 mg
+Calcium: 18 mg
+Iron: 1.48 mg
+Magnesium: 15 mg
+Zinc: 2.39 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 4.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.18 mg
+Vitamin B12: 0.96 µg
+Folate: 20 µg

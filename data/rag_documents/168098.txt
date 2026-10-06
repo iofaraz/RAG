@@ -1,0 +1,36 @@
+Food: Cheese, monterey, low fat
+Food ID: 168098
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 313 kcal
+Protein: 28.2 g
+Carbohydrates: 0.7 g
+Fat: 21.6 g
+Fiber: 0 g
+Sugar: 0.56 g
+
+Fats:
+Saturated fat: 14.04 g
+Monounsaturated fat: 5.64 g
+Polyunsaturated fat: 0.84 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 781 mg
+Potassium: 81 mg
+Calcium: 705 mg
+Iron: 0.72 mg
+Magnesium: 27 mg
+Zinc: 3 mg
+
+Vitamins:
+Vitamin A: 142 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.19 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.83 µg
+Folate: 18 µg

@@ -1,0 +1,36 @@
+Food: Candy, NFS
+Food ID: 2710325
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 429 kcal
+Protein: 1.95 g
+Carbohydrates: 86.62 g
+Fat: 8.26 g
+Fiber: 0.9 g
+Sugar: 61.3 g
+
+Fats:
+Saturated fat: 5.356 g
+Monounsaturated fat: 1.796 g
+Polyunsaturated fat: 0.344 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 96 mg
+Calcium: 49 mg
+Iron: 0.78 mg
+Magnesium: 17 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.011 mg
+Vitamin B12: 0.19 µg
+Folate: 3 µg

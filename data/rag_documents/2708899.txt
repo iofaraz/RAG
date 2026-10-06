@@ -1,0 +1,36 @@
+Food: Pasta, whole grain, with tomato-based sauce and seafood, ready-to-heat
+Food ID: 2708899
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 5.55 g
+Carbohydrates: 18.59 g
+Fat: 3.38 g
+Fiber: 2.7 g
+Sugar: 2.48 g
+
+Fats:
+Saturated fat: 0.453 g
+Monounsaturated fat: 1.014 g
+Polyunsaturated fat: 1.224 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 346 mg
+Potassium: 202 mg
+Calcium: 26 mg
+Iron: 1.39 mg
+Magnesium: 37 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 1.48 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.115 mg
+Vitamin B12: 0.86 µg
+Folate: 16 µg

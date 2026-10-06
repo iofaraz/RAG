@@ -1,0 +1,37 @@
+Food: Cheese, mozzarella, low moisture, part-skim
+Food ID: 171244
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 295 kcal
+Protein: 23.75 g
+Carbohydrates: 5.58 g
+Fat: 19.78 g
+Fiber: 0 g
+Sugar: 1.9 g
+
+Fats:
+Saturated fat: 11.295 g
+Monounsaturated fat: 5.741 g
+Polyunsaturated fat: 1.019 g
+Trans fat: 0.72 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 666 mg
+Potassium: 188 mg
+Calcium: 697 mg
+Iron: 0.22 mg
+Magnesium: 27 mg
+Zinc: 3.62 mg
+
+Vitamins:
+Vitamin A: 227 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.5 mg
+Vitamin K: 1.3 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 1.68 µg
+Folate: 27 µg

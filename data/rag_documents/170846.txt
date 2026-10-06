@@ -1,0 +1,36 @@
+Food: Cheese, mozzarella, whole milk, low moisture
+Food ID: 170846
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 318 kcal
+Protein: 21.6 g
+Carbohydrates: 2.47 g
+Fat: 24.64 g
+Fiber: 0 g
+Sugar: 1.01 g
+
+Fats:
+Saturated fat: 15.561 g
+Monounsaturated fat: 7.027 g
+Polyunsaturated fat: 0.778 g
+Cholesterol: 89 mg
+
+Minerals:
+Sodium: 710 mg
+Potassium: 75 mg
+Calcium: 575 mg
+Iron: 0.2 mg
+Magnesium: 21 mg
+Zinc: 2.46 mg
+
+Vitamins:
+Vitamin A: 197 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.21 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0.73 µg
+Folate: 8 µg

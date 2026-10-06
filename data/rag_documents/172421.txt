@@ -1,0 +1,37 @@
+Food: Lentils, mature seeds, cooked, boiled, without salt
+Food ID: 172421
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 9.02 g
+Carbohydrates: 20.13 g
+Fat: 0.38 g
+Fiber: 7.9 g
+Sugar: 1.8 g
+
+Fats:
+Saturated fat: 0.053 g
+Monounsaturated fat: 0.064 g
+Polyunsaturated fat: 0.175 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 369 mg
+Calcium: 19 mg
+Iron: 3.33 mg
+Magnesium: 36 mg
+Zinc: 1.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.178 mg
+Vitamin B12: 0 µg
+Folate: 181 µg

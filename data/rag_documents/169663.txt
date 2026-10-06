@@ -1,0 +1,25 @@
+Food: Candies, MARS SNACKFOOD US, SNICKERS CRUNCHER
+Food ID: 169663
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 488 kcal
+Protein: 6.86 g
+Carbohydrates: 62.85 g
+Fat: 24.38 g
+Fiber: 1.9 g
+Sugar: 46.54 g
+
+Fats:
+Saturated fat: 12.703 g
+Trans fat: 0.394 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 189 mg
+Calcium: 90 mg
+Iron: 0.68 mg
+
+Vitamins:
+Vitamin C: 0.5 mg

@@ -1,0 +1,37 @@
+Food: Onion rings, breaded, par fried, frozen, prepared, heated in oven
+Food ID: 170415
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 276 kcal
+Protein: 4.14 g
+Carbohydrates: 33.79 g
+Fat: 14.3 g
+Fiber: 2.2 g
+Sugar: 5.1 g
+
+Fats:
+Saturated fat: 2.137 g
+Monounsaturated fat: 3 g
+Polyunsaturated fat: 7.633 g
+Trans fat: 0.053 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 123 mg
+Calcium: 31 mg
+Iron: 1.25 mg
+Magnesium: 17 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 34.1 µg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

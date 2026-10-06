@@ -1,0 +1,36 @@
+Food: Asian chicken or turkey garden salad with crispy noodles, chicken and/or turkey, lettuce, fruit, nuts, crispy noodles, no dressing
+Food ID: 2706817
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 10.24 g
+Carbohydrates: 8.11 g
+Fat: 5.26 g
+Fiber: 1.8 g
+Sugar: 3 g
+
+Fats:
+Saturated fat: 0.8 g
+Monounsaturated fat: 2.791 g
+Polyunsaturated fat: 1.17 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 167 mg
+Potassium: 288 mg
+Calcium: 43 mg
+Iron: 0.82 mg
+Magnesium: 38 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 127 µg
+Vitamin C: 10.5 mg
+Vitamin D: 0 µg
+Vitamin E: 1.81 mg
+Vitamin K: 62.4 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.08 µg
+Folate: 36 µg

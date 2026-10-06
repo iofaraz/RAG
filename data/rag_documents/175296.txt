@@ -1,0 +1,30 @@
+Food: Game meat, beefalo, composite of cuts, raw
+Food ID: 175296
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 23.3 g
+Carbohydrates: 0 g
+Fat: 4.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.04 g
+Monounsaturated fat: 2.04 g
+Polyunsaturated fat: 0.15 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 78 mg
+Potassium: 436 mg
+Calcium: 18 mg
+Iron: 2.32 mg
+Zinc: 4.86 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 7 mg
+Vitamin B12: 2.42 µg
+Folate: 15 µg

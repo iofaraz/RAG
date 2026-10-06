@@ -1,0 +1,36 @@
+Food: Ham, minced
+Food ID: 173865
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 263 kcal
+Protein: 16.28 g
+Carbohydrates: 1.84 g
+Fat: 20.68 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.181 g
+Monounsaturated fat: 9.581 g
+Polyunsaturated fat: 2.47 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 1245 mg
+Potassium: 311 mg
+Calcium: 10 mg
+Iron: 0.79 mg
+Magnesium: 16 mg
+Zinc: 1.9 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 0.95 µg
+Folate: 1 µg

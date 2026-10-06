@@ -1,0 +1,36 @@
+Food: Salad dressing, home recipe, vinegar and oil
+Food ID: 171417
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 449 kcal
+Protein: 0 g
+Carbohydrates: 2.5 g
+Fat: 50.1 g
+Fiber: 0 g
+Sugar: 2.5 g
+
+Fats:
+Saturated fat: 9.1 g
+Monounsaturated fat: 14.8 g
+Polyunsaturated fat: 24.1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 8 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4.61 mg
+Vitamin K: 98.8 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

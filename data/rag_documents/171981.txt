@@ -1,0 +1,36 @@
+Food: Mollusks, oyster, eastern, canned
+Food ID: 171981
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 68 kcal
+Protein: 7.06 g
+Carbohydrates: 3.91 g
+Fat: 2.47 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.631 g
+Monounsaturated fat: 0.25 g
+Polyunsaturated fat: 0.739 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 112 mg
+Potassium: 229 mg
+Calcium: 45 mg
+Iron: 6.7 mg
+Magnesium: 54 mg
+Zinc: 90.95 mg
+
+Vitamins:
+Vitamin A: 90 µg
+Vitamin C: 5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.85 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.095 mg
+Vitamin B12: 19.13 µg
+Folate: 9 µg

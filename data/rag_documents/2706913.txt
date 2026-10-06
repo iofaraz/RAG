@@ -1,0 +1,36 @@
+Food: Double cheeseburger (Burger King)
+Food ID: 2706913
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 278 kcal
+Protein: 16.3 g
+Carbohydrates: 16.92 g
+Fat: 15.73 g
+Fiber: 0.7 g
+Sugar: 3.62 g
+
+Fats:
+Saturated fat: 6.882 g
+Monounsaturated fat: 5.56 g
+Polyunsaturated fat: 1.032 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 502 mg
+Potassium: 224 mg
+Calcium: 231 mg
+Iron: 2.29 mg
+Magnesium: 22 mg
+Zinc: 2.83 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.27 mg
+Vitamin K: 3.6 µg
+Vitamin B6: 0.238 mg
+Vitamin B12: 1.51 µg
+Folate: 40 µg

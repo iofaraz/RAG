@@ -1,0 +1,36 @@
+Food: Macaroni or noodles with cheese, whole grain
+Food ID: 2708824
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 219 kcal
+Protein: 8.77 g
+Carbohydrates: 22.7 g
+Fat: 10.88 g
+Fiber: 2.2 g
+Sugar: 2.53 g
+
+Fats:
+Saturated fat: 5.183 g
+Monounsaturated fat: 2.429 g
+Polyunsaturated fat: 1.214 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 360 mg
+Potassium: 128 mg
+Calcium: 173 mg
+Iron: 1.28 mg
+Magnesium: 38 mg
+Zinc: 1.48 mg
+
+Vitamins:
+Vitamin A: 106 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.59 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.131 mg
+Vitamin B12: 0.3 µg
+Folate: 17 µg

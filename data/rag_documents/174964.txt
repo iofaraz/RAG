@@ -1,0 +1,31 @@
+Food: Cookies, peanut butter, prepared from recipe
+Food ID: 174964
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 475 kcal
+Protein: 9 g
+Carbohydrates: 58.9 g
+Fat: 23.8 g
+
+Fats:
+Saturated fat: 4.438 g
+Monounsaturated fat: 10.832 g
+Polyunsaturated fat: 7.223 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 518 mg
+Potassium: 231 mg
+Calcium: 39 mg
+Iron: 2.23 mg
+Magnesium: 39 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 137 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.084 mg
+Vitamin B12: 0.09 µg
+Folate: 55 µg

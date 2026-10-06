@@ -1,0 +1,36 @@
+Food: Fried fish with sauce, Puerto Rican style
+Food ID: 2706868
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 11.81 g
+Carbohydrates: 3.42 g
+Fat: 10.3 g
+Fiber: 0.8 g
+Sugar: 1.7 g
+
+Fats:
+Saturated fat: 1.974 g
+Monounsaturated fat: 6.369 g
+Polyunsaturated fat: 1.1 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 662 mg
+Potassium: 309 mg
+Calcium: 20 mg
+Iron: 0.58 mg
+Magnesium: 31 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 5.3 mg
+Vitamin D: 0.4 µg
+Vitamin E: 2.81 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.222 mg
+Vitamin B12: 1.43 µg
+Folate: 14 µg

@@ -1,0 +1,37 @@
+Food: Sausage, chicken or turkey, Italian style,  lower sodium
+Food ID: 173880
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 183 kcal
+Protein: 21.43 g
+Carbohydrates: 14.25 g
+Fat: 4.46 g
+Fiber: 0 g
+Sugar: 0.81 g
+
+Fats:
+Saturated fat: 0.893 g
+Monounsaturated fat: 1.797 g
+Polyunsaturated fat: 1.526 g
+Trans fat: 0.018 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 446 mg
+Potassium: 1062 mg
+Calcium: 0 mg
+Iron: 1.29 mg
+Magnesium: 43 mg
+Zinc: 2.41 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.35 mg
+Vitamin K: 34.8 µg
+Vitamin B6: 0.536 mg
+Vitamin B12: 0.15 µg
+Folate: 71 µg

@@ -1,0 +1,36 @@
+Food: Alfredo sauce with meat
+Food ID: 2705811
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 171 kcal
+Protein: 6.52 g
+Carbohydrates: 1.44 g
+Fat: 15.34 g
+Fiber: 0 g
+Sugar: 0.73 g
+
+Fats:
+Saturated fat: 8.135 g
+Monounsaturated fat: 3.945 g
+Polyunsaturated fat: 0.598 g
+Cholesterol: 52 mg
+
+Minerals:
+Sodium: 520 mg
+Potassium: 89 mg
+Calcium: 58 mg
+Iron: 0.48 mg
+Magnesium: 7 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 111 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.27 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.56 µg
+Folate: 3 µg

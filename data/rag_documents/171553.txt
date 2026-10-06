@@ -1,0 +1,32 @@
+Food: Soup, oyster stew, canned, condensed
+Food ID: 171553
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 1.72 g
+Carbohydrates: 3.32 g
+Fat: 3.13 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 2.04 g
+Monounsaturated fat: 0.74 g
+Polyunsaturated fat: 0.13 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 722 mg
+Potassium: 40 mg
+Calcium: 18 mg
+Iron: 0.8 mg
+Magnesium: 4 mg
+Zinc: 8.4 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 2.6 mg
+Vitamin B6: 0.01 mg
+Vitamin B12: 1.79 µg
+Folate: 2 µg

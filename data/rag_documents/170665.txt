@@ -1,0 +1,24 @@
+Food: Frozen novelties, KLONDIKE, SLIM-A-BEAR Chocolate Cone
+Food ID: 170665
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 224 kcal
+Protein: 4.09 g
+Carbohydrates: 45.32 g
+Fat: 4.1 g
+Fiber: 4.3 g
+Sugar: 24.62 g
+
+Fats:
+Saturated fat: 1.001 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 159 mg
+Calcium: 125 mg
+Iron: 0.75 mg
+
+Vitamins:
+Vitamin C: 0.6 mg

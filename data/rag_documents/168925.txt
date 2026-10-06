@@ -1,0 +1,33 @@
+Food: Cornmeal, white, self-rising, degermed, enriched
+Food ID: 168925
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 355 kcal
+Protein: 8.41 g
+Carbohydrates: 74.79 g
+Fat: 1.72 g
+Fiber: 7.1 g
+
+Fats:
+Saturated fat: 0.234 g
+Monounsaturated fat: 0.429 g
+Polyunsaturated fat: 0.739 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1348 mg
+Potassium: 170 mg
+Calcium: 350 mg
+Iron: 4.73 mg
+Magnesium: 49 mg
+Zinc: 1 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.39 mg
+Vitamin B12: 0 µg
+Folate: 233 µg

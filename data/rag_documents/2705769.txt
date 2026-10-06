@@ -1,0 +1,36 @@
+Food: Cream cheese, fat free
+Food ID: 2705769
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 105 kcal
+Protein: 15.69 g
+Carbohydrates: 7.66 g
+Fat: 1 g
+Fiber: 0 g
+Sugar: 5.48 g
+
+Fats:
+Saturated fat: 0.644 g
+Monounsaturated fat: 0.25 g
+Polyunsaturated fat: 0.057 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 702 mg
+Potassium: 278 mg
+Calcium: 351 mg
+Iron: 0.19 mg
+Magnesium: 22 mg
+Zinc: 1.5 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.95 µg
+Folate: 35 µg

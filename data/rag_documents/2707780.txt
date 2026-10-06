@@ -1,0 +1,36 @@
+Food: Bread, multigrain, reduced calorie and/or high fiber
+Food ID: 2707780
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 8.91 g
+Carbohydrates: 44.91 g
+Fat: 2.55 g
+Fiber: 10.7 g
+Sugar: 4.63 g
+
+Fats:
+Saturated fat: 0.551 g
+Monounsaturated fat: 1.064 g
+Polyunsaturated fat: 0.609 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 465 mg
+Potassium: 109 mg
+Calcium: 93 mg
+Iron: 3.41 mg
+Magnesium: 41 mg
+Zinc: 1.52 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.23 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.27 µg
+Folate: 95 µg

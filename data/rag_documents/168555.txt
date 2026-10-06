@@ -1,0 +1,37 @@
+Food: Potatoes, mashed, home-prepared, whole milk and butter added
+Food ID: 168555
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 1.86 g
+Carbohydrates: 16.81 g
+Fat: 4.22 g
+Fiber: 1.5 g
+Sugar: 1.43 g
+
+Fats:
+Saturated fat: 2.613 g
+Monounsaturated fat: 1.07 g
+Polyunsaturated fat: 0.199 g
+Trans fat: 0.149 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 317 mg
+Potassium: 284 mg
+Calcium: 24 mg
+Iron: 0.26 mg
+Magnesium: 18 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.12 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.222 mg
+Vitamin B12: 0.07 µg
+Folate: 8 µg

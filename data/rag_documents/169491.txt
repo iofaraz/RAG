@@ -1,0 +1,35 @@
+Food: Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8" fat, all grades, raw
+Food ID: 169491
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 244 kcal
+Protein: 19.23 g
+Carbohydrates: 0 g
+Fat: 17.98 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 7.254 g
+Monounsaturated fat: 7.697 g
+Polyunsaturated fat: 0.684 g
+Cholesterol: 91 mg
+
+Minerals:
+Sodium: 62 mg
+Potassium: 290 mg
+Calcium: 17 mg
+Iron: 1.67 mg
+Magnesium: 19 mg
+Zinc: 4.54 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.4 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.456 mg
+Vitamin B12: 1.65 µg
+Folate: 10 µg

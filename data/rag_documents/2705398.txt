@@ -1,0 +1,36 @@
+Food: Milk, evaporated, NS as to fat content
+Food ID: 2705398
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 6.81 g
+Carbohydrates: 10.04 g
+Fat: 7.56 g
+Fiber: 0 g
+Sugar: 10.04 g
+
+Fats:
+Saturated fat: 4.591 g
+Monounsaturated fat: 2.335 g
+Polyunsaturated fat: 0.245 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 106 mg
+Potassium: 303 mg
+Calcium: 261 mg
+Iron: 0.19 mg
+Magnesium: 24 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 65 µg
+Vitamin C: 1.9 mg
+Vitamin D: 2 µg
+Vitamin E: 0.14 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.16 µg
+Folate: 8 µg

@@ -1,0 +1,36 @@
+Food: Light Ice Cream, soft serve, blended with milk chocolate candies
+Food ID: 173324
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 182 kcal
+Protein: 4.02 g
+Carbohydrates: 26.82 g
+Fat: 6.46 g
+Fiber: 0.2 g
+Sugar: 24.37 g
+
+Fats:
+Saturated fat: 3.633 g
+Monounsaturated fat: 1.67 g
+Polyunsaturated fat: 0.282 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 54 mg
+Potassium: 208 mg
+Calcium: 135 mg
+Iron: 0.27 mg
+Magnesium: 17 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 31 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0.6 µg
+Folate: 3 µg

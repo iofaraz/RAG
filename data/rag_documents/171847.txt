@@ -1,0 +1,36 @@
+Food: Cookies, coconut macaroon
+Food ID: 171847
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 460 kcal
+Protein: 3.02 g
+Carbohydrates: 61.22 g
+Fat: 22.55 g
+Fiber: 5.1 g
+Sugar: 45.16 g
+
+Fats:
+Saturated fat: 20.099 g
+Monounsaturated fat: 1.61 g
+Polyunsaturated fat: 0.81 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 241 mg
+Potassium: 123 mg
+Calcium: 5 mg
+Iron: 0.82 mg
+Magnesium: 29 mg
+Zinc: 0.73 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.096 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

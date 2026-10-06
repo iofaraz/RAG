@@ -1,0 +1,25 @@
+Food: Babyfood, cereal, oatmeal, with honey, dry
+Food ID: 170968
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 391 kcal
+Protein: 13.5 g
+Carbohydrates: 69.3 g
+Fat: 7 g
+
+Minerals:
+Sodium: 47 mg
+Potassium: 259 mg
+Calcium: 1154 mg
+Iron: 67.23 mg
+Magnesium: 146 mg
+Zinc: 3.7 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.154 mg
+Vitamin B12: 0 µg
+Folate: 35 µg

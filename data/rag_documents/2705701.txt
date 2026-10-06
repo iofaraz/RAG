@@ -1,0 +1,36 @@
+Food: Trifle
+Food ID: 2705701
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 169 kcal
+Protein: 3.52 g
+Carbohydrates: 23.24 g
+Fat: 7.15 g
+Fiber: 0.4 g
+Sugar: 15.76 g
+
+Fats:
+Saturated fat: 4.071 g
+Monounsaturated fat: 2.104 g
+Polyunsaturated fat: 0.419 g
+Cholesterol: 65 mg
+
+Minerals:
+Sodium: 180 mg
+Potassium: 125 mg
+Calcium: 73 mg
+Iron: 0.83 mg
+Magnesium: 10 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 0.5 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.37 mg
+Vitamin K: 1.2 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 0.24 µg
+Folate: 16 µg

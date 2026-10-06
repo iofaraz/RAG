@@ -1,0 +1,21 @@
+Food: Pear, Anjou, green, with skin, raw
+Food ID: 2710836
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.3125 g
+Carbohydrates: 14.7674 g
+Fat: 0.3713 g
+Fiber: 2.636 g
+
+Minerals:
+Sodium: 0.3975 mg
+Potassium: 122.5 mg
+Calcium: 9.986 mg
+Iron: 0 mg
+Magnesium: 6.494 mg
+Zinc: 0.1074 mg
+
+Vitamins:
+Vitamin C: 5.511 mg

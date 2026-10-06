@@ -1,0 +1,29 @@
+Food: Almond butter, creamy
+Food ID: 2262074
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 20.7873 g
+Carbohydrates: 21.2367 g
+Fat: 53.04 g
+Fiber: 9.718 g
+
+Fats:
+Saturated fat: 4.253 g
+Monounsaturated fat: 34.69 g
+Polyunsaturated fat: 12.61 g
+
+Minerals:
+Sodium: 0.9963 mg
+Potassium: 745.4 mg
+Calcium: 263.8 mg
+Iron: 4.108 mg
+Magnesium: 267.8 mg
+Zinc: 3.178 mg
+
+Vitamins:
+Vitamin E: 16.67 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.08375 mg
+Folate: 42.46 µg

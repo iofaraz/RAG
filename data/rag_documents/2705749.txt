@@ -1,0 +1,36 @@
+Food: Cottage cheese, farmer's
+Food ID: 2705749
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 148 kcal
+Protein: 10.96 g
+Carbohydrates: 4.33 g
+Fat: 9.73 g
+Fiber: 0 g
+Sugar: 2.52 g
+
+Fats:
+Saturated fat: 6.029 g
+Monounsaturated fat: 2.524 g
+Polyunsaturated fat: 0.329 g
+Cholesterol: 32 mg
+
+Minerals:
+Sodium: 330 mg
+Potassium: 117 mg
+Calcium: 83 mg
+Iron: 0 mg
+Magnesium: 8 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 82 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.24 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0.62 µg
+Folate: 11 µg

@@ -1,0 +1,36 @@
+Food: Chicken, NS as to part, baked, coated, skin / coating eaten
+Food ID: 2705951
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 21.75 g
+Carbohydrates: 7.14 g
+Fat: 15.02 g
+Fiber: 0.2 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.999 g
+Monounsaturated fat: 6.838 g
+Polyunsaturated fat: 2.796 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 671 mg
+Potassium: 264 mg
+Calcium: 44 mg
+Iron: 0.86 mg
+Magnesium: 24 mg
+Zinc: 1.26 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.49 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.228 mg
+Vitamin B12: 0.4 µg
+Folate: 22 µg

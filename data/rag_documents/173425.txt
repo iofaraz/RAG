@@ -1,0 +1,32 @@
+Food: Egg, whole, dried, stabilized, glucose reduced
+Food ID: 173425
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 615 kcal
+Protein: 48.17 g
+Carbohydrates: 2.38 g
+Fat: 43.95 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 13.198 g
+Monounsaturated fat: 17.564 g
+Polyunsaturated fat: 5.713 g
+Cholesterol: 2017 mg
+
+Minerals:
+Sodium: 548 mg
+Potassium: 515 mg
+Calcium: 222 mg
+Iron: 8.28 mg
+Magnesium: 49 mg
+Zinc: 5.71 mg
+
+Vitamins:
+Vitamin A: 616 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.42 mg
+Vitamin B12: 10.51 µg
+Folate: 193 µg

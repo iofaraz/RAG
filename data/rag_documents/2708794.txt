@@ -1,0 +1,36 @@
+Food: Tortellini, spinach-filled, no sauce
+Food ID: 2708794
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 188 kcal
+Protein: 8.94 g
+Carbohydrates: 21.4 g
+Fat: 7.4 g
+Fiber: 0.9 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 2.481 g
+Monounsaturated fat: 2.581 g
+Polyunsaturated fat: 1.272 g
+Cholesterol: 123 mg
+
+Minerals:
+Sodium: 201 mg
+Potassium: 134 mg
+Calcium: 82 mg
+Iron: 2.06 mg
+Magnesium: 22 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 110 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.75 mg
+Vitamin K: 50 µg
+Vitamin B6: 0.066 mg
+Vitamin B12: 0.39 µg
+Folate: 52 µg

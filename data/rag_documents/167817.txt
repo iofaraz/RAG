@@ -1,0 +1,37 @@
+Food: Pork, fresh, leg (ham), rump half, separable lean only, cooked, roasted
+Food ID: 167817
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 28.86 g
+Carbohydrates: 0 g
+Fat: 4.62 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.451 g
+Monounsaturated fat: 1.878 g
+Polyunsaturated fat: 1.066 g
+Trans fat: 0.034 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 425 mg
+Calcium: 16 mg
+Iron: 0.97 mg
+Magnesium: 27 mg
+Zinc: 2.48 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.26 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.538 mg
+Vitamin B12: 0.67 µg
+Folate: 0 µg

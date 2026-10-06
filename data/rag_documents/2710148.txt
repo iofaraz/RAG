@@ -1,0 +1,36 @@
+Food: Fruit and vegetable smoothie, non-dairy
+Food ID: 2710148
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 60 kcal
+Protein: 1.16 g
+Carbohydrates: 12.39 g
+Fat: 0.61 g
+Fiber: 1 g
+Sugar: 8.62 g
+
+Fats:
+Saturated fat: 0.087 g
+Monounsaturated fat: 0.173 g
+Polyunsaturated fat: 0.162 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 28 mg
+Potassium: 275 mg
+Calcium: 58 mg
+Iron: 0.28 mg
+Magnesium: 30 mg
+Zinc: 0.18 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin C: 16.5 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.82 mg
+Vitamin K: 77.7 µg
+Vitamin B6: 0.124 mg
+Vitamin B12: 0.07 µg
+Folate: 33 µg

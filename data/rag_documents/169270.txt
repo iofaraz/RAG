@@ -1,0 +1,31 @@
+Food: Pumpkin flowers, raw
+Food ID: 169270
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 15 kcal
+Protein: 1.03 g
+Carbohydrates: 3.28 g
+Fat: 0.07 g
+
+Fats:
+Saturated fat: 0.036 g
+Monounsaturated fat: 0.009 g
+Polyunsaturated fat: 0.004 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 173 mg
+Calcium: 39 mg
+Iron: 0.7 mg
+Magnesium: 24 mg
+
+Vitamins:
+Vitamin A: 97 µg
+Vitamin C: 28 mg
+Vitamin D: 0 µg
+Vitamin B12: 0 µg
+Folate: 59 µg

@@ -1,0 +1,36 @@
+Food: Baby Toddler green beans, Stage 2
+Food ID: 2710125
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 24 kcal
+Protein: 1.2 g
+Carbohydrates: 5.8 g
+Fat: 0.1 g
+Fiber: 1.9 g
+Sugar: 1.08 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.004 g
+Polyunsaturated fat: 0.052 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 128 mg
+Calcium: 65 mg
+Iron: 1.08 mg
+Magnesium: 22 mg
+Zinc: 0.19 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 8.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 11.1 µg
+Vitamin B6: 0.035 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

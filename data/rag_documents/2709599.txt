@@ -1,0 +1,36 @@
+Food: Kale, raw
+Food ID: 2709599
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 43 kcal
+Protein: 2.92 g
+Carbohydrates: 4.42 g
+Fat: 1.49 g
+Fiber: 4.1 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 0.178 g
+Monounsaturated fat: 0.104 g
+Polyunsaturated fat: 0.673 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 53 mg
+Potassium: 348 mg
+Calcium: 254 mg
+Iron: 1.6 mg
+Magnesium: 33 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 241 µg
+Vitamin C: 93.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.66 mg
+Vitamin K: 390 µg
+Vitamin B6: 0.147 mg
+Vitamin B12: 0 µg
+Folate: 62 µg

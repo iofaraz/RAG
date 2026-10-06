@@ -1,0 +1,36 @@
+Food: Broccoli, fresh, cooked with oil
+Food ID: 2709650
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 67 kcal
+Protein: 2.59 g
+Carbohydrates: 6.32 g
+Fat: 3.37 g
+Fiber: 2.4 g
+Sugar: 1.41 g
+
+Fats:
+Saturated fat: 0.444 g
+Monounsaturated fat: 1.293 g
+Polyunsaturated fat: 1.179 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 153 mg
+Potassium: 306 mg
+Calcium: 47 mg
+Iron: 0.7 mg
+Magnesium: 21 mg
+Zinc: 0.42 mg
+
+Vitamins:
+Vitamin A: 8 µg
+Vitamin C: 78.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.73 mg
+Vitamin K: 105.9 µg
+Vitamin B6: 0.173 mg
+Vitamin B12: 0 µg
+Folate: 56 µg

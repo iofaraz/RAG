@@ -1,0 +1,34 @@
+Food: Soybeans, green, raw
+Food ID: 169282
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 147 kcal
+Protein: 12.95 g
+Carbohydrates: 11.05 g
+Fat: 6.8 g
+Fiber: 4.2 g
+
+Fats:
+Saturated fat: 0.786 g
+Monounsaturated fat: 1.284 g
+Polyunsaturated fat: 3.2 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 15 mg
+Potassium: 620 mg
+Calcium: 197 mg
+Iron: 3.55 mg
+Magnesium: 65 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 29 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0 µg
+Folate: 165 µg

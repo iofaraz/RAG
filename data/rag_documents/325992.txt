@@ -1,0 +1,31 @@
+Food: Sausage, turkey, breakfast links, mild, raw
+Food ID: 325992
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 169 kcal
+Protein: 16.7 g
+Carbohydrates: 0.93 g
+Fat: 10.4 g
+
+Fats:
+Saturated fat: 2.53 g
+Monounsaturated fat: 3.07 g
+Polyunsaturated fat: 3.15 g
+Trans fat: 0.104 g
+Cholesterol: 78 mg
+
+Minerals:
+Sodium: 599 mg
+Potassium: 310 mg
+Calcium: 32 mg
+Iron: 1.17 mg
+Magnesium: 18.9 mg
+Zinc: 2.58 mg
+
+Vitamins:
+Vitamin E: 0.24 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.335 mg
+Vitamin B12: 1.2 µg

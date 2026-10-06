@@ -1,0 +1,36 @@
+Food: Fish, white, mixed species, NFS
+Food ID: 2706324
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 143 kcal
+Protein: 21.96 g
+Carbohydrates: 0.01 g
+Fat: 5.85 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 1.603 g
+Monounsaturated fat: 1.964 g
+Polyunsaturated fat: 1.628 g
+Cholesterol: 64 mg
+
+Minerals:
+Sodium: 316 mg
+Potassium: 334 mg
+Calcium: 12 mg
+Iron: 0.45 mg
+Magnesium: 29 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 0 mg
+Vitamin D: 2.3 µg
+Vitamin E: 1.26 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.185 mg
+Vitamin B12: 1.99 µg
+Folate: 17 µg

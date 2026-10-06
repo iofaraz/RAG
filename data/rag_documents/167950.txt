@@ -1,0 +1,36 @@
+Food: Snacks, KRAFT, CORNNUTS, plain
+Food ID: 167950
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 446 kcal
+Protein: 8.5 g
+Carbohydrates: 71.86 g
+Fat: 15.64 g
+Fiber: 6.9 g
+Sugar: 0.61 g
+
+Fats:
+Saturated fat: 2.43 g
+Monounsaturated fat: 9.46 g
+Polyunsaturated fat: 3.05 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 564 mg
+Potassium: 278 mg
+Calcium: 9 mg
+Iron: 1.67 mg
+Magnesium: 113 mg
+Zinc: 1.78 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.98 mg
+Vitamin K: 9.3 µg
+Vitamin B6: 0.229 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

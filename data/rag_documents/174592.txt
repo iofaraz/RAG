@@ -1,0 +1,32 @@
+Food: Bacon, turkey, unprepared
+Food ID: 174592
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 15.94 g
+Carbohydrates: 1.89 g
+Fat: 16.93 g
+
+Fats:
+Saturated fat: 4.52 g
+Monounsaturated fat: 6.223 g
+Polyunsaturated fat: 4.699 g
+Trans fat: 0.184 g
+Cholesterol: 86 mg
+
+Minerals:
+Sodium: 1069 mg
+Potassium: 349 mg
+Calcium: 80 mg
+Iron: 1.4 mg
+Magnesium: 16 mg
+Zinc: 2.54 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin E: 0.11 mg
+Vitamin B6: 0.244 mg
+Vitamin B12: 1.19 µg
+Folate: 10 µg

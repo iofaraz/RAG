@@ -1,0 +1,27 @@
+Food: Salad dressing, mayonnaise, soybean oil, without salt
+Food ID: 171418
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 717 kcal
+Protein: 1.1 g
+Carbohydrates: 2.7 g
+Fat: 79.4 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 11.8 g
+Monounsaturated fat: 22.7 g
+Polyunsaturated fat: 37.1 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 30 mg
+Potassium: 34 mg
+Calcium: 18 mg
+Iron: 0.5 mg
+
+Vitamins:
+Vitamin A: 84 µg
+Vitamin C: 0 mg

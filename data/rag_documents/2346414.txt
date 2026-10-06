@@ -1,0 +1,20 @@
+Food: Applesauce, unsweetened, with added vitamin C
+Food ID: 2346414
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.273438 g
+Carbohydrates: 12.2616 g
+Fat: 0.1625 g
+
+Minerals:
+Sodium: 0.5038 mg
+Potassium: 107.7 mg
+Calcium: 3.821 mg
+Iron: 0.04475 mg
+Magnesium: 3.938 mg
+Zinc: 0.002625 mg
+
+Vitamins:
+Vitamin C: 43.69 mg

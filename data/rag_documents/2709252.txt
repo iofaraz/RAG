@@ -1,0 +1,36 @@
+Food: Peach, canned, juice pack
+Food ID: 2709252
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 0.45 g
+Carbohydrates: 10.3 g
+Fat: 0.1 g
+Fiber: 1.2 g
+Sugar: 8.89 g
+
+Fats:
+Saturated fat: 0.012 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.038 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 141 mg
+Calcium: 4 mg
+Iron: 0.39 mg
+Magnesium: 6 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 2.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.44 mg
+Vitamin K: 1.5 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

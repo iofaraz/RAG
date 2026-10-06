@@ -1,0 +1,36 @@
+Food: Pork, fresh, spareribs, separable lean and fat, cooked, braised
+Food ID: 167854
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 397 kcal
+Protein: 29.06 g
+Carbohydrates: 0 g
+Fat: 30.3 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 11.12 g
+Monounsaturated fat: 13.48 g
+Polyunsaturated fat: 2.73 g
+Cholesterol: 121 mg
+
+Minerals:
+Sodium: 93 mg
+Potassium: 320 mg
+Calcium: 47 mg
+Iron: 1.85 mg
+Magnesium: 24 mg
+Zinc: 4.6 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 2.6 µg
+Vitamin E: 0.34 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.35 mg
+Vitamin B12: 1.08 µg
+Folate: 4 µg

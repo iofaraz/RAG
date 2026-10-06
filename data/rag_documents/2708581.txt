@@ -1,0 +1,36 @@
+Food: Nachos, chicken, with beans
+Food ID: 2708581
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 203 kcal
+Protein: 9.62 g
+Carbohydrates: 18.26 g
+Fat: 10.48 g
+Fiber: 2 g
+Sugar: 0.38 g
+
+Fats:
+Saturated fat: 2.207 g
+Monounsaturated fat: 3.569 g
+Polyunsaturated fat: 3.832 g
+Cholesterol: 30 mg
+
+Minerals:
+Sodium: 425 mg
+Potassium: 186 mg
+Calcium: 53 mg
+Iron: 1 mg
+Magnesium: 32 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.41 mg
+Vitamin K: 8.9 µg
+Vitamin B6: 0.208 mg
+Vitamin B12: 0.1 µg
+Folate: 15 µg

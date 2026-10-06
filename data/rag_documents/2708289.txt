@@ -1,0 +1,36 @@
+Food: Pretzels, soft, gluten free, coated or flavored
+Food ID: 2708289
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 326 kcal
+Protein: 4.1 g
+Carbohydrates: 54.15 g
+Fat: 10.37 g
+Fiber: 3.7 g
+Sugar: 3.56 g
+
+Fats:
+Saturated fat: 4.758 g
+Monounsaturated fat: 3.442 g
+Polyunsaturated fat: 0.71 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 808 mg
+Potassium: 71 mg
+Calcium: 93 mg
+Iron: 1.77 mg
+Magnesium: 10 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 42 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.062 mg
+Vitamin B12: 0.01 µg
+Folate: 23 µg

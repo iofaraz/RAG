@@ -1,0 +1,25 @@
+Food: Almond milk, unsweetened, plain, refrigerated
+Food ID: 2257045
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.65625 g
+Carbohydrates: 0.67075 g
+Fat: 1.558 g
+Fiber: 0 g
+
+Minerals:
+Sodium: 59.22 mg
+Potassium: 49.27 mg
+Calcium: 157.5 mg
+Iron: 0.1247 mg
+Magnesium: 8.249 mg
+Zinc: 0.07661 mg
+
+Vitamins:
+Vitamin D: 1.59 µg
+Vitamin K: 0 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.4492 µg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Soup, tomato, canned, condensed, reduced sodium
+Food ID: 171587
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 65 kcal
+Protein: 1.61 g
+Carbohydrates: 13.41 g
+Fat: 0.56 g
+Fiber: 1.2 g
+Sugar: 8.11 g
+
+Fats:
+Saturated fat: 0.155 g
+Monounsaturated fat: 0.179 g
+Polyunsaturated fat: 0.189 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 22 mg
+Potassium: 229 mg
+Calcium: 13 mg
+Iron: 1.11 mg
+Magnesium: 14 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin C: 12.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

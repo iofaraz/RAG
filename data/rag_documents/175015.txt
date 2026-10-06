@@ -1,0 +1,31 @@
+Food: Pie, chocolate mousse, prepared from mix, no-bake type
+Food ID: 175015
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 3.5 g
+Carbohydrates: 29.6 g
+Fat: 15.4 g
+
+Fats:
+Saturated fat: 8.195 g
+Monounsaturated fat: 5.084 g
+Polyunsaturated fat: 0.814 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 460 mg
+Potassium: 285 mg
+Calcium: 77 mg
+Iron: 1.08 mg
+Magnesium: 32 mg
+Zinc: 0.6 mg
+
+Vitamins:
+Vitamin A: 124 µg
+Vitamin C: 0.5 mg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0.21 µg
+Folate: 26 µg

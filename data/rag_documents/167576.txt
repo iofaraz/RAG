@@ -1,0 +1,36 @@
+Food: Ice creams, vanilla, light, soft-serve
+Food ID: 167576
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 4.9 g
+Carbohydrates: 21.8 g
+Fat: 2.6 g
+Fiber: 0 g
+Sugar: 18.69 g
+
+Fats:
+Saturated fat: 1.63 g
+Monounsaturated fat: 0.76 g
+Polyunsaturated fat: 0.1 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 70 mg
+Potassium: 221 mg
+Calcium: 157 mg
+Iron: 0.06 mg
+Magnesium: 14 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.5 µg
+Folate: 5 µg

@@ -1,0 +1,30 @@
+Food: Spelt, cooked
+Food ID: 169746
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 127 kcal
+Protein: 5.5 g
+Carbohydrates: 26.44 g
+Fat: 0.85 g
+Fiber: 3.9 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 143 mg
+Calcium: 10 mg
+Iron: 1.67 mg
+Magnesium: 49 mg
+Zinc: 1.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.26 mg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0 µg
+Folate: 13 µg

@@ -1,0 +1,36 @@
+Food: Chimichanga, chicken
+Food ID: 2708589
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 304 kcal
+Protein: 12.5 g
+Carbohydrates: 25.76 g
+Fat: 16.42 g
+Fiber: 1.8 g
+Sugar: 1.96 g
+
+Fats:
+Saturated fat: 4.02 g
+Monounsaturated fat: 5.821 g
+Polyunsaturated fat: 5.13 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 414 mg
+Potassium: 147 mg
+Calcium: 107 mg
+Iron: 2.11 mg
+Magnesium: 20 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.81 mg
+Vitamin K: 14 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0.13 µg
+Folate: 51 µg

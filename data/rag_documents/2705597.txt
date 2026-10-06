@@ -1,0 +1,36 @@
+Food: Cream, heavy
+Food ID: 2705597
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 343 kcal
+Protein: 2.02 g
+Carbohydrates: 3.8 g
+Fat: 35.56 g
+Fiber: 0 g
+Sugar: 2.92 g
+
+Fats:
+Saturated fat: 20.4 g
+Monounsaturated fat: 7.34 g
+Polyunsaturated fat: 1.57 g
+Cholesterol: 103 mg
+
+Minerals:
+Sodium: 21 mg
+Potassium: 97 mg
+Calcium: 61 mg
+Iron: 0 mg
+Magnesium: 6 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 327 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1.6 µg
+Vitamin E: 0.92 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

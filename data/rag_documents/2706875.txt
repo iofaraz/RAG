@@ -1,0 +1,36 @@
+Food: Livers, chicken, chopped, with eggs and onion
+Food ID: 2706875
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 226 kcal
+Protein: 12.89 g
+Carbohydrates: 2.87 g
+Fat: 17.69 g
+Fiber: 0.4 g
+Sugar: 1.23 g
+
+Fats:
+Saturated fat: 5.352 g
+Monounsaturated fat: 7.158 g
+Polyunsaturated fat: 3.84 g
+Cholesterol: 315 mg
+
+Minerals:
+Sodium: 1047 mg
+Potassium: 170 mg
+Calcium: 20 mg
+Iron: 5.26 mg
+Magnesium: 15 mg
+Zinc: 1.93 mg
+
+Vitamins:
+Vitamin A: 1741 µg
+Vitamin C: 13.9 mg
+Vitamin D: 1 µg
+Vitamin E: 0.88 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.375 mg
+Vitamin B12: 7.45 µg
+Folate: 261 µg

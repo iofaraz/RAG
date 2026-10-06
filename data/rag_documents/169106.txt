@@ -1,0 +1,37 @@
+Food: Tangerines, (mandarin oranges), canned, juice pack
+Food ID: 169106
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 37 kcal
+Protein: 0.62 g
+Carbohydrates: 9.57 g
+Fat: 0.03 g
+Fiber: 0.7 g
+Sugar: 8.87 g
+
+Fats:
+Saturated fat: 0.003 g
+Monounsaturated fat: 0.005 g
+Polyunsaturated fat: 0.005 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 133 mg
+Calcium: 11 mg
+Iron: 0.27 mg
+Magnesium: 11 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 34.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0 µg
+Folate: 5 µg

@@ -1,0 +1,36 @@
+Food: Mushrooms, portabella, raw
+Food ID: 169255
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 22 kcal
+Protein: 2.11 g
+Carbohydrates: 3.87 g
+Fat: 0.35 g
+Fiber: 1.3 g
+Sugar: 2.5 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.044 g
+Polyunsaturated fat: 0.296 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 364 mg
+Calcium: 3 mg
+Iron: 0.31 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.148 mg
+Vitamin B12: 0.05 µg
+Folate: 28 µg

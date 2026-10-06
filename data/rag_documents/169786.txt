@@ -1,0 +1,36 @@
+Food: Infant Formula, GERBER GOOD START 2, GENTLE PLUS, powder
+Food ID: 169786
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 492 kcal
+Protein: 10.8 g
+Carbohydrates: 57.1 g
+Fat: 25.1 g
+Fiber: 0 g
+Sugar: 57.1 g
+
+Fats:
+Saturated fat: 10.517 g
+Monounsaturated fat: 9.126 g
+Polyunsaturated fat: 4.862 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 133 mg
+Potassium: 531 mg
+Calcium: 935 mg
+Iron: 9.8 mg
+Magnesium: 34 mg
+Zinc: 3.9 mg
+
+Vitamins:
+Vitamin A: 447 µg
+Vitamin C: 59 mg
+Vitamin D: 7.4 µg
+Vitamin E: 4.41 mg
+Vitamin K: 39 µg
+Vitamin B6: 0.369 mg
+Vitamin B12: 1.6 µg
+Folate: 74 µg

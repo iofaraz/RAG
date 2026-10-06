@@ -1,0 +1,36 @@
+Food: Chili, white
+Food ID: 2706427
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 95 kcal
+Protein: 9.92 g
+Carbohydrates: 9.68 g
+Fat: 1.91 g
+Fiber: 2.4 g
+Sugar: 0.97 g
+
+Fats:
+Saturated fat: 0.54 g
+Monounsaturated fat: 0.737 g
+Polyunsaturated fat: 0.455 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 324 mg
+Potassium: 280 mg
+Calcium: 36 mg
+Iron: 1.5 mg
+Magnesium: 29 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 4.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.57 mg
+Vitamin K: 3 µg
+Vitamin B6: 0.217 mg
+Vitamin B12: 0.07 µg
+Folate: 30 µg

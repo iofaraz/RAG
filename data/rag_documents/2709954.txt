@@ -1,0 +1,36 @@
+Food: Palm hearts, cooked
+Food ID: 2709954
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 134 kcal
+Protein: 2.62 g
+Carbohydrates: 24.8 g
+Fat: 2.74 g
+Fiber: 1.5 g
+Sugar: 16.62 g
+
+Fats:
+Saturated fat: 0.711 g
+Monounsaturated fat: 0.908 g
+Polyunsaturated fat: 0.816 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 135 mg
+Potassium: 1749 mg
+Calcium: 18 mg
+Iron: 1.64 mg
+Magnesium: 10 mg
+Zinc: 3.61 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 6.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.722 mg
+Vitamin B12: 0 µg
+Folate: 20 µg

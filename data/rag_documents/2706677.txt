@@ -1,0 +1,36 @@
+Food: Stew, chicken, with pasta
+Food ID: 2706677
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 108 kcal
+Protein: 10.24 g
+Carbohydrates: 10.81 g
+Fat: 2.49 g
+Fiber: 1.1 g
+Sugar: 0.92 g
+
+Fats:
+Saturated fat: 0.682 g
+Monounsaturated fat: 0.941 g
+Polyunsaturated fat: 0.566 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 301 mg
+Potassium: 182 mg
+Calcium: 10 mg
+Iron: 0.67 mg
+Magnesium: 18 mg
+Zinc: 0.63 mg
+
+Vitamins:
+Vitamin A: 68 µg
+Vitamin C: 3.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.19 mg
+Vitamin K: 3.9 µg
+Vitamin B6: 0.249 mg
+Vitamin B12: 0.09 µg
+Folate: 26 µg

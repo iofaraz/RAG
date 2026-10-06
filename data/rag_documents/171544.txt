@@ -1,0 +1,36 @@
+Food: Soup, chicken rice, canned, chunky, ready-to-serve
+Food ID: 171544
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 53 kcal
+Protein: 5.11 g
+Carbohydrates: 5.41 g
+Fat: 1.33 g
+Fiber: 0.4 g
+Sugar: 0.6 g
+
+Fats:
+Saturated fat: 0.4 g
+Monounsaturated fat: 0.6 g
+Polyunsaturated fat: 0.28 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 370 mg
+Potassium: 45 mg
+Calcium: 14 mg
+Iron: 0.78 mg
+Magnesium: 4 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 122 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.24 mg
+Vitamin K: 7.2 µg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0.13 µg
+Folate: 2 µg

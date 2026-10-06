@@ -1,0 +1,34 @@
+Food: Steelhead trout, dried, flesh (Shoshone Bannock)
+Food ID: 168059
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 382 kcal
+Protein: 77.27 g
+Carbohydrates: 0 g
+Fat: 8.06 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.829 g
+Monounsaturated fat: 1.228 g
+Polyunsaturated fat: 1.739 g
+Cholesterol: 227 mg
+
+Minerals:
+Sodium: 2850 mg
+Potassium: 1720 mg
+Calcium: 85 mg
+Iron: 2.96 mg
+Magnesium: 84 mg
+Zinc: 1.79 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 0 mg
+Vitamin D: 15.7 µg
+Vitamin E: 2.41 mg
+Vitamin K: 0 µg
+Vitamin B12: 22.4 µg

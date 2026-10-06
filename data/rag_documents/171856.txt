@@ -1,0 +1,37 @@
+Food: Crackers, water biscuits
+Food ID: 171856
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 7.14 g
+Carbohydrates: 72.81 g
+Fat: 7.14 g
+Fiber: 7.1 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 4.043 g
+Polyunsaturated fat: 2.457 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 571 mg
+Potassium: 99 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 20 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.29 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.041 mg
+Vitamin B12: 0 µg
+Folate: 24 µg

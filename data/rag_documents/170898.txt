@@ -1,0 +1,37 @@
+Food: Cheese, mexican, queso cotija
+Food ID: 170898
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 366 kcal
+Protein: 20 g
+Carbohydrates: 3.97 g
+Fat: 30 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 17.5 g
+Monounsaturated fat: 8.333 g
+Polyunsaturated fat: 1.187 g
+Trans fat: 0 g
+Cholesterol: 100 mg
+
+Minerals:
+Sodium: 1400 mg
+Potassium: 125 mg
+Calcium: 800 mg
+Iron: 0 mg
+Magnesium: 38 mg
+Zinc: 3.87 mg
+
+Vitamins:
+Vitamin A: 229 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.25 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.049 mg
+Vitamin B12: 2.26 µg
+Folate: 10 µg

@@ -1,0 +1,23 @@
+Food: Apples, granny smith, with skin, raw
+Food ID: 1750342
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.265625 g
+Carbohydrates: 14.143 g
+Fat: 0.1375 g
+Fiber: 2.514 g
+Sugar: 10.65 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 115.9 mg
+Calcium: 5.483 mg
+Iron: 0.06963 mg
+Magnesium: 5.055 mg
+Zinc: 0.02276 mg
+
+Vitamins:
+Vitamin B6: 0.02788 mg
+Folate: 0 µg

@@ -1,0 +1,36 @@
+Food: Breakfast bar, cereal crust with fruit filling, lowfat
+Food ID: 2708116
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 376 kcal
+Protein: 4.4 g
+Carbohydrates: 72.8 g
+Fat: 7.5 g
+Fiber: 2.1 g
+Sugar: 35.1 g
+
+Fats:
+Saturated fat: 1.5 g
+Monounsaturated fat: 5 g
+Polyunsaturated fat: 0.9 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 337 mg
+Potassium: 197 mg
+Calcium: 41 mg
+Iron: 4.86 mg
+Magnesium: 27 mg
+Zinc: 4.1 mg
+
+Vitamins:
+Vitamin A: 608 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.76 mg
+Vitamin K: 13.8 µg
+Vitamin B6: 1.4 mg
+Vitamin B12: 0 µg
+Folate: 108 µg

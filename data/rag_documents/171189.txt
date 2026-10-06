@@ -1,0 +1,23 @@
+Food: Soup, vegetable beef, microwavable, ready-to-serve, single brand
+Food ID: 171189
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 6.2 g
+Carbohydrates: 3.3 g
+Fat: 0.7 g
+Fiber: 1.5 g
+
+Fats:
+Saturated fat: 0.221 g
+Monounsaturated fat: 0.223 g
+Polyunsaturated fat: 0.112 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 376 mg
+
+Vitamins:
+Vitamin A: 33 µg

@@ -1,0 +1,37 @@
+Food: Focaccia, Italian flatbread, plain
+Food ID: 167945
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 249 kcal
+Protein: 8.77 g
+Carbohydrates: 35.82 g
+Fat: 7.89 g
+Fiber: 1.8 g
+Sugar: 1.75 g
+
+Fats:
+Saturated fat: 0.877 g
+Monounsaturated fat: 5.67 g
+Polyunsaturated fat: 0.994 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 561 mg
+Potassium: 114 mg
+Calcium: 35 mg
+Iron: 3.16 mg
+Magnesium: 20 mg
+Zinc: 1.33 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.42 mg
+Vitamin K: 5.7 µg
+Vitamin B6: 0.113 mg
+Vitamin B12: 0 µg
+Folate: 138 µg

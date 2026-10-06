@@ -1,0 +1,37 @@
+Food: Mollusks, clam, mixed species, canned, drained solids
+Food ID: 171976
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 24.25 g
+Carbohydrates: 5.9 g
+Fat: 1.59 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.309 g
+Monounsaturated fat: 0.198 g
+Polyunsaturated fat: 0.318 g
+Trans fat: 0.024 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 112 mg
+Potassium: 628 mg
+Calcium: 65 mg
+Iron: 2.68 mg
+Magnesium: 32 mg
+Zinc: 0.84 mg
+
+Vitamins:
+Vitamin A: 149 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.12 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.016 mg
+Vitamin B12: 18.63 µg
+Folate: 7 µg

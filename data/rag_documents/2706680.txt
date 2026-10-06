@@ -1,0 +1,36 @@
+Food: Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce
+Food ID: 2706680
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 151 kcal
+Protein: 8 g
+Carbohydrates: 18.11 g
+Fat: 5.41 g
+Fiber: 1.4 g
+Sugar: 0.83 g
+
+Fats:
+Saturated fat: 0.942 g
+Monounsaturated fat: 2.098 g
+Polyunsaturated fat: 1.67 g
+Cholesterol: 37 mg
+
+Minerals:
+Sodium: 352 mg
+Potassium: 120 mg
+Calcium: 16 mg
+Iron: 1.15 mg
+Magnesium: 22 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.74 mg
+Vitamin K: 7.5 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 0.12 µg
+Folate: 59 µg

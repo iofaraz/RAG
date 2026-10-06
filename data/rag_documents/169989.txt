@@ -1,0 +1,37 @@
+Food: Celery, cooked, boiled, drained, without salt
+Food ID: 169989
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 18 kcal
+Protein: 0.83 g
+Carbohydrates: 4 g
+Fat: 0.16 g
+Fiber: 1.6 g
+Sugar: 2.37 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.03 g
+Polyunsaturated fat: 0.075 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 91 mg
+Potassium: 284 mg
+Calcium: 42 mg
+Iron: 0.42 mg
+Magnesium: 12 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 6.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.35 mg
+Vitamin K: 37.8 µg
+Vitamin B6: 0.086 mg
+Vitamin B12: 0 µg
+Folate: 33 µg

@@ -1,0 +1,36 @@
+Food: Candy, marshmallow
+Food ID: 2710353
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 318 kcal
+Protein: 1.8 g
+Carbohydrates: 81.3 g
+Fat: 0.2 g
+Fiber: 0.1 g
+Sugar: 57.56 g
+
+Fats:
+Saturated fat: 0.056 g
+Monounsaturated fat: 0.08 g
+Polyunsaturated fat: 0.047 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 5 mg
+Calcium: 3 mg
+Iron: 0.23 mg
+Magnesium: 2 mg
+Zinc: 0.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.003 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

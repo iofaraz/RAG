@@ -1,0 +1,36 @@
+Food: Barfi or Burfi, Indian dessert
+Food ID: 2705700
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 284 kcal
+Protein: 5.42 g
+Carbohydrates: 40.43 g
+Fat: 11.36 g
+Fiber: 0.4 g
+Sugar: 36.97 g
+
+Fats:
+Saturated fat: 6.114 g
+Monounsaturated fat: 3.471 g
+Polyunsaturated fat: 0.829 g
+Cholesterol: 35 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 185 mg
+Calcium: 148 mg
+Iron: 0.22 mg
+Magnesium: 19 mg
+Zinc: 0.5 mg
+
+Vitamins:
+Vitamin A: 96 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.71 mg
+Vitamin K: 1 µg
+Vitamin B6: 0.069 mg
+Vitamin B12: 0.23 µg
+Folate: 4 µg

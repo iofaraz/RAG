@@ -1,0 +1,36 @@
+Food: Doughnuts, yeast-leavened, with jelly filling
+Food ID: 172759
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 340 kcal
+Protein: 5.9 g
+Carbohydrates: 39 g
+Fat: 18.7 g
+Fiber: 0.9 g
+Sugar: 21.1 g
+
+Fats:
+Saturated fat: 4.843 g
+Monounsaturated fat: 10.226 g
+Polyunsaturated fat: 2.377 g
+Cholesterol: 26 mg
+
+Minerals:
+Sodium: 455 mg
+Potassium: 79 mg
+Calcium: 25 mg
+Iron: 1.76 mg
+Magnesium: 20 mg
+Zinc: 0.75 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin K: 7.1 µg
+Vitamin B6: 0.1 mg
+Vitamin B12: 0.22 µg
+Folate: 68 µg

@@ -1,0 +1,32 @@
+Food: Babyfood, cereal, high protein, with apple and orange, dry
+Food ID: 170973
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 25.4 g
+Carbohydrates: 57.6 g
+Fat: 6.5 g
+Fiber: 7.1 g
+
+Fats:
+Saturated fat: 0.96 g
+Monounsaturated fat: 1.231 g
+Polyunsaturated fat: 3.429 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 104 mg
+Potassium: 1330 mg
+Calcium: 751 mg
+Iron: 47.5 mg
+Magnesium: 159 mg
+Zinc: 2.7 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 3.1 mg
+Vitamin B6: 0.351 mg
+Vitamin B12: 0.3 µg
+Folate: 190 µg

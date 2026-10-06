@@ -1,0 +1,31 @@
+Food: Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON MULTIGRAIN CRUNCH BAR
+Food ID: 174781
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 422 kcal
+Protein: 18.49 g
+Carbohydrates: 57.27 g
+Fat: 13.18 g
+Fiber: 2.8 g
+Sugar: 33.04 g
+
+Fats:
+Saturated fat: 4.794 g
+Trans fat: 0.197 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 418 mg
+Calcium: 953 mg
+Iron: 14.67 mg
+Magnesium: 255 mg
+Zinc: 9.55 mg
+
+Vitamins:
+Vitamin C: 144.3 mg
+Vitamin E: 24.57 mg
+Vitamin B6: 3.636 mg
+Vitamin B12: 10.91 µg
+Folate: 727 µg

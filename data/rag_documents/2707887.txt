@@ -1,0 +1,36 @@
+Food: Cake or cupcake, strawberry
+Food ID: 2707887
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 326 kcal
+Protein: 2.22 g
+Carbohydrates: 50.25 g
+Fat: 12.89 g
+Fiber: 0.5 g
+Sugar: 37.39 g
+
+Fats:
+Saturated fat: 2.533 g
+Monounsaturated fat: 4.384 g
+Polyunsaturated fat: 5.148 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 283 mg
+Potassium: 52 mg
+Calcium: 65 mg
+Iron: 0.87 mg
+Magnesium: 5 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 3.3 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.84 mg
+Vitamin K: 10.7 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.1 µg
+Folate: 22 µg

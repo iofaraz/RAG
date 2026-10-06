@@ -1,0 +1,37 @@
+Food: Radishes, oriental, dried
+Food ID: 168453
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 271 kcal
+Protein: 7.9 g
+Carbohydrates: 63.37 g
+Fat: 0.72 g
+Fiber: 23.9 g
+Sugar: 37.32 g
+
+Fats:
+Saturated fat: 0.218 g
+Monounsaturated fat: 0.119 g
+Polyunsaturated fat: 0.325 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 278 mg
+Potassium: 3494 mg
+Calcium: 629 mg
+Iron: 6.73 mg
+Magnesium: 170 mg
+Zinc: 2.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 4.5 µg
+Vitamin B6: 0.618 mg
+Vitamin B12: 0 µg
+Folate: 295 µg

@@ -1,0 +1,36 @@
+Food: Popcorn chips, other flavors
+Food ID: 2708243
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 438 kcal
+Protein: 10.19 g
+Carbohydrates: 74.18 g
+Fat: 11.19 g
+Fiber: 4.9 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 1.579 g
+Monounsaturated fat: 3.175 g
+Polyunsaturated fat: 5.785 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 586 mg
+Potassium: 252 mg
+Calcium: 148 mg
+Iron: 1.48 mg
+Magnesium: 90 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.2 mg
+Vitamin D: 0 µg
+Vitamin E: 4.61 mg
+Vitamin K: 19.5 µg
+Vitamin B6: 0.167 mg
+Vitamin B12: 0 µg
+Folate: 15 µg

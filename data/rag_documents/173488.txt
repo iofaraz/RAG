@@ -1,0 +1,26 @@
+Food: Babyfood, dinner, vegetables and dumplings and beef, junior
+Food ID: 173488
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 2.1 g
+Carbohydrates: 8 g
+Fat: 0.8 g
+Sugar: 0 g
+
+Minerals:
+Sodium: 52 mg
+Potassium: 47 mg
+Calcium: 14 mg
+Iron: 0.47 mg
+Magnesium: 7 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0.8 mg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.09 µg
+Folate: 7 µg

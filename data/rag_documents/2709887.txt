@@ -1,0 +1,36 @@
+Food: Cabbage, Chinese, cooked, no added fat
+Food ID: 2709887
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 14 kcal
+Protein: 1.56 g
+Carbohydrates: 2.26 g
+Fat: 0.21 g
+Fiber: 1 g
+Sugar: 1.23 g
+
+Fats:
+Saturated fat: 0.028 g
+Monounsaturated fat: 0.016 g
+Polyunsaturated fat: 0.1 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 188 mg
+Potassium: 262 mg
+Calcium: 109 mg
+Iron: 0.83 mg
+Magnesium: 20 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 220 µg
+Vitamin C: 39.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 47.3 µg
+Vitamin B6: 0.181 mg
+Vitamin B12: 0 µg
+Folate: 58 µg

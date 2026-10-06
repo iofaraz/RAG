@@ -1,0 +1,36 @@
+Food: Congee, with meat, poultry, and/or seafood
+Food ID: 2708981
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 58 kcal
+Protein: 4.34 g
+Carbohydrates: 7 g
+Fat: 1.28 g
+Fiber: 0.1 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 0.449 g
+Monounsaturated fat: 0.542 g
+Polyunsaturated fat: 0.134 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 246 mg
+Potassium: 55 mg
+Calcium: 7 mg
+Iron: 0.47 mg
+Magnesium: 7 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 0.24 µg
+Folate: 16 µg

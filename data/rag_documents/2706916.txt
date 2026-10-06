@@ -1,0 +1,36 @@
+Food: Big Mac (McDonalds)
+Food ID: 2706916
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 261 kcal
+Protein: 11.94 g
+Carbohydrates: 21.53 g
+Fat: 14.1 g
+Fiber: 1.4 g
+Sugar: 3.26 g
+
+Fats:
+Saturated fat: 5.045 g
+Monounsaturated fat: 5.088 g
+Polyunsaturated fat: 3.826 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 485 mg
+Potassium: 182 mg
+Calcium: 127 mg
+Iron: 1.4 mg
+Magnesium: 25 mg
+Zinc: 2.16 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.06 mg
+Vitamin K: 16.4 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 1.27 µg
+Folate: 27 µg

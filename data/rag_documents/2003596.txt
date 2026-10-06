@@ -1,0 +1,22 @@
+Food: Tomato juice, with added ingredients, from concentrate, shelf stable
+Food ID: 2003596
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.859375 g
+Carbohydrates: 4.32062 g
+Fat: 0.2875 g
+
+Minerals:
+Sodium: 235.6 mg
+Potassium: 197.6 mg
+Calcium: 9.744 mg
+Iron: 0.2988 mg
+Magnesium: 10.43 mg
+Zinc: 0.104 mg
+
+Vitamins:
+Vitamin C: 49.8 mg
+Vitamin B6: 0.07613 mg
+Folate: 18.93 µg

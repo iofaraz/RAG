@@ -1,0 +1,36 @@
+Food: Hot chocolate / cocoa, reduced sugar, made with lowfat (1%) or fat free (skim) milk
+Food ID: 2705493
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 3.05 g
+Carbohydrates: 10.45 g
+Fat: 0.25 g
+Fiber: 0 g
+Sugar: 9.44 g
+
+Fats:
+Saturated fat: 0.04 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.005 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 171 mg
+Calcium: 109 mg
+Iron: 0 mg
+Magnesium: 16 mg
+Zinc: 0.46 mg
+
+Vitamins:
+Vitamin A: 52 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.046 mg
+Vitamin B12: 0.45 µg
+Folate: 2 µg

@@ -1,0 +1,36 @@
+Food: Bacalaitos fritos
+Food ID: 2708717
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 281 kcal
+Protein: 14.43 g
+Carbohydrates: 36.1 g
+Fat: 8.63 g
+Fiber: 1.2 g
+Sugar: 0.12 g
+
+Fats:
+Saturated fat: 1.152 g
+Monounsaturated fat: 3.345 g
+Polyunsaturated fat: 3.246 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 233 mg
+Potassium: 208 mg
+Calcium: 105 mg
+Iron: 2.87 mg
+Magnesium: 26 mg
+Zinc: 0.53 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 1.82 mg
+Vitamin K: 7.9 µg
+Vitamin B6: 0.092 mg
+Vitamin B12: 1.1 µg
+Folate: 56 µg

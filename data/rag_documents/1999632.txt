@@ -1,0 +1,24 @@
+Food: Spinach, baby
+Food ID: 1999632
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 2.85188 g
+Carbohydrates: 2.40632 g
+Fat: 0.6188 g
+Fiber: 1.558 g
+
+Minerals:
+Sodium: 111.4 mg
+Potassium: 581.8 mg
+Calcium: 68.35 mg
+Iron: 1.261 mg
+Magnesium: 92.86 mg
+Zinc: 0.4471 mg
+
+Vitamins:
+Vitamin A: 283 µg
+Vitamin C: 26.52 mg
+Vitamin B6: 0.1946 mg
+Folate: 116.5 µg

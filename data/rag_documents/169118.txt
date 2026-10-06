@@ -1,0 +1,37 @@
+Food: Pears, raw
+Food ID: 169118
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 0.36 g
+Carbohydrates: 15.23 g
+Fat: 0.14 g
+Fiber: 3.1 g
+Sugar: 9.75 g
+
+Fats:
+Saturated fat: 0.022 g
+Monounsaturated fat: 0.084 g
+Polyunsaturated fat: 0.094 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 116 mg
+Calcium: 9 mg
+Iron: 0.18 mg
+Magnesium: 7 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0 µg
+Folate: 7 µg

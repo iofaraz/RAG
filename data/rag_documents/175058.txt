@@ -1,0 +1,36 @@
+Food: Crackers, standard snack-type, regular, low salt
+Food ID: 175058
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 502 kcal
+Protein: 7.4 g
+Carbohydrates: 61 g
+Fat: 25.3 g
+Fiber: 1.6 g
+Sugar: 1.79 g
+
+Fats:
+Saturated fat: 3.776 g
+Monounsaturated fat: 10.64 g
+Polyunsaturated fat: 9.545 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 216 mg
+Potassium: 355 mg
+Calcium: 120 mg
+Iron: 3.6 mg
+Magnesium: 27 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.03 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.053 mg
+Vitamin B12: 0 µg
+Folate: 90 µg

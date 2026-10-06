@@ -1,0 +1,36 @@
+Food: Milk, fat free (skim)
+Food ID: 2705388
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 34 kcal
+Protein: 3.43 g
+Carbohydrates: 4.92 g
+Fat: 0.08 g
+Fiber: 0 g
+Sugar: 5.05 g
+
+Fats:
+Saturated fat: 0.049 g
+Monounsaturated fat: 0.017 g
+Polyunsaturated fat: 0.006 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 41 mg
+Potassium: 167 mg
+Calcium: 132 mg
+Iron: 0 mg
+Magnesium: 12 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 64 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.58 µg
+Folate: 2 µg

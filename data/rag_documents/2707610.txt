@@ -1,0 +1,36 @@
+Food: Bread, French or Vienna
+Food ID: 2707610
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 10.75 g
+Carbohydrates: 51.88 g
+Fat: 2.42 g
+Fiber: 2.2 g
+Sugar: 4.62 g
+
+Fats:
+Saturated fat: 0.529 g
+Monounsaturated fat: 0.362 g
+Polyunsaturated fat: 0.855 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 602 mg
+Potassium: 117 mg
+Calcium: 52 mg
+Iron: 3.91 mg
+Magnesium: 32 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0 µg
+Folate: 123 µg

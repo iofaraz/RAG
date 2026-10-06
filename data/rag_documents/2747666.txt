@@ -1,0 +1,20 @@
+Food: Scallops, bay, Patagonian, frozen, wild caught
+Food ID: 2747666
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 16.3875 g
+Carbohydrates: 2.2833 g
+Fat: 0.4192 g
+
+Minerals:
+Sodium: 252.4 mg
+Potassium: 292 mg
+Calcium: 14.03 mg
+Iron: 0.1717 mg
+Magnesium: 46.44 mg
+Zinc: 1.025 mg
+
+Vitamins:
+Vitamin B12: 0.67 µg

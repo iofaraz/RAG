@@ -1,0 +1,36 @@
+Food: Fruit juice drink, with high vitamin C, light
+Food ID: 2710585
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 19 kcal
+Protein: 0.1 g
+Carbohydrates: 4.7 g
+Fat: 0 g
+Fiber: 0.1 g
+Sugar: 4.6 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 45 mg
+Calcium: 10 mg
+Iron: 0.06 mg
+Magnesium: 3 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 32 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

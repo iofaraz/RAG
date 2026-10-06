@@ -1,0 +1,36 @@
+Food: Pizza, extra cheese, thick crust
+Food ID: 2708623
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 272 kcal
+Protein: 11.41 g
+Carbohydrates: 31.83 g
+Fat: 11 g
+Fiber: 2.1 g
+Sugar: 3.27 g
+
+Fats:
+Saturated fat: 4.576 g
+Monounsaturated fat: 2.691 g
+Polyunsaturated fat: 2.658 g
+Cholesterol: 19 mg
+
+Minerals:
+Sodium: 547 mg
+Potassium: 167 mg
+Calcium: 203 mg
+Iron: 2.37 mg
+Magnesium: 23 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 75 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.81 mg
+Vitamin K: 9.6 µg
+Vitamin B6: 0.06 mg
+Vitamin B12: 0.38 µg
+Folate: 102 µg

@@ -1,0 +1,36 @@
+Food: Beef chow mein or chop suey, no noodles
+Food ID: 2706742
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 10.76 g
+Carbohydrates: 3.85 g
+Fat: 2.61 g
+Fiber: 0.8 g
+Sugar: 1.76 g
+
+Fats:
+Saturated fat: 0.748 g
+Monounsaturated fat: 0.908 g
+Polyunsaturated fat: 0.716 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 253 mg
+Potassium: 218 mg
+Calcium: 22 mg
+Iron: 1.23 mg
+Magnesium: 11 mg
+Zinc: 1.62 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin K: 13.3 µg
+Vitamin B6: 0.315 mg
+Vitamin B12: 0.67 µg
+Folate: 28 µg

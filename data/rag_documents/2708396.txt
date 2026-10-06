@@ -1,0 +1,36 @@
+Food: Oatmeal, instant, fruit flavored, fat added
+Food ID: 2708396
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 117 kcal
+Protein: 2.29 g
+Carbohydrates: 19.51 g
+Fat: 3.4 g
+Fiber: 1.9 g
+Sugar: 8.08 g
+
+Fats:
+Saturated fat: 1.158 g
+Monounsaturated fat: 0.94 g
+Polyunsaturated fat: 0.745 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 145 mg
+Potassium: 94 mg
+Calcium: 66 mg
+Iron: 2.55 mg
+Magnesium: 23 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 192 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.35 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.392 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

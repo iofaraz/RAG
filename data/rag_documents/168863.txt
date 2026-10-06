@@ -1,0 +1,36 @@
+Food: Snacks, tortilla chips, low fat, made with olestra, nacho cheese
+Food ID: 168863
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 318 kcal
+Protein: 8.44 g
+Carbohydrates: 65.22 g
+Fat: 3.53 g
+Fiber: 6.4 g
+Sugar: 2.82 g
+
+Fats:
+Saturated fat: 1.054 g
+Monounsaturated fat: 1.379 g
+Polyunsaturated fat: 1.211 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 705 mg
+Potassium: 396 mg
+Calcium: 128 mg
+Iron: 4.8 mg
+Magnesium: 99 mg
+Zinc: 3.4 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 5.5 mg
+Vitamin D: 0 µg
+Vitamin E: 3.53 mg
+Vitamin K: 191.9 µg
+Vitamin B6: 0.241 mg
+Vitamin B12: 0.27 µg
+Folate: 16 µg

@@ -1,0 +1,36 @@
+Food: Turkey, all classes, liver, cooked, simmered
+Food ID: 171487
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 189 kcal
+Protein: 27 g
+Carbohydrates: 0 g
+Fat: 8.18 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.304 g
+Monounsaturated fat: 1.038 g
+Polyunsaturated fat: 2.167 g
+Trans fat: 0.058 g
+Cholesterol: 648 mg
+
+Minerals:
+Sodium: 98 mg
+Potassium: 153 mg
+Calcium: 19 mg
+Iron: 1.79 mg
+Magnesium: 26 mg
+Zinc: 4.53 mg
+
+Vitamins:
+Vitamin A: 10751 µg
+Vitamin C: 22.6 mg
+Vitamin E: 0.15 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.882 mg
+Vitamin B12: 28.17 µg
+Folate: 691 µg

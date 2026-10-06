@@ -1,0 +1,36 @@
+Food: Chicken or turkey souffle
+Food ID: 2706546
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 171 kcal
+Protein: 11.72 g
+Carbohydrates: 5.59 g
+Fat: 11.33 g
+Fiber: 0.1 g
+Sugar: 2.23 g
+
+Fats:
+Saturated fat: 5.194 g
+Monounsaturated fat: 3.087 g
+Polyunsaturated fat: 0.947 g
+Cholesterol: 158 mg
+
+Minerals:
+Sodium: 380 mg
+Potassium: 177 mg
+Calcium: 73 mg
+Iron: 0.86 mg
+Magnesium: 15 mg
+Zinc: 0.94 mg
+
+Vitamins:
+Vitamin A: 132 µg
+Vitamin C: 0 mg
+Vitamin D: 1.2 µg
+Vitamin E: 0.4 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.44 µg
+Folate: 22 µg

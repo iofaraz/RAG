@@ -1,0 +1,37 @@
+Food: Fruit juice smoothie, BOLTHOUSE FARMS, GREEN GOODNESS
+Food ID: 167798
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 56 kcal
+Protein: 0.63 g
+Carbohydrates: 13.04 g
+Fat: 0.33 g
+Fiber: 0.6 g
+Sugar: 11.46 g
+
+Fats:
+Saturated fat: 0.068 g
+Monounsaturated fat: 0.034 g
+Polyunsaturated fat: 0.034 g
+Trans fat: 0.003 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 177 mg
+Calcium: 18 mg
+Iron: 0.34 mg
+Magnesium: 15 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 21 µg
+Vitamin C: 6.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 8.1 µg
+Vitamin B6: 0.08 mg
+Vitamin B12: 0.55 µg
+Folate: 17 µg

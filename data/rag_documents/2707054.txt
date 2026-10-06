@@ -1,0 +1,36 @@
+Food: Italian sausage sandwich on wheat
+Food ID: 2707054
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 293 kcal
+Protein: 15.18 g
+Carbohydrates: 21.38 g
+Fat: 16.32 g
+Fiber: 2.4 g
+Sugar: 3.12 g
+
+Fats:
+Saturated fat: 5.403 g
+Monounsaturated fat: 6.734 g
+Polyunsaturated fat: 3.452 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 621 mg
+Potassium: 256 mg
+Calcium: 78 mg
+Iron: 2.12 mg
+Magnesium: 36 mg
+Zinc: 1.94 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.6 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.262 mg
+Vitamin B12: 0.59 µg
+Folate: 32 µg

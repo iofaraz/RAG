@@ -1,0 +1,36 @@
+Food: Candies, peanut bar
+Food ID: 169585
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 522 kcal
+Protein: 15.5 g
+Carbohydrates: 47.4 g
+Fat: 33.7 g
+Fiber: 4.1 g
+Sugar: 42.22 g
+
+Fats:
+Saturated fat: 4.678 g
+Monounsaturated fat: 16.721 g
+Polyunsaturated fat: 10.65 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 156 mg
+Potassium: 407 mg
+Calcium: 78 mg
+Iron: 0.97 mg
+Magnesium: 110 mg
+Zinc: 3.94 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4.1 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.153 mg
+Vitamin B12: 0 µg
+Folate: 75 µg

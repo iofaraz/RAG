@@ -1,0 +1,36 @@
+Food: Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise
+Food ID: 170753
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 257 kcal
+Protein: 15.38 g
+Carbohydrates: 22.61 g
+Fat: 11.76 g
+Fiber: 1.2 g
+Sugar: 4.99 g
+
+Fats:
+Saturated fat: 3.372 g
+Monounsaturated fat: 4.5 g
+Polyunsaturated fat: 3.207 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 605 mg
+Potassium: 256 mg
+Calcium: 92 mg
+Iron: 1.32 mg
+Magnesium: 31 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.5 mg
+Vitamin K: 8.4 µg
+Vitamin B6: 0.279 mg
+Vitamin B12: 0.46 µg
+Folate: 30 µg

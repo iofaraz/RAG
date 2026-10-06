@@ -1,0 +1,36 @@
+Food: Cheese, blue
+Food ID: 172175
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 21.4 g
+Carbohydrates: 2.34 g
+Fat: 28.74 g
+Fiber: 0 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 18.669 g
+Monounsaturated fat: 7.778 g
+Polyunsaturated fat: 0.8 g
+Cholesterol: 75 mg
+
+Minerals:
+Sodium: 1146 mg
+Potassium: 256 mg
+Calcium: 528 mg
+Iron: 0.31 mg
+Magnesium: 23 mg
+Zinc: 2.66 mg
+
+Vitamins:
+Vitamin A: 198 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.25 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.166 mg
+Vitamin B12: 1.22 µg
+Folate: 36 µg

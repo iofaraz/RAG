@@ -1,0 +1,37 @@
+Food: Plantains, yellow, baked
+Food ID: 169131
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 155 kcal
+Protein: 1.52 g
+Carbohydrates: 41.37 g
+Fat: 0.16 g
+Fiber: 2.2 g
+Sugar: 21.33 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 477 mg
+Calcium: 3 mg
+Iron: 0.28 mg
+Magnesium: 41 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 45 µg
+Vitamin C: 16.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 12.9 µg
+Vitamin B6: 0.21 mg
+Vitamin B12: 0 µg
+Folate: 53 µg

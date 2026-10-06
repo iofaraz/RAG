@@ -1,0 +1,36 @@
+Food: Cereals ready-to-eat, HEALTH VALLEY, FIBER 7 Flakes
+Food ID: 172981
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 353 kcal
+Protein: 14.44 g
+Carbohydrates: 78.15 g
+Fat: 1.41 g
+Fiber: 14.1 g
+Sugar: 20 g
+
+Fats:
+Saturated fat: 0.261 g
+Monounsaturated fat: 0.244 g
+Polyunsaturated fat: 0.61 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 200 mg
+Potassium: 480 mg
+Calcium: 71 mg
+Iron: 2.54 mg
+Magnesium: 144 mg
+Zinc: 2.89 mg
+
+Vitamins:
+Vitamin A: 106 µg
+Vitamin C: 4.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.99 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.705 mg
+Vitamin B12: 2.12 µg
+Folate: 141 µg

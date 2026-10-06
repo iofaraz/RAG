@@ -1,0 +1,13 @@
+Food: Eggs, Grade A, Large, egg yolk
+Food ID: 748236
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 334 kcal
+Protein: 16.2 g
+Carbohydrates: 1.02 g
+Fat: 28.8 g
+
+Vitamins:
+Vitamin E: 5.64 mg

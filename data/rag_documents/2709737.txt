@@ -1,0 +1,36 @@
+Food: Salsa, pico de gallo
+Food ID: 2709737
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 17 kcal
+Protein: 0.71 g
+Carbohydrates: 3.7 g
+Fat: 0.14 g
+Fiber: 1.1 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 0.023 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.057 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 443 mg
+Potassium: 157 mg
+Calcium: 11 mg
+Iron: 0.23 mg
+Magnesium: 9 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 10.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.32 mg
+Vitamin K: 6.9 µg
+Vitamin B6: 0.091 mg
+Vitamin B12: 0 µg
+Folate: 12 µg

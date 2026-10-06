@@ -1,0 +1,31 @@
+Food: Snacks, tortilla chips, nacho-flavor, reduced fat
+Food ID: 168858
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 445 kcal
+Protein: 8.7 g
+Carbohydrates: 71.6 g
+Fat: 15.2 g
+Fiber: 4.8 g
+
+Fats:
+Saturated fat: 2.91 g
+Monounsaturated fat: 8.95 g
+Polyunsaturated fat: 2.1 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 1003 mg
+Potassium: 272 mg
+Calcium: 159 mg
+Iron: 1.63 mg
+Magnesium: 97 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 0.2 mg
+Vitamin B6: 0.231 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

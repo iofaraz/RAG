@@ -1,0 +1,36 @@
+Food: Chicken wing, sauteed
+Food ID: 2706064
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 23.13 g
+Carbohydrates: 0 g
+Fat: 18.39 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.103 g
+Monounsaturated fat: 8.333 g
+Polyunsaturated fat: 4.252 g
+Cholesterol: 137 mg
+
+Minerals:
+Sodium: 402 mg
+Potassium: 206 mg
+Calcium: 18 mg
+Iron: 0.82 mg
+Magnesium: 18 mg
+Zinc: 1.6 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.05 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.542 mg
+Vitamin B12: 0.34 µg
+Folate: 9 µg

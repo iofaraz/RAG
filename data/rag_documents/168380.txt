@@ -1,0 +1,37 @@
+Food: Pork, fresh, blade, (chops), boneless, separable lean and fat, cooked, broiled
+Food ID: 168380
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 202 kcal
+Protein: 24.73 g
+Carbohydrates: 0.83 g
+Fat: 11.13 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.28 g
+Monounsaturated fat: 3.911 g
+Polyunsaturated fat: 1.471 g
+Trans fat: 0.035 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 58 mg
+Potassium: 407 mg
+Calcium: 8 mg
+Iron: 0.89 mg
+Magnesium: 24 mg
+Zinc: 2.32 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.21 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.515 mg
+Vitamin B12: 0.68 µg
+Folate: 0 µg

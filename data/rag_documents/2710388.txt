@@ -1,0 +1,36 @@
+Food: Coffee, Latte, with non-dairy milk
+Food ID: 2710388
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 28 kcal
+Protein: 0.97 g
+Carbohydrates: 2.81 g
+Fat: 1.36 g
+Fiber: 0.1 g
+Sugar: 1.69 g
+
+Fats:
+Saturated fat: 0.148 g
+Monounsaturated fat: 0.65 g
+Polyunsaturated fat: 0.439 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 44 mg
+Potassium: 63 mg
+Calcium: 128 mg
+Iron: 0.29 mg
+Magnesium: 22 mg
+Zinc: 0.17 mg
+
+Vitamins:
+Vitamin A: 29 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1.72 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0.31 µg
+Folate: 4 µg

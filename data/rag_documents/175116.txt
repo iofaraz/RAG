@@ -1,0 +1,36 @@
+Food: Fish, herring, Atlantic, raw
+Food ID: 175116
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 17.96 g
+Carbohydrates: 0 g
+Fat: 9.04 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.04 g
+Monounsaturated fat: 3.736 g
+Polyunsaturated fat: 2.133 g
+Cholesterol: 60 mg
+
+Minerals:
+Sodium: 90 mg
+Potassium: 327 mg
+Calcium: 57 mg
+Iron: 1.1 mg
+Magnesium: 32 mg
+Zinc: 0.99 mg
+
+Vitamins:
+Vitamin A: 28 µg
+Vitamin C: 0.7 mg
+Vitamin D: 4.2 µg
+Vitamin E: 1.07 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.302 mg
+Vitamin B12: 13.67 µg
+Folate: 10 µg

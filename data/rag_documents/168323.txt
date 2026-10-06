@@ -1,0 +1,36 @@
+Food: Pork, fresh, variety meats and by-products, stomach, cooked, simmered
+Food ID: 168323
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 21.4 g
+Carbohydrates: 0.09 g
+Fat: 7.26 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 2.99 g
+Monounsaturated fat: 2.126 g
+Polyunsaturated fat: 0.738 g
+Trans fat: 0.11 g
+Cholesterol: 316 mg
+
+Minerals:
+Sodium: 40 mg
+Potassium: 85 mg
+Calcium: 15 mg
+Iron: 1.23 mg
+Magnesium: 15 mg
+Zinc: 2.92 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.021 mg
+Vitamin B12: 0.48 µg
+Folate: 3 µg

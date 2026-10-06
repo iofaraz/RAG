@@ -1,0 +1,37 @@
+Food: Loganberries, frozen
+Food ID: 169088
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 1.52 g
+Carbohydrates: 13.02 g
+Fat: 0.31 g
+Fiber: 5.3 g
+Sugar: 7.7 g
+
+Fats:
+Saturated fat: 0.011 g
+Monounsaturated fat: 0.03 g
+Polyunsaturated fat: 0.176 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 1 mg
+Potassium: 145 mg
+Calcium: 26 mg
+Iron: 0.64 mg
+Magnesium: 21 mg
+Zinc: 0.34 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 15.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.87 mg
+Vitamin K: 7.8 µg
+Vitamin B6: 0.065 mg
+Vitamin B12: 0 µg
+Folate: 26 µg

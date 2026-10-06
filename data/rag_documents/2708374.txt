@@ -1,0 +1,36 @@
+Food: Cornmeal mush, no added fat
+Food ID: 2708374
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 58 kcal
+Protein: 1.12 g
+Carbohydrates: 12.47 g
+Fat: 0.28 g
+Fiber: 0.6 g
+Sugar: 0.25 g
+
+Fats:
+Saturated fat: 0.035 g
+Monounsaturated fat: 0.061 g
+Polyunsaturated fat: 0.13 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 21 mg
+Calcium: 4 mg
+Iron: 0.65 mg
+Magnesium: 6 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0 µg
+Folate: 23 µg

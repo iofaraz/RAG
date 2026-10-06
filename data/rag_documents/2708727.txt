@@ -1,0 +1,36 @@
+Food: Pastry, egg and cheese filled
+Food ID: 2708727
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 349 kcal
+Protein: 8.38 g
+Carbohydrates: 43.76 g
+Fat: 15.66 g
+Fiber: 1.6 g
+Sugar: 6.18 g
+
+Fats:
+Saturated fat: 7.008 g
+Monounsaturated fat: 3.95 g
+Polyunsaturated fat: 1.723 g
+Cholesterol: 68 mg
+
+Minerals:
+Sodium: 216 mg
+Potassium: 123 mg
+Calcium: 84 mg
+Iron: 2.84 mg
+Magnesium: 18 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 125 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.77 mg
+Vitamin K: 3.8 µg
+Vitamin B6: 0.073 mg
+Vitamin B12: 0.21 µg
+Folate: 86 µg

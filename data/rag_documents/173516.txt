@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, beef noodle, junior
+Food ID: 173516
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 2.5 g
+Carbohydrates: 7.3 g
+Fat: 1.9 g
+Fiber: 1.1 g
+Sugar: 1.45 g
+
+Fats:
+Saturated fat: 0.766 g
+Monounsaturated fat: 0.838 g
+Polyunsaturated fat: 0.094 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 46 mg
+Calcium: 8 mg
+Iron: 0.43 mg
+Magnesium: 7 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 1.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.47 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.1 µg
+Folate: 12 µg

@@ -1,0 +1,32 @@
+Food: Nuts, coconut milk, canned (liquid expressed from grated meat and water)
+Food ID: 170173
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 197 kcal
+Protein: 2.02 g
+Carbohydrates: 2.81 g
+Fat: 21.33 g
+
+Fats:
+Saturated fat: 18.915 g
+Monounsaturated fat: 0.907 g
+Polyunsaturated fat: 0.233 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 220 mg
+Calcium: 18 mg
+Iron: 3.3 mg
+Magnesium: 46 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.028 mg
+Vitamin B12: 0 µg
+Folate: 14 µg

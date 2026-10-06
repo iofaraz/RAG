@@ -1,0 +1,37 @@
+Food: Snacks, vegetable chips, HAIN CELESTIAL GROUP, TERRA CHIPS
+Food ID: 174791
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 517 kcal
+Protein: 4.13 g
+Carbohydrates: 57.97 g
+Fat: 29.81 g
+Fiber: 10.9 g
+Sugar: 9.75 g
+
+Fats:
+Saturated fat: 1.887 g
+Monounsaturated fat: 15.409 g
+Polyunsaturated fat: 6.93 g
+Trans fat: 0.095 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 246 mg
+Potassium: 1266 mg
+Calcium: 79 mg
+Iron: 1.64 mg
+Magnesium: 86 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 97 µg
+Vitamin C: 12.1 mg
+Vitamin D: 0 µg
+Vitamin E: 8.16 mg
+Vitamin K: 44.5 µg
+Vitamin B6: 0.53 mg
+Vitamin B12: 0 µg
+Folate: 87 µg

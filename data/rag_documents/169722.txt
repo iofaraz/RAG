@@ -1,0 +1,36 @@
+Food: Wheat bran, crude
+Food ID: 169722
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 216 kcal
+Protein: 15.55 g
+Carbohydrates: 64.51 g
+Fat: 4.25 g
+Fiber: 42.8 g
+Sugar: 0.41 g
+
+Fats:
+Saturated fat: 0.63 g
+Monounsaturated fat: 0.637 g
+Polyunsaturated fat: 2.212 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 1182 mg
+Calcium: 73 mg
+Iron: 10.57 mg
+Magnesium: 611 mg
+Zinc: 7.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.49 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 1.303 mg
+Vitamin B12: 0 µg
+Folate: 79 µg

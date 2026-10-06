@@ -1,0 +1,36 @@
+Food: Pad Thai, meatless
+Food ID: 2708805
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 5.79 g
+Carbohydrates: 16.34 g
+Fat: 9.2 g
+Fiber: 1.8 g
+Sugar: 4.65 g
+
+Fats:
+Saturated fat: 1.436 g
+Monounsaturated fat: 3.518 g
+Polyunsaturated fat: 3.447 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 344 mg
+Potassium: 126 mg
+Calcium: 65 mg
+Iron: 1.17 mg
+Magnesium: 29 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 5.1 mg
+Vitamin D: 0.2 µg
+Vitamin E: 1.13 mg
+Vitamin K: 22.1 µg
+Vitamin B6: 0.085 mg
+Vitamin B12: 0.08 µg
+Folate: 27 µg

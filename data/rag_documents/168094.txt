@@ -1,0 +1,36 @@
+Food: Mayonnaise, reduced-calorie or diet, cholesterol-free
+Food ID: 168094
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 333 kcal
+Protein: 0.9 g
+Carbohydrates: 6.7 g
+Fat: 33.3 g
+Fiber: 0 g
+Sugar: 4.2 g
+
+Fats:
+Saturated fat: 4.618 g
+Monounsaturated fat: 7.707 g
+Polyunsaturated fat: 19.5 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 733 mg
+Potassium: 67 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 6.43 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

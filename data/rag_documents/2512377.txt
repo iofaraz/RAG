@@ -1,0 +1,21 @@
+Food: Flour, cassava
+Food ID: 2512377
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 0.918225 g
+Carbohydrates: 87.313 g
+Fat: 0.4938 g
+Fiber: 4.834 g
+
+Minerals:
+Sodium: 13.08 mg
+Potassium: 197.6 mg
+Calcium: 74.55 mg
+Iron: 3.988 mg
+Magnesium: 33.56 mg
+Zinc: 0.4099 mg
+
+Vitamins:
+Vitamin B6: 0.04988 mg

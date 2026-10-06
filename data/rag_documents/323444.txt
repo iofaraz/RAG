@@ -1,0 +1,33 @@
+Food: Cheese, ricotta, whole milk
+Food ID: 323444
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 157 kcal
+Protein: 7.81 g
+Carbohydrates: 6.86 g
+Fat: 11 g
+
+Fats:
+Saturated fat: 6.97 g
+Monounsaturated fat: 2.56 g
+Polyunsaturated fat: 0.389 g
+Trans fat: 0.351 g
+Cholesterol: 48 mg
+
+Minerals:
+Sodium: 105 mg
+Potassium: 230 mg
+Calcium: 224 mg
+Iron: 0.1 mg
+Magnesium: 19.7 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 127 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0.6 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 0.78 µg
+Folate: 4 µg

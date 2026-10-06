@@ -1,0 +1,28 @@
+Food: Restaurant, Chinese, fried rice, without meat
+Food ID: 334536
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 174 kcal
+Protein: 3.84 g
+Carbohydrates: 32.5 g
+Fat: 3.19 g
+
+Fats:
+Saturated fat: 0.493 g
+Monounsaturated fat: 0.588 g
+Polyunsaturated fat: 1.13 g
+Trans fat: 0.009 g
+
+Minerals:
+Sodium: 361 mg
+Potassium: 69 mg
+Calcium: 11 mg
+Iron: 0.46 mg
+Magnesium: 9.7 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 22 µg
+Vitamin D: 0 µg

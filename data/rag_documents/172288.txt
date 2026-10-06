@@ -1,0 +1,36 @@
+Food: Babyfood, dinner, broccoli and chicken, junior
+Food ID: 172288
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 3.59 g
+Carbohydrates: 6.34 g
+Fat: 2.48 g
+Fiber: 1.4 g
+Sugar: 1.43 g
+
+Fats:
+Saturated fat: 0.51 g
+Monounsaturated fat: 0.77 g
+Polyunsaturated fat: 0.43 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 17 mg
+Potassium: 170 mg
+Calcium: 37 mg
+Iron: 0.52 mg
+Magnesium: 12 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 17.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.6 mg
+Vitamin K: 73.5 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.33 µg
+Folate: 69 µg

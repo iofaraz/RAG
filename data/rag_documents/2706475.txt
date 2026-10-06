@@ -1,0 +1,36 @@
+Food: Beef and potatoes with cream sauce, white sauce or mushroom sauce
+Food ID: 2706475
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 100 kcal
+Protein: 8.04 g
+Carbohydrates: 8.66 g
+Fat: 3.79 g
+Fiber: 0.7 g
+Sugar: 1.28 g
+
+Fats:
+Saturated fat: 1.032 g
+Monounsaturated fat: 1.051 g
+Polyunsaturated fat: 1.407 g
+Cholesterol: 18 mg
+
+Minerals:
+Sodium: 337 mg
+Potassium: 217 mg
+Calcium: 34 mg
+Iron: 0.77 mg
+Magnesium: 11 mg
+Zinc: 1.17 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.3 mg
+Vitamin K: 9.9 µg
+Vitamin B6: 0.247 mg
+Vitamin B12: 0.52 µg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Cereal, ready-to-eat, NFS
+Food ID: 2708445
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 379 kcal
+Protein: 7.74 g
+Carbohydrates: 77.71 g
+Fat: 4.01 g
+Fiber: 6.6 g
+Sugar: 25.36 g
+
+Fats:
+Saturated fat: 0.694 g
+Monounsaturated fat: 1.224 g
+Polyunsaturated fat: 1.405 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 527 mg
+Potassium: 193 mg
+Calcium: 182 mg
+Iron: 15.55 mg
+Magnesium: 66 mg
+Zinc: 1.69 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 17.1 mg
+Vitamin D: 5 µg
+Vitamin E: 0.3 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.735 mg
+Vitamin B12: 0.9 µg
+Folate: 142 µg

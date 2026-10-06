@@ -1,0 +1,37 @@
+Food: Cowpeas, common (blackeyes, crowder, southern), mature seeds, raw
+Food ID: 173758
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 336 kcal
+Protein: 23.52 g
+Carbohydrates: 60.03 g
+Fat: 1.26 g
+Fiber: 10.6 g
+Sugar: 6.9 g
+
+Fats:
+Saturated fat: 0.331 g
+Monounsaturated fat: 0.106 g
+Polyunsaturated fat: 0.542 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 16 mg
+Potassium: 1112 mg
+Calcium: 110 mg
+Iron: 8.27 mg
+Magnesium: 184 mg
+Zinc: 3.37 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 1.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.39 mg
+Vitamin K: 5 µg
+Vitamin B6: 0.357 mg
+Vitamin B12: 0 µg
+Folate: 633 µg

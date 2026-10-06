@@ -1,0 +1,36 @@
+Food: Pork, cured, ham, boneless, low sodium, extra lean (approximately 5% fat), roasted
+Food ID: 168111
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 145 kcal
+Protein: 20.9 g
+Carbohydrates: 1.5 g
+Fat: 5.5 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.801 g
+Monounsaturated fat: 2.607 g
+Polyunsaturated fat: 0.537 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 969 mg
+Potassium: 287 mg
+Calcium: 8 mg
+Iron: 1.48 mg
+Magnesium: 14 mg
+Zinc: 2.88 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.25 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.4 mg
+Vitamin B12: 0.65 µg
+Folate: 3 µg

@@ -1,0 +1,36 @@
+Food: Beef and rice with tomato-based sauce
+Food ID: 2706491
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 136 kcal
+Protein: 6.39 g
+Carbohydrates: 15.88 g
+Fat: 5.15 g
+Fiber: 0.7 g
+Sugar: 1.11 g
+
+Fats:
+Saturated fat: 1.044 g
+Monounsaturated fat: 2.144 g
+Polyunsaturated fat: 1.493 g
+Cholesterol: 14 mg
+
+Minerals:
+Sodium: 308 mg
+Potassium: 146 mg
+Calcium: 11 mg
+Iron: 1.29 mg
+Magnesium: 14 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 7 µg
+Vitamin C: 2.1 mg
+Vitamin D: 0 µg
+Vitamin E: 1.2 mg
+Vitamin K: 4.6 µg
+Vitamin B6: 0.138 mg
+Vitamin B12: 0.26 µg
+Folate: 34 µg

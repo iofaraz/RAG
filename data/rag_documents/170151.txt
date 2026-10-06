@@ -1,0 +1,33 @@
+Food: Seeds, sesame seeds, whole, roasted and toasted
+Food ID: 170151
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 565 kcal
+Protein: 16.96 g
+Carbohydrates: 25.74 g
+Fat: 48 g
+Fiber: 14 g
+
+Fats:
+Saturated fat: 6.722 g
+Monounsaturated fat: 18.127 g
+Polyunsaturated fat: 21.039 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 475 mg
+Calcium: 989 mg
+Iron: 14.76 mg
+Magnesium: 356 mg
+Zinc: 7.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.802 mg
+Vitamin B12: 0 µg
+Folate: 98 µg

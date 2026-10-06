@@ -1,0 +1,13 @@
+Food: Walrus, meat, dried (Alaska Native)
+Food ID: 167621
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 251 kcal
+Protein: 57 g
+Carbohydrates: 0 g
+Fat: 2.6 g
+
+Minerals:
+Iron: 43 mg

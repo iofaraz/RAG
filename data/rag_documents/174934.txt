@@ -1,0 +1,37 @@
+Food: Cake, chocolate, commercially prepared with chocolate frosting, in-store bakery
+Food ID: 174934
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 389 kcal
+Protein: 3.48 g
+Carbohydrates: 52.84 g
+Fat: 20.05 g
+Fiber: 2.2 g
+Sugar: 39.96 g
+
+Fats:
+Saturated fat: 5.917 g
+Monounsaturated fat: 7.343 g
+Polyunsaturated fat: 4.622 g
+Trans fat: 1.318 g
+Cholesterol: 22 mg
+
+Minerals:
+Sodium: 348 mg
+Potassium: 270 mg
+Calcium: 30 mg
+Iron: 3.04 mg
+Magnesium: 31 mg
+Zinc: 0.58 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 4.33 mg
+Vitamin K: 28.9 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 17 µg

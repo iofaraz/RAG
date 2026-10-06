@@ -1,0 +1,36 @@
+Food: Cookie, bar, with chocolate
+Food ID: 2707908
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 492 kcal
+Protein: 5.1 g
+Carbohydrates: 65.36 g
+Fat: 24.72 g
+Fiber: 2 g
+Sugar: 32.9 g
+
+Fats:
+Saturated fat: 8.091 g
+Monounsaturated fat: 6.272 g
+Polyunsaturated fat: 8.417 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 311 mg
+Potassium: 171 mg
+Calcium: 21 mg
+Iron: 5.58 mg
+Magnesium: 41 mg
+Zinc: 0.72 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.01 mg
+Vitamin K: 33.7 µg
+Vitamin B6: 0.058 mg
+Vitamin B12: 0.03 µg
+Folate: 72 µg

@@ -1,0 +1,33 @@
+Food: Veal, cubed for stew (leg and shoulder), separable lean only, raw
+Food ID: 173843
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 20.27 g
+Carbohydrates: 0 g
+Fat: 2.5 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.75 g
+Monounsaturated fat: 0.8 g
+Polyunsaturated fat: 0.26 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 83 mg
+Potassium: 331 mg
+Calcium: 17 mg
+Iron: 0.88 mg
+Magnesium: 25 mg
+Zinc: 3.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.27 mg
+Vitamin B6: 0.45 mg
+Vitamin B12: 1.49 µg
+Folate: 13 µg

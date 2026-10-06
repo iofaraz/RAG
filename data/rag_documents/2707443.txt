@@ -1,0 +1,36 @@
+Food: Soy sauce, reduced sodium
+Food ID: 2707443
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 57 kcal
+Protein: 9.05 g
+Carbohydrates: 5.59 g
+Fat: 0.3 g
+Fiber: 0.7 g
+Sugar: 0.5 g
+
+Fats:
+Saturated fat: 0.035 g
+Monounsaturated fat: 0.042 g
+Polyunsaturated fat: 0.138 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3598 mg
+Potassium: 352 mg
+Calcium: 30 mg
+Iron: 1.35 mg
+Magnesium: 69 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0 µg
+Folate: 44 µg

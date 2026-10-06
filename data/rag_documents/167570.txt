@@ -1,0 +1,37 @@
+Food: Candies, confectioner's coating, peanut butter
+Food ID: 167570
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 529 kcal
+Protein: 18.3 g
+Carbohydrates: 46.88 g
+Fat: 29.8 g
+Fiber: 5 g
+Sugar: 38.3 g
+
+Fats:
+Saturated fat: 13.12 g
+Monounsaturated fat: 12.829 g
+Polyunsaturated fat: 2.053 g
+Trans fat: 1.763 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 250 mg
+Potassium: 505 mg
+Calcium: 110 mg
+Iron: 1.7 mg
+Magnesium: 110 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 1.36 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.17 mg
+Vitamin B12: 0.2 µg
+Folate: 77 µg

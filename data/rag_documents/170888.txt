@@ -1,0 +1,36 @@
+Food: Yogurt, vanilla, low fat.
+Food ID: 170888
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 85 kcal
+Protein: 4.93 g
+Carbohydrates: 13.8 g
+Fat: 1.25 g
+Fiber: 0 g
+Sugar: 13.8 g
+
+Fats:
+Saturated fat: 0.806 g
+Monounsaturated fat: 0.343 g
+Polyunsaturated fat: 0.036 g
+Cholesterol: 5 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 219 mg
+Calcium: 171 mg
+Iron: 0.07 mg
+Magnesium: 16 mg
+Zinc: 0.83 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.045 mg
+Vitamin B12: 0.53 µg
+Folate: 11 µg

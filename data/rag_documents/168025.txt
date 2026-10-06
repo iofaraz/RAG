@@ -1,0 +1,24 @@
+Food: Seal, ringed, meat (Alaska Native)
+Food ID: 168025
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 142 kcal
+Protein: 28.4 g
+Carbohydrates: 0 g
+Fat: 3.2 g
+
+Fats:
+Saturated fat: 0.82 g
+Monounsaturated fat: 1.72 g
+Polyunsaturated fat: 0.06 g
+Cholesterol: 90 mg
+
+Minerals:
+Sodium: 110 mg
+Calcium: 5 mg
+Iron: 19.6 mg
+
+Vitamins:
+Vitamin A: 116 µg

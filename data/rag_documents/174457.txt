@@ -1,0 +1,35 @@
+Food: Lamb, New Zealand, imported, loin chop, separable lean only, cooked, fast fried
+Food ID: 174457
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 208 kcal
+Protein: 27.43 g
+Carbohydrates: 0.41 g
+Fat: 10.7 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.039 g
+Monounsaturated fat: 2.745 g
+Polyunsaturated fat: 0.539 g
+Trans fat: 0.375 g
+Cholesterol: 85 mg
+
+Minerals:
+Sodium: 84 mg
+Potassium: 367 mg
+Calcium: 42 mg
+Iron: 1.88 mg
+Magnesium: 27 mg
+Zinc: 3.48 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.37 mg
+Vitamin B6: 0.189 mg
+Vitamin B12: 1.84 µg

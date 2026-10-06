@@ -1,0 +1,36 @@
+Food: Summer squash, yellow or green, fresh, cooked with oil
+Food ID: 2709997
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 51 kcal
+Protein: 1.26 g
+Carbohydrates: 3.98 g
+Fat: 3.75 g
+Fiber: 1.1 g
+Sugar: 3.06 g
+
+Fats:
+Saturated fat: 0.557 g
+Monounsaturated fat: 1.462 g
+Polyunsaturated fat: 1.411 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 138 mg
+Potassium: 275 mg
+Calcium: 21 mg
+Iron: 0.47 mg
+Magnesium: 22 mg
+Zinc: 0.35 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 18 mg
+Vitamin D: 0 µg
+Vitamin E: 0.79 mg
+Vitamin K: 7.7 µg
+Vitamin B6: 0.137 mg
+Vitamin B12: 0 µg
+Folate: 21 µg

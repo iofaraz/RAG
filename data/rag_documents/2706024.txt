@@ -1,0 +1,36 @@
+Food: Chicken drumstick, fried, coated, skin / coating not eaten, from fast food / restaurant
+Food ID: 2706024
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 21.82 g
+Carbohydrates: 6.12 g
+Fat: 11.21 g
+Fiber: 0.2 g
+Sugar: 0.1 g
+
+Fats:
+Saturated fat: 2.322 g
+Monounsaturated fat: 4.531 g
+Polyunsaturated fat: 3.352 g
+Cholesterol: 109 mg
+
+Minerals:
+Sodium: 546 mg
+Potassium: 244 mg
+Calcium: 20 mg
+Iron: 1.28 mg
+Magnesium: 22 mg
+Zinc: 2.06 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.24 mg
+Vitamin K: 5.2 µg
+Vitamin B6: 0.222 mg
+Vitamin B12: 0.6 µg
+Folate: 21 µg

@@ -1,0 +1,35 @@
+Food: Snacks, M&M MARS, KUDOS Whole Grain Bar, chocolate chip
+Food ID: 169689
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 420 kcal
+Protein: 4.47 g
+Carbohydrates: 72.31 g
+Fat: 13.02 g
+Fiber: 2.6 g
+Sugar: 38.78 g
+
+Fats:
+Saturated fat: 4.701 g
+Monounsaturated fat: 4.71 g
+Polyunsaturated fat: 2.749 g
+Trans fat: 0.051 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 246 mg
+Potassium: 279 mg
+Calcium: 1084 mg
+Iron: 1.4 mg
+Magnesium: 70 mg
+Zinc: 1.41 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.1 mg
+Vitamin E: 10.79 mg
+Vitamin B6: 0.117 mg
+Vitamin B12: 0.14 µg
+Folate: 13 µg

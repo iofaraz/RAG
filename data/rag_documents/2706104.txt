@@ -1,0 +1,36 @@
+Food: Turkey, NFS
+Food ID: 2706104
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 139 kcal
+Protein: 28.81 g
+Carbohydrates: 0 g
+Fat: 2.06 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.588 g
+Monounsaturated fat: 0.621 g
+Polyunsaturated fat: 0.524 g
+Cholesterol: 76 mg
+
+Minerals:
+Sodium: 467 mg
+Potassium: 247 mg
+Calcium: 11 mg
+Iron: 0.65 mg
+Magnesium: 31 mg
+Zinc: 1.63 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.763 mg
+Vitamin B12: 0.82 µg
+Folate: 10 µg

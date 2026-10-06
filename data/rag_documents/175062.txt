@@ -1,0 +1,32 @@
+Food: Doughnuts, yeast-leavened, glazed, unenriched (includes honey buns)
+Food ID: 175062
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 403 kcal
+Protein: 6.4 g
+Carbohydrates: 44.3 g
+Fat: 22.8 g
+Fiber: 1.2 g
+
+Fats:
+Saturated fat: 5.813 g
+Monounsaturated fat: 12.865 g
+Polyunsaturated fat: 2.902 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 342 mg
+Potassium: 108 mg
+Calcium: 43 mg
+Iron: 0.6 mg
+Magnesium: 22 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0.1 mg
+Vitamin B6: 0.057 mg
+Vitamin B12: 0.09 µg
+Folate: 22 µg

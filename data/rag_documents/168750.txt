@@ -1,0 +1,33 @@
+Food: Alcoholic beverage, pina colada, canned
+Food ID: 168750
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 237 kcal
+Protein: 0.6 g
+Carbohydrates: 27.6 g
+Fat: 7.6 g
+Fiber: 0.1 g
+
+Fats:
+Saturated fat: 6.571 g
+Monounsaturated fat: 0.442 g
+Polyunsaturated fat: 0.137 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 71 mg
+Potassium: 83 mg
+Calcium: 1 mg
+Iron: 0.03 mg
+Magnesium: 6 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.5 mg
+Vitamin B6: 0.017 mg
+Vitamin B12: 0 µg
+Folate: 6 µg

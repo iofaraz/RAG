@@ -1,0 +1,30 @@
+Food: Game meat, goat, raw
+Food ID: 175303
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 109 kcal
+Protein: 20.6 g
+Carbohydrates: 0 g
+Fat: 2.31 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.71 g
+Monounsaturated fat: 1.03 g
+Polyunsaturated fat: 0.17 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 82 mg
+Potassium: 385 mg
+Calcium: 13 mg
+Iron: 2.83 mg
+Zinc: 4 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B12: 1.13 µg
+Folate: 5 µg

@@ -1,0 +1,36 @@
+Food: Muffins, blueberry, toaster-type
+Food ID: 172767
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 313 kcal
+Protein: 4.6 g
+Carbohydrates: 53.3 g
+Fat: 9.5 g
+Fiber: 1.8 g
+Sugar: 4.85 g
+
+Fats:
+Saturated fat: 1.398 g
+Monounsaturated fat: 2.162 g
+Polyunsaturated fat: 5.351 g
+Cholesterol: 6 mg
+
+Minerals:
+Sodium: 417 mg
+Potassium: 83 mg
+Calcium: 13 mg
+Iron: 0.51 mg
+Magnesium: 12 mg
+Zinc: 0.39 mg
+
+Vitamins:
+Vitamin A: 94 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.91 mg
+Vitamin K: 19.3 µg
+Vitamin B6: 0.027 mg
+Vitamin B12: 0.02 µg
+Folate: 65 µg

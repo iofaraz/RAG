@@ -1,0 +1,31 @@
+Food: Potatoes, o'brien, home-prepared
+Food ID: 170498
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 81 kcal
+Protein: 2.35 g
+Carbohydrates: 15.47 g
+Fat: 1.28 g
+
+Fats:
+Saturated fat: 0.797 g
+Monounsaturated fat: 0.347 g
+Polyunsaturated fat: 0.055 g
+Cholesterol: 4 mg
+
+Minerals:
+Sodium: 217 mg
+Potassium: 266 mg
+Calcium: 36 mg
+Iron: 0.47 mg
+Magnesium: 18 mg
+Zinc: 0.3 mg
+
+Vitamins:
+Vitamin C: 16.7 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.213 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

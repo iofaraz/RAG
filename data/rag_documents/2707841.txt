@@ -1,0 +1,36 @@
+Food: Muffin, plain
+Food ID: 2707841
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 374 kcal
+Protein: 5.93 g
+Carbohydrates: 52.02 g
+Fat: 16.21 g
+Fiber: 0.8 g
+Sugar: 27.48 g
+
+Fats:
+Saturated fat: 2.671 g
+Monounsaturated fat: 6.483 g
+Polyunsaturated fat: 5.692 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 358 mg
+Potassium: 130 mg
+Calcium: 165 mg
+Iron: 2.29 mg
+Magnesium: 15 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0 mg
+Vitamin D: 0.6 µg
+Vitamin E: 2.79 mg
+Vitamin K: 14.1 µg
+Vitamin B6: 0.047 mg
+Vitamin B12: 0.19 µg
+Folate: 42 µg

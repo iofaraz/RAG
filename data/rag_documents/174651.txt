@@ -1,0 +1,35 @@
+Food: Cereals, MALT-O-MEAL, original, plain, prepared with water, without salt
+Food ID: 174651
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 48 kcal
+Protein: 1.67 g
+Carbohydrates: 10.09 g
+Fat: 0.09 g
+Fiber: 0.3 g
+Sugar: 0.13 g
+
+Fats:
+Saturated fat: 0.01 g
+Monounsaturated fat: 0.01 g
+Polyunsaturated fat: 0.02 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 0 mg
+Potassium: 14 mg
+Calcium: 37 mg
+Iron: 5.19 mg
+Magnesium: 2 mg
+Zinc: 0.07 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0 µg

@@ -1,0 +1,32 @@
+Food: Noodles, japanese, soba, dry
+Food ID: 168906
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 336 kcal
+Protein: 14.38 g
+Carbohydrates: 74.62 g
+Fat: 0.71 g
+
+Fats:
+Saturated fat: 0.136 g
+Monounsaturated fat: 0.185 g
+Polyunsaturated fat: 0.22 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 792 mg
+Potassium: 252 mg
+Calcium: 35 mg
+Iron: 2.7 mg
+Magnesium: 95 mg
+Zinc: 1.71 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.24 mg
+Vitamin B12: 0 µg
+Folate: 60 µg

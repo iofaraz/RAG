@@ -1,0 +1,31 @@
+Food: Pasta, fresh-refrigerated, spinach, as purchased
+Food ID: 169729
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 289 kcal
+Protein: 11.26 g
+Carbohydrates: 55.72 g
+Fat: 2.1 g
+
+Fats:
+Saturated fat: 0.483 g
+Monounsaturated fat: 0.659 g
+Polyunsaturated fat: 0.467 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 27 mg
+Potassium: 272 mg
+Calcium: 43 mg
+Iron: 3.3 mg
+Magnesium: 63 mg
+Zinc: 1.4 mg
+
+Vitamins:
+Vitamin A: 25 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.315 mg
+Vitamin B12: 0.31 µg
+Folate: 177 µg

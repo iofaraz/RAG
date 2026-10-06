@@ -1,0 +1,36 @@
+Food: Bacon, for use on a sandwich
+Food ID: 2710256
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 494 kcal
+Protein: 39.36 g
+Carbohydrates: 2.01 g
+Fat: 36.19 g
+Fiber: 0 g
+Sugar: 2.45 g
+
+Fats:
+Saturated fat: 12.46 g
+Monounsaturated fat: 15.741 g
+Polyunsaturated fat: 6.025 g
+Cholesterol: 99 mg
+
+Minerals:
+Sodium: 1798 mg
+Potassium: 544 mg
+Calcium: 13 mg
+Iron: 1.21 mg
+Magnesium: 35 mg
+Zinc: 3.45 mg
+
+Vitamins:
+Vitamin A: 11 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 0.42 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.535 mg
+Vitamin B12: 1.09 µg
+Folate: 0 µg

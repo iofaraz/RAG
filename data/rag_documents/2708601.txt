@@ -1,0 +1,36 @@
+Food: Taquito, chicken
+Food ID: 2708601
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 12.53 g
+Carbohydrates: 31.61 g
+Fat: 10.41 g
+Fiber: 3.3 g
+Sugar: 1.6 g
+
+Fats:
+Saturated fat: 3.262 g
+Monounsaturated fat: 3.216 g
+Polyunsaturated fat: 2.805 g
+Cholesterol: 34 mg
+
+Minerals:
+Sodium: 491 mg
+Potassium: 178 mg
+Calcium: 127 mg
+Iron: 1.81 mg
+Magnesium: 40 mg
+Zinc: 1.18 mg
+
+Vitamins:
+Vitamin A: 18 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.75 mg
+Vitamin K: 6.4 µg
+Vitamin B6: 0.25 mg
+Vitamin B12: 0.16 µg
+Folate: 35 µg

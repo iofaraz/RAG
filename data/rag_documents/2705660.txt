@@ -1,0 +1,36 @@
+Food: Banana split
+Food ID: 2705660
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 199 kcal
+Protein: 2.42 g
+Carbohydrates: 32.59 g
+Fat: 6.88 g
+Fiber: 1 g
+Sugar: 24.17 g
+
+Fats:
+Saturated fat: 4.07 g
+Monounsaturated fat: 1.919 g
+Polyunsaturated fat: 0.296 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 97 mg
+Potassium: 212 mg
+Calcium: 74 mg
+Iron: 0.17 mg
+Magnesium: 18 mg
+Zinc: 0.45 mg
+
+Vitamins:
+Vitamin A: 66 µg
+Vitamin C: 4.5 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.42 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.078 mg
+Vitamin B12: 0.21 µg
+Folate: 7 µg

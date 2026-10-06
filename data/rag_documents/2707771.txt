@@ -1,0 +1,36 @@
+Food: Bread, oat bran, toasted
+Food ID: 2707771
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 9.23 g
+Carbohydrates: 53.3 g
+Fat: 4.84 g
+Fiber: 4.4 g
+Sugar: 8.94 g
+
+Fats:
+Saturated fat: 0.773 g
+Monounsaturated fat: 1.734 g
+Polyunsaturated fat: 1.87 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 491 mg
+Potassium: 156 mg
+Calcium: 73 mg
+Iron: 2.97 mg
+Magnesium: 41 mg
+Zinc: 1.12 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.075 mg
+Vitamin B12: 0.03 µg
+Folate: 58 µg

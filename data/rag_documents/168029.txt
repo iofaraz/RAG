@@ -1,0 +1,20 @@
+Food: Walrus, meat, raw (Alaska Native)
+Food ID: 168029
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 199 kcal
+Protein: 19.2 g
+Carbohydrates: 0 g
+Fat: 13.6 g
+
+Fats:
+Saturated fat: 2.57 g
+Monounsaturated fat: 8.42 g
+Polyunsaturated fat: 2.6 g
+Cholesterol: 80 mg
+
+Minerals:
+Calcium: 18 mg
+Iron: 9.4 mg

@@ -1,0 +1,36 @@
+Food: Cake or cupcake, peanut butter
+Food ID: 2707881
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 382 kcal
+Protein: 6.12 g
+Carbohydrates: 47.52 g
+Fat: 19.85 g
+Fiber: 2 g
+Sugar: 32.34 g
+
+Fats:
+Saturated fat: 4.078 g
+Monounsaturated fat: 8.127 g
+Polyunsaturated fat: 6.429 g
+Cholesterol: 43 mg
+
+Minerals:
+Sodium: 332 mg
+Potassium: 158 mg
+Calcium: 74 mg
+Iron: 1.4 mg
+Magnesium: 42 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 3.13 mg
+Vitamin K: 9.8 µg
+Vitamin B6: 0.094 mg
+Vitamin B12: 0.11 µg
+Folate: 35 µg

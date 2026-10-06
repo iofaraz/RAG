@@ -1,0 +1,36 @@
+Food: Pie, banana cream, prepared from recipe
+Food ID: 172777
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 269 kcal
+Protein: 4.4 g
+Carbohydrates: 32.9 g
+Fat: 13.6 g
+Fiber: 0.7 g
+Sugar: 12.06 g
+
+Fats:
+Saturated fat: 3.758 g
+Monounsaturated fat: 5.719 g
+Polyunsaturated fat: 3.292 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 240 mg
+Potassium: 165 mg
+Calcium: 75 mg
+Iron: 1.04 mg
+Magnesium: 16 mg
+Zinc: 0.48 mg
+
+Vitamins:
+Vitamin A: 61 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.4 mg
+Vitamin K: 6.3 µg
+Vitamin B6: 0.133 mg
+Vitamin B12: 0.25 µg
+Folate: 27 µg

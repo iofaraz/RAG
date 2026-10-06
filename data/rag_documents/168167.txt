@@ -1,0 +1,30 @@
+Food: Rambutan, canned, syrup pack
+Food ID: 168167
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 0.65 g
+Carbohydrates: 20.87 g
+Fat: 0.21 g
+Fiber: 0.9 g
+
+Fats:
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 42 mg
+Calcium: 22 mg
+Iron: 0.35 mg
+Magnesium: 7 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 4.9 mg
+Vitamin B6: 0.02 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

@@ -1,0 +1,21 @@
+Food: Flour, quinoa
+Food ID: 2512372
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 11.9223 g
+Carbohydrates: 69.5246 g
+Fat: 6.601 g
+Fiber: 6.295 g
+
+Minerals:
+Sodium: 6.321 mg
+Potassium: 550.9 mg
+Calcium: 37.56 mg
+Iron: 4.528 mg
+Magnesium: 163.8 mg
+Zinc: 2.77 mg
+
+Vitamins:
+Vitamin B6: 0.2224 mg

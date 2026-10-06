@@ -1,0 +1,36 @@
+Food: Pizza, cheese, with vegetables, from restaurant or fast food, medium crust
+Food ID: 2708627
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 242 kcal
+Protein: 10.31 g
+Carbohydrates: 30.71 g
+Fat: 8.69 g
+Fiber: 2.2 g
+Sugar: 3.62 g
+
+Fats:
+Saturated fat: 3.999 g
+Monounsaturated fat: 2.336 g
+Polyunsaturated fat: 1.514 g
+Cholesterol: 15 mg
+
+Minerals:
+Sodium: 484 mg
+Potassium: 171 mg
+Calcium: 170 mg
+Iron: 2.26 mg
+Magnesium: 23 mg
+Zinc: 1.22 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 4.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.77 mg
+Vitamin K: 6.5 µg
+Vitamin B6: 0.09 mg
+Vitamin B12: 0.38 µg
+Folate: 85 µg

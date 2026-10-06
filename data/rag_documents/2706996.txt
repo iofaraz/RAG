@@ -1,0 +1,36 @@
+Food: Club sandwich on wheat, with cheese
+Food ID: 2706996
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 16.58 g
+Carbohydrates: 19.13 g
+Fat: 10.5 g
+Fiber: 2.1 g
+Sugar: 2.59 g
+
+Fats:
+Saturated fat: 4.148 g
+Monounsaturated fat: 3.237 g
+Polyunsaturated fat: 1.685 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 798 mg
+Potassium: 293 mg
+Calcium: 192 mg
+Iron: 1.58 mg
+Magnesium: 36 mg
+Zinc: 1.72 mg
+
+Vitamins:
+Vitamin A: 38 µg
+Vitamin C: 0 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.35 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.277 mg
+Vitamin B12: 0.46 µg
+Folate: 31 µg

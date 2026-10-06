@@ -1,0 +1,36 @@
+Food: Beverages, Fruit punch drink, frozen concentrate, prepared with water
+Food ID: 174153
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 0.06 g
+Carbohydrates: 11.66 g
+Fat: 0 g
+Fiber: 0.1 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.001 g
+Monounsaturated fat: 0.001 g
+Polyunsaturated fat: 0.002 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 13 mg
+Calcium: 4 mg
+Iron: 0.09 mg
+Magnesium: 2 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 43.8 mg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.006 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

@@ -1,0 +1,19 @@
+Food: Game meat, bear, raw
+Food ID: 173845
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 161 kcal
+Protein: 20.1 g
+Carbohydrates: 0 g
+Fat: 8.3 g
+Fiber: 0 g
+
+Minerals:
+Calcium: 3 mg
+Iron: 6.65 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg

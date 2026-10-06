@@ -1,0 +1,32 @@
+Food: Veal, variety meats and by-products, kidneys, cooked, braised
+Food ID: 174357
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 163 kcal
+Protein: 26.32 g
+Carbohydrates: 0 g
+Fat: 5.66 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 1.74 g
+Monounsaturated fat: 1.24 g
+Polyunsaturated fat: 1.13 g
+Cholesterol: 791 mg
+
+Minerals:
+Sodium: 110 mg
+Potassium: 159 mg
+Calcium: 29 mg
+Iron: 3.04 mg
+Magnesium: 24 mg
+Zinc: 4.25 mg
+
+Vitamins:
+Vitamin A: 201 µg
+Vitamin C: 8 mg
+Vitamin B6: 0.18 mg
+Vitamin B12: 36.9 µg
+Folate: 21 µg

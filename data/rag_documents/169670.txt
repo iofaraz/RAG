@@ -1,0 +1,36 @@
+Food: Candies, taffy, prepared-from-recipe
+Food ID: 169670
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 397 kcal
+Protein: 0.03 g
+Carbohydrates: 91.56 g
+Fat: 3.33 g
+Fiber: 0 g
+Sugar: 68.48 g
+
+Fats:
+Saturated fat: 2.049 g
+Monounsaturated fat: 0.838 g
+Polyunsaturated fat: 0.121 g
+Trans fat: 0.131 g
+Cholesterol: 9 mg
+
+Minerals:
+Sodium: 52 mg
+Potassium: 3 mg
+Calcium: 8 mg
+Iron: 0.01 mg
+Magnesium: 0 mg
+Zinc: 0.21 mg
+
+Vitamins:
+Vitamin A: 27 µg
+Vitamin C: 0 mg
+Vitamin E: 0.09 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.01 µg
+Folate: 0 µg

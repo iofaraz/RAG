@@ -1,0 +1,37 @@
+Food: Currants, zante, dried
+Food ID: 171724
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 290 kcal
+Protein: 3.43 g
+Carbohydrates: 76.98 g
+Fat: 0.22 g
+Fiber: 4.4 g
+Sugar: 62.28 g
+
+Fats:
+Saturated fat: 0.085 g
+Monounsaturated fat: 0.021 g
+Polyunsaturated fat: 0.047 g
+Trans fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 43 mg
+Potassium: 777 mg
+Calcium: 88 mg
+Iron: 1.88 mg
+Magnesium: 36 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 4.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.11 mg
+Vitamin K: 3.3 µg
+Vitamin B6: 0.296 mg
+Vitamin B12: 0 µg
+Folate: 10 µg

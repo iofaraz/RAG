@@ -1,0 +1,36 @@
+Food: Rice bran, crude
+Food ID: 169713
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 316 kcal
+Protein: 13.35 g
+Carbohydrates: 49.69 g
+Fat: 20.85 g
+Fiber: 21 g
+Sugar: 0.9 g
+
+Fats:
+Saturated fat: 4.171 g
+Monounsaturated fat: 7.549 g
+Polyunsaturated fat: 7.459 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 1485 mg
+Calcium: 57 mg
+Iron: 18.54 mg
+Magnesium: 781 mg
+Zinc: 6.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 4.92 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 4.07 mg
+Vitamin B12: 0 µg
+Folate: 63 µg

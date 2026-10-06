@@ -1,0 +1,37 @@
+Food: Cereals ready-to-eat, RALSTON Corn Flakes
+Food ID: 174648
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 5.9 g
+Carbohydrates: 88.01 g
+Fat: 0.91 g
+Fiber: 2.7 g
+Sugar: 7.84 g
+
+Fats:
+Saturated fat: 0.227 g
+Monounsaturated fat: 0.107 g
+Polyunsaturated fat: 0.293 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 571 mg
+Potassium: 107 mg
+Calcium: 2 mg
+Iron: 19.4 mg
+Magnesium: 7 mg
+Zinc: 0.2 mg
+
+Vitamins:
+Vitamin A: 981 µg
+Vitamin C: 65 mg
+Vitamin D: 7.1 µg
+Vitamin E: 0.02 mg
+Vitamin K: 0 µg
+Vitamin B6: 1.907 mg
+Vitamin B12: 5.36 µg
+Folate: 714 µg

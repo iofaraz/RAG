@@ -1,0 +1,37 @@
+Food: Fish, haddock, raw
+Food ID: 171964
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 16.32 g
+Carbohydrates: 0 g
+Fat: 0.45 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.091 g
+Monounsaturated fat: 0.061 g
+Polyunsaturated fat: 0.166 g
+Trans fat: 0.004 g
+Cholesterol: 54 mg
+
+Minerals:
+Sodium: 213 mg
+Potassium: 286 mg
+Calcium: 11 mg
+Iron: 0.17 mg
+Magnesium: 21 mg
+Zinc: 0.32 mg
+
+Vitamins:
+Vitamin A: 17 µg
+Vitamin C: 0 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.45 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.281 mg
+Vitamin B12: 1.83 µg
+Folate: 12 µg

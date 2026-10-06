@@ -1,0 +1,36 @@
+Food: Cereal, O's, multigrain
+Food ID: 2708468
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 373 kcal
+Protein: 8.54 g
+Carbohydrates: 76.24 g
+Fat: 3.76 g
+Fiber: 10.9 g
+Sugar: 20.49 g
+
+Fats:
+Saturated fat: 0.618 g
+Monounsaturated fat: 1.09 g
+Polyunsaturated fat: 1.352 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 385 mg
+Potassium: 217 mg
+Calcium: 342 mg
+Iron: 46.58 mg
+Magnesium: 77 mg
+Zinc: 2.01 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 22.6 mg
+Vitamin D: 4.9 µg
+Vitamin E: 0.24 mg
+Vitamin K: 1 µg
+Vitamin B6: 4.271 mg
+Vitamin B12: 5.89 µg
+Folate: 603 µg

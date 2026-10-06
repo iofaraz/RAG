@@ -1,0 +1,21 @@
+Food: Tomatoes, crushed, canned
+Food ID: 2685581
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.4375 g
+Carbohydrates: 7.137 g
+Fat: 0.3975 g
+Fiber: 1.944 g
+
+Minerals:
+Sodium: 139.8 mg
+Potassium: 345.6 mg
+Calcium: 19.2 mg
+Iron: 2.268 mg
+Magnesium: 18.64 mg
+Zinc: 0.2014 mg
+
+Vitamins:
+Vitamin C: 9.1 mg

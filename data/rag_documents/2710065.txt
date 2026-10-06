@@ -1,0 +1,36 @@
+Food: Vegetable tempura
+Food ID: 2710065
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 239 kcal
+Protein: 3.81 g
+Carbohydrates: 20.45 g
+Fat: 15.81 g
+Fiber: 1.6 g
+Sugar: 1.49 g
+
+Fats:
+Saturated fat: 2.317 g
+Monounsaturated fat: 6.525 g
+Polyunsaturated fat: 5.79 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 179 mg
+Calcium: 22 mg
+Iron: 1.54 mg
+Magnesium: 15 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 60 µg
+Vitamin C: 16 mg
+Vitamin D: 0.2 µg
+Vitamin E: 3.03 mg
+Vitamin K: 26.3 µg
+Vitamin B6: 0.105 mg
+Vitamin B12: 0.06 µg
+Folate: 40 µg

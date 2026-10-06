@@ -1,0 +1,36 @@
+Food: Eggplant, pickled
+Food ID: 2710081
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 41 kcal
+Protein: 0.81 g
+Carbohydrates: 9.74 g
+Fat: 0.16 g
+Fiber: 2.5 g
+Sugar: 7.8 g
+
+Fats:
+Saturated fat: 0.028 g
+Monounsaturated fat: 0.013 g
+Polyunsaturated fat: 0.063 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 946 mg
+Potassium: 190 mg
+Calcium: 9 mg
+Iron: 0.2 mg
+Magnesium: 12 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.25 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

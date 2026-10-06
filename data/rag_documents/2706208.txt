@@ -1,0 +1,36 @@
+Food: Chicken, prepackaged or deli, luncheon meat
+Food ID: 2706208
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 98 kcal
+Protein: 17.4 g
+Carbohydrates: 2.92 g
+Fat: 1.86 g
+Fiber: 0 g
+Sugar: 0.75 g
+
+Fats:
+Saturated fat: 0.564 g
+Monounsaturated fat: 0.74 g
+Polyunsaturated fat: 0.452 g
+Cholesterol: 51 mg
+
+Minerals:
+Sodium: 1032 mg
+Potassium: 360 mg
+Calcium: 11 mg
+Iron: 0.39 mg
+Magnesium: 26 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.32 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.445 mg
+Vitamin B12: 0.14 µg
+Folate: 7 µg

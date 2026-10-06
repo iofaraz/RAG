@@ -1,0 +1,37 @@
+Food: Soy sauce, reduced sodium, made from hydrolyzed vegetable protein
+Food ID: 172474
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 90 kcal
+Protein: 8.19 g
+Carbohydrates: 14.44 g
+Fat: 0.31 g
+Fiber: 0.3 g
+Sugar: 5.63 g
+
+Fats:
+Saturated fat: 0.02 g
+Monounsaturated fat: 0.032 g
+Polyunsaturated fat: 0.089 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2890 mg
+Potassium: 3098 mg
+Calcium: 11 mg
+Iron: 0.43 mg
+Magnesium: 34 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

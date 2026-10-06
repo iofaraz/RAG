@@ -1,0 +1,36 @@
+Food: Fish, swordfish
+Food ID: 2706301
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 231 kcal
+Protein: 21.89 g
+Carbohydrates: 7.79 g
+Fat: 11.82 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 2.944 g
+Monounsaturated fat: 4.818 g
+Polyunsaturated fat: 2.593 g
+Cholesterol: 77 mg
+
+Minerals:
+Sodium: 348 mg
+Potassium: 455 mg
+Calcium: 15 mg
+Iron: 0.98 mg
+Magnesium: 34 mg
+Zinc: 0.79 mg
+
+Vitamins:
+Vitamin A: 54 µg
+Vitamin C: 0 mg
+Vitamin D: 14.6 µg
+Vitamin E: 2.81 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.55 mg
+Vitamin B12: 1.62 µg
+Folate: 18 µg

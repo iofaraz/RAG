@@ -1,0 +1,36 @@
+Food: Chicken fillet sandwich, grilled, from fast food, with cheese
+Food ID: 2707006
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 243 kcal
+Protein: 21.36 g
+Carbohydrates: 17.55 g
+Fat: 9.05 g
+Fiber: 0.6 g
+Sugar: 2.81 g
+
+Fats:
+Saturated fat: 3.315 g
+Monounsaturated fat: 2.372 g
+Polyunsaturated fat: 1.818 g
+Cholesterol: 61 mg
+
+Minerals:
+Sodium: 504 mg
+Potassium: 244 mg
+Calcium: 168 mg
+Iron: 1.44 mg
+Magnesium: 26 mg
+Zinc: 1.11 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.89 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.477 mg
+Vitamin B12: 0.36 µg
+Folate: 37 µg

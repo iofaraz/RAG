@@ -1,0 +1,32 @@
+Food: Seeds, safflower seed kernels, dried
+Food ID: 170558
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 517 kcal
+Protein: 16.18 g
+Carbohydrates: 34.29 g
+Fat: 38.45 g
+
+Fats:
+Saturated fat: 3.682 g
+Monounsaturated fat: 4.848 g
+Polyunsaturated fat: 28.223 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 687 mg
+Calcium: 78 mg
+Iron: 4.9 mg
+Magnesium: 353 mg
+Zinc: 5.05 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 1.17 mg
+Vitamin B12: 0 µg
+Folate: 160 µg

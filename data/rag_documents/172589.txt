@@ -1,0 +1,35 @@
+Food: Lamb, Australian, imported, fresh, rib chop, frenched, bone-in, separable lean only, trimmed to 1/8" fat, cooked, grilled
+Food ID: 172589
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 32.16 g
+Carbohydrates: 0 g
+Fat: 11.68 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 5.69 g
+Monounsaturated fat: 4.79 g
+Polyunsaturated fat: 0.648 g
+Trans fat: 0.631 g
+Cholesterol: 92 mg
+
+Minerals:
+Sodium: 85 mg
+Potassium: 320 mg
+Calcium: 11 mg
+Iron: 2.36 mg
+Magnesium: 26 mg
+Zinc: 3.28 mg
+
+Vitamins:
+Vitamin A: 4 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.41 mg
+Vitamin B6: 0.601 mg
+Vitamin B12: 1.73 µg

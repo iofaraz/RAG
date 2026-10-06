@@ -1,0 +1,22 @@
+Food: Margarine, margarine-like vegetable oil spread, 67-70% fat, tub
+Food ID: 171431
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 606 kcal
+Protein: 0.07 g
+Carbohydrates: 0.59 g
+Fat: 68.29 g
+
+Fats:
+Saturated fat: 16.688 g
+Monounsaturated fat: 24.748 g
+Polyunsaturated fat: 23.794 g
+Trans fat: 3.265 g
+
+Minerals:
+Sodium: 536 mg
+
+Vitamins:
+Vitamin E: 13 mg

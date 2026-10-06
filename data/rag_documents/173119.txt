@@ -1,0 +1,35 @@
+Food: Beef, short loin, top loin, steak, separable lean only, trimmed to 1/8" fat, choice, cooked, broiled
+Food ID: 173119
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 201 kcal
+Protein: 29.16 g
+Carbohydrates: 0 g
+Fat: 8.45 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 3.217 g
+Monounsaturated fat: 3.373 g
+Polyunsaturated fat: 0.302 g
+Cholesterol: 84 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 362 mg
+Calcium: 16 mg
+Iron: 1.97 mg
+Magnesium: 25 mg
+Zinc: 5.47 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.41 mg
+Vitamin K: 1.4 µg
+Vitamin B6: 0.607 mg
+Vitamin B12: 1.82 µg
+Folate: 10 µg

@@ -1,0 +1,37 @@
+Food: Veal, seam fat only, raw
+Food ID: 174884
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 444 kcal
+Protein: 12.53 g
+Carbohydrates: 0 g
+Fat: 43.75 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 14.235 g
+Monounsaturated fat: 21.077 g
+Polyunsaturated fat: 1.393 g
+Trans fat: 1.734 g
+Cholesterol: 83 mg
+
+Minerals:
+Sodium: 89 mg
+Potassium: 179 mg
+Calcium: 30 mg
+Iron: 0.87 mg
+Magnesium: 23 mg
+Zinc: 1.77 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 3.5 µg
+Vitamin E: 0.68 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.227 mg
+Vitamin B12: 1.56 µg
+Folate: 0 µg

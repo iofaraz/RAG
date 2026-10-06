@@ -1,0 +1,36 @@
+Food: Barley malt flour
+Food ID: 169740
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 361 kcal
+Protein: 10.28 g
+Carbohydrates: 78.3 g
+Fat: 1.84 g
+Fiber: 7.1 g
+Sugar: 0.8 g
+
+Fats:
+Saturated fat: 0.386 g
+Monounsaturated fat: 0.254 g
+Polyunsaturated fat: 0.953 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 11 mg
+Potassium: 224 mg
+Calcium: 37 mg
+Iron: 4.71 mg
+Magnesium: 97 mg
+Zinc: 2.06 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.57 mg
+Vitamin K: 2.2 µg
+Vitamin B6: 0.655 mg
+Vitamin B12: 0 µg
+Folate: 38 µg

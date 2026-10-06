@@ -1,0 +1,36 @@
+Food: Corn, scalloped or pudding
+Food ID: 2710046
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 116 kcal
+Protein: 4.54 g
+Carbohydrates: 14.98 g
+Fat: 5.12 g
+Fiber: 1.5 g
+Sugar: 4.63 g
+
+Fats:
+Saturated fat: 1.393 g
+Monounsaturated fat: 2.043 g
+Polyunsaturated fat: 1.268 g
+Cholesterol: 70 mg
+
+Minerals:
+Sodium: 310 mg
+Potassium: 211 mg
+Calcium: 44 mg
+Iron: 0.57 mg
+Magnesium: 23 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 76 µg
+Vitamin C: 1.7 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.5 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.082 mg
+Vitamin B12: 0.22 µg
+Folate: 27 µg

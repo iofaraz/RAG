@@ -1,0 +1,30 @@
+Food: Syrups, table blends, pancake, with 2% maple, with added potassium
+Food ID: 170646
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 265 kcal
+Protein: 0 g
+Carbohydrates: 69.6 g
+Fat: 0.1 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 61 mg
+Potassium: 22 mg
+Calcium: 5 mg
+Iron: 0.07 mg
+Magnesium: 2 mg
+Zinc: 0.23 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

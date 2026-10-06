@@ -1,0 +1,36 @@
+Food: Pork, Leg sirloin tip roast, boneless, separable lean and fat, raw
+Food ID: 168371
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 22.88 g
+Carbohydrates: 0 g
+Fat: 1.71 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 0.524 g
+Monounsaturated fat: 0.687 g
+Polyunsaturated fat: 0.323 g
+Trans fat: 0.009 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 50 mg
+Potassium: 399 mg
+Calcium: 5 mg
+Iron: 0.8 mg
+Magnesium: 25 mg
+Zinc: 2.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.08 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.689 mg
+Vitamin B12: 0.53 µg
+Folate: 0 µg

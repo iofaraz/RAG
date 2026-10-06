@@ -1,0 +1,36 @@
+Food: Beets, fresh, cooked, no added fat
+Food ID: 2709872
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 1.67 g
+Carbohydrates: 9.93 g
+Fat: 0.18 g
+Fiber: 2.9 g
+Sugar: 7.02 g
+
+Fats:
+Saturated fat: 0.028 g
+Monounsaturated fat: 0.033 g
+Polyunsaturated fat: 0.062 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 202 mg
+Potassium: 338 mg
+Calcium: 17 mg
+Iron: 0.83 mg
+Magnesium: 24 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 4.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.04 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0 µg
+Folate: 96 µg

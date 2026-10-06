@@ -1,0 +1,36 @@
+Food: Crisp, cherry
+Food ID: 2708027
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 234 kcal
+Protein: 3.13 g
+Carbohydrates: 34.67 g
+Fat: 9.61 g
+Fiber: 2.8 g
+Sugar: 20.63 g
+
+Fats:
+Saturated fat: 4.783 g
+Monounsaturated fat: 2.098 g
+Polyunsaturated fat: 0.731 g
+Cholesterol: 23 mg
+
+Minerals:
+Sodium: 119 mg
+Potassium: 147 mg
+Calcium: 19 mg
+Iron: 1.06 mg
+Magnesium: 33 mg
+Zinc: 0.78 mg
+
+Vitamins:
+Vitamin A: 80 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 1.9 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0 µg
+Folate: 9 µg

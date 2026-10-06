@@ -1,0 +1,36 @@
+Food: Mayonnaise, low sodium, low calorie or diet
+Food ID: 168115
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 231 kcal
+Protein: 0.3 g
+Carbohydrates: 16 g
+Fat: 19.2 g
+Fiber: 0 g
+Sugar: 4.2 g
+
+Fats:
+Saturated fat: 3.3 g
+Monounsaturated fat: 4.5 g
+Polyunsaturated fat: 10.6 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 110 mg
+Potassium: 10 mg
+Calcium: 0 mg
+Iron: 0 mg
+Magnesium: 0 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 6.43 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0.06 µg
+Folate: 0 µg

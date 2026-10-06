@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, No Sugar Added, French Vanilla
+Food ID: 170263
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 154 kcal
+Protein: 4.5 g
+Carbohydrates: 20.75 g
+Fat: 7.05 g
+Fiber: 0.5 g
+Sugar: 7.7 g
+
+Fats:
+Saturated fat: 4.17 g
+Cholesterol: 53 mg
+
+Minerals:
+Sodium: 87 mg
+Calcium: 151 mg
+Iron: 0.19 mg
+
+Vitamins:
+Vitamin C: 0.9 mg

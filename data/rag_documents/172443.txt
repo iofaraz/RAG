@@ -1,0 +1,37 @@
+Food: Natto
+Food ID: 172443
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 211 kcal
+Protein: 19.4 g
+Carbohydrates: 12.68 g
+Fat: 11 g
+Fiber: 5.4 g
+Sugar: 4.89 g
+
+Fats:
+Saturated fat: 1.591 g
+Monounsaturated fat: 2.43 g
+Polyunsaturated fat: 6.21 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 7 mg
+Potassium: 729 mg
+Calcium: 217 mg
+Iron: 8.6 mg
+Magnesium: 115 mg
+Zinc: 3.03 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 13 mg
+Vitamin D: 0 µg
+Vitamin E: 0.01 mg
+Vitamin K: 23.1 µg
+Vitamin B6: 0.13 mg
+Vitamin B12: 0 µg
+Folate: 8 µg

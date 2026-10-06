@@ -1,0 +1,33 @@
+Food: Chicken spread
+Food ID: 173858
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 158 kcal
+Protein: 18.01 g
+Carbohydrates: 4.05 g
+Fat: 17.56 g
+Fiber: 0.3 g
+Sugar: 0.47 g
+
+Fats:
+Saturated fat: 3.23 g
+Monounsaturated fat: 4.8 g
+Polyunsaturated fat: 2.35 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 722 mg
+Potassium: 106 mg
+Calcium: 16 mg
+Iron: 0.87 mg
+Magnesium: 12 mg
+Zinc: 1.15 mg
+
+Vitamins:
+Vitamin A: 30 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.15 mg
+Vitamin B12: 0.13 µg
+Folate: 3 µg

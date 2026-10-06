@@ -1,0 +1,36 @@
+Food: Enchilada, no meat
+Food ID: 2708569
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 165 kcal
+Protein: 6.37 g
+Carbohydrates: 17.34 g
+Fat: 8.2 g
+Fiber: 3.1 g
+Sugar: 0.9 g
+
+Fats:
+Saturated fat: 2.996 g
+Monounsaturated fat: 2.37 g
+Polyunsaturated fat: 1.767 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 474 mg
+Potassium: 204 mg
+Calcium: 121 mg
+Iron: 1.01 mg
+Magnesium: 36 mg
+Zinc: 1.02 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.8 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0.15 µg
+Folate: 14 µg

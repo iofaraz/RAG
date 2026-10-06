@@ -1,0 +1,25 @@
+Food: Longans, dried
+Food ID: 169907
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 286 kcal
+Protein: 4.9 g
+Carbohydrates: 74 g
+Fat: 0.4 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 48 mg
+Potassium: 658 mg
+Calcium: 45 mg
+Iron: 5.4 mg
+Magnesium: 46 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin C: 28 mg
+Vitamin B12: 0 µg

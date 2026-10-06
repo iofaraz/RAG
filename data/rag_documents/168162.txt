@@ -1,0 +1,36 @@
+Food: Plums, dried (prunes), uncooked
+Food ID: 168162
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 240 kcal
+Protein: 2.18 g
+Carbohydrates: 63.88 g
+Fat: 0.38 g
+Fiber: 7.1 g
+Sugar: 38.13 g
+
+Fats:
+Saturated fat: 0.088 g
+Monounsaturated fat: 0.053 g
+Polyunsaturated fat: 0.062 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 732 mg
+Calcium: 43 mg
+Iron: 0.93 mg
+Magnesium: 41 mg
+Zinc: 0.44 mg
+
+Vitamins:
+Vitamin A: 39 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.43 mg
+Vitamin K: 59.5 µg
+Vitamin B6: 0.205 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

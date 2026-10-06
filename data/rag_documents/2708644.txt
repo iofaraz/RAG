@@ -1,0 +1,36 @@
+Food: Pizza, with pepperoni, from school lunch, medium crust
+Food ID: 2708644
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 256 kcal
+Protein: 13.56 g
+Carbohydrates: 29.77 g
+Fat: 9.22 g
+Fiber: 4.3 g
+Sugar: 5.82 g
+
+Fats:
+Saturated fat: 3.515 g
+Monounsaturated fat: 2.505 g
+Polyunsaturated fat: 1.72 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 484 mg
+Potassium: 345 mg
+Calcium: 178 mg
+Iron: 2.64 mg
+Magnesium: 46 mg
+Zinc: 2.22 mg
+
+Vitamins:
+Vitamin A: 59 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 0.8 mg
+Vitamin K: 8 µg
+Vitamin B6: 0.165 mg
+Vitamin B12: 1.68 µg
+Folate: 57 µg

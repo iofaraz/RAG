@@ -1,0 +1,32 @@
+Food: Restaurant, Latino, tripe soup
+Food ID: 168069
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 74 kcal
+Protein: 8.61 g
+Carbohydrates: 4.07 g
+Fat: 2.58 g
+
+Fats:
+Saturated fat: 1.045 g
+Monounsaturated fat: 1.124 g
+Polyunsaturated fat: 0.31 g
+Trans fat: 0.111 g
+Cholesterol: 59 mg
+
+Minerals:
+Sodium: 411 mg
+Potassium: 81 mg
+Calcium: 22 mg
+Iron: 0.68 mg
+Magnesium: 10 mg
+Zinc: 1.06 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 2.3 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.45 µg

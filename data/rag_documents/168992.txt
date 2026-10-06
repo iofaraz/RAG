@@ -1,0 +1,33 @@
+Food: Agave, cooked (Southwest)
+Food ID: 168992
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 135 kcal
+Protein: 0.99 g
+Carbohydrates: 32 g
+Fat: 0.29 g
+Fiber: 10.6 g
+Sugar: 20.87 g
+
+Fats:
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 59 mg
+Calcium: 460 mg
+Iron: 3.55 mg
+Magnesium: 39 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.36 mg
+Vitamin K: 4.9 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

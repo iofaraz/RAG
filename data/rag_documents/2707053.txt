@@ -1,0 +1,36 @@
+Food: Italian sausage sandwich on white
+Food ID: 2707053
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 300 kcal
+Protein: 14.45 g
+Carbohydrates: 23.47 g
+Fat: 16.29 g
+Fiber: 0.8 g
+Sugar: 4.05 g
+
+Fats:
+Saturated fat: 5.458 g
+Monounsaturated fat: 6.777 g
+Polyunsaturated fat: 3.547 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 645 mg
+Potassium: 226 mg
+Calcium: 71 mg
+Iron: 2.24 mg
+Magnesium: 21 mg
+Zinc: 1.66 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.56 mg
+Vitamin K: 2.1 µg
+Vitamin B6: 0.219 mg
+Vitamin B12: 0.68 µg
+Folate: 42 µg

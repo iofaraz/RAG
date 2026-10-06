@@ -1,0 +1,21 @@
+Food: Flour, buckwheat
+Food ID: 2512374
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 8.88492 g
+Carbohydrates: 75.0181 g
+Fat: 2.484 g
+Fiber: 10.35 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 378.1 mg
+Calcium: 30.55 mg
+Iron: 3.84 mg
+Magnesium: 167.4 mg
+Zinc: 1.755 mg
+
+Vitamins:
+Vitamin B6: 0.1699 mg

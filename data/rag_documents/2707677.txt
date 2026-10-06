@@ -1,0 +1,36 @@
+Food: Coffee cake, yeast type
+Food ID: 2707677
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 6.2 g
+Carbohydrates: 50.9 g
+Fat: 16.4 g
+Fiber: 2.4 g
+Sugar: 31.73 g
+
+Fats:
+Saturated fat: 3.079 g
+Monounsaturated fat: 4.797 g
+Polyunsaturated fat: 7.473 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 304 mg
+Potassium: 111 mg
+Calcium: 72 mg
+Iron: 1.6 mg
+Magnesium: 17 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 62 µg
+Vitamin C: 2 mg
+Vitamin D: 0 µg
+Vitamin E: 1.99 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.107 mg
+Vitamin B12: 0.14 µg
+Folate: 72 µg

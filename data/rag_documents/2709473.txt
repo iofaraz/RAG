@@ -1,0 +1,36 @@
+Food: Potato, home fries, from restaurant / fast food
+Food ID: 2709473
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 213 kcal
+Protein: 1.87 g
+Carbohydrates: 17.91 g
+Fat: 15.2 g
+Fiber: 1.6 g
+Sugar: 1.21 g
+
+Fats:
+Saturated fat: 4.959 g
+Monounsaturated fat: 4.698 g
+Polyunsaturated fat: 4.846 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 396 mg
+Potassium: 388 mg
+Calcium: 9 mg
+Iron: 0.61 mg
+Magnesium: 22 mg
+Zinc: 0.27 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 9.4 mg
+Vitamin D: 0 µg
+Vitamin E: 1.62 mg
+Vitamin K: 24.5 µg
+Vitamin B6: 0.257 mg
+Vitamin B12: 0 µg
+Folate: 16 µg

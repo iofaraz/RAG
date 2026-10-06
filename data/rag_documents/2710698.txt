@@ -1,0 +1,36 @@
+Food: Glug
+Food ID: 2710698
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 96 kcal
+Protein: 0.1 g
+Carbohydrates: 6.24 g
+Fat: 0.14 g
+Fiber: 0.1 g
+Sugar: 4.15 g
+
+Fats:
+Saturated fat: 0.098 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.001 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 125 mg
+Calcium: 9 mg
+Iron: 0.47 mg
+Magnesium: 12 mg
+Zinc: 0.15 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.056 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

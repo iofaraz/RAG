@@ -1,0 +1,36 @@
+Food: Fish, perch, baked or broiled, coated
+Food ID: 2706273
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 163 kcal
+Protein: 17.33 g
+Carbohydrates: 7.79 g
+Fat: 6.46 g
+Fiber: 0.3 g
+Sugar: 0.14 g
+
+Fats:
+Saturated fat: 1.539 g
+Monounsaturated fat: 2.169 g
+Polyunsaturated fat: 1.708 g
+Cholesterol: 62 mg
+
+Minerals:
+Sodium: 342 mg
+Potassium: 213 mg
+Calcium: 40 mg
+Iron: 0.82 mg
+Magnesium: 27 mg
+Zinc: 0.4 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 0 mg
+Vitamin D: 1.3 µg
+Vitamin E: 1.49 mg
+Vitamin K: 4 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 1.43 µg
+Folate: 25 µg

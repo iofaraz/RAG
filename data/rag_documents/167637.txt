@@ -1,0 +1,32 @@
+Food: Stew, steamed corn (Navajo)
+Food ID: 167637
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 112 kcal
+Protein: 8.82 g
+Carbohydrates: 10.8 g
+Fat: 3.75 g
+Fiber: 2.3 g
+Sugar: 0.51 g
+
+Fats:
+Saturated fat: 1.603 g
+Monounsaturated fat: 1.497 g
+Polyunsaturated fat: 0.392 g
+
+Minerals:
+Sodium: 104 mg
+Potassium: 177 mg
+Calcium: 22 mg
+Iron: 1.1 mg
+Magnesium: 24 mg
+Zinc: 1.55 mg
+
+Vitamins:
+Vitamin C: 0 mg
+Vitamin E: 0 mg
+Vitamin K: 0.7 µg
+Vitamin B6: 0.12 mg
+Folate: 9 µg

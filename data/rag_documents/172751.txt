@@ -1,0 +1,32 @@
+Food: Croutons, plain
+Food ID: 172751
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 407 kcal
+Protein: 11.9 g
+Carbohydrates: 73.5 g
+Fat: 6.6 g
+Fiber: 5.1 g
+
+Fats:
+Saturated fat: 1.51 g
+Monounsaturated fat: 3.059 g
+Polyunsaturated fat: 1.273 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 698 mg
+Potassium: 124 mg
+Calcium: 76 mg
+Iron: 4.08 mg
+Magnesium: 31 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.026 mg
+Vitamin B12: 0 µg
+Folate: 132 µg

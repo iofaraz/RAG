@@ -1,0 +1,37 @@
+Food: Turnover, chicken- or turkey-, and vegetable-filled, reduced fat, frozen
+Food ID: 169780
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 168 kcal
+Protein: 7.87 g
+Carbohydrates: 21.74 g
+Fat: 5.51 g
+Fiber: 3.1 g
+Sugar: 3.94 g
+
+Fats:
+Saturated fat: 2.756 g
+Monounsaturated fat: 1.407 g
+Polyunsaturated fat: 0.59 g
+Trans fat: 0 g
+Cholesterol: 16 mg
+
+Minerals:
+Sodium: 276 mg
+Potassium: 167 mg
+Calcium: 157 mg
+Iron: 2.13 mg
+Magnesium: 31 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.43 mg
+Vitamin K: 13.4 µg
+Vitamin B6: 0.231 mg
+Vitamin B12: 0.14 µg
+Folate: 48 µg

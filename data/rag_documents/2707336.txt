@@ -1,0 +1,36 @@
+Food: Egg white sandwich, with meat
+Food ID: 2707336
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 195 kcal
+Protein: 12.85 g
+Carbohydrates: 17.05 g
+Fat: 8.43 g
+Fiber: 1.2 g
+Sugar: 1.8 g
+
+Fats:
+Saturated fat: 3.355 g
+Monounsaturated fat: 2.312 g
+Polyunsaturated fat: 1.59 g
+Cholesterol: 31 mg
+
+Minerals:
+Sodium: 508 mg
+Potassium: 181 mg
+Calcium: 178 mg
+Iron: 1.76 mg
+Magnesium: 20 mg
+Zinc: 1.38 mg
+
+Vitamins:
+Vitamin A: 41 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.53 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.122 mg
+Vitamin B12: 0.5 µg
+Folate: 37 µg

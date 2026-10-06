@@ -1,0 +1,36 @@
+Food: Corn, canned, cooked with oil
+Food ID: 2709921
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 2.22 g
+Carbohydrates: 13.92 g
+Fat: 4.1 g
+Fiber: 1.9 g
+Sugar: 4.31 g
+
+Fats:
+Saturated fat: 0.627 g
+Monounsaturated fat: 1.597 g
+Polyunsaturated fat: 1.623 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 199 mg
+Potassium: 128 mg
+Calcium: 3 mg
+Iron: 0.27 mg
+Magnesium: 13 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin C: 1.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.64 mg
+Vitamin K: 2.9 µg
+Vitamin B6: 0.036 mg
+Vitamin B12: 0 µg
+Folate: 36 µg

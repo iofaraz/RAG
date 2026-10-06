@@ -1,0 +1,36 @@
+Food: Cookie, gluten free
+Food ID: 2707991
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 474 kcal
+Protein: 2.19 g
+Carbohydrates: 76.03 g
+Fat: 17.89 g
+Fiber: 2.5 g
+Sugar: 49 g
+
+Fats:
+Saturated fat: 7.905 g
+Monounsaturated fat: 6.142 g
+Polyunsaturated fat: 1.807 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 275 mg
+Potassium: 157 mg
+Calcium: 19 mg
+Iron: 2.81 mg
+Magnesium: 40 mg
+Zinc: 0.66 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.31 mg
+Vitamin K: 25.6 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

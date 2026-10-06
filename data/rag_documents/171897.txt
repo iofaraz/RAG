@@ -1,0 +1,33 @@
+Food: Beverages, coffee, instant, with chicory
+Food ID: 171897
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 355 kcal
+Protein: 9.3 g
+Carbohydrates: 78.9 g
+Fat: 0.2 g
+Fiber: 0.5 g
+
+Fats:
+Saturated fat: 0.071 g
+Monounsaturated fat: 0.015 g
+Polyunsaturated fat: 0.07 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 277 mg
+Potassium: 3395 mg
+Calcium: 103 mg
+Iron: 4.76 mg
+Magnesium: 213 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

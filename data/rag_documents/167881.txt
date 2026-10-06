@@ -1,0 +1,32 @@
+Food: Pork, fresh, variety meats and by-products, tail, cooked, simmered
+Food ID: 167881
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 396 kcal
+Protein: 17 g
+Carbohydrates: 0 g
+Fat: 35.8 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 12.45 g
+Monounsaturated fat: 16.89 g
+Polyunsaturated fat: 3.94 g
+Cholesterol: 129 mg
+
+Minerals:
+Sodium: 25 mg
+Potassium: 157 mg
+Calcium: 14 mg
+Iron: 0.79 mg
+Magnesium: 7 mg
+Zinc: 1.64 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin B6: 0.27 mg
+Vitamin B12: 0.55 µg
+Folate: 4 µg

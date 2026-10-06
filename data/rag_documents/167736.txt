@@ -1,0 +1,36 @@
+Food: Mayonnaise dressing, no cholesterol
+Food ID: 167736
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 688 kcal
+Protein: 0 g
+Carbohydrates: 0.3 g
+Fat: 77.8 g
+Fiber: 0 g
+Sugar: 0.3 g
+
+Fats:
+Saturated fat: 10.784 g
+Monounsaturated fat: 18.026 g
+Polyunsaturated fat: 45.539 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 486 mg
+Potassium: 14 mg
+Calcium: 7 mg
+Iron: 0.23 mg
+Magnesium: 1 mg
+Zinc: 0.13 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 11.79 mg
+Vitamin K: 24.7 µg
+Vitamin B6: 0.01 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

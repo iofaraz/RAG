@@ -1,0 +1,37 @@
+Food: Bologna, beef
+Food ID: 172012
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 299 kcal
+Protein: 10.91 g
+Carbohydrates: 4.29 g
+Fat: 26.13 g
+Fiber: 0 g
+Sugar: 2.05 g
+
+Fats:
+Saturated fat: 10.487 g
+Monounsaturated fat: 12.198 g
+Polyunsaturated fat: 1.182 g
+Trans fat: 1.37 g
+Cholesterol: 57 mg
+
+Minerals:
+Sodium: 1013 mg
+Potassium: 351 mg
+Calcium: 21 mg
+Iron: 1.29 mg
+Magnesium: 13 mg
+Zinc: 1.93 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 15.2 mg
+Vitamin D: 0.7 µg
+Vitamin E: 0.56 mg
+Vitamin K: 2.4 µg
+Vitamin B6: 0.157 mg
+Vitamin B12: 1.19 µg
+Folate: 3 µg

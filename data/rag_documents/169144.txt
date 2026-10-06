@@ -1,0 +1,34 @@
+Food: Beans, snap, canned, all styles, seasoned, solids and liquids
+Food ID: 169144
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 16 kcal
+Protein: 0.83 g
+Carbohydrates: 3.49 g
+Fat: 0.2 g
+Fiber: 1.5 g
+
+Fats:
+Saturated fat: 0.045 g
+Monounsaturated fat: 0.008 g
+Polyunsaturated fat: 0.102 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 373 mg
+Potassium: 93 mg
+Calcium: 22 mg
+Iron: 0.47 mg
+Magnesium: 13 mg
+Zinc: 0.14 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 3.1 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.044 mg
+Vitamin B12: 0 µg
+Folate: 18 µg

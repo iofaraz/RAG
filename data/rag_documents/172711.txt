@@ -1,0 +1,36 @@
+Food: Cake, cheesecake, commercially prepared
+Food ID: 172711
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 321 kcal
+Protein: 5.5 g
+Carbohydrates: 25.5 g
+Fat: 22.5 g
+Fiber: 0.4 g
+Sugar: 21.8 g
+
+Fats:
+Saturated fat: 9.921 g
+Monounsaturated fat: 8.634 g
+Polyunsaturated fat: 1.602 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 438 mg
+Potassium: 90 mg
+Calcium: 51 mg
+Iron: 0.63 mg
+Magnesium: 11 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 159 µg
+Vitamin C: 0.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 0.56 mg
+Vitamin K: 4.4 µg
+Vitamin B6: 0.052 mg
+Vitamin B12: 0.17 µg
+Folate: 18 µg

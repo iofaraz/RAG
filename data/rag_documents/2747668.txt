@@ -1,0 +1,20 @@
+Food: Sea bass, Chilean, frozen, wild caught
+Food ID: 2747668
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 14.925 g
+Carbohydrates: 0.1392 g
+Fat: 16.57 g
+
+Minerals:
+Sodium: 109.4 mg
+Potassium: 236.4 mg
+Calcium: 6.822 mg
+Iron: 0 mg
+Magnesium: 16.64 mg
+Zinc: 0.2949 mg
+
+Vitamins:
+Vitamin B12: 0.5883 µg

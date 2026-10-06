@@ -1,0 +1,36 @@
+Food: Fritter, corn
+Food ID: 2710047
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 404 kcal
+Protein: 7.37 g
+Carbohydrates: 33.55 g
+Fat: 27.14 g
+Fiber: 1.6 g
+Sugar: 3.03 g
+
+Fats:
+Saturated fat: 5.61 g
+Monounsaturated fat: 10.336 g
+Polyunsaturated fat: 8.686 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 339 mg
+Potassium: 198 mg
+Calcium: 64 mg
+Iron: 2.25 mg
+Magnesium: 24 mg
+Zinc: 0.77 mg
+
+Vitamins:
+Vitamin A: 79 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.8 µg
+Vitamin E: 4.19 mg
+Vitamin K: 21.7 µg
+Vitamin B6: 0.077 mg
+Vitamin B12: 0.23 µg
+Folate: 55 µg

@@ -1,0 +1,37 @@
+Food: Pork, cured, ham with natural juices, spiral slice, meat only, boneless, separable lean only, heated, roasted
+Food ID: 168331
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 126 kcal
+Protein: 22.56 g
+Carbohydrates: 1.08 g
+Fat: 3.78 g
+Fiber: 0 g
+Sugar: 1.08 g
+
+Fats:
+Saturated fat: 0.493 g
+Monounsaturated fat: 0.676 g
+Polyunsaturated fat: 0.286 g
+Trans fat: 0.011 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 986 mg
+Potassium: 349 mg
+Calcium: 4 mg
+Iron: 0.84 mg
+Magnesium: 22 mg
+Zinc: 1.82 mg
+
+Vitamins:
+Vitamin A: 13 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.428 mg
+Vitamin B12: 0.51 µg
+Folate: 1 µg

@@ -1,0 +1,36 @@
+Food: Chicken breast, baked or broiled, skin not eaten, from fast food / restaurant
+Food ID: 2705960
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 176 kcal
+Protein: 29.56 g
+Carbohydrates: 0 g
+Fat: 5.44 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 1.006 g
+Monounsaturated fat: 1.752 g
+Polyunsaturated fat: 1.324 g
+Cholesterol: 96 mg
+
+Minerals:
+Sodium: 430 mg
+Potassium: 351 mg
+Calcium: 7 mg
+Iron: 0.44 mg
+Magnesium: 28 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 9 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.12 mg
+Vitamin K: 2 µg
+Vitamin B6: 0.853 mg
+Vitamin B12: 0.18 µg
+Folate: 7 µg

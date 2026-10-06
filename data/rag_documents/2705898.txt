@@ -1,0 +1,36 @@
+Food: Pork, pig's feet
+Food ID: 2705898
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 236 kcal
+Protein: 21.77 g
+Carbohydrates: 0 g
+Fat: 15.92 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 4.309 g
+Monounsaturated fat: 7.941 g
+Polyunsaturated fat: 1.528 g
+Cholesterol: 106 mg
+
+Minerals:
+Sodium: 380 mg
+Potassium: 33 mg
+Calcium: 0 mg
+Iron: 0.97 mg
+Magnesium: 5 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.09 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.41 µg
+Folate: 2 µg

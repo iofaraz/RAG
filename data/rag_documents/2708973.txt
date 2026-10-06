@@ -1,0 +1,36 @@
+Food: Seafood paella, Puerto Rican style
+Food ID: 2708973
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 146 kcal
+Protein: 7.59 g
+Carbohydrates: 15.7 g
+Fat: 5.64 g
+Fiber: 0.9 g
+Sugar: 0.85 g
+
+Fats:
+Saturated fat: 0.93 g
+Monounsaturated fat: 3.594 g
+Polyunsaturated fat: 0.669 g
+Cholesterol: 41 mg
+
+Minerals:
+Sodium: 231 mg
+Potassium: 113 mg
+Calcium: 34 mg
+Iron: 1.09 mg
+Magnesium: 17 mg
+Zinc: 0.86 mg
+
+Vitamins:
+Vitamin A: 33 µg
+Vitamin C: 7.4 mg
+Vitamin D: 0.5 µg
+Vitamin E: 1.65 mg
+Vitamin K: 4.1 µg
+Vitamin B6: 0.126 mg
+Vitamin B12: 0.54 µg
+Folate: 33 µg

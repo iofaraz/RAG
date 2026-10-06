@@ -1,0 +1,36 @@
+Food: Fish with tomato-based sauce
+Food ID: 2706459
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 80 kcal
+Protein: 16.28 g
+Carbohydrates: 1.59 g
+Fat: 0.69 g
+Fiber: 0.4 g
+Sugar: 1.06 g
+
+Fats:
+Saturated fat: 0.129 g
+Monounsaturated fat: 0.1 g
+Polyunsaturated fat: 0.24 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 350 mg
+Potassium: 259 mg
+Calcium: 14 mg
+Iron: 0.63 mg
+Magnesium: 34 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 2.7 mg
+Vitamin D: 0.8 µg
+Vitamin E: 1 mg
+Vitamin K: 0.9 µg
+Vitamin B6: 0.225 mg
+Vitamin B12: 0.73 µg
+Folate: 7 µg

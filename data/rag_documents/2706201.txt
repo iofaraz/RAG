@@ -1,0 +1,36 @@
+Food: Turkey or chicken sausage, reduced sodium
+Food ID: 2706201
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 230 kcal
+Protein: 20.03 g
+Carbohydrates: 13.32 g
+Fat: 10.7 g
+Fiber: 0 g
+Sugar: 0.76 g
+
+Fats:
+Saturated fat: 2.784 g
+Monounsaturated fat: 4.604 g
+Polyunsaturated fat: 2.793 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 417 mg
+Potassium: 993 mg
+Calcium: 0 mg
+Iron: 1.21 mg
+Magnesium: 40 mg
+Zinc: 2.25 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.4 µg
+Vitamin E: 1.44 mg
+Vitamin K: 32.5 µg
+Vitamin B6: 0.501 mg
+Vitamin B12: 0.14 µg
+Folate: 66 µg

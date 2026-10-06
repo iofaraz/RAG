@@ -1,0 +1,32 @@
+Food: Prunes, dehydrated (low-moisture), stewed
+Food ID: 168161
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 113 kcal
+Protein: 1.23 g
+Carbohydrates: 29.7 g
+Fat: 0.24 g
+
+Fats:
+Saturated fat: 0.02 g
+Monounsaturated fat: 0.161 g
+Polyunsaturated fat: 0.053 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 353 mg
+Calcium: 24 mg
+Iron: 1.17 mg
+Magnesium: 21 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 26 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.191 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

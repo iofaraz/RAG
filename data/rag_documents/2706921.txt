@@ -1,0 +1,36 @@
+Food: Hamburger, from fast food, 1 small patty
+Food ID: 2706921
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 285 kcal
+Protein: 15.51 g
+Carbohydrates: 28.27 g
+Fat: 11.68 g
+Fiber: 1 g
+Sugar: 4.11 g
+
+Fats:
+Saturated fat: 4.295 g
+Monounsaturated fat: 4.482 g
+Polyunsaturated fat: 1.289 g
+Cholesterol: 36 mg
+
+Minerals:
+Sodium: 396 mg
+Potassium: 201 mg
+Calcium: 86 mg
+Iron: 2.98 mg
+Magnesium: 21 mg
+Zinc: 2.51 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.15 mg
+Vitamin K: 3.7 µg
+Vitamin B6: 0.224 mg
+Vitamin B12: 1.26 µg
+Folate: 62 µg

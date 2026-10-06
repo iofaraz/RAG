@@ -1,0 +1,31 @@
+Food: Restaurant, Latino, bunuelos (fried yeast bread)
+Food ID: 168071
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 462 kcal
+Protein: 8.02 g
+Carbohydrates: 48.57 g
+Fat: 26.24 g
+Fiber: 1.5 g
+Sugar: 12.24 g
+
+Fats:
+Saturated fat: 6.834 g
+Monounsaturated fat: 9.415 g
+Polyunsaturated fat: 7.09 g
+Trans fat: 0.778 g
+
+Minerals:
+Sodium: 418 mg
+Potassium: 104 mg
+Calcium: 215 mg
+Iron: 1.78 mg
+Magnesium: 19 mg
+Zinc: 0.91 mg
+
+Vitamins:
+Vitamin E: 0.98 mg
+Vitamin K: 25.8 µg
+Vitamin B6: 0.063 mg

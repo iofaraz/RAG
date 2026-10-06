@@ -1,0 +1,36 @@
+Food: Potato soup, instant, dry mix
+Food ID: 171608
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 343 kcal
+Protein: 9.2 g
+Carbohydrates: 76.14 g
+Fat: 3.1 g
+Fiber: 7.6 g
+Sugar: 10 g
+
+Fats:
+Saturated fat: 0.613 g
+Monounsaturated fat: 1.185 g
+Polyunsaturated fat: 1.025 g
+Cholesterol: 12 mg
+
+Minerals:
+Sodium: 2400 mg
+Potassium: 1248 mg
+Calcium: 172 mg
+Iron: 2.38 mg
+Magnesium: 62 mg
+Zinc: 0.91 mg
+
+Vitamins:
+Vitamin A: 3 µg
+Vitamin C: 16 mg
+Vitamin D: 0 µg
+Vitamin E: 0.54 mg
+Vitamin K: 13.9 µg
+Vitamin B6: 0.16 mg
+Vitamin B12: 0 µg
+Folate: 61 µg

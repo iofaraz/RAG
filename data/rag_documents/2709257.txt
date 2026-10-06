@@ -1,0 +1,36 @@
+Food: Pear, canned, in syrup
+Food ID: 2709257
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 59 kcal
+Protein: 0.18 g
+Carbohydrates: 15.15 g
+Fat: 0.05 g
+Fiber: 1.5 g
+Sugar: 13.6 g
+
+Fats:
+Saturated fat: 0.002 g
+Monounsaturated fat: 0.006 g
+Polyunsaturated fat: 0.006 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 49 mg
+Calcium: 4 mg
+Iron: 0.2 mg
+Magnesium: 4 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.07 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.013 mg
+Vitamin B12: 0 µg
+Folate: 1 µg

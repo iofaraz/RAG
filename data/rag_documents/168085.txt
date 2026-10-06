@@ -1,0 +1,36 @@
+Food: OLIVE GARDEN, spaghetti with meat sauce
+Food ID: 168085
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 121 kcal
+Protein: 5.8 g
+Carbohydrates: 17.19 g
+Fat: 3.28 g
+Fiber: 1.7 g
+Sugar: 1.67 g
+
+Fats:
+Saturated fat: 1.024 g
+Monounsaturated fat: 1.242 g
+Polyunsaturated fat: 0.53 g
+Trans fat: 0.064 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 209 mg
+Potassium: 164 mg
+Calcium: 15 mg
+Iron: 1.03 mg
+Magnesium: 18 mg
+Zinc: 0.68 mg
+
+Vitamins:
+Vitamin A: 10 µg
+Vitamin C: 0.6 mg
+Vitamin E: 0.58 mg
+Vitamin K: 4.3 µg
+Vitamin B6: 0.098 mg
+Vitamin B12: 0.13 µg
+Folate: 30 µg

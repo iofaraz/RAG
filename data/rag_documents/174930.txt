@@ -1,0 +1,36 @@
+Food: Bread, stuffing, dry mix
+Food ID: 174930
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 11 g
+Carbohydrates: 76.2 g
+Fat: 3.4 g
+Fiber: 3.2 g
+Sugar: 8.27 g
+
+Fats:
+Saturated fat: 0.845 g
+Monounsaturated fat: 1.493 g
+Polyunsaturated fat: 0.713 g
+Cholesterol: 1 mg
+
+Minerals:
+Sodium: 1405 mg
+Potassium: 246 mg
+Calcium: 97 mg
+Iron: 3.81 mg
+Magnesium: 40 mg
+Zinc: 0.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.38 mg
+Vitamin K: 1.1 µg
+Vitamin B6: 0.152 mg
+Vitamin B12: 0.02 µg
+Folate: 168 µg

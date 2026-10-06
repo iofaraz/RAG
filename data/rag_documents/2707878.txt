@@ -1,0 +1,36 @@
+Food: Cake, jelly roll
+Food ID: 2707878
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 285 kcal
+Protein: 3.14 g
+Carbohydrates: 64.54 g
+Fat: 1.52 g
+Fiber: 0.8 g
+Sugar: 41.99 g
+
+Fats:
+Saturated fat: 0.446 g
+Monounsaturated fat: 0.539 g
+Polyunsaturated fat: 0.246 g
+Cholesterol: 56 mg
+
+Minerals:
+Sodium: 357 mg
+Potassium: 89 mg
+Calcium: 48 mg
+Iron: 1.72 mg
+Magnesium: 8 mg
+Zinc: 0.31 mg
+
+Vitamins:
+Vitamin A: 24 µg
+Vitamin C: 4 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.19 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.13 µg
+Folate: 31 µg

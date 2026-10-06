@@ -1,0 +1,37 @@
+Food: Cheese spread, American or Cheddar cheese base, reduced fat
+Food ID: 170896
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 176 kcal
+Protein: 13.41 g
+Carbohydrates: 10.71 g
+Fat: 8.88 g
+Fiber: 0 g
+Sugar: 7.06 g
+
+Fats:
+Saturated fat: 5.647 g
+Monounsaturated fat: 2.458 g
+Polyunsaturated fat: 0.415 g
+Trans fat: 0.327 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 1102 mg
+Potassium: 250 mg
+Calcium: 557 mg
+Iron: 0.36 mg
+Magnesium: 27 mg
+Zinc: 1.81 mg
+
+Vitamins:
+Vitamin A: 185 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.46 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.099 mg
+Vitamin B12: 1.17 µg
+Folate: 0 µg

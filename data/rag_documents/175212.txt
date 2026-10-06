@@ -1,0 +1,32 @@
+Food: Vitasoy USA, Vitasoy Organic Creamy Original Soymilk
+Food ID: 175212
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 44 kcal
+Protein: 2.9 g
+Carbohydrates: 4.5 g
+Fat: 1.6 g
+Fiber: 0.4 g
+Sugar: 2 g
+
+Fats:
+Saturated fat: 0.2 g
+Monounsaturated fat: 0.4 g
+Polyunsaturated fat: 1 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 66 mg
+Potassium: 131 mg
+Calcium: 127 mg
+Iron: 0.4 mg
+Magnesium: 16 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin D: 0.9 µg
+Vitamin B12: 0.39 µg
+Folate: 18 µg

@@ -1,0 +1,37 @@
+Food: Beverages, Cocoa mix, low calorie, powder, with added calcium, phosphorus, aspartame, without added sodium or vitamin A
+Food ID: 175114
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 359 kcal
+Protein: 25.1 g
+Carbohydrates: 58 g
+Fat: 3 g
+Fiber: 1.1 g
+Sugar: 55.58 g
+
+Fats:
+Saturated fat: 1.777 g
+Monounsaturated fat: 0.979 g
+Polyunsaturated fat: 0.088 g
+Trans fat: 0 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 653 mg
+Potassium: 2702 mg
+Calcium: 1440 mg
+Iron: 4.96 mg
+Magnesium: 208 mg
+Zinc: 3.44 mg
+
+Vitamins:
+Vitamin A: 479 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.21 mg
+Vitamin K: 4.2 µg
+Vitamin B6: 0.318 mg
+Vitamin B12: 2.78 µg
+Folate: 27 µg

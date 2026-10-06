@@ -1,0 +1,37 @@
+Food: Artichokes, (globe or french), frozen, cooked, boiled, drained, with salt
+Food ID: 169312
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 45 kcal
+Protein: 3.11 g
+Carbohydrates: 9.18 g
+Fat: 0.5 g
+Fiber: 4.6 g
+Sugar: 0.84 g
+
+Fats:
+Saturated fat: 0.119 g
+Monounsaturated fat: 0.015 g
+Polyunsaturated fat: 0.216 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 289 mg
+Potassium: 264 mg
+Calcium: 21 mg
+Iron: 0.56 mg
+Magnesium: 31 mg
+Zinc: 0.36 mg
+
+Vitamins:
+Vitamin A: 1 µg
+Vitamin C: 5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.16 mg
+Vitamin K: 12.6 µg
+Vitamin B6: 0.087 mg
+Vitamin B12: 0 µg
+Folate: 119 µg

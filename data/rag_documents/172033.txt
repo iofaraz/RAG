@@ -1,0 +1,37 @@
+Food: Fast foods, english muffin, with egg, cheese, and canadian bacon
+Food ID: 172033
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 228 kcal
+Protein: 13.64 g
+Carbohydrates: 21.67 g
+Fat: 9.66 g
+Fiber: 0.4 g
+Sugar: 2.13 g
+
+Fats:
+Saturated fat: 3.592 g
+Monounsaturated fat: 2.721 g
+Polyunsaturated fat: 1.735 g
+Trans fat: 0.109 g
+Cholesterol: 168 mg
+
+Minerals:
+Sodium: 617 mg
+Potassium: 173 mg
+Calcium: 192 mg
+Iron: 2.3 mg
+Magnesium: 20 mg
+Zinc: 1.29 mg
+
+Vitamins:
+Vitamin A: 98 µg
+Vitamin C: 1.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 0.91 mg
+Vitamin K: 0.8 µg
+Vitamin B6: 0.071 mg
+Vitamin B12: 0.81 µg
+Folate: 71 µg

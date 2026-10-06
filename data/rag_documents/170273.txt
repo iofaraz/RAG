@@ -1,0 +1,34 @@
+Food: Chocolate, dark, 70-85% cacao solids
+Food ID: 170273
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 598 kcal
+Protein: 7.79 g
+Carbohydrates: 45.9 g
+Fat: 42.63 g
+Fiber: 10.9 g
+Sugar: 23.99 g
+
+Fats:
+Saturated fat: 24.489 g
+Monounsaturated fat: 12.781 g
+Polyunsaturated fat: 1.257 g
+Trans fat: 0.03 g
+Cholesterol: 3 mg
+
+Minerals:
+Sodium: 20 mg
+Potassium: 715 mg
+Calcium: 73 mg
+Iron: 11.9 mg
+Magnesium: 228 mg
+Zinc: 3.31 mg
+
+Vitamins:
+Vitamin A: 2 µg
+Vitamin E: 0.59 mg
+Vitamin K: 7.3 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.28 µg

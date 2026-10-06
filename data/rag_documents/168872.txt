@@ -1,0 +1,36 @@
+Food: Oat bran, raw
+Food ID: 168872
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 246 kcal
+Protein: 17.3 g
+Carbohydrates: 66.22 g
+Fat: 7.03 g
+Fiber: 15.4 g
+Sugar: 1.45 g
+
+Fats:
+Saturated fat: 1.328 g
+Monounsaturated fat: 2.376 g
+Polyunsaturated fat: 2.766 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 566 mg
+Calcium: 58 mg
+Iron: 5.41 mg
+Magnesium: 235 mg
+Zinc: 3.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.01 mg
+Vitamin K: 3.2 µg
+Vitamin B6: 0.165 mg
+Vitamin B12: 0 µg
+Folate: 52 µg

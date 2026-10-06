@@ -1,0 +1,24 @@
+Food: Ice creams, BREYERS, 98% Fat Free Vanilla
+Food ID: 170661
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 137 kcal
+Protein: 3.3 g
+Carbohydrates: 30.51 g
+Fat: 2.2 g
+Fiber: 5.4 g
+Sugar: 20.93 g
+
+Fats:
+Saturated fat: 1.41 g
+Cholesterol: 8 mg
+
+Minerals:
+Sodium: 73 mg
+Calcium: 122 mg
+Iron: 0.09 mg
+
+Vitamins:
+Vitamin C: 0.8 mg

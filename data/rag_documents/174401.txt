@@ -1,0 +1,28 @@
+Food: Lamb, Australian, imported, fresh, foreshank, separable lean only, trimmed to 1/8" fat, raw
+Food ID: 174401
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 123 kcal
+Protein: 20.83 g
+Carbohydrates: 0 g
+Fat: 3.81 g
+
+Fats:
+Saturated fat: 1.344 g
+Monounsaturated fat: 1.712 g
+Polyunsaturated fat: 0.241 g
+Cholesterol: 66 mg
+
+Minerals:
+Sodium: 106 mg
+Potassium: 295 mg
+Calcium: 11 mg
+Iron: 1.5 mg
+Magnesium: 20 mg
+Zinc: 6.08 mg
+
+Vitamins:
+Vitamin B6: 0.288 mg
+Vitamin B12: 2.71 µg

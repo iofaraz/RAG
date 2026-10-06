@@ -1,0 +1,33 @@
+Food: KFC, Fried Chicken, ORIGINAL RECIPE, Skin and Breading
+Food ID: 170738
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 384 kcal
+Protein: 14.17 g
+Carbohydrates: 18.79 g
+Fat: 28.01 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.343 g
+Monounsaturated fat: 14.448 g
+Polyunsaturated fat: 5.375 g
+Trans fat: 0.214 g
+Cholesterol: 82 mg
+
+Minerals:
+Sodium: 1042 mg
+Potassium: 244 mg
+Calcium: 117 mg
+Iron: 0.88 mg
+Magnesium: 25 mg
+Zinc: 0.87 mg
+
+Vitamins:
+Vitamin A: 20 µg
+Vitamin E: 1.2 mg
+Vitamin B6: 0.14 mg
+Vitamin B12: 0.32 µg

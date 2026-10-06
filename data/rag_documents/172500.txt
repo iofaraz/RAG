@@ -1,0 +1,33 @@
+Food: Lamb, shoulder, arm, separable lean and fat, trimmed to 1/4" fat, choice, raw
+Food ID: 172500
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 260 kcal
+Protein: 16.79 g
+Carbohydrates: 0 g
+Fat: 20.9 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 9.15 g
+Monounsaturated fat: 8.58 g
+Polyunsaturated fat: 1.65 g
+Cholesterol: 71 mg
+
+Minerals:
+Sodium: 60 mg
+Potassium: 238 mg
+Calcium: 14 mg
+Iron: 1.56 mg
+Magnesium: 21 mg
+Zinc: 3.43 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin E: 0.21 mg
+Vitamin B6: 0.13 mg
+Vitamin B12: 2.44 µg
+Folate: 19 µg

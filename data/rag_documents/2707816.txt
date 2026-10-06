@@ -1,0 +1,36 @@
+Food: Corn pone, baked
+Food ID: 2707816
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 214 kcal
+Protein: 3.5 g
+Carbohydrates: 39.68 g
+Fat: 4.31 g
+Fiber: 1.9 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 0.97 g
+Monounsaturated fat: 1.614 g
+Polyunsaturated fat: 1.378 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 437 mg
+Potassium: 71 mg
+Calcium: 113 mg
+Iron: 2.36 mg
+Magnesium: 17 mg
+Zinc: 0.33 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.27 mg
+Vitamin K: 1.8 µg
+Vitamin B6: 0.081 mg
+Vitamin B12: 0 µg
+Folate: 72 µg

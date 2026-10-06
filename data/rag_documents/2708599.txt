@@ -1,0 +1,36 @@
+Food: Taquito, cheese only
+Food ID: 2708599
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 309 kcal
+Protein: 11.16 g
+Carbohydrates: 32.15 g
+Fat: 15.32 g
+Fiber: 3.3 g
+Sugar: 1.78 g
+
+Fats:
+Saturated fat: 6.59 g
+Monounsaturated fat: 3.931 g
+Polyunsaturated fat: 2.691 g
+Cholesterol: 27 mg
+
+Minerals:
+Sodium: 632 mg
+Potassium: 132 mg
+Calcium: 274 mg
+Iron: 1.64 mg
+Magnesium: 40 mg
+Zinc: 1.65 mg
+
+Vitamins:
+Vitamin A: 63 µg
+Vitamin C: 0 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.79 mg
+Vitamin K: 6 µg
+Vitamin B6: 0.114 mg
+Vitamin B12: 0.35 µg
+Folate: 37 µg

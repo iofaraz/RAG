@@ -1,0 +1,36 @@
+Food: Danish pastry, with fruit
+Food ID: 2708060
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 371 kcal
+Protein: 5.4 g
+Carbohydrates: 47.8 g
+Fat: 18.5 g
+Fiber: 1.9 g
+Sugar: 27.53 g
+
+Fats:
+Saturated fat: 4.86 g
+Monounsaturated fat: 10.026 g
+Polyunsaturated fat: 2.364 g
+Cholesterol: 114 mg
+
+Minerals:
+Sodium: 445 mg
+Potassium: 83 mg
+Calcium: 46 mg
+Iron: 1.77 mg
+Magnesium: 15 mg
+Zinc: 0.54 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 3.9 mg
+Vitamin D: 0 µg
+Vitamin E: 0.34 mg
+Vitamin K: 5.3 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 0.09 µg
+Folate: 47 µg

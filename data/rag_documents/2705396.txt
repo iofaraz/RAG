@@ -1,0 +1,36 @@
+Food: Milk, dry, reconstituted, nonfat
+Food ID: 2705396
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 32 kcal
+Protein: 3.2 g
+Carbohydrates: 4.6 g
+Fat: 0.07 g
+Fiber: 0 g
+Sugar: 4.6 g
+
+Fats:
+Saturated fat: 0.044 g
+Monounsaturated fat: 0.018 g
+Polyunsaturated fat: 0.003 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 51 mg
+Potassium: 159 mg
+Calcium: 114 mg
+Iron: 0.03 mg
+Magnesium: 11 mg
+Zinc: 0.37 mg
+
+Vitamins:
+Vitamin A: 58 µg
+Vitamin C: 0.6 mg
+Vitamin D: 1 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0.36 µg
+Folate: 4 µg

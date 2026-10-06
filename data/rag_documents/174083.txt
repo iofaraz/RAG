@@ -1,0 +1,37 @@
+Food: Cookies, graham crackers, plain or honey, lowfat
+Food ID: 174083
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 386 kcal
+Protein: 5.71 g
+Carbohydrates: 77.96 g
+Fat: 5.71 g
+Fiber: 5.7 g
+Sugar: 22.86 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 1.718 g
+Polyunsaturated fat: 3.367 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 629 mg
+Potassium: 171 mg
+Calcium: 429 mg
+Iron: 3.09 mg
+Magnesium: 56 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.86 mg
+Vitamin K: 2.5 µg
+Vitamin B6: 0.158 mg
+Vitamin B12: 0 µg
+Folate: 80 µg

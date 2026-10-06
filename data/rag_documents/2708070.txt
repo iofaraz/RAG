@@ -1,0 +1,36 @@
+Food: Churros
+Food ID: 2708070
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 419 kcal
+Protein: 6.05 g
+Carbohydrates: 48.87 g
+Fat: 22.21 g
+Fiber: 2.6 g
+Sugar: 23.38 g
+
+Fats:
+Saturated fat: 9.247 g
+Monounsaturated fat: 7.09 g
+Polyunsaturated fat: 3.509 g
+Cholesterol: 29 mg
+
+Minerals:
+Sodium: 309 mg
+Potassium: 105 mg
+Calcium: 110 mg
+Iron: 2.42 mg
+Magnesium: 17 mg
+Zinc: 0.62 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 1.2 mg
+Vitamin D: 0.1 µg
+Vitamin E: 1.42 mg
+Vitamin K: 11.6 µg
+Vitamin B6: 0.038 mg
+Vitamin B12: 0.11 µg
+Folate: 106 µg

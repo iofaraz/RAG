@@ -1,0 +1,36 @@
+Food: Alfredo sauce with seafood and added vegetables
+Food ID: 2705816
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 122 kcal
+Protein: 5.87 g
+Carbohydrates: 2.7 g
+Fat: 9.66 g
+Fiber: 0.3 g
+Sugar: 1.17 g
+
+Fats:
+Saturated fat: 5.355 g
+Monounsaturated fat: 1.972 g
+Polyunsaturated fat: 0.508 g
+Cholesterol: 55 mg
+
+Minerals:
+Sodium: 436 mg
+Potassium: 150 mg
+Calcium: 63 mg
+Iron: 0.54 mg
+Magnesium: 12 mg
+Zinc: 0.51 mg
+
+Vitamins:
+Vitamin A: 106 µg
+Vitamin C: 9 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.48 mg
+Vitamin K: 1.6 µg
+Vitamin B6: 0.043 mg
+Vitamin B12: 1.86 µg
+Folate: 8 µg

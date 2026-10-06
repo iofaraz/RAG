@@ -1,0 +1,36 @@
+Food: Beef, retail cuts, separable fat, raw
+Food ID: 168605
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 674 kcal
+Protein: 8.21 g
+Carbohydrates: 0 g
+Fat: 70.89 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 29.45 g
+Monounsaturated fat: 30.94 g
+Polyunsaturated fat: 2.56 g
+Cholesterol: 99 mg
+
+Minerals:
+Sodium: 26 mg
+Potassium: 96 mg
+Calcium: 26 mg
+Iron: 0.72 mg
+Magnesium: 5 mg
+Zinc: 0.82 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.108 mg
+Vitamin B12: 0.73 µg
+Folate: 0 µg

@@ -1,0 +1,34 @@
+Food: DOMINO'S 14" Pepperoni Pizza, Ultimate Deep Dish Crust
+Food ID: 172045
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 283 kcal
+Protein: 11.52 g
+Carbohydrates: 31.89 g
+Fat: 12.1 g
+Fiber: 2.4 g
+Sugar: 3.91 g
+
+Fats:
+Saturated fat: 4.856 g
+Monounsaturated fat: 3.618 g
+Polyunsaturated fat: 2.55 g
+Trans fat: 0.358 g
+Cholesterol: 24 mg
+
+Minerals:
+Sodium: 693 mg
+Potassium: 190 mg
+Calcium: 149 mg
+Iron: 2.54 mg
+Magnesium: 24 mg
+Zinc: 1.33 mg
+
+Vitamins:
+Vitamin C: 0.4 mg
+Vitamin E: 0.88 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.07 mg
+Vitamin B12: 0.52 µg

@@ -1,0 +1,33 @@
+Food: Corned beef and potatoes in tortilla (Apache)
+Food ID: 167656
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 224 kcal
+Protein: 7.91 g
+Carbohydrates: 29.35 g
+Fat: 8.31 g
+Fiber: 1.5 g
+Sugar: 1.79 g
+
+Fats:
+Saturated fat: 3.366 g
+Monounsaturated fat: 3.345 g
+Polyunsaturated fat: 0.864 g
+Cholesterol: 11 mg
+
+Minerals:
+Sodium: 511 mg
+Potassium: 275 mg
+Calcium: 27 mg
+Iron: 1.8 mg
+Magnesium: 22 mg
+Zinc: 0.88 mg
+
+Vitamins:
+Vitamin E: 0.2 mg
+Vitamin K: 3.1 µg
+Vitamin B6: 0.214 mg
+Vitamin B12: 0.23 µg
+Folate: 70 µg

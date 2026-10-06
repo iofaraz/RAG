@@ -1,0 +1,36 @@
+Food: Salami sandwich on white, with cheese
+Food ID: 2707047
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 326 kcal
+Protein: 15.87 g
+Carbohydrates: 22.61 g
+Fat: 18.87 g
+Fiber: 1 g
+Sugar: 2.87 g
+
+Fats:
+Saturated fat: 7.532 g
+Monounsaturated fat: 7.311 g
+Polyunsaturated fat: 2.981 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 1070 mg
+Potassium: 223 mg
+Calcium: 240 mg
+Iron: 2.1 mg
+Magnesium: 24 mg
+Zinc: 1.95 mg
+
+Vitamins:
+Vitamin A: 46 µg
+Vitamin C: 0 mg
+Vitamin D: 0.9 µg
+Vitamin E: 0.47 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0.233 mg
+Vitamin B12: 0.7 µg
+Folate: 51 µg

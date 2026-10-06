@@ -1,0 +1,37 @@
+Food: Grape leaves, raw
+Food ID: 168575
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 93 kcal
+Protein: 5.6 g
+Carbohydrates: 17.31 g
+Fat: 2.12 g
+Fiber: 11 g
+Sugar: 6.3 g
+
+Fats:
+Saturated fat: 0.336 g
+Monounsaturated fat: 0.081 g
+Polyunsaturated fat: 1.065 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 272 mg
+Calcium: 363 mg
+Iron: 2.63 mg
+Magnesium: 95 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 1376 µg
+Vitamin C: 11.1 mg
+Vitamin D: 0 µg
+Vitamin E: 2 mg
+Vitamin K: 108.6 µg
+Vitamin B6: 0.4 mg
+Vitamin B12: 0 µg
+Folate: 83 µg

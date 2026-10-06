@@ -1,0 +1,36 @@
+Food: Swiss steak
+Food ID: 2706732
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 115 kcal
+Protein: 15.48 g
+Carbohydrates: 3.67 g
+Fat: 4.42 g
+Fiber: 0.9 g
+Sugar: 1.19 g
+
+Fats:
+Saturated fat: 1.124 g
+Monounsaturated fat: 1.84 g
+Polyunsaturated fat: 0.988 g
+Cholesterol: 38 mg
+
+Minerals:
+Sodium: 250 mg
+Potassium: 284 mg
+Calcium: 24 mg
+Iron: 1.76 mg
+Magnesium: 13 mg
+Zinc: 2.34 mg
+
+Vitamins:
+Vitamin A: 43 µg
+Vitamin C: 4.4 mg
+Vitamin D: 0 µg
+Vitamin E: 0.77 mg
+Vitamin K: 5.8 µg
+Vitamin B6: 0.414 mg
+Vitamin B12: 0.96 µg
+Folate: 10 µg

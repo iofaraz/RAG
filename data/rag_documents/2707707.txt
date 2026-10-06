@@ -1,0 +1,36 @@
+Food: Bread, whole grain white, toasted
+Food ID: 2707707
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 262 kcal
+Protein: 11.71 g
+Carbohydrates: 48.25 g
+Fat: 2.36 g
+Fiber: 10.1 g
+Sugar: 5.5 g
+
+Fats:
+Saturated fat: 0.692 g
+Monounsaturated fat: 0.432 g
+Polyunsaturated fat: 1.069 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 495 mg
+Potassium: 140 mg
+Calcium: 752 mg
+Iron: 5.37 mg
+Magnesium: 29 mg
+Zinc: 1.04 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.42 mg
+Vitamin K: 8.5 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0 µg
+Folate: 119 µg

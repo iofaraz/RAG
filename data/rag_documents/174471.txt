@@ -1,0 +1,32 @@
+Food: Guinea hen, meat only, raw
+Food ID: 174471
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 110 kcal
+Protein: 20.64 g
+Carbohydrates: 0 g
+Fat: 2.47 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 0.64 g
+Monounsaturated fat: 0.68 g
+Polyunsaturated fat: 0.59 g
+Cholesterol: 63 mg
+
+Minerals:
+Sodium: 69 mg
+Potassium: 220 mg
+Calcium: 11 mg
+Iron: 0.77 mg
+Magnesium: 24 mg
+Zinc: 1.2 mg
+
+Vitamins:
+Vitamin A: 12 µg
+Vitamin C: 1.7 mg
+Vitamin B6: 0.47 mg
+Vitamin B12: 0.37 µg
+Folate: 6 µg

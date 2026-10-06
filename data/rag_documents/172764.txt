@@ -1,0 +1,32 @@
+Food: Muffins, plain, prepared from recipe, made with low fat (2%) milk
+Food ID: 172764
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 296 kcal
+Protein: 6.9 g
+Carbohydrates: 41.4 g
+Fat: 11.4 g
+Fiber: 2.7 g
+
+Fats:
+Saturated fat: 2.156 g
+Monounsaturated fat: 2.757 g
+Polyunsaturated fat: 5.721 g
+Cholesterol: 39 mg
+
+Minerals:
+Sodium: 467 mg
+Potassium: 121 mg
+Calcium: 200 mg
+Iron: 2.39 mg
+Magnesium: 17 mg
+Zinc: 0.56 mg
+
+Vitamins:
+Vitamin A: 40 µg
+Vitamin C: 0.3 mg
+Vitamin B6: 0.042 mg
+Vitamin B12: 0.15 µg
+Folate: 51 µg

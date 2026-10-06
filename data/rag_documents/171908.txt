@@ -1,0 +1,36 @@
+Food: Alcoholic beverages, wine, rose
+Food ID: 171908
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 83 kcal
+Protein: 0.36 g
+Carbohydrates: 3.8 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 3.8 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 5 mg
+Potassium: 59 mg
+Calcium: 10 mg
+Iron: 0.2 mg
+Magnesium: 10 mg
+Zinc: 0.11 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.037 mg
+Vitamin B12: 0.01 µg
+Folate: 1 µg

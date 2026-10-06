@@ -1,0 +1,36 @@
+Food: Ice creams, vanilla
+Food ID: 167575
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 207 kcal
+Protein: 3.5 g
+Carbohydrates: 23.6 g
+Fat: 11 g
+Fiber: 0.7 g
+Sugar: 21.22 g
+
+Fats:
+Saturated fat: 6.79 g
+Monounsaturated fat: 2.969 g
+Polyunsaturated fat: 0.452 g
+Cholesterol: 44 mg
+
+Minerals:
+Sodium: 80 mg
+Potassium: 199 mg
+Calcium: 128 mg
+Iron: 0.09 mg
+Magnesium: 14 mg
+Zinc: 0.69 mg
+
+Vitamins:
+Vitamin A: 118 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.3 mg
+Vitamin K: 0.3 µg
+Vitamin B6: 0.048 mg
+Vitamin B12: 0.39 µg
+Folate: 5 µg

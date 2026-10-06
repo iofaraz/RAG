@@ -1,0 +1,36 @@
+Food: Gravy, made with soy sauce
+Food ID: 2707148
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 46 kcal
+Protein: 0.82 g
+Carbohydrates: 9.82 g
+Fat: 0.29 g
+Fiber: 0.1 g
+Sugar: 3.81 g
+
+Fats:
+Saturated fat: 0.127 g
+Monounsaturated fat: 0.108 g
+Polyunsaturated fat: 0.022 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 981 mg
+Potassium: 31 mg
+Calcium: 6 mg
+Iron: 0.12 mg
+Magnesium: 6 mg
+Zinc: 0.05 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.06 mg
+Vitamin K: 0.1 µg
+Vitamin B6: 0.012 mg
+Vitamin B12: 0.03 µg
+Folate: 2 µg

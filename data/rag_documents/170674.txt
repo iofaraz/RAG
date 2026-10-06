@@ -1,0 +1,19 @@
+Food: Sugar, turbinado
+Food ID: 170674
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 399 kcal
+Protein: 0 g
+Carbohydrates: 99.8 g
+Fat: 0 g
+Sugar: 99.19 g
+
+Minerals:
+Sodium: 3 mg
+Potassium: 29 mg
+Calcium: 12 mg
+Iron: 0.37 mg
+Magnesium: 2 mg
+Zinc: 0.03 mg

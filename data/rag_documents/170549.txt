@@ -1,0 +1,37 @@
+Food: Waxgourd, (chinese preserving melon), cooked, boiled, drained, with salt
+Food ID: 170549
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 11 kcal
+Protein: 0.4 g
+Carbohydrates: 2.45 g
+Fat: 0.2 g
+Fiber: 1 g
+Sugar: 1.18 g
+
+Fats:
+Saturated fat: 0.016 g
+Monounsaturated fat: 0.037 g
+Polyunsaturated fat: 0.088 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 343 mg
+Potassium: 5 mg
+Calcium: 18 mg
+Iron: 0.38 mg
+Magnesium: 10 mg
+Zinc: 0.59 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 10.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.08 mg
+Vitamin K: 2.8 µg
+Vitamin B6: 0.032 mg
+Vitamin B12: 0 µg
+Folate: 4 µg

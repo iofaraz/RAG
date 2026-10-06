@@ -1,0 +1,36 @@
+Food: Margarine-like spread with yogurt, 70% fat, stick, with salt
+Food ID: 172352
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 630 kcal
+Protein: 0.3 g
+Carbohydrates: 0.5 g
+Fat: 70 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 13.3 g
+Monounsaturated fat: 39.9 g
+Polyunsaturated fat: 14 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 590 mg
+Potassium: 25 mg
+Calcium: 20 mg
+Iron: 0.01 mg
+Magnesium: 2 mg
+Zinc: 0.1 mg
+
+Vitamins:
+Vitamin A: 819 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0 µg
+Vitamin E: 5 mg
+Vitamin K: 93 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.06 µg
+Folate: 1 µg

@@ -1,0 +1,36 @@
+Food: Romaine lettuce, raw
+Food ID: 2709590
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 21 kcal
+Protein: 0.98 g
+Carbohydrates: 4.06 g
+Fat: 0.07 g
+Fiber: 1.8 g
+Sugar: 1.19 g
+
+Fats:
+Saturated fat: 0.039 g
+Monounsaturated fat: 0.012 g
+Polyunsaturated fat: 0.16 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 23 mg
+Potassium: 260 mg
+Calcium: 28 mg
+Iron: 0.27 mg
+Magnesium: 12 mg
+Zinc: 0.25 mg
+
+Vitamins:
+Vitamin A: 436 µg
+Vitamin C: 4.6 mg
+Vitamin D: 0 µg
+Vitamin E: 0.14 mg
+Vitamin K: 83.4 µg
+Vitamin B6: 0.063 mg
+Vitamin B12: 0 µg
+Folate: 50 µg

@@ -1,0 +1,36 @@
+Food: Vegetarian stroganoff
+Food ID: 2707480
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 167 kcal
+Protein: 7.69 g
+Carbohydrates: 11.78 g
+Fat: 10.03 g
+Fiber: 2.6 g
+Sugar: 1.79 g
+
+Fats:
+Saturated fat: 3.353 g
+Monounsaturated fat: 2.818 g
+Polyunsaturated fat: 2.659 g
+Cholesterol: 13 mg
+
+Minerals:
+Sodium: 460 mg
+Potassium: 207 mg
+Calcium: 82 mg
+Iron: 1.25 mg
+Magnesium: 28 mg
+Zinc: 0.71 mg
+
+Vitamins:
+Vitamin A: 32 µg
+Vitamin C: 2.3 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.76 mg
+Vitamin K: 9.5 µg
+Vitamin B6: 0.146 mg
+Vitamin B12: 0.8 µg
+Folate: 55 µg

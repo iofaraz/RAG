@@ -1,0 +1,17 @@
+Food: Baked beans, Original, canned, with pork
+Food ID: 2758982
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Fiber: 3.547 g
+
+Fats:
+Saturated fat: 0.2164 g
+Monounsaturated fat: 0.2236 g
+Polyunsaturated fat: 0.3793 g
+Trans fat: 0 g
+
+Vitamins:
+Vitamin B6: 0.05607 mg
+Folate: 48.02 µg

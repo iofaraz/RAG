@@ -1,0 +1,37 @@
+Food: Babyfood, macaroni and cheese, toddler
+Food ID: 172259
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 82 kcal
+Protein: 3.5 g
+Carbohydrates: 11.2 g
+Fat: 2.6 g
+Fiber: 0.5 g
+Sugar: 0.79 g
+
+Fats:
+Saturated fat: 1.53 g
+Monounsaturated fat: 0.7 g
+Polyunsaturated fat: 0.17 g
+Trans fat: 0 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 264 mg
+Potassium: 18 mg
+Calcium: 102 mg
+Iron: 0.6 mg
+Magnesium: 9 mg
+Zinc: 0.43 mg
+
+Vitamins:
+Vitamin A: 19 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.05 mg
+Vitamin B12: 0.06 µg
+Folate: 25 µg

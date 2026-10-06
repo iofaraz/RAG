@@ -1,0 +1,37 @@
+Food: Soy flour, full-fat, roasted
+Food ID: 174274
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 439 kcal
+Protein: 38.09 g
+Carbohydrates: 30.38 g
+Fat: 21.86 g
+Fiber: 9.7 g
+Sugar: 7.61 g
+
+Fats:
+Saturated fat: 3.162 g
+Monounsaturated fat: 4.829 g
+Polyunsaturated fat: 12.341 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 12 mg
+Potassium: 2041 mg
+Calcium: 188 mg
+Iron: 5.82 mg
+Magnesium: 369 mg
+Zinc: 3.58 mg
+
+Vitamins:
+Vitamin A: 6 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 1.98 mg
+Vitamin K: 71 µg
+Vitamin B6: 0.351 mg
+Vitamin B12: 0 µg
+Folate: 227 µg

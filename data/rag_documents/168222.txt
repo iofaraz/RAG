@@ -1,0 +1,33 @@
+Food: Pork, fresh, leg (ham), whole, separable lean and fat, raw
+Food ID: 168222
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 245 kcal
+Protein: 17.43 g
+Carbohydrates: 0 g
+Fat: 18.87 g
+Fiber: 0 g
+
+Fats:
+Saturated fat: 6.54 g
+Monounsaturated fat: 8.38 g
+Polyunsaturated fat: 2.01 g
+Cholesterol: 73 mg
+
+Minerals:
+Sodium: 47 mg
+Potassium: 315 mg
+Calcium: 5 mg
+Iron: 0.85 mg
+Magnesium: 20 mg
+Zinc: 1.93 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.7 mg
+Vitamin D: 0.5 µg
+Vitamin B6: 0.401 mg
+Vitamin B12: 0.63 µg
+Folate: 7 µg

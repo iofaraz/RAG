@@ -1,0 +1,36 @@
+Food: Horchata, made with milk
+Food ID: 2710603
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 91 kcal
+Protein: 1.42 g
+Carbohydrates: 19.65 g
+Fat: 0.63 g
+Fiber: 0.4 g
+Sugar: 9.56 g
+
+Fats:
+Saturated fat: 0.323 g
+Monounsaturated fat: 0.137 g
+Polyunsaturated fat: 0.039 g
+Cholesterol: 2 mg
+
+Minerals:
+Sodium: 9 mg
+Potassium: 41 mg
+Calcium: 30 mg
+Iron: 0.57 mg
+Magnesium: 6 mg
+Zinc: 0.22 mg
+
+Vitamins:
+Vitamin A: 5 µg
+Vitamin C: 0 mg
+Vitamin D: 0.2 µg
+Vitamin E: 0.03 mg
+Vitamin K: 0.2 µg
+Vitamin B6: 0.031 mg
+Vitamin B12: 0.09 µg
+Folate: 28 µg

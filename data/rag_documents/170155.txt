@@ -1,0 +1,35 @@
+Food: Seeds, sunflower seed butter, without salt
+Food ID: 170155
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 617 kcal
+Protein: 17.28 g
+Carbohydrates: 23.32 g
+Fat: 55.2 g
+Fiber: 5.7 g
+Sugar: 10.54 g
+
+Fats:
+Saturated fat: 4.678 g
+Monounsaturated fat: 39.025 g
+Polyunsaturated fat: 9.805 g
+Trans fat: 0.027 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 3 mg
+Potassium: 576 mg
+Calcium: 64 mg
+Iron: 4.12 mg
+Magnesium: 311 mg
+Zinc: 4.89 mg
+
+Vitamins:
+Vitamin C: 2.7 mg
+Vitamin D: 0 µg
+Vitamin E: 22.89 mg
+Vitamin B6: 0.55 mg
+Vitamin B12: 0 µg
+Folate: 237 µg

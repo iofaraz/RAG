@@ -1,0 +1,34 @@
+Food: CARRABBA'S ITALIAN GRILL, chicken parmesan without cavatappi pasta
+Food ID: 169857
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 206 kcal
+Protein: 19 g
+Carbohydrates: 7.8 g
+Fat: 10.95 g
+Fiber: 0.9 g
+Sugar: 2.89 g
+
+Fats:
+Saturated fat: 3.517 g
+Monounsaturated fat: 4.664 g
+Polyunsaturated fat: 1.437 g
+Trans fat: 0.141 g
+Cholesterol: 67 mg
+
+Minerals:
+Sodium: 467 mg
+Potassium: 319 mg
+Calcium: 142 mg
+Iron: 0.78 mg
+Magnesium: 30 mg
+Zinc: 1.16 mg
+
+Vitamins:
+Vitamin A: 53 µg
+Vitamin E: 1.89 mg
+Vitamin B6: 0.227 mg
+Vitamin B12: 0.46 µg
+Folate: 22 µg

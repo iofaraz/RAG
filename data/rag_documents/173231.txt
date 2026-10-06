@@ -1,0 +1,37 @@
+Food: Beverages, tea, instant, lemon, diet
+Food ID: 173231
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 2 kcal
+Protein: 0.02 g
+Carbohydrates: 0.44 g
+Fat: 0 g
+Fiber: 0 g
+Sugar: 0.01 g
+
+Fats:
+Saturated fat: 0 g
+Monounsaturated fat: 0 g
+Polyunsaturated fat: 0 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 6 mg
+Potassium: 14 mg
+Calcium: 3 mg
+Iron: 0.05 mg
+Magnesium: 2 mg
+Zinc: 0.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.001 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

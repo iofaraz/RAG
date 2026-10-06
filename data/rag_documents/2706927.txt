@@ -1,0 +1,36 @@
+Food: Hamburger, on white bun, 1 small patty
+Food ID: 2706927
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 287 kcal
+Protein: 17.1 g
+Carbohydrates: 22.22 g
+Fat: 13.83 g
+Fiber: 0.8 g
+Sugar: 3.23 g
+
+Fats:
+Saturated fat: 5.252 g
+Monounsaturated fat: 5.517 g
+Polyunsaturated fat: 1.153 g
+Cholesterol: 47 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 223 mg
+Calcium: 70 mg
+Iron: 2.86 mg
+Magnesium: 21 mg
+Zinc: 3.01 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0.6 mg
+Vitamin D: 0.1 µg
+Vitamin E: 0.12 mg
+Vitamin K: 3.4 µg
+Vitamin B6: 0.269 mg
+Vitamin B12: 1.56 µg
+Folate: 53 µg

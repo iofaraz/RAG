@@ -1,0 +1,37 @@
+Food: Pork, ground, 72% lean / 28% fat, cooked, pan-broiled
+Food ID: 168373
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 377 kcal
+Protein: 22.59 g
+Carbohydrates: 1.08 g
+Fat: 31.42 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 10.804 g
+Monounsaturated fat: 14.356 g
+Polyunsaturated fat: 4.222 g
+Trans fat: 0.229 g
+Cholesterol: 99 mg
+
+Minerals:
+Sodium: 91 mg
+Potassium: 275 mg
+Calcium: 20 mg
+Iron: 1.21 mg
+Magnesium: 18 mg
+Zinc: 2.48 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0.8 µg
+Vitamin E: 0.47 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.443 mg
+Vitamin B12: 1.11 µg
+Folate: 4 µg

@@ -1,0 +1,36 @@
+Food: Bread, nut
+Food ID: 2707848
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 403 kcal
+Protein: 6.59 g
+Carbohydrates: 49.66 g
+Fat: 20.1 g
+Fiber: 1.2 g
+Sugar: 26.01 g
+
+Fats:
+Saturated fat: 2.933 g
+Monounsaturated fat: 6.765 g
+Polyunsaturated fat: 8.789 g
+Cholesterol: 50 mg
+
+Minerals:
+Sodium: 336 mg
+Potassium: 152 mg
+Calcium: 161 mg
+Iron: 2.31 mg
+Magnesium: 24 mg
+Zinc: 0.67 mg
+
+Vitamins:
+Vitamin A: 37 µg
+Vitamin C: 0.1 mg
+Vitamin D: 0.6 µg
+Vitamin E: 2.67 mg
+Vitamin K: 13.4 µg
+Vitamin B6: 0.088 mg
+Vitamin B12: 0.18 µg
+Folate: 45 µg

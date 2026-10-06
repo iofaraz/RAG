@@ -1,0 +1,22 @@
+Food: Cauliflower, raw
+Food ID: 2685573
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.64062 g
+Carbohydrates: 4.72307 g
+Fat: 0.2375 g
+Fiber: 1.948 g
+
+Minerals:
+Sodium: 20 mg
+Potassium: 274.4 mg
+Calcium: 20.35 mg
+Iron: 0.3338 mg
+Magnesium: 14.2 mg
+Zinc: 0.2344 mg
+
+Vitamins:
+Vitamin C: 67.1 mg
+Folate: 97 µg

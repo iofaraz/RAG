@@ -1,0 +1,36 @@
+Food: Peas and corn, cooked, no added fat
+Food ID: 2710026
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 79 kcal
+Protein: 3.84 g
+Carbohydrates: 16.73 g
+Fat: 0.47 g
+Fiber: 3.4 g
+Sugar: 3.72 g
+
+Fats:
+Saturated fat: 0.076 g
+Monounsaturated fat: 0.11 g
+Polyunsaturated fat: 0.223 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 152 mg
+Potassium: 171 mg
+Calcium: 14 mg
+Iron: 0.99 mg
+Magnesium: 25 mg
+Zinc: 0.65 mg
+
+Vitamins:
+Vitamin A: 57 µg
+Vitamin C: 6.7 mg
+Vitamin D: 0 µg
+Vitamin E: 0.05 mg
+Vitamin K: 12.1 µg
+Vitamin B6: 0.106 mg
+Vitamin B12: 0 µg
+Folate: 47 µg

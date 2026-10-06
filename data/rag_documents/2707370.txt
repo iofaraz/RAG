@@ -1,0 +1,36 @@
+Food: Pink beans, cooked
+Food ID: 2707370
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 197 kcal
+Protein: 8.42 g
+Carbohydrates: 25.94 g
+Fat: 6.96 g
+Fiber: 4.9 g
+Sugar: 0.34 g
+
+Fats:
+Saturated fat: 0.987 g
+Monounsaturated fat: 2.796 g
+Polyunsaturated fat: 2.694 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 218 mg
+Potassium: 472 mg
+Calcium: 49 mg
+Iron: 2.15 mg
+Magnesium: 60 mg
+Zinc: 0.89 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 2.15 mg
+Vitamin K: 10 µg
+Vitamin B6: 0.155 mg
+Vitamin B12: 0 µg
+Folate: 148 µg

@@ -1,0 +1,37 @@
+Food: Lima beans, thin seeded (baby), mature seeds, raw
+Food ID: 174255
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 335 kcal
+Protein: 20.62 g
+Carbohydrates: 62.83 g
+Fat: 0.93 g
+Fiber: 20.6 g
+Sugar: 8.32 g
+
+Fats:
+Saturated fat: 0.219 g
+Monounsaturated fat: 0.084 g
+Polyunsaturated fat: 0.42 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 13 mg
+Potassium: 1403 mg
+Calcium: 81 mg
+Iron: 6.19 mg
+Magnesium: 188 mg
+Zinc: 2.6 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 0 µg
+Vitamin E: 0.7 mg
+Vitamin K: 5.9 µg
+Vitamin B6: 0.327 mg
+Vitamin B12: 0 µg
+Folate: 400 µg

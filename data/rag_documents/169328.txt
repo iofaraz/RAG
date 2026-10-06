@@ -1,0 +1,33 @@
+Food: Broadbeans, immature seeds, cooked, boiled, drained, with salt
+Food ID: 169328
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 62 kcal
+Protein: 4.8 g
+Carbohydrates: 10.1 g
+Fat: 0.5 g
+
+Fats:
+Saturated fat: 0.142 g
+Monounsaturated fat: 0.02 g
+Polyunsaturated fat: 0.303 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 277 mg
+Potassium: 193 mg
+Calcium: 18 mg
+Iron: 1.5 mg
+Magnesium: 31 mg
+Zinc: 0.47 mg
+
+Vitamins:
+Vitamin A: 14 µg
+Vitamin C: 19.8 mg
+Vitamin D: 0 µg
+Vitamin B6: 0.029 mg
+Vitamin B12: 0 µg
+Folate: 58 µg

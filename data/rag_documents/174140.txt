@@ -1,0 +1,37 @@
+Food: Beverages, cranberry-apple juice drink, bottled
+Food ID: 174140
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 63 kcal
+Protein: 0 g
+Carbohydrates: 15.85 g
+Fat: 0.11 g
+Fiber: 0 g
+Sugar: 14.5 g
+
+Fats:
+Saturated fat: 0.013 g
+Monounsaturated fat: 0.014 g
+Polyunsaturated fat: 0.052 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 2 mg
+Potassium: 17 mg
+Calcium: 3 mg
+Iron: 0.07 mg
+Magnesium: 1 mg
+Zinc: 0.02 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 39.5 mg
+Vitamin D: 0 µg
+Vitamin E: 0.12 mg
+Vitamin K: 0.5 µg
+Vitamin B6: 0 mg
+Vitamin B12: 0 µg
+Folate: 0 µg

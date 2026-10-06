@@ -1,0 +1,36 @@
+Food: Breakfast tart, lowfat
+Food ID: 2708078
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 372 kcal
+Protein: 3.99 g
+Carbohydrates: 76.8 g
+Fat: 5.99 g
+Fiber: 1.5 g
+Sugar: 4.87 g
+
+Fats:
+Saturated fat: 1.393 g
+Monounsaturated fat: 3.338 g
+Polyunsaturated fat: 0.878 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 361 mg
+Potassium: 66 mg
+Calcium: 44 mg
+Iron: 3.42 mg
+Magnesium: 44 mg
+Zinc: 0.28 mg
+
+Vitamins:
+Vitamin A: 285 µg
+Vitamin C: 3.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.53 mg
+Vitamin K: 0.4 µg
+Vitamin B6: 0.38 mg
+Vitamin B12: 0 µg
+Folate: 100 µg

@@ -1,0 +1,22 @@
+Food: Nuts, pine nuts, raw
+Food ID: 2346392
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 15.7039 g
+Carbohydrates: 18.5921 g
+Fat: 61.27 g
+Fiber: 3.941 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 654.8 mg
+Calcium: 8.736 mg
+Iron: 5.36 mg
+Magnesium: 205.9 mg
+Zinc: 5.713 mg
+
+Vitamins:
+Vitamin K: 3.2 µg
+Vitamin B6: 0.2546 mg

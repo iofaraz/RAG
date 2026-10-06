@@ -1,0 +1,36 @@
+Food: Cheese, Colby Jack
+Food ID: 2705713
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 393 kcal
+Protein: 23.19 g
+Carbohydrates: 2.24 g
+Fat: 32.37 g
+Fiber: 0 g
+Sugar: 0.51 g
+
+Fats:
+Saturated fat: 19.709 g
+Monounsaturated fat: 7.98 g
+Polyunsaturated fat: 0.926 g
+Cholesterol: 98 mg
+
+Minerals:
+Sodium: 633 mg
+Potassium: 105 mg
+Calcium: 700 mg
+Iron: 0.38 mg
+Magnesium: 28 mg
+Zinc: 3.42 mg
+
+Vitamins:
+Vitamin A: 228 µg
+Vitamin C: 0 mg
+Vitamin D: 0.3 µg
+Vitamin E: 0.27 mg
+Vitamin K: 2.6 µg
+Vitamin B6: 0.079 mg
+Vitamin B12: 0.83 µg
+Folate: 18 µg

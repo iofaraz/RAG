@@ -1,0 +1,36 @@
+Food: Ham and cheese loaf or roll
+Food ID: 171628
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 241 kcal
+Protein: 13.6 g
+Carbohydrates: 4 g
+Fat: 18.7 g
+Fiber: 0 g
+Sugar: 0 g
+
+Fats:
+Saturated fat: 6.966 g
+Monounsaturated fat: 8.59 g
+Polyunsaturated fat: 2.022 g
+Cholesterol: 58 mg
+
+Minerals:
+Sodium: 1000 mg
+Potassium: 294 mg
+Calcium: 58 mg
+Iron: 0.91 mg
+Magnesium: 16 mg
+Zinc: 2 mg
+
+Vitamins:
+Vitamin A: 0 µg
+Vitamin C: 0 mg
+Vitamin D: 1.1 µg
+Vitamin E: 0.27 mg
+Vitamin K: 0 µg
+Vitamin B6: 0.26 mg
+Vitamin B12: 0.81 µg
+Folate: 3 µg

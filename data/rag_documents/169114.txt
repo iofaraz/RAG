@@ -1,0 +1,37 @@
+Food: Peaches, spiced, canned, heavy syrup pack, solids and liquids
+Food ID: 169114
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 75 kcal
+Protein: 0.41 g
+Carbohydrates: 20.08 g
+Fat: 0.1 g
+Fiber: 1.3 g
+Sugar: 18.78 g
+
+Fats:
+Saturated fat: 0.011 g
+Monounsaturated fat: 0.036 g
+Polyunsaturated fat: 0.048 g
+Trans fat: 0 g
+Cholesterol: 0 mg
+
+Minerals:
+Sodium: 4 mg
+Potassium: 85 mg
+Calcium: 6 mg
+Iron: 0.28 mg
+Magnesium: 7 mg
+Zinc: 0.08 mg
+
+Vitamins:
+Vitamin A: 16 µg
+Vitamin C: 5.3 mg
+Vitamin D: 0 µg
+Vitamin E: 0.49 mg
+Vitamin K: 1.7 µg
+Vitamin B6: 0.019 mg
+Vitamin B12: 0 µg
+Folate: 3 µg

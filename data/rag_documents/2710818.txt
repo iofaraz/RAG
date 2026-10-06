@@ -1,0 +1,22 @@
+Food: Plantains, underripe, raw
+Food ID: 2710818
+Food Type: foundation_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Protein: 1.22938 g
+Carbohydrates: 33.5873 g
+Fat: 0.685 g
+Fiber: 2.53 g
+
+Minerals:
+Sodium: 0 mg
+Potassium: 406.3 mg
+Calcium: 4.832 mg
+Iron: 0.3342 mg
+Magnesium: 29.47 mg
+Zinc: 0.185 mg
+
+Vitamins:
+Vitamin C: 18.53 mg
+Vitamin B6: 0.159 mg

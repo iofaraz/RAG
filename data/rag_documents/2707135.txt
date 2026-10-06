@@ -1,0 +1,36 @@
+Food: Soup, sopa or caldo de pollo
+Food ID: 2707135
+Food Type: survey_fndds_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 55 kcal
+Protein: 6.23 g
+Carbohydrates: 4.04 g
+Fat: 1.58 g
+Fiber: 0.8 g
+Sugar: 1.1 g
+
+Fats:
+Saturated fat: 0.438 g
+Monounsaturated fat: 0.615 g
+Polyunsaturated fat: 0.345 g
+Cholesterol: 25 mg
+
+Minerals:
+Sodium: 295 mg
+Potassium: 181 mg
+Calcium: 12 mg
+Iron: 0.31 mg
+Magnesium: 14 mg
+Zinc: 0.41 mg
+
+Vitamins:
+Vitamin A: 35 µg
+Vitamin C: 6.8 mg
+Vitamin D: 0 µg
+Vitamin E: 0.18 mg
+Vitamin K: 13.7 µg
+Vitamin B6: 0.185 mg
+Vitamin B12: 0.06 µg
+Folate: 11 µg

@@ -1,0 +1,27 @@
+Food: Yogurt, Greek, 2% fat, key lime blend, CHOBANI
+Food ID: 173434
+Food Type: sr_legacy_food
+Source: USDA FoodData Central
+
+Macronutrients:
+Calories: 92 kcal
+Protein: 7.75 g
+Carbohydrates: 11.91 g
+Fat: 1.47 g
+Fiber: 0.5 g
+
+Fats:
+Saturated fat: 0.87 g
+Monounsaturated fat: 0.32 g
+Polyunsaturated fat: 0.06 g
+Trans fat: 0.07 g
+Cholesterol: 7 mg
+
+Minerals:
+Sodium: 40 mg
+Calcium: 92 mg
+Iron: 0.03 mg
+
+Vitamins:
+Vitamin A: 15 µg
+Vitamin C: 0.7 mg
