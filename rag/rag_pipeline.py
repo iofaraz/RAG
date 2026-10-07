@@ -8,9 +8,9 @@ def build_context(results):
     for i, result in enumerate(results, start=1):
         context.append(
             f"""
-Food {i}:
-{result["document"]}
-"""
+            Food {i}:
+            {result["document"]}
+            """
         )
 
     return "\n".join(context)
@@ -18,32 +18,35 @@ Food {i}:
 
 def answer_question(question):
 
+    print("RAG: starting retrieval")
     results = retrieve_foods(question)
 
     context = build_context(results)
 
     prompt = f"""
-You are Nutrivault, an AI nutrition information assistant.
+        You are Nutrivault, an AI nutrition information assistant.
 
-Answer the user's question using ONLY the nutrition data
-provided in the context below.
+        Answer the user's question using ONLY the nutrition data
+        provided in the context below.
 
-Rules:
-- Do not invent nutrition values.
-- Do not use nutrition facts that are not present in the context.
-- If the available data is insufficient, clearly say so.
-- Keep the answer concise and easy to understand.
-- Mention relevant food names and nutrition values when appropriate.
-- This is general nutrition information, not medical diagnosis or treatment.
+        Rules:
+        - Do not invent nutrition values.
+        - Do not use nutrition facts that are not present in the context.
+        - If the available data is insufficient, clearly say so.
+        - Keep the answer concise and easy to understand.
+        - Mention relevant food names and nutrition values when appropriate.
+        - This is general nutrition information, not medical diagnosis or treatment.
 
-User question:
-{question}
+        User question:
+        {question}
 
-Retrieved nutrition data:
-{context}
-"""
+        Retrieved nutrition data:
+        {context}
+        """
 
+    print("RAG: calling Gemini")
     answer = generate_answer(prompt)
+    print("RAG: Gemini returned")
 
     return {
     "question": question,
