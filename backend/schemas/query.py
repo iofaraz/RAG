@@ -24,5 +24,5 @@ class QueryResponse(BaseModel):
     query: str
     answer: str
     sources: list[Source] = []
-    graph_results: list[str] = []
+    graph_results: dict = {}
     warnings: list[str] = []       # what failed, so the UI can show it

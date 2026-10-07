@@ -66,3 +66,4 @@ node_modules/
 .idea/
 Thumbs.db
 .DS_Store
+.pytest_cache/
