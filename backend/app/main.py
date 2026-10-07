@@ -41,7 +41,10 @@ def query(body: QueryRequest):
         warnings = []
     except Exception as exc:
         print(f"RAG pipeline failed: {exc}")
-        raise HTTPException(status_code=502, detail="RAG pipeline unavailable")
+        raise HTTPException(
+            status_code=502,
+            detail=f"RAG pipeline unavailable: {exc}"
+        )
 
     # Graph side (Member 1) — enrichment; degrade gracefully
     try:

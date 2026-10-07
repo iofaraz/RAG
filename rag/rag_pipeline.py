@@ -1,5 +1,5 @@
-from retriever import retrieve_foods
-from llm_client import generate_answer
+from .retriever import retrieve_foods
+from .llm_client import generate_answer
 
 
 def build_context(results):
