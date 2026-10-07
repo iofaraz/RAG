@@ -39,3 +39,30 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ===== Secrets - never commit these =====
+.env
+.env.*
+!.env.example
+
+# ===== Large / regenerable data =====
+data/chroma_db/
+data/raw/
+*.zip
+
+# ===== Frontend (Member 4) =====
+node_modules/
+.next/
+
+# ===== Editor / OS junk =====
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
