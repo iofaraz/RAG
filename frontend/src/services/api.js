@@ -1,47 +1,47 @@
-import { getMockResponse } from "./mockData";
+const API_BASE_URL = (process.env.NEXT_PUBLIC_API_URL ?? "http://127.0.0.1:8000").replace(/\/$/, "");
 
-// Flip to false once FastAPI is up and postQuery() is implemented.
-const USE_MOCK = true;
-// const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
-
-/**
- * Single entry point for the UI. Components never call fetch directly.
- * Resolves to: { question, answer, sources[], graph_context[], retrieval_metadata }
- */
+/** Send a nutrition question to the FastAPI backend. */
 export async function askQuestion(question) {
-  const raw = USE_MOCK ? await getMockResponse(question) : await postQuery(question);
-  return normalizeResponse(raw, question);
-}
+  let response;
 
-async function postQuery(/* question */) {
-  // TODO: connect to FastAPI —
-  // const res = await fetch(`${API_BASE_URL}/api/query`, {
-  //   method: "POST",
-  //   headers: { "Content-Type": "application/json" },
-  //   body: JSON.stringify({ question }),
-  // });
-  // if (!res.ok) throw new Error(`Query failed: ${res.status}`);
-  // return res.json();
-  throw new Error("Backend not connected");
-}
+  try {
+    response = await fetch(`${API_BASE_URL}/api/query`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ query: question }),
+    });
+  } catch {
+    throw new Error("The nutrition service is unavailable. Check your connection and try again.");
+  }
 
-// The only place that knows the backend schema. Adjust here if it changes.
-function normalizeResponse(raw, question) {
+  if (!response.ok) {
+    if (response.status >= 500) {
+      throw new Error("The nutrition service is temporarily unavailable. Please try again shortly.");
+    }
+
+    throw new Error("We couldn't process that question. Please check it and try again.");
+  }
+
+  let data;
+  try {
+    data = await response.json();
+  } catch {
+    throw new Error("The nutrition service returned an invalid response. Please try again.");
+  }
+
   return {
-    question: raw.question ?? question,
-    answer: raw.answer ?? "",
-    sources: (raw.sources ?? []).map((source) => ({
-      food_id: source.food_id,
-      food_name: source.food_name,
-      food_type: source.food_type ?? null,
-      // Accept nested `nutrition` or flat numeric fields (protein_g, ...).
-      nutrition:
-        source.nutrition ??
-        Object.fromEntries(
-          Object.entries(source).filter(([, value]) => typeof value === "number"),
-        ),
-    })),
-    graph_context: raw.graph_context ?? [],
-    retrieval_metadata: raw.retrieval_metadata ?? {},
+    question: data.query ?? question,
+    answer: typeof data.answer === "string" ? data.answer : "",
+    sources: Array.isArray(data.sources)
+      ? data.sources.map((source, index) => ({
+          food_id: `${source.name ?? "source"}-${index}`,
+          food_name: source.name ?? "Nutrition source",
+          food_type: null,
+          nutrition: {},
+          detail: source.detail ?? null,
+          score: source.score ?? null,
+        }))
+      : [],
+    warnings: Array.isArray(data.warnings) ? data.warnings : [],
   };
 }

@@ -17,6 +17,7 @@ export default function ChatInterface() {
   const [status, setStatus] = useState("idle"); // idle | loading | success | error
   const [submitted, setSubmitted] = useState("");
   const [conversation, setConversation] = useState([]);
+  const [errorMessage, setErrorMessage] = useState("");
 
   const isLoading = status === "loading";
 
@@ -27,6 +28,7 @@ export default function ChatInterface() {
     setSubmitted(question);
     setDraft("");
     setStatus("loading");
+    setErrorMessage("");
 
     try {
       const result = await askQuestion(question);
@@ -39,7 +41,8 @@ export default function ChatInterface() {
         },
       ]);
       setStatus("success");
-    } catch {
+    } catch (error) {
+      setErrorMessage(error instanceof Error ? error.message : "Please try again shortly.");
       setStatus("error");
     }
   }
@@ -73,7 +76,7 @@ export default function ChatInterface() {
           {status === "error" && (
             <div className="space-y-4">
               <UserQuestion question={submitted} />
-              <ErrorState onRetry={() => ask(submitted)} />
+              <ErrorState message={errorMessage} onRetry={() => ask(submitted)} />
             </div>
           )}
         </div>

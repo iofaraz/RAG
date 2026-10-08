@@ -1,19 +1,15 @@
-# backend/services/rag.py
-
 from rag.rag_pipeline import answer_question
 
 
-def answer_query(query: str) -> dict:
-    """Run the real RAG pipeline and adapt its response for the backend."""
-
-    result = answer_question(query)
+async def answer_query(query: str) -> dict:
+    result = await answer_question(query)
 
     sources = []
 
     for source in result.get("sources", []):
         nutrition = source.get("nutrition", {})
-
         detail = None
+
         if nutrition:
             nutrient, value = next(iter(nutrition.items()))
             if value is not None:
@@ -30,4 +26,5 @@ def answer_query(query: str) -> dict:
     return {
         "answer": result.get("answer", ""),
         "sources": sources,
+        "graph_results": result.get("graph_context", {}),
     }

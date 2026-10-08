@@ -3,7 +3,7 @@ import NutrientStat from "./NutrientStat";
 import { NUTRIENTS, SECONDARY_ORDER, formatValue } from "@/lib/utils";
 
 export default function SourceCard({ source, rank, focusNutrient }) {
-  const { food_name, food_id, food_type, nutrition } = source;
+  const { food_name, food_id, food_type, nutrition, detail, score } = source;
 
   const primaryKey =
     focusNutrient && nutrition[focusNutrient] != null ? focusNutrient : null;
@@ -19,10 +19,17 @@ export default function SourceCard({ source, rank, focusNutrient }) {
         <span className="text-xs tabular-nums text-muted">#{rank}</span>
       </div>
 
-      <p className="mt-2 flex flex-wrap items-center gap-2 text-xs text-muted">
-        {food_type && <Badge>{food_type}</Badge>}
-        <span>ID {food_id}</span>
-      </p>
+      {food_type && (
+        <p className="mt-2 flex flex-wrap items-center gap-2 text-xs text-muted">
+          <Badge>{food_type}</Badge>
+          {food_id && <span>ID {food_id}</span>}
+        </p>
+      )}
+
+      {detail && <p className="mt-2 text-sm leading-6 text-muted">{detail}</p>}
+      {score != null && (
+        <p className="mt-2 text-xs text-muted">Relevance: {Number(score).toFixed(2)}</p>
+      )}
 
       {primary && (
         <div className="mt-4 border-l-2 border-accent pl-3">
