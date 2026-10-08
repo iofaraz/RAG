@@ -3,82 +3,87 @@ import os
 
 import httpx
 from dotenv import load_dotenv
-from google import genai
-from google.genai import errors
-from google.genai import types
+from groq import (
+    APIConnectionError,
+    APIStatusError,
+    APITimeoutError,
+    AsyncGroq,
+    RateLimitError,
+)
 
 load_dotenv()
 
-API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_REQUEST_TIMEOUT_SECONDS = 15
+GROQ_MODEL = "openai/gpt-oss-120b"
+GROQ_REQUEST_TIMEOUT_SECONDS = 15
 
 
-class GeminiRequestTimeout(TimeoutError):
-    """Raised when Gemini does not respond within the configured deadline."""
+class LLMRequestTimeout(TimeoutError):
+    """Raised when Groq does not respond within the configured deadline."""
 
 
-class GeminiServiceError(RuntimeError):
-    """Raised when Gemini cannot provide a response for an application request."""
+class LLMServiceError(RuntimeError):
+    """Raised when the configured LLM service cannot provide a response."""
 
 
-if not API_KEY:
-    raise ValueError("GEMINI_API_KEY is not set")
+class LLMConfigurationError(LLMServiceError):
+    """Raised when required LLM configuration is missing."""
 
-client = genai.Client(
-    api_key=API_KEY,
-    http_options=types.HttpOptions(
-        timeout=GEMINI_REQUEST_TIMEOUT_SECONDS * 1000,
-        retry_options=types.HttpRetryOptions(attempts=1),
-    ),
-)
 
-interactions = client.aio.interactions
-interaction_retry_config = interactions.sdk_configuration.retry_config
+_client: AsyncGroq | None = None
 
-if interaction_retry_config is None:
-    raise RuntimeError("Gemini SDK did not provide an interaction retry configuration.")
 
-interaction_retry_config.max_retries = 0
-interaction_retry_config.retry_connection_errors = False
+def _get_client() -> AsyncGroq:
+    global _client
+
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        raise LLMConfigurationError("GROQ_API_KEY is not configured.")
+
+    if _client is None:
+        _client = AsyncGroq(
+            api_key=api_key,
+            timeout=GROQ_REQUEST_TIMEOUT_SECONDS,
+            max_retries=0,
+        )
+    return _client
 
 
 async def generate_answer(prompt: str) -> str:
+    client = _get_client()
+
     try:
-        async with asyncio.timeout(GEMINI_REQUEST_TIMEOUT_SECONDS):
-            interaction = await interactions.create(
-                model="gemini-3.8-flash",
-                input=prompt,
-                timeout=GEMINI_REQUEST_TIMEOUT_SECONDS,
+        async with asyncio.timeout(GROQ_REQUEST_TIMEOUT_SECONDS):
+            completion = await client.chat.completions.create(
+                model=GROQ_MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                timeout=GROQ_REQUEST_TIMEOUT_SECONDS,
             )
+    except (APITimeoutError, httpx.TimeoutException, TimeoutError) as exc:
+        raise LLMRequestTimeout(
+            f"LLM request timed out after {GROQ_REQUEST_TIMEOUT_SECONDS} seconds."
+        ) from exc
+    except RateLimitError as exc:
+        raise LLMServiceError(
+            "The LLM service is rate limited. Please try again later."
+        ) from exc
+    except APIConnectionError as exc:
+        raise LLMServiceError(
+            "Unable to connect to the LLM service. Please try again shortly."
+        ) from exc
+    except APIStatusError as exc:
+        if exc.status_code == 429:
+            message = "The LLM service is rate limited. Please try again later."
+        elif exc.status_code == 503:
+            message = "The LLM service is temporarily unavailable. Please try again shortly."
+        else:
+            message = "The LLM service could not complete the request. Please try again shortly."
+        raise LLMServiceError(message) from exc
+    except Exception as exc:
+        raise LLMServiceError(
+            "The LLM service is unavailable. Please try again shortly."
+        ) from exc
 
-        return interaction.output_text
+    if not completion.choices or not completion.choices[0].message.content:
+        raise LLMServiceError("The LLM service returned an empty response.")
 
-    except errors.APIError as e:
-        _raise_service_error(e, e.code)
-
-    except (httpx.TimeoutException, TimeoutError) as e:
-        raise GeminiRequestTimeout(
-            f"Gemini request timed out after {GEMINI_REQUEST_TIMEOUT_SECONDS} seconds."
-        ) from e
-
-    except Exception as e:
-        status_code = getattr(e, "status_code", None) or getattr(e, "code", None)
-        _raise_service_error(e, status_code)
-
-
-def _raise_service_error(error: Exception, status_code: int | None) -> None:
-    if status_code == 429:
-        raise GeminiServiceError(
-            "Gemini rate limit exceeded (HTTP 429). Please retry later."
-        ) from error
-    if status_code == 503:
-        raise GeminiServiceError(
-            "Gemini service is temporarily unavailable. Please try again shortly."
-        ) from error
-    if isinstance(error, (httpx.ConnectError, httpx.NetworkError)):
-        raise GeminiServiceError(
-            "Unable to connect to Gemini. Please try again shortly."
-        ) from error
-    raise GeminiServiceError(
-        "Gemini service is unavailable. Please try again shortly."
-    ) from error
+    return completion.choices[0].message.content

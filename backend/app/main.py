@@ -11,7 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from backend.schemas.query import QueryRequest, QueryResponse, Source
 from backend.services.graph import retrieve_from_graph
 from backend.services.rag import answer_query
-from rag.llm_client import GeminiRequestTimeout, GeminiServiceError
+from rag.llm_client import LLMRequestTimeout, LLMServiceError
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -51,14 +51,14 @@ async def query(body: QueryRequest):
         answer = rag["answer"]
         sources = [Source(**s) for s in rag["sources"]]
         warnings = []
-    except GeminiRequestTimeout as exc:
-        logger.exception("Gemini request timed out")
+    except LLMRequestTimeout as exc:
+        logger.exception("LLM request timed out")
         raise HTTPException(
             status_code=504,
-            detail="Gemini request timed out",
+            detail="The LLM request timed out. Please try again.",
         ) from exc
-    except GeminiServiceError as exc:
-        logger.exception("Gemini service request failed")
+    except LLMServiceError as exc:
+        logger.exception("LLM service request failed")
         raise HTTPException(
             status_code=503,
             detail="The nutrition answer service is temporarily unavailable. Please try again shortly.",

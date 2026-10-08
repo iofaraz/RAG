@@ -80,11 +80,11 @@ async def answer_question(question):
         {context}
         """
 
-    print("RAG: calling Gemini", flush=True)
-    logger.info("Gemini request started")
+    print("RAG: calling Groq", flush=True)
+    logger.info("Groq request started")
     answer = await generate_answer(prompt)
-    print("RAG: Gemini returned", flush=True)
-    logger.info("Gemini request completed")
+    print("RAG: Groq returned", flush=True)
+    logger.info("Groq request completed")
 
     return {
     "question": question,
