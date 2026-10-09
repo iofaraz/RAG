@@ -166,6 +166,7 @@ ORDER BY g.name, n.sort_order
 # Multi-hop: Goal <-SUPPORTS- Nutrient <-CONTAINS- Food, top foods PER nutrient
 # (amounts of different nutrients are not comparable, so ranking is within a nutrient).
 
+
 Q_GOAL_FOODS = """
 MATCH (n:Nutrient)-[s:SUPPORTS]->(g:Goal)
 WHERE g.key IN $goal_keys
@@ -173,21 +174,24 @@ MATCH (f:Food)-[r:CONTAINS]->(n)
 WHERE r.amount > 0
   AND NOT any(word IN [
     'baking powder',
-    'rennin tablets',
+    'rennin',
+    'spices,',
     'protein isolate',
     'supplement',
     'fortified powder',
     'drink mix',
-    'cottonseed meal',
-    'dried whey',
+    'cottonseed',
+    'whey',
     'babyfood',
+    'baby food',
     'infant formula',
     'candy',
     'candies',
     'snack bar',
     'chocolate bar',
-    'spearmint, dried',
-    'seeds, sisymbrium'
+    'desserts,',
+    'tablets',
+    'sisymbrium'
   ] WHERE toLower(f.name) CONTAINS word)
 WITH g, n, s, f, r,
      CASE
@@ -195,6 +199,7 @@ WITH g, n, s, f, r,
        WHEN toLower(f.name) CONTAINS 'powder' THEN 1
        WHEN toLower(f.name) CONTAINS 'oil' THEN 1
        WHEN toLower(f.name) CONTAINS 'concentrate' THEN 1
+       WHEN toLower(f.name) CONTAINS 'flour' THEN 1
        ELSE 0
      END AS penalty
 ORDER BY penalty ASC, r.amount DESC, f.name
