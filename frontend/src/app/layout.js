@@ -8,6 +8,9 @@ export const metadata = {
   title: "Nutrivault — AI Nutrition Knowledge",
   description:
     "Ask nutrition questions and get answers grounded in retrieved nutrition data.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({ children }) {
