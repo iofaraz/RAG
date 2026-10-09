@@ -10,14 +10,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from backend.schemas.query import QueryRequest, QueryResponse, Source
-from backend.services.graph import retrieve_from_graph
 from backend.services.rag import answer_query
 from rag.llm_client import LLMRequestTimeout, LLMServiceError
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 RAG_REQUEST_TIMEOUT_SECONDS = 20
-GRAPH_REQUEST_TIMEOUT_SECONDS = 5
 
 app = FastAPI(title="Nutrition RAG Backend")
 
@@ -61,7 +59,7 @@ async def query(body: QueryRequest):
         )
         answer = rag["answer"]
         sources = [Source(**s) for s in rag["sources"]]
-        warnings = []
+        warnings = rag.get("warnings", [])
     except LLMRequestTimeout as exc:
         logger.exception("LLM request timed out")
         raise HTTPException(
@@ -90,35 +88,11 @@ async def query(body: QueryRequest):
             detail="The nutrition service could not complete your request. Please try again shortly.",
         ) from exc
 
-    # Graph side (Member 1) — enrichment; degrade gracefully
-    print("API: RAG completed; starting graph enrichment", flush=True)
-    try:
-        graph = await asyncio.wait_for(
-            asyncio.to_thread(retrieve_from_graph, body.query),
-            timeout=GRAPH_REQUEST_TIMEOUT_SECONDS,
-        )
-    except asyncio.TimeoutError:
-        logger.exception(
-            "Graph retrieval exceeded its %s-second deadline",
-            GRAPH_REQUEST_TIMEOUT_SECONDS,
-        )
-        graph = {}
-        warnings.append(
-            f"Knowledge graph retrieval timed out after "
-            f"{GRAPH_REQUEST_TIMEOUT_SECONDS} seconds; answer uses vector retrieval only."
-        )
-    except Exception:
-        logger.exception("Graph retriever failed")
-        graph = {}
-        warnings.append(
-            "Knowledge graph unavailable; answer uses vector retrieval only."
-        )
-
     print("API: query completed", flush=True)
     return QueryResponse(
         query=body.query,
         answer=answer,
         sources=sources,
-        graph_results=graph,
+        graph_results=rag.get("graph_results", {}),
         warnings=warnings,
     )

@@ -5,7 +5,7 @@ import Header from "@/components/layout/Header";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata = {
-  title: "Nutrivault — AI Nutrition Knowledge",
+  title: "Nutrix — AI Nutrition Knowledge",
   description:
     "Ask nutrition questions and get answers grounded in retrieved nutrition data.",
   icons: {

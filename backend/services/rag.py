@@ -28,7 +28,7 @@ async def answer_query(query: str) -> dict:
                     detail = f"{value} {nutrient}"
 
         name = source.get("food_name") or "Unknown food"
-        key = (
+        key = source.get("food_id") or (
             " ".join(str(name).split()).casefold(),
             " ".join(str(detail).split()).casefold() if detail is not None else None,
         )
@@ -36,10 +36,21 @@ async def answer_query(query: str) -> dict:
             continue
         seen_sources.add(key)
 
-        sources.append({"name": name, "detail": detail, "score": None})
+        sources.append({
+            "name": name,
+            "detail": source.get("detail") or detail,
+            "score": source.get("score"),
+            "food_id": source.get("food_id"),
+            "food_type": source.get("food_type"),
+            "nutrition": nutrition,
+            "basis": source.get("basis"),
+            "source": source.get("source"),
+        })
 
     return {
         "answer": result.get("answer", ""),
         "sources": sources,
         "graph_results": result.get("graph_context", {}),
+        "warnings": ["Knowledge graph unavailable; answer uses vector retrieval only."]
+        if "Knowledge graph unavailable." in result.get("graph_context", {}).get("notes", []) else [],
     }

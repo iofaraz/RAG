@@ -3,7 +3,6 @@ from pathlib import Path
 import re
 
 import chromadb
-from sentence_transformers import SentenceTransformer
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -14,15 +13,26 @@ DB_DIR = Path(
 if not DB_DIR.is_absolute():
     DB_DIR = PROJECT_ROOT / DB_DIR
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
+model = None
 
-client = chromadb.PersistentClient(
-    path=str(DB_DIR)
-)
 
-collection = client.get_collection(
-    name="food_nutrition"
-)
+def _get_model():
+    global model
+    if model is None:
+        from sentence_transformers import SentenceTransformer
+
+        model = SentenceTransformer("all-MiniLM-L6-v2")
+    return model
+
+collection = None
+
+
+def _get_collection():
+    global collection
+    if collection is None:
+        client = chromadb.PersistentClient(path=str(DB_DIR))
+        collection = client.get_collection(name="food_nutrition")
+    return collection
 
 
 NUTRIENT_PATTERNS = {
@@ -105,9 +115,9 @@ def extract_food_name(document):
 
 def retrieve_foods(query, n_candidates=30, top_k=5):
 
-    query_embedding = model.encode(query).tolist()
+    query_embedding = _get_model().encode(query).tolist()
 
-    results = collection.query(
+    results = _get_collection().query(
         query_embeddings=[query_embedding],
         n_results=n_candidates
     )

@@ -35,7 +35,7 @@ export default function AIResponse({ answer, sourceCount }) {
             </svg>
           </span>
           <div>
-            <SectionLabel>NutriVault answer</SectionLabel>
+            <SectionLabel>Nutrix answer</SectionLabel>
             <p className="mt-0.5 text-xs text-muted">AI-generated explanation</p>
           </div>
         </div>

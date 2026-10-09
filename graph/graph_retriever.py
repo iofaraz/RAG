@@ -37,7 +37,7 @@ from .seed_knowledge import GOALS
 
 # ------------------------------------------------------------------ vocabulary
 STOPWORDS = set("""
-a an the of in on at to for with and or from by as is are was were be been do does did has have had
+a an the of in on at to for with and or from by as is are was were be been do does did has have had one two
 what which who whom whose how why when where much many more most some any all
 tell me show give list find get name please can could would should i we you it its
 food foods nutrient nutrients nutrition nutritional vitamin vitamins mineral minerals
@@ -46,6 +46,8 @@ amount amounts content level levels per gram grams g mg ug kcal serving
 category categories belong belongs belonging type kind group class classified
 associated association support supports supporting help helps related relate relates linked
 eat eating meal meals diet that these those there their them
+compare comparison versus vs both provide provides containing which good sources for everyday foods
+top rank ranked ranking first second third fourth fifth five six seven eight nine ten
 """.split())
 
 FOOD_WORDS = {"food", "foods", "eat", "eating", "meal", "meals", "diet"}
@@ -81,6 +83,18 @@ def _extract_aliases(text: str, alias_map: dict[str, str]):
                 found.append(key)
             text = pat.sub(" ", text)
     return " ".join(text.split()), found
+
+
+NUMBER_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
+                "seven": 7, "eight": 8, "nine": 9, "ten": 10}
+
+
+def requested_limit(query: str, default: int) -> int:
+    match = re.search(r"\b(?:top|first|show|list|give me)\s+(?:the\s+)?(?:top\s+)?(\d+|one|two|three|four|five|six|seven|eight|nine|ten)\b", _norm(query))
+    if not match:
+        return default
+    count = NUMBER_WORDS.get(match.group(1), int(match.group(1)) if match.group(1).isdigit() else default)
+    return max(1, min(25, count))
 
 
 # ------------------------------------------------------------- food name matching
@@ -132,11 +146,12 @@ ORDER BY f.fdc_id, n.sort_order
 
 Q_NUTRIENT_FOODS = """
 MATCH (f:Food)-[r:CONTAINS]->(n:Nutrient {key: $key})
-WHERE r.amount > 0
+WHERE r.amount >= 0
 RETURN f.fdc_id AS fdc_id, f.name AS food, f.data_type AS data_type,
        n.name AS nutrient, n.key AS nutrient_key, r.amount AS amount, r.unit AS unit,
        r.basis AS basis, r.source AS source
-ORDER BY r.amount DESC, f.name
+ORDER BY CASE WHEN $ascending THEN r.amount END ASC,
+         CASE WHEN NOT $ascending THEN r.amount END DESC, f.name
 LIMIT $limit
 """
 
@@ -253,8 +268,8 @@ class GraphRetriever:
     def food_nutrients(self, fdc_ids, nutrient_keys=None, include_zero=False):
         return self._run(Q_FOOD_NUTRIENTS, fdc_ids=list(fdc_ids), keys=nutrient_keys, include_zero=include_zero)
 
-    def nutrient_foods(self, nutrient_key: str, limit: int):
-        return self._run(Q_NUTRIENT_FOODS, key=nutrient_key, limit=limit)
+    def nutrient_foods(self, nutrient_key: str, limit: int, ascending=False):
+        return self._run(Q_NUTRIENT_FOODS, key=nutrient_key, limit=limit, ascending=ascending)
 
     def food_categories(self, fdc_ids):
         return self._run(Q_FOOD_CATEGORY, fdc_ids=list(fdc_ids))
@@ -295,9 +310,23 @@ class GraphRetriever:
             out["notes"].append("Empty query.")
             return out
 
+        limit = requested_limit(query, limit)
+
         text = _norm(query)
+        if re.search(r"\b(why is|why are|difference between|explain)\b", text) or re.fullmatch(
+            r"(?:what is )?(?:dietary )?(?:protein|carbohydrates?|carbs|fiber|fibre|fat|calories|vitamins?|minerals?)",
+            text,
+        ):
+            out["intent"] = "general_explanation"
+            out["notes"].append("The USDA food records contain nutrient measurements, not general nutrition explanations.")
+            return out
         text, goals = _extract_aliases(text, GOAL_ALIASES)
         text, nutrients = _extract_aliases(text, NUTRIENT_ALIASES)
+        # Comparisons require exact, named-food lookups. Resolve each side
+        # independently so semantic retrieval cannot substitute other foods.
+        comparison = bool(re.search(r"\b(compare|comparison|versus|vs)\b|which (?:contains|has) more", _norm(query)))
+        if comparison:
+            return self._comparison(out, query, nutrients)
         # Category names are only matched for explicit "foods in the X category" questions;
         # otherwise a category called e.g. "Salmon" would swallow the food word in
         # "what category does salmon belong to?".
@@ -329,6 +358,43 @@ class GraphRetriever:
         out["notes"].append("The question did not map to any supported graph query "
                             "(food->nutrients, nutrient->foods, food->category, goal->nutrients, goal->foods).")
         return out
+
+    def _comparison(self, out, query, nutrient_keys):
+        out["intent"] = "food_comparison"
+        text = query.lower()
+        for alias in sorted(NUTRIENT_ALIASES, key=len, reverse=True):
+            text = re.sub(rf"(?<![a-z0-9]){re.escape(alias)}(?:s|es)?(?![a-z0-9])", " ", text)
+        phrases = [p.strip() for p in re.split(r"\s*(?:,|\band\b|\bor\b|\bvs\b|\bversus\b)\s*", text) if p.strip()]
+        stop = STOPWORDS | {"protein", "foods", "food", "nutritionally"}
+        phrases = [" ".join(w for w in _norm(phrase).split() if w not in stop and not w.isdigit()) for phrase in phrases]
+        phrases = [p for p in phrases if p]
+        if len(phrases) < 2:
+            out["notes"].append("Name at least two foods to compare.")
+            return out
+        foods = []
+        for phrase in phrases[:5]:
+            total, matches = self.find_foods(phrase.split(), 5)
+            if not matches:
+                out["notes"].append(f"No food in the graph matches '{phrase}'.")
+                continue
+            # Prefer USDA core records, then the closest named match.
+            selected = matches[0]
+            foods.append({**selected, "query_term": phrase, "match_count": total})
+            if total > 1:
+                out["notes"].append(f"'{phrase}' matches multiple USDA foods; using '{selected['name']}'.")
+        out["entities"]["foods"] = foods
+        if len(foods) < 2:
+            return self._finish(out)
+        keys = nutrient_keys or ["calories", "protein", "carbohydrates", "fat", "fiber"]
+        rows = self.food_nutrients([f["fdc_id"] for f in foods], keys, include_zero=True)
+        order = {f["fdc_id"]: i for i, f in enumerate(foods)}
+        rows.sort(key=lambda r: (order[r["fdc_id"]], r["nutrient_key"]))
+        out["results"] = [{**r, "relationship": "CONTAINS"} for r in rows]
+        out["entities"]["nutrients"] = keys
+        if not rows:
+            out["notes"].append("No shared nutrient values are recorded for these foods.")
+        out["notes"].append("USDA nutrient values are reported per 100 g; missing values are unavailable, not zero.")
+        return self._finish(out)
 
     # ---- intent handlers ----
     def _resolve_foods(self, out, tokens, max_foods):
@@ -364,9 +430,49 @@ class GraphRetriever:
 
     def _nutrient_foods(self, out, nutrient_keys, limit):
         out["intent"] = "nutrient_foods"
+        query_text = _norm(out["query"])
+        recommend = bool(re.search(r"\b(good sources?|rich|useful sources?|recommend|suggest|everyday)\b", query_text))
+        specialized_requested = bool(re.search(r"\b(powder|isolate|supplement|dried|extract|formula|concentrate)\b", query_text))
+        specialty_pattern = re.compile(r"\b(powder|isolate|supplement|dried|extract|formula|concentrate|seasoning|spice|baking|candy|infant|baby food|protein bar)\b", re.I)
+        low_keys = {
+            key for alias, key in NUTRIENT_ALIASES.items()
+            if re.search(rf"\blow\s+(?:in\s+)?{re.escape(alias)}\b", query_text)
+        }
+        combined = len(nutrient_keys) > 1 and bool(re.search(r"\b(both|and)\b", query_text))
+        if combined:
+            ranked = {key: self.nutrient_foods(key, 50000, ascending=key in low_keys) for key in nutrient_keys}
+            by_food = {key: {r["fdc_id"]: r for r in rows} for key, rows in ranked.items()}
+            common_ids = set.intersection(*(set(rows) for rows in by_food.values())) if by_food else set()
+            # Favor balanced records across requested nutrients rather than adding unlike units.
+            maxima = {key: max((r["amount"] for r in values.values()), default=0) for key, values in by_food.items()}
+            scores = {food_id: sum(
+                (1 - by_food[key][food_id]["amount"] / maxima[key]) if key in low_keys and maxima[key]
+                else (by_food[key][food_id]["amount"] / maxima[key] if maxima[key] else 0)
+                for key in nutrient_keys
+            ) for food_id in common_ids}
+            food_names = {food_id: by_food[nutrient_keys[0]][food_id]["food"] for food_id in common_ids}
+            ordered_ids = sorted(common_ids, key=lambda food_id: (-scores[food_id], food_names.get(food_id, "")))
+            if recommend and not specialized_requested:
+                ordinary_ids = [food_id for food_id in ordered_ids if not specialty_pattern.search(food_names.get(food_id, ""))]
+                ordered_ids = (ordinary_ids + [food_id for food_id in ordered_ids if food_id not in ordinary_ids])[:limit]
+            else:
+                ordered_ids = ordered_ids[:limit]
+            out["results"] = [
+                {**by_food[key][food_id], "relationship": "CONTAINS"}
+                for food_id in ordered_ids for key in nutrient_keys
+            ]
+            out["notes"].append("Foods must have recorded positive values for every requested nutrient; results are ordered by balanced normalized values, not by adding unlike units.")
+            return self._finish(out)
         for key in nutrient_keys:
-            out["results"].extend({**r, "relationship": "CONTAINS"} for r in self.nutrient_foods(key, limit))
-        out["notes"].append("Ranked by amount per 100 g across all USDA foods in the graph.")
+            candidates = self.nutrient_foods(key, 50000 if recommend else limit, ascending=key in low_keys)
+            if recommend and not specialized_requested:
+                ordinary = [r for r in candidates if not specialty_pattern.search(r.get("food", ""))]
+                candidates = (ordinary + [r for r in candidates if r not in ordinary])[:limit]
+            out["results"].extend({**r, "relationship": "CONTAINS"} for r in candidates[:limit])
+        if recommend and not specialized_requested:
+            out["notes"].append("Recommendations prioritize common food forms, then nutrient amount; specialized and concentrated products are retained when fewer common records are available.")
+        else:
+            out["notes"].append("Ranked by nutrient amount per 100 g across USDA foods in the graph.")
         return self._finish(out)
 
     def _food_category(self, out, tokens, max_foods):

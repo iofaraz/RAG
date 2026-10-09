@@ -93,6 +93,21 @@ def test_2_nutrient_to_foods(r):
     assert res["intent"] == "nutrient_foods" and len(amts) == 10 and amts == sorted(amts, reverse=True)
 
 
+def test_calcium_discovery_is_ranked_by_exact_graph_values(r):
+    res = r.retrieve("Which foods contain the most calcium?")
+    amounts = [row["amount"] for row in res["results"]]
+    assert res["intent"] == "nutrient_foods"
+    assert all(row["nutrient_key"] == "calcium" for row in res["results"])
+    assert amounts == sorted(amounts, reverse=True)
+
+
+def test_requested_top_five_controls_result_count(r):
+    res = r.retrieve("Show the top five foods for iron")
+    assert res["intent"] == "nutrient_foods"
+    assert len(res["results"]) == 5
+    assert [row["amount"] for row in res["results"]] == sorted((row["amount"] for row in res["results"]), reverse=True)
+
+
 def test_3_food_to_category(r):
     res = r.retrieve("What category does salmon belong to?")
     assert res["intent"] == "food_category" and res["results"]
@@ -142,8 +157,33 @@ def test_ambiguous_food_is_low_confidence(r):
 def test_multiple_nutrients(r):
     res = r.retrieve("foods high in iron and zinc")
     assert {x["nutrient_key"] for x in res["results"]} == {"iron", "zinc"}
+    foods_by_nutrient = {
+        key: {x["fdc_id"] for x in res["results"] if x["nutrient_key"] == key}
+        for key in ("iron", "zinc")
+    }
+    assert foods_by_nutrient["iron"] == foods_by_nutrient["zinc"]
 
 
 def test_alias_resolution(r):
     assert r.retrieve("foods rich in vitamin B-12")["entities"]["nutrients"] == ["vitamin_b12"]
     assert r.retrieve("foods high in saturated fat")["entities"]["nutrients"] == ["saturated_fat"]  # not plain "fat"
+
+
+@pytest.mark.parametrize("query", [
+    "Compare chicken and lentils for protein",
+    "Which contains more calcium, milk or yogurt?",
+    "Compare eggs, tofu, and lentils for protein",
+])
+def test_comparison_resolves_each_named_food_and_returns_exact_values(r, query):
+    res = r.retrieve(query)
+    assert res["intent"] == "food_comparison"
+    assert len(res["entities"]["foods"]) >= 2
+    assert res["results"]
+    assert all(row["fdc_id"] in {f["fdc_id"] for f in res["entities"]["foods"]} for row in res["results"])
+    assert all(row["basis"] == "per 100 g" for row in res["results"])
+
+
+def test_general_explanation_is_not_fabricated_from_food_measurements(r):
+    res = r.retrieve("What is dietary fiber?")
+    assert res["intent"] == "general_explanation"
+    assert res["results"] == []

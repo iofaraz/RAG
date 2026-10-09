@@ -53,7 +53,7 @@ export default function ChatInterface() {
   return (
     <main id="main-content" className="mx-auto w-full max-w-5xl flex-1 px-4 pb-14 pt-8 sm:px-7 sm:pb-20 sm:pt-12 lg:px-10">
       {status === "idle" && <EmptyState />}
-      {status !== "idle" && <h1 className="sr-only">NutriVault nutrition assistant</h1>}
+      {status !== "idle" && <h1 className="sr-only">Nutrix nutrition assistant</h1>}
 
       {showConversation && (
         <div className="space-y-8">

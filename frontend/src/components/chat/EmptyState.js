@@ -15,7 +15,7 @@ export default function EmptyState() {
           Make sense of what&apos;s on your plate.
         </h1>
         <p className="mt-4 max-w-xl text-base leading-7 text-[#52685c] sm:text-lg sm:leading-8">
-          Ask about foods and nutrients. NutriVault brings together an AI explanation and the nutrition records retrieved for your question.
+          Ask about foods and nutrients. Nutrix brings together an AI explanation and the nutrition records retrieved for your question.
         </p>
         <div className="mt-7 flex flex-wrap gap-x-5 gap-y-2 text-xs font-medium text-brand sm:text-sm">
           <span className="inline-flex items-center gap-2"><span className="size-1.5 rounded-full bg-accent" />Grounded in retrieved data</span>

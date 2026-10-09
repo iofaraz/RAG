@@ -43,9 +43,9 @@ class FakeRetriever(GraphRetriever):
     def food_nutrients(self, fdc_ids, nutrient_keys=None, include_zero=False):
         return self._amount_rows(self.df[self.df.fdc_id.isin(fdc_ids)], nutrient_keys, include_zero)
 
-    def nutrient_foods(self, key, limit):
-        rows = self._amount_rows(self.df, [key], False)
-        rows.sort(key=lambda r: (-r["amount"], r["food"]))
+    def nutrient_foods(self, key, limit, ascending=False):
+        rows = self._amount_rows(self.df, [key], True)
+        rows.sort(key=lambda r: ((r["amount"] if ascending else -r["amount"]), r["food"]))
         return rows[:limit]
 
     def food_categories(self, fdc_ids):

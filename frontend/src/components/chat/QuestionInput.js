@@ -48,7 +48,7 @@ export default function QuestionInput({ value, onChange, onSubmit, disabled }) {
             </>
           ) : (
             <>
-              <span>Ask NutriVault</span>
+              <span>Ask Nutrix</span>
               <svg viewBox="0 0 20 20" fill="none" className="size-4" aria-hidden="true">
                 <path d="M4 10h11m-4-4 4 4-4 4" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
