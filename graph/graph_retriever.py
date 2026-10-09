@@ -165,20 +165,54 @@ ORDER BY g.name, n.sort_order
 
 # Multi-hop: Goal <-SUPPORTS- Nutrient <-CONTAINS- Food, top foods PER nutrient
 # (amounts of different nutrients are not comparable, so ranking is within a nutrient).
+
 Q_GOAL_FOODS = """
 MATCH (n:Nutrient)-[s:SUPPORTS]->(g:Goal)
 WHERE g.key IN $goal_keys
 MATCH (f:Food)-[r:CONTAINS]->(n)
 WHERE r.amount > 0
-WITH g, n, s, f, r ORDER BY r.amount DESC
-WITH g, n, s, collect({fdc_id: f.fdc_id, food: f.name, amount: r.amount, unit: r.unit}) AS top
+  AND NOT any(word IN [
+    'baking powder',
+    'rennin tablets',
+    'protein isolate',
+    'supplement',
+    'fortified powder',
+    'drink mix',
+    'cottonseed meal',
+    'dried whey',
+    'babyfood',
+    'infant formula',
+    'candy',
+    'candies',
+    'snack bar',
+    'chocolate bar',
+    'spearmint, dried',
+    'seeds, sisymbrium'
+  ] WHERE toLower(f.name) CONTAINS word)
+WITH g, n, s, f, r,
+     CASE
+       WHEN toLower(f.name) CONTAINS 'dried' THEN 1
+       WHEN toLower(f.name) CONTAINS 'powder' THEN 1
+       WHEN toLower(f.name) CONTAINS 'oil' THEN 1
+       WHEN toLower(f.name) CONTAINS 'concentrate' THEN 1
+       ELSE 0
+     END AS penalty
+ORDER BY penalty ASC, r.amount DESC, f.name
+WITH g, n, s,
+     collect({
+       fdc_id: f.fdc_id,
+       food: f.name,
+       amount: r.amount,
+       unit: r.unit
+     }) AS top
 UNWIND top[0..$limit] AS t
-RETURN g.name AS goal, g.key AS goal_key, n.name AS nutrient, n.key AS nutrient_key,
-       t.food AS food, t.fdc_id AS fdc_id, t.amount AS amount, t.unit AS unit,
+RETURN g.name AS goal, g.key AS goal_key,
+       n.name AS nutrient, n.key AS nutrient_key,
+       t.food AS food, t.fdc_id AS fdc_id,
+       t.amount AS amount, t.unit AS unit,
        s.basis AS basis, s.source AS curation_source
 ORDER BY g.name, n.sort_order, t.amount DESC
 """
-
 
 # ------------------------------------------------------------------ retriever
 class GraphRetriever:

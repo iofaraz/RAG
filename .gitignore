@@ -54,6 +54,7 @@ env/
 
 # ===== Large / regenerable data =====
 data/chroma_db/
+data/raw/food.csv
 *.zip
 
 # ===== Frontend (Member 4) =====
