@@ -1,6 +1,7 @@
 # backend/app/main.py
 import asyncio
 import logging
+import os
 import sys
 from pathlib import Path
 
@@ -20,13 +21,23 @@ GRAPH_REQUEST_TIMEOUT_SECONDS = 5
 
 app = FastAPI(title="Nutrition RAG Backend")
 
-# --- CORS: lets Member 4's Next.js talk to you ---
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[
+cors_origins_env = os.getenv("CORS_ORIGINS")
+cors_origins = (
+    [
+        origin.strip().rstrip("/")
+        for origin in cors_origins_env.split(",")
+        if origin.strip()
+    ]
+    if cors_origins_env is not None
+    else [
         "http://localhost:3000",
         "http://127.0.0.1:3000",
-    ],
+    ]
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -91,16 +102,16 @@ async def query(body: QueryRequest):
             "Graph retrieval exceeded its %s-second deadline",
             GRAPH_REQUEST_TIMEOUT_SECONDS,
         )
-        graph = []
+        graph = {}
         warnings.append(
             f"Knowledge graph retrieval timed out after "
             f"{GRAPH_REQUEST_TIMEOUT_SECONDS} seconds; answer uses vector retrieval only."
         )
-    except Exception as exc:
+    except Exception:
         logger.exception("Graph retriever failed")
-        graph = []
+        graph = {}
         warnings.append(
-            f"Knowledge graph unavailable: {exc}; answer uses vector retrieval only."
+            "Knowledge graph unavailable; answer uses vector retrieval only."
         )
 
     print("API: query completed", flush=True)

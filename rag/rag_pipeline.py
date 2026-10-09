@@ -1,5 +1,6 @@
 import asyncio
 import logging
+import re
 
 from .retriever import retrieve_foods
 from .llm_client import generate_answer
@@ -7,6 +8,95 @@ from graph.graph_retriever import retrieve_from_graph
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
+NUMBER_PATTERN = re.compile(r"(?<!\w)\d+(?:\.\d+)?(?!\w)")
+RANGE_PATTERN = re.compile(r"\b\d+(?:\.\d+)?\s*[–-]\s*\d+(?:\.\d+)?\b")
+UNSUPPORTED_BASIS_PATTERN = re.compile(
+    r"\b(?:typical serving|per (?:the )?(?:listed )?serving|portion shown|whole foods?)\b",
+    flags=re.IGNORECASE,
+)
+
+
+def _has_unsupported_numbers(answer, context):
+    context_normalized = context.casefold()
+    if any(
+        phrase.casefold() not in context_normalized
+        for phrase in UNSUPPORTED_BASIS_PATTERN.findall(answer)
+    ):
+        return True
+
+    if any(match.group(0).casefold() not in context_normalized for match in RANGE_PATTERN.finditer(answer)):
+        return True
+
+    context_tokens = set(re.findall(r"[a-z0-9]+", context_normalized))
+    for line in answer.splitlines():
+        if not line.lstrip().startswith("|"):
+            continue
+        cells = [cell.strip().strip("*").strip() for cell in line.strip().strip("|").split("|")]
+        if not cells or cells[0].casefold().startswith("food ("):
+            continue
+        food_tokens = re.findall(r"[a-z0-9]+", cells[0].casefold())
+        if food_tokens and any(token not in context_tokens for token in food_tokens):
+            return True
+
+    context_numbers = NUMBER_PATTERN.findall(context)
+    context_values = [float(number) for number in context_numbers]
+    exact_numbers = set(context_numbers)
+
+    for number in NUMBER_PATTERN.findall(answer):
+        if number in exact_numbers:
+            continue
+
+        precision = len(number.partition(".")[2])
+        value = float(number)
+        if not any(round(context_value, precision) == value for context_value in context_values):
+            return True
+
+    return False
+
+
+def _retrieved_facts_summary(results, graph_result):
+    facts = []
+    seen = set()
+
+    def add_fact(food, value, unit, nutrient, basis=None):
+        if food is None or value is None:
+            return
+        key = (str(food).strip().casefold(), str(value), str(unit).casefold(), str(nutrient).casefold())
+        if key in seen:
+            return
+        seen.add(key)
+        measurement = " ".join(part for part in (str(value), unit, nutrient) if part)
+        if basis:
+            measurement = f"{measurement} ({basis})"
+        facts.append(f"{food}: {measurement}")
+
+    for item in graph_result.get("results", []):
+        add_fact(
+            item.get("food"),
+            item.get("amount"),
+            item.get("unit"),
+            item.get("nutrient"),
+            item.get("basis"),
+        )
+
+    for item in results:
+        nutrient = item.get("nutrient")
+        document = item.get("document", "")
+        unit_match = re.search(
+            rf"^\s*{re.escape(str(nutrient))}\s*:\s*[-+]?\d*\.?\d+\s*(\S+)",
+            document,
+            flags=re.IGNORECASE | re.MULTILINE,
+        ) if nutrient else None
+        add_fact(
+            item.get("food"),
+            item.get("value"),
+            unit_match.group(1) if unit_match else None,
+            nutrient,
+        )
+
+    if not facts:
+        return "The retrieved records do not provide enough detail to answer this question."
+    return "The retrieved records report: " + "; ".join(facts) + "."
 
 
 def build_context(results):
@@ -68,6 +158,8 @@ async def answer_question(question):
         Rules:
         - Do not invent nutrition values.
         - Do not use nutrition facts that are not present in the context.
+        - State only food and nutrient facts directly supported by a retrieved record.
+        - Do not add general nutrition knowledge or combine values from different foods.
         - If the available data is insufficient, clearly say so.
         - Keep the answer concise and easy to understand.
         - Mention relevant food names and nutrition values when appropriate.
@@ -83,6 +175,9 @@ async def answer_question(question):
     print("RAG: calling Groq", flush=True)
     logger.info("Groq request started")
     answer = await generate_answer(prompt)
+    if _has_unsupported_numbers(answer, context):
+        logger.warning("LLM answer included values outside retrieved context; using retrieved facts")
+        answer = _retrieved_facts_summary(results, graph_result)
     print("RAG: Groq returned", flush=True)
     logger.info("Groq request completed")
 
@@ -96,7 +191,8 @@ async def answer_question(question):
             "food_type": None,
             "nutrition": {
                 result["nutrient"]: result["value"]
-            }
+            },
+            "document": result["document"],
         }
         for result in results
     ],

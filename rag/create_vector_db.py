@@ -1,14 +1,17 @@
+import os
 from pathlib import Path
 from sentence_transformers import SentenceTransformer
 import chromadb
 
 # Paths
-PROJECT_ROOT = Path(
-    r"D:\University Projects\3rd Semester\Software Engineering\RAG"
-)
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 DOCUMENTS_DIR = PROJECT_ROOT / "data" / "rag_documents"
-DB_DIR = PROJECT_ROOT / "data" / "chroma_db"
+DB_DIR = Path(
+    os.getenv("CHROMA_DB_PATH", str(PROJECT_ROOT / "data" / "chroma_db"))
+).expanduser()
+if not DB_DIR.is_absolute():
+    DB_DIR = PROJECT_ROOT / DB_DIR
 
 # Load embedding model
 print("Loading embedding model...")
